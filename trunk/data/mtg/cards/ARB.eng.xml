@@ -1,0 +1,1034 @@
+<cards name="Alara Reborn">
+  <item>
+    <id>ARB0001</id>
+    <name>Ardent Plea</name>
+    <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0002</id>
+    <name>Aven Mimeomancer</name>
+    <text>Flying
+At the beginning of your upkeep, you may put a feather counter on target creature. If you do, that creature is 3/1 and has flying for as long as it has a feather counter on it.</text>
+    <flavorText>"If the skies are our only refuge, I will see all of us take wing."</flavorText>
+  </item>
+  <item>
+    <id>ARB0003</id>
+    <name>Ethercaste Knight</name>
+    <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+    <flavorText>"We coat ourselves in steel every day. What is etherium but the next logical step?"</flavorText>
+  </item>
+  <item>
+    <id>ARB0004</id>
+    <name>Ethersworn Shieldmage</name>
+    <text>Flash
+When Ethersworn Shieldmage enters the battlefield, prevent all damage that would be dealt to artifact creatures this turn.</text>
+    <flavorText>"See, children of metal? Already your bodies are rejecting harm. Continue on our path, and perfection will be yours."</flavorText>
+  </item>
+  <item>
+    <id>ARB0005</id>
+    <name>Fieldmist Borderpost</name>
+    <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Fieldmist Borderpost's mana cost.
+Fieldmist Borderpost enters the battlefield tapped.
+{T}: Add {W} or {U} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0006</id>
+    <name>Filigree Angel</name>
+    <text>Flying
+When Filigree Angel enters the battlefield, you gain 3 life for each artifact you control.</text>
+    <flavorText>"I craved enlightenment, and Crucius's etherium opened my eyes. I would share my sight with you, but first you must believe."</flavorText>
+  </item>
+  <item>
+    <id>ARB0007</id>
+    <name>Glassdust Hulk</name>
+    <text>Whenever another artifact enters the battlefield under your control, Glassdust Hulk gets +1/+1 until end of turn and is unblockable this turn.
+Cycling {WU} ({WU}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0008</id>
+    <name>Meddling Mage</name>
+    <text>As Meddling Mage enters the battlefield, name a nonland card.
+The named card can't be cast.</text>
+    <flavorText>"This violent wasteland is an indictment of its people. These cowards lack the will to oppose disorder."</flavorText>
+  </item>
+  <item>
+    <id>ARB0009</id>
+    <name>Offering to Asha</name>
+    <text>Counter target spell unless its controller pays {4}. You gain 4 life.</text>
+    <flavorText>"His body belongs to Bant now. His soul? I honestly don't know. I expect it belongs to the angels."
+—Rafiq of the Many</flavorText>
+  </item>
+  <item>
+    <id>ARB0010</id>
+    <name>Sanctum Plowbeast</name>
+    <text>Defender
+Plainscycling {2}, islandcycling {2} ({2}, Discard this card: Search your library for a Plains or Island card, reveal it, and put it into your hand. Then shuffle your library.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0011</id>
+    <name>Shield of the Righteous</name>
+    <text>Equipped creature gets +0/+2 and has vigilance.
+Whenever equipped creature blocks a creature, that creature doesn't untap during its controller's next untap step.
+Equip {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0012</id>
+    <name>Sovereigns of Lost Alara</name>
+    <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone, you may search your library for an Aura card that could enchant that creature, put it onto the battlefield attached to that creature, then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0013</id>
+    <name>Stormcaller's Boon</name>
+    <text>Sacrifice Stormcaller's Boon: Creatures you control gain flying until end of turn.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0014</id>
+    <name>Talon Trooper</name>
+    <text>Flying</text>
+    <flavorText>"The volcanic winds make a maze of the skies of Jund. If we mean to invade, we must first learn their invisible paths."</flavorText>
+  </item>
+  <item>
+    <id>ARB0015</id>
+    <name>Unbender Tine</name>
+    <text>{T}: Untap another target permanent.</text>
+    <flavorText>Creations made in madness may contain great power. The path to that power is as labyrinthine as the creator's mind.</flavorText>
+  </item>
+  <item>
+    <id>ARB0016</id>
+    <name>Wall of Denial</name>
+    <text>Defender, flying, shroud</text>
+    <flavorText>It provides what every discerning mage requires—time to think.</flavorText>
+  </item>
+  <item>
+    <id>ARB0017</id>
+    <name>Architects of Will</name>
+    <text>When Architects of Will enters the battlefield, look at the top three cards of target player's library, then put them back in any order.
+Cycling {UB} ({UB}, Discard this card: Draw a card.)</text>
+    <flavorText>This secret society of mages manipulates the beliefs and opinions of others.</flavorText>
+  </item>
+  <item>
+    <id>ARB0018</id>
+    <name>Brainbite</name>
+    <text>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.
+Draw a card.</text>
+    <flavorText>An Esper mage will leave a hole in your memory with surgical precision. A Grixis mage sees no reason to be so kind.</flavorText>
+  </item>
+  <item>
+    <id>ARB0019</id>
+    <name>Deny Reality</name>
+    <text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Return target permanent to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0020</id>
+    <name>Etherium Abomination</name>
+    <text>Unearth {1}{U}{B} ({1}{U}{B}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+    <flavorText>It was given life by the etherium of a hundred slain Esperites.</flavorText>
+  </item>
+  <item>
+    <id>ARB0021</id>
+    <name>Illusory Demon</name>
+    <text>Flying
+When you cast a spell, sacrifice Illusory Demon.</text>
+    <flavorText>In the Maelstrom, a trick of the light can feast on human flesh.</flavorText>
+  </item>
+  <item>
+    <id>ARB0022</id>
+    <name>Jhessian Zombies</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Islandcycling {2}, swampcycling {2} ({2}, Discard this card: Search your library for an Island or Swamp card, reveal it, and put it into your hand. Then shuffle your library.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0023</id>
+    <name>Kathari Remnant</name>
+    <text>Flying
+{B}: Regenerate Kathari Remnant.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0024</id>
+    <name>Lich Lord of Unx</name>
+    <text>{U}{B}, {T}: Put a 1/1 blue and black Zombie Wizard creature token onto the battlefield.
+{U}{U}{B}{B}: Target player loses X life and puts the top X cards of his or her library into his or her graveyard, where X is the number of Zombies you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0025</id>
+    <name>Mask of Riddles</name>
+    <text>Equipped creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)
+Whenever equipped creature deals combat damage to a player, you may draw a card.
+Equip {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0026</id>
+    <name>Mind Funeral</name>
+    <text>Target opponent reveals cards from the top of his or her library until four land cards are revealed. That player puts all cards revealed this way into his or her graveyard.</text>
+    <flavorText>"The soul is only as eternal as I say it is."
+—Sharuum the Hegemon</flavorText>
+  </item>
+  <item>
+    <id>ARB0027</id>
+    <name>Mistvein Borderpost</name>
+    <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Mistvein Borderpost's mana cost.
+Mistvein Borderpost enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0028</id>
+    <name>Nemesis of Reason</name>
+    <text>Whenever Nemesis of Reason attacks, defending player puts the top ten cards of his or her library into his or her graveyard.</text>
+    <flavorText>Words describing it fail. Pages relating it shrivel. Tales recounting it end.</flavorText>
+  </item>
+  <item>
+    <id>ARB0029</id>
+    <name>Soul Manipulation</name>
+    <text>Choose one or both — Counter target creature spell; and/or return target creature card from your graveyard to your hand.</text>
+    <flavorText>"Birth and death are both reversible."
+—Nicol Bolas</flavorText>
+  </item>
+  <item>
+    <id>ARB0030</id>
+    <name>Soulquake</name>
+    <text>Return all creatures on the battlefield and all creature cards in graveyards to their owners' hands.</text>
+    <flavorText>The Maelstrom sent a wave of raw mana through the battlefield, carrying off the fighting and fallen alike.</flavorText>
+  </item>
+  <item>
+    <id>ARB0031</id>
+    <name>Time Sieve</name>
+    <text>{T}, Sacrifice five artifacts: Take an extra turn after this one.</text>
+    <flavorText>"I pray that I am never considered useless or old."
+—Sharuum the Hegemon</flavorText>
+  </item>
+  <item>
+    <id>ARB0032</id>
+    <name>Vedalken Ghoul</name>
+    <text>Whenever Vedalken Ghoul becomes blocked, defending player loses 4 life.</text>
+    <flavorText>For four nights following Ennor's death and the reclaiming of his etherium, its recipients were found slain, the etherium ripped from their bodies.</flavorText>
+  </item>
+  <item>
+    <id>ARB0033</id>
+    <name>Anathemancer</name>
+    <text>When Anathemancer enters the battlefield, it deals damage to target player equal to the number of nonbasic lands that player controls.
+Unearth {5}{B}{R} ({5}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0034</id>
+    <name>Bituminous Blast</name>
+    <text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Bituminous Blast deals 4 damage to target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0035</id>
+    <name>Breath of Malfegor</name>
+    <text>Breath of Malfegor deals 5 damage to each opponent.</text>
+    <flavorText>The blood of the demons quickened as their master rose over the battlefield. The blood of the angels also quickened: here was the chance to finally end the war started millennia ago.</flavorText>
+  </item>
+  <item>
+    <id>ARB0036</id>
+    <name>Deathbringer Thoctar</name>
+    <text>Whenever another creature is put into a graveyard from the battlefield, you may put a +1/+1 counter on Deathbringer Thoctar.
+Remove a +1/+1 counter from Deathbringer Thoctar: Deathbringer Thoctar deals 1 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0037</id>
+    <name>Defiler of Souls</name>
+    <text>Flying
+At the beginning of each player's upkeep, that player sacrifices a monocolored creature.</text>
+    <flavorText>"Stray not into sin, lest you face the doorman of an insatiable tomb."
+—Prayer of Asha</flavorText>
+  </item>
+  <item>
+    <id>ARB0038</id>
+    <name>Demonic Dread</name>
+    <text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Target creature can't block this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0039</id>
+    <name>Demonspine Whip</name>
+    <text>{X}: Equipped creature gets +X/+0 until end of turn.
+Equip {1}</text>
+    <flavorText>Using a spine to break a slave's back appeals to the Grixis sense of irony.</flavorText>
+  </item>
+  <item>
+    <id>ARB0040</id>
+    <name>Igneous Pouncer</name>
+    <text>Haste
+Swampcycling {2}, mountaincycling {2} ({2}, Discard this card: Search your library for a Swamp or Mountain card, reveal it, and put it into your hand. Then shuffle your library.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0041</id>
+    <name>Kathari Bomber</name>
+    <text>Flying
+When Kathari Bomber deals combat damage to a player, put two 1/1 red Goblin creature tokens onto the battlefield and sacrifice Kathari Bomber.
+Unearth {3}{B}{R} ({3}{B}{R}: Return this card from your graveyard to the battlefield. It gains haste. Exile it at the beginning of the next end step or if it would leave the battlefield. Unearth only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0042</id>
+    <name>Lightning Reaver</name>
+    <text>Haste; fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Lightning Reaver deals combat damage to a player, put a charge counter on it.
+At the beginning of your end step, Lightning Reaver deals damage equal to the number of charge counters on it to each opponent.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0043</id>
+    <name>Monstrous Carabid</name>
+    <text>Monstrous Carabid attacks each turn if able.
+Cycling {BR} ({BR}, Discard this card: Draw a card.)</text>
+    <flavorText>What happens when a plane of predators collides with four planes of prey?</flavorText>
+  </item>
+  <item>
+    <id>ARB0044</id>
+    <name>Sanity Gnawers</name>
+    <text>When Sanity Gnawers enters the battlefield, target player discards a card at random.</text>
+    <flavorText>The last thought to go through their victim's mind is the one they tear out through the scalp.</flavorText>
+  </item>
+  <item>
+    <id>ARB0045</id>
+    <name>Singe-Mind Ogre</name>
+    <text>When Singe-Mind Ogre enters the battlefield, target player reveals a card at random from his or her hand, then loses life equal to that card's converted mana cost.</text>
+    <flavorText>Even the balmgivers of Bant couldn't heal the incurables, but sharing their torment helped.</flavorText>
+  </item>
+  <item>
+    <id>ARB0046</id>
+    <name>Terminate</name>
+    <text>Destroy target creature. It can't be regenerated.</text>
+    <flavorText>"I've seen death before. My mother succumbing to illness, my comrades bleeding on the battlefield . . . But I'd never seen anything as dreadful as that."
+—Taani, berserker of Etlan</flavorText>
+  </item>
+  <item>
+    <id>ARB0047</id>
+    <name>Thought Hemorrhage</name>
+    <text>Name a nonland card. Target player reveals his or her hand. Thought Hemorrhage deals 3 damage to that player for each card with that name revealed this way. Search that player's graveyard, hand, and library for all cards with that name and exile them. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0048</id>
+    <name>Veinfire Borderpost</name>
+    <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Veinfire Borderpost's mana cost.
+Veinfire Borderpost enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0049</id>
+    <name>Blitz Hellion</name>
+    <text>Trample, haste
+At the beginning of the end step, Blitz Hellion's owner shuffles it into his or her library.</text>
+    <flavorText>Alarans commemorated its appearances with new holidays bearing names like the Great Cataclysm and the Fall of Ilson Gate.</flavorText>
+  </item>
+  <item>
+    <id>ARB0050</id>
+    <name>Bloodbraid Elf</name>
+    <text>Haste
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0051</id>
+    <name>Colossal Might</name>
+    <text>Target creature gets +4/+2 and gains trample until end of turn.</text>
+    <flavorText>"Never corner a barbarian. You become the path of least resistance."
+—Sarkhan Vol</flavorText>
+  </item>
+  <item>
+    <id>ARB0052</id>
+    <name>Deadshot Minotaur</name>
+    <text>When Deadshot Minotaur enters the battlefield, it deals 3 damage to target creature with flying.
+Cycling {RG} ({RG}, Discard this card: Draw a card.)</text>
+    <flavorText>"May the earth rise up to meet you."</flavorText>
+  </item>
+  <item>
+    <id>ARB0053</id>
+    <name>Dragon Broodmother</name>
+    <text>Flying
+At the beginning of each upkeep, put a 1/1 red and green Dragon creature token with flying and devour 2 onto the battlefield. (As the token enters the battlefield, you may sacrifice any number of creatures. It enters the battlefield with twice that many +1/+1 counters on it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0054</id>
+    <name>Firewild Borderpost</name>
+    <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Firewild Borderpost's mana cost.
+Firewild Borderpost enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0055</id>
+    <name>Godtracker of Jund</name>
+    <text>Whenever a creature with power 5 or greater enters the battlefield under your control, you may put a +1/+1 counter on Godtracker of Jund.</text>
+    <flavorText>"The behemoths are content to graze like cattle, while dragons rage and conquer. I know which example I'll follow."</flavorText>
+  </item>
+  <item>
+    <id>ARB0056</id>
+    <name>Gorger Wurm</name>
+    <text>Devour 1 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with that many +1/+1 counters on it.)</text>
+    <flavorText>In war-torn Alara, sometimes a wurm's gullet is the safest place to be.</flavorText>
+  </item>
+  <item>
+    <id>ARB0057</id>
+    <name>Mage Slayer</name>
+    <text>Whenever equipped creature attacks, it deals damage equal to its power to defending player.
+Equip {3}</text>
+    <flavorText>"When the wielder is strong enough, any sword will do."
+—Kresh the Bloodbraided</flavorText>
+  </item>
+  <item>
+    <id>ARB0058</id>
+    <name>Predatory Advantage</name>
+    <text>At the beginning of each opponent's end step, if that player didn't cast a creature spell this turn, put a 2/2 green Lizard creature token onto the battlefield.</text>
+    <flavorText>Those who forget their past are doomed to be eaten by it.</flavorText>
+  </item>
+  <item>
+    <id>ARB0059</id>
+    <name>Rhox Brute</name>
+    <text>
+    </text>
+    <flavorText>"In this new world, I have seen the once-devout rhoxes take up arms with the savages of Jund. I would be offended, but I see the wisdom in their choice."
+—Gernan, Dawnray archer</flavorText>
+  </item>
+  <item>
+    <id>ARB0060</id>
+    <name>Spellbreaker Behemoth</name>
+    <text>Spellbreaker Behemoth can't be countered.
+Creature spells you control with power 5 or greater can't be countered.</text>
+    <flavorText>"Some think its immunity to countermagic evolved because of the constant mage attacks on Naya. I think it just ate a bunch of wizards."
+—Broka, drumhunter</flavorText>
+  </item>
+  <item>
+    <id>ARB0061</id>
+    <name>Valley Rannet</name>
+    <text>Mountaincycling {2}, forestcycling {2} ({2}, Discard this card: Search your library for a Mountain or Forest card, reveal it, and put it into your hand. Then shuffle your library.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0062</id>
+    <name>Vengeful Rebirth</name>
+    <text>Return target card from your graveyard to your hand. If you return a nonland card to your hand this way, Vengeful Rebirth deals damage equal to that card's converted mana cost to target creature or player.
+Exile Vengeful Rebirth.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0063</id>
+    <name>Violent Outburst</name>
+    <text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+Creatures you control get +1/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0064</id>
+    <name>Vithian Renegades</name>
+    <text>When Vithian Renegades enters the battlefield, destroy target artifact.</text>
+    <flavorText>"Here is the proof that what has been done may yet be undone. The hope we thought dead will be gloriously reborn."</flavorText>
+  </item>
+  <item>
+    <id>ARB0065</id>
+    <name>Behemoth Sledge</name>
+    <text>Equipped creature gets +2/+2 and has lifelink and trample.
+Equip {3}</text>
+    <flavorText>Those who worship the great gargantuans could hardly be expected to fight with a subtle weapon.</flavorText>
+  </item>
+  <item>
+    <id>ARB0066</id>
+    <name>Captured Sunlight</name>
+    <text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)
+You gain 4 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0067</id>
+    <name>Dauntless Escort</name>
+    <text>Sacrifice Dauntless Escort: Creatures you control are indestructible this turn.</text>
+    <flavorText>Elspeth's squires do not seek advancement. For them, no knightly glory could surpass the glory of serving their champion.</flavorText>
+  </item>
+  <item>
+    <id>ARB0068</id>
+    <name>Enlisted Wurm</name>
+    <text>Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+    <flavorText>A match for any army—even its own.</flavorText>
+  </item>
+  <item>
+    <id>ARB0069</id>
+    <name>Grizzled Leotau</name>
+    <text>
+    </text>
+    <flavorText>"There is no glory in a death of age, as even the leotau know. As winter steals into their coats, they seek the deadliest lands, that they may die as they lived."
+—Aarsil the Blessed</flavorText>
+  </item>
+  <item>
+    <id>ARB0070</id>
+    <name>Knight of New Alara</name>
+    <text>Each other multicolored creature you control gets +1/+1 for each of its colors.</text>
+    <flavorText>"I embrace all of Alara, Grixis as much as Bant. Let my former home call me traitor. I do this not for accolades, but because it is right."</flavorText>
+  </item>
+  <item>
+    <id>ARB0071</id>
+    <name>Knotvine Paladin</name>
+    <text>Whenever Knotvine Paladin attacks, it gets +1/+1 until end of turn for each untapped creature you control.</text>
+    <flavorText>"He is part of a new breed of guardian, one who embraces the best of both his world and ours."
+—Mayael the Anima</flavorText>
+  </item>
+  <item>
+    <id>ARB0072</id>
+    <name>Leonin Armorguard</name>
+    <text>When Leonin Armorguard enters the battlefield, creatures you control get +1/+1 until end of turn.</text>
+    <flavorText>Well suited are the nacatl to a coat of steel and forge-tempered claws.</flavorText>
+  </item>
+  <item>
+    <id>ARB0073</id>
+    <name>Mycoid Shepherd</name>
+    <text>Whenever Mycoid Shepherd or another creature you control with power 5 or greater is put into a graveyard from the battlefield, you may gain 5 life.</text>
+    <flavorText>As pure mana flooded across the shards, it brought a sense of unity even to Jund's vicious food chain.</flavorText>
+  </item>
+  <item>
+    <id>ARB0074</id>
+    <name>Pale Recluse</name>
+    <text>Reach (This can block creatures with flying.)
+Forestcycling {2}, plainscycling {2} ({2}, Discard this card: Search your library for a Forest or Plains card, reveal it, and put it into your hand. Then shuffle your library.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0075</id>
+    <name>Qasali Pridemage</name>
+    <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+{1}, Sacrifice Qasali Pridemage: Destroy target artifact or enchantment.</text>
+    <flavorText>An elder in one pride, of the Sigiled caste in another.</flavorText>
+  </item>
+  <item>
+    <id>ARB0076</id>
+    <name>Reborn Hope</name>
+    <text>Return target multicolored card from your graveyard to your hand.</text>
+    <flavorText>"In darkness is kindled the fiercest hope."
+—Hadran, sunseeder of Naya</flavorText>
+  </item>
+  <item>
+    <id>ARB0077</id>
+    <name>Sigil Captain</name>
+    <text>Whenever a creature enters the battlefield under your control, if that creature is 1/1, put two +1/+1 counters on it.</text>
+    <flavorText>"One sigil awarded for valor, the other awarded for surviving Hellkite's Pass."</flavorText>
+  </item>
+  <item>
+    <id>ARB0078</id>
+    <name>Sigil of the Nayan Gods</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+1 for each creature you control.
+Cycling {GW} ({GW}, Discard this card: Draw a card.)</text>
+    <flavorText>As the elves learned the hymns of angels, the knights learned the roars of titans.</flavorText>
+  </item>
+  <item>
+    <id>ARB0079</id>
+    <name>Sigiled Behemoth</name>
+    <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)</text>
+    <flavorText>"Do not mistake a behemoth's assistance for subservience."
+—Mayael the Anima</flavorText>
+  </item>
+  <item>
+    <id>ARB0080</id>
+    <name>Wildfield Borderpost</name>
+    <text>You may pay {1} and return a basic land you control to its owner's hand rather than pay Wildfield Borderpost's mana cost.
+Wildfield Borderpost enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0081</id>
+    <name>Identity Crisis</name>
+    <text>Exile all cards from target player's hand and graveyard.</text>
+    <flavorText>"To join our ranks, one must be pure. To be pure, one must be blessed by etherium. To be blessed, one must forget oneself."
+—Ethersworn prayer</flavorText>
+  </item>
+  <item>
+    <id>ARB0082</id>
+    <name>Necromancer's Covenant</name>
+    <text>When Necromancer's Covenant enters the battlefield, exile all creature cards from target player's graveyard, then put a 2/2 black Zombie creature token onto the battlefield for each card exiled this way.
+Zombies you control have lifelink.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0083</id>
+    <name>Tainted Sigil</name>
+    <text>{T}, Sacrifice Tainted Sigil: You gain life equal to the total life lost by all players this turn. (Damage causes loss of life.)</text>
+    <flavorText>Sigils corrupted by outsiders do not lose their power, only their purity.</flavorText>
+  </item>
+  <item>
+    <id>ARB0084</id>
+    <name>Vectis Dominator</name>
+    <text>{T}: Tap target creature unless its controller pays 2 life.</text>
+    <flavorText>"I appreciate the artistry of the telemins, but the creatures of the other worlds provide a much more dramatic performance."
+—Ennor, mentalist</flavorText>
+  </item>
+  <item>
+    <id>ARB0085</id>
+    <name>Zealous Persecution</name>
+    <text>Until end of turn, creatures you control get +1/+1 and creatures your opponents control get -1/-1.</text>
+    <flavorText>"Jharic returned from Grixis changed, a haunted look in her eyes. She destroyed them with an unholy glee that made me shudder."
+—Knight-Captain Wyhorn</flavorText>
+  </item>
+  <item>
+    <id>ARB0086</id>
+    <name>Cloven Casting</name>
+    <text>Whenever you cast a multicolored instant or sorcery spell, you may pay {1}. If you do, copy that spell. You may choose new targets for the copy.</text>
+    <flavorText>"Let us flee to the deep jungle. Our city is no longer safe—and I suspect neither is the fallback retreat."</flavorText>
+  </item>
+  <item>
+    <id>ARB0087</id>
+    <name>Double Negative</name>
+    <text>Counter up to two target spells.</text>
+    <flavorText>They feared each other for their differences but were absolutely terrified at their similarities.</flavorText>
+  </item>
+  <item>
+    <id>ARB0088</id>
+    <name>Magefire Wings</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+0 and has flying.</text>
+    <flavorText>Giving a thing wings does not take away its fear of flight—or its fear of fire, for that matter.</flavorText>
+  </item>
+  <item>
+    <id>ARB0089</id>
+    <name>Skyclaw Thrash</name>
+    <text>Whenever Skyclaw Thrash attacks, flip a coin. If you win the flip, Skyclaw Thrash gets +1/+1 and gains flying until end of turn.</text>
+    <flavorText>Their newfound wings shined elegantly and functioned partially.</flavorText>
+  </item>
+  <item>
+    <id>ARB0090</id>
+    <name>Spellbound Dragon</name>
+    <text>Flying
+Whenever Spellbound Dragon attacks, draw a card, then discard a card. Spellbound Dragon gets +X/+0 until end of turn, where X is the discarded card's converted mana cost.</text>
+    <flavorText>A king in Jund, a serf in Esper.</flavorText>
+  </item>
+  <item>
+    <id>ARB0091</id>
+    <name>Lord of Extinction</name>
+    <text>Lord of Extinction's power and toughness are each equal to the number of cards in all graveyards.</text>
+    <flavorText>The forlorn cries of the dead combine to make its laugh.</flavorText>
+  </item>
+  <item>
+    <id>ARB0092</id>
+    <name>Maelstrom Pulse</name>
+    <text>Destroy target nonland permanent and all other permanents with the same name as that permanent.</text>
+    <flavorText>During the collision of the shards, entire ways of life disappeared without a trace.</flavorText>
+  </item>
+  <item>
+    <id>ARB0093</id>
+    <name>Marrow Chomper</name>
+    <text>Devour 2 (As this enters the battlefield, you may sacrifice any number of creatures. This creature enters the battlefield with twice that many +1/+1 counters on it.)
+When Marrow Chomper enters the battlefield, you gain 2 life for each creature it devoured.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0094</id>
+    <name>Morbid Bloom</name>
+    <text>Exile target creature card from a graveyard, then put X 1/1 green Saproling creature tokens onto the battlefield, where X is the exiled card's toughness.</text>
+    <flavorText>"From the damned I make my garden."
+—Jorshu of Clan Nel Toth</flavorText>
+  </item>
+  <item>
+    <id>ARB0095</id>
+    <name>Putrid Leech</name>
+    <text>Pay 2 life: Putrid Leech gets +2/+2 until end of turn. Activate this ability only once each turn.</text>
+    <flavorText>It reacted to Naya's overabundant food supply by growing additional mouths.</flavorText>
+  </item>
+  <item>
+    <id>ARB0096</id>
+    <name>Cerodon Yearling</name>
+    <text>Vigilance, haste</text>
+    <flavorText>The unit of measurement used to chart a cerodon's growth is "persons consumed."</flavorText>
+  </item>
+  <item>
+    <id>ARB0097</id>
+    <name>Fight to the Death</name>
+    <text>Destroy all blocking creatures and all blocked creatures.</text>
+    <flavorText>When a battlefield falls silent, it's rarely due to a cease-fire.</flavorText>
+  </item>
+  <item>
+    <id>ARB0098</id>
+    <name>Glory of Warfare</name>
+    <text>As long as it's your turn, creatures you control get +2/+0.
+As long as it's not your turn, creatures you control get +0/+2.</text>
+    <flavorText>"Their hopes dashed on our shields! Their victory slashed by our swords!"</flavorText>
+  </item>
+  <item>
+    <id>ARB0099</id>
+    <name>Intimidation Bolt</name>
+    <text>Intimidation Bolt deals 3 damage to target creature. Other creatures can't attack this turn.</text>
+    <flavorText>For hours afterward, all they could see was the grisly silhouette of their master, screaming.</flavorText>
+  </item>
+  <item>
+    <id>ARB0100</id>
+    <name>Stun Sniper</name>
+    <text>{1}, {T}: Stun Sniper deals 1 damage to target creature. Tap that creature.</text>
+    <flavorText>The tips of her bolts are blunt, but her aim is deadly sharp.</flavorText>
+  </item>
+  <item>
+    <id>ARB0101</id>
+    <name>Lorescale Coatl</name>
+    <text>Whenever you draw a card, you may put a +1/+1 counter on Lorescale Coatl.</text>
+    <flavorText>"The enlightenment I never found in etherium I have found traced in the coatl's scales."
+—Ranalus, vedalken heretic</flavorText>
+  </item>
+  <item>
+    <id>ARB0102</id>
+    <name>Nulltread Gargantuan</name>
+    <text>When Nulltread Gargantuan enters the battlefield, put a creature you control on top of its owner's library.</text>
+    <flavorText>It crushes all underfoot, yet leaves no trace of its passage—no trampled debris, no flattened souls, not even a hoofprint.</flavorText>
+  </item>
+  <item>
+    <id>ARB0103</id>
+    <name>Sages of the Anima</name>
+    <text>If you would draw a card, instead reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.</text>
+    <flavorText>Godtrackers found new pantheons of beast-gods beyond Naya's borders.</flavorText>
+  </item>
+  <item>
+    <id>ARB0104</id>
+    <name>Vedalken Heretic</name>
+    <text>Whenever Vedalken Heretic deals damage to an opponent, you may draw a card.</text>
+    <flavorText>"Etherium clouded my eyes, clogged my ears, desensitized my skin. Now that I can feel, I can begin to learn."</flavorText>
+  </item>
+  <item>
+    <id>ARB0105</id>
+    <name>Winged Coatl</name>
+    <text>Flash
+Flying
+Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)</text>
+    <flavorText>The nacatl called this new species "vetli," their word for poison arrows.</flavorText>
+  </item>
+  <item>
+    <id>ARB0106</id>
+    <name>Enigma Sphinx</name>
+    <text>Flying
+When Enigma Sphinx is put into your graveyard from the battlefield, put it into your library third from the top.
+Cascade (When you cast this spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0107</id>
+    <name>Esper Sojourners</name>
+    <text>When you cycle Esper Sojourners or it's put into a graveyard from the battlefield, you may tap or untap target permanent.
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)</text>
+    <flavorText>The wilder the frontier, the greater the need for a controlling hand.</flavorText>
+  </item>
+  <item>
+    <id>ARB0108</id>
+    <name>Etherwrought Page</name>
+    <text>At the beginning of your upkeep, choose one — You gain 2 life; or look at the top card of your library, then you may put that card into your graveyard; or each opponent loses 1 life.</text>
+    <flavorText>An unbound page is a riddle, free of cover and of context, a favorite token of the hegemon.</flavorText>
+  </item>
+  <item>
+    <id>ARB0109</id>
+    <name>Sen Triplets</name>
+    <text>At the beginning of your upkeep, choose target opponent. This turn, that player can't cast spells or activate abilities and plays with his or her hand revealed. You may play cards from that player's hand this turn.</text>
+    <flavorText>They are the masters of your mind.</flavorText>
+  </item>
+  <item>
+    <id>ARB0110</id>
+    <name>Sphinx of the Steel Wind</name>
+    <text>Flying, first strike, vigilance, lifelink, protection from red and from green</text>
+    <flavorText>No one has properly answered her favorite riddle: "Why should I spare your life?"</flavorText>
+  </item>
+  <item>
+    <id>ARB0111</id>
+    <name>Drastic Revelation</name>
+    <text>Discard your hand. Draw seven cards, then discard three cards at random.</text>
+    <flavorText>Every disaster holds mystery, for lack of a sane witness.</flavorText>
+  </item>
+  <item>
+    <id>ARB0112</id>
+    <name>Grixis Sojourners</name>
+    <text>When you cycle Grixis Sojourners or it's put into a graveyard from the battlefield, you may exile target card from a graveyard.
+Cycling {2}{B} ({2}{B}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0113</id>
+    <name>Thraximundar</name>
+    <text>Haste
+Whenever Thraximundar attacks, defending player sacrifices a creature.
+Whenever a player sacrifices a creature, you may put a +1/+1 counter on Thraximundar.</text>
+    <flavorText>His name means "he who paints the earth red."</flavorText>
+  </item>
+  <item>
+    <id>ARB0114</id>
+    <name>Unscythe, Killer of Kings</name>
+    <text>Equipped creature gets +3/+3 and has first strike.
+Whenever a creature dealt damage by equipped creature this turn is put into a graveyard, you may exile that card. If you do, put a 2/2 black Zombie creature token onto the battlefield.
+Equip {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0115</id>
+    <name>Dragon Appeasement</name>
+    <text>Skip your draw step.
+Whenever you sacrifice a creature, you may draw a card.</text>
+    <flavorText>"Look there—they carry that one upon a sedan chair. It must be their leader. Wait . . . Oh! Perhaps not."
+—Kaeda, aven scout</flavorText>
+  </item>
+  <item>
+    <id>ARB0116</id>
+    <name>Jund Sojourners</name>
+    <text>When you cycle Jund Sojourners or it's put into a graveyard from the battlefield, you may have it deal 1 damage to target creature or player.
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0117</id>
+    <name>Karrthus, Tyrant of Jund</name>
+    <text>Flying, haste
+When Karrthus, Tyrant of Jund enters the battlefield, gain control of all Dragons, then untap all Dragons.
+Other Dragon creatures you control have haste.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0118</id>
+    <name>Lavalanche</name>
+    <text>Lavalanche deals X damage to target player and each creature he or she controls.</text>
+    <flavorText>Alara's burning blood cannot be contained by mere earth and stone.</flavorText>
+  </item>
+  <item>
+    <id>ARB0119</id>
+    <name>Madrush Cyclops</name>
+    <text>Creatures you control have haste.</text>
+    <flavorText>Death comes in the blink of an eye.</flavorText>
+  </item>
+  <item>
+    <id>ARB0120</id>
+    <name>Gloryscale Viashino</name>
+    <text>Whenever you cast a multicolored spell, Gloryscale Viashino gets +3/+3 until end of turn.</text>
+    <flavorText>"This is a new world and a new war. We need warriors who know chaos and how to combat it."
+—Lisha of the Azure</flavorText>
+  </item>
+  <item>
+    <id>ARB0121</id>
+    <name>Mayael's Aria</name>
+    <text>At the beginning of your upkeep, put a +1/+1 counter on each creature you control if you control a creature with power 5 or greater. Then you gain 10 life if you control a creature with power 10 or greater. Then you win the game if you control a creature with power 20 or greater.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0122</id>
+    <name>Naya Sojourners</name>
+    <text>When you cycle Naya Sojourners or it's put into a graveyard from the battlefield, you may put a +1/+1 counter on target creature.
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)</text>
+    <flavorText>The elves had entered a land like an open grave—an act of fortitude or folly?</flavorText>
+  </item>
+  <item>
+    <id>ARB0123</id>
+    <name>Retaliator Griffin</name>
+    <text>Flying
+Whenever a source an opponent controls deals damage to you, you may put that many +1/+1 counters on Retaliator Griffin.</text>
+    <flavorText>For every eye, an eye. For every tooth, a tooth. Griffins are nothing if not fair.</flavorText>
+  </item>
+  <item>
+    <id>ARB0124</id>
+    <name>Uril, the Miststalker</name>
+    <text>Uril, the Miststalker can't be the target of spells or abilities your opponents control.
+Uril gets +2/+2 for each Aura attached to it.</text>
+    <flavorText>It strides through the whitecover, mists in which even gargantuans can hide.</flavorText>
+  </item>
+  <item>
+    <id>ARB0125</id>
+    <name>Bant Sojourners</name>
+    <text>When you cycle Bant Sojourners or it's put into a graveyard from the battlefield, you may put a 1/1 white Soldier creature token onto the battlefield.
+Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)</text>
+    <flavorText>"We must spread Bant's light before we are shadowed over."</flavorText>
+  </item>
+  <item>
+    <id>ARB0126</id>
+    <name>Finest Hour</name>
+    <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone, if it's the first combat phase of the turn, untap that creature. After this phase, there is an additional combat phase.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0127</id>
+    <name>Flurry of Wings</name>
+    <text>Put X 1/1 white Bird Soldier creature tokens with flying onto the battlefield, where X is the number of attacking creatures.</text>
+    <flavorText>"We are born soldiers. The call to battle is a homecoming."</flavorText>
+  </item>
+  <item>
+    <id>ARB0128</id>
+    <name>Jenara, Asura of War</name>
+    <text>Flying
+{1}{W}: Put a +1/+1 counter on Jenara, Asura of War.</text>
+    <flavorText>Wounded soldiers looked up, grateful for her appearance. But she passed over them, her eyes firmly on their foe.</flavorText>
+  </item>
+  <item>
+    <id>ARB0129</id>
+    <name>Wargate</name>
+    <text>Search your library for a permanent card with converted mana cost X or less, put it onto the battlefield, then shuffle your library.</text>
+    <flavorText>Bant mages still call to the heavens for aid, but angels are not the only ones who answer.</flavorText>
+  </item>
+  <item>
+    <id>ARB0130</id>
+    <name>Maelstrom Nexus</name>
+    <text>The first spell you cast each turn has cascade. (When you cast your first spell, exile cards from the top of your library until you exile a nonland card that costs less. You may cast it without paying its mana cost. Put the exiled cards on the bottom in a random order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0131</id>
+    <name>Arsenal Thresher</name>
+    <text>As Arsenal Thresher enters the battlefield, you may reveal any number of other artifact cards from your hand. Arsenal Thresher enters the battlefield with a +1/+1 counter on it for each card revealed this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0132</id>
+    <name>Esper Stormblade</name>
+    <text>As long as you control another multicolored permanent, Esper Stormblade gets +1/+1 and has flying.</text>
+    <flavorText>Stormcallers came to appreciate the novelty of Jund's volcanic updrafts.</flavorText>
+  </item>
+  <item>
+    <id>ARB0133</id>
+    <name>Thopter Foundry</name>
+    <text>{1}, Sacrifice a nontoken artifact: Put a 1/1 blue Thopter artifact creature token with flying onto the battlefield. You gain 1 life.</text>
+    <flavorText>"Etherium is limited. Innovation is not."
+—Tezzeret</flavorText>
+  </item>
+  <item>
+    <id>ARB0134</id>
+    <name>Grixis Grimblade</name>
+    <text>As long as you control another multicolored permanent, Grixis Grimblade gets +1/+1 and has deathtouch. (Creatures dealt damage by this creature are destroyed. You can divide its combat damage among any of the creatures blocking or blocked by it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0135</id>
+    <name>Sewn-Eye Drake</name>
+    <text>Flying, haste</text>
+    <flavorText>"Too wary to charge, too prudent to serve. Not anymore."
+—Sedris, the Traitor King</flavorText>
+  </item>
+  <item>
+    <id>ARB0136</id>
+    <name>Slave of Bolas</name>
+    <text>Gain control of target creature. Untap that creature. It gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
+    <flavorText>Nicol Bolas doesn't distinguish between servants and victims.</flavorText>
+  </item>
+  <item>
+    <id>ARB0137</id>
+    <name>Giant Ambush Beetle</name>
+    <text>Haste
+When Giant Ambush Beetle enters the battlefield, you may have target creature block it this turn if able.</text>
+    <flavorText>It waits with absolute stillness. One might think it a statue if it weren't occasionally seen chewing on its victims.</flavorText>
+  </item>
+  <item>
+    <id>ARB0138</id>
+    <name>Jund Hackblade</name>
+    <text>As long as you control another multicolored permanent, Jund Hackblade gets +1/+1 and has haste.</text>
+    <flavorText>The knights were halfway through their precombat rites before they realized the foul brute meant to start without them.</flavorText>
+  </item>
+  <item>
+    <id>ARB0139</id>
+    <name>Sangrite Backlash</name>
+    <text>Enchant creature
+Enchanted creature gets +3/-3.</text>
+    <flavorText>"Sangrite is the dragon's beating heart. Little wonder, then, that so many fools' chests burst trying to contain it."
+—Sarkhan Vol</flavorText>
+  </item>
+  <item>
+    <id>ARB0140</id>
+    <name>Marisi's Twinclaws</name>
+    <text>Double strike</text>
+    <flavorText>"Looks like we're completely outnumbered."
+"Lucky for us. I thought we'd be bored."</flavorText>
+  </item>
+  <item>
+    <id>ARB0141</id>
+    <name>Naya Hushblade</name>
+    <text>As long as you control another multicolored permanent, Naya Hushblade gets +1/+1 and has shroud. (It can't be the target of spells or abilities.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0142</id>
+    <name>Trace of Abundance</name>
+    <text>Enchant land
+Enchanted land has shroud. (It can't be the target of spells or abilities.)
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0143</id>
+    <name>Bant Sureblade</name>
+    <text>As long as you control another multicolored permanent, Bant Sureblade gets +1/+1 and has first strike.</text>
+    <flavorText>Soldiers who fought through Grixis learned to hit first, recite the prayer of Asha later.</flavorText>
+  </item>
+  <item>
+    <id>ARB0144</id>
+    <name>Crystallization</name>
+    <text>Enchant creature
+Enchanted creature can't attack or block.
+When enchanted creature becomes the target of a spell or ability, exile that creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARB0145</id>
+    <name>Messenger Falcons</name>
+    <text>Flying
+When Messenger Falcons enters the battlefield, draw a card.</text>
+    <flavorText>So many aven had died scouting the distant fronts that the knight-captains recruited Nayan falcons as couriers.</flavorText>
+  </item>
+</cards>

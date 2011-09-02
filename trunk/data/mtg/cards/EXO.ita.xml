@@ -1,0 +1,1067 @@
+<cards name="Esodo">
+  <item>
+    <id>EXO0001</id>
+    <name>Dissolvere</name>
+    <text>Riscatto {3}
+Distruggi un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0002</id>
+    <name>Benedizione Angelica</name>
+    <text>Una creatura bersaglio prende +3/+3 e ha volare fino alla fine del turno. (Non può essere bloccata tranne che da creature con volare o raggiungere.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0003</id>
+    <name>Cataclisma</name>
+    <text>Ogni giocatore sceglie, fra i permanenti che controlla, un artefatto, una creatura, un incantesimo e un terra, e poi sacrifica il resto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0004</id>
+    <name>Paladino in Carica</name>
+    <text>Ogniqualvolta il Paladino in Carica attacca, prende +0/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0005</id>
+    <name>Convalescenza</name>
+    <text>All'inizio del tuo mantenimento, se hai 10 punti vita o meno, guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0006</id>
+    <name>Drago Eminente</name>
+    <text>Volare
+Il Drago Eminente non può attaccare a meno che tu sacrifichi una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0007</id>
+    <name>Terreno Favorevole</name>
+    <text>Ogni creatura che controlli può bloccare una creatura addizionale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0008</id>
+    <name>Custode della Luce</name>
+    <text>{W},{T}: Guadagni 3 punti vita. Attiva quest'abilità solo se hai meno punti vita di un avversario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0009</id>
+    <name>Canto di Kor</name>
+    <text>Tutto il danno che verrebbe inflitto in questo turno a una creatura bersaglio che controlli da una fonte a tua scelta viene invece inflitto a un'altra creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0010</id>
+    <name>Risorse Limitate</name>
+    <text>Quando le Risorse Limitate entrano nel campo di battaglia, ogni giocatore sceglie cinque terre che controlla e sacrifica le rimanenti.
+Se ci sono dieci o più terre sul campo di battaglia, i giocatori non possono giocare terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0011</id>
+    <name>Giuramento dei Vassalli</name>
+    <text>All'inizio del mantenimento di ogni giocatore, se quel giocatore controlla meno terre di un qualsiasi suo avversario, il giocatore può passare in rassegna il suo grimorio per una carta terra base, mettere quella carta nel campo di battaglia, poi rimescolare il suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0012</id>
+    <name>Paladino en-Vec</name>
+    <text>Attacco improvviso, protezione dal nero e dal rosso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso. Non può essere bloccata, bersagliata, non le può essere inflitto danno, né può essere incantata da nulla di nero o rosso.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0013</id>
+    <name>Pace della Mente</name>
+    <text>{W}, Scarta una carta: Guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0014</id>
+    <name>Fuga di Pegasi</name>
+    <text>Riscatto-Sacrifica una terra.
+Metti sul campo di battaglia una pedina creatura Pegaso 1/1 bianca con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0015</id>
+    <name>Penitenza</name>
+    <text>Metti una carta dalla tua mano in cima al tuo grimorio: La prossima volta che una fonte rossa o nera a tua scelta ti infliggerebbe danno in questo turno, previeni quel danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0016</id>
+    <name>Mietere le Ricompense</name>
+    <text>Riscatto-Sacrifica una terra.
+Guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0017</id>
+    <name>Ricognizione</name>
+    <text>{0}: Rimuovi dal combattimento una creatura attaccante bersaglio che controlli e STAPpala. Previeni tutto il danno da combattimento che verrebbe inflitto a/da quella creatura in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0018</id>
+    <name>Catene</name>
+    <text>Incanta creatura
+La creatura incantata non STAPpa durante lo STAP del proprio controllore.
+{W}: Il proprietario riprende in mano le Catene.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0019</id>
+    <name>Compagno di Scudo</name>
+    <text>Sacrifica il Compagno di Scudo: La creatura bersaglio prende +0/+4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0020</id>
+    <name>Visionario Soltari</name>
+    <text>Ombra
+Ogniqualvolta il Visionario Soltari infligge danno ad un giocatore, distruggi un incantesimo bersaglio controllato da quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0021</id>
+    <name>Guardiano dell'Anima</name>
+    <text>Ogniqualvolta un'altra creatura entra nel campo di battaglia, guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0022</id>
+    <name>Truppe in Difesa</name>
+    <text>Cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0023</id>
+    <name>Cacciatore di Tesori</name>
+    <text>Quando il Cacciatore di Tesori entra nel campo di battaglia, puoi riprendere in mano una carta artefatto bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0024</id>
+    <name>Muro di Reti</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Alla fine del combattimento, esilia tutte le creature che sono state bloccate dal Muro di Reti in questo combattimento.
+Quando il Muro di Reti lascia il campo di battaglia, rimetti sul campo di battaglia sotto il controllo dei loro proprietari tutte le creature esiliate dal Muro di Reti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0025</id>
+    <name>Falco Welkin</name>
+    <text>Volare
+Quando il Falco Welkin viene messo in un qualsiasi cimitero dal campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta di nome Falco Welkin, rivelare quella carta, aggiungerla alla tua mano, poi rimescolare il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0026</id>
+    <name>Zeloti en-Dal</name>
+    <text>All'inizio del tuo mantenimento, se tutti i permanenti non terra che controlli sono bianchi, guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0027</id>
+    <name>Marea dell'Etere</name>
+    <text>Come costo addizionale per lanciare la Marea dell'Etere, scarta X carte creatura.
+Fai riprendere X creature bersaglio in mano al loro proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0028</id>
+    <name>Astuzia</name>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+La creatura incantata prende +3/+3.
+Quando la creatura incantata attacca o blocca, sacrifica l'Astuzia all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0029</id>
+    <name>Curiosità</name>
+    <text>Incanta creatura
+Ogniqualvolta la creatura incantata infligge danno a un avversario, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0030</id>
+    <name>Licide Dominante</name>
+    <text>{1}{U}{U}, {T}: Il Licide Dominante perde questa abilità e diventa un incantesimo Aura con incanta creatura. Assegnalo alla creatura bersaglio. Puoi pagare {U} per porre fine a questo effetto.
+Tu controlli la creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0031</id>
+    <name>Effemerone</name>
+    <text>Volare
+Scarta una carta: Il proprietario riprende in mano l'Effemerone.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0032</id>
+    <name>Equilibrio</name>
+    <text>Ogniqualvolta lanci una magia creatura, puoi pagare {1}. Se lo fai, il proprietario riprende in mano una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0033</id>
+    <name>Ertai, Mago Provetto</name>
+    <text>{2}{U}{U}, {T}: Neutralizza una magia bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0034</id>
+    <name>Svanire nel Nulla</name>
+    <text>Per ogni creatura, il suo controllore sacrifica un permanente a meno che paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0035</id>
+    <name>Proibire</name>
+    <text>Riscatto-Scarta due carte.
+Neutralizza una magia bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0036</id>
+    <name>Custode della Mente</name>
+    <text>{U},{T}: Pesca una carta. Attiva questa abilità solo se un avversario ha in mano almeno 2 carte più di te.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0037</id>
+    <name>Balena Assassina</name>
+    <text>{U}: La Balena Assassina guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0038</id>
+    <name>Breccia nel Mana</name>
+    <text>Ogniqualvolta un giocatore lancia una magia, quel giocatore fa riprendere in mano una terra che controlla al proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0039</id>
+    <name>Tritone Saccheggiatore</name>
+    <text>{T}: Pesca una carta, poi scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0040</id>
+    <name>Volontà sulla Materia</name>
+    <text>Scarta una carta: Puoi TAPpare o STAPpare un artefatto, una creatura o una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0041</id>
+    <name>Mirozel</name>
+    <text>Volare
+Quando Mirozel è bersaglio di una magia o abilità, il proprietario riprende in mano il Mirozel.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0042</id>
+    <name>Giuramento degli Studiosi</name>
+    <text>All'inizio del mantenimento di ogni giocatore, se quel giocatore ha in mano meno carte di un qualsiasi suo avversario, quel giocatore può scartare la sua mano e pescare tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0043</id>
+    <name>Veste di Specchi</name>
+    <text>Incanta creatura
+La creatura incantata ha velo. (Non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0044</id>
+    <name>Mistico di Morteacque</name>
+    <text>{1}{U}: Guarda la prima carta del grimorio di un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0045</id>
+    <name>Banco di Piranha</name>
+    <text>All'inizio del tuo mantenimento, sacrifica il Banco di Piranha a meno che tu paghi {1}{U}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0046</id>
+    <name>Scrivano</name>
+    <text>Quando lo Scrivano entra nel campo di battaglia, puoi riprendere in mano un carta istantaneo bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0047</id>
+    <name>Vagabondi Thalakos</name>
+    <text>Scarta una carta: I Vagabondi Thalakos guadagnano ombra fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0048</id>
+    <name>Esploratore Thalakos</name>
+    <text>Ombra
+Scarta una carta: Il proprietario riprende in mano l'Esploratore Thalakos.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0049</id>
+    <name>Furto di Sogni</name>
+    <text>Pesca una carta per ogni creatura TAPpata controllata da un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0050</id>
+    <name>Tesoro Ritrovato</name>
+    <text>{2}{U}{U}: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0051</id>
+    <name>Anima Ribelle</name>
+    <text>Volare
+{U}: Metti l'Anima Ribelle il cima al grimorio del proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0052</id>
+    <name>Rana Linguafrusta</name>
+    <text>{U}: La Rana Linguafrusta guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0053</id>
+    <name>Carnofago</name>
+    <text>All'inizio del tuo mantenimento, TAPpa il Carnofago a meno che tu paghi 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0054</id>
+    <name>Scassinatore Felino</name>
+    <text>{2}{B},{T}: Il giocatore bersaglio scarta una carta. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0055</id>
+    <name>Sfoltire i Deboli</name>
+    <text>Come costo addizionale per lanciare lo Sfoltire i Deboli, sacrifica una creatura.
+Aggiungi {B}{B}{B}{B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0056</id>
+    <name>Carne Maledetta</name>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+La creatura incantata prende -1/-1 e ha Paura. [Oracle 2002/10/01]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0057</id>
+    <name>Tagliagole Dauthi</name>
+    <text>Ombra
+{1}{B}, {T}: Distruggi la creatura bersaglio con ombra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0058</id>
+    <name>Sciacallo Dauthi</name>
+    <text>Ombra
+{B}{B}, Sacrifica lo Sciacallo Dauthi: Distruggi un creatura bersaglio che sta bloccando.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0059</id>
+    <name>Signore della Guerra Dauthi</name>
+    <text>Ombra
+La forza del Signore della Guerra Dauthi è pari al numero di creature con ombra sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0060</id>
+    <name>Duetto di Morte</name>
+    <text>Riprendi in mano due carte creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0061</id>
+    <name>Spettro Entropico</name>
+    <text>Volare
+Mentre lo Spettro Entropico entra nel campo di battaglia, scegli un avversario.
+Lo Spettro Entropico ha forza e costituzione ciascuna pari al numero di carte nella mano del giocatore scelto.
+Ogniqualvolta lo Spettro Entropico danneggia un giocatore, quel giocatore scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0062</id>
+    <name>Toccata e Fuga</name>
+    <text>Il giocatore bersaglio scarta tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0063</id>
+    <name>Grollub</name>
+    <text>Ogniqualvolta viene inflitto danno al Grollub, ogni avversario guadagna altrettanti punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0064</id>
+    <name>Odio</name>
+    <text>Come costo addizionale per lanciare l'Odio, paga X punti vita.
+La creatura bersaglio prende +X/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0065</id>
+    <name>Custode dei Morti</name>
+    <text>{B}, {T}: Scegli un avversario bersaglio che, mentre hai attivato questa abilità, aveva nel suo cimitero almeno due carte creatura in meno rispetto a quelle nel tuo cimitero. Distruggi una creatura non nera bersaglio che lui controlla.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0066</id>
+    <name>Vermi della Mente</name>
+    <text>Quando i Vermi della Mente entrano nel campo di battaglia, scarta un qualsiasi numero di carte creatura. Per ogni carta scartata in questo modo, metti due segnalini +1/+1 sui Vermi della Mente.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0067</id>
+    <name>Nausea</name>
+    <text>Tutte le creature prendono -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0068</id>
+    <name>Necrologia</name>
+    <text>Lancia la Necrologia solo durante la tua sottofase finale.
+Come costo addizionale per giocare la Necrologia, paga un qualsiasi ammontare di punti vita.
+Pesca un numero di carte pari ai punti vita pagati in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0069</id>
+    <name>Giuramento dei Ghoul</name>
+    <text>All'inizio del mantenimento di ogni giocatore, se nel cimitero di quel giocatore ci sono più carte creatura che nel cimitero di un qualsiasi suo avversario, il giocatore può riprendere in mano una carta creatura bersaglio a sua scelta dal proprio cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0070</id>
+    <name>Progenie dell'Abisso</name>
+    <text>Attacco improvviso
+All'inizio del tuo mantenimento, sacrifica la Progenie dell'Abisso a meno che tu paghi {B}{B}.
+Ogniqualvolta la Progenie dell'Abisso infligge danno a una creatura, esilia quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0071</id>
+    <name>Untore</name>
+    <text>{X}{X}{B}: Distruggi una creatura non nera bersaglio con costo di mana convertito pari a X.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0072</id>
+    <name>Incubo Ricorrente</name>
+    <text>Sacrifica una creatura, Il proprietario riprende in mano l'Incubo Ricorrente: Rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0073</id>
+    <name>Tattiche di Terrore</name>
+    <text>Le creature che controlli prendono +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0074</id>
+    <name>Massacro</name>
+    <text>Riscatto-Paga 4 punti vita
+Distruggi una creatura non nera bersaglio. Non può essere rigenerata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0075</id>
+    <name>Pungiglione Cannibale</name>
+    <text>Il Pungiglione Cannibale entra nel campo di battaglia con un segnalino +1/+1.
+Quando il Pungiglione Cannibale entra nel campo di battaglia, sposta su di esso tutti i segnalini +1/+1 da tutte le creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0076</id>
+    <name>Chirurgo Thrull</name>
+    <text>{1}{B}, Sacrifica il Chirurgo Thrull: Guarda la mano di un giocatore bersaglio e scegli una di quelle carte. Quel giocatore scarta quella carta. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0077</id>
+    <name>Segugi Vampiri</name>
+    <text>Scarta una carta creatura: I Segugi Vampiri prendono +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0078</id>
+    <name>Segrete di Volrath</name>
+    <text>Paga 5 punti vita: Distruggi le Segrete di Volrath. Qualsiasi giocatore può attivare questa abilità, ma solo durante il proprio turno.
+Scarta una carta: Il giocatore bersaglio mette una carta dalla sua mano in cima al suo grimorio. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0079</id>
+    <name>Anarchico</name>
+    <text>Quando l'Anarchico entra nel campo di battaglia, puoi riprendere in mano una carta stregoneria bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0080</id>
+    <name>Salamandra della Cenere</name>
+    <text>{R} : La Salamandra della Cenere prende +1/+0 fino alla fine del turno. Attiva questa abilità solo se la Salamandra della Cenere viene bloccata. [Oracle 1999/05/01]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0081</id>
+    <name>Sguardo Disorientante</name>
+    <text>Incanta creatura che controlli.
+{R}: La creatura incantata infligge 1 danno a una creatura bersaglio con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0082</id>
+    <name>Opportunità di Combattere</name>
+    <text>Per ogni creatura che sta bloccando, lancia una moneta. Se vinci il lancio, previeni tutto il danno da combattimento che verrebbe inflitto da quella creatura in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0083</id>
+    <name>Inondazione di Mutaroccia</name>
+    <text>Riscatto-Paga 3 punti vita, Scarta una carta a caso.
+Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0084</id>
+    <name>Prole della Fornace</name>
+    <text>{R}: La creatura bersaglio non può essere rigenerata in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0085</id>
+    <name>Custode della Fiamma</name>
+    <text>{R}, {T}: Scegli un avversario bersaglio che, mentre attivavi questa abilità, aveva più punti vita di te. Il Custode della Fiamma gli infligge 2 danni.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0086</id>
+    <name>Mago il-Vec</name>
+    <text>{T}, Scarta una carta a caso: Il Mago il-Vec infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0087</id>
+    <name>Furia Maniacale</name>
+    <text>Incanta creatura
+La creatura incantata prende +2/+2 e non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0088</id>
+    <name>Assassino Mogg</name>
+    <text>{T}: Tu e un avversario bersaglio scegliete ognuno una creatura bersaglio che l'altro controlla. Lancia una moneta. Se vinci il lancio, distruggi la creatura che hai scelto. Se perdi il lancio, distruggi la creatura che ha scelto il tuo avversario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0089</id>
+    <name>Segugio Mostruoso</name>
+    <text>Il Segugio Mostruoso non può attaccare a meno che tu controlli più terre del giocatore in difesa.
+Il Segugio Mostruoso non può bloccare a meno che tu controlli più terre del giocatore attaccante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0090</id>
+    <name>Giuramento dei Maghi</name>
+    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore può fare infliggere 1 danno dal Giuramento dei Maghi a un giocatore bersaglio a sua scelta che abbia più punti vita di lui e che sia un suo avversario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0091</id>
+    <name>Ogre Sciamano</name>
+    <text>{2}, Scarta una carta a caso: L'Ogre Sciamano infligge 2 danni alla creatura o al giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0092</id>
+    <name>Assalto</name>
+    <text>Ogniqualvolta lanci una magia creatura, TAPpa una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0093</id>
+    <name>Pandemonio</name>
+    <text>Ogniqualvolta una creatura entra nel campo di battaglia, il controllore di quella creatura può farle infliggere un danno pari alla sua forza a una creatura o a un giocatore bersaglio a sua scelta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0094</id>
+    <name>Parossismo</name>
+    <text>Incanta creatura
+All'inizio del mantenimento del controllore della creatura incantata, rivela la prima carta del grimorio di quel giocatore. Se quella carta è una carta terra, distruggi quella creatura. Altrimenti, essa prende +3/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0095</id>
+    <name>Prezzo del Progresso</name>
+    <text>Il Prezzo del Progresso infligge 2 danni ad ogni giocatore per ogni terra non base che esso controlla.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0096</id>
+    <name>Goblin Furioso</name>
+    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0097</id>
+    <name>Babbuini Famelici</name>
+    <text>Quando i Babbuini Famelici entrano nel campo di battaglia, distruggi una terra non base bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0098</id>
+    <name>Ogre Incosciente</name>
+    <text>Ogniqualvolta l'Ogre Incosciente attacca da solo, prende +3/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0099</id>
+    <name>Viverna dai Denti a Sciabola</name>
+    <text>Volare, attacco improvviso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0100</id>
+    <name>Salamandra Ustionante</name>
+    <text>Ogniqualvolta la Salamandra Ustionante attacca, puoi scegliere di farle infliggere 1 danno ad ogni creatura senza volare controllata dal giocatore in difesa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0101</id>
+    <name>Assalto Sismico</name>
+    <text>Scarta una carta terra: L'Assalto Sismico infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0102</id>
+    <name>Impulso Disgregante</name>
+    <text>Riscatto {3}
+Distruggi un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0103</id>
+    <name>Scarica Sonica</name>
+    <text>Come costo addizionale per lanciare la Scarica Sonica, scarta una carta a caso.
+La scarica Sonica infligge 4 danni a una creatura o ad un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0104</id>
+    <name>Trauma Magico</name>
+    <text>Ogniqualvolta un giocatore lancia una magia, il Trauma Magico infligge 2 danni a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0105</id>
+    <name>Druido Vendicatore</name>
+    <text>Ogniqualvolta il Druido Vendicatore infligge danno a un avversario, puoi rivelare le carte dalla cima del tuo grimorio fintanto che riveli una carta terra. Metti quella carta sul campo di battaglia e metti nel tuo cimitero tutte le altre carte rivelate in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0106</id>
+    <name>Lascito</name>
+    <text>Incanta creatura
+Quando la creatura incantata viene messa in un cimitero, pesca due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0107</id>
+    <name>Cartografo</name>
+    <text>Quando il Cartografo entra nel campo di battaglia, puoi riprendere in mano una terra bersaglio presente nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0108</id>
+    <name>Cinghiali Distruttori</name>
+    <text>Ogniqualvolta i Cinghiali Distruttori attaccano, il giocatore in difesa sceglie una creatura STAPpata che controlla. Quella creatura blocca i Cinghiali Distruttori in questo turno se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0109</id>
+    <name>Palizzata Elfica</name>
+    <text>Sacrifica una Foresta: La creatura bersaglio attaccante prende -3/-0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0110</id>
+    <name>Elfo Berserker</name>
+    <text>Ogniqualvolta l'Elfo Berserker viene bloccato, prende +1/+1 fino alla fine del turno per ogni creatura che lo blocca.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0111</id>
+    <name>Mandria di Leprilopi</name>
+    <text>Quando lanci una magia, fai riprendere la Mandria di Leprilopi in mano al proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0112</id>
+    <name>Custode delle Bestie</name>
+    <text>{G},{T}: Metti sul campo di battaglia una pedina creatura Bestia 2/2 verde. Attiva questa abilità solo se un avversario controlla più creature di te.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0113</id>
+    <name>Legame di Mana</name>
+    <text>All'inizio della tua sottofase finale, puoi rivelare la tua mano e mettere sul campo di battaglia tutte le carte terra che hai in mano. Se lo fai, scarta il resto della tua mano. [Oracle 2001/08/24]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0114</id>
+    <name>Mirri, Gatta Guerriera</name>
+    <text>Attacco improvviso, passa-foreste, cautela.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0115</id>
+    <name>Giuramento dei Druidi</name>
+    <text>All'inizio del mantenimento di ogni giocatore, se quel giocatore controlla meno creature di un qualsiasi altro suo avversario, il giocatore può rivelare le carte dalla cima del suo grimorio fino a che rivela una carta creatura. Il giocatore mette quella carta nel campo di battaglia e nel suo cimitero tutte le altre carte rivelate in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0116</id>
+    <name>Lucertola Corazzata</name>
+    <text>{2}{G}: La Lucertola Corazzata prende +3/+3 fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0117</id>
+    <name>Fame del Predatore</name>
+    <text>Incanta creatura
+Ogniqualvolta un avversario lancia una magia creatura, metti un segnalino +1/+1 sulla creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0118</id>
+    <name>Troll Pigmeo</name>
+    <text>Ogniqualvolta il Troll Pigmeo viene bloccato, prende +1/+1 fino alla fine del turno per ogni creatura che lo sta bloccando.
+{G}: Rigenera il Troll Pigmeo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0119</id>
+    <name>Ghiottoni Rabbiosi</name>
+    <text>Ogniqualvolta i Ghiottoni Rabbiosi vengono bloccati, prendono +1/+1 fino alla fine del turno per ogni creatura che li sta bloccando.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0120</id>
+    <name>Riciclare</name>
+    <text>Metti una carta bersaglio dal tuo cimitero in cima al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0121</id>
+    <name>Resuscitare</name>
+    <text>Fino alla fine del turno, le creature che tu controlli guadagnano "{1}: Rigenera questa creatura".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0122</id>
+    <name>Alligatore di Morteacque</name>
+    <text>Sacrifica una Foresta: Rigenera l'Alligatore di Morteacque.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0123</id>
+    <name>Elite di Cielsudario</name>
+    <text>L'Elite di Cielsudario prende +1/+2 fintanto che un avversario controlla una terra non base.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0124</id>
+    <name>Bestia da Guerra di Cielsudario</name>
+    <text>Travolgere
+Mentre la Bestia da Guerra di Cielsudario entra nel campo di battaglia, scegli un avversario.
+La forza e la costituzione della Bestia da Guerra di Cielsudario sono ciascuna pari al numero di terre non base controllate dall'avversario scelto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0125</id>
+    <name>Canzone della Serenità</name>
+    <text>Le creature incantate non possono attaccare né bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0126</id>
+    <name>Pungiglione Incubatrice</name>
+    <text>Il Pungiglione Incubatrice entra nel campo di battaglia con sei segnalini +1/+1.
+{2}, Rimuovi un segnalino +1/+1 dal Pungiglione Incubatrice: Metti un segnalino +1/+1 su una creatura bersaglio.
+{1}, Rimuovi un segnalino +1/+1 dal Pungiglione Incubatrice: Rigenera il Pungiglione Incubatrice.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0127</id>
+    <name>Pungiglione Esiliato</name>
+    <text>Il Pungiglione Esiliato entra nel campo di battaglia con due segnalini +1/+1.
+{2}, Rimuovi un segnalino +1/+1 dal Pungiglione Esiliato: Metti un segnalino +1/+1 su una creatura bersaglio.
+{2}, Rimuovi un segnalino +1/+1 da una creatura che controlli: Metti un segnalino +1/+1 sul Pungiglione Esiliato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0128</id>
+    <name>Pungiglione Tessitore</name>
+    <text>Il Pungiglione Tessitore entra nel campo di battaglia con tre segnalini +1/+1.
+{2}, Rimuovi un segnalino +1/+1 dal Pungiglione Tessitore: Metti un segnalino +1/+1 su una creatura bersaglio.
+{1}, Rimuovi un segnalino +1/+1 dal Pungiglione Tessitore: Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0129</id>
+    <name>Legge del più Forte</name>
+    <text>{G}, Scarta una carta creatura: Passa in rassegna il tuo grimorio per una carta creatura, mostra quella carta a tutti i giocatori e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0130</id>
+    <name>Elfi dei Boschi</name>
+    <text>Quando gli Elfi dei Boschi entrano nel campo di battaglia, passa in rassegna il tuo grimorio per una carta Foresta e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0131</id>
+    <name>Stemma Araldico</name>
+    <text>Ogni creatura prende +1/+1 per ogni altra creatura sul campo di battaglia che condivide almeno un tipo di creatura con essa. (Ad esempio, se sono sul campo di battaglia due Guerrieri Goblin e uno Sciamano Goblin, ognuno prende +2/+2.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0132</id>
+    <name>Portale Instabile</name>
+    <text>{1}, {T}: Il proprietario riprende in mano una creatura bersaglio a meno che il suo controllore paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0133</id>
+    <name>Sacca della Medicina</name>
+    <text>{1}, {T}, Scarta una carta: Rigenera una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0134</id>
+    <name>Cristallo della Memoria</name>
+    <text>I costi di riscatto sono ridotti di {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0135</id>
+    <name>Automa</name>
+    <text>L'Automa entra nel campo di battaglia con due segnalini +1/+1 su di esso.
+{1}, Scarta una carta: Metti un segnalino +1/+1 sull'Automa.
+Rimuovi due segnalini +1/+1 dall'Automa: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0136</id>
+    <name>Spilla dell'Annullamento</name>
+    <text>{2}, {T}, Scarta la tua mano: Neutralizza una magia non creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0137</id>
+    <name>Mutacielo</name>
+    <text>Sacrifica il Mutacielo: Le creature che controlli guadagnano volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0138</id>
+    <name>Libro delle Magie</name>
+    <text>Non hai un limite massimo di carte nella tua mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0139</id>
+    <name>Sfera della Resistenza</name>
+    <text>Le magie costano {1} in più per essere lanciate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0140</id>
+    <name>Squadrotottero</name>
+    <text>Volare
+Lo Squadrotottero entra nel campo di battaglia con tre segnalini +1/+1.
+{1}, Rimuovi un segnalino +1/+1 dallo Squadrotottero: Metti sul campo di battaglia una pedina creatura artefatto Tottero 1/1 incolore con volare. Attiva questa abilità solo quando potresti lanciare una stregoneria.
+{1}, Sacrifica un altro Tottero: Metti un segnalino +1/+1 sullo Squadrotottero. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0141</id>
+    <name>Licide Trasmutatore</name>
+    <text>{1}, {T}: Il Licide Trasmutatore perde questa abilità e diventa una carta incantesimo Aura con incanta creatura. Assegnalo a una creatura bersaglio. Puoi pagare {1} per porre fine a questo effetto.
+La creatura incantata prende +1/+1 ed è un artefatto in aggiunta ai suoi altri tipi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0142</id>
+    <name>Cavallo Meccanico</name>
+    <text>Il Cavallo Meccanico entra nel campo di battaglia con quattro segnalini +1/+1.
+Rimuovi un segnalino +1/+1 dal Cavallo Meccanico: Aggiungi {1} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0143</id>
+    <name>Città dei Traditori</name>
+    <text>Quando giochi un'altra terra, sacrifica la Città dei Traditori.
+{T}: Aggiungi {2} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

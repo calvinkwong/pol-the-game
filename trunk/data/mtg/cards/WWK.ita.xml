@@ -1,0 +1,1132 @@
+<cards name="Worldwake">
+  <item>
+    <id>WWK0001</id>
+    <name>Angelo del Monito</name>
+    <text>Volare
+Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi esiliare un permanente non terra bersaglio diverso dall'Angelo del Monito.
+Quando l'Angelo del Monito lascia il campo di battaglia, rimetti sul campo di battaglia tutte le carte esiliate da esso sotto il controllo dei rispettivi proprietari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0002</id>
+    <name>Falchi delle Vette</name>
+    <text>Multipotenziamento {1}{W} (Puoi pagare {1}{W} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Volare
+I Falchi delle Vette entrano nel campo di battaglia con un segnalino +1/+1 per ogni volta che sono stati potenziati.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0003</id>
+    <name>Arconte della Redenzione</name>
+    <text>Volare
+Ogniqualvolta l'Arconte della Redenzione o un'altra creatura con volare entra nel campo di battaglia sotto il tuo controllo, puoi guadagnare punti vita pari alla forza di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0004</id>
+    <name>Hurda da Battaglia</name>
+    <text>Attacco improvviso</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0005</id>
+    <name>Grifone Implume</name>
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, il Grifone Implume ha volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0006</id>
+    <name>Zendikon Guardiano</name>
+    <text>Incanta terra
+La terra incantata è una creatura Muro 2/6 bianca con difensore. È ancora una terra.
+Quando la terra incantata viene messa in un cimitero, falla tornare in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0007</id>
+    <name>Lama Franca di Hada</name>
+    <text>Ogniqualvolta la Lama Franca di Hada o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino +1/+1 sulla Lama Franca di Hada.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0008</id>
+    <name>Castigo di Iona</name>
+    <text>Esilia una creatura o un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0009</id>
+    <name>Unirsi alla Truppa</name>
+    <text>Metti sul campo di battaglia due pedine creatura Alleato Soldato 1/1 bianche.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0010</id>
+    <name>Apprendista di Velaliante</name>
+    <text>Fintanto che l'Apprendista di Velaliante è equipaggiato, prende +1/+1 e ha volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0011</id>
+    <name>Calcafuoco Kor</name>
+    <text>Protezione dal rosso
+Ogniqualvolta un giocatore lancia una magia rossa, puoi guadagnare 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0012</id>
+    <name>Custode della Luce di Emeria</name>
+    <text>Multipotenziamento {W} (Puoi pagare {W} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Volare
+Quando la Custode della Luce di Emeria entra nel campo di battaglia, guadagni 2 punti vita per ogni volta che è stata potenziata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0013</id>
+    <name>Leone d'Argilla</name>
+    <text>Il Leone d'Argilla prende +1/+2 fintanto che controlli una Foresta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0014</id>
+    <name>Ramingo delle Paludi</name>
+    <text>Passa-Paludi</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0015</id>
+    <name>Inno del Maresciallo</name>
+    <text>Multipotenziamento {1}{W} (Puoi pagare {1}{W} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Le creature che controlli prendono +1/+1.
+Quando l'Inno del Maresciallo entra nel campo di battaglia, rimetti sul campo di battaglia fino a X carte creatura bersaglio dal tuo cimitero, dove X è il numero di volte che l'Inno del Maresciallo è stato potenziato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0016</id>
+    <name>Capitano del Perimetro</name>
+    <text>Difensore
+Ogniqualvolta una creatura con difensore che controlli blocca, puoi guadagnare 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0017</id>
+    <name>Trappola di Rifrazione</name>
+    <text>Se un avversario ha lanciato una magia istantaneo o stregoneria rossa in questo turno, puoi pagare {W} invece di pagare il costo di mana della Trappola di Rifrazione.
+Previeni i prossimi 3 danni che una fonte a tua scelta infliggerebbe a te e/o ai permanenti che controlli in questo turno. Se i danni vengono prevenuti in questo modo, la Trappola di Rifrazione infligge altrettanti danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0018</id>
+    <name>Riposo per gli Esausti</name>
+    <text>Un giocatore bersaglio guadagna 4 punti vita.
+Terraferma - Se hai fatto entrare nel campo di battaglia una terra sotto il tuo controllo in questo turno, quel giocatore guadagna invece 8 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0019</id>
+    <name>Fantasma delle Rovine</name>
+    <text>{W}, {T}: Esilia una terra bersaglio che controlli, poi rimettila sul campo di battaglia sotto il tuo controllo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0020</id>
+    <name>Mistica Forgiapietra</name>
+    <text>Quando la Mistica Forgiapietra entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Equipaggiamento, rivelarla e aggiungerla alla tua mano. Poi rimescola il tuo grimorio.
+{1}{W}, {T}: Puoi mettere sul campo di battaglia una carta Equipaggiamento dalla tua mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0021</id>
+    <name>Paladino di Talus</name>
+    <text>Ogniqualvolta il Paladino di Talus o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, puoi far guadagnare legame vitale alle creature Alleato che controlli fino alla fine del turno e puoi mettere un segnalino +1/+1 sul Paladino di Talus.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0022</id>
+    <name>Immortalità della Terra</name>
+    <text>Tutte le terre sono indistruttibili.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0023</id>
+    <name>Riflessi del Veterano</name>
+    <text>Una creatura bersaglio prende +1/+1 fino alla fine del turno. STAPpa quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0024</id>
+    <name>Alisei d'Etere</name>
+    <text>Fai tornare un permanente bersaglio che controlli e un permanente bersaglio che non controlli in mano ai rispettivi proprietari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0025</id>
+    <name>Morsicatrice di Calcite</name>
+    <text>Velo (Questa creatura non può essere bersaglio di magie o abilità.)
+Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi scambiare la forza e la costituzione della Morsicatrice di Calcite fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0026</id>
+    <name>Sfatare</name>
+    <text>Neutralizza una magia istantaneo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0027</id>
+    <name>Elite di Enclave</name>
+    <text>Multipotenziamento {1}{U} (Puoi pagare {1}{U} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Passa-Isole
+L'Elite di Enclave entra nel campo di battaglia con un segnalino +1/+1 per ogni volta che è stata potenziata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0028</id>
+    <name>Sfinge Golia</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0029</id>
+    <name>Scavatrice di Halimar</name>
+    <text>Ogniqualvolta la Scavatrice di Halimar o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, un giocatore bersaglio mette nel suo cimitero le prime X carte del suo grimorio, dove X è il numero di Alleati che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0030</id>
+    <name>Draghetto dell'Orizzonte</name>
+    <text>Volare, protezione dalle terre</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0031</id>
+    <name>Jace, lo Scultore di Menti</name>
+    <text>[+2]: Guarda la prima carta del grimorio di un giocatore bersaglio. Puoi mettere quella carta in fondo al grimorio di quel giocatore.
+[0]: Pesca tre carte, poi metti due carte dalla tua mano in cima al tuo grimorio in qualsiasi ordine.
+[-1]: Fai tornare una creatura bersaglio in mano al suo proprietario.
+[-12]: Esilia tutte le carte dal grimorio di un giocatore bersaglio, poi quel giocatore rimescola la sua mano nel suo grimorio.
+[Fedeltà 3]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0032</id>
+    <name>Polimorfa di Jwar</name>
+    <text>Puoi far entrare la Polimorfa di Jwar nel campo di battaglia come una copia di qualsiasi creatura Alleato sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0033</id>
+    <name>Misteri degli Abissi</name>
+    <text>Pesca due carte.
+Terraferma - Se hai fatto entrare nel campo di battaglia una terra sotto il tuo controllo in questo turno, pesca invece tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0034</id>
+    <name>Trappola di Ghiaccio Perenne</name>
+    <text>Se un avversario ha fatto entrare nel campo di battaglia una creatura verde sotto il suo controllo in questo turno, puoi pagare {U} invece di pagare il costo di mana della Trappola di Ghiaccio Perenne.
+TAPpa fino a due creature bersaglio. Quelle creature non STAPpano durante il prossimo STAP del loro controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0035</id>
+    <name>In Cerca del Tempio di Ula</name>
+    <text>All'inizio del tuo mantenimento, puoi guardare la prima carta del tuo grimorio. Se è una carta creatura, puoi rivelarla e mettere un segnalino ricerca su In Cerca del Tempio di Ula.
+All'inizio di ogni sottofase finale, se ci sono tre o più segnalini ricerca su In Cerca del Tempio di Ula, puoi mettere sul campo di battaglia una carta creatura Kraken, Leviatano, Piovra o Serpe dalla tua mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0036</id>
+    <name>Tritone di Sejiri</name>
+    <text>Fintanto che controlli una Pianura, il Tritone di Sejiri ha attacco improvviso e legame vitale. (Il danno inflitto da una creatura con legame vitale fa anche guadagnare al suo controllore altrettanti punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0037</id>
+    <name>Memoria Selettiva</name>
+    <text>Passa in rassegna il tuo grimorio per un qualsiasi numero di carte non terra ed esiliale. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0038</id>
+    <name>Contorsione Magica</name>
+    <text>Multipotenziamento {1}{U} (Puoi pagare {1}{U} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Neutralizza una magia bersaglio a meno che il suo controllore non paghi {2}. Pesca una carta per ogni volta che la Contorsione Magica è stata potenziata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0039</id>
+    <name>Esiliatore Surrakar</name>
+    <text>Quando l'Esiliatore Surrakar entra nel campo di battaglia, puoi far tornare una creatura TAPpata bersaglio in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0040</id>
+    <name>Thada Adel, Acquisitrice</name>
+    <text>Passa-Isole
+Ogniqualvolta Thada Adel, Acquisitrice infligge danno da combattimento a un giocatore, passa in rassegna il grimorio di quel giocatore per una carta artefatto ed esiliala. Poi quel giocatore rimescola il suo grimorio. Fino alla fine del turno, puoi giocare quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0041</id>
+    <name>Elementale della Marea Selvaggia</name>
+    <text>{U}, {T}: Puoi TAPpare o STAPpare un'altra creatura bersaglio.
+Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi STAPpare l'Elementale della Marea Selvaggia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0042</id>
+    <name>Caccia al Tesoro</name>
+    <text>Rivela carte dalla cima del tuo grimorio finché non riveli una carta non terra, poi aggiungi alla tua mano tutte le carte rivelate in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0043</id>
+    <name>Strattonare</name>
+    <text>Puoi TAPpare o STAPpare un artefatto, una creatura o una terra bersaglio.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0044</id>
+    <name>Calappio di Vapore</name>
+    <text>Incanta creatura
+Controlli la creatura incantata.
+All'inizio del tuo mantenimento, sacrifica il Calappio di Vapore a meno che tu non faccia tornare una terra che controlli in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0045</id>
+    <name>Draghetto Viaggiatore</name>
+    <text>Multipotenziamento {U} (Puoi pagare {U} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Volare
+Quando il Draghetto Viaggiatore entra nel campo di battaglia, fino a X creature bersaglio hanno volare fino alla fine del turno, dove X è il numero di volte che il Draghetto Viaggiatore è stato potenziato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0046</id>
+    <name>Zendikon del Vento</name>
+    <text>Incanta terra
+La terra incantata è una creatura Elementale 2/2 blu con volare. È ancora una terra.
+Quando la terra incantata viene messa in un cimitero, falla tornare in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0047</id>
+    <name>Persecutore Abissale</name>
+    <text>Volare, travolgere
+Non puoi vincere la partita e i tuoi avversari non possono perdere la partita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0048</id>
+    <name>Occultista di Agadeem</name>
+    <text>{T}: Metti sul campo di battaglia sotto il tuo controllo una carta creatura bersaglio dal cimitero di un avversario se il suo costo di mana convertito è pari o inferiore al numero di Alleati che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0049</id>
+    <name>Anowon, il Saggio delle Rovine</name>
+    <text>All'inizio del tuo mantenimento, ogni giocatore sacrifica una creatura non Vampiro.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0050</id>
+    <name>Ritualista Guscio di Sangue</name>
+    <text>Multipotenziamento {B} (Puoi pagare {B} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Quando la Ritualista Guscio di Sangue entra nel campo di battaglia, un avversario bersaglio scarta una carta per ogni volta che è stata potenziata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0051</id>
+    <name>Brigante di Bojuka</name>
+    <text>Il Brigante di Bojuka non può bloccare.
+Ogniqualvolta il Brigante di Bojuka o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino +1/+1 sul Brigante di Bojuka.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0052</id>
+    <name>Orlo del Disastro</name>
+    <text>Incanta creatura o terra
+Quando il permanente incantato viene TAPpato, distruggilo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0053</id>
+    <name>Macellaio di Malakir</name>
+    <text>Volare
+Ogniqualvolta il Macellaio di Malakir o un'altra creatura che controlli viene messa in un cimitero dal campo di battaglia, ogni avversario sacrifica una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0054</id>
+    <name>Strisciante Caustico</name>
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi far prendere -1/-1 a una creatura bersaglio fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0055</id>
+    <name>Zendikon Corrotto</name>
+    <text>Incanta terra
+La terra incantata è una creatura Melma 3/3 nera. È ancora una terra.
+Quando la terra incantata viene messa in un cimitero, falla tornare in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0056</id>
+    <name>Vendetta dei Morti</name>
+    <text>Puoi mettere una carta creatura bersaglio dal tuo cimitero in cima al tuo grimorio. Se lo fai, la Vendetta dei Morti infligge danni pari alla forza di quella carta a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0057</id>
+    <name>Ombra di Morte</name>
+    <text>L'Ombra di Morte prende -X/-X, dove X è pari ai tuoi punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0058</id>
+    <name>Sciame di Vespe dei Dirupi</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0059</id>
+    <name>Nobile Kalastria</name>
+    <text>Ogniqualvolta la Nobile Kalastria o un altro Vampiro che controlli viene messa in un cimitero dal campo di battaglia, puoi pagare {B}. Se lo fai, un giocatore bersaglio perde 2 punti vita e tu guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0060</id>
+    <name>Dazio del Pantano</name>
+    <text>Un giocatore bersaglio rivela un numero di carte dalla sua mano pari al numero di Paludi che controlli. Scegli una di quelle carte. Quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0061</id>
+    <name>Trappola della Nemesi</name>
+    <text>Se una creatura bianca sta attaccando, puoi pagare {B}{B} invece di pagare il costo di mana della Trappola della Nemesi.
+Esilia una creatura attaccante bersaglio. Metti sul campo di battaglia una pedina che è una copia di quella creatura. Esiliala all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0062</id>
+    <name>Cacciatore di Battiti</name>
+    <text>Ogniqualvolta il Cacciatore di Battiti attacca, ogni avversario perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0063</id>
+    <name>Vampiri dell'Acquitrino</name>
+    <text>Multipotenziamento {1}{B} (Puoi pagare {1}{B} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Passa-Paludi
+I Vampiri dell'Acquitrino entrano nel campo di battaglia con un segnalino +1/+1 per ogni volta che sono stati potenziati.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0064</id>
+    <name>In Cerca della Pietra Nichilista</name>
+    <text>Ogniqualvolta un avversario scarta una carta, puoi mettere un segnalino ricerca su In Cerca della Pietra Nichilista.
+All'inizio del mantenimento di ogni avversario, se quel giocatore non ha carte in mano e ci sono due o più segnalini ricerca su In Cerca della Pietra Nichilista, puoi far perdere 5 punti vita a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0065</id>
+    <name>Lama Crudele Sanguinaria</name>
+    <text>La Lama Crudele Sanguinaria prende +2/+1 fintanto che un avversario ha 10 o meno punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0066</id>
+    <name>Rosicchiatori di Testi</name>
+    <text>{T}: Esilia la prima carta del grimorio di un giocatore bersaglio. Se è una carta terra, guadagni 1 punto vita.
+Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi STAPpare i Rosicchiatori di Testi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0067</id>
+    <name>Saccheggiatore Costiero</name>
+    <text>Ogniqualvolta il Saccheggiatore Costiero infligge danno da combattimento a un giocatore, se controlli un'Isola, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0068</id>
+    <name>Strangolare</name>
+    <text>Distruggi una creatura bersaglio con costo di mana convertito pari o inferiore a 3. Non può essere rigenerata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0069</id>
+    <name>Maledizione Tombale</name>
+    <text>Una creatura bersaglio prende -2/-2 fino alla fine del turno.
+Terraferma - Se hai fatto entrare nel campo di battaglia una terra sotto il tuo controllo in questo turno, quella creatura prende invece -4/-4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0070</id>
+    <name>Impulso a Nutrirsi</name>
+    <text>Una creatura bersaglio prende -3/-3 fino alla fine del turno. Puoi TAPpare un qualsiasi numero di creature Vampiro STAPpate che controlli. Se lo fai, metti un segnalino +1/+1 su ciascuno di quei Vampiri.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0071</id>
+    <name>Urlatrice da Battaglia di Akoum</name>
+    <text>Rapidità
+Ogniqualvolta l'Urlatrice da Battaglia di Akoum o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, puoi far prendere +1/+0 alle creature Alleato che controlli fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0072</id>
+    <name>Mercante del Bazaar</name>
+    <text>{T}: Un giocatore bersaglio prende il controllo di un artefatto, una creatura o una terra bersaglio che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0073</id>
+    <name>Forza Impetuosa</name>
+    <text>Una creatura bersaglio prende +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0074</id>
+    <name>Reazione a Catena</name>
+    <text>La Reazione a Catena infligge X danni a ogni creatura, dove X è il numero di creature sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0075</id>
+    <name>Artigli di Valakut</name>
+    <text>Incanta creatura
+La creatura incantata prende +1/+0 per ogni Montagna che controlli e ha attacco improvviso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0076</id>
+    <name>Tempesta di Comete</name>
+    <text>Multipotenziamento {1} (Puoi pagare {1} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Scegli una creatura o un giocatore bersaglio, poi scegli un'altra creatura o un altro giocatore bersaglio per ogni volta che la Tempesta di Comete è stata potenziata. La Tempesta di Comete infligge X danni a ciascuno di essi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0077</id>
+    <name>Devastatore di Cosi</name>
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi far infliggere dal Devastatore di Cosi 1 danno a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0078</id>
+    <name>Zendikon Frantumatore</name>
+    <text>Incanta terra
+La terra incantata è una creatura Bestia 4/2 rossa con travolgere. È ancora una terra.
+Quando la terra incantata viene messa in un cimitero, falla tornare in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0079</id>
+    <name>Magoscintilla Astuto</name>
+    <text>Rapidità
+{T}: Il Magoscintilla Astuto infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0080</id>
+    <name>Sciamano Forgiamorte</name>
+    <text>Multipotenziamento {R} (Puoi pagare {R} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Quando lo Sciamano Forgiamorte entra nel campo di battaglia, infligge danno a un giocatore bersaglio pari al doppio delle volte che è stato potenziato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0081</id>
+    <name>Dragoniere Reietto</name>
+    <text>All'inizio del tuo mantenimento, se controlli sei o più terre, metti sul campo di battaglia una pedina creatura Drago 5/5 rossa con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0082</id>
+    <name>Goblin Domatore</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0083</id>
+    <name>Fustigatrice Grotag</name>
+    <text>Ogniqualvolta la Fustigatrice Grotag attacca, una creatura bersaglio non può bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0084</id>
+    <name>Kazuul, Tiranno dei Dirupi</name>
+    <text>Ogniqualvolta una creatura controllata da un avversario attacca, se sei il giocatore in difesa, metti sul campo di battaglia una pedina creatura Ogre 3/3 rossa a meno che il controllore di quella creatura non paghi {3}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0085</id>
+    <name>Drago Caustico</name>
+    <text>Volare
+{1}{R}: Il Drago Caustico prende +1/+0 fino alla fine del turno.
+Ogniqualvolta il Drago Caustico infligge danno da combattimento a un giocatore, puoi fargli infliggere altrettanti danni a una creatura bersaglio controllata da quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0086</id>
+    <name>In Cerca del Signore dei Goblin</name>
+    <text>Ogniqualvolta un Goblin entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca su In Cerca del Signore dei Goblin.
+Fintanto che In Cerca del Signore dei Goblin ha cinque o più segnalini ricerca, le creature che controlli prendono +2/+0.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0087</id>
+    <name>Trappola a Rimbalzo</name>
+    <text>Se un avversario ha lanciato una magia blu in questo turno, puoi pagare {R} invece di pagare il costo di mana della Trappola a Rimbalzo.
+Cambia il bersaglio di una magia bersaglio che ha un singolo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0088</id>
+    <name>Terreno Intorbidito</name>
+    <text>Distruggi una terra bersaglio, poi il Terreno Intorbidito infligge danno al controllore di quella terra pari al numero di carte terra nel cimitero di quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0089</id>
+    <name>Conseguenze Rimbombanti</name>
+    <text>Ogniqualvolta lanci una magia potenziata, puoi far infliggere dalle Conseguenze Rimbombanti danno pari al numero di volte che quella magia è stata potenziata a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0090</id>
+    <name>Fiamma Ustionante</name>
+    <text>La Fiamma Ustionante infligge 1 danno a un giocatore bersaglio e 1 danno a una creatura bersaglio controllata da quel giocatore.
+Terraferma - Se hai fatto entrare nel campo di battaglia una terra sotto il tuo controllo in questo turno, la Fiamma Ustionante infligge invece 3 danni a quel giocatore e 3 danni a quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0091</id>
+    <name>Lucertola Intermittente</name>
+    <text>Multipotenziamento {1}{R} (Puoi pagare {1}{R} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Rapidità
+La Lucertola Intermittente entra nel campo di battaglia con un segnalino +1/+1 per ogni volta che è stata potenziata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0092</id>
+    <name>Nulli Sbavanti</name>
+    <text>Ogniqualvolta i Nulli Sbavanti infliggono danno da combattimento a un giocatore, se controlli una Palude, puoi far scartare una carta a quel giocatore</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0093</id>
+    <name>Trappola dell'Idolo di Pietra</name>
+    <text>La Trappola dell'Idolo di Pietra costa {1} in meno per essere lanciata per ogni creatura attaccante.
+Metti sul campo di battaglia una pedina creatura artefatto Costrutto 6/12 incolore con travolgere. Esiliala all'inizio della tua prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0094</id>
+    <name>Attaccabrighe di Tuktuk</name>
+    <text>Ogniqualvolta l'Attaccabrighe di Tuktuk o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, puoi distruggere un artefatto bersaglio. Se quell'artefatto viene messo in un cimitero in questo modo, l'Attaccabrighe di Tuktuk infligge danno al controllore di quell'artefatto pari al numero di Alleati che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0095</id>
+    <name>Elfo Arboreo</name>
+    <text>{T}: STAPpa una Foresta bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0096</id>
+    <name>Vendicatore di Zendikar</name>
+    <text>Quando il Vendicatore di Zendikar entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Pianta 0/1 verde per ogni terra che controlli.
+Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino +1/+1 su ogni creatura Pianta che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0097</id>
+    <name>Minaccia Bestiale</name>
+    <text>Metti sul campo di battaglia una pedina creatura Serpente 1/1 verde, una pedina creatura Lupo 2/2 verde e una pedina creatura Elefante 3/3 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0098</id>
+    <name>Protezione delle Fronde</name>
+    <text>Incanta creatura
+La creatura incantata non può essere bloccata tranne che da creature con volare o raggiungere.
+La creatura incantata non può essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0099</id>
+    <name>Esplorare</name>
+    <text>Puoi giocare una terra addizionale in questo turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0100</id>
+    <name>Competizione Ferale</name>
+    <text>Metti un segnalino +1/+1 su una creatura bersaglio che controlli. Un'altra creatura bersaglio la blocca in questo turno, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0101</id>
+    <name>Branco di Gnarlid</name>
+    <text>Multipotenziamento {1}{G} (Puoi pagare {1}{G} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Il Branco di Gnarlid entra nel campo di battaglia con un segnalino +1/+1 per ogni volta che è stato potenziato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0102</id>
+    <name>Ragno Lottatore</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0103</id>
+    <name>Cacciatore di Pellegrigia</name>
+    <text>Travolgere
+Ogniqualvolta il Cacciatore di Pellegrigia o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino +1/+1 sul Cacciatore di Pellegrigia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0104</id>
+    <name>Terreno Ondoso</name>
+    <text>Una creatura bersaglio prende +2/+2 fino alla fine del turno.
+Terraferma - Se hai fatto entrare nel campo di battaglia una terra sotto il tuo controllo in questo turno, quella creatura prende invece +4/+4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0105</id>
+    <name>Druida di Harabaz</name>
+    <text>{T}: Aggiungi X mana di qualsiasi colore alla tua riserva di mana, dove X è il numero di Alleati che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0106</id>
+    <name>Convocatore di Guerra di Joraga</name>
+    <text>Multipotenziamento {1}{G} (Puoi pagare {1}{G} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Il Convocatore di Guerra di Joraga entra nel campo di battaglia con un segnalino +1/+1 per ogni volta che è stato potenziato.
+Le altre creature Elfo che controlli prendono +1/+1 per ogni segnalino +1/+1 sul Convocatore di Guerra di Joraga.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0107</id>
+    <name>Baloth Dorso di Cuoio</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0108</id>
+    <name>Rivendicazione della Natura</name>
+    <text>Distruggi un artefatto o un incantesimo bersaglio. Il suo controllore guadagna 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0109</id>
+    <name>Omnath, il Manalocus</name>
+    <text>Il mana verde non viene svuotato dalla tua riserva di mana al termine di ogni fase o sottofase.
+Omnath, il Manalocus prende +1/+1 per ogni mana verde nella tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0110</id>
+    <name>In Cerca del Rinnovamento</name>
+    <text>Ogniqualvolta una creatura che controlli viene TAPpata, puoi mettere un segnalino ricerca su In Cerca del Rinnovamento.
+Fintanto che ci sono quattro o più segnalini ricerca su In Cerca del Rinnovamento, STAPpa tutte le creature che controlli durante lo STAP di ogni altro giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0111</id>
+    <name>Trappola dell'Arcofionda</name>
+    <text>Se una creatura nera con volare sta attaccando, puoi pagare {G} invece di pagare il costo di mana della Trappola dell'Arcofionda.
+Distruggi una creatura attaccante bersaglio con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0112</id>
+    <name>Strisciante Azzannatore</name>
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, lo Strisciante Azzannatore ha cautela fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0113</id>
+    <name>Forza dei Tajuru</name>
+    <text>Multipotenziamento {1} (Puoi pagare {1} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Scegli una creatura bersaglio, poi scegli un'altra creatura bersaglio per ogni volta che la Forza dei Tajuru è stata potenziata. Metti X segnalini +1/+1 su ciascuna di esse.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0114</id>
+    <name>Gorilla del Picco</name>
+    <text>Fintanto che controlli una Montagna, i Gorilla del Picco non possono essere bloccati tranne che da due o più creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0115</id>
+    <name>Terastodonte</name>
+    <text>Quando il Terastodonte entra nel campo di battaglia, puoi distruggere fino a tre permanenti non creatura bersaglio. Per ogni permanente messo in un cimitero in questo modo, il suo controllore mette sul campo di battaglia una pedina creatura Elefante 3/3 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0116</id>
+    <name>Animista di Boscovasto</name>
+    <text>{T}: Una terra bersaglio che controlli diventa una creatura Elementale X/X fino alla fine del turno, dove X è il numero di Alleati che controlli. È ancora una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0117</id>
+    <name>Zendikon di Boscovasto</name>
+    <text>Incanta terra
+La terra incantata è una creatura Elementale 6/4 verde. È ancora una terra.
+Quando la terra incantata viene messa in un cimitero, falla tornare in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0118</id>
+    <name>Elementale Rovo dei Lupi</name>
+    <text>Multipotenziamento {G} (Puoi pagare {G} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Quando l'Elementale Rovo dei Lupi entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Lupo 2/2 verde per ogni volta che è stato potenziato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0119</id>
+    <name>Wurm della Stella Esplosiva</name>
+    <text>Ogniqualvolta il Wurm della Stella Esplosiva attacca, distruggi tutte le altre creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0120</id>
+    <name>Wrexial, l'Abisso Vivente</name>
+    <text>Passa-Isole, passa-Paludi
+Ogniqualvolta Wrexial, l'Abisso Vivente infligge danno da combattimento a un giocatore, puoi lanciare una carta istantaneo o stregoneria bersaglio dal cimitero di quel giocatore senza pagare il suo costo di mana. Se quella carta sta per essere messa in un cimitero in questo turno, invece esiliala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0121</id>
+    <name>Amuleto del Vigore</name>
+    <text>Ogniqualvolta un permanente entra nel campo di battaglia sotto il tuo controllo TAPpato, STAPpa quel permanente.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0122</id>
+    <name>Collare del Basilisco</name>
+    <text>La creatura equipaggiata ha legame vitale e tocco letale.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0123</id>
+    <name>Calice Infinito</name>
+    <text>Multipotenziamento {2} (Puoi pagare {2} addizionale un qualsiasi numero di volte quando lanci questa magia.)
+Il Calice Infinito entra nel campo di battaglia con un segnalino carica per ogni volta che è stato potenziato.
+{T}: Aggiungi {1} alla tua riserva di mana per ogni segnalino carica sul Calice Infinito.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0124</id>
+    <name>Martello delle Rovine</name>
+    <text>La creatura equipaggiata prende +2/+0.
+Ogniqualvolta la creatura equipaggiata infligge danno da combattimento a un giocatore, puoi distruggere un Equipaggiamento bersaglio controllato da quel giocatore.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0125</id>
+    <name>Edro Vagabondo</name>
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, l'Edro Vagabondo prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0126</id>
+    <name>Velaliante</name>
+    <text>La creatura equipaggiata prende +1/+0 e ha volare.
+Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0127</id>
+    <name>Golem del Filone di Pietrisco</name>
+    <text>Le magie non artefatto costano {1} in più per essere lanciate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0128</id>
+    <name>Occhio del Pellegrino</name>
+    <text>Volare
+Quando l'Occhio del Pellegrino entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta terra base, rivelarla e aggiungerla alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0129</id>
+    <name>Lama Boomerang</name>
+    <text>La creatura equipaggiata ha "{T}, Togli la Lama Boomerang: La Lama Boomerang infligge 1 danno a una creatura o a un giocatore bersaglio. Fai tornare la Lama Boomerang in mano al suo proprietario."
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0130</id>
+    <name>Meridiana del Veggente</name>
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi pagare {2}. Se lo fai, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0131</id>
+    <name>Atlante Vivente</name>
+    <text>{T}: Puoi mettere sul campo di battaglia una carta terra dalla tua mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0132</id>
+    <name>Acquitrino di Bojuka</name>
+    <text>L'Acquitrino di Bojuka entra nel campo di battaglia TAPpato.
+Quando l'Acquitrino di Bojuka entra nel campo di battaglia, esilia tutte le carte dal cimitero di un giocatore bersaglio.
+{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0133</id>
+    <name>Colonnato Celeste</name>
+    <text>Il Colonnato Celeste entra nel campo di battaglia TAPpato.
+{T}: Aggiungi {W} o {U} alla tua riserva di mana.
+{3}{W}{U}: Fino alla fine del turno, il Colonnato Celeste diventa una creatura Elementale 4/4 bianca e blu con volare e cautela. È ancora una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0134</id>
+    <name>Fossa di Catrame Strisciante</name>
+    <text>La Fossa di Catrame Strisciante entra nel campo di battaglia TAPpata.
+{T}: Aggiungi {U} o {B} alla tua riserva di mana.
+{1}{U}{B}: Fino alla fine del turno, la Fossa di Catrame Strisciante diventa una creatura Elementale 3/2 blu e nera e non può essere bloccata. È ancora una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0135</id>
+    <name>Terrore Statuario</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{4}: Fino alla fine del turno, il Terrore Statuario diventa una creatura artefatto Golem 4/2 . È ancora una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0136</id>
+    <name>Occhio di Ugin</name>
+    <text>Le magie Eldrazi incolore che lanci costano {2} in meno per essere lanciate.
+{7}, {T}: Passa in rassegna il tuo grimorio per una carta creatura incolore, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0137</id>
+    <name>Abissi di Halimar</name>
+    <text>Gli Abissi di Halimar entrano nel campo di battaglia TAPpati.
+Quando gli Abissi di Halimar entrano nel campo di battaglia, guarda le prime tre carte del tuo grimorio, poi rimettile a posto in qualsiasi ordine.
+{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0138</id>
+    <name>Giardino di Khalni</name>
+    <text>Il Giardino di Khalni entra nel campo di battaglia TAPpato.
+Quando il Giardino di Khalni entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Pianta 0/1 verde.
+{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0139</id>
+    <name>Alture di Graffio di Lava</name>
+    <text>Le Alture di Graffio di Lava entrano nel campo di battaglia TAPpate.
+{T}: Aggiungi {B} o {R} alla tua riserva di mana.
+{1}{B}{R}: Fino alla fine del turno, le Alture di Graffio di Lava diventano una creatura Elementale 2/2 nera e rossa con "{X}: Questa creatura prende +X/+0 fino alla fine del turno". È ancora una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0140</id>
+    <name>Sabbie Mobili</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}, Sacrifica le Sabbie Mobili: Una creatura attaccante bersaglio senza volare prende -1/-2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0141</id>
+    <name>Gola Furente</name>
+    <text>La Gola Furente entra nel campo di battaglia TAPpata.
+{T}: Aggiungi {R} o {G} alla tua riserva di mana.
+{2}{R}{G}: Fino alla fine del turno, la Gola Furente diventa una creatura Elementale 3/3 rossa e verde con "Ogniqualvolta questa creatura attacca, metti un segnalino +1/+1 su di essa". È ancora una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0142</id>
+    <name>Steppa di Sejiri</name>
+    <text>La Steppa di Sejiri entra nel campo di battaglia TAPpata.
+Quando la Steppa di Sejiri entra nel campo di battaglia, una creatura bersaglio che controlli ha protezione da un colore a tua scelta fino alla fine del turno.
+{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0143</id>
+    <name>Guglie Cineree</name>
+    <text>Le Guglie Cineree entrano nel campo di battaglia TAPpate.
+Quando le Guglie Cineree entrano nel campo di battaglia, una creatura bersaglio non può bloccare in questo turno.
+{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0144</id>
+    <name>Bosco Selvaggio in Agitazione</name>
+    <text>Il Bosco Selvaggio in Agitazione entra nel campo di battaglia TAPpato.
+{T}: Aggiungi {G} o {W} alla tua riserva di mana.
+{1}{G}{W}: Fino alla fine del turno, il Bosco Selvaggio in Agitazione diventa una creatura Elementale 3/4 verde e bianca con raggiungere. È ancora una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0145</id>
+    <name>Faglia Tettonica</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{1}, {T}, Sacrifica la Faglia Tettonica: Distruggi una terra non base bersaglio. Attiva questa abilità solo se un avversario controlla quattro o più terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

@@ -1,0 +1,2443 @@
+<cards name="Campioni di Kamigawa">
+  <item>
+    <id>CHK0001</id>
+    <name>Soffio Benedetto</name>
+    <text>La creatura bersaglio che controlli guadagna protezione dal colore a tua scelta fino alla fine del turno.
+Unire nell'Arcano {W} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0002</id>
+    <name>Bushi Piededolce</name>
+    <text>Quando una creatura a cui sia stato inflitto danno da Bushi Piededolce in questo turno viene messa in un cimitero, ruota Bushi Piededolce.
+/flip/; Kenzo Cuoreduro
+Creatura Leggendaria - Samurai Umano
+3/4
+Doppio attacco
+Bushido 2 (Quando questa blocca o viene bloccata, prende +2/+2 fino alla fine del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0003</id>
+    <name>Kenzo the Hardhearted</name>
+    <text>Double strike; bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0004</id>
+    <name>Gabbia di Mani</name>
+    <text>Incanta creatura
+La creatura incantata non può attaccare o bloccare.
+{1}{W}: Il proprietario riprende in mano la Gabbia di Mani.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0005</id>
+    <name>Chiamata alla Gloria</name>
+    <text>STAPpa tutte le creature che controlli. Le creature Samurai che controlli prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0006</id>
+    <name>Bagliore di Candele</name>
+    <text>Previeni i prossimi 3 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno. Guadagni un ammontare di punti vita pari al danno prevenuto in questo modo.
+Unire nell'Arcano {1}{W} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0007</id>
+    <name>Purificazione a Cascata</name>
+    <text>Distruggi tutti gli incantesimi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0008</id>
+    <name>Seguace Devoto</name>
+    <text>Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0009</id>
+    <name>Otto-Code-e-Mezza</name>
+    <text>{1}{W}: Il permanente bersaglio che controlli guadagna la protezione dal bianco fino alla fine del turno.
+{1}: La magia o il permanente bersaglio diventa bianco fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0010</id>
+    <name>Caligine Eterea</name>
+    <text>Previeni tutto il danno che verrebbe inflitto dalle creature in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0011</id>
+    <name>Prigione Spettrale</name>
+    <text>Le creature non possono attaccarti a meno che il loro controllore paghi {2} per ogni creatura che egli controlla e che ti attacca.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0012</id>
+    <name>Ingannatore Impietoso</name>
+    <text>{1} : Guarda la prima carta del tuo grimorio.
+{2} : Rivela la prima carta del tuo grimorio. Se è una carta terra, STAPpa l'Ingannatore Impietoso ed esso prende +1/+1 fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0013</id>
+    <name>Hikari, Guardiano del Crepuscolo</name>
+    <text>Volare
+Ogniqualvolta lanci una magia Spirito o Arcano, puoi esiliare Hikari, Guardiano del Crepuscolo. Se lo fai, rimettilo sul campo di battaglia sotto il controllo del suo proprietario all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0014</id>
+    <name>Tenere il Fronte</name>
+    <text>Le creature bloccanti prendono +7/+7 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0015</id>
+    <name>Honden del Fuoco Purificatore</name>
+    <text>All'inizio del tuo mantenimento, guadagni 2 punti vita per ogni Santuario che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0016</id>
+    <name>Seme dell'Orizzonte</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, rigenera una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0017</id>
+    <name>Kami Cento-Grinfie</name>
+    <text>Volare
+Muta-anima 4 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 4 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0018</id>
+    <name>Volontà Indomita</name>
+    <text>Lampo
+Incanta creatura
+La creatura incantata prende +1/+2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0019</id>
+    <name>Kami dell'Innocenza</name>
+    <text>{W}, {T}: TAPpa una creatura bersaglio.
+Ogniqualvolta lanci una magia Spirito o Arcano, STAPpa il Kami dell'Innocenza.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0020</id>
+    <name>Isamaru, Segugio di Konda</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0021</id>
+    <name>Falena Kabuto</name>
+    <text>Volare
+{T}: La creatura bersaglio prende +1/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0022</id>
+    <name>Kami dell'Antica Legge</name>
+    <text>Sacrifica il Kami dell'Antica Legge: Distruggi un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0023</id>
+    <name>Kami della Vecchia Pietra</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0024</id>
+    <name>Kami della Strada Dipinta</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, il Kami della Strada Dipinta guadagna protezione da un colore a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0025</id>
+    <name>Kami dei Campi del Palazzo</name>
+    <text>Volare, attacco improvviso
+Muta-anima 5  (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 5 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0026</id>
+    <name>Maestro di Spada Kitsune</name>
+    <text>Attacco improvviso
+Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0027</id>
+    <name>Divinatore Kitsune</name>
+    <text>{T}: TAPpa uno Spirito bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0028</id>
+    <name>Guaritore Kitsune</name>
+    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.
+{T}: Previeni tutto il danno che verrebbe inflitto a una creatura leggendaria bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0029</id>
+    <name>Autumn-Tail, Kitsune Sage</name>
+    <text>{1}: Attach target Aura attached to a creature to another creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0030</id>
+    <name>Mistico Kitsune</name>
+    <text>All'inizio della sottofase finale, se il Mistico Kitsune è incantato da due o più Aura, ruotalo.
+/flip/; Coda-d'Autunno, Saggio Kitsune
+Creatura Leggendaria - Mago Volpe
+4/5
+{1} : Assegna l'Aura bersaglio assegnata a una creatura ad un'altra creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0031</id>
+    <name>Calcacrepa Kitsune</name>
+    <text>Protezione dagli Spiriti e dagli Arcani.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0032</id>
+    <name>Konda, Signore di Eiganjo</name>
+    <text>Cautela (Questa creatura attacca senza TAPpare.)
+Bushido 5 (Quando questa blocca o viene bloccata, prende +5/+5 fino alla fine del turno.)
+Konda, Signore di Eiganjo è indistruttibile.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0033</id>
+    <name>Hatamoto di Konda</name>
+    <text>Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+Fintanto che controlli un Samurai leggendario, l'Hatamoto di Konda prende +1/+2 e ha cautela (Questa creatura attacca senza TAPpare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0034</id>
+    <name>Kami della Lanterna</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0035</id>
+    <name>Masako la Senza Sorriso</name>
+    <text>Lampo
+Le creature TAPpate che controlli possono bloccare come se fossero STAPpate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0036</id>
+    <name>Samurai Cavalcafalena</name>
+    <text>Volare
+Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0037</id>
+    <name>Myojin del Fuoco Purificatore</name>
+    <text>Il Myojin del Fuoco Purificatore entra nel campo di battaglia con un segnalino divinità se lo lanci dalla tua mano.
+Il Myojin del Fuoco Purificatore è indistruttibile fintanto che ha almeno un segnalino divinità.
+Rimuovi un segnalino divinità dal Myojin del Fuoco Purificatore : Distruggi ogni altra creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0038</id>
+    <name>Nagao, Vincolato dall'Onore</name>
+    <text>Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+Ogniqualvolta Nagao, Vincolato dall'Onore attacca, le creature Samurai che tu controlli prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0039</id>
+    <name>Viaggio Extramondo</name>
+    <text>Esilia una creatura bersaglio. All'inizio della prossima sottofase finale, rimetti quella carta nel campo di battaglia sotto il controllo del suo proprietario con un segnalino +1/+1 su di essa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0040</id>
+    <name>Kitsune Devoto</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino devozione sul Kitsune Devoto. Poi, se una creatura di nome Otto-Code-e-Mezza è sul campo di battaglia, guadagni 1 punto vita per ogni segnalino devozione presente sul Kitsune Devoto.
+{T}, Rimuovi un segnalino devozione dal Kitsune Devoto: Guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0041</id>
+    <name>Quieta Purezza</name>
+    <text>Distruggi un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0042</id>
+    <name>Contraccambiare</name>
+    <text>Esilia una creatura bersaglio che ti ha inflitto danno in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0043</id>
+    <name>Invertire la Sabbia</name>
+    <text>Ridistribuisci i totali dei punti vita di un qualsiasi numero di giocatori. (Ciascuno di quei giocatori riceve in cambio un totale dei punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0044</id>
+    <name>Sovrintendenti Samurai</name>
+    <text>Bushido 2 (Quando questa blocca o viene bloccata, prende +2/+2 fino alla fine del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0045</id>
+    <name>Samurai della Pallida Barriera</name>
+    <text>Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+Se un permanente sta per essere messo in un cimitero, invece esilialo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0046</id>
+    <name>Sensei Coda-d'Oro</name>
+    <text>Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+{1}{W}, {T}: Metti un segnalino addestramento su una creatura bersaglio. Quella creatura guadagna bushido 1 e diventa un Samurai in aggiunta ai propri altri tipi di creatura. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0047</id>
+    <name>Zubera Canto-Silente</name>
+    <text>Quando lo Zubera Canto-Silente viene messo in un cimitero dal campo di battaglia, guadagni 2 punti vita per ogni Zubera messo in un cimitero dal campo di battaglia in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0048</id>
+    <name>Takeno, Generale dei Samurai</name>
+    <text>Bushido 2 (Quando questa blocca o viene bloccata, prende +2/+2 fino alla fine del turno.)
+Ogni altra creatura Samurai che controlli prende +1/+1 per ogni punto di bushido che ha.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0049</id>
+    <name>Pianto di Terashi</name>
+    <text>TAPpa fino a tre creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0050</id>
+    <name>Dovere del Vassallo</name>
+    <text>{1}: Il prossimo punto danno che verrebbe inflitto in questo turno a una creatura leggendaria che controlli, invece viene inflitto a te.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0051</id>
+    <name>Cautela</name>
+    <text>Incanta creatura
+La creatura incantata ha cautela. (Attacca senza TAPpare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0052</id>
+    <name>Yosei, Stella del Mattino</name>
+    <text>Volare
+Quando Yosei, Stella del Mattino viene messo in un cimitero dal campo di battaglia, il giocatore bersaglio salta il proprio prossimo STAP. TAPpa fino a cinque permanenti bersaglio controllati da quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0053</id>
+    <name>Aura di Dominio</name>
+    <text>Incanta creatura
+{1}, TAPpa una creatura STAPpata che controlli: STAPpa la creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0054</id>
+    <name>Azami, Signora delle Pergamene</name>
+    <text>TAPpa un Mago STAPpato che controlli: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0055</id>
+    <name>Ingannatore Insensibile</name>
+    <text>{1} : Guarda la prima carta del tuo grimorio.
+{2} : Rivela la prima carta del tuo grimorio. Se è una carta terra, l'Ingannatore Insensibile prende +1/+0 e guadagna volare fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0056</id>
+    <name>Vortice Divorante</name>
+    <text>Il proprietario riprende in mano una creatura bersaglio.
+Unire nell'Arcano {3}{U} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0057</id>
+    <name>Consiglio dei Soratami</name>
+    <text>Pesca due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0058</id>
+    <name>Tagliare le Pastoie</name>
+    <text>Per ogni Spirito, il proprietario lo riprende in mano a meno che quel giocatore paghi {3}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0059</id>
+    <name>Ostacolare il Pensiero</name>
+    <text>Il giocatore bersaglio mette nel proprio cimitero le prime quattro carte del proprio grimorio.
+Unire nell'Arcano {1}{U} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0060</id>
+    <name>Processione Inquietante</name>
+    <text>Passa in rassegna il tuo grimorio per una carta Arcano, rivela quella carta e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0061</id>
+    <name>Occhio di Nessundove</name>
+    <text>Il proprietario riprende in mano un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0062</id>
+    <name>Territorio di Realtà</name>
+    <text>Incanta creatura
+La creatura incantata non può essere bloccata dagli Spiriti.
+{1}{U}: Il proprietario riprende in mano il Territorio di Realtà.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0063</id>
+    <name>Zubera Sogno-Fluttuante</name>
+    <text>Quando Zubera Sogno-Fluttuante viene messo in un cimitero dal campo di battaglia, pesca una carta per ogni Zubera messo in un cimitero dal campo di battaglia in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0064</id>
+    <name>Doni Mai Dati</name>
+    <text>Passa in rassegna il tuo grimorio per quattro carte aventi nomi differenti e rivelale. L'avversario bersaglio sceglie due di quelle carte. Metti le carte scelte nel tuo cimitero e aggiungi alla tua mano le altre. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0065</id>
+    <name>Insegnante Gentile</name>
+    <text>Non hai più il limite di carte nella mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0066</id>
+    <name>Guardiano della Solitudine</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, una creatura bersaglio guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0067</id>
+    <name>Intralciare</name>
+    <text>Neutralizza la magia bersaglio. Se quella magia viene neutralizzata in questo modo, metti quella carta in cima o in fondo al grimorio del suo proprietario invece che nel cimitero di quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0068</id>
+    <name>Hisoka, Sensei di Minamo</name>
+    <text>{2}{U}, Scarta una carta: Neutralizza una magia bersaglio se ha lo stesso costo di mana convertito della carta scartata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0069</id>
+    <name>Sfida di Hisoka</name>
+    <text>Neutralizza la magia Spirito o Arcano bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0070</id>
+    <name>Guardia di Hisoka</name>
+    <text>Puoi scegliere di non STAPpare la Guardia di Hisoka durante il tuo STAP.
+{1}{U}, {T}: Una creatura bersaglio che controlli diversa dalla Guardia di Hisoka ha velo fintanto che la Guardia di Hisoka rimane TAPpata. (Non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0071</id>
+    <name>Honden dei Venti Veggenti</name>
+    <text>All'inizio del tuo mantenimento, pesca una carta per ogni Santuario che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0072</id>
+    <name>Apprendista Jushi</name>
+    <text>{2}{U}, {T}: Pesca una carta. Se hai nove o più carte in mano, ruota l'Apprendista Jushi.
+/flip/; Tomoya il Rivelatore
+Creatura Leggendaria - Mago Umano
+2/3
+{3}{U}{U}, {T}: Il giocatore bersaglio pesca X carte, dove X è il numero di carte che hai in mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0073</id>
+    <name>Tomoya the Revealer</name>
+    <text>{3}{U}{U}, {T}: Target player draws X cards, where X is the number of cards in your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0074</id>
+    <name>Kami del Riflesso Distorto</name>
+    <text>Sacrifica il Kami del Riflesso Distorto: Il proprietario riprende in mano una creatura bersaglio che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0075</id>
+    <name>Keiga, la Stella della Marea</name>
+    <text>Volare
+Quando Keiga, la Stella della Marea viene messo in un cimitero dal campo di battaglia, prendi il controllo di una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0076</id>
+    <name>Sollevato dalle Nuvole</name>
+    <text>La creatura bersaglio guadagna volare fino alla fine del turno.
+Unire nell'Arcano {1}{U} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0077</id>
+    <name>Meloku Specchio-Offuscato</name>
+    <text>Volare
+{1}, Il proprietario riprende in mano una terra che tu controlli : Metti sul campo di battaglia una pedina creatura Illusione 1/1 blu con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0078</id>
+    <name>Myojin dei Venti Veggenti</name>
+    <text>Il Myojin dei Venti Veggenti entra nel campo di battaglia con un segnalino divinità se lo lanci dalla tua mano.
+Il Myojin dei Venti Veggenti è indistruttibile fintanto che ha almeno un segnalino divinità.
+Rimuovi un segnalino divinità dal Myojin dei Venti Veggenti : Pesca una carta per ogni permanente che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0079</id>
+    <name>Lacci Mistici</name>
+    <text>Lampo
+Incanta creatura
+Quando i Lacci Mistici entrano nel campo di battaglia, TAPpa la creatura incantata.
+La creatura incantata non STAPpa durante lo STAP del proprio controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0080</id>
+    <name>Aprire il Velo</name>
+    <text>I proprietari riprendono in mano tutte le creature che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0081</id>
+    <name>Scrutare nelle Profondità</name>
+    <text>Guarda le prime cinque carte del tuo grimorio. Puoi rivelare una carta istantaneo o stregoneria fra esse e aggiungerla alla tua mano. Metti le rimanenti carte in fondo al tuo grimorio in un qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0082</id>
+    <name>Petali della Perspicacia</name>
+    <text>Guarda le prime tre carte del tuo grimorio. Puoi mettere quelle carte in fondo al tuo grimorio in un qualsiasi ordine. Se lo fai, il proprietario riprende in mano i Petali della Perspicacia. Altrimenti, pesca tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0083</id>
+    <name>Burattinaio Psichico</name>
+    <text>Puoi TAPpare o STAPpare un permanente bersaglio.
+Unire nell'Arcano {U} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0084</id>
+    <name>Squarciare la Nebbia</name>
+    <text>Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0085</id>
+    <name>Ritessere</name>
+    <text>Il controllore di un permanente bersaglio lo sacrifica. Se lo fa, quel giocatore rivela carte dalla cima del suo grimorio fino a rivelare una carta permanente che condivida un tipo di carta con il permanente sacrificato, mette quella carta sul campo di battaglia, poi rimescola il suo grimorio.
+Unire nell'Arcano {2}{U}{U} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0086</id>
+    <name>Kaijin del Fiume</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0087</id>
+    <name>Setacciare le Sabbie</name>
+    <text>Pesca due carte, poi scarta una carta.
+Se hai lanciato una magia di nome Scrutare nelle Profondità e una magia di nome Squarciare la Nebbia in questo turno, puoi passare in rassegna il tuo grimorio per una carta di nome L'Innominabile, metterla sul campo di battaglia, poi rimescolare il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0088</id>
+    <name>Sovrano della Tempesta</name>
+    <text>Volare
+Ogniqualvolta lanci una magia Spirito o Arcano, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0089</id>
+    <name>Scivolanubi Soratami</name>
+    <text>Volare
+{2}, Il proprietario riprende in mano una terra che tu controlli: Pesca una carta, poi scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0090</id>
+    <name>Guarda-Specchio Soratami</name>
+    <text>Volare
+{2}, Il proprietario riprende in mano una terra che tu controlli: La creatura bersaglio con forza pari o inferiore a 2 non può essere bloccata in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0091</id>
+    <name>Mago-Specchio Soratami</name>
+    <text>Volare
+{3}, Il proprietario riprende in mano tre terre che tu controlli: Il proprietario riprende in mano la creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0092</id>
+    <name>Plasmapioggia Soratami</name>
+    <text>Volare
+{3}, Il proprietario riprende in mano una terra che tu controlli: Una creatura bersaglio che controlli guadagna velo fino alla fine del turno. (Non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0093</id>
+    <name>Sapiente Soratami</name>
+    <text>Volare
+{3}, Il proprietario riprende in mano una terra che tu controlli: Neutralizza una magia bersaglio a meno che il suo controllore paghi {3}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0094</id>
+    <name>Veggente Soratami</name>
+    <text>Volare
+{4}, Il proprietario riprende in mano due terre che tu controlli: Scarta tutte le carte che hai in mano, poi pesca altrettante carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0095</id>
+    <name>Vanificare</name>
+    <text>Neutralizza un'abilità attivata bersaglio. (Le abilità di mana non possono essere bersagliate.)
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0096</id>
+    <name>Studioso degli Elementi</name>
+    <text>Quando lo Studioso degli Elementi ha volare, ruotalo.
+/flip/; Tobita, Signore dei Venti
+Creatura Leggendaria - Mago Umano
+3/3
+Le creature che controlli hanno volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0097</id>
+    <name>Tobita, Master of Winds</name>
+    <text>Creatures you control have flying.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0098</id>
+    <name>Agitare la Foschia</name>
+    <text>Mentre Agitare la Foschia entra nel campo di battaglia, scegli una parola colore.
+Tutte le ricorrenze della parola colore nel testo delle magie e dei permanenti sono cambiate con la parola colore scelta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0099</id>
+    <name>Narratore di Racconti</name>
+    <text>Volare
+Ogniqualvolta lanci una magia Spirito o Arcano, puoi TAPpare o STAPpare una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0100</id>
+    <name>Legapensiero</name>
+    <text>Neutralizza una magia bersaglio con costo di mana convertito pari o inferiore a 4.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0101</id>
+    <name>Blocco Temporale</name>
+    <text>Fine del turno. (Esilia tutte le magie e le abilità in pila, compresa questa carta. Il giocatore di turno scarta carte fino ad avere in mano il suo limite massimo di carte. Il danno viene rimosso, e terminano gli effetti "in questo turno" e "fino alla fine del turno".)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0102</id>
+    <name>L'Innominabile</name>
+    <text>Volare, travolgere
+Ogniqualvolta L'Innominabile infligge danno da combattimento a un giocatore, puoi riprendere in mano una carta Arcano bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0103</id>
+    <name>Uyo, Profeta Silente</name>
+    <text>Volare
+{2}, Il proprietario riprende in mano due terre che tu controlli: Copia la magia istantaneo o stregoneria bersaglio. Puoi scegliere nuovi bersagli per quella copia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0104</id>
+    <name>I Girovaghi</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0105</id>
+    <name>Zubera Pelle-di-Cenere</name>
+    <text>Quando Zubera Pelle-di-Cenere viene messo in un cimitero dal campo di battaglia, l'avversario bersaglio scarta una carta per ogni Zubera messo in un cimitero dal campo di battaglia in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0106</id>
+    <name>Inquinare</name>
+    <text>Distruggi una terra o una creatura non nera bersaglio. Non può essere rigenerata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0107</id>
+    <name>Voce del Sangue</name>
+    <text>All'inizio del tuo mantenimento, puoi sacrificare la Voce del Sangue. Se lo fai, passa in rassegna il tuo grimorio per una carta Demone, rivela quella carta e aggiungila alla tua mano. Poi rimescola il tuo grimorio.
+Ogniqualvolta un Demone entra nel campo di battaglia sotto il tuo controllo, riprendi in mano la Voce del Sangue dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0108</id>
+    <name>Ogre Sanguinario</name>
+    <text>{T}: Metti un segnalino devozione sull'Ogre Sanguinario.
+{T}: La creatura bersaglio prende -X/-X fino alla fine del turno, dove X è il numero di segnalini devozione sull'Ogre Sanguinario. Attiva questa abilità soltanto se controlli almeno un Demone.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0109</id>
+    <name>Estrazione Cranica</name>
+    <text>Nomina una carta non terra. Passa in rassegna il cimitero, la mano, e il grimorio del giocatore bersaglio per tutte le carte con quel nome ed esiliale. Poi quel giocatore rimescola il suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0110</id>
+    <name>Ingannatore Crudele</name>
+    <text>{1}: Guarda la prima carta del tuo grimorio.
+{2}: Rivela la prima carta del tuo grimorio. Se è una carta terra, l'Ingannatore Crudele guadagna tocco letale fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0111</id>
+    <name>Ronin Maledetto</name>
+    <text>Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+{B}: Il Ronin Maledetto prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0112</id>
+    <name>Danza delle Ombre</name>
+    <text>Le creature che controlli prendono +1/+0 e guadagnano paura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0113</id>
+    <name>Ogre Maledicimorte</name>
+    <text>Quando l'Ogre Maledicimorte viene messo in un cimitero dal campo di battaglia, ogni giocatore perde 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0114</id>
+    <name>Cupidigia Divorante</name>
+    <text>Come costo addizionale per lanciare la Cupidigia Divorante, puoi sacrificare un qualsiasi numero di Spiriti.
+Il giocatore bersaglio perde 2 punti vita, più 2 punti vita per ogni Spirito sacrificato in questo modo. Tu guadagni lo stesso ammontare di punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0115</id>
+    <name>Angoscia</name>
+    <text>Il giocatore bersaglio rivela la sua mano. Scegli una carta non terra da essa. Quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0116</id>
+    <name>Kami Farfugliante</name>
+    <text>Volare
+Muta-anima 3 (Quando questo viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 3 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0117</id>
+    <name>Oni Strappaviscere</name>
+    <text>Travolgere
+All'inizio del tuo mantenimento, scarta una carta se non controlli un Ogre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0118</id>
+    <name>Colui Che Brama</name>
+    <text>Volare
+{1}, Sacrifica uno Spirito: L'avversario bersaglio rivela la propria mano. Tu scegli una carta da essa. Quel giocatore scarta quella carta. Attiva questa abilità solo quando potresti lanciare una stregoneria.
+Muta-anima 4 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 4 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0119</id>
+    <name>Risata Ripugnante</name>
+    <text>Tutte le creature prendono -2/-2 fino alla fine del turno.
+Unire nell'Arcano {3}{B}{B} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi l'effetto di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0120</id>
+    <name>Honden dei Confini della Notte</name>
+    <text>All'inizio del tuo mantenimento, un avversario bersaglio scarta una carta per ogni Santuario che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0121</id>
+    <name>Horobi, Lamento di Morte</name>
+    <text>Volare
+Ogniqualvolta una creatura diventa bersaglio di una magia o di un'abilità, distruggi quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0122</id>
+    <name>Iname, Manifestazione della Morte</name>
+    <text>Quando Iname, Manifestazione della Morte entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio, scegliere un qualsiasi numero di carte Spirito e metterle nel tuo cimitero. Se lo fai, rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0123</id>
+    <name>Kami della Follia</name>
+    <text>Volare
+Muta-anima 5  (Quando questo viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 5 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0124</id>
+    <name>Kami della Luna Calante</name>
+    <text>Volare
+Ogniqualvolta lanci una magia Spirito o Arcano, una creatura bersaglio guadagna paura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0125</id>
+    <name>Kiku, Fiore della Notte</name>
+    <text>{2}{B}{B}, {T} : La creatura bersaglio si infligge un danno pari alla propria forza.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0126</id>
+    <name>Kokusho, la Stella della Sera</name>
+    <text>Volare
+Quando Kokusho, la Stella della Sera viene messa in un cimitero dal campo di battaglia, ogni avversario perde 5 punti vita. Tu guadagni un ammontare di punti vita pari ai punti vita persi in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0127</id>
+    <name>Kuro, Signore della Fossa</name>
+    <text>All'inizio del tuo mantenimento, sacrifica Kuro, Signore della Fossa a meno che tu paghi {B}{B}{B}{B}.
+Paga 1 punto vita: Una creatura bersaglio prende -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0128</id>
+    <name>Rodi-Midollo</name>
+    <text>Le creature Ratto hanno paura.
+{T}, Sacrifica un Ratto: Metti sul campo di battaglia X pedine creatura Ratto 1/1 nere, dove X è pari al numero di Ratti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0129</id>
+    <name>Patto di Mezzanotte</name>
+    <text>Incanta creatura
+La creatura incantata ha "{B}: Questa creatura prende +1/+1 fino alla fine del turno."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0130</id>
+    <name>Myojin dei Confini della Notte</name>
+    <text>Il Myojin dei Confini della Notte entra nel campo di battaglia con un segnalino divinità se lo lanci dalla tua mano.
+Il Myojin dei Confini della Notte è indistruttibile fintanto che ha almeno un segnalino divinità.
+Rimuovi un segnalino divinità dal Myojin dei Confini della Notte : Ogni avversario scarta la propria mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0131</id>
+    <name>Nezumi Scruta-Ossa</name>
+    <text>{B}, Sacrifica una creatura: Il giocatore bersaglio scarta una carta. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0132</id>
+    <name>Tagliagole Nezumi</name>
+    <text>Paura
+Il Tagliagole Nezumi non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0133</id>
+    <name>Nezumi Profanatombe</name>
+    <text>{1}{B}: Esilia una carta bersaglio dal cimitero di un avversario. Se non ci sono carte in quel cimitero, ruota il Nezumi Profanatombe.
+/flip/; Occhi-della-Notte il Profanatore
+Creatura Leggendaria - Mago Ratto
+4/2
+{4}{B}: Metti una carta creatura bersaglio da un cimitero nel campo di battaglia sotto il tuo controllo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0134</id>
+    <name>Nighteyes the Desecrator</name>
+    <text>{4}{B}: Put target creature card from a graveyard onto the battlefield under your control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0135</id>
+    <name>Ronin Nezumi</name>
+    <text>Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0136</id>
+    <name>Zannacorta Nezumi</name>
+    <text>{1}{B}, {T}: Un avversario bersaglio scarta una carta. Poi, se quel giocatore non ha carte in mano, ruota lo Zannacorta Nezumi.
+/flip/
+Pungibaffo il Detestabile
+Creatura Leggendaria - Sciamano Ratto
+3/3
+All'inizio del mantenimento di ogni avversario, quel giocatore perde 1 punto vita per ogni carta sotto le tre che ha in mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0137</id>
+    <name>Stabwhisker the Odious</name>
+    <text>At the beginning of each opponent's upkeep, that player loses 1 life for each card fewer than three in his or her hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0138</id>
+    <name>Contrattazioni Notturne</name>
+    <text>Ogniqualvolta una fonte che controlli infligge danno ad un altro giocatore, metti altrettanti segnalini furto sulle Contrattazioni Notturne.
+{2}{B}{B}, Rimuovi X segnalini furto dalle Contrattazioni Notturne: Passa in rassegna il tuo grimorio per una carta non terra con costo di mana convertito pari a X, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0139</id>
+    <name>Notte del Tradimento delle Anime</name>
+    <text>Tutte le creature prendono -1/-1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0140</id>
+    <name>Reietto di Numai</name>
+    <text>Bushido 2 (Quando questa blocca o viene bloccata, prende +2/+2 fino alla fine del turno.)
+{B}, Paga 5 punti vita: Rigenera il Reietto di Numai.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0141</id>
+    <name>Possessione dell'Oni</name>
+    <text>Incanta creatura
+All'inizio del tuo mantenimento, sacrifica una creatura.
+La creatura incantata prende +3/+3 e ha travolgere.
+La creatura incantata è uno Spirito Demone.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0142</id>
+    <name>Oni Recadolore</name>
+    <text>Paura
+All'inizio del tuo mantenimento, sacrifica una creatura se non controlli almeno un Ogre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0143</id>
+    <name>Sprofondare</name>
+    <text>La creatura bersaglio prende -5/-5 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0144</id>
+    <name>Straccivendolo</name>
+    <text>{2}{B}, {T}: Esilia fino a tre carte bersaglio presenti in un singolo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0145</id>
+    <name>Vene Lacerate</name>
+    <text>Lampo
+Incanta creatura
+Ogniqualvolta viene inflitto danno alla creatura incantata, il suo controllore perde altrettanti punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0146</id>
+    <name>Lacerare la Carne</name>
+    <text>Distruggi una creatura non Spirito bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0147</id>
+    <name>Lacerare lo Spirito</name>
+    <text>Distruggi uno Spirito bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0148</id>
+    <name>Morte Sfuggente</name>
+    <text>Sacrifica la Morte Sfuggente: La creatura bersaglio prende -1/-1 fino alla fine del turno.
+Muta-anima 4 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 4 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0149</id>
+    <name>Seizan, Corruttore della Verità</name>
+    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore perde 2 punti vita e pesca due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0150</id>
+    <name>Risveglio Senz'Anima</name>
+    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero.
+Unire nell'Arcano {1}{B} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi l'effetto di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0151</id>
+    <name>Lotta per l'Equilibrio</name>
+    <text>L'avversario bersaglio rivela la sua mano. Quel giocatore esilia una di quelle carte, poi tu esili una di quelle carte. Ripeti questo procedimento fino a che tutte le carte della sua mano sono state esiliate. Quel giocatore riprende in mano le carte che aveva esiliato in questo modo e mette le altre nel suo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0152</id>
+    <name>Peste Famelica</name>
+    <text>La Peste Famelica infligge X danni a una creatura bersaglio e tu guadagni X punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0153</id>
+    <name>Ladro di Speranza</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, l'avversario bersaglio perde 1 punto vita e tu guadagni 1 punto vita.
+Muta-anima 2 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 2 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0154</id>
+    <name>Ogre Infame</name>
+    <text>L'Ogre Infame non può bloccare.
+Fintanto che controlli un Demone, l'Ogre Infame ha "{B}: Rigenera l'Ogre Infame"</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0155</id>
+    <name>Incubo a Occhi Aperti</name>
+    <text>Il giocatore bersaglio scarta due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0156</id>
+    <name>Akuba Malvagio</name>
+    <text>{B}: Il giocatore bersaglio a cui sia stato inflitto danno dall'Akuba Malvagio in questo turno perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0157</id>
+    <name>Valanghieri Akki</name>
+    <text>Sacrifica una terra: I Valanghieri Akki prendono +2/+0 fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0158</id>
+    <name>Scagliacarbone Akki</name>
+    <text>Attacco improvviso
+{R}, {T}: Le creature attaccanti guadagnano attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0159</id>
+    <name>Calcalava Akki</name>
+    <text>Rapidità 
+Ogniqualvolta il Calcalava Akki infligge danno ad un avversario, ruotalo.
+/flip/; Tok-Tok, Figlio del Vulcano
+Creatura Leggendaria - Sciamano Goblin
+2/2
+Protezione dal rosso
+Se una fonte rossa sta per infliggere danno a un giocatore, invece infligge lo stesso ammontare di danni più 1 a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0160</id>
+    <name>Tok-Tok, Volcano Born</name>
+    <text>Protection from red
+If a red source would deal damage to a player, it deals that much damage plus 1 to that player instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0161</id>
+    <name>Litofono Akki</name>
+    <text>Quando il Litofono Akki entra nel campo di battaglia, aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0162</id>
+    <name>Minatore Akki</name>
+    <text>Ogniqualvolta il Minatore Akki infligge danno da combattimento a un giocatore, quel giocatore sacrifica un permanente.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0163</id>
+    <name>Ronin Invasato</name>
+    <text>Bushido 2 (Quando questa blocca o viene bloccata, prende +2/+2 fino alla fine del turno.)
+Il Ronin Invasato attacca in ogni turno se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0164</id>
+    <name>Ben-Ben, Eremita Akki</name>
+    <text>{T}: Ben-Ben, Eremita Akki infligge a una creatura attaccante bersaglio un danno pari al numero di Montagne STAPpate che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0165</id>
+    <name>Cieco di Rabbia</name>
+    <text>STAPpa una creatura non leggendaria bersaglio e prendine il controllo fino alla fine del turno. Quella creatura guadagna rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0166</id>
+    <name>Riti di Sangue</name>
+    <text>{1}{R}, Sacrifica una creatura: I Riti di Sangue infliggono 2 danni a una creatura od a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0167</id>
+    <name>Fratelli Yamazaki</name>
+    <text>Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+Se ci sono sul campo di battaglia esattamente due permanenti chiamati Fratelli Yamazaki, la "regola leggendaria" non si applica a essi.
+Ogni altra creatura di nome Fratelli Yamazaki prende +2/+2 e ha rapidità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0168</id>
+    <name>Fratelli Yamazaki</name>
+    <text>Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+Se ci sono sul campo di battaglia esattamente due permanenti chiamati Fratelli Yamazaki, la "regola leggendaria" non si applica a essi.
+Ogni altra creatura di nome Fratelli Yamazaki prende +2/+2 e ha rapidità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0169</id>
+    <name>Ingannatore Brutale</name>
+    <text>{1}: Guarda la prima carta del tuo grimorio.
+{2}: Rivela la prima carta del tuo grimorio. Se è una carta terra, l'Ingannatore Brutale prende +1/+0 a guadagna attacco improvviso fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0170</id>
+    <name>Dolore Insostenibile</name>
+    <text>Il Dolore Insostenibile infligge 6 danni a una creatura bersaglio a cui sia stato inflitto danno in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0171</id>
+    <name>Rituale Disperato</name>
+    <text>Aggiungi {R}{R}{R} alla tua riserva di mana.
+Unire nell'Arcano {1}{R} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0172</id>
+    <name>Furia Divorante</name>
+    <text>Come costo addizionale per lanciare la Furia Divorante, puoi sacrificare un qualsiasi numero di Spiriti.
+La creatura bersaglio prende +3/+0 fino alla fine del turno. Per ogni Spirito sacrificato in questo modo, quella creatura prende un +3/+0 addizionale fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0173</id>
+    <name>Scuotiterra</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, lo Scuotiterra infligge 2 danni a ogni creatura senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0174</id>
+    <name>Zubera Pugno-di-Brace</name>
+    <text>Quando lo Zubera Pugno-di-Brace viene messo in un cimitero dal campo di battaglia, infligge a una creatura o a un giocatore bersaglio un ammontare di danni pari al numero di Zubera messi in tutti i cimiteri dal campo di battaglia in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0175</id>
+    <name>Brandigelo</name>
+    <text>{T}: Il Brandigelo infligge 1 danno a una creatura o a un giocatore bersaglio.
+Se una creatura a cui è stato inflitto danno dal Brandigelo in questo turno sta per essere messa in un cimitero, invece esiliala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0176</id>
+    <name>Raggio Glaciale</name>
+    <text>Il Raggio Glaciale infligge 2 danni a una creatura o a un giocatore bersaglio.
+Unire nell'Arcano {1}{R} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi l'effetto di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0177</id>
+    <name>Godo, Condottiero Bandito</name>
+    <text>Quando Godo, Condottiero Bandito entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio, scegliere una carta Equipaggiamento e metterla nel campo di battaglia. Se lo fai, rimescola il tuo grimorio.
+Ogniqualvolta Godo, Condottiero Bandito attacca per la prima volta in ogni turno, STAPpa lui e tutti i Samurai che controlli. Dopo questa fase, ottieni una fase di combattimento addizionale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0178</id>
+    <name>Fiori di Fuoco Hanabi</name>
+    <text>I Fiori di Fuoco Hanabi infliggono 2 danni a una creatura o a un giocatore bersaglio. Il proprietario riprende in mano i Fiori di Fuoco Hanabi, poi tu scarti una carta a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0179</id>
+    <name>Kami del Focolare</name>
+    <text>{X}, Sacrifica il Kami del Focolare: Distruggi un artefatto bersaglio con costo di mana convertito pari a X.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0180</id>
+    <name>Honden della Rabbia Infinita</name>
+    <text>All'inizio del tuo mantenimento, l'Honden della Rabbia Infinita infligge a una creatura o a un giocatore bersaglio un danno pari al numero di Santuari che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0181</id>
+    <name>Goka the Unjust</name>
+    <text>{T}: Goka the Unjust deals 4 damage to target creature that was dealt damage this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0182</id>
+    <name>Iniziato di Sangue</name>
+    <text>{T}: L'Iniziato di Sangue infligge 1 danno a una creatura bersaglio a cui sia stato inflitto danno in questo turno. Quando quella creatura viene messa in un cimitero in questo turno, ruota l'Iniziato di Sangue.
+/flip/; Goka l'Iniquo
+Creatura Leggendaria - Sciamano Ogre
+4/4
+{T} : Goka l'Iniquo infligge 4 danni a una creatura bersaglio a cui sia stato inflitto danno in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0183</id>
+    <name>Kami del Ruggito del Fuoco</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, la creatura bersaglio non può bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0184</id>
+    <name>Kiki-Jiki, Spaccaspecchi</name>
+    <text>Rapidità
+{T} : Metti sul campo di battaglia una pedina che è la copia di una creatura non leggendaria bersaglio che controlli. Quella pedina creatura ha rapidità. Sacrificala all'inizio della sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0185</id>
+    <name>Kumano, Maestro Yamabushi</name>
+    <text>{1}{R} : Kumano, Maestro Yamabushi infligge 1 danno a una creatura o a un giocatore bersaglio.
+Se una creatura a cui sia stato inflitto danno da Kumano, Maestro Yamabushi in questo turno sta per essere messa in un cimitero, invece esiliala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0186</id>
+    <name>Discepoli di Kumano</name>
+    <text>Se una creatura a cui è stato inflitto danno dai Discepoli di Kumano in questo turno sta per essere messa in un cimitero, invece esiliala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0187</id>
+    <name>Getto di Lava</name>
+    <text>Il Getto di Lava infligge 3 danni a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0188</id>
+    <name>Sisma di Mana</name>
+    <text>Sacrifica un qualsiasi numero di terre. Aggiungi {1} alla tua riserva di mana per ogni terra sacrificata in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0189</id>
+    <name>Bruciamente</name>
+    <text>Nomina una carta non terra e scegli un numero maggiore di 0. Il giocatore bersaglio rivela il suo grimorio. Se quel grimorio contiene esattamente il numero scelto della carta nominata, il Bruciamente infligge 8 danni a quel giocatore. Poi quel giocatore rimescola il suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0190</id>
+    <name>Myojin della Rabbia Infinita</name>
+    <text>Il Myojin della Rabbia Infinita entra nel campo di battaglia con un segnalino divinità se lo lanci dalla tua mano.
+Il Myojin della Rabbia Infinita è indistruttibile fintanto che ha almeno un segnalino divinità.
+Rimuovi un segnalino divinità dal Myojin della Rabbia Infinita : Distruggi tutte le terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0191</id>
+    <name>Divora Minerali</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, puoi distruggere una terra non base bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0192</id>
+    <name>Kami del Dolore</name>
+    <text>{X}{R}, Sacrifica il Kami del Dolore: Il Kami del Dolore infligge X danni a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0193</id>
+    <name>Signore dei Segugi Ronin</name>
+    <text>Rapidità
+Bushido 1 (Quando questa blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0194</id>
+    <name>Ryusei, la Stella Cadente</name>
+    <text>Volare
+Quando Ryusei, la Stella Cadente viene messo in un cimitero dal campo di battaglia, infligge 5 danni a ogni creatura senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0195</id>
+    <name>Shimatsu Sanguemanto</name>
+    <text>Mentre Shimatsu Sanguemanto entra nel campo di battaglia, sacrifica un qualsiasi numero di permanenti. Shimatsu Sanguemanto entra nel campo di battaglia con altrettanti segnalini +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0196</id>
+    <name>Colpo di Lato</name>
+    <text>Puoi cambiare un qualsiasi numero di bersagli di una magia Arcano bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0197</id>
+    <name>Picchiatore di Sokenzan</name>
+    <text>Passa-montagne</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0198</id>
+    <name>Anima del Magma</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, l'Anima del Magma infligge 1 danno a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0199</id>
+    <name>Esplosione dell'Anima</name>
+    <text>Come costo addizionale per lanciare l'Esplosione dell'Anima, sacrifica tutte le creature che controlli.
+L'Esplosione dell'Anima infligge a una creatura o a un giocatore bersaglio un danno pari alla forza totale delle creature sacrificate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0200</id>
+    <name>Pioggia di Pietre</name>
+    <text>Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0201</id>
+    <name>Inversione Misteriosa</name>
+    <text>Scambia la forza e la costituzione di una creatura bersaglio fino alla fine del turno.
+Unire nell'Arcano {1}{R} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0202</id>
+    <name>Fare Breccia</name>
+    <text>Puoi mettere sul campo di battaglia una carta creatura dalla tua mano. Quella creatura ha rapidità. Sacrifica quella creatura all'inizio della prossima sottofase finale.
+Unire nell'Arcano {2}{R}{R} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0203</id>
+    <name>Sorti di Guerra</name>
+    <text>Ogniqualvolta una o più creature bloccano, lancia una moneta. Se vinci il lancio, ogni creatura bloccante viene sacrificata dal suo controllore. Altrimenti, ogni creatura bloccata viene sacrificata dal suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0204</id>
+    <name>Rabbia Incontrollabile</name>
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
+Incanta creatura (Bersaglia una creatura mentre lanci questa carta. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+La creatura incantata prende +2/+2 e attacca ogni turno, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0205</id>
+    <name>Bufera Sovrannaturale</name>
+    <text>Fino a tre creature bersaglio non possono bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0206</id>
+    <name>Velocità Innaturale</name>
+    <text>La creatura bersaglio guadagna rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0207</id>
+    <name>Fiamma dello Yamabushi</name>
+    <text>La Fiamma dello Yamabushi infligge 3 danni a una creatura o a un giocatore bersaglio. Se una creatura a cui sia stato inflitto danno in questo modo sta per essere messa in un cimitero in questo turno, invece esiliala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0208</id>
+    <name>Tempesta dello Yamabushi</name>
+    <text>La Tempesta dello Yamabushi infligge 1 danno a ciascuna creatura. Se una creatura a cui sia stato inflitto danno in questo modo sta per essere messa in un cimitero in questo turno, invece esiliala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0209</id>
+    <name>Zo-Zu il Punitore</name>
+    <text>Ogniqualvolta una terra entra nel campo di battaglia, Zo-Zu il Punitore infligge 2 danni al controllore di quella terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0210</id>
+    <name>Azusa, Smarrita ma Cercatrice</name>
+    <text>Puoi giocare due terre addizionali in ognuno dei tuoi turni.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0211</id>
+    <name>Giardiniere Budoka</name>
+    <text>{T}: Puoi mettere sul campo di battaglia una carta terra dalla tua mano. Se controlli dieci o più terre, ruota il Giardiniere Budoka.
+/flip/; Dokai, Tessitore di Vita 
+Creatura Leggendaria - Monaco Umano
+3/3
+{4}{G}{G}, {T}: Metti sul campo di battaglia una pedina creatura Elementale X/X verde, dove X è il numero di terre che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0212</id>
+    <name>Dokai, Weaver of Life</name>
+    <text>{4}{G}{G}, {T}: Put an X/X green Elemental creature token onto the battlefield, where X is the number of lands you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0213</id>
+    <name>Innesta Macina</name>
+    <text>Sacrifica l'Innesta Macina: La creatura bersaglio prende +2/+2 fino alla fine del turno.
+Muta-anima 3 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 3 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0214</id>
+    <name>Comunione con la Natura</name>
+    <text>Guarda le prime cinque carte del tuo grimorio. Puoi rivelare una carta creatura fra esse e aggiungerla alla tua mano. Metti le rimanenti carte in fondo al tuo grimorio in un qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0215</id>
+    <name>Dosan la Foglia che Cade</name>
+    <text>I giocatori possono lanciare le magie soltanto durante il proprio turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0216</id>
+    <name>Zubera Lingua-Gocciolante</name>
+    <text>Quando lo Zubera Lingua-Gocciolante viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura Spirito 1/1 incolore per ogni Zubera messo in un cimitero dal campo di battaglia in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0217</id>
+    <name>Banchetto di Vermi</name>
+    <text>Distruggi una terra bersaglio. Se quella terra era leggendaria, il suo controllore sacrifica un'altra terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0218</id>
+    <name>Ingannatore Bestiale</name>
+    <text>{1}: Guarda la prima carta del tuo grimorio.
+{2}: Rivela la prima carta del tuo grimorio. Se è una carta terra, l'Ingannatore Bestiale prende +2/+2 e guadagna travolgere fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0219</id>
+    <name>Burrasca</name>
+    <text>La Burrasca infligge 5 danni a ogni creatura con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0220</id>
+    <name>Barlume della Natura</name>
+    <text>Ogniqualvolta lanci una magia creatura in questo turno, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0221</id>
+    <name>Kami Hana</name>
+    <text>{1}{G}, Sacrifica il Kami Hana: Riprendi in mano una carta Arcano bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0222</id>
+    <name>Battito di Primavera</name>
+    <text>Ogniqualvolta un giocatore TAPpa una terra per attingere mana, quel giocatore aggiunge alla propria riserva un mana di qualsiasi tipo prodotto da quella terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0223</id>
+    <name>Honden della Rete della Vita</name>
+    <text>All'inizio del tuo mantenimento, metti sul campo di battaglia una pedina creatura Spirito 1/1 incolore per ogni Santuario che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0224</id>
+    <name>Budoka Umile</name>
+    <text>Velo (Questo permanente non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0225</id>
+    <name>Iname, Manifestazione della Vita</name>
+    <text>Quando Iname, Manifestazione della Vita viene messo in un cimitero dal campo di battaglia, puoi esiliarlo. Se lo fai, riprendi in mano un qualsiasi numero di carte Spirito bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0226</id>
+    <name>Tregua Gioiosa</name>
+    <text>Guadagni 1 punto vita per ogni terra che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0227</id>
+    <name>Jugan, Stella Nascente</name>
+    <text>Volare
+Quando Jugan, Stella Nascente viene messa in un cimitero dal campo di battaglia, puoi distribuire 5 segnalini +1/+1 tra un qualsiasi numero di creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0228</id>
+    <name>Messaggero di Jukai</name>
+    <text>Passa-foreste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0229</id>
+    <name>Kami della Caccia</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, il Kami della Caccia prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0230</id>
+    <name>Saccheggiatore della Tribù-Kashi</name>
+    <text>Ogniqualvolta il Saccheggiatore della Tribù-Kashi infligge danno da combattimento a una creatura, TAPpa quella creatura ed essa non STAPpa durante il prossimo STAP del suo controllore.
+{1}{G}: Rigenera il Saccheggiatore della Tribù-Kashi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0231</id>
+    <name>Guerrieri della Tribù-Kashi</name>
+    <text>Ogniqualvolta i Guerrieri della Tribù-Kashi infliggono danno da combattimento a una creatura, TAPpa quella creatura ed essa non STAPpa durante il prossimo STAP del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0232</id>
+    <name>Kodama dell'Albero del Nord</name>
+    <text>Travolgere
+Velo (Questo permanente non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0233</id>
+    <name>Kodama dell'Albero del Sud</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, ogni altra creatura che controlli prende +1/+1 e guadagna travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0234</id>
+    <name>Potenza del Kodama</name>
+    <text>La creatura bersaglio prende +2/+2 fino alla fine del turno.
+Unire nell'Arcano {G} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0235</id>
+    <name>Confini del Kodama</name>
+    <text>Passa in rassegna il tuo grimorio per due carte terra base, rivelale, mettine una sul campo di battaglia TAPpata e aggiungi l'altra alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0236</id>
+    <name>Richiamo</name>
+    <text>Incanta creatura
+Tutte le creature in grado di bloccare la creatura incantata lo fanno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0237</id>
+    <name>Esca della Tribù-Matsu</name>
+    <text>{2}{G}: La creatura bersaglio blocca l'Esca della Tribù-Matsu in questo turno se può farlo.
+Ogniqualvolta l'Esca della Tribù-Matsu infligge danno da combattimento a una creatura, TAPpa quella creatura ed essa non STAPpa durante il prossimo STAP del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0238</id>
+    <name>Kami del Muschio</name>
+    <text>Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0239</id>
+    <name>Myojin della Rete della Vita</name>
+    <text>Il Myojin della Rete della Vita entra nel campo di battaglia con un segnalino divinità se lo lanci dalla tua mano.
+Il Myojin della Rete della Vita è indistruttibile fintanto che ha almeno un segnalino divinità.
+Rimuovi un segnalino divinità dal Myojin della Rete della Vita : Metti sul campo di battaglia un qualsiasi numero di carte creatura dalla tua mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0240</id>
+    <name>Volontà della Natura</name>
+    <text>Ogniqualvolta una o più creature che controlli infliggono danno da combattimento ad un giocatore, TAPpa tutte le terre controllate da quel giocatore e STAPpa tutte le terre che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0241</id>
+    <name>Kumo Tessiglobo</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+Ogniqualvolta lanci una magia Spirito o Arcano, il Kumo Tessiglobo guadagna passa-foreste fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0242</id>
+    <name>Ordine della Sacra Campana</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0243</id>
+    <name>Guardauova Orochi</name>
+    <text>{2}{G}, {T}: Metti sul campo di battaglia una pedina creatura Serpente 1/1 verde. Se controlli dieci o più creature, ruota il Guardauova Orochi.
+/flip/; Shidako, Signora della Covata
+Creatura Leggendaria - Sciamano Serpente
+3/3
+{G}, Sacrifica una creatura: La creatura bersaglio prende +3/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0244</id>
+    <name>Shidako, Broodmistress</name>
+    <text>{G}, Sacrifice a creature: Target creature gets +3/+3 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0245</id>
+    <name>Chiamafoglia Orochi</name>
+    <text>{G}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0246</id>
+    <name>Ranger Orochi</name>
+    <text>Ogniqualvolta il Ranger Orochi infligge danno da combattimento a una creatura, TAPpa quella creatura ed essa non STAPpa durante il prossimo STAP del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0247</id>
+    <name>Sostenitore Orochi</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0248</id>
+    <name>Corridore delle Radici</name>
+    <text>{G}{G}, Sacrifica il Corridore delle Radici: Metti una terra bersaglio in cima al grimorio del suo proprietario.
+Muta-anima 3 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 3 dal tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0249</id>
+    <name>Sachi, Figlia di Seshiro</name>
+    <text>Le altre creature Serpente che controlli prendono +0/+1.
+Gli Sciamani che controlli hanno "{T}: Aggiungi {G}{G} alla tua riserva di mana."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0250</id>
+    <name>Anziano della Tribù-Sakura</name>
+    <text>Sacrifica l'Anziano della Tribù-Sakura: Passa in rassegna il tuo grimorio per una carta terra base, mettila nel campo di battaglia TAPpata, poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0251</id>
+    <name>Pelle di Serpente</name>
+    <text>Lampo
+Incanta creatura
+La creatura incantata prende +1/+1.
+{G}: Rigenera la creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0252</id>
+    <name>Seshiro il Consacrato</name>
+    <text>Le altre creature Serpente che controlli prendono +2/+2.
+Ogniqualvolta un Serpente che controlli infligge danno da combattimento a un giocatore, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0253</id>
+    <name>Shisato, Cacciatore Sussurrante</name>
+    <text>All'inizio del tuo mantenimento, sacrifica un Serpente.
+Ogniqualvolta Shisato, Cacciatore Sussurrante infligge danno da combattimento ad un giocatore, quel giocatore salta il suo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0254</id>
+    <name>Plasmaterra</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, la terra bersaglio diventa una creatura 3/3 fino alla fine del turno. E' ancora una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0255</id>
+    <name>Sosuke, Figlio di Seshiro</name>
+    <text>Le altre creature Serpente che tu controlli prendono +1/+0.
+Ogniqualvolta un Guerriero che tu controlli infligge danno da combattimento ad una creatura, distruggi quella creatura alla fine del combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0256</id>
+    <name>Forza dei Cedri</name>
+    <text>La creatura bersaglio prende +X/+X fino alla fine del turno, dove X è il numero di terre che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0257</id>
+    <name>Kami Millepiedi</name>
+    <text>Muta-anima 7 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 7 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0258</id>
+    <name>Momento del Bisogno</name>
+    <text>Passa in rassegna il tuo grimorio per una carta creatura leggendaria, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0259</id>
+    <name>Kumo Venerabile</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+Muta-anima 4 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 4 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0260</id>
+    <name>Kami del Viticcio</name>
+    <text>Il Kami del Viticcio non può essere bloccato tranne che da due o più creature.
+Muta-anima 6 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 6 presente nel tuo cimitero.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0261</id>
+    <name>Consumare</name>
+    <text>Distruggi un artefatto o un incantesimo bersaglio.
+Unire nell'Arcano {3}{G} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi gli effetti di questa carta a quella magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0262</id>
+    <name>Kabuto del Generale</name>
+    <text>La creatura equipaggiata ha velo. (Non può essere bersaglio di magie o abilità.)
+Previeni tutto il danno da combattimento che verrebbe inflitto alla creatura equipaggiata.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0263</id>
+    <name>Koto Capello Tirato</name>
+    <text>TAPpa una creatura STAPpata che controlli: Il giocatore bersaglio mette nel proprio cimitero la prima carta del proprio grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0264</id>
+    <name>Hankyu</name>
+    <text>La creatura equipaggiata ha "{T}: Metti un segnalino mira sullo Hankyu" e "{T}, Rimuovi tutti i segnalini mira da Hankyu: Questa creatura infligge a una creatura o a un giocatore bersaglio un danno pari al numero di segnalini mira rimossi."
+Equipaggiare {4}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0265</id>
+    <name>Shaku Ammantato d'Onore</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+TAPpa un permanente leggendario STAPpato che controlli: STAPpa lo Shaku Ammantato d'Onore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0266</id>
+    <name>Statua Imi</name>
+    <text>I giocatori non possono STAPpare più di un artefatto durante i loro STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0267</id>
+    <name>Idolo di Giada</name>
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, l'Idolo di Giada diventa una creatura artefatto Spirito 4/4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0268</id>
+    <name>Aquilone del Viaggiatore</name>
+    <text>{3}, {T}: Passa in rassegna il tuo grimorio per una carta terra base, rivelala, e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0269</id>
+    <name>Campana Junkyo</name>
+    <text>All'inizio del tuo mantenimento, puoi far prendere +X/+X a una creatura bersaglio che controlli fino alla fine del turno, dove X è pari al numero di creature che controlli. Se lo fai, sacrifica quella creatura all'inizio della sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0270</id>
+    <name>Vessillo di Konda</name>
+    <text>Il Vessillo di Konda può essere assegnato solo a una creatura leggendaria.
+Le creature che condividono un colore con la creatura equipaggiata prendono +1/+1.
+Le creature che condividono un tipo di creatura con la creatura equipaggiata prendono +1/+1.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0271</id>
+    <name>Kusari-Gama</name>
+    <text>La creatura equipaggiata ha "{2}: Questa creatura prende +1/+0 fino alla fine del turno."
+Ogniqualvolta la creatura equipaggiata infligge danno a una creatura bloccante, Kusari-Gama infligge un pari danno a ogni altra creatura controllata dal giocatore in difesa.
+Equipaggiare {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0272</id>
+    <name>Gohei Dimenticato</name>
+    <text>Le magie Arcano che lanci costano {1} in meno per essere lanciate.
+Le creature Spirito che controlli prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0273</id>
+    <name>Specchio dell'Anello Lunare</name>
+    <text>Ogniqualvolta peschi una carta, esilia a faccia in giù la prima carta del tuo grimorio.
+All'inizio del tuo mantenimento, puoi esiliare a faccia in giù tutte le carte della tua mano. Se lo fai, prendi in mano tutte le altre carte che possiedi esiliate con lo Specchio dell'Anello Lunare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0274</id>
+    <name>Bo a Nove Anelli</name>
+    <text>{T}: Il Bo a Nove Anelli infligge 1 danno a una creatura Spirito bersaglio. Se quella creatura sta per essere messa in un cimitero in questo turno, invece esiliala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0275</id>
+    <name>No-Dachi</name>
+    <text>La creatura equipaggiata prende +2/+0 e ha attacco improvviso.
+Equipaggiare {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0276</id>
+    <name>Guardagiuramento, Daisho di Takeno</name>
+    <text>La creatura equipaggiata prende +3/+1.
+Ogniqualvolta la creatura equipaggiata viene messa in un cimitero, rimetti quella carta nel campo di battaglia sotto il tuo controllo se è un Samurai.
+Quando Guardagiuramento, Daisho di Takeno viene messo in un cimitero dal campo di battaglia, esilia la creatura equipaggiata.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0277</id>
+    <name>Vivaio Orochi</name>
+    <text>Il Vivaio Orochi entra nel campo di battaglia con X segnalini carica su di esso.
+{5}, {T}: Metti sul campo di battaglia una pedina creatura Serpente 1/1 verde per ogni segnalino carica presente sul Vivaio Orochi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0278</id>
+    <name>Lanterna di Reito</name>
+    <text>{3}: Metti una carta bersaglio presente in un cimitero in fondo al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0279</id>
+    <name>Cappa delle Profezie del Sensei</name>
+    <text>{1}: Guarda le prime tre carte del tuo grimorio, poi rimettile a posto in un qualsiasi ordine.
+{T}: Pesca una carta, poi metti la Cappa delle Profezie del Sensei in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0280</id>
+    <name>Guscio dell'Ultimo Kappa</name>
+    <text>{3}, {T}: Esilia una magia istantaneo o stregoneria di cui sei bersaglio. (La magia non ha effetto.)
+{3}, {T}, Sacrifica il Guscio dell'Ultimo Kappa: Puoi lanciare una carta esiliata con il Guscio dell'Ultimo Kappa senza pagare il suo costo di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0281</id>
+    <name>Tatsumasa, la Zanna del Drago</name>
+    <text>La creatura equipaggiata prende +5/+5.
+{6}, Esilia Tatsumasa, la Zanna del Drago: Metti sul campo di battaglia una pedina creatura Spirito Drago 5/5 blu con volare. Rimetti Tatsumasa, la Zanna del Drago sul campo di battaglia sotto il controllo del suo proprietario quando quella pedina viene messa in un cimitero.
+Equipaggiare {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0282</id>
+    <name>Tenza, Maglio di Godo</name>
+    <text>La creatura equipaggiata prende +1/+1. Fintanto che è leggendaria, prende +2/+2 addizionale. Fintanto che è rossa, ha travolgere.
+Equipaggiare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0283</id>
+    <name>Maschera dell'Uba</name>
+    <text>Se un giocatore sta per pescare una carta, invece quel giocatore esilia quella carta a faccia in su.
+Ogni giocatore può giocare le carte che ha esiliato in questo turno con la Maschera dell'Uba.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0284</id>
+    <name>Boseiju, Che Protegge Tutti</name>
+    <text>Boseiju, Che Protegge Tutti entra nel campo di battaglia TAPpato.
+{T}, Paga 2 punti vita: Aggiungi {1} alla tua riserva di mana. Se quel mana viene speso per una magia istantaneo o stregoneria, quella magia non può essere neutralizzata da magie o abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0285</id>
+    <name>Lago Cimanebulosa</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {W} o {U} alla tua riserva di mana. Il Lago Cimanebulosa non STAPpa durante il tuo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0286</id>
+    <name>Castello Eiganjo</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.
+{W}, {T}: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura leggendaria bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0287</id>
+    <name>Frutteto Proibito</name>
+    <text>{T}: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.
+Ogniqualvolta TAPpi il Frutteto Proibito per attingere mana, metti sul campo di battaglia una pedina creatura Spirito 1/1 incolore sotto il controllo di un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0288</id>
+    <name>Sala del Lord Bandito</name>
+    <text>La Sala del Lord Bandito entra nel campo di battaglia TAPpata.
+{T}, Paga 3 punti vita: Aggiungi {1} alla tua riserva di mana. Se questo mana viene speso per una magia creatura, quella creatura ha rapidità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0289</id>
+    <name>Cimitero a Lume di Lanterna</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {B} o {R} alla tua riserva di mana. Il Cimitero a Lume di Lanterna non STAPpa durante il tuo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0290</id>
+    <name>Minamo, Scuola sul Bordo dell'Acqua</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.
+{U}, {T}: STAPpa un permanente leggendario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0291</id>
+    <name>Okina, Tempio dei Progenitori</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.
+{G}, {T}: Una creatura leggendaria bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0292</id>
+    <name>Catena di Crestapineta</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {R} o {G} alla tua riserva di mana. La Catena di Crestapineta non STAPpa durante il tuo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0293</id>
+    <name>Shinka, il Maniero Grondasangue</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.
+{R}, {T}: La creatura leggendaria bersaglio guadagna attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0294</id>
+    <name>Shizo, Deposito di Morte</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.
+{B}, {T}: La creatura leggendaria bersaglio guadagna paura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0295</id>
+    <name>Giardino Sereno</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {G} o {W} alla tua riserva di mana. Il Giardino Sereno non STAPpa durante il tuo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0296</id>
+    <name>Untaidake, il Custode delle Nubi</name>
+    <text>Untaidake, il Custode delle Nubi entra nel campo di battaglia TAPpata.
+{T}, Paga 2 punti vita: Aggiungi {2} alla tua riserva di mana. Spendi questo mana solo per lanciare magie leggendarie.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0297</id>
+    <name>Caverna Idrovelata</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {U} o {B} alla tua riserva di mana. La Caverna Idrovelata non STAPpa durante il tuo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0298</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0299</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0300</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0301</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0302</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0303</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0304</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0305</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0306</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0307</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0308</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0309</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0310</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0311</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0312</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0313</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0314</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0315</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0316</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHK0317</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

@@ -1,0 +1,470 @@
+<cards name="Duel Decks: Divine vs. Demonic">
+  <item>
+    <id>DVD0001</id>
+    <name>Akroma, Angel of Wrath</name>
+    <text>Flying, first strike, vigilance, trample, haste, protection from black and from red</text>
+    <flavorText>"Wrath is no vice when inflicted upon the deserving."</flavorText>
+  </item>
+  <item>
+    <id>DVD0002</id>
+    <name>Spirit</name>
+    <text>Flying</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0003</id>
+    <name>Demon</name>
+    <text>Flying</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0004</id>
+    <name>Icatian Priest</name>
+    <text>{1}{W}{W}: Target creature gets +1/+1 until end of turn.</text>
+    <flavorText>Grelden knelt and felt the cool, dry hand of the priest on his brow. Hours later, when his wits returned, he was covered in his enemies' blood on the field of victory.</flavorText>
+  </item>
+  <item>
+    <id>DVD0005</id>
+    <name>Angelic Page</name>
+    <text>Flying
+{T}: Target attacking or blocking creature gets +1/+1 until end of turn.</text>
+    <flavorText>If only every message were as perfect as its bearer.</flavorText>
+  </item>
+  <item>
+    <id>DVD0006</id>
+    <name>Thrull</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0007</id>
+    <name>Charging Paladin</name>
+    <text>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.</text>
+    <flavorText>"Hope shall be the blade that severs our bonds."</flavorText>
+  </item>
+  <item>
+    <id>DVD0008</id>
+    <name>Venerable Monk</name>
+    <text>When Venerable Monk enters the battlefield, you gain 2 life.</text>
+    <flavorText>Age wears the flesh but galvanizes the soul.</flavorText>
+  </item>
+  <item>
+    <id>DVD0009</id>
+    <name>Angelic Protector</name>
+    <text>Flying
+Whenever Angelic Protector becomes the target of a spell or ability, Angelic Protector gets +0/+3 until end of turn.</text>
+    <flavorText>"My family sheltered in her light, the dark was content to wait."
+—Crovax</flavorText>
+  </item>
+  <item>
+    <id>DVD0010</id>
+    <name>Serra Advocate</name>
+    <text>Flying
+{T}: Target attacking or blocking creature gets +2/+2 until end of turn.</text>
+    <flavorText>An angel's blessing prepares a soldier for war better than a thousand military drills.</flavorText>
+  </item>
+  <item>
+    <id>DVD0011</id>
+    <name>Sustainer of the Realm</name>
+    <text>Flying
+Whenever Sustainer of the Realm blocks, it gets +0/+2 until end of turn.</text>
+    <flavorText>You may break her shield, but you'll never break her spirit.</flavorText>
+  </item>
+  <item>
+    <id>DVD0012</id>
+    <name>Angel of Mercy</name>
+    <text>Flying
+When Angel of Mercy enters the battlefield, you gain 3 life.</text>
+    <flavorText>Every tear shed is a drop of immortality.</flavorText>
+  </item>
+  <item>
+    <id>DVD0013</id>
+    <name>Serra Angel</name>
+    <text>Flying
+Vigilance (Attacking doesn't cause this creature to tap.)</text>
+    <flavorText>Her sword sings more beautifully than any choir.</flavorText>
+  </item>
+  <item>
+    <id>DVD0014</id>
+    <name>Twilight Shepherd</name>
+    <text>Flying, vigilance
+When Twilight Shepherd enters the battlefield, return to your hand all cards in your graveyard that were put there from the battlefield this turn.
+Persist (When this creature is put into a graveyard from the battlefield, if it had no -1/-1 counters on it, return it to the battlefield under its owner's control with a -1/-1 counter on it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0015</id>
+    <name>Luminous Angel</name>
+    <text>Flying
+At the beginning of your upkeep, you may put a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    <flavorText>"The spread of evil's destruction shall always be matched by the rise of the noble fallen."</flavorText>
+  </item>
+  <item>
+    <id>DVD0016</id>
+    <name>Reya Dawnbringer</name>
+    <text>Flying
+At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.</text>
+    <flavorText>"You have not died until I consent."</flavorText>
+  </item>
+  <item>
+    <id>DVD0017</id>
+    <name>Healing Salve</name>
+    <text>Choose one — Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0018</id>
+    <name>Angelsong</name>
+    <text>Prevent all combat damage that would be dealt this turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>Clash of sword and cry of beast fall mute when angels sound the call to prayer.</flavorText>
+  </item>
+  <item>
+    <id>DVD0019</id>
+    <name>Otherworldly Journey</name>
+    <text>Exile target creature. At the beginning of the next end step, return that card to the battlefield under its owner's control with a +1/+1 counter on it.</text>
+    <flavorText>"The landscape shimmered and I felt a chill breeze. When my vision cleared, I found myself alone among the corpses of my fallen friends."
+—Journal found in Numai</flavorText>
+  </item>
+  <item>
+    <id>DVD0020</id>
+    <name>Pacifism</name>
+    <text>Enchant creature
+Enchanted creature can't attack or block.</text>
+    <flavorText>Even those born to battle could only lay their blades at Akroma's feet.</flavorText>
+  </item>
+  <item>
+    <id>DVD0021</id>
+    <name>Serra's Boon</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+2 as long as it's white. Otherwise, it gets -2/-1.</text>
+    <flavorText>"The light of an angel's glance is warm, but her fixed stare blinds and burns."
+—Calexis, deacon of the New Order of Serra</flavorText>
+  </item>
+  <item>
+    <id>DVD0022</id>
+    <name>Angelic Benediction</name>
+    <text>Exalted (Whenever a creature you control attacks alone, that creature gets +1/+1 until end of turn.)
+Whenever a creature you control attacks alone, you may tap target creature.</text>
+    <flavorText>"Even in single combat, I am never alone."
+—Rafiq of the Many</flavorText>
+  </item>
+  <item>
+    <id>DVD0023</id>
+    <name>Faith's Fetters</name>
+    <text>Enchant permanent
+When Faith's Fetters enters the battlefield, you gain 4 life.
+Enchanted permanent's activated abilities can't be activated unless they're mana abilities. If enchanted permanent is a creature, it can't attack or block.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0024</id>
+    <name>Serra's Embrace</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+2 and has flying and vigilance.</text>
+    <flavorText>The touch of Serra's angels bears hopes aloft and empowers noble causes.</flavorText>
+  </item>
+  <item>
+    <id>DVD0025</id>
+    <name>Righteous Cause</name>
+    <text>Whenever a creature attacks, you gain 1 life.</text>
+    <flavorText>"Until the world unites in vengeful fury and Phage is destroyed, I will not stay my hand."
+—Akroma, angelic avenger</flavorText>
+  </item>
+  <item>
+    <id>DVD0026</id>
+    <name>Angel's Feather</name>
+    <text>Whenever a player casts a white spell, you may gain 1 life.</text>
+    <flavorText>If taken, it cuts the hand that clutches it. If given, it heals the hand that holds it.</flavorText>
+  </item>
+  <item>
+    <id>DVD0027</id>
+    <name>Marble Diamond</name>
+    <text>Marble Diamond enters the battlefield tapped.
+{T}: Add {W} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0028</id>
+    <name>Secluded Steppe</name>
+    <text>Secluded Steppe enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+Cycling {W} ({W}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0029</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0030</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0031</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0032</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0033</id>
+    <name>Lord of the Pit</name>
+    <text>Flying, trample
+At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.</text>
+    <flavorText>"My summoning begins your debt, planeswalker."</flavorText>
+  </item>
+  <item>
+    <id>DVD0034</id>
+    <name>Abyssal Gatekeeper</name>
+    <text>When Abyssal Gatekeeper is put into a graveyard from the battlefield, each player sacrifices a creature.</text>
+    <flavorText>"There are two ways for me to pass this gate. One involves you remaining conscious."
+—Gerrard of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>DVD0035</id>
+    <name>Foul Imp</name>
+    <text>Flying
+When Foul Imp enters the battlefield, you lose 2 life.</text>
+    <flavorText>The imp, unaware of its own odor, paused to catch its breath . . . and promptly died.</flavorText>
+  </item>
+  <item>
+    <id>DVD0036</id>
+    <name>Daggerclaw Imp</name>
+    <text>Flying
+Daggerclaw Imp can't block.</text>
+    <flavorText>The Simic use the claws as scalpels, while the Rakdos use them for tattooing and torture. The Gruul use them to pick their teeth after lunching on the rest of the carcass.</flavorText>
+  </item>
+  <item>
+    <id>DVD0037</id>
+    <name>Dusk Imp</name>
+    <text>Flying</text>
+    <flavorText>Imps are just intelligent enough to have an understanding of cruelty.</flavorText>
+  </item>
+  <item>
+    <id>DVD0038</id>
+    <name>Overeager Apprentice</name>
+    <text>Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.</text>
+    <flavorText>Slow and steady may not always win the race, but at least it doesn't end up splattered on the walls.</flavorText>
+  </item>
+  <item>
+    <id>DVD0039</id>
+    <name>Stinkweed Imp</name>
+    <text>Flying
+Whenever Stinkweed Imp deals combat damage to a creature, destroy that creature.
+Dredge 5 (If you would draw a card, instead you may put exactly five cards from the top of your library into your graveyard. If you do, return this card from your graveyard to your hand. Otherwise, draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0040</id>
+    <name>Soot Imp</name>
+    <text>Flying
+Whenever a player casts a nonblack spell, that player loses 1 life.</text>
+    <flavorText>"If one gets in your chimney, you're going to need a long wick and a barrel of bangstuff to get it out."
+—Hob Heddil</flavorText>
+  </item>
+  <item>
+    <id>DVD0041</id>
+    <name>Demon's Jester</name>
+    <text>Flying
+Hellbent — Demon's Jester gets +2/+1 as long as you have no cards in hand.</text>
+    <flavorText>They knock 'em dead, with or without the punch line.</flavorText>
+  </item>
+  <item>
+    <id>DVD0042</id>
+    <name>Souldrinker</name>
+    <text>Pay 3 life: Put a +1/+1 counter on Souldrinker.</text>
+    <flavorText>Don't drink and thrive.</flavorText>
+  </item>
+  <item>
+    <id>DVD0043</id>
+    <name>Abyssal Specter</name>
+    <text>Flying
+Whenever Abyssal Specter deals damage to a player, that player discards a card.</text>
+    <flavorText>To gaze under its hood is to invite death.</flavorText>
+  </item>
+  <item>
+    <id>DVD0044</id>
+    <name>Cackling Imp</name>
+    <text>Flying
+{T}: Target player loses 1 life.</text>
+    <flavorText>Its laughter drives needles through your mind.</flavorText>
+  </item>
+  <item>
+    <id>DVD0045</id>
+    <name>Fallen Angel</name>
+    <text>Flying
+Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.</text>
+    <flavorText>"Why do you weep for the dead? I rejoice, for they have died for me."</flavorText>
+  </item>
+  <item>
+    <id>DVD0046</id>
+    <name>Reiver Demon</name>
+    <text>Flying
+When Reiver Demon enters the battlefield, if you cast it from your hand, destroy all nonartifact, nonblack creatures. They can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0047</id>
+    <name>Kuro, Pitlord</name>
+    <text>At the beginning of your upkeep, sacrifice Kuro, Pitlord unless you pay {B}{B}{B}{B}.
+Pay 1 life: Target creature gets -1/-1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0048</id>
+    <name>Dark Ritual</name>
+    <text>Add {B}{B}{B} to your mana pool.</text>
+    <flavorText>"Leshrac, my liege, grant me the power I am due."
+—Lim-Dûl, the Necromancer</flavorText>
+  </item>
+  <item>
+    <id>DVD0049</id>
+    <name>Duress</name>
+    <text>Target opponent reveals his or her hand. You choose a noncreature, nonland card from it. That player discards that card.</text>
+    <flavorText>"Change your mind, or I'll change it for you."</flavorText>
+  </item>
+  <item>
+    <id>DVD0050</id>
+    <name>Unholy Strength</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+1.</text>
+    <flavorText>Such power grows the body as it shrinks the soul.</flavorText>
+  </item>
+  <item>
+    <id>DVD0051</id>
+    <name>Cruel Edict</name>
+    <text>Target opponent sacrifices a creature.</text>
+    <flavorText>"Choose your next words carefully. They will be your last."
+—Phage the Untouchable</flavorText>
+  </item>
+  <item>
+    <id>DVD0052</id>
+    <name>Demonic Tutor</name>
+    <text>Search your library for a card and put that card into your hand. Then shuffle your library.</text>
+    <flavorText>Liliana learned the secrets she sought, but at a price that was etched on her fate.</flavorText>
+  </item>
+  <item>
+    <id>DVD0053</id>
+    <name>Dark Banishing</name>
+    <text>Destroy target nonblack creature. It can't be regenerated.</text>
+    <flavorText>"Ha, banishment? Be merciful, say ‘death,'
+For exile hath more terror in his look,
+Much more than death."
+—William Shakespeare, Romeo and Juliet</flavorText>
+  </item>
+  <item>
+    <id>DVD0054</id>
+    <name>Oni Possession</name>
+    <text>Enchant creature
+At the beginning of your upkeep, sacrifice a creature.
+Enchanted creature gets +3/+3 and has trample.
+Enchanted creature is a Demon Spirit.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0055</id>
+    <name>Barter in Blood</name>
+    <text>Each player sacrifices two creatures.</text>
+    <flavorText>"In the game of conquest, who cares about the pawns if the king yet reigns?"
+—Geth, keeper of the Vault</flavorText>
+  </item>
+  <item>
+    <id>DVD0056</id>
+    <name>Breeding Pit</name>
+    <text>At the beginning of your upkeep, sacrifice Breeding Pit unless you pay {B}{B}.
+At the beginning of your end step, put a 0/1 black Thrull creature token onto the battlefield.</text>
+    <flavorText>The thrulls bred at a terrifying pace. In the end, they overwhelmed the Order of the Ebon Hand.</flavorText>
+  </item>
+  <item>
+    <id>DVD0057</id>
+    <name>Promise of Power</name>
+    <text>Choose one — You draw five cards and you lose 5 life; or put an X/X black Demon creature token with flying onto the battlefield, where X is the number of cards in your hand as the token enters the battlefield.
+Entwine {4} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0058</id>
+    <name>Corrupt</name>
+    <text>Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.</text>
+    <flavorText>There are things beneath the murk for whom the bog is a stew, a thin broth in need of meat.</flavorText>
+  </item>
+  <item>
+    <id>DVD0059</id>
+    <name>Consume Spirit</name>
+    <text>Spend only black mana on X.
+Consume Spirit deals X damage to target creature or player and you gain X life.</text>
+    <flavorText>"Your blood, your marrow, your spirit—all are mine."
+—Mayvar, minion of Geth</flavorText>
+  </item>
+  <item>
+    <id>DVD0060</id>
+    <name>Demon's Horn</name>
+    <text>Whenever a player casts a black spell, you may gain 1 life.</text>
+    <flavorText>Its curve mimics the twists of life and death.</flavorText>
+  </item>
+  <item>
+    <id>DVD0061</id>
+    <name>Barren Moor</name>
+    <text>Barren Moor enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+Cycling {B} ({B}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0062</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0063</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0064</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DVD0065</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

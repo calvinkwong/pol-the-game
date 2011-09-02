@@ -1,0 +1,1071 @@
+<cards name="Homelands">
+  <item>
+    <id>HML0001</id>
+    <name>Abbey Gargoyles</name>
+    <text>Flying, protection from red</text>
+    <flavorText>"Though Serra has not been seen for twenty years, her Gargoyles still watch over our city and punish the guilty."
+—Gulsen, Abbey Matron</flavorText>
+  </item>
+  <item>
+    <id>HML0002</id>
+    <name>Abbey Matron</name>
+    <text>{W}, {T}: Abbey Matron gets +0/+3 until end of turn.</text>
+    <flavorText>"The Matrons still say Serra is coming back. I bet she never even existed."
+—Murat, Death Speaker</flavorText>
+  </item>
+  <item>
+    <id>HML0003</id>
+    <name>Abbey Matron</name>
+    <text>{W}, {T}: Abbey Matron gets +0/+3 until end of turn.</text>
+    <flavorText>"The Matrons still say Serra is coming back. I bet she never even existed."
+—Murat, Death Speaker</flavorText>
+  </item>
+  <item>
+    <id>HML0004</id>
+    <name>Æther Storm</name>
+    <text>Creature spells can't be cast.
+Pay 4 life: Destroy Æther Storm. It can't be regenerated. Any player may activate this ability.</text>
+    <flavorText>"I do love the rain . . . but this storm feels somehow wrong, Taysir."
+—Daria</flavorText>
+  </item>
+  <item>
+    <id>HML0005</id>
+    <name>Aliban's Tower</name>
+    <text>Target blocking creature gets +3/+1 until end of turn.</text>
+    <flavorText>"Those who hide in hollow towers would do well to remember the rain."
+—Reyhan, Samite Alchemist</flavorText>
+  </item>
+  <item>
+    <id>HML0006</id>
+    <name>Aliban's Tower</name>
+    <text>Target blocking creature gets +3/+1 until end of turn.</text>
+    <flavorText>"Those who hide in hollow towers would do well to remember the rain."
+—Reyhan, Samite Alchemist</flavorText>
+  </item>
+  <item>
+    <id>HML0007</id>
+    <name>Ambush</name>
+    <text>Blocking creatures gain first strike until end of turn.</text>
+    <flavorText>"Don't these goons have anything better to do?"
+—Joskun, An-Havva Constable</flavorText>
+  </item>
+  <item>
+    <id>HML0008</id>
+    <name>Ambush Party</name>
+    <text>First strike, haste</text>
+    <flavorText>"Call it a cost of doing business. The best way to protect against thieves is to hire better thieves."
+—Eron the Relentless</flavorText>
+  </item>
+  <item>
+    <id>HML0009</id>
+    <name>Ambush Party</name>
+    <text>First strike, haste</text>
+    <flavorText>"Call it a cost of doing business. The best way to protect against thieves is to hire better thieves."
+—Eron the Relentless</flavorText>
+  </item>
+  <item>
+    <id>HML0010</id>
+    <name>Anaba Ancestor</name>
+    <text>{T}: Another target Minotaur creature gets +1/+1 until end of turn.</text>
+    <flavorText>"The Ancestors are the wisdom of the tribe and the soul of the Homelands. I am eternally in their debt."
+—Taysir</flavorText>
+  </item>
+  <item>
+    <id>HML0011</id>
+    <name>Anaba Bodyguard</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)</text>
+    <flavorText>"Not someone to pick a fight with, unless you're fond of pain."
+—Halina, Dwarven Trader</flavorText>
+  </item>
+  <item>
+    <id>HML0012</id>
+    <name>Anaba Bodyguard</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)</text>
+    <flavorText>"Not someone to pick a fight with, unless you're fond of pain."
+—Halina, Dwarven Trader</flavorText>
+  </item>
+  <item>
+    <id>HML0013</id>
+    <name>Anaba Shaman</name>
+    <text>{R}, {T}: Anaba Shaman deals 1 damage to target creature or player.</text>
+    <flavorText>"The Shamans? Ha They are mere craven cows not capable of true magic."
+—Irini Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0014</id>
+    <name>Anaba Shaman</name>
+    <text>{R}, {T}: Anaba Shaman deals 1 damage to target creature or player.</text>
+    <flavorText>"The Shamans? Ha They are mere craven cows not capable of true magic."
+—Irini Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0015</id>
+    <name>Anaba Spirit Crafter</name>
+    <text>Minotaur creatures get +1/+0.</text>
+    <flavorText>"The Spirit Crafters sing of all our people. They sing of those lost, of those found, and of those who are yet to be."
+—Onatah, Anaba Shaman</flavorText>
+  </item>
+  <item>
+    <id>HML0016</id>
+    <name>An-Havva Constable</name>
+    <text>An-Havva Constable's toughness is equal to 1 plus the number of green creatures on the battlefield.</text>
+    <flavorText>"Joskun and the other Constables serve with passion, if not with grace."
+—Devin, Faerie Noble</flavorText>
+  </item>
+  <item>
+    <id>HML0017</id>
+    <name>An-Havva Inn</name>
+    <text>You gain X plus 1 life, where X is the number of green creatures on the battlefield.</text>
+    <flavorText>"The Inn was ever a steady source of good cheer and kindness. Greatly do I miss it, now that I am gone."
+—Ihsan's Shade</flavorText>
+  </item>
+  <item>
+    <id>HML0018</id>
+    <name>An-Havva Township</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{1}, {T}: Add {G} to your mana pool.
+
+{2}, {T}: Add {R} or {W} to your mana pool.</text>
+    <flavorText>Folk of good heart will always find a home.</flavorText>
+  </item>
+  <item>
+    <id>HML0019</id>
+    <name>An-Zerrin Ruins</name>
+    <text>As An-Zerrin Ruins enters the battlefield, choose a creature type.
+Creatures of the chosen type don't untap during their controllers' untap steps.</text>
+    <flavorText>"The An-Zerrins have served me well, ever since I first killed them."
+—Baron Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0020</id>
+    <name>Apocalypse Chime</name>
+    <text>{2}, {T}, Sacrifice Apocalypse Chime: Destroy all nontoken permanents from the Homelands expansion. They can't be regenerated.</text>
+    <flavorText>"One day, or another, perhaps I shall ring my pretty chime . . . loudly, so that all may hear."
+—Grandmother Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0021</id>
+    <name>Autumn Willow</name>
+    <text>Shroud
+{G}: Until end of turn, Autumn Willow can be the target of spells and abilities controlled by target player as though it didn't have shroud.</text>
+    <flavorText>"We must shake her limbs and rattle her brains."
+—Grandmother Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0022</id>
+    <name>Aysen Abbey</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{1}, {T}: Add {W} to your mana pool.
+
+{2}, {T}: Add {G} or {U} to your mana pool.</text>
+    <flavorText>Serra's gift to her people: a symbol of faith and hope.</flavorText>
+  </item>
+  <item>
+    <id>HML0023</id>
+    <name>Aysen Bureaucrats</name>
+    <text>{T}: Tap target creature with power 2 or less.</text>
+    <flavorText>"All the tortures of my vault of horrors pale in comparison to dealing with those petty Bureaucrats."
+—Baron Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0024</id>
+    <name>Aysen Bureaucrats</name>
+    <text>{T}: Tap target creature with power 2 or less.</text>
+    <flavorText>"All the tortures of my vault of horrors pale in comparison to dealing with those petty Bureaucrats."
+—Baron Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0025</id>
+    <name>Aysen Crusader</name>
+    <text>Aysen Crusader's power and toughness are each equal to 2 plus the number of Soldiers and Warriors you control.</text>
+    <flavorText>"A renegade rallying the rabble does not a true Crusader make."
+—Irini Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0026</id>
+    <name>Aysen Highway</name>
+    <text>White creatures have plainswalk.</text>
+    <flavorText>"Tread the roads of righteousness, Murat, lest you lose your way and be consumed."
+—Baris, Serra Inquisitor</flavorText>
+  </item>
+  <item>
+    <id>HML0027</id>
+    <name>Baki's Curse</name>
+    <text>Baki's Curse deals 2 damage to each creature for each Aura attached to that creature.</text>
+    <flavorText>"Those who fling spells too quickly should have reason to regret it."
+—Baki, Wizard Attendant</flavorText>
+  </item>
+  <item>
+    <id>HML0028</id>
+    <name>Baron Sengir</name>
+    <text>Flying
+Whenever a creature dealt damage by Baron Sengir this turn is put into a graveyard, put a +2/+2 counter on Baron Sengir.
+{T}: Regenerate another target Vampire.</text>
+    <flavorText>"Beast. Defiler. The source of all my pain."Ihsan's Shade</flavorText>
+  </item>
+  <item>
+    <id>HML0029</id>
+    <name>Beast Walkers</name>
+    <text>{G}: Beast Walkers gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>"The Beast Walkers do a great service to Aysen. As humans or as beasts, their heart is yet to Serra true."
+—Baris, Serra Inquisitor</flavorText>
+  </item>
+  <item>
+    <id>HML0030</id>
+    <name>Black Carriage</name>
+    <text>Trample
+Black Carriage doesn't untap during your untap step.
+Sacrifice a creature: Untap Black Carriage. Activate this ability only during your upkeep.</text>
+    <flavorText>"The Baron's drivers are also driven."
+—Chandler</flavorText>
+  </item>
+  <item>
+    <id>HML0031</id>
+    <name>Broken Visage</name>
+    <text>Destroy target nonartifact attacking creature. It can't be regenerated. Put a black Spirit creature token with that creature's power and toughness onto the battlefield. Sacrifice the token at the beginning of the next end step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0032</id>
+    <name>Carapace</name>
+    <text>Enchant creature
+Enchanted creature gets +0/+2.
+Sacrifice Carapace: Regenerate enchanted creature.</text>
+    <flavorText>"Now, that's a fashion statement."
+—Devin, Faerie Noble</flavorText>
+  </item>
+  <item>
+    <id>HML0033</id>
+    <name>Carapace</name>
+    <text>Enchant creature
+Enchanted creature gets +0/+2.
+Sacrifice Carapace: Regenerate enchanted creature.</text>
+    <flavorText>"Now, that's a fashion statement."
+—Devin, Faerie Noble</flavorText>
+  </item>
+  <item>
+    <id>HML0034</id>
+    <name>Castle Sengir</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{1}, {T}: Add {B} to your mana pool.
+
+{2}, {T}: Add {U} or {R} to your mana pool.</text>
+    <flavorText>Where hope has no champion, evil rules all.</flavorText>
+  </item>
+  <item>
+    <id>HML0035</id>
+    <name>Cemetery Gate</name>
+    <text>Defender (This creature can't attack.)
+Protection from black</text>
+    <flavorText>"Just the place for a picnic."
+—Murat, Death Speaker</flavorText>
+  </item>
+  <item>
+    <id>HML0036</id>
+    <name>Cemetery Gate</name>
+    <text>Defender (This creature can't attack.)
+Protection from black</text>
+    <flavorText>"Just the place for a picnic."
+—Murat, Death Speaker</flavorText>
+  </item>
+  <item>
+    <id>HML0037</id>
+    <name>Chain Stasis</name>
+    <text>You may tap or untap target creature. Then that creature's controller may pay {2}{U}. If the player does, he or she may copy this spell and may choose a new target for that copy.</text>
+    <flavorText>"Here we go again."
+—Kakra, Sea Troll</flavorText>
+  </item>
+  <item>
+    <id>HML0038</id>
+    <name>Chandler</name>
+    <text>{R}{R}{R}, {T}: Destroy target artifact creature.</text>
+    <flavorText>"Never brag about the latest wonder you've created, students. Chandler might be listening."
+—Reveka, Wizard Savant</flavorText>
+  </item>
+  <item>
+    <id>HML0039</id>
+    <name>Clockwork Gnomes</name>
+    <text>{3}, {T}: Regenerate target artifact creature.</text>
+    <flavorText>"Until I came to the Floating Isle, I never had to oil the servants."
+—Baki, Wizard Attendant</flavorText>
+  </item>
+  <item>
+    <id>HML0040</id>
+    <name>Clockwork Steed</name>
+    <text>Clockwork Steed enters the battlefield with four +1/+0 counters on it.
+Clockwork Steed can't be blocked by artifact creatures.
+At end of combat, if Clockwork Steed attacked or blocked this combat, remove a +1/+0 counter from it.
+{X}, {T}: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate this ability only during your upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0041</id>
+    <name>Clockwork Swarm</name>
+    <text>Clockwork Swarm enters the battlefield with four +1/+0 counters on it.
+Clockwork Swarm can't be blocked by Walls.
+At end of combat, if Clockwork Swarm attacked or blocked this combat, remove a +1/+0 counter from it.
+{X}, {T}: Put up to X +1/+0 counters on Clockwork Swarm. This ability can't cause the total number of +1/+0 counters on Clockwork Swarm to be greater than four. Activate this ability only during your upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0042</id>
+    <name>Coral Reef</name>
+    <text>Coral Reef enters the battlefield with four polyp counters on it.
+Sacrifice an Island: Put two polyp counters on Coral Reef.
+{U}, Tap an untapped blue creature you control, Remove a polyp counter from Coral Reef: Put a +0/+1 counter on target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0043</id>
+    <name>Dark Maze</name>
+    <text>Defender (This creature can't attack.)
+{0}: Dark Maze can attack this turn as though it didn't have defender.  Exile it at the beginning of the next end step.</text>
+    <flavorText>"The path of faith is fortunately fraught with failure."
+—Irini Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0044</id>
+    <name>Dark Maze</name>
+    <text>Defender (This creature can't attack.)
+{0}: Dark Maze can attack this turn as though it didn't have defender.  Exile it at the beginning of the next end step.</text>
+    <flavorText>"The path of faith is fortunately fraught with failure."
+—Irini Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0045</id>
+    <name>Daughter of Autumn</name>
+    <text>{W}: The next 1 damage that would be dealt to target white creature this turn is dealt to Daughter of Autumn instead.</text>
+    <flavorText>"Those who say that Serra is dead have never met the Autumn Willow's daughters. They are as kind and as generous as Serra would wish us to be."
+—Gulsen, Abbey Matron</flavorText>
+  </item>
+  <item>
+    <id>HML0046</id>
+    <name>Death Speakers</name>
+    <text>Protection from black</text>
+    <flavorText>"Such innocent little birds. They sing a sweet song, sitting on their fragile branch."
+—Grandmother Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0047</id>
+    <name>Didgeridoo</name>
+    <text>{3}: You may put a Minotaur permanent card from your hand onto the battlefield.</text>
+    <flavorText>"Play the song of he who delivered us. Play the song of Feroz."
+—Onatah, Anaba Shaman</flavorText>
+  </item>
+  <item>
+    <id>HML0048</id>
+    <name>Drudge Spell</name>
+    <text>{B}, Exile two creature cards from your graveyard: Put a 1/1 black Skeleton creature token onto the battlefield. It has "{B}: Regenerate this creature."
+When Drudge Spell leaves the battlefield, destroy all Skeleton tokens. They can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0049</id>
+    <name>Dry Spell</name>
+    <text>Dry Spell deals 1 damage to each creature and each player.</text>
+    <flavorText>"My soul thirsts for Serra's salvation, as does my body for life's breath."
+—Ihsan's Shade</flavorText>
+  </item>
+  <item>
+    <id>HML0050</id>
+    <name>Dry Spell</name>
+    <text>Dry Spell deals 1 damage to each creature and each player.</text>
+    <flavorText>"My soul thirsts for Serra's salvation, as does my body for life's breath."
+—Ihsan's Shade</flavorText>
+  </item>
+  <item>
+    <id>HML0051</id>
+    <name>Dwarven Pony</name>
+    <text>{1}{R}, {T}: Target Dwarf creature gains mountainwalk until end of turn.</text>
+    <flavorText>"I hear Halina's got a pony that can count to six—and likes to eat meat."
+—Chandler</flavorText>
+  </item>
+  <item>
+    <id>HML0052</id>
+    <name>Dwarven Sea Clan</name>
+    <text>{T}: Choose target attacking or blocking creature whose controller controls an Island. Dwarven Sea Clan deals 2 damage to that creature at end of combat. Activate this ability only before the end of combat step.</text>
+    <flavorText>"No dwarf alive can best one of my crew dead."
+—Zeki, Reef Pirate</flavorText>
+  </item>
+  <item>
+    <id>HML0053</id>
+    <name>Dwarven Trader</name>
+    <text>
+    </text>
+    <flavorText>"They wouldn't sell their own families—at least, not for cheap."
+—Zeki, Reef Pirate</flavorText>
+  </item>
+  <item>
+    <id>HML0054</id>
+    <name>Dwarven Trader</name>
+    <text>
+    </text>
+    <flavorText>"They wouldn't sell their own families—at least, not for cheap."
+—Zeki, Reef Pirate</flavorText>
+  </item>
+  <item>
+    <id>HML0055</id>
+    <name>Ebony Rhino</name>
+    <text>Trample</text>
+    <flavorText>"That Rhino would fetch us a tidy sum, Joven. Perhaps it's time to make it ours."
+—Chandler</flavorText>
+  </item>
+  <item>
+    <id>HML0056</id>
+    <name>Eron the Relentless</name>
+    <text>Haste
+{R}{R}{R}: Regenerate Eron the Relentless.</text>
+    <flavorText>"Eron would be much less of a hassle if only he were mortal."
+—Reyhan, Samite Alchemist</flavorText>
+  </item>
+  <item>
+    <id>HML0057</id>
+    <name>Evaporate</name>
+    <text>Evaporate deals 1 damage to each creature that's white or blue.</text>
+    <flavorText>"The body is a temple with a foundation of sand."
+—Autumn Willow</flavorText>
+  </item>
+  <item>
+    <id>HML0058</id>
+    <name>Faerie Noble</name>
+    <text>Flying
+Other Faerie creatures you control get +0/+1.
+{T}: Other Faerie creatures you control get +1/+0 until end of turn.</text>
+    <flavorText>"Faeries talk all in riddles and tricky bits, ‘cept the Nobles. Now, there's some straight talkers."
+—Joskun, An-Havva Constable</flavorText>
+  </item>
+  <item>
+    <id>HML0059</id>
+    <name>Feast of the Unicorn</name>
+    <text>Enchant creature
+Enchanted creature gets +4/+0.</text>
+    <flavorText>"Could there be a fouler act? No doubt the Baron knows of one."
+—Autumn Willow</flavorText>
+  </item>
+  <item>
+    <id>HML0060</id>
+    <name>Feast of the Unicorn</name>
+    <text>Enchant creature
+Enchanted creature gets +4/+0.</text>
+    <flavorText>"Could there be a fouler act? No doubt the Baron knows of one."
+—Autumn Willow</flavorText>
+  </item>
+  <item>
+    <id>HML0061</id>
+    <name>Feroz's Ban</name>
+    <text>Creature spells cost {2} more to cast.</text>
+    <flavorText>"Without the protection of Feroz's Ban, I fear the Homelands are lost."
+—Daria</flavorText>
+  </item>
+  <item>
+    <id>HML0062</id>
+    <name>Folk of An-Havva</name>
+    <text>Whenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.</text>
+    <flavorText>"This town's only for good folk. The rest can go to the city."
+—Joskun, An-Havva Constable</flavorText>
+  </item>
+  <item>
+    <id>HML0063</id>
+    <name>Folk of An-Havva</name>
+    <text>Whenever Folk of An-Havva blocks, it gets +2/+0 until end of turn.</text>
+    <flavorText>"This town's only for good folk. The rest can go to the city."
+—Joskun, An-Havva Constable</flavorText>
+  </item>
+  <item>
+    <id>HML0064</id>
+    <name>Forget</name>
+    <text>Target player discards two cards, then draws as many cards as he or she discarded this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0065</id>
+    <name>Funeral March</name>
+    <text>Enchant creature
+When enchanted creature leaves the battlefield, its controller sacrifices a creature.</text>
+    <flavorText>"This party is such fun—but it's a shame to mourn just one."
+—Irini Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0066</id>
+    <name>Ghost Hounds</name>
+    <text>Vigilance
+Whenever Ghost Hounds blocks or becomes blocked by a white creature, Ghost Hounds gains first strike until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0067</id>
+    <name>Giant Albatross</name>
+    <text>Flying
+When Giant Albatross is put into a graveyard from the battlefield, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0068</id>
+    <name>Giant Albatross</name>
+    <text>Flying
+When Giant Albatross is put into a graveyard from the battlefield, you may pay {1}{U}. If you do, for each creature that dealt damage to Giant Albatross this turn, destroy that creature unless its controller pays 2 life. A creature destroyed this way can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0069</id>
+    <name>Giant Oyster</name>
+    <text>You may choose not to untap Giant Oyster during your untap step.
+{T}: For as long as Giant Oyster remains tapped, target tapped creature doesn't untap during its controller's untap step, and at the beginning of each of your draw steps, put a -1/-1 counter on that creature. When Giant Oyster leaves the battlefield or becomes untapped, remove all -1/-1 counters from the creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0070</id>
+    <name>Grandmother Sengir</name>
+    <text>{1}{B}, {T}: Target creature gets -1/-1 until end of turn.</text>
+    <flavorText>"Rarely have power and madness been so delightfully wed as they have in our dear Grandmother."
+—Baron Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0071</id>
+    <name>Greater Werewolf</name>
+    <text>At end of combat, put a -0/-2 counter on all creatures blocking or blocked by Greater Werewolf.</text>
+    <flavorText>"The wolf-things are no mere beasts, but the lieutenants of the Baron."
+—Taysir</flavorText>
+  </item>
+  <item>
+    <id>HML0072</id>
+    <name>Hazduhr the Abbot</name>
+    <text>{X}, {T}: The next X damage that would be dealt this turn to target white creature you control is dealt to Hazduhr the Abbot instead.</text>
+    <flavorText>"Soon, Serra will return and choose the Abbot's successor, else we are lost."
+—Gulsen, Abbey Matron</flavorText>
+  </item>
+  <item>
+    <id>HML0073</id>
+    <name>Headstone</name>
+    <text>Exile target card from a graveyard.
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>"Your headstone is the last page in the book of your life."
+—Murat, Death Speaker</flavorText>
+  </item>
+  <item>
+    <id>HML0074</id>
+    <name>Heart Wolf</name>
+    <text>First strike
+{T}: Target Dwarf creature gets +2/+0 and gains first strike until end of turn. When that creature leaves the battlefield this turn, sacrifice Heart Wolf. Activate this ability only during combat.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0075</id>
+    <name>Hungry Mist</name>
+    <text>At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.</text>
+    <flavorText>"If the air must feed, let it take the self-righteous."
+—Murat, Death Speaker</flavorText>
+  </item>
+  <item>
+    <id>HML0076</id>
+    <name>Hungry Mist</name>
+    <text>At the beginning of your upkeep, sacrifice Hungry Mist unless you pay {G}{G}.</text>
+    <flavorText>"If the air must feed, let it take the self-righteous."
+—Murat, Death Speaker</flavorText>
+  </item>
+  <item>
+    <id>HML0077</id>
+    <name>Ihsan's Shade</name>
+    <text>Protection from white</text>
+    <flavorText>"Ihsan, the weak. Ihsan, the fallen. Ihsan, the betrayer. He has brought shame to the Serra Paladins where none existed before. May his suffering equal his betrayal."
+—Baris, Serra Inquisitor</flavorText>
+  </item>
+  <item>
+    <id>HML0078</id>
+    <name>Irini Sengir</name>
+    <text>White enchantment spells and green enchantment spells cost {2} more to cast.</text>
+    <flavorText>"That cruel being brings shame to all her fellow Dwarves and misery to all the land. She is Sengir's daughter in spirit if not in blood."
+—Reveka, Wizard Savant</flavorText>
+  </item>
+  <item>
+    <id>HML0079</id>
+    <name>Ironclaw Curse</name>
+    <text>Enchant creature
+Enchanted creature gets -0/-1.
+Enchanted creature can't block creatures with power equal to or greater than the enchanted creature's toughness.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0080</id>
+    <name>Jinx</name>
+    <text>Target land becomes the basic land type of your choice until end of turn.
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>"What wizards upset, the land soon rights."
+—Gemma, Willow Priestess</flavorText>
+  </item>
+  <item>
+    <id>HML0081</id>
+    <name>Joven</name>
+    <text>{R}{R}{R}, {T}: Destroy target noncreature artifact.</text>
+    <flavorText>"Joven, you're almost as good a thief as I. But Eron hates you even more."
+—Chandler</flavorText>
+  </item>
+  <item>
+    <id>HML0082</id>
+    <name>Joven's Ferrets</name>
+    <text>Whenever Joven's Ferrets attacks, it gets +0/+2 until end of turn.
+At end of combat, tap all creatures that blocked Joven's Ferrets this turn. They don't untap during their controller's next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0083</id>
+    <name>Joven's Tools</name>
+    <text>{4}, {T}: Target creature can't be blocked this turn except by Walls.</text>
+    <flavorText>"If that thief Joven ever shows his head around here again, make sure he leaves without it."
+—Eron the Relentless</flavorText>
+  </item>
+  <item>
+    <id>HML0084</id>
+    <name>Koskun Falls</name>
+    <text>At the beginning of your upkeep, sacrifice Koskun Falls unless you tap an untapped creature you control.
+Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0085</id>
+    <name>Koskun Keep</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{1}, {T}: Add {R} to your mana pool.
+
+{2}, {T}: Add {B} or {G} to your mana pool.</text>
+    <flavorText>Treachery and anarchy make poor partners.</flavorText>
+  </item>
+  <item>
+    <id>HML0086</id>
+    <name>Labyrinth Minotaur</name>
+    <text>Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
+    <flavorText>"I doubt any Labyrinth Minotaurs still live—but then again, we Minotaurs are stubborn beings."
+—Onatah, Anaba Shaman</flavorText>
+  </item>
+  <item>
+    <id>HML0087</id>
+    <name>Labyrinth Minotaur</name>
+    <text>Whenever Labyrinth Minotaur blocks a creature, that creature doesn't untap during its controller's next untap step.</text>
+    <flavorText>"I doubt any Labyrinth Minotaurs still live—but then again, we Minotaurs are stubborn beings."
+—Onatah, Anaba Shaman</flavorText>
+  </item>
+  <item>
+    <id>HML0088</id>
+    <name>Leaping Lizard</name>
+    <text>{1}{G}: Leaping Lizard gains flying and gets -0/-1 until end of turn.</text>
+    <flavorText>"I never question the Autumn Willow about her motives, not even when she turns people into Lizards. It's her way."
+—Devin, Faerie Noble</flavorText>
+  </item>
+  <item>
+    <id>HML0089</id>
+    <name>Leeches</name>
+    <text>Target player loses all poison counters. Leeches deals that much damage to that player.</text>
+    <flavorText>"Where our potions and powders fail, perhaps nature will succeed."
+—Reyhan, Samite Alchemist</flavorText>
+  </item>
+  <item>
+    <id>HML0090</id>
+    <name>Mammoth Harness</name>
+    <text>Enchant creature
+Enchanted creature loses flying.
+Whenever enchanted creature blocks or becomes blocked by a creature, the other creature gains first strike until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0091</id>
+    <name>Marjhan</name>
+    <text>Marjhan doesn't untap during your untap step.
+Marjhan can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Marjhan.
+{U}{U}, Sacrifice a creature: Untap Marjhan. Activate this ability only during your upkeep.
+{U}{U}: Marjhan gets -1/-0 until end of turn and deals 1 damage to target attacking creature without flying.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0092</id>
+    <name>Memory Lapse</name>
+    <text>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.</text>
+    <flavorText>"Oh, I had a conscience once. But alas, I seem to have forgotten where I put it."
+—Chandler</flavorText>
+  </item>
+  <item>
+    <id>HML0093</id>
+    <name>Memory Lapse</name>
+    <text>Counter target spell. If that spell is countered this way, put it on top of its owner's library instead of into that player's graveyard.</text>
+    <flavorText>"Oh, I had a conscience once. But alas, I seem to have forgotten where I put it."
+—Chandler</flavorText>
+  </item>
+  <item>
+    <id>HML0094</id>
+    <name>Merchant Scroll</name>
+    <text>Search your library for a blue instant card, reveal that card, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>"There's no trade without trust."
+—Eron, the Relentless</flavorText>
+  </item>
+  <item>
+    <id>HML0095</id>
+    <name>Mesa Falcon</name>
+    <text>Flying
+{1}{W}: Mesa Falcon gets +0/+1 until end of turn.</text>
+    <flavorText>"The faith of Serra is borne on wings of hope."
+—Gulsen, Abbey Matron</flavorText>
+  </item>
+  <item>
+    <id>HML0096</id>
+    <name>Mesa Falcon</name>
+    <text>Flying
+{1}{W}: Mesa Falcon gets +0/+1 until end of turn.</text>
+    <flavorText>"The faith of Serra is borne on wings of hope."
+—Gulsen, Abbey Matron</flavorText>
+  </item>
+  <item>
+    <id>HML0097</id>
+    <name>Mystic Decree</name>
+    <text>All creatures lose flying and islandwalk.</text>
+    <flavorText>"Curse Reveka, and curse her coddled conjurers. Their sorcerers' school shall yet be ours."
+—Irini Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0098</id>
+    <name>Narwhal</name>
+    <text>First strike, protection from red</text>
+    <flavorText>"Who needs a spear? Ya break off the horn, and ya stab the fish with it. Easy"
+—Kakra, Sea Troll</flavorText>
+  </item>
+  <item>
+    <id>HML0099</id>
+    <name>Orcish Mine</name>
+    <text>Enchant land
+Orcish Mine enters the battlefield with three ore counters on it.
+At the beginning of your upkeep and whenever enchanted land becomes tapped, remove an ore counter from Orcish Mine. If there are no ore counters on Orcish Mine, destroy that land and Orcish Mine deals 2 damage to its controller.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0100</id>
+    <name>Primal Order</name>
+    <text>At the beginning of each player's upkeep, Primal Order deals damage to that player equal to the number of nonbasic lands he or she controls.</text>
+    <flavorText>"It's strange, but I can feel it when the land is corrupted. I understand why the Autumn Willow is so protective."
+—Daria</flavorText>
+  </item>
+  <item>
+    <id>HML0101</id>
+    <name>Prophecy</name>
+    <text>Reveal the top card of target opponent's library. If it's a land, you gain 1 life. Then that player shuffles his or her library.
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0102</id>
+    <name>Rashka the Slayer</name>
+    <text>Reach (This creature can block creatures with flying.)
+Whenever Rashka blocks one or more black creatures, Rashka gets +1/+2 until end of turn.</text>
+    <flavorText>"Rarely be the prey so haughty as to hunt the hunter."
+—Baron Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0103</id>
+    <name>Reef Pirates</name>
+    <text>Whenever Reef Pirates deals damage to an opponent, that player puts the top card of his or her library into his or her graveyard.</text>
+    <flavorText>"Corpses for crew don't sit well with me. Zeki and his dead ship had best keep their distance."
+—Joskun, An-Havva Constable</flavorText>
+  </item>
+  <item>
+    <id>HML0104</id>
+    <name>Reef Pirates</name>
+    <text>Whenever Reef Pirates deals damage to an opponent, that player puts the top card of his or her library into his or her graveyard.</text>
+    <flavorText>"Corpses for crew don't sit well with me. Zeki and his dead ship had best keep their distance."
+—Joskun, An-Havva Constable</flavorText>
+  </item>
+  <item>
+    <id>HML0105</id>
+    <name>Renewal</name>
+    <text>As an additional cost to cast Renewal, sacrifice a land.
+Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0106</id>
+    <name>Retribution</name>
+    <text>Choose two target creatures an opponent controls. That player chooses and sacrifices one of those creatures. Put a -1/-1 counter on the other.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0107</id>
+    <name>Reveka, Wizard Savant</name>
+    <text>{T}: Reveka, Wizard Savant deals 2 damage to target creature or player and doesn't untap during your next untap step.</text>
+    <flavorText>"It's nice to see a sister Dwarf in a position of such power, but why'd it have to be one of those seafaring muleheads?"
+—Halina, Dwarven Trader</flavorText>
+  </item>
+  <item>
+    <id>HML0108</id>
+    <name>Root Spider</name>
+    <text>Whenever Root Spider blocks, it gets +1/+0 and gains first strike until end of turn.</text>
+    <flavorText>"They're not half as fierce if they don't see you coming."
+—Devin, Faerie Noble</flavorText>
+  </item>
+  <item>
+    <id>HML0109</id>
+    <name>Roots</name>
+    <text>Enchant creature without flying
+When Roots enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.</text>
+    <flavorText>"That which nourishes can also bind."
+—Gemma, Willow Priestess</flavorText>
+  </item>
+  <item>
+    <id>HML0110</id>
+    <name>Roterothopter</name>
+    <text>Flying
+{2}: Roterothopter gets +1/+0 until end of turn. Activate this ability no more than twice each turn.</text>
+    <flavorText>"The Roterothoper is as insidious as it is ingenious. It is one of the few creations of our school that I take no pride in."
+—Baki, Wizard Attendant</flavorText>
+  </item>
+  <item>
+    <id>HML0111</id>
+    <name>Rysorian Badger</name>
+    <text>Whenever Rysorian Badger attacks and isn't blocked, you may exile up to two target creature cards from defending player's graveyard. If you do, you gain 1 life for each card exiled this way and Rysorian Badger assigns no combat damage this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0112</id>
+    <name>Samite Alchemist</name>
+    <text>{W}{W}, {T}: Prevent the next 4 damage that would be dealt this turn to target creature you control. Tap that creature. It doesn't untap during your next untap step.</text>
+    <flavorText>"The wisest of Aysen dwell not in the Abbey, but in the laboratory."
+—Taysir</flavorText>
+  </item>
+  <item>
+    <id>HML0113</id>
+    <name>Samite Alchemist</name>
+    <text>{W}{W}, {T}: Prevent the next 4 damage that would be dealt this turn to target creature you control. Tap that creature. It doesn't untap during your next untap step.</text>
+    <flavorText>"The wisest of Aysen dwell not in the Abbey, but in the laboratory."
+—Taysir</flavorText>
+  </item>
+  <item>
+    <id>HML0114</id>
+    <name>Sea Sprite</name>
+    <text>Flying, protection from red</text>
+    <flavorText>"No one can catch what won't be caught."
+—Kakra, Sea Troll</flavorText>
+  </item>
+  <item>
+    <id>HML0115</id>
+    <name>Sea Troll</name>
+    <text>{U}: Regenerate Sea Troll. Activate this ability only if Sea Troll blocked or was blocked by a blue creature this turn.</text>
+    <flavorText>"I've seen those Trolls devour a drowning sailor faster than his lungs could fill with water."
+—Zeki, Reef Pirate</flavorText>
+  </item>
+  <item>
+    <id>HML0116</id>
+    <name>Sengir Autocrat</name>
+    <text>When Sengir Autocrat enters the battlefield, put three 0/1 black Serf creature tokens onto the battlefield.
+When Sengir Autocrat leaves the battlefield, exile all Serf tokens.</text>
+    <flavorText>"A thankless job, and a death sentence besides."
+—Eron the Relentless</flavorText>
+  </item>
+  <item>
+    <id>HML0117</id>
+    <name>Sengir Bats</name>
+    <text>Flying
+Whenever a creature dealt damage by Sengir Bats this turn is put into a graveyard, put a +1/+1 counter on Sengir Bats.</text>
+    <flavorText>"They are the eyes of the Baron, and they know your fears."
+—Ihsan's Shade</flavorText>
+  </item>
+  <item>
+    <id>HML0118</id>
+    <name>Sengir Bats</name>
+    <text>Flying
+Whenever a creature dealt damage by Sengir Bats this turn is put into a graveyard, put a +1/+1 counter on Sengir Bats.</text>
+    <flavorText>"They are the eyes of the Baron, and they know your fears."
+—Ihsan's Shade</flavorText>
+  </item>
+  <item>
+    <id>HML0119</id>
+    <name>Serra Aviary</name>
+    <text>Creatures with flying get +1/+1.</text>
+    <flavorText>"Serra, like Feroz, is long since dead. But remember, Daria: her spirit shall survive so long as the Homelands do."
+—Taysir</flavorText>
+  </item>
+  <item>
+    <id>HML0120</id>
+    <name>Serra Bestiary</name>
+    <text>Enchant creature
+At the beginning of your upkeep, sacrifice Serra Bestiary unless you pay {W}{W}.
+Enchanted creature can't attack or block and its activated abilities with {T} in their costs can't be activated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0121</id>
+    <name>Serra Inquisitors</name>
+    <text>Whenever Serra Inquisitors blocks or becomes blocked by one or more black creatures, Serra Inquisitors gets +2/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0122</id>
+    <name>Serra Paladin</name>
+    <text>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+{1}{W}{W}, {T}: Target creature gains vigilance until end of turn.</text>
+    <flavorText>"Would that I could be a Paladin again, but the dead hold no place among their ranks."
+—Ihsan's Shade</flavorText>
+  </item>
+  <item>
+    <id>HML0123</id>
+    <name>Serrated Arrows</name>
+    <text>Serrated Arrows enters the battlefield with three arrowhead counters on it.
+At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.
+{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0124</id>
+    <name>Shrink</name>
+    <text>Target creature gets -5/-0 until end of turn.</text>
+    <flavorText>"Do not fear adversity. Let your courage be your strength."
+—Onatah, Anaba Shaman</flavorText>
+  </item>
+  <item>
+    <id>HML0125</id>
+    <name>Shrink</name>
+    <text>Target creature gets -5/-0 until end of turn.</text>
+    <flavorText>"Do not fear adversity. Let your courage be your strength."
+—Onatah, Anaba Shaman</flavorText>
+  </item>
+  <item>
+    <id>HML0126</id>
+    <name>Soraya the Falconer</name>
+    <text>Bird creatures get +1/+1.
+{1}{W}: Target Bird creature gains banding until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>"Soraya speaks with the hunters of the air, as do all of her family line."
+—Autumn Willow</flavorText>
+  </item>
+  <item>
+    <id>HML0127</id>
+    <name>Spectral Bears</name>
+    <text>Whenever Spectral Bears attacks, if defending player controls no black nontoken permanents, it doesn't untap during your next untap step.</text>
+    <flavorText>"I hear there are Bears—or spirits—that guard caravans passing through the forest."Gulsen, Abbey Matron</flavorText>
+  </item>
+  <item>
+    <id>HML0128</id>
+    <name>Timmerian Fiends</name>
+    <text>Remove Timmerian Fiends from your deck before playing if you're not playing for ante.
+{B}{B}{B}, Sacrifice Timmerian Fiends: The owner of target artifact may ante the top card of his or her library. If that player doesn't, exchange ownership of that artifact and Timmerian Fiends. Put the artifact card into your graveyard and Timmerian Fiends from anywhere into that player's graveyard. This change in ownership is permanent.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0129</id>
+    <name>Torture</name>
+    <text>Enchant creature
+{1}{B}: Put a -1/-1 counter on enchanted creature.</text>
+    <flavorText>"It helps you pass the time until you die."
+—Grandmother Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0130</id>
+    <name>Torture</name>
+    <text>Enchant creature
+{1}{B}: Put a -1/-1 counter on enchanted creature.</text>
+    <flavorText>"It helps you pass the time until you die."
+—Grandmother Sengir</flavorText>
+  </item>
+  <item>
+    <id>HML0131</id>
+    <name>Trade Caravan</name>
+    <text>At the beginning of your upkeep, put a currency counter on Trade Caravan.
+Remove two currency counters from Trade Caravan: Untap target basic land. Activate this ability only during an opponent's upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0132</id>
+    <name>Trade Caravan</name>
+    <text>At the beginning of your upkeep, put a currency counter on Trade Caravan.
+Remove two currency counters from Trade Caravan: Untap target basic land. Activate this ability only during an opponent's upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0133</id>
+    <name>Truce</name>
+    <text>Each player may draw up to two cards. For each card less than two a player draws this way, that player gains 2 life.</text>
+    <flavorText>"The people of Aysen feed us, and we don't kill them. That's my kind of truce."
+—Eron the Relentless</flavorText>
+  </item>
+  <item>
+    <id>HML0134</id>
+    <name>Veldrane of Sengir</name>
+    <text>{1}{B}{B}: Veldrane of Sengir gets -3/-0 and gains forestwalk until end of turn.</text>
+    <flavorText>"Poor, foolish Veldrane. He goes wherever the Baron wills him. One day, he'll go to die."
+—Halina, Dwarven Trader</flavorText>
+  </item>
+  <item>
+    <id>HML0135</id>
+    <name>Wall of Kelp</name>
+    <text>Defender (This creature can't attack.)
+{U}{U}, {T}: Put a 0/1 blue Plant Wall creature token with defender named Kelp onto the battlefield.</text>
+    <flavorText>"Ya can eat it or ya can weave it, but ya can't fight in it."
+—Zeki, Reef Pirate</flavorText>
+  </item>
+  <item>
+    <id>HML0136</id>
+    <name>Willow Faerie</name>
+    <text>Flying</text>
+    <flavorText>"Swift as the wind and harder to catch— that's the Faeries for you."
+—Daria</flavorText>
+  </item>
+  <item>
+    <id>HML0137</id>
+    <name>Willow Faerie</name>
+    <text>Flying</text>
+    <flavorText>"Swift as the wind and harder to catch— that's the Faeries for you."
+—Daria</flavorText>
+  </item>
+  <item>
+    <id>HML0138</id>
+    <name>Willow Priestess</name>
+    <text>{T}: You may put a Faerie permanent card from your hand onto the battlefield.
+{2}{G}: Target green creature gains protection from black until end of turn.</text>
+    <flavorText>"Those of faith are those of strength."
+—Autumn Willow</flavorText>
+  </item>
+  <item>
+    <id>HML0139</id>
+    <name>Winter Sky</name>
+    <text>Flip a coin. If you win the flip, Winter Sky deals 1 damage to each creature and each player. If you lose the flip, each player draws a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>HML0140</id>
+    <name>Wizards' School</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{1}, {T}: Add {U} to your mana pool.
+
+{2}, {T}: Add {W} or {B} to your mana pool.</text>
+    <flavorText>The legacy of Feroz lives on.</flavorText>
+  </item>
+</cards>

@@ -1,0 +1,887 @@
+<cards name="Chronicles">
+  <item>
+    <id>CHR0001</id>
+    <name>Abu Ja'far</name>
+    <text>When Abu Ja'far is put into a graveyard from the battlefield, destroy all creatures blocking or blocked by it. They can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0002</id>
+    <name>Active Volcano</name>
+    <text>Choose one — Destroy target blue permanent; or return target Island to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0003</id>
+    <name>Akron Legionnaire</name>
+    <text>Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0004</id>
+    <name>Aladdin</name>
+    <text>{1}{R}{R}, {T}: Gain control of target artifact for as long as you control Aladdin.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0005</id>
+    <name>Angelic Voices</name>
+    <text>Creatures you control get +1/+1 as long as you control no nonartifact, nonwhite creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0006</id>
+    <name>Arcades Sabboth</name>
+    <text>Flying
+At the beginning of your upkeep, sacrifice Arcades Sabboth unless you pay {G}{W}{U}.
+Each untapped creature you control gets +0/+2 as long as it's not attacking.
+{W}: Arcades Sabboth gets +0/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0007</id>
+    <name>Arena of the Ancients</name>
+    <text>Legendary creatures don't untap during their controllers' untap steps.
+When Arena of the Ancients enters the battlefield, tap all legendary creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0008</id>
+    <name>Argothian Pixies</name>
+    <text>Argothian Pixies can't be blocked by artifact creatures.
+Prevent all damage that would be dealt to Argothian Pixies by artifact creatures.</text>
+    <flavorText>After the rape of Argoth Forest during the rule of the artificers, the Pixies of Argoth bent their magic to more practical ends.</flavorText>
+  </item>
+  <item>
+    <id>CHR0009</id>
+    <name>Ashnod's Altar</name>
+    <text>Sacrifice a creature: Add {2} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0010</id>
+    <name>Ashnod's Transmogrant</name>
+    <text>{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.</text>
+    <flavorText>Ashnod found few willing to trade their humanity for the power she offered them.</flavorText>
+  </item>
+  <item>
+    <id>CHR0011</id>
+    <name>Axelrod Gunnarson</name>
+    <text>Trample
+Whenever a creature dealt damage by Axelrod Gunnarson this turn is put into a graveyard, you gain 1 life and Axelrod deals 1 damage to target player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0012</id>
+    <name>Ayesha Tanaka</name>
+    <text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+{T}: Counter target activated ability from an artifact source unless that ability's controller pays {W}. (Mana abilities can't be targeted.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0013</id>
+    <name>Azure Drake</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>The Azure Drake would be more powerful were it not so easily distracted.</flavorText>
+  </item>
+  <item>
+    <id>CHR0014</id>
+    <name>Banshee</name>
+    <text>{X}, {T}: Banshee deals half X damage, rounded down, to target creature or player, and half X damage, rounded up, to you.</text>
+    <flavorText>Some say Banshees are the hounds of Death, baying to herd their prey into the arms of their master.</flavorText>
+  </item>
+  <item>
+    <id>CHR0015</id>
+    <name>Barl's Cage</name>
+    <text>{3}: Target creature doesn't untap during its controller's next untap step.</text>
+    <flavorText>For a dozen years the Cage had held Lord Ith, but as the Pretender Mairsil's power weakened, so did the bars.</flavorText>
+  </item>
+  <item>
+    <id>CHR0016</id>
+    <name>Beasts of Bogardan</name>
+    <text>Protection from red
+Beasts of Bogardan gets +1/+1 as long as an opponent controls a white permanent.</text>
+    <flavorText>Bogardan is a land as volatile as the creatures who live there.</flavorText>
+  </item>
+  <item>
+    <id>CHR0017</id>
+    <name>Blood Moon</name>
+    <text>Nonbasic lands are Mountains.</text>
+    <flavorText>Heavy light flooded across the landscape, cloaking everything in deep crimson.</flavorText>
+  </item>
+  <item>
+    <id>CHR0018</id>
+    <name>Blood of the Martyr</name>
+    <text>Until end of turn, if damage would be dealt to any creature, you may have that damage dealt to you instead.</text>
+    <flavorText>The willow knows what the storm does not: that the power to endure harm outlives the power to inflict it.</flavorText>
+  </item>
+  <item>
+    <id>CHR0019</id>
+    <name>Bog Rats</name>
+    <text>Bog Rats can't be blocked by Walls.</text>
+    <flavorText>Their stench was vile and strong enough, but not nearly as powerful as their hunger.</flavorText>
+  </item>
+  <item>
+    <id>CHR0020</id>
+    <name>Book of Rass</name>
+    <text>{2}, Pay 2 life: Draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0021</id>
+    <name>Boomerang</name>
+    <text>Return target permanent to its owner's hand.</text>
+    <flavorText>"O call back yesterday, bid time return."
+—William Shakespeare, King Richard the Second</flavorText>
+  </item>
+  <item>
+    <id>CHR0022</id>
+    <name>Bronze Horse</name>
+    <text>Trample
+If you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0023</id>
+    <name>Cat Warriors</name>
+    <text>Forestwalk</text>
+    <flavorText>These stealthy felines have survived so many battles that some believe they must possess many lives.</flavorText>
+  </item>
+  <item>
+    <id>CHR0024</id>
+    <name>Chromium</name>
+    <text>Flying
+Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+At the beginning of your upkeep, sacrifice Chromium unless you pay {W}{U}{B}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0025</id>
+    <name>City of Brass</name>
+    <text>Whenever City of Brass becomes tapped, it deals 1 damage to you.
+{T}: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0026</id>
+    <name>Cocoon</name>
+    <text>Enchant creature you control
+Enchanted creature doesn't untap during your untap step if Cocoon has a pupa counter on it.
+When Cocoon enters the battlefield, tap enchanted creature and put three pupa counters on Cocoon.
+At the beginning of your upkeep, remove a pupa counter from Cocoon. If you can't, sacrifice it and enchanted creature gets +1/+1 and gains flying. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0027</id>
+    <name>Concordant Crossroads</name>
+    <text>All creatures have haste.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0028</id>
+    <name>Craw Giant</name>
+    <text>Trample
+Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>Harthag gave a jolly laugh as he surveyed the army before him. "Ho ho ho Midgets You think you can stand in my way?"</flavorText>
+  </item>
+  <item>
+    <id>CHR0029</id>
+    <name>Cuombajj Witches</name>
+    <text>{T}: Cuombajj Witches deals 1 damage to target creature or player and 1 damage to target creature or player of an opponent's choice.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0030</id>
+    <name>Cyclone</name>
+    <text>At the beginning of your upkeep, put a wind counter on Cyclone, then sacrifice Cyclone unless you pay {G} for each wind counter on it. If you pay, Cyclone deals damage equal to the number of wind counters on it to each creature and each player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0031</id>
+    <name>Dakkon Blackblade</name>
+    <text>Dakkon Blackblade's power and toughness are each equal to the number of lands you control.</text>
+    <flavorText>"My power is as vast as the plains; my strength is that of mountains. Each wave that crashes upon the shore thunders like blood in my veins."
+—Dakkon Blackblade, Memoirs</flavorText>
+  </item>
+  <item>
+    <id>CHR0032</id>
+    <name>Dance of Many</name>
+    <text>When Dance of Many enters the battlefield, put a token that's a copy of target nontoken creature onto the battlefield.
+When Dance of Many leaves the battlefield, exile the token.
+When the token leaves the battlefield, sacrifice Dance of Many.
+At the beginning of your upkeep, sacrifice Dance of Many unless you pay {U}{U}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0033</id>
+    <name>Dandân</name>
+    <text>Dandân can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Dandân.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0034</id>
+    <name>D'Avenant Archer</name>
+    <text>{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0035</id>
+    <name>Divine Offering</name>
+    <text>Destroy target artifact. You gain life equal to its converted mana cost.</text>
+    <flavorText>D'Haren stared a the twisted lump of metal that had been a prized artifact. The fight was getting ugly.</flavorText>
+  </item>
+  <item>
+    <id>CHR0036</id>
+    <name>Emerald Dragonfly</name>
+    <text>Flying
+{G}{G}: Emerald Dragonfly gains first strike until end of turn.</text>
+    <flavorText>"Flittering, wheeling,/ darting in to strike, and then/ gone just as you blink."
+—"Dragonfly Haiku," poet unkown</flavorText>
+  </item>
+  <item>
+    <id>CHR0037</id>
+    <name>Enchantment Alteration</name>
+    <text>Attach target Aura attached to a creature or land to another permanent of that type.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0038</id>
+    <name>Erhnam Djinn</name>
+    <text>At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0039</id>
+    <name>Fallen Angel</name>
+    <text>Flying
+Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0040</id>
+    <name>Feldon's Cane</name>
+    <text>{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.</text>
+    <flavorText>Feldon found the first of these canes frozen in the Ronom Glacier.</flavorText>
+  </item>
+  <item>
+    <id>CHR0041</id>
+    <name>Fire Drake</name>
+    <text>Flying
+{R}: Fire Drake gets +1/+0 until end of turn. Activate this ability only once each turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0042</id>
+    <name>Fishliver Oil</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has islandwalk. (This creature is unblockable as long as defending player controls an Island.)</text>
+    <flavorText>Then the maiden bade him cast off his robes and cover his body with fishliver oil, that he might safely follow her into the sea.</flavorText>
+  </item>
+  <item>
+    <id>CHR0043</id>
+    <name>Flash Flood</name>
+    <text>Choose one — Destroy target red permanent; or return target Mountain to its owner's hand.</text>
+    <flavorText>Many people say that no power can bring the mountains low. Many people are fools.</flavorText>
+  </item>
+  <item>
+    <id>CHR0044</id>
+    <name>Fountain of Youth</name>
+    <text>{2}, {T}: You gain 1 life.</text>
+    <flavorText>The Fountain had stood in the town square for centuries, but only the pigeons knew its secret.</flavorText>
+  </item>
+  <item>
+    <id>CHR0045</id>
+    <name>Gabriel Angelfire</name>
+    <text>At the beginning of your upkeep, choose flying, first strike, trample, or rampage 3. Gabriel Angelfire gains that ability until your next upkeep. (Whenever a creature with rampage 3 becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0046</id>
+    <name>Gauntlets of Chaos</name>
+    <text>{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land you control and target permanent an opponent controls that shares one of those types with it. If those permanents are exchanged this way, destroy all Auras attached to them.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0047</id>
+    <name>Ghazbán Ogre</name>
+    <text>At the beginning of your upkeep, if a player has more life than each other player, the player with the most life gains control of Ghazbán Ogre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0048</id>
+    <name>Giant Slug</name>
+    <text>{5}: At the beginning of your next upkeep, choose a basic land type. Giant Slug gains landwalk of the chosen type until the end of that turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0049</id>
+    <name>Goblin Artisans</name>
+    <text>{T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0050</id>
+    <name>Goblin Digging Team</name>
+    <text>{T}, Sacrifice Goblin Digging Team: Destroy target Wall.</text>
+    <flavorText>"From down here we can make the whole wall collapse" "Uh, yeah, boss, but how do we get out?"</flavorText>
+  </item>
+  <item>
+    <id>CHR0051</id>
+    <name>Goblin Shrine</name>
+    <text>Enchant land
+If enchanted land is a Mountain, Goblin creatures get +1/+0.
+When Goblin Shrine leaves the battlefield, it deals 1 damage to each Goblin creature.</text>
+    <flavorText>"I knew it weren't no ordinary pile of—you know."Norin the Wary</flavorText>
+  </item>
+  <item>
+    <id>CHR0052</id>
+    <name>Goblins of the Flarg</name>
+    <text>Mountainwalk
+When you control a Dwarf, sacrifice Goblins of the Flarg.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0053</id>
+    <name>Hasran Ogress</name>
+    <text>Whenever Hasran Ogress attacks, it deals 3 damage to you unless you pay {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0054</id>
+    <name>Hell's Caretaker</name>
+    <text>{T}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.</text>
+    <flavorText>You might leave here, Chenndra, should another take your place . . . .</flavorText>
+  </item>
+  <item>
+    <id>CHR0055</id>
+    <name>Horn of Deafening</name>
+    <text>{2}, {T}: Prevent all combat damage that would be dealt by target creature this turn.</text>
+    <flavorText>"A blast, an echo . . . then silence."</flavorText>
+  </item>
+  <item>
+    <id>CHR0056</id>
+    <name>Indestructible Aura</name>
+    <text>Prevent all damage that would be dealt to target creature this turn.</text>
+    <flavorText>Theodar strode the battle lines, snatching swords with his bare hands and casting them aside until all cowered before him.</flavorText>
+  </item>
+  <item>
+    <id>CHR0057</id>
+    <name>Ivory Guardians</name>
+    <text>Protection from red
+Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.</text>
+    <flavorText>The elite guard of the Mesa High Priests, the Ivory Guardians were created to protect the innocent and faithful.</flavorText>
+  </item>
+  <item>
+    <id>CHR0058</id>
+    <name>Jalum Tome</name>
+    <text>{2}, {T}: Draw a card, then discard a card.</text>
+    <flavorText>This timeworn relic was responsible for many of Urza's victories, though he never fully comprehended its mystic runes.</flavorText>
+  </item>
+  <item>
+    <id>CHR0059</id>
+    <name>Jeweled Bird</name>
+    <text>Remove Jeweled Bird from your deck before playing if you're not playing for ante.
+{T}: Put Jeweled Bird into the ante. If you do, put all other cards you own from the ante into your graveyard, then draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0060</id>
+    <name>Johan</name>
+    <text>At the beginning of combat on your turn, you may have Johan gain "Johan can't attack" until end of combat. If you do, attacking doesn't cause creatures you control to tap this combat if Johan is untapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0061</id>
+    <name>Juxtapose</name>
+    <text>You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0062</id>
+    <name>Keepers of the Faith</name>
+    <text>
+    </text>
+    <flavorText>And then the Archangel Anthius spoke to them saying, "Fear shall be vanquished by the Sword of Faith."</flavorText>
+  </item>
+  <item>
+    <id>CHR0063</id>
+    <name>Kei Takahashi</name>
+    <text>{T}: Prevent the next 2 damage that would be dealt to target creature this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0064</id>
+    <name>Land's Edge</name>
+    <text>Discard a card: If the discarded card is a land card, Land's Edge deals 2 damage to target player. Any player may activate this ability.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0065</id>
+    <name>Living Armor</name>
+    <text>{T}, Sacrifice Living Armor: Put X +0/+1 counters on target creature, where X is that creature's converted mana cost.</text>
+    <flavorText>Though it affords excellent protection, few don this armor. The process is uncomfortable and not easily reversed.</flavorText>
+  </item>
+  <item>
+    <id>CHR0066</id>
+    <name>Marhault Elsdragon</name>
+    <text>Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>Marhault Elsdragon follows a strict philosophy, never letting emotions cloud his thoughts. No chance observer could imagine the rage in his heart.</flavorText>
+  </item>
+  <item>
+    <id>CHR0067</id>
+    <name>Metamorphosis</name>
+    <text>As an additional cost to cast Metamorphosis, sacrifice a creature.
+Add X mana of any one color to your mana pool, where X is one plus the sacrificed creature's converted mana cost. Spend this mana only to cast creature spells.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0068</id>
+    <name>Mountain Yeti</name>
+    <text>Mountainwalk, protection from white</text>
+    <flavorText>The Yeti's single greatest asset is its unnerving ability to blend in with its surroundings.</flavorText>
+  </item>
+  <item>
+    <id>CHR0069</id>
+    <name>Nebuchadnezzar</name>
+    <text>{X}, {T}: Name a card. Target opponent reveals X cards at random from his or her hand. Then that player discards all cards with that name revealed this way. Activate this ability only during your turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0070</id>
+    <name>Nicol Bolas</name>
+    <text>Flying
+At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.
+Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0071</id>
+    <name>Obelisk of Undoing</name>
+    <text>{6}, {T}: Return target permanent you own and control to your hand.</text>
+    <flavorText>The Battle of Tomakul taught Urza not to rely on fickle reinforcements.</flavorText>
+  </item>
+  <item>
+    <id>CHR0072</id>
+    <name>Palladia-Mors</name>
+    <text>Flying, trample
+At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0073</id>
+    <name>Petra Sphinx</name>
+    <text>{T}: Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn't, the player puts it into his or her graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0074</id>
+    <name>Primordial Ooze</name>
+    <text>Primordial Ooze attacks each turn if able.
+At the beginning of your upkeep, put a +1/+1 counter on Primordial Ooze. Then you may pay {X}, where X is the number of +1/+1 counters on it. If you don't, tap Primordial Ooze and it deals X damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0075</id>
+    <name>Puppet Master</name>
+    <text>Enchant creature
+When enchanted creature is put into a graveyard, return that card to its owner's hand. If that card is returned to its owner's hand this way, you may pay {U}{U}{U}. If you do, return Puppet Master from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0076</id>
+    <name>Rabid Wombat</name>
+    <text>Vigilance
+Rabid Wombat gets +2/+2 for each Aura attached to it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0077</id>
+    <name>Rakalite</name>
+    <text>{2}: Prevent the next 1 damage that would be dealt to target creature or player this turn. Return Rakalite to its owner's hand at the beginning of the next end step.</text>
+    <flavorText>Urza was the first to understand that the war would not be lost for lack of power, but for lack of troops.</flavorText>
+  </item>
+  <item>
+    <id>CHR0078</id>
+    <name>Recall</name>
+    <text>Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0079</id>
+    <name>Remove Soul</name>
+    <text>Counter target creature spell.</text>
+    <flavorText>Nethya stiffened suddenly, head cocked as if straining to hear some distant sound, then fell lifeless to the ground.</flavorText>
+  </item>
+  <item>
+    <id>CHR0080</id>
+    <name>Repentant Blacksmith</name>
+    <text>Protection from red</text>
+    <flavorText>"For my confession they burned me with fire
+And found that I was for endurance made."
+—The Arabian Nights, trans. Haddawy</flavorText>
+  </item>
+  <item>
+    <id>CHR0081</id>
+    <name>Revelation</name>
+    <text>All players play with their hands revealed.</text>
+    <flavorText>"Many are in high place, and of renown: but mysteries are revealed unto the meek."Ecclesiasticus 3:19</flavorText>
+  </item>
+  <item>
+    <id>CHR0082</id>
+    <name>Rubinia Soulsinger</name>
+    <text>You may choose not to untap Rubinia Soulsinger during your untap step.
+{T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0083</id>
+    <name>Runesword</name>
+    <text>{3}, {T}: Target attacking creature gets +2/+0 until end of turn. When that creature leaves the battlefield this turn, sacrifice Runesword. If the creature deals damage to a creature this turn, the creature dealt damage can't be regenerated this turn. If a creature dealt damage by the targeted creature would be put into a graveyard this turn, exile that creature instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0084</id>
+    <name>Safe Haven</name>
+    <text>{2}, {T}: Exile target creature you control.
+At the beginning of your upkeep, you may sacrifice Safe Haven. If you do, return each card exiled with Safe Haven to the battlefield under its owner's control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0085</id>
+    <name>Scavenger Folk</name>
+    <text>{G}, {T}, Sacrifice Scavenger Folk: Destroy target artifact.</text>
+    <flavorText>String, weapons, wax or jewels—it makes no difference. Leave nothing unguarded in Scarwood.</flavorText>
+  </item>
+  <item>
+    <id>CHR0086</id>
+    <name>Sentinel</name>
+    <text>{0}: Sentinel's toughness becomes 1 plus the power of target creature blocking or blocked by Sentinel. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0087</id>
+    <name>Serpent Generator</name>
+    <text>{4}, {T}: Put a 1/1 colorless Snake artifact creature token onto the battlefield. This creature has "Whenever this creature deals damage to a player, that player gets a poison counter." (A player with ten or more poison counters loses the game.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0088</id>
+    <name>Shield Wall</name>
+    <text>Creatures you control get +0/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0089</id>
+    <name>Shimian Night Stalker</name>
+    <text>{B}, {T}: All damage that would be dealt to you this turn by target attacking creature is dealt to Shimian Night Stalker instead.</text>
+    <flavorText>"When churchyards yawn and hell itself breathes out/ Contagion to this world."
+—William Shakespeare, Hamlet</flavorText>
+  </item>
+  <item>
+    <id>CHR0090</id>
+    <name>Sivitri Scarzam</name>
+    <text>
+    </text>
+    <flavorText>Even the brave have cause to tremble at the sight of Sivitri Scarzam. Who else has tamed Scarzam's Dragon?</flavorText>
+  </item>
+  <item>
+    <id>CHR0091</id>
+    <name>Sol'kanar the Swamp King</name>
+    <text>Swampwalk
+Whenever a player casts a black spell, you gain 1 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0092</id>
+    <name>Stangg</name>
+    <text>When Stangg enters the battlefield, put a legendary 3/4 red and green Human Warrior creature token named Stangg Twin onto the battlefield. When Stangg leaves the battlefield, exile that token. When that token leaves the battlefield, sacrifice Stangg.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0093</id>
+    <name>Storm Seeker</name>
+    <text>Storm Seeker deals damage equal to the number of cards in target player's hand to that player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0094</id>
+    <name>Takklemaggot</name>
+    <text>Enchant creature
+At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.
+When enchanted creature is put into a graveyard, that creature's controller chooses a creature that Takklemaggot could enchant. If he or she does, return Takklemaggot to the battlefield under your control attached to that creature. If he or she doesn't, return Takklemaggot to the battlefield under your control as a non-Aura enchantment. It loses "enchant creature" and gains "At the beginning of that player's upkeep, Takklemaggot deals 1 damage to him or her."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0095</id>
+    <name>Teleport</name>
+    <text>Cast Teleport only after attackers are declared and before blockers are declared.
+Target creature is unblockable this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0096</id>
+    <name>The Fallen</name>
+    <text>At the beginning of your upkeep, The Fallen deals 1 damage to each opponent it has dealt damage to this game.</text>
+    <flavorText>Magic often masters those who cannot master it.</flavorText>
+  </item>
+  <item>
+    <id>CHR0097</id>
+    <name>The Wretched</name>
+    <text>At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0098</id>
+    <name>Tobias Andrion</name>
+    <text>
+    </text>
+    <flavorText>Administrator of the military state of Sheoltun, Tobias Andrion is the military right arm of the empire and the figurehead of its freedom.</flavorText>
+  </item>
+  <item>
+    <id>CHR0099</id>
+    <name>Tor Wauki</name>
+    <text>{T}: Tor Wauki deals 2 damage to target attacking or blocking creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0100</id>
+    <name>Tormod's Crypt</name>
+    <text>{T}, Sacrifice Tormod's Crypt: Exile all cards from target player's graveyard.</text>
+    <flavorText>The dark opening seemed to breathe the cold, damp air of the dead earth in a steady rhythm.</flavorText>
+  </item>
+  <item>
+    <id>CHR0101</id>
+    <name>Transmutation</name>
+    <text>Switch target creature's power and toughness until end of turn.</text>
+    <flavorText>"You know what I was,/ You see what I am: change me, change me"
+—Randall Jarrell, The Woman at the Washington Zoo</flavorText>
+  </item>
+  <item>
+    <id>CHR0102</id>
+    <name>Triassic Egg</name>
+    <text>{3}, {T}: Put a hatchling counter on Triassic Egg.
+Remove two hatchling counters from Triassic Egg, Sacrifice Triassic Egg: You may put a creature card from your hand or graveyard onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0103</id>
+    <name>Urza's Mine</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  </item>
+  <item>
+    <id>CHR0104</id>
+    <name>Urza's Mine</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  </item>
+  <item>
+    <id>CHR0105</id>
+    <name>Urza's Mine</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  </item>
+  <item>
+    <id>CHR0106</id>
+    <name>Urza's Mine</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  </item>
+  <item>
+    <id>CHR0107</id>
+    <name>Urza's Power Plant</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Artifact construction required immense resources.</flavorText>
+  </item>
+  <item>
+    <id>CHR0108</id>
+    <name>Urza's Power Plant</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Artifact construction required immense resources.</flavorText>
+  </item>
+  <item>
+    <id>CHR0109</id>
+    <name>Urza's Power Plant</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Artifact construction required immense resources.</flavorText>
+  </item>
+  <item>
+    <id>CHR0110</id>
+    <name>Urza's Power Plant</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Artifact construction required immense resources.</flavorText>
+  </item>
+  <item>
+    <id>CHR0111</id>
+    <name>Urza's Tower</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</text>
+    <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  </item>
+  <item>
+    <id>CHR0112</id>
+    <name>Urza's Tower</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</text>
+    <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  </item>
+  <item>
+    <id>CHR0113</id>
+    <name>Urza's Tower</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</text>
+    <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  </item>
+  <item>
+    <id>CHR0114</id>
+    <name>Urza's Tower</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</text>
+    <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  </item>
+  <item>
+    <id>CHR0115</id>
+    <name>Vaevictis Asmadi</name>
+    <text>Flying
+At the beginning of your upkeep, sacrifice Vaevictis Asmadi unless you pay {B}{R}{G}.
+{B}: Vaevictis Asmadi gets +1/+0 until end of turn.
+{R}: Vaevictis Asmadi gets +1/+0 until end of turn.
+{G}: Vaevictis Asmadi gets +1/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0116</id>
+    <name>Voodoo Doll</name>
+    <text>At the beginning of your upkeep, put a pin counter on Voodoo Doll.
+At the beginning of your end step, if Voodoo Doll is untapped, it deals damage to you equal to the number of pin counters on it. If Voodoo Doll deals damage to you this way, destroy it.
+{X}{X}, {T}: Voodoo Doll deals X damage to target creature or player. X is the number of pin counters on Voodoo Doll.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0117</id>
+    <name>Wall of Heat</name>
+    <text>Defender (This creature can't attack.)</text>
+    <flavorText>At a distance, we mistook the sound for a waterfall . . . .</flavorText>
+  </item>
+  <item>
+    <id>CHR0118</id>
+    <name>Wall of Opposition</name>
+    <text>Defender (This creature can't attack.)
+{1}: Wall of Opposition gets +1/+0 until end of turn.</text>
+    <flavorText>Like so many obstacles in life, the Wall of Opposition is but an illusion, held fast by the focus and belief of the one who creates it.</flavorText>
+  </item>
+  <item>
+    <id>CHR0119</id>
+    <name>Wall of Shadows</name>
+    <text>Defender (This creature can't attack.)
+Prevent all damage that would be dealt to Wall of Shadows by creatures it's blocking.
+Wall of Shadows can't be the target of spells that can target only Walls or of abilities that can target only Walls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0120</id>
+    <name>Wall of Vapor</name>
+    <text>Defender (This creature can't attack.)
+Prevent all damage that would be dealt to Wall of Vapor by creatures it's blocking.</text>
+    <flavorText>"Walls of a castle are made out of stone,/ Walls of a house out of bricks or of wood./ My walls are made out of magic alone,/ Stronger than any that ever have stood."
+—Chrysoberyl Earthsdaughter, Incantations</flavorText>
+  </item>
+  <item>
+    <id>CHR0121</id>
+    <name>Wall of Wonder</name>
+    <text>Defender (This creature can't attack.)
+{2}{U}{U}: Wall of Wonder gets +4/-4 until end of turn and can attack this turn as though it didn't have defender.</text>
+    <flavorText>So confusing is the Wall's appearance that few of its victims even see it move.</flavorText>
+  </item>
+  <item>
+    <id>CHR0122</id>
+    <name>War Elephant</name>
+    <text>Trample; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>"When elephants fight it is the grass that suffers."
+—Kikuyu proverb</flavorText>
+  </item>
+  <item>
+    <id>CHR0123</id>
+    <name>Witch Hunter</name>
+    <text>{T}: Witch Hunter deals 1 damage to target player.
+{1}{W}{W}, {T}: Return target creature an opponent controls to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>CHR0124</id>
+    <name>Xira Arien</name>
+    <text>Flying
+{B}{R}{G}, {T}: Target player draws a card.</text>
+    <flavorText>A regular guest a the Royal Masquerade, Arien is the envy of the Court. She appears in a new costume every hour.</flavorText>
+  </item>
+  <item>
+    <id>CHR0125</id>
+    <name>Yawgmoth Demon</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+First strike (This creature deals combat damage before creatures without first strike.)
+At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

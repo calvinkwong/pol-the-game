@@ -1,0 +1,2312 @@
+<cards name="Lorwyn">
+  <item>
+    <id>LRW0001</id>
+    <name>Ajani Criniera D'Oro</name>
+    <text>[+1]: Guadagni 2 punti vita.
+[-1]: Metti un segnalino +1/+1 su ogni creatura che controlli. Quelle creature guadagnano cautela fino alla fine del turno.
+[-6]: Metti sul campo di battaglia una pedina creatura Avatar bianca. Essa ha "La forza e la costituzione di questa creatura sono pari ai tuoi punti vita".
+[Fedeltà 4]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0002</id>
+    <name>Arbitro di Poggio Cresta</name>
+    <text>Cautela
+Quando l'Arbitro di Poggio Cresta entra nel campo di battaglia, i punti vita di ogni giocatore diventano pari ai punti vita più alti tra tutti i giocatori.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0003</id>
+    <name>Ordine Severo</name>
+    <text>Scegli due - Distruggi tutti gli artefatti; oppure distruggi tutti gli incantesimi; oppure distruggi tutte le creature con costo di mana convertito pari o inferiore a 3; oppure distruggi tutte le creature con costo di mana convertito pari o superiore a 4.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0004</id>
+    <name>Cangiante Aviano</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0005</id>
+    <name>Supremazia in Battaglia</name>
+    <text>Incanta creatura
+La creatura incantata ha doppio attacco.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0006</id>
+    <name>Brigida, Eroina di Kinsbaile</name>
+    <text>Attacco improvviso
+{T}: Brigida, Eroina di Kinsbaile infligge 2 danni a ogni creatura attaccante o bloccante controllata da un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0007</id>
+    <name>Forgiatrice di Burrenton</name>
+    <text>Protezione dal rosso
+Sacrifica la Forgiatrice di Burrenton: Previeni tutto il danno che una fonte rossa a tua scelta infliggerebbe in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0008</id>
+    <name>Erede del Cenn</name>
+    <text>Ogniqualvolta l'Erede del Cenn attacca, prende +1/+1 fino alla fine del turno per ogni altro Kithkin che attacca.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0009</id>
+    <name>Cangiante Eroe</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Battersi per una creatura (Quando questa creatura entra nel campo di battaglia, sacrificala a meno che tu non esili un'altra creatura che controlli. Quando questa creatura lascia il campo di battaglia, quella carta viene rimessa sul campo di battaglia.)
+Legame vitale (Il danno inflitto da questa creatura ti fa guadagnare un pari ammontare di punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0010</id>
+    <name>Ranger della Capra Alata</name>
+    <text>Quando la Ranger della Capra Alata entra nel campo di battaglia, metti sul campo di battaglia tre pedine creatura Soldato Kithkin 1/1 bianche.
+TAPpa tre Kithkin STAPpati che controlli: la Ranger della Capra Alata prende +2/+0 e ha volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0011</id>
+    <name>Scambio di Culla</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Esilia una creatura bersaglio. Il suo controllore mette sul campo di battaglia una pedina creatura Polimorfo 1/1 incolore con cangiante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0012</id>
+    <name>Fasciola dell'Alba</name>
+    <text>Lampo
+Quando la Fasciola dell'Alba entra nel campo di battaglia, previeni i prossimi 3 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno.
+Apparire {W} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0013</id>
+    <name>Trappola Intralciante</name>
+    <text>Ogniqualvolta ti scontri, TAPpa una creatura bersaglio controllata da un avversario. Se hai vinto, quella creatura non STAPpa durante il prossimo STAP del suo controllore. (Questa abilità si innesca dopo che termina lo scontro.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0014</id>
+    <name>Benevolenza dei Potenti</name>
+    <text>Ogni creatura con il costo di mana convertito più alto ha protezione da tutti i colori.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0015</id>
+    <name>Mago Polvere da Scoppio</name>
+    <text>Volare
+Ogniqualvolta il Mago Polvere da Scoppio attacca, esilia un'altra creatura bersaglio. Rimetti quella carta nel campo di battaglia sotto il controllo del suo proprietario all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0016</id>
+    <name>Furfante della Prateria Dorata</name>
+    <text>Il Furfante della Prateria Dorata non può essere bloccato da creature con forza pari o superiore a 4.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0017</id>
+    <name>Vessatrice della Prateria Dorata</name>
+    <text>{W}, {T}: TAPpa una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0018</id>
+    <name>Impavido della Prateria Dorata</name>
+    <text>Come costo addizionale per lanciare l'Impavido della Prateria Dorata, rivela una carta Kithkin dalla tua mano o paga {3}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0019</id>
+    <name>Cecchino con Fiocina</name>
+    <text>{W}, {T}: Il Cecchino con Fiocina infligge X danni a una creatura attaccante o bloccante bersaglio, dove X è il numero di Tritoni che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0020</id>
+    <name>Gigante Rastrellatrice delle Colline</name>
+    <text>Passa-montagne</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0021</id>
+    <name>Impronte del Cervo</name>
+    <text>Ogniqualvolta peschi una carta, puoi mettere un segnalino impronta sulle Impronte del Cervo.
+{2}{W}, Rimuovi quattro segnalini impronta dalle Impronte del Cervo: Metti sul campo di battaglia una pedina creatura Elementale 4/4 bianca con volare. Attiva questa abilità solo durante il tuo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0022</id>
+    <name>Esperto delle Correnti</name>
+    <text>Ogniqualvolta un Tritone che controlli viene TAPpato, puoi guadagnare 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0023</id>
+    <name>Aeronauta di Kinsbaile</name>
+    <text>Volare
+Ogniqualvolta l'Aeronauta di Kinsbaile attacca, puoi fare guadagnare volare a una creatura bersaglio fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0024</id>
+    <name>Attaccabrighe di Kinsbaile</name>
+    <text>Quando l'Attaccabrighe di Kinsbaile entra nel campo di battaglia, una creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0025</id>
+    <name>Kithkin Cuoregrande</name>
+    <text>Fintanto che controlli un Gigante, il Kithkin Cuoregrande prende +1/+1 e ha attacco improvviso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0026</id>
+    <name>Kithkin Araldo</name>
+    <text>Quando la Kithkin Araldo entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Kithkin, rivelarla, poi rimescolare il tuo grimorio e mettere quella carta in cima.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0027</id>
+    <name>Guaritore Kithkin</name>
+    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0028</id>
+    <name>Cavaliera di Pratograno</name>
+    <text>Attacco improvviso
+Legame vitale (Il danno inflitto da questa creatura ti fa guadagnare un pari ammontare di punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0029</id>
+    <name>Gigante Custode del Covo</name>
+    <text>Il Gigante Custode del Covo può bloccare una creatura addizionale.
+Ogniqualvolta il Gigante Custode del Covo blocca due o più creature, guadagna attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0030</id>
+    <name>Arroganza della Milizia</name>
+    <text>Ogniqualvolta una creatura non pedina che controlli attacca, puoi pagare {W}. Se lo fai, metti sul campo di battaglia una pedina creatura Soldato Kithkin 1/1 bianca TAPpata e attaccante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0031</id>
+    <name>Entità Riflettente</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+{X}: Le creature che controlli diventano X/X e guadagnano tutti i tipi di creatura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0032</id>
+    <name>Spezzare il Collo</name>
+    <text>Distruggi una creatura attaccante o bloccante bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0033</id>
+    <name>Quercia Lottatrice</name>
+    <text>Quando la Quercia Lottatrice entra nel campo di battaglia, scontrati con un avversario. Se vinci, metti un segnalino +1/+1 sulla Quercia Lottatrice. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0034</id>
+    <name>Anello dell'Oblio</name>
+    <text>Quando l'Anello dell'Oblio entra nel campo di battaglia, esilia un altro permanente non terra bersaglio.
+Quando l'Anello dell'Oblio lascia il campo di battaglia, rimetti la carta esiliata nel campo di battaglia sotto il controllo del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0035</id>
+    <name>Cavalieri sui Pivieri</name>
+    <text>Volare, attacco improvviso</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0036</id>
+    <name>Ninna Nanna del Polline</name>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. Scontrati con un avversario. Se vinci, le creature controllate da quel giocatore non STAPpano durante il prossimo STAP del giocatore. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0037</id>
+    <name>Purezza</name>
+    <text>Volare
+Se sta per esserti inflitto danno non da combattimento, previeni quel danno. Guadagni punti vita pari al danno prevenuto in questo modo.
+Quando la Purezza viene messa in un cimitero da qualsiasi zona, rimescolala nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0038</id>
+    <name>Quercia Sentinella</name>
+    <text>Difensore
+All'inizio del combattimento nel tuo turno, puoi scontrarti con un avversario. Se vinci, la Quercia Sentinella prende +2/+0 e perde difensore fino alla fine del turno. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0039</id>
+    <name>Scudi di Velis Vel</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Le creature controllate da un giocatore bersaglio prendono +0/+1 e guadagnano tutti i tipi di creatura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0040</id>
+    <name>Speranza Sconfinata</name>
+    <text>Incanta creatura
+Quando la Speranza Sconfinata entra nel campo di battaglia, guadagni 3 punti vita.
+La creatura incantata ha volare.
+{W}: Metti la Speranza Sconfinata in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0041</id>
+    <name>Cavaliere su Pecolepre</name>
+    <text>Ogniqualvolta il Cavaliere su Pecolepre attacca, scontrati con un avversario. Se vinci, una creatura bersaglio ha doppio attacco fino alla fine del turno. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0042</id>
+    <name>Radunare il Banco</name>
+    <text>Metti sul campo di battaglia due pedine creatura Mago Tritone 1/1 blu.
+TAPpa quattro Tritoni STAPpati che controlli: Riprendi in mano Radunare il Banco dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0043</id>
+    <name>Impulso della Trama dei Pensieri</name>
+    <text>Le creature che controlli prendono +1/+1 fino alla fine del turno. Se controlli un Kithkin, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0044</id>
+    <name>Triade della Trama dei Pensieri</name>
+    <text>Attacco improvviso, cautela
+Battersi per un Kithkin (Quando questa entra nel campo di battaglia, sacrificala a meno che tu non esili un altro Kithkin che controlli. Quando questa lascia il campo di battaglia, quella carta viene rimessa sul campo di battaglia.)
+La Triade della Trama dei Pensieri può bloccare un qualsiasi numero di creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0045</id>
+    <name>Vista da Triclope</name>
+    <text>Lampo
+Incanta creatura
+Quando la Vista da Triclope entra nel campo di battaglia, STAPpa la creatura incantata.
+La creatura incantata prende +1/+1 e ha cautela.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0046</id>
+    <name>Veterano delle Profondità</name>
+    <text>Ogniqualvolta il Veterano delle Profondità diventa TAPpato, puoi mettere un segnalino +1/+1 su di esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0047</id>
+    <name>Farmacista Ciarliero</name>
+    <text>{1}{W}: Previeni tutto il danno che verrebbe inflitto a una creatura Tritone o Kithkin TAPpata bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0048</id>
+    <name>Giumenta Incorporea</name>
+    <text>Volare
+Quando la Giumenta Incorporea entra nel campo di battaglia, distruggi un incantesimo bersaglio.
+Apparire {W} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0049</id>
+    <name>Cenn Rugosa</name>
+    <text>Le altre creature Kithkin che controlli prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0050</id>
+    <name>Cecchino Etereo</name>
+    <text>Quando il Cecchino Etereo entra nel campo di battaglia, fai tornare un permanente non terra bersaglio in mano al suo proprietario.
+Apparire {1}{U}{U} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0051</id>
+    <name>Cangiante Ameboide</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+{T}: Una creatura bersaglio ha tutti i tipi di creatura fino alla fine del turno.
+{T}: Una creatura bersaglio perde tutti i tipi di creatura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0052</id>
+    <name>Volontà dell'Aquitetto</name>
+    <text>Metti un segnalino inondazione su una terra bersaglio. Quella terra è un'Isola in aggiunta ai suoi altri tipi fintanto che ha un segnalino inondazione. Se controlli un Tritone, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0053</id>
+    <name>Baticora</name>
+    <text>Quando la Baticora entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura Mago Tritone 1/1 blu.
+TAPpa due Tritoni STAPpati che controlli: STAPpa la Baticora. Ha velo fino alla fine del turno. (Non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0054</id>
+    <name>Ambizioni Stroncate</name>
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {X}. Scontrati con un avversario. Se vinci, il controllore di quella magia mette nel suo cimitero le prime quattro carte del suo grimorio. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0055</id>
+    <name>Sguardo Seducente</name>
+    <text>Incanta creatura
+All'inizio della tua sottofase finale, scontrati con un avversario. Se vinci, prendi il controllo della creatura incantata. Altrimenti, quel giocatore prende il controllo della creatura incantata. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0056</id>
+    <name>Ordine Criptico</name>
+    <text>Scegli due - Neutralizza una magia bersaglio; oppure fai tornare un permanente bersaglio in mano al suo proprietario; oppure TAPpa tutte le creature controllate dai tuoi avversari; oppure pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0057</id>
+    <name>Merrow delle Profondità</name>
+    <text>{U}: Il Merrow delle Profondità guadagna passa-isole fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0058</id>
+    <name>Inabissa Segreti</name>
+    <text>TAPpa un Tritone STAPpato che controlli: Un giocatore bersaglio mette nel suo cimitero la prima carta del suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0059</id>
+    <name>Cancellare Ego</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Le creature controllate da un giocatore bersaglio prendono -2/-0 e perdono tutti i tipi di creatura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0060</id>
+    <name>Branchia Baffuta Eterea</name>
+    <text>Volare
+La Branchia Baffuta Eterea non può attaccare a meno che il giocatore in difesa controlli un'Isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0061</id>
+    <name>Spiritella Araldo</name>
+    <text>Lampo
+Volare
+Quando la Spiritella Araldo entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Spiritello, rivelarla, poi rimescolare il tuo grimorio e mettere quella carta in cima.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0062</id>
+    <name>Inganno degli Spiritelli</name>
+    <text>Neutralizza una magia non Spiritello bersaglio. Se la magia è neutralizzata in questo modo, esiliala invece di metterla nel cimitero del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0063</id>
+    <name>Saggio Torpido</name>
+    <text>Ogniqualvolta il Saggio Torpido viene TAPpato, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0064</id>
+    <name>Trucco del Famiglio</name>
+    <text>Come costo addizionale per lanciare il Trucco del Famiglio, fai tornare una creatura che controlli in mano al suo proprietario.
+Neutralizza una magia bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0065</id>
+    <name>Rete di Profondità</name>
+    <text>Rivela carte dalla cima del tuo grimorio fino a che riveli tre carte non terra. Aggiungi alla tua mano le carte non terra rivelate in questo modo, poi metti le altre carte rivelate in fondo al tuo grimorio in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0066</id>
+    <name>Risultato Forzato</name>
+    <text>Ogniqualvolta un avversario lancia una magia, quel giocatore pesca sette carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0067</id>
+    <name>Burloni di Gola Elendra</name>
+    <text>Volare
+Ogniqualvolta lanci una magia durante il turno di un avversario, puoi far tornare una creatura bersaglio che controlli in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0068</id>
+    <name>Pisolino di Polvere Luccicante</name>
+    <text>Incanta creatura TAPpata
+La creatura incantata non STAPpa durante lo STAP del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0069</id>
+    <name>Inganno</name>
+    <text>L'Inganno non può essere bloccato tranne che da tre o più creature.
+Se una magia o abilità che controlli sta per neutralizzare una magia, invece esilia quella magia e puoi giocare quella carta senza pagare il suo costo di mana.
+Quando l'Inganno viene messo in un cimitero da qualsiasi zona, rimescolalo nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0070</id>
+    <name>Tuffatori del Batinchiostro</name>
+    <text>Passa-Isole
+Quando i Tuffatori del Batinchiostro entrano nel campo di battaglia, guarda le prime quattro carte del tuo grimorio, poi rimettile a posto in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0071</id>
+    <name>Jace Beleren</name>
+    <text>[+2]: Ogni giocatore pesca una carta.
+[-1]: Un giocatore bersaglio pesca una carta.
+[-10]: Un giocatore bersaglio mette nel suo cimitero le prime venti carte del suo grimorio.
+[Fedeltà 3]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0072</id>
+    <name>Commercio dei Merrow</name>
+    <text>All'inizio della tua sottofase finale, STAPpa tutti i Tritoni che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0073</id>
+    <name>Araldo Merrow</name>
+    <text>Passa-Isole
+Quando l'Araldo Merrow entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Tritone, rivelarla, poi rimescolare il tuo grimorio e mettere quella carta in cima.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0074</id>
+    <name>Reejerey Merrow</name>
+    <text>Le altre creature Tritone che controlli prendono +1/+1.
+Ogniqualvolta lanci una magia Tritone, puoi TAPpare o STAPpare un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0075</id>
+    <name>Cricca del Vincolo Nebbioso</name>
+    <text>Lampo
+Volare
+Battersi per uno Spiritello (Quando questa creatura entra nel campo di battaglia, sacrificala a meno che tu non esili un altro Spiritello che controlli. Quando questa creatura lascia il campo di battaglia, quella carta viene rimessa sul campo di battaglia.)
+Quando la Cricca del Vincolo Nebbioso si batte per uno Spiritello, TAPpa tutte le terre controllate da un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0076</id>
+    <name>Vagabondo Pensoso</name>
+    <text>Volare
+Quando il Vagabondo Pensoso entra nel campo di battaglia, pesca due carte.
+Apparire {2}{U} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0077</id>
+    <name>Canaglia di Pinnacarta</name>
+    <text>Quando la Canaglia di Pinnacarta entra nel campo di battaglia, scontrati con un avversario. Se vinci, metti un segnalino +1/+1 sulla Canaglia di Pinnacarta. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0078</id>
+    <name>Pulce Fastidiosa</name>
+    <text>Lampo
+Volare
+Quando la Pulce Fastidiosa entra nel campo di battaglia, puoi TAPpare o STAPpare un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0079</id>
+    <name>Ponderare</name>
+    <text>Guarda le prime tre carte del tuo grimorio, poi rimettile a posto in qualsiasi ordine. Puoi rimescolare il tuo grimorio.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0080</id>
+    <name>Bolla Protettiva</name>
+    <text>Incanta creatura
+La creatura incantata non può essere bloccata e ha velo. (Non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0081</id>
+    <name>Spiritella del Circolo Magico</name>
+    <text>Volare
+Quando la Spiritella del Circolo Magico viene messa in un cimitero dal campo di battaglia, scontrati con un avversario. Se vinci, fai tornare la Spiritella del Circolo Magico in mano al suo proprietario. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0082</id>
+    <name>Pulsazione Dispersiva</name>
+    <text>Neutralizza una magia bersaglio. Scontrati con un avversario. Se vinci, all'inizio della tua prossima fase principale, puoi aggiungere {X} alla tua riserva di mana, dove X è il costo di mana convertito di quella magia. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0083</id>
+    <name>Erede di Oona</name>
+    <text>Lampo
+Volare
+Le altre creature Spiritello che controlli prendono +1/+1.
+Gli altri Spiritelli che controlli hanno velo. (Un permanente con velo non può essere bersaglio di magie o abilità).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0084</id>
+    <name>Sentinelle di Gola Elendra</name>
+    <text>Lampo
+Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0085</id>
+    <name>Spartimorfo</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+{2}{U}: Un Polimorfo bersaglio diventa una copia di una creatura bersaglio fino al tuo prossimo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0086</id>
+    <name>Esperto della Branchiargentata</name>
+    <text>Come costo addizionale per lanciare l'Esperto della Branchiargentata, rivela una carta Tritone dalla tua mano o paga {3}.
+Quando l'Esperto della Branchiargentata entra nel campo di battaglia, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0087</id>
+    <name>Tuffatore della Branchiargentata</name>
+    <text>{T}: Una creatura bersaglio prende -X/-0 fino alla fine del turno, dove X è il numero di Tritoni e/o Spiritelli che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0088</id>
+    <name>Seminatrice di Tentazioni</name>
+    <text>Volare
+Quando la Seminatrice di Tentazioni entra nel campo di battaglia, guadagni il controllo di una creatura bersaglio fintanto che la Seminatrice di Tentazioni rimane sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0089</id>
+    <name>Folletta Balbettamagie</name>
+    <text>Lampo
+Volare
+Quando la Folletta Balbettamagie entra nel campo di battaglia, neutralizza una magia bersaglio con costo di mana convertito pari o inferiore a X, dove X è il numero di Spiritelli che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0090</id>
+    <name>Pescatore di Riopietroso</name>
+    <text>{1}{U}, {T}: Puoi TAPpare o STAPpare una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0091</id>
+    <name>Aquitetti dell'Alveo</name>
+    <text>{T}: Una creatura Tritone bersaglio prende +1/+1 e guadagna passa-Isole fino alla fine del turno.
+{T}: Una terra bersaglio diventa un'Isola fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0092</id>
+    <name>Misuratore di Cavalloni</name>
+    <text>Ogniqualvolta il Misuratore di Cavalloni viene TAPpato, puoi pagare {1}{U}. Se lo fai, fai tornare un permanente bersaglio in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0093</id>
+    <name>Modellamaree Mistico</name>
+    <text>{T}: Una terra bersaglio diventa un tipo di terra base a tua scelta fino alla fine del turno. Attiva questa abilità solo durante il tuo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0094</id>
+    <name>Cangiante Tartaruga</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+{1}{U}: Scambia la forza e la costituzione del Cangiante Tartaruga fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0095</id>
+    <name>Profeti di Vino Errante</name>
+    <text>Battersi per un Tritone (Quando questa creatura entra nel campo di battaglia, sacrificala a meno che tu non esili un altro Tritone che controlli. Quando questa creatura lascia il campo di battaglia, quella carta viene rimessa sul campo di battaglia.)
+Ogniqualvolta i Profeti di Vino Errante infliggono danno da combattimento a un giocatore, puoi sacrificare un Tritone. Se lo fai, gioca un altro turno dopo questo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0096</id>
+    <name>Vortice Travolgente</name>
+    <text>Scontrati con un avversario, poi fai tornare una creatura bersaglio in mano al suo proprietario. Se vinci, puoi invece mettere quella creatura in cima al grimorio del suo proprietario. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0097</id>
+    <name>Ali di Velis Vel</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Una creatura bersaglio diventa 4/4, guadagna tutti i tipi di creatura, e guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0098</id>
+    <name>Rete dello Zefiro</name>
+    <text>Incanta creatura
+La creatura incantata ha difensore e volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0099</id>
+    <name>Pioppo Nero Sciamano</name>
+    <text>{2}{B}: Rigenera un Silvantropo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0100</id>
+    <name>Teppisti della Palude</name>
+    <text>I Teppisti della Palude non possono bloccare.
+Quando i Teppisti della Palude entrano nel campo di battaglia, scontrati con un avversario. Se vinci, metti un segnalino +1/+1 sui Teppisti della Palude. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0101</id>
+    <name>Rituale di Nascita Boggart</name>
+    <text>Riprendi in mano una carta Goblin bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0102</id>
+    <name>Araldo Boggart</name>
+    <text>Quando l'Araldo Boggart entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Goblin, rivelarla, poi rimescolare il tuo grimorio e mettere quella carta in cima ad esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0103</id>
+    <name>Taglialegna Boggart</name>
+    <text>Passa-foreste
+{2}{B}, Sacrifica i Taglialegna Boggart: Distruggi un Silvantropo o una Foresta bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0104</id>
+    <name>Cosca Boggart</name>
+    <text>Battersi per un Goblin (Quando questa creatura entra nel campo di battaglia, sacrificala a meno che tu non esili un altro Goblin che controlli. Quando questa creatura lascia il campo di battaglia, quella carta torna sul campo di battaglia.)
+Ogniqualvolta un Goblin che controlli infligge danno da combattimento a un giocatore, puoi mettere sul campo di battaglia una pedina creatura Farabutto Goblin 1/1 nera.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0105</id>
+    <name>Errante dei Tumuli</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Fintanto che una carta creatura con volare è in un cimitero, l'Errante dei Tumuli ha volare. Lo stesso vale per attacco improvviso, doppio attacco, cautela, legame vitale, passa-terre, paura, protezione, raggiungere, rapidità, tocco letale, travolgere e velo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0106</id>
+    <name>Piani di Colfenor</name>
+    <text>Quando i Piani di Colfenor entrano nel campo di battaglia, esilia a faccia in giù le prime sette carte del tuo grimorio.
+Puoi guardare e lanciare le carte esiliate con i Piani di Colfenor.
+Salta la tua acquisizione.
+Non puoi lanciare più di una magia per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0107</id>
+    <name>Timore</name>
+    <text>Paura
+Ogniqualvolta una creatura ti infligge danno, distruggila.
+Quando il Timore viene messo in un cimitero da qualsiasi zona, rimescolalo nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0108</id>
+    <name>Streghe Sciupasogni</name>
+    <text>Volare
+Ogniqualvolta lanci una magia durante il turno di un avversario, puoi fare prendere -1/-1 a una creatura bersaglio fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0109</id>
+    <name>Boggart Esiliato</name>
+    <text>Quando il Boggart Esiliato viene messo in un cimitero dal campo di battaglia, scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0110</id>
+    <name>Fine del Mal'Occhio</name>
+    <text>Distruggi una creatura non Elfo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0111</id>
+    <name>Saltatore</name>
+    <text>{B}, Sacrifica un Goblin: Il Saltatore prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0112</id>
+    <name>Beffe degli Spiritelli</name>
+    <text>Ogniqualvolta lanci una magia durante il turno di un avversario, puoi fare perdere 1 punto vita a ogni avversario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0113</id>
+    <name>Bagordi Finali</name>
+    <text>Scegli una - Tutte le creature prendono +2/+0 fino alla fine del turno; oppure tutte le creature prendono -0/-2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0114</id>
+    <name>Sparacibo</name>
+    <text>Come costo addizionale per lanciare lo Sparacibo, sacrifica un Goblin.
+Una creatura bersaglio prende -5/-5 fino alla fine del turno. Lo Sparacibo infligge 5 danni al controllore di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0115</id>
+    <name>Banchetto di Sottopiede</name>
+    <text>Metti un qualsiasi numero di carte creatura bersaglio dal tuo cimitero in cima al tuo grimorio.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0116</id>
+    <name>Cangiante Spettrale</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+{1}{B}: Il Cangiante Spettrale prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0117</id>
+    <name>Avarizia dell'Accaparratore</name>
+    <text>Perdi 2 punti vita e pesca due carte, poi scontrati con un avversario. Se vinci, ripeti questo procedimento. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0118</id>
+    <name>Vessatore di Calabroni</name>
+    <text>Quando il Vessatore di Calabroni viene messo in un cimitero dal campo di battaglia, una creatura bersaglio prende -2/-2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0119</id>
+    <name>Cacciatrice di Mal'Occhi</name>
+    <text>Quando la Cacciatrice di Mal'Occhi entra nel campo di battaglia, metti un segnalino +1/+1 su una creatura bersaglio che non controlli.
+{2}{B}, {T}: Distruggi una creatura bersaglio con un segnalino.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0120</id>
+    <name>Stregone degli Astragali</name>
+    <text>Ogniqualvolta un Goblin che controlli viene messo in un cimitero dal campo di battaglia, puoi mettere un segnalino +1/+1 sullo Stregone degli Astragali.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0121</id>
+    <name>Liliana Vess</name>
+    <text>[+1]: Un giocatore bersaglio scarta una carta.
+[-2]: Passa in rassegna il tuo grimorio per una carta, poi rimescola il tuo grimorio e metti quella carta in cima.
+[-8]: Metti sul campo di battaglia sotto il tuo controllo tutte le carte creatura in tutti i cimiteri.
+[Fedeltà 5]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0122</id>
+    <name>Sfregiatrice di Lys Alana</name>
+    <text>{T}, Scarta una carta Elfo: Una creatura bersaglio prende -X/-X fino alla fine del turno, dove X è il numero di Elfi che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0123</id>
+    <name>Zietta Pazza</name>
+    <text>Le altre creature Goblin che controlli prendono +1/+1.
+{T}: Rigenera un altro Goblin bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0124</id>
+    <name>Manichino Improvvisato</name>
+    <text>Rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero con un segnalino manichino. Fintanto che quella creatura ha un segnalino manichino, ha "Quando questa creatura diventa bersaglio di una magia o abilità, sacrificala."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0125</id>
+    <name>Svolazzante Palustre</name>
+    <text>Volare
+Quando la Svolazzante Palustre entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura Farabutto Goblin 1/1 nere.
+Sacrifica un Goblin: La Svolazzante Palustre diventa 3/3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0126</id>
+    <name>Setacciatore di Digitale Selenica</name>
+    <text>Tocco letale (Le creature cui sia stato inflitto danno da questo vengono distrutte. Puoi assegnare il suo danno da combattimento fra tutte le creature che lo bloccano o che blocca.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0127</id>
+    <name>Buccina Dolente</name>
+    <text>Quando la Buccina Dolente entra nel campo di battaglia, un giocatore bersaglio scarta due carte.
+Apparire {3}{B} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0128</id>
+    <name>Inversione Indicibile</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Una creatura bersaglio prende +3/-3 e perde tutti i tipi di creatura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0129</id>
+    <name>Buffone di Nath</name>
+    <text>Protezione dagli Elfi</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0130</id>
+    <name>Spiritella del Nettare</name>
+    <text>Volare
+{B}, {T}: Uno Spiritello o Elfo bersaglio guadagna legame vitale fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0131</id>
+    <name>Avvizzimento di Orticanti</name>
+    <text>Incanta creatura o terra
+Il permanente incantato ha "All'inizio della tua sottofase finale, sacrifica questo permanente e assegna l'Avvizzimento di Orticanti a una creatura o a una terra che controlli."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0132</id>
+    <name>Pungiglione di Belladonna</name>
+    <text>Volare
+Il Pungiglione di Belladonna non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0133</id>
+    <name>Predatore di Oona</name>
+    <text>Volare
+Scarta una carta: Il Predatore di Oona prende -2/-0 fino alla fine del turno. Qualsiasi giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0134</id>
+    <name>Fumo Pepato</name>
+    <text>Una creatura bersaglio prende -1/-1 fino alla fine del turno. Se controlli uno Spiritello, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0135</id>
+    <name>Ordine Profano</name>
+    <text>Scegli due - Un giocatore bersaglio perde X punti vita; oppure rimetti sul campo di battaglia una carta creatura bersaglio con costo di mana convertito pari o inferiore a X dal tuo cimitero; oppure una creatura bersaglio prende -X/-X fino alla fine del turno; oppure fino a X creature bersaglio hanno paura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0136</id>
+    <name>Prodezza del Giusto</name>
+    <text>Ogniqualvolta un altro Elfo non pedina viene messo nel tuo cimitero dal campo di battaglia, puoi mettere sul campo di battaglia una pedina creatura Guerriero Elfo 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0137</id>
+    <name>Boggart Fromboliere</name>
+    <text>Ogniqualvolta un giocatore lancia una magia Kithkin, puoi fare perdere 1 punto vita a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0138</id>
+    <name>Rampicoltore Sfregiato</name>
+    <text>{2}{B}, Esilia una carta Elfo dal tuo cimitero: Il Rampicoltore Sfregiato prende +3/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0139</id>
+    <name>Fauce Urlante</name>
+    <text>Paura
+Quando la Fauce Urlante entra nel campo di battaglia, distruggi una creatura non artefatto, non nera bersaglio.
+Apparire {1}{B} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0140</id>
+    <name>Cangiante Scheletrico</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+{1}{B}: Rigenera il Cangiante Scheletrico.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0141</id>
+    <name>Boggart con Ragnoparrucca</name>
+    <text>Quando il Boggart con Ragnoparrucca entra nel campo di battaglia, una creatura bersaglio guadagna paura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0142</id>
+    <name>Spia della Torta Pigolante</name>
+    <text>Come costo addizionale per lanciare la Spia della Torta Pigolante, rivela una carta Goblin dalla tua mano o paga {3}.
+Paura</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0143</id>
+    <name>Folletto Ladro</name>
+    <text>Volare
+Quando il Folletto Ladro entra nel campo di battaglia, un giocatore bersaglio rivela X carte dalla sua mano, dove X è il numero di Spiritelli che controlli. Scegli una di quelle carte. Quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0144</id>
+    <name>Strega del Dente Spinoso</name>
+    <text>Ogniqualvolta lanci una magia Silvantropo, puoi far prendere +3/-3 a una creatura bersaglio fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0145</id>
+    <name>Rubapensieri</name>
+    <text>Un giocatore bersaglio rivela la sua mano. Scegli una carta non terra da quella mano. Quel giocatore scarta quella carta. Perdi 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0146</id>
+    <name>Ladruncoli dei Cunicoli</name>
+    <text>Quando i Ladruncoli dei Cunicoli entrano nel campo di battaglia, riprendi in mano una carta creatura bersaglio dal tuo cimitero. Se quella carta è una carta Goblin, i Ladruncoli dei Cunicoli hanno rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0147</id>
+    <name>Erbacce Strangolatrici</name>
+    <text>Distruggi una creatura bersaglio. Scontrati con un avversario. Se vinci, guadagni un ammontare di punti vita pari alla costituzione di quella creatura. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0148</id>
+    <name>Boggart col Bastone Vipera</name>
+    <text>Quando il Boggart col Bastone Vipera entra nel campo di battaglia, scontrati con un avversario. Se vinci, metti un segnalino +1/+1 sul Boggart col Bastone Vipera. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0149</id>
+    <name>Pellegrina Cenerina</name>
+    <text>{1}{R}: Metti un segnalino +1/+1 sulla Pellegrina Cenerina. Se è la terza volta che si risolve questa abilità in questo turno, rimuovi tutti i segnalini +1/+1 dalla Pellegrina Cenerina, che infligge altrettanti danni a ogni creatura e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0150</id>
+    <name>Prerogativa della Cenerina</name>
+    <text>Mentre la Prerogativa della Cenerina entra nel campo di battaglia, scegli pari o dispari. (0 è pari.)
+Ogni creatura con costo di mana convertito del valore scelto ha rapidità.
+Ogni creatura che non ha il costo di mana convertito del valore scelto entra nel campo di battaglia TAPpata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0151</id>
+    <name>Gigante Affilamannaia</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0152</id>
+    <name>Lame di Velis Vel</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Fino a due creature bersaglio prendono +2/+0 e hanno tutti i tipi di creatura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0153</id>
+    <name>Gigante Punto Cieco</name>
+    <text>Il Gigante Punto Cieco non può attaccare o bloccare a meno che tu controlli un altro Gigante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0154</id>
+    <name>Foraggiere Boggart</name>
+    <text>{R}, Sacrifica il Foraggiere Boggart: Un giocatore bersaglio rimescola il suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0155</id>
+    <name>Scherzi da Boggart</name>
+    <text>Ogniqualvolta un altro Goblin che controlli viene messo in un cimitero dal campo di battaglia, puoi fare infliggere dagli Scherzi da Boggart 1 danno a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0156</id>
+    <name>Boggart Cacciafolletti</name>
+    <text>Fintanto che controlli uno Spiritello, il Boggart Cacciafolletti prende +1/+1 e ha volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0157</id>
+    <name>Boggart Stridulo</name>
+    <text>Ogni Goblin che controlli non può essere bloccato tranne che da due o più creature.
+Ogni Elementale che controlli non può essere bloccato tranne che da due o più creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0158</id>
+    <name>Lame di Fiamma Continua</name>
+    <text>Ogniqualvolta attivi un'abilità di un Elementale, le Lame di Fiamma Continua prendono +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0159</id>
+    <name>Chandra Nalaar</name>
+    <text>[+1]: Chandra Nalaar infligge 1 danno a un giocatore bersaglio.
+[-X]: Chandra Nalaar infligge X danni a una creatura bersaglio.
+[-8]: Chandra Nalaar infligge 10 danni a un giocatore bersaglio e a ogni creatura controllata da quel giocatore.
+[Fedeltà 6]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0160</id>
+    <name>Cangiante Berserker</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Rapidità
+Battersi per una creatura (Quando questa creatura entra nel campo di battaglia, sacrificala a meno che tu non esili un'altra creatura che controlli. Quando questa creatura lascia il campo di battaglia, quella carta viene rimessa sul campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0161</id>
+    <name>Falò Distruttivo</name>
+    <text>Scegli una - Il Falò Distruttivo infligge 4 danni a una creatura non Elementale bersaglio; oppure il Falò Distruttivo infligge 7 danni a una creatura Silvantropo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0162</id>
+    <name>Calpestare</name>
+    <text>Scegli una creatura Gigante che controlli. Infligge un danno pari alla propria forza a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0163</id>
+    <name>Tritafaglia</name>
+    <text>Travolgere
+Quando il Tritafaglia entra nel campo di battaglia, distruggi una terra bersaglio.
+Apparire {4}{R} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0164</id>
+    <name>Cangiante Pancia di Fuoco</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+{R}: Il Cangiante Pancia di Fuoco prende +1/+0 fino alla fine del turno. Attiva questa abilità non più di due volte per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0165</id>
+    <name>Ignifero Lama Vorticante</name>
+    <text>Come costo addizionale per lanciare l'Ignifero Lama Vorticante, rivela una carta Elementale dalla tua mano o paga {3}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0166</id>
+    <name>Ignifero Lottatore</name>
+    <text>{R}: L'Ignifero Lottatore prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0167</id>
+    <name>Araldo Ignifero</name>
+    <text>Quando l'Araldo Ignifero entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Elementale, rivelarla, poi rimescolare il tuo grimorio e mettere quella carta in cima.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0168</id>
+    <name>Ignifero Focalizzato</name>
+    <text>{3}{R}: L'Ignifero Focalizzato infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0169</id>
+    <name>Araldo Gigante</name>
+    <text>Quando l'Araldo Gigante entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Gigante, rivelarla, poi rimescolare il tuo grimorio e mettere quella carta in cima.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0170</id>
+    <name>Collera del Gigante</name>
+    <text>La Collera del Gigante infligge 4 danni a un giocatore bersaglio. Se controlli un Gigante, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0171</id>
+    <name>Abbagliatore</name>
+    <text>Rapidità
+Quando l'Abbagliatore entra nel campo di battaglia, fino a due creature bersaglio non possono bloccare in questo turno.
+Apparire {1}{R} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0172</id>
+    <name>Rubacapre</name>
+    <text>Quando il Rubacapre entra nel campo di battaglia, STAPpa una Capra bersaglio e prendine il controllo fino alla fine del turno. Ha rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0173</id>
+    <name>Golia Borgogibboso</name>
+    <text>Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi mettere X segnalini +1/+1 sul Golia Borgogibboso, dove X è la forza di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0174</id>
+    <name>Gigante del Focolare Ingabbiato</name>
+    <text>Quando il Gigante del Focolare Ingabbiato entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura Sciamano Elementale 3/1 rosse.
+Sacrifica un Elementale: Una creatura Gigante bersaglio prende +3/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0175</id>
+    <name>Bagliore Caldo</name>
+    <text>Metti sul campo di battaglia una pedina che è una copia di una creatura bersaglio. Ha rapidità e "All'inizio della sottofase finale, esilia questo permanente."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0176</id>
+    <name>Ostilità</name>
+    <text>Rapidità
+Se una magia che controlli sta per infliggere danno a un avversario, previeni quel danno. Metti sul campo di battaglia una pedina creatura Sciamano Elementale 3/1 rossa con rapidità per ogni punto danno prevenuto in questo modo.
+Quando l'Ostilità viene messa in un cimitero da qualsiasi zona, rimescolala nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0177</id>
+    <name>Trambusto</name>
+    <text>Scegli uno - Il Trambusto infligge 1 danno a ogni creatura senza volare; oppure il Trambusto infligge 1 danno a ogni creatura con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0178</id>
+    <name>Attizza Anima Incandescente</name>
+    <text>Le altre creature Elementale che controlli prendono +1/+1.
+{1}{R}, {T}: Puoi mettere nel campo di battaglia una carta creatura Elementale dalla tua mano. Quella creatura ha rapidità fino alla fine del turno. Sacrificala all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0179</id>
+    <name>Ordine Incendiario</name>
+    <text>Scegli due - L'Ordine Incendiario infligge 4 danni a un giocatore bersaglio; oppure l'Ordine Incendiario infligge 2 danni a ogni creatura; oppure distruggi una terra non base bersaglio; oppure ogni giocatore scarta tutte le carte che ha in mano, poi pesca altrettante carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0180</id>
+    <name>Mastica Lingotti</name>
+    <text>Quando il Mastica Lingotti entra nel campo di battaglia, distruggi un artefatto bersaglio.
+Apparire {R} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0181</id>
+    <name>Accolito della Fiamma Interiore</name>
+    <text>Quando l'Accolito della Fiamma Interiore entra nel campo di battaglia, una creatura bersaglio prende +2/+0 e ha rapidità fino alla fine del turno.
+Apparire {R} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0182</id>
+    <name>Incendiario della Fiamma Interiore</name>
+    <text>{2}{R}: Le creature che controlli prendono +1/+0 fino alla fine del turno. Se è la terza volta che si risolve questa abilità in questo turno, le creature che controlli guadagnano attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0183</id>
+    <name>Sferzare</name>
+    <text>Sferzare infligge 3 danni a una creatura bersaglio. Scontrati con un avversario. Se vinci, Sferzare infligge 3 danni al controllore di quella creatura. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0184</id>
+    <name>Gonzo di Pianura</name>
+    <text>{T}: Una creatura Goblin bersaglio che controlli prende +1/+0 e ha volare fino alla fine del turno. Sacrifica quella creatura all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0185</id>
+    <name>Tedoforo di Bottone Fangoso</name>
+    <text>Quando il Tedoforo di Bottone Fangoso viene messo in un cimitero dal campo di battaglia, infligge 3 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0186</id>
+    <name>Ago in Caduta</name>
+    <text>L'Ago in Caduta infligge 1 danno a una creatura o a un giocatore bersaglio a cui sia stato inflitto danno in questo turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0187</id>
+    <name>Cacciatrice di Stelle</name>
+    <text>Travolgere
+Battersi per un Elementale (Quando questa creatura entra nel campo di battaglia, sacrificala a meno che tu non esili un altro Elementale che controlli. Quando questa creatura lascia il campo di battaglia, quella carta viene rimessa nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0188</id>
+    <name>Ribellione degli Igniferi</name>
+    <text>Ogniqualvolta ti scontri, puoi pagare {1}. Se lo fai, metti sul campo di battaglia una pedina creatura Sciamano Elementale 3/1 rossa. Se hai vinto, quella pedina ha rapidità fino alla fine del turno. (Questa abilità si innesca dopo la fine dello scontro.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0189</id>
+    <name>Intrecciafumo</name>
+    <text>{T}: Aggiungi due mana in qualsiasi combinazione di colori alla tua riserva di mana. Spendi questo mana solo per lanciare magie Elementale o attivare abilità di Elementali.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0190</id>
+    <name>Ignifero Brilla Anima</name>
+    <text>{2}: Una creatura bersaglio ha travolgere fino alla fine del turno. Se è la terza volta che si risolve questa abilità in questo turno, puoi aggiungere {R}{R}{R}{R}{R}{R}{R}{R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0191</id>
+    <name>Temerario di Beone Puzzolente</name>
+    <text>Le magie Gigante che lanci costano {2} in meno per essere lanciate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0192</id>
+    <name>Sovrano dell'Alba</name>
+    <text>Le altre creature Gigante che controlli prendono +2/+2 e hanno travolgere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0193</id>
+    <name>Lanciatore di Catrame</name>
+    <text>{T}, Sacrifica un Goblin: Il Lanciatore di Catrame infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0194</id>
+    <name>Fuoco di Catrame</name>
+    <text>Il Fuoco di Catrame infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0195</id>
+    <name>Sciamano del Temporale</name>
+    <text>Quando lo Sciamano del Temporale entra nel campo di battaglia, infligge un ammontare di danni pari al numero di Giganti che controlli ad ogni creatura non Gigante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0196</id>
+    <name>Rimbalzo Selvaggio</name>
+    <text>Puoi scegliere nuovi bersagli per una magia istantaneo o stregoneria bersaglio. Poi copia quella magia. Puoi scegliere nuovi bersagli per la copia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0197</id>
+    <name>Quercia con Bacchette da Battaglia</name>
+    <text>Ogniqualvolta una Foresta entra sul campo di battaglia sotto il tuo controllo, la Quercia con Bacchette da Battaglia prende +2/+2 fino alla fine del turno.
+Ogniqualvolta lanci una magia Silvantropo, la Quercia con Bacchette da Battaglia prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0198</id>
+    <name>Frassino Palustre</name>
+    <text>Passa-Paludi
+Ogniqualvolta un giocatore lancia una magia Goblin, puoi pagare {G}. Se lo fai, guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0199</id>
+    <name>Rovo Cornuto</name>
+    <text>Lampo
+Quando il Rovo Cornuto entra nel campo di battaglia, una creatura bersaglio prende +3/+3 fino alla fine del turno.
+Apparire {1}{G} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0200</id>
+    <name>Cangiante Titano</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)
+Battersi per una creatura (Quando questa creatura entra nel campo di battaglia, sacrificala a meno che tu non esili un'altra creatura che controlli. Quando questa creatura lascia il campo di battaglia, quella carta viene rimessa sul campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0201</id>
+    <name>Quercia Nembochiomata</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0202</id>
+    <name>Trebbiatore delle Nuvole</name>
+    <text>Lampo
+Raggiungere (Questa creatura può bloccare le creature con volare.)
+Quando il Trebbiatore delle Nuvole entra nel campo di battaglia, infligge 2 danni a ogni creatura con volare e a ogni giocatore.
+Apparire {2}{G}{G} (Puoi lanciare questa magia pagando il suo costo di apparire. Se lo fai, viene sacrificata quando entra nel campo di battaglia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0203</id>
+    <name>Cortecciadura Intrepido</name>
+    <text>La forza e la costituzione del Cortecciadura Intrepido sono pari al numero di Foreste che controlli più il numero di Silvantropi che controlli.
+Il Cortecciadura Intrepido ha travolgere fintanto che controlli un altro Silvantropo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0204</id>
+    <name>Piegarami Elfico</name>
+    <text>{T}: Fino alla fine del turno, una Foresta bersaglio diventa una creatura Silvantropo X/X in aggiunta ai suoi altri tipi, dove X è il numero di Elfi che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0205</id>
+    <name>Elogiatrice Elfica</name>
+    <text>Sacrifica l'Elogiatrice Elfica: Guadagni 1 punto vita per ogni carta Elfo nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0206</id>
+    <name>Servitore Elfico</name>
+    <text>Ogniqualvolta un giocatore lancia una magia Gigante, puoi mettere un segnalino +1/+1 sul Servitore Elfico.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0207</id>
+    <name>Elfa Araldo</name>
+    <text>Quando l'Elfa Araldo entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Elfo, rivelarla, poi rimescolare il tuo grimorio e mettere quella carta in cima.
+{T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0208</id>
+    <name>Passeggiata degli Elfi</name>
+    <text>Metti sul campo di battaglia una pedina creatura Guerriero Elfo 1/1 verde per ogni Elfo che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0209</id>
+    <name>Proporzioni Epiche</name>
+    <text>Lampo
+Incanta creatura
+La creatura incantata prende +5/+5 e ha travolgere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0210</id>
+    <name>Occhi del Bisonte</name>
+    <text>Ogniqualvolta un avversario lancia una magia blu durante il tuo turno, puoi mettere sul campo di battaglia una pedina creatura Elementale 4/4 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0211</id>
+    <name>Terreno Fertile</name>
+    <text>Incanta terra
+Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo controllore aggiunge un mana di un qualsiasi colore alla propria riserva (in aggiunta al mana prodotto dalla terra).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0212</id>
+    <name>Pugno di Forza</name>
+    <text>Una creatura bersaglio prende +2/+2 fino alla fine del turno. Scontrati con un avversario. Se vinci, quella creatura prende un +2/+2 addizionale e guadagna travolgere fino alla fine del turno. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0213</id>
+    <name>Garruk Lingua Selvaggia</name>
+    <text>[+1]: STAPpa due terre bersaglio.
+[-1]: Metti sul campo di battaglia una pedina creatura Bestia 3/3 verde.
+[-4]: Le creature che controlli prendono +3/+3 e hanno travolgere fino alla fine del turno.
+[Fedeltà 3]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0214</id>
+    <name>Imboscata nel Foglia Dorata</name>
+    <text>Metti sul campo di battaglia due pedine creatura Guerriero Elfo 1/1 verdi. Scontrati con un avversario. Se vinci, quelle creature hanno tocco letale fino alla fine del turno. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0215</id>
+    <name>Veggente di Foglia Dorata</name>
+    <text>{G}, {T}: Guarda le prime due carte del tuo grimorio, poi rimettile a posto in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0216</id>
+    <name>Guardiano della Valletta dei Trifogli</name>
+    <text>Quando il Guardiano della Valletta dei Trifogli entra nel campo di battaglia, metti sul campo di battaglia tre pedine creatura Soldato Kithkin 1/1 bianche.
+{G}, Sacrifica un Kithkin: Guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0217</id>
+    <name>Curare le Cicatrici</name>
+    <text>Rigenera una creatura bersaglio. Guadagni un ammontare di punti vita pari alla costituzione di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0218</id>
+    <name>Scovare</name>
+    <text>Una creatura bersaglio blocca una creatura bersaglio in questo turno se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0219</id>
+    <name>Magistrato Immacolato</name>
+    <text>{T}: Metti un segnalino +1/+1 su una creatura bersaglio per ogni Elfo che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0220</id>
+    <name>Perfetta Autoritaria</name>
+    <text>Le altre creature Elfo che controlli prendono +1/+1.
+{G}, {T}: Metti sul campo di battaglia una pedina creatura Guerriero Elfo 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0221</id>
+    <name>Incremento di Crescita</name>
+    <text>Metti un segnalino +1/+1 su una creatura bersaglio, due segnalini +1/+1 su un'altra creatura bersaglio e tre segnalini +1/+1 su una terza creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0222</id>
+    <name>Arcieri della Cicatrice Frastagliata</name>
+    <text>La forza e la costituzione degli Arcieri della Cicatrice Frastagliata sono ciascuna  pari al numero di Elfi che controlli.
+{T}: Gli Arcieri della Cicatrice Frastagliata infliggono un danno pari alla loro forza a una creatura bersaglio con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0223</id>
+    <name>Pugnale Ardito Kithkin</name>
+    <text>{G}, {T}: Una creatura attaccante bersaglio prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0224</id>
+    <name>Nunzio Funerario Kithkin</name>
+    <text>Ogniqualvolta un Kithkin o Elfo attaccante viene messo nel tuo cimitero dal campo di battaglia, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0225</id>
+    <name>Avvelenare con Digitale Selenica</name>
+    <text>Una creatura bersaglio ha tocco letale fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0226</id>
+    <name>Intreccio di Fine Estate</name>
+    <text>Nomina una carta, poi un giocatore bersaglio mette nel suo cimitero la prima carta del suo grimorio. Se quella carta è la carta nominata, guadagni punti vita pari al suo costo di mana convertito.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0227</id>
+    <name>Doratore di Foglie</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0228</id>
+    <name>Lignificare</name>
+    <text>Incanta creatura
+La creatura incantata è un Silvantropo 0/4 senza abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0229</id>
+    <name>Capocaccia di Lys Alana</name>
+    <text>Ogniqualvolta lanci una magia Elfo, puoi mettere sul campo di battaglia una pedina creatura Guerriero Elfo 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0230</id>
+    <name>Ammiratori Mascherati</name>
+    <text>Quando gli Ammiratori Mascherati entrano nel campo di battaglia, pesca una carta.
+Ogniqualvolta lanci una magia creatura, puoi pagare {G}{G}. Se lo fai, riprendi in mano gli Ammiratori Mascherati dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0231</id>
+    <name>Elite di Nath</name>
+    <text>Tutte le creature in grado di bloccare l'Elite di Nath lo fanno.
+Quando l'Elite di Nath entra nel campo di battaglia, scontrati con un avversario. Se vinci, metti un segnalino +1/+1 sull'Elite di Nath. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0232</id>
+    <name>Guerriero Quercia Contorta</name>
+    <text>Cautela, travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0233</id>
+    <name>Ordine Principale</name>
+    <text>Scegli due - Un giocatore bersaglio guadagna 7 punti vita; oppure metti un permanente non creatura bersaglio in cima al grimorio del suo proprietario; oppure un giocatore bersaglio rimescola il suo cimitero nel suo grimorio; oppure passa in rassegna il tuo grimorio per una carta creatura, rivelala, aggiungila alla tua mano, poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0234</id>
+    <name>Morsa delle Radici</name>
+    <text>Distruggi un permanente non creatura bersaglio. Se controlli un Silvantropo, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0235</id>
+    <name>Frassino Guida</name>
+    <text>Quando il Frassino Guida viene messo in un cimitero dal campo di battaglia, puoi passare in rassegna il tuo grimorio per un massimo di tre carte Foresta e metterle sul campo di battaglia TAPpate. Se lo fai, rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0236</id>
+    <name>Pulizie di Primavera</name>
+    <text>Distruggi un incantesimo bersaglio. Scontrati con un avversario. Se vinci, distruggi tutti gli incantesimi controllati dai tuoi avversari. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0237</id>
+    <name>Echi Silvani</name>
+    <text>Ogniqualvolta ti scontri e vinci, puoi pescare una carta. (Questa abilità si innesca dopo che lo scontro è terminato.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0238</id>
+    <name>Protettore del Bosco</name>
+    <text>Le altre creature Silvantropo che controlli prendono +1/+1.
+Gli altri Silvantropi e Foreste che controlli sono indistruttibili.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0239</id>
+    <name>Araldo Silvantropo</name>
+    <text>Quando l'Araldo Silvantropo entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Silvantropo o Foresta, rivelarla, poi rimescolare il tuo grimorio e mettere quella carta in cima.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0240</id>
+    <name>Vigore</name>
+    <text>Travolgere
+Se sta per essere inflitto danno a una creatura che controlli diversa dal Vigore, previeni quel danno. Metti un segnalino +1/+1 su quella creatura per ogni punto danno prevenuto in questo modo.
+Quando il Vigore viene messo in un cimitero da qualsiasi zona, rimescolalo nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0241</id>
+    <name>Elfo Flagello dei Cunicoli</name>
+    <text>Protezione dai Goblin</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0242</id>
+    <name>Cangiante dei Boschi</name>
+    <text>Cangiante (Questa carta ha tutti i tipi di creatura in ogni momento.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0243</id>
+    <name>Guida Silvestre</name>
+    <text>Riprendi in mano una carta bersaglio dal tuo cimitero. Scontrati con un avversario. Se vinci, STAPpa tutte le Foreste che controlli. (Ogni giocatore che si scontra rivela la prima carta del suo grimorio, poi la mette in cima o in fondo. Un giocatore vince se la sua carta aveva un costo di mana convertito maggiore.)
+Esilia la Guida Silvestre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0244</id>
+    <name>Capobranco di Volo dello Scricciolo</name>
+    <text>Battersi per un Elfo (Quando questa creatura entra nel campo di battaglia, sacrificala a meno che tu non esili un altro Elfo che controlli. Quando questa creatura lascia il campo di battaglia, quella carta viene rimessa sul campo di battaglia.)
+{2}{G}: Metti sul campo di battaglia una pedina creatura Lupo 2/2 verde.
+Ogni Lupo che controlli ha tocco letale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0245</id>
+    <name>Conquistatrice di Volo dello Scricciolo</name>
+    <text>Come costo addizionale per lanciare la Conquistatrice di Volo dello Scricciolo, rivela una carta Elfo dalla tua mano o paga {3}.
+Tocco letale</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0246</id>
+    <name>Brion Fortebraccio</name>
+    <text>Legame vitale (Il danno inflitto da questa creatura ti fa anche guadagnare un pari ammontare di punti vita); {R}, {T}, Sacrifica una creatura diversa da Brion Fortebraccio: Brion Fortebraccio infligge a un giocatore bersaglio un ammontare di danni pari alla forza della creatura sacrificata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0247</id>
+    <name>Doran, la Torre d'Assedio</name>
+    <text>Ogni creatura assegna danno da combattimento pari alla sua costituzione invece che alla sua forza.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0248</id>
+    <name>Gaddock Teeg</name>
+    <text>Le magie non creatura con costo di mana convertito pari o superiore a 4 non possono essere lanciate.
+Le magie non creatura con {X} nel loro costo di mana non possono essere lanciate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0249</id>
+    <name>Orda di Nozioni</name>
+    <text>Cautela, travolgere, rapidità
+{W}{U}{B}{R}{G}: Puoi giocare una carta Elementale bersaglio dal tuo cimitero senza pagare il suo costo di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0250</id>
+    <name>Nath di Foglia Dorata</name>
+    <text>All'inizio del tuo mantenimento, puoi fare scartare una carta a caso a un avversario bersaglio.
+Ogniqualvolta un avversario scarta una carta, puoi mettere sul campo di battaglia una pedina creatura Guerriero Elfo 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0251</id>
+    <name>Sygg, Guida Fluviale</name>
+    <text>Passa-Isole
+{1}{W}: Un Tritone bersaglio che controlli guadagna protezione da un colore a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0252</id>
+    <name>Fermenta, Zietta Boggart</name>
+    <text>Paura
+All'inizio del tuo mantenimento, puoi riprendere in mano una carta Goblin bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0253</id>
+    <name>Wydwen, la Brezza Sferzante</name>
+    <text>Lampo
+Volare
+{U}{B}, Paga 1 punto vita: Il proprietario riprende in mano Wydwen, la Brezza Sferzante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0254</id>
+    <name>Urna di Colfenor</name>
+    <text>Ogniqualvolta una creatura con costituzione pari o superiore a 4 viene messa nel tuo cimitero dal campo di battaglia, puoi esiliarla.
+All'inizio della sottofase finale, se tre o più carte sono state esiliate con l'Urna di Colfenor, sacrificala. Se lo fai, rimetti sul campo di battaglia quelle carte sotto il controllo dei loro proprietari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0255</id>
+    <name>Fendente Letale</name>
+    <text>La creatura equipaggiata prende +2/+2.
+Ogniqualvolta la creatura equipaggiata viene messa in un cimitero dal campo di battaglia, puoi mettere sul campo di battaglia una carta creatura dalla tua mano e assegnarle il Fendente Letale.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0256</id>
+    <name>Dolmen d'Accesso</name>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto alle creature attaccanti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0257</id>
+    <name>Impiastro d'Erbe</name>
+    <text>{3}, Sacrifica l'Impiastro d'Erbe: Rigenera una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0258</id>
+    <name>Essenza di Digitale Selenica</name>
+    <text>Sacrifica l'Essenza di Digitale Selenica: L'Essenza di Digitale Selenica infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0259</id>
+    <name>Anelli dell'Allegro Focolare</name>
+    <text>Ogniqualvolta attivi un'abilità, se non è un'abilità di mana, puoi pagare {2}. Se lo fai, copia quella abilità. Puoi scegliere nuovi bersagli per la copia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0260</id>
+    <name>Stalattite Runica</name>
+    <text>La creatura equipaggiata prende +1/+1 e ha tutti i tipi di creatura.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0261</id>
+    <name>Tamburo Foglia di Primavera</name>
+    <text>{T}, TAPpa una creatura STAPpata che controlli: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0262</id>
+    <name>Spina di Ametista</name>
+    <text>Le magie non creatura costano {1} in più per essere lanciate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0263</id>
+    <name>Elisir Millenario</name>
+    <text>Puoi attivare le abilità delle creature che controlli come se quelle creature avessero rapidità.
+{1}, {T}: STAPpa una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0264</id>
+    <name>Vetro Geminato</name>
+    <text>{1}, {T}: Puoi lanciare una carta non terra dalla tua mano senza pagare il suo costo di mana se ha lo stesso nome di una magia che è stata lanciata in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0265</id>
+    <name>Virgulto del Girovago</name>
+    <text>{1}, Sacrifica il Virgulto del Girovago: Passa in rassegna il tuo grimorio per una carta terra base, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0266</id>
+    <name>Antico Anfiteatro</name>
+    <text>Mentre l'Antico Anfiteatro entra nel campo di battaglia, puoi rivelare una carta Gigante dalla tua mano. Se non lo fai, l'Antico Anfiteatro entra nel campo di battaglia TAPpato.
+{T}: Aggiungi {R} o {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0267</id>
+    <name>Bicocca della Zietta</name>
+    <text>Mentre la Bicocca della Zietta entra nel campo di battaglia, puoi rivelare una carta Goblin dalla tua mano. Se non lo fai, la Bicocca della Zietta entra nel campo di battaglia TAPpata.
+{T}: Aggiungi {B} o {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0268</id>
+    <name>Palazzo di Foglia Dorata</name>
+    <text>Mentre il Palazzo di Foglia Dorata entra nel campo di battaglia, puoi rivelare una carta Elfo dalla tua mano. Se non lo fai, il Palazzo di Foglia Dorata entra nel campo di battaglia TAPpato.
+{T}: Aggiungi {B} o {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0269</id>
+    <name>Conca del Dente Ululato</name>
+    <text>Nascondiglio (Questa terra entra nel campo di battaglia TAPpata. Quando lo fa, guarda le prime quattro carte del tuo grimorio, esiliane una a faccia in giù, poi metti le altre in fondo al tuo grimorio.)
+{T}: Aggiungi {B} alla tua riserva di mana.
+{B}, {T}: Puoi lanciare la carta esiliata senza pagare il suo costo di mana se ogni giocatore non ha carte in mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0270</id>
+    <name>Ponte Muscoso</name>
+    <text>Nascondiglio (Questa terra entra nel campo di battaglia TAPpata. Quando lo fa, guarda le prime quattro carte del tuo grimorio, esiliane una a faccia in giù, poi metti le altre in fondo al tuo grimorio.)
+{T}: Aggiungi {G} alla tua riserva di mana.
+{G}, {T}: Puoi giocare la carta esiliata senza pagare il suo costo di mana se le creature che controlli hanno una forza totale pari o superiore a 10.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0271</id>
+    <name>Gola Isolata</name>
+    <text>Mentre la Gola Isolata entra nel campo di battaglia, puoi rivelare una carta Spiritello dalla tua mano. Se non lo fai, la Gola Isolata entra nel campo di battaglia TAPpata.
+{T}: Aggiungi {U} o {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0272</id>
+    <name>Isola Bacino delle Conchiglie</name>
+    <text>Nascondiglio (Questa terra entra nel campo di battaglia TAPpata. Quando lo fa, guarda le prime quattro carte del tuo grimorio, esiliane una a faccia in giù, poi metti le altre in fondo al tuo grimorio.)
+{T}: Aggiungi {U} alla tua riserva di mana.
+{U}, {T}: Puoi giocare la carta esiliata senza pagare il suo costo di mana se un grimorio contiene venti o meno carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0273</id>
+    <name>Grotta Scintillante</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{1}, {T}: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0274</id>
+    <name>Poggio Spina Rocciosa</name>
+    <text>Nascondiglio (Questa terra entra nel campo di battaglia TAPpata. Quando lo fa, guarda le prime quattro carte del tuo grimorio, esiliane una a faccia in giù, poi metti le altre in fondo al tuo grimorio.)
+{T}: Aggiungi {R} alla tua riserva di mana.
+{R}, {T}: Puoi giocare la carta esiliata senza pagare il suo costo di mana se a un avversario sono stati inflitti 7 o più danni in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0275</id>
+    <name>Dirupo Iridescente</name>
+    <text>Il Dirupo Iridescente entra nel campo di battaglia TAPpato con due segnalini carica.
+{T}: Aggiungi {R} alla tua riserva di mana.
+{T}, Rimuovi un segnalino carica dal Dirupo Iridescente: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0276</id>
+    <name>Torrente Iridescente</name>
+    <text>Il Torrente Iridescente entra nel campo di battaglia TAPpato con due segnalini carica.
+{T}: Aggiungi {U} alla tua riserva di mana.
+{T}, Rimuovi un segnalino carica dal Torrente Iridescente: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0277</id>
+    <name>Boschetto Iridescente</name>
+    <text>Il Boschetto Iridescente entra nel campo di battaglia TAPpato con due segnalini carica.
+{T}: Aggiungi {G} alla tua riserva di mana.
+{T}, Rimuovi un segnalino carica dal Boschetto Iridescente: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0278</id>
+    <name>Palude Iridescente</name>
+    <text>La Palude Iridescente entra nel campo di battaglia TAPpata con due segnalini carica.
+{T}: Aggiungi {B} alla tua riserva di mana.
+{T}, Rimuovi un segnalino carica dalla Palude Iridescente: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0279</id>
+    <name>Prateria Iridescente</name>
+    <text>La Prateria Iridescente entra nel campo di battaglia TAPpata con due segnalini carica.
+{T}: Aggiungi {W} alla tua riserva di mana.
+{T}, Rimuovi un segnalino carica dalla Prateria Iridescente: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0280</id>
+    <name>Fulcro di Vino Errante</name>
+    <text>Mentre il Fulcro di Vino Errante entra nel campo di battaglia, puoi rivelare una carta Tritone dalla tua mano. Se non lo fai, il Fulcro di Vino Errante entra nel campo di battaglia TAPpato.
+{T}: Aggiungi {W} o {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0281</id>
+    <name>Alture di Vento Pungente</name>
+    <text>Nascondiglio (Questa terra entra nel campo di battaglia TAPpata. Quando lo fa, guarda le prime quattro carte del tuo grimorio, esiliane una a faccia in giù, poi metti le altre in fondo al tuo grimorio.)
+{T}: Aggiungi {W} alla tua riserva di mana.
+{W}, {T}: Puoi giocare la carta esiliata senza pagare il suo costo di mana se hai attaccato con tre o più creature in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0282</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0283</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0284</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0285</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0286</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0287</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0288</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0289</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0290</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0291</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0292</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0293</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0294</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0295</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0296</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0297</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0298</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0299</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0300</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LRW0301</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

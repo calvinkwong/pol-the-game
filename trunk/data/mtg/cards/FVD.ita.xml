@@ -1,0 +1,123 @@
+<cards name="From the Vault: Dragons">
+  <item>
+    <id>FVD0001</id>
+    <name>Bladewing the Risen</name>
+    <text>Flying
+When Bladewing the Risen enters the battlefield, you may return target Dragon permanent card from your graveyard to the battlefield.
+{B}{R}: Dragon creatures get +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FVD0002</id>
+    <name>Bogardan Hellkite</name>
+    <text>Flash (You may cast this spell any time you could cast an instant.)
+Flying
+When Bogardan Hellkite enters the battlefield, it deals 5 damage divided as you choose among any number of target creatures and/or players.</text>
+    <flavorText>Cleansing the world, one breath at a time.</flavorText>
+  </item>
+  <item>
+    <id>FVD0003</id>
+    <name>Draco</name>
+    <text>Domain — Draco costs {2} less to cast for each basic land type among lands you control.
+Flying
+Domain — At the beginning of your upkeep, sacrifice Draco unless you pay {1}0. This cost is reduced by {2} for each basic land type among lands you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FVD0004</id>
+    <name>Dragon Whelp</name>
+    <text>Flying
+{R}: Dragon Whelp gets +1/+0 until end of turn. If this ability has been activated four or more times this turn, sacrifice Dragon Whelp at the beginning of the next end step.</text>
+    <flavorText>Dragon whelps face few threats besides their own enthusiasm.</flavorText>
+  </item>
+  <item>
+    <id>FVD0005</id>
+    <name>Dragonstorm</name>
+    <text>Search your library for a Dragon permanent card and put it onto the battlefield. Then shuffle your library.
+Storm (When you cast this spell, copy it for each spell cast before it this turn.)</text>
+    <flavorText>Dragons come not in packs or in herds but in storms.</flavorText>
+  </item>
+  <item>
+    <id>FVD0006</id>
+    <name>Ebon Dragon</name>
+    <text>Flying
+When Ebon Dragon enters the battlefield, you may have target opponent discard a card.</text>
+    <flavorText>"The dragon wing of night o'erspreads the earth."
+—Troilus and Cressida, William Shakespeare</flavorText>
+  </item>
+  <item>
+    <id>FVD0007</id>
+    <name>Form of the Dragon</name>
+    <text>At the beginning of your upkeep, Form of the Dragon deals 5 damage to target creature or player.
+At the beginning of each end step, your life total becomes 5.
+Creatures without flying can't attack you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FVD0008</id>
+    <name>Hellkite Overlord</name>
+    <text>Flying, trample, haste
+{R}: Hellkite Overlord gets +1/+0 until end of turn.
+{B}{G}: Regenerate Hellkite Overlord.</text>
+    <flavorText>"The dragon has no pretense of compassion, no false mask of civilization—just hunger, heat, and need."
+—Sarkhan Vol</flavorText>
+  </item>
+  <item>
+    <id>FVD0009</id>
+    <name>Kokusho, the Evening Star</name>
+    <text>Flying
+When Kokusho, the Evening Star is put into a graveyard from the battlefield, each opponent loses 5 life. You gain life equal to the life lost this way.</text>
+    <flavorText>The fall of the evening star never heralds a gentle dawn.</flavorText>
+  </item>
+  <item>
+    <id>FVD0010</id>
+    <name>Nicol Bolas</name>
+    <text>Flying
+At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.
+Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.</text>
+    <flavorText>Dominaria's most ancient evil.</flavorText>
+  </item>
+  <item>
+    <id>FVD0011</id>
+    <name>Niv-Mizzet, the Firemind</name>
+    <text>Flying
+Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.
+{T}: Draw a card.</text>
+    <flavorText>As brilliant as a cut diamond, and with just as cruel an edge.</flavorText>
+  </item>
+  <item>
+    <id>FVD0012</id>
+    <name>Rith, the Awakener</name>
+    <text>Flying
+Whenever Rith, the Awakener deals combat damage to a player, you may pay {2}{G}. If you do, choose a color, then put a 1/1 green Saproling creature token onto the battlefield for each permanent of that color.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FVD0013</id>
+    <name>Shivan Dragon</name>
+    <text>Flying
+{R}: Shivan Dragon gets +1/+0 until end of turn.</text>
+    <flavorText>The undisputed master of the mountains of Shiv.</flavorText>
+  </item>
+  <item>
+    <id>FVD0014</id>
+    <name>Thunder Dragon</name>
+    <text>Flying
+When Thunder Dragon enters the battlefield, it deals 3 damage to each creature without flying.</text>
+    <flavorText>Sometimes primitive cultures attributed natural phenomena to monsters. Sometimes they were right.</flavorText>
+  </item>
+  <item>
+    <id>FVD0015</id>
+    <name>Two-Headed Dragon</name>
+    <text>Flying
+{1}{R}: Two-Headed Dragon gets +2/+0 until end of turn.
+Two-Headed Dragon can't be blocked except by two or more creatures.
+Two-Headed Dragon can block an additional creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

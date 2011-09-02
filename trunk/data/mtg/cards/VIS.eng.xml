@@ -1,0 +1,1250 @@
+<cards name="Visions">
+  <item>
+    <id>VIS0001</id>
+    <name>Aku Djinn</name>
+    <text>Trample
+At the beginning of your upkeep, put a +1/+1 counter on each creature each opponent controls.</text>
+    <flavorText>"Your arrogance amazes me, Kaervek. Did you not know the price you would pay?"
+—Mangara</flavorText>
+  </item>
+  <item>
+    <id>VIS0002</id>
+    <name>Anvil of Bogardan</name>
+    <text>Players have no maximum hand size.
+At the beginning of each player's draw step, that player draws an additional card, then discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0003</id>
+    <name>Archangel</name>
+    <text>Flying, vigilance</text>
+    <flavorText>"My mother once told me angels sing their swords' names with each strike."
+—Sisay, Captain of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>VIS0004</id>
+    <name>Army Ants</name>
+    <text>{T}, Sacrifice a land: Destroy target land.</text>
+    <flavorText>"Do not underestimate the power of many against one."
+—Sidar Jabari</flavorText>
+  </item>
+  <item>
+    <id>VIS0005</id>
+    <name>Betrayal</name>
+    <text>Enchant creature an opponent controls
+Whenever enchanted creature becomes tapped, you draw a card.</text>
+    <flavorText>"Sometimes a burden can be borne only on the shoulders of a willing enemy."
+—Suq'Ata aphorism</flavorText>
+  </item>
+  <item>
+    <id>VIS0006</id>
+    <name>Blanket of Night</name>
+    <text>Each land is a Swamp in addition to its other land types.</text>
+    <flavorText>"Kaervek imprisoned Mangara out of jealousy, but he taints Jamuraa simply out of spite."
+—Asmira, Holy Avenger</flavorText>
+  </item>
+  <item>
+    <id>VIS0007</id>
+    <name>Bogardan Phoenix</name>
+    <text>Flying
+When Bogardan Phoenix is put into a graveyard from the battlefield, exile it if it had a death counter on it. Otherwise, return it to the battlefield under your control and put a death counter on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0008</id>
+    <name>Brass-Talon Chimera</name>
+    <text>First strike
+Sacrifice Brass-Talon Chimera: Put a +2/+2 counter on target Chimera creature. It gains first strike. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0009</id>
+    <name>Breathstealer's Crypt</name>
+    <text>If a player would draw a card, instead he or she draws a card and reveals it. If it's a creature card, that player discards it unless he or she pays 3 life.</text>
+    <flavorText>"Far too many soldiers have died in their beds."
+—Telim'Tor</flavorText>
+  </item>
+  <item>
+    <id>VIS0010</id>
+    <name>Breezekeeper</name>
+    <text>Flying
+Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)</text>
+    <flavorText>"He blows a gust across the cliff to vanish in a breath of wind."
+—"Song of the Wind Being"</flavorText>
+  </item>
+  <item>
+    <id>VIS0011</id>
+    <name>Brood of Cockroaches</name>
+    <text>When Brood of Cockroaches is put into your graveyard from the battlefield, at the beginning of the next end step, you lose 1 life and return Brood of Cockroaches to your hand.</text>
+    <flavorText>"It's like waking on a bed of a thousand olives during an earthquake of subtle force."
+—Afari, Tales</flavorText>
+  </item>
+  <item>
+    <id>VIS0012</id>
+    <name>Bull Elephant</name>
+    <text>When Bull Elephant enters the battlefield, sacrifice it unless you return two Forests you control to their owner's hand.</text>
+    <flavorText>Four gray trees and a long, coiling snake. What am I?
+—Zhalfirin riddle</flavorText>
+  </item>
+  <item>
+    <id>VIS0013</id>
+    <name>Chronatog</name>
+    <text>{0}: Chronatog gets +3/+3 until end of turn. You skip your next turn. Activate this ability only once each turn.</text>
+    <flavorText>For the chronatog, there is no meal like the present.</flavorText>
+  </item>
+  <item>
+    <id>VIS0014</id>
+    <name>City of Solitude</name>
+    <text>Players can cast spells and activate abilities only during their own turns.</text>
+    <flavorText>"My horizon was the arcing petals, my new home resplendent with spires of weeds and pillows of fragrant pollen."
+—Naimah, Femeref philosopher</flavorText>
+  </item>
+  <item>
+    <id>VIS0015</id>
+    <name>Cloud Elemental</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Cloud Elemental can block only creatures with flying.</text>
+    <flavorText>"You know you've angered the gods when the clouds turn against you."
+—Sisay, Captain of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>VIS0016</id>
+    <name>Coercion</name>
+    <text>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.</text>
+    <flavorText>A rhino's bargain
+—Femeref expression meaning "a situation with no choices"</flavorText>
+  </item>
+  <item>
+    <id>VIS0017</id>
+    <name>Coral Atoll</name>
+    <text>Coral Atoll enters the battlefield tapped.
+When Coral Atoll enters the battlefield, sacrifice it unless you return an untapped Island you control to its owner's hand.
+{T}: Add {1}{U} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0018</id>
+    <name>Corrosion</name>
+    <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+At the beginning of your upkeep, put a rust counter on each artifact target opponent controls. Then destroy each artifact with converted mana cost less than or equal to the number of rust counters on it. Artifacts destroyed this way can't be regenerated.
+When Corrosion leaves the battlefield, remove all rust counters from all permanents.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0019</id>
+    <name>Creeping Mold</name>
+    <text>Destroy target artifact, enchantment, or land.</text>
+    <flavorText>"Mold could catch you."
+—Suq'Ata insult</flavorText>
+  </item>
+  <item>
+    <id>VIS0020</id>
+    <name>Crypt Rats</name>
+    <text>{X}: Crypt Rats deals X damage to each creature and each player. Spend only black mana this way.</text>
+    <flavorText>"Once I dreamt of death, but now it dreams of me / And only rats and rotting flesh can hear my silent plea."
+—Mundungu chant</flavorText>
+  </item>
+  <item>
+    <id>VIS0021</id>
+    <name>Daraja Griffin</name>
+    <text>Flying
+Sacrifice Daraja Griffin: Destroy target black creature.</text>
+    <flavorText>"And the flamingos said, ‘Get out of our nest—we can't be seen with the likes of you' So, the griffin ate them."
+—Azeworai, "The Ugly Bird"</flavorText>
+  </item>
+  <item>
+    <id>VIS0022</id>
+    <name>Dark Privilege</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+1.
+Sacrifice a creature: Regenerate enchanted creature.</text>
+    <flavorText>"As you breathe your last, understand why I accept such forbidden gifts."
+—Purraj of Urborg</flavorText>
+  </item>
+  <item>
+    <id>VIS0023</id>
+    <name>Death Watch</name>
+    <text>Enchant creature
+When enchanted creature is put into a graveyard, its controller loses life equal to its power and you gain life equal to its toughness.</text>
+    <flavorText>"Watch death wait / Wait, death, watch / Steal breath swiftly / but steal life slowly."
+—Suq'Ata dirge</flavorText>
+  </item>
+  <item>
+    <id>VIS0024</id>
+    <name>Desertion</name>
+    <text>Counter target spell. If an artifact or creature spell is countered this way, put that card onto the battlefield under your control instead of into its owner's graveyard.</text>
+    <flavorText>First the insult, then the injury.</flavorText>
+  </item>
+  <item>
+    <id>VIS0025</id>
+    <name>Desolation</name>
+    <text>At the beginning of each end step, each player who tapped a land for mana this turn sacrifices a land. If a Plains is sacrificed this way, Desolation deals 2 damage to that Plains's controller.</text>
+    <flavorText>"Kill a creature, destroy the present. Kill the land, destroy the future."
+—Kaervek</flavorText>
+  </item>
+  <item>
+    <id>VIS0026</id>
+    <name>Diamond Kaleidoscope</name>
+    <text>{3}, {T}: Put a 0/1 colorless Prism artifact creature token onto the battlefield.
+Sacrifice a Prism token: Add one mana of any color to your mana pool.</text>
+    <flavorText>"A pretty toy. Now show me its tactical applications."
+—Telim'Tor</flavorText>
+  </item>
+  <item>
+    <id>VIS0027</id>
+    <name>Dormant Volcano</name>
+    <text>Dormant Volcano enters the battlefield tapped.
+When Dormant Volcano enters the battlefield, sacrifice it unless you return an untapped Mountain you control to its owner's hand.
+{T}: Add {1}{R} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0028</id>
+    <name>Dragon Mask</name>
+    <text>{3}, {T}: Target creature you control gets +2/+2 until end of turn. Return it to its owner's hand at the beginning of the next end step. (Return it only if it's on the battlefield.)</text>
+    <flavorText>"With no further options, I was forced to don the mask."
+—Rashida Scalebane</flavorText>
+  </item>
+  <item>
+    <id>VIS0029</id>
+    <name>Dream Tides</name>
+    <text>Creatures don't untap during their controllers' untap steps.
+At the beginning of each player's upkeep, that player may choose any number of tapped nongreen creatures he or she controls and pay {2} for each creature chosen this way. If the player does, untap those creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0030</id>
+    <name>Dwarven Vigilantes</name>
+    <text>Whenever Dwarven Vigilantes attacks and isn't blocked, you may have it deal damage equal to its power to target creature. If you do, Dwarven Vigilantes assigns no combat damage this turn.</text>
+    <flavorText>Some dwarves can only be pushed so far.</flavorText>
+  </item>
+  <item>
+    <id>VIS0031</id>
+    <name>Elephant Grass</name>
+    <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Black creatures can't attack you.
+Nonblack creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.</text>
+    <flavorText>"How have I angered nature that she would imprison me in a labyrinth of grass?"
+—Kasib ibn Naji, Letters</flavorText>
+  </item>
+  <item>
+    <id>VIS0032</id>
+    <name>Elkin Lair</name>
+    <text>At the beginning of each player's upkeep, that player exiles a card at random from his or her hand. The player may play that card this turn. At the beginning of the next end step, if the player hasn't played the card, he or she puts it into his or her graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0033</id>
+    <name>Elven Cache</name>
+    <text>Return target card from your graveyard to your hand.</text>
+    <flavorText>"The elves can hide better than most can look."
+—Mwani, Mtenda herder</flavorText>
+  </item>
+  <item>
+    <id>VIS0034</id>
+    <name>Emerald Charm</name>
+    <text>Choose one — Untap target permanent; or destroy target non-Aura enchantment; or target creature loses flying until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0035</id>
+    <name>Equipoise</name>
+    <text>At the beginning of your upkeep, for each land target player controls in excess of the number you control, choose a land he or she controls, then the chosen permanents phase out. Repeat this process for artifacts and creatures. (While they're phased out, they're treated as though they don't exist. They phase in before that player untaps during his or her next untap step.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0036</id>
+    <name>Everglades</name>
+    <text>Everglades enters the battlefield tapped.
+When Everglades enters the battlefield, sacrifice it unless you return an untapped Swamp you control to its owner's hand.
+{T}: Add {1}{B} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0037</id>
+    <name>Eye of Singularity</name>
+    <text>When Eye of Singularity enters the battlefield, destroy each permanent with the same name as another permanent, except for basic lands. They can't be regenerated.
+Whenever a permanent other than a basic land enters the battlefield, destroy all other permanents with that name. They can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0038</id>
+    <name>Fallen Askari</name>
+    <text>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+Fallen Askari can't block.</text>
+    <flavorText>In troubled times, there are few greater sorrows than a wayward savior.</flavorText>
+  </item>
+  <item>
+    <id>VIS0039</id>
+    <name>Femeref Enchantress</name>
+    <text>Whenever an enchantment is put into a graveyard from the battlefield, draw a card.</text>
+    <flavorText>"Then she spread a fine dust over the land, like a butterfly shaking its wing."
+—"The Enchantress," Femeref tale</flavorText>
+  </item>
+  <item>
+    <id>VIS0040</id>
+    <name>Feral Instinct</name>
+    <text>Target creature gets +1/+1 until end of turn.
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>"If a rhino's head is lower than its shoulders, trust me—it is not praying."
+—Mwani, Mtenda herder</flavorText>
+  </item>
+  <item>
+    <id>VIS0041</id>
+    <name>Fireblast</name>
+    <text>You may sacrifice two Mountains rather than pay Fireblast's mana cost.
+Fireblast deals 4 damage to target creature or player.</text>
+    <flavorText>Embermages aren't well known for their diplomatic skills.</flavorText>
+  </item>
+  <item>
+    <id>VIS0042</id>
+    <name>Firestorm Hellkite</name>
+    <text>Flying, trample
+Cumulative upkeep {U}{R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)</text>
+    <flavorText>"If it can scar the sky with fire, do not share its destination."
+—Mwani, Mtenda herder</flavorText>
+  </item>
+  <item>
+    <id>VIS0043</id>
+    <name>Flooded Shoreline</name>
+    <text>{U}{U}, Return two Islands you control to their owner's hand: Return target creature to its owner's hand.</text>
+    <flavorText>"Some say the sea is jealous of the land and wishes to climb its heights to meet the sky."
+—Afari, Tales</flavorText>
+  </item>
+  <item>
+    <id>VIS0044</id>
+    <name>Forbidden Ritual</name>
+    <text>Sacrifice a nontoken permanent. If you do, target opponent loses 2 life unless he or she sacrifices a permanent or discards a card. You may repeat this process any number of times.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0045</id>
+    <name>Foreshadow</name>
+    <text>Name a card, then put the top card of target opponent's library into his or her graveyard. If that card is the named card, you draw a card.
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0046</id>
+    <name>Freewind Falcon</name>
+    <text>Flying, protection from red</text>
+    <flavorText>"That does it I'm going back to hunting chickens"
+—Rhirhok, goblin archer</flavorText>
+  </item>
+  <item>
+    <id>VIS0047</id>
+    <name>Funeral Charm</name>
+    <text>Choose one — Target player discards a card; or target creature gets +2/-1 until end of turn; or target creature gains swampwalk until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0048</id>
+    <name>Giant Caterpillar</name>
+    <text>{G}, Sacrifice Giant Caterpillar: Put a 1/1 green Insect creature token with flying named Butterfly onto the battlefield at the beginning of the next end step.</text>
+    <flavorText>"‘I've seen hornworms big as a man's fist,' the traveler said, and nodded soberly when our jaws went slack at his ignorance."
+—Afari, Tales</flavorText>
+  </item>
+  <item>
+    <id>VIS0049</id>
+    <name>Goblin Recruiter</name>
+    <text>When Goblin Recruiter enters the battlefield, search your library for any number of Goblin cards and reveal those cards. Shuffle your library, then put them on top of it in any order.</text>
+    <flavorText>"Next"</flavorText>
+  </item>
+  <item>
+    <id>VIS0050</id>
+    <name>Goblin Swine-Rider</name>
+    <text>Whenever Goblin Swine-Rider becomes blocked, it deals 2 damage to each attacking creature and each blocking creature.</text>
+    <flavorText>"May you get the mount you deserve."
+—Suq'Ata curse</flavorText>
+  </item>
+  <item>
+    <id>VIS0051</id>
+    <name>Gossamer Chains</name>
+    <text>Return Gossamer Chains to its owner's hand: Prevent all combat damage that would be dealt by target unblocked creature this turn.</text>
+    <flavorText>"Harah swung his sword mightily, but still the air held him fast."
+—Azeworai, "Kenechi's Dream"</flavorText>
+  </item>
+  <item>
+    <id>VIS0052</id>
+    <name>Griffin Canyon</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Untap target Griffin. If it's a creature, it gets +1/+1 until end of turn.</text>
+    <flavorText>"Where are falling feathers deadlier than falling rock?"
+—The One Thousand Questions</flavorText>
+  </item>
+  <item>
+    <id>VIS0053</id>
+    <name>Guiding Spirit</name>
+    <text>Flying
+{T}: If the top card of target player's graveyard is a creature card, put that card on top of that player's library.</text>
+    <flavorText>"Retainer of eternal Sun Life flash again upon thy wings."
+—"Song to the Sun," Femeref song</flavorText>
+  </item>
+  <item>
+    <id>VIS0054</id>
+    <name>Hearth Charm</name>
+    <text>Choose one — Destroy target artifact creature; or attacking creatures get +1/+0 until end of turn; or target creature with power 2 or less is unblockable this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0055</id>
+    <name>Heat Wave</name>
+    <text>Cumulative upkeep {R} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Blue creatures can't block creatures you control.
+Nonblue creatures can't block creatures you control unless their controller pays 1 life for each blocking creature he or she controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0056</id>
+    <name>Helm of Awakening</name>
+    <text>Spells cost {1} less to cast.</text>
+    <flavorText>"This little prize will cover your head, your spells, your bets, and your behind"
+—Pashad ibn Asim, Suq'Ata trader</flavorText>
+  </item>
+  <item>
+    <id>VIS0057</id>
+    <name>Honorable Passage</name>
+    <text>The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage. If damage from a red source is prevented this way, Honorable Passage deals that much damage to the source's controller.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0058</id>
+    <name>Hope Charm</name>
+    <text>Choose one — Target creature gains first strike until end of turn; or target player gains 2 life; or destroy target Aura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0059</id>
+    <name>Hulking Cyclops</name>
+    <text>Hulking Cyclops can't block.</text>
+    <flavorText>"Some say a great cyclops turns the world in its hands, looking down upon it with its one bright eye."
+—Afari, Tales</flavorText>
+  </item>
+  <item>
+    <id>VIS0060</id>
+    <name>Impulse</name>
+    <text>Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library.</text>
+    <flavorText>"Controlling time ensures you need never look impulsive again."
+—Teferi</flavorText>
+  </item>
+  <item>
+    <id>VIS0061</id>
+    <name>Infantry Veteran</name>
+    <text>{T}: Target attacking creature gets +1/+1 until end of turn.</text>
+    <flavorText>"The true dishonor for a soldier is surviving the war."
+—Telim'Tor</flavorText>
+  </item>
+  <item>
+    <id>VIS0062</id>
+    <name>Infernal Harvest</name>
+    <text>As an additional cost to cast Infernal Harvest, return X Swamps you control to their owner's hand.
+Infernal Harvest deals X damage divided as you choose among any number of target creatures.</text>
+    <flavorText>"I offered you eternal life; I just didn't say where."
+—Shauku, Endbringer</flavorText>
+  </item>
+  <item>
+    <id>VIS0063</id>
+    <name>Inspiration</name>
+    <text>Target player draws two cards.</text>
+    <flavorText>"Madness and genius are separated only by degrees of success."
+—Sidar Jabari</flavorText>
+  </item>
+  <item>
+    <id>VIS0064</id>
+    <name>Iron-Heart Chimera</name>
+    <text>Vigilance
+Sacrifice Iron-Heart Chimera: Put a +2/+2 counter on target Chimera creature. It gains vigilance. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0065</id>
+    <name>Jamuraan Lion</name>
+    <text>{W}, {T}: Target creature can't block this turn.</text>
+    <flavorText>The lion blinked
+—Femeref expression meaning "situation avoided"</flavorText>
+  </item>
+  <item>
+    <id>VIS0066</id>
+    <name>Juju Bubble</name>
+    <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When you play a card, sacrifice Juju Bubble.
+{2}: You gain 1 life.</text>
+    <flavorText>"If my heart had a lid, I would lift it and show you my joy."
+—From Suq'Ata wedding ceremony</flavorText>
+  </item>
+  <item>
+    <id>VIS0067</id>
+    <name>Jungle Basin</name>
+    <text>Jungle Basin enters the battlefield tapped.
+When Jungle Basin enters the battlefield, sacrifice it unless you return an untapped Forest you control to its owner's hand.
+{T}: Add {1}{G} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0068</id>
+    <name>Kaervek's Spite</name>
+    <text>As an additional cost to cast Kaervek's Spite, sacrifice all permanents you control and discard your hand.
+Target player loses 5 life.</text>
+    <flavorText>"The end justifies the means. What do I care if I rule over the dead rather than over the living? The dead ask fewer questions."
+—Kaervek</flavorText>
+  </item>
+  <item>
+    <id>VIS0069</id>
+    <name>Karoo</name>
+    <text>Karoo enters the battlefield tapped.
+When Karoo enters the battlefield, sacrifice it unless you return an untapped Plains you control to its owner's hand.
+{T}: Add {1}{W} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0070</id>
+    <name>Katabatic Winds</name>
+    <text>Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Creatures with flying can't attack or block, and their activated abilities with {T} in their costs can't be activated.</text>
+    <flavorText>Wind will win, whatever we wish.</flavorText>
+  </item>
+  <item>
+    <id>VIS0071</id>
+    <name>Keeper of Kookus</name>
+    <text>{R}: Keeper of Kookus gains protection from red until end of turn.</text>
+    <flavorText>Wanted: Thick-skinned goblin for guarding mean ol' Kookus. Must like fires. Must heal quickly.</flavorText>
+  </item>
+  <item>
+    <id>VIS0072</id>
+    <name>King Cheetah</name>
+    <text>Flash</text>
+    <flavorText>If you find yourself and a friend being chased by a King Cheetah, you have but one chance: Trip your friend.
+—Suq'Ata wisdom</flavorText>
+  </item>
+  <item>
+    <id>VIS0073</id>
+    <name>Knight of the Mists</name>
+    <text>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+When Knight of the Mists enters the battlefield, you may pay {U}. If you don't, destroy target Knight and it can't be regenerated.</text>
+    <flavorText>Fear the mists, for they are armed.</flavorText>
+  </item>
+  <item>
+    <id>VIS0074</id>
+    <name>Knight of Valor</name>
+    <text>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+{1}{W}: Each creature without flanking blocking Knight of Valor gets -1/-1 until end of turn. Activate this ability only once each turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0075</id>
+    <name>Kookus</name>
+    <text>Trample
+At the beginning of your upkeep, if you don't control a creature named Keeper of Kookus, Kookus deals 3 damage to you and attacks this turn if able.
+{R}: Kookus gets +1/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0076</id>
+    <name>Kyscu Drake</name>
+    <text>Flying
+{G}: Kyscu Drake gets +0/+1 until end of turn. Activate this ability only once each turn.
+Sacrifice Kyscu Drake and a creature named Spitting Drake: Search your library for a card named Viashivan Dragon and put that card onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0077</id>
+    <name>Lead-Belly Chimera</name>
+    <text>Trample
+Sacrifice Lead-Belly Chimera: Put a +2/+2 counter on target Chimera creature. It gains trample. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0078</id>
+    <name>Lichenthrope</name>
+    <text>If damage would be dealt to Lichenthrope, put that many -1/-1 counters on it instead.
+At the beginning of your upkeep, remove a -1/-1 counter from Lichenthrope.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0079</id>
+    <name>Lightning Cloud</name>
+    <text>Whenever a player casts a red spell, you may pay {R}. If you do, Lightning Cloud deals 1 damage to target creature or player.</text>
+    <flavorText>The mightiest clouds sit upon spires of fire.
+—Femeref adage</flavorText>
+  </item>
+  <item>
+    <id>VIS0080</id>
+    <name>Longbow Archer</name>
+    <text>First strike; reach (This creature can block creatures with flying.)</text>
+    <flavorText>"If it bears wings, I will put it to the skies over Tefemburu."
+—Ruya, Zhalfirin archer</flavorText>
+  </item>
+  <item>
+    <id>VIS0081</id>
+    <name>Magma Mine</name>
+    <text>{4}: Put a pressure counter on Magma Mine.
+{T}, Sacrifice Magma Mine: Magma Mine deals damage equal to the number of pressure counters on it to target creature or player.</text>
+    <flavorText>BOOM</flavorText>
+  </item>
+  <item>
+    <id>VIS0082</id>
+    <name>Man-o'-War</name>
+    <text>When Man-o'-War enters the battlefield, return target creature to its owner's hand.</text>
+    <flavorText>"Beauty to the eye does not always translate to the touch."
+—Naimah, Femeref philosopher</flavorText>
+  </item>
+  <item>
+    <id>VIS0083</id>
+    <name>Matopi Golem</name>
+    <text>{1}: Regenerate Matopi Golem. When it regenerates this way, put a -1/-1 counter on it.</text>
+    <flavorText>Some potmakers claim to use the mud of such creatures to make their finest bowls—and that the bowls scream when fired.</flavorText>
+  </item>
+  <item>
+    <id>VIS0084</id>
+    <name>Miraculous Recovery</name>
+    <text>Return target creature card from your graveyard to the battlefield with a +1/+1 counter on it.</text>
+    <flavorText>"You stop breathing for just a few minutes and everyone jumps to conclusions."
+—Zarkuu, necrosavant</flavorText>
+  </item>
+  <item>
+    <id>VIS0085</id>
+    <name>Mob Mentality</name>
+    <text>Enchant creature
+Enchanted creature has trample.
+Whenever all non-Wall creatures you control attack, enchanted creature gets +X/+0 until end of turn, where X is the number of attacking creatures.</text>
+    <flavorText>"Why is loud stupidity so infectious?"
+—Rana, Suq'Ata market fool</flavorText>
+  </item>
+  <item>
+    <id>VIS0086</id>
+    <name>Mortal Wound</name>
+    <text>Enchant creature
+When enchanted creature is dealt damage, destroy it.</text>
+    <flavorText>"Their tears spill over Jamuraa. Mixed with blood, they wash everything red."
+—"Love Song of Night and Day"</flavorText>
+  </item>
+  <item>
+    <id>VIS0087</id>
+    <name>Mundungu</name>
+    <text>{T}: Counter target spell unless its controller pays {1} and 1 life.</text>
+    <flavorText>"Our buried kings silently await the revolt of dead peasants."
+—Tuwile, mundungu of Aku</flavorText>
+  </item>
+  <item>
+    <id>VIS0088</id>
+    <name>Mystic Veil</name>
+    <text>You may cast Mystic Veil as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.
+Enchant creature
+Enchanted creature has shroud. (It can't be the target of spells or abilities.)</text>
+    <flavorText>"Magic is my thread, my will the needle. I weave over you as if you never were."
+—Poetics of Hanan</flavorText>
+  </item>
+  <item>
+    <id>VIS0089</id>
+    <name>Natural Order</name>
+    <text>As an additional cost to cast Natural Order, sacrifice a green creature.
+Search your library for a green creature card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>. . . but the price of Mangara's freedom was Asmira's life.</flavorText>
+  </item>
+  <item>
+    <id>VIS0090</id>
+    <name>Necromancy</name>
+    <text>You may cast Necromancy as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.
+When Necromancy enters the battlefield, if it's on the battlefield, it becomes an Aura with "enchant creature put onto the battlefield with Necromancy." Put target creature card from a graveyard onto the battlefield under your control and attach Necromancy to it. When Necromancy leaves the battlefield, that creature's controller sacrifices it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0091</id>
+    <name>Necrosavant</name>
+    <text>{3}{B}{B}, Sacrifice a creature: Return Necrosavant from your graveyard to the battlefield. Activate this ability only during your upkeep.</text>
+    <flavorText>"Ah, I remember my first death."
+—Zarkuu, necrosavant</flavorText>
+  </item>
+  <item>
+    <id>VIS0092</id>
+    <name>Nekrataal</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)
+When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.</text>
+    <flavorText>"I have seen the horrors Kaervek has freed. My betrayal is certain—but of Kaervek or of Jamuraa, I cannot say."
+—Jolrael</flavorText>
+  </item>
+  <item>
+    <id>VIS0093</id>
+    <name>Ogre Enforcer</name>
+    <text>Ogre Enforcer can't be destroyed by lethal damage unless lethal damage dealt by a single source is marked on it.</text>
+    <flavorText>"Ate up all of his siblings in the first week. A good beginning for one destined to command."
+—Suka, ogre matron</flavorText>
+  </item>
+  <item>
+    <id>VIS0094</id>
+    <name>Ovinomancer</name>
+    <text>When Ovinomancer enters the battlefield, sacrifice it unless you return three basic lands you control to their owner's hand.
+{T}, Return Ovinomancer to its owner's hand: Destroy target creature. It can't be regenerated. That creature's controller puts a 0/1 green Sheep creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0095</id>
+    <name>Panther Warriors</name>
+    <text>
+    </text>
+    <flavorText>"When you run you're graceful and swift, sleek as a powerful panther."
+—"Love Song of Night and Day"</flavorText>
+  </item>
+  <item>
+    <id>VIS0096</id>
+    <name>Parapet</name>
+    <text>You may cast Parapet as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.
+Creatures you control get +0/+1.</text>
+    <flavorText>There is no wall that can't be improved by making it taller.</flavorText>
+  </item>
+  <item>
+    <id>VIS0097</id>
+    <name>Peace Talks</name>
+    <text>This turn and next turn, creatures can't attack, and players and permanents can't be the targets of spells or activated abilities.</text>
+    <flavorText>"By the tongues of a thousand serpents, this time I do not lie."
+—Ahmahz il Kin, Suq'Ata diplomat</flavorText>
+  </item>
+  <item>
+    <id>VIS0098</id>
+    <name>Phyrexian Marauder</name>
+    <text>Phyrexian Marauder enters the battlefield with X +1/+1 counters on it.
+Phyrexian Marauder can't block.
+Phyrexian Marauder can't attack unless you pay {1} for each +1/+1 counter on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0099</id>
+    <name>Phyrexian Walker</name>
+    <text>
+    </text>
+    <flavorText>"I have heard terrible tales of black rains, ashen fields, and metal that screams. I have consoled myself that the tales were a myth of some fevered mind. But today I saw a walker—and now I fear the truth."
+—Kasib Ibn Naji, Letters</flavorText>
+  </item>
+  <item>
+    <id>VIS0100</id>
+    <name>Pillar Tombs of Aku</name>
+    <text>At the beginning of each player's upkeep, that player may sacrifice a creature. If that player doesn't, he or she loses 5 life and you sacrifice Pillar Tombs of Aku.</text>
+    <flavorText>"Aku, City of Hidden Graves / Aku, City of Lost Kings / Aku, welcome me."
+—Pillar tomb inscription</flavorText>
+  </item>
+  <item>
+    <id>VIS0101</id>
+    <name>Prosperity</name>
+    <text>Each player draws X cards.</text>
+    <flavorText>"Wealth is a good thing, compared to poverty—your food is better, your robes are softer, and your companions have bathed more recently."
+—Kipkemboi, Kukemssa pirate</flavorText>
+  </item>
+  <item>
+    <id>VIS0102</id>
+    <name>Pygmy Hippo</name>
+    <text>Whenever Pygmy Hippo attacks and isn't blocked, you may have defending player activate a mana ability of each land he or she controls and empty his or her mana pool. If you do, Pygmy Hippo assigns no combat damage this turn and at the beginning of your postcombat main phase, you add {X} to your mana pool, where X is the amount of mana emptied from defending player's mana pool this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0103</id>
+    <name>Python</name>
+    <text>
+    </text>
+    <flavorText>"How can you claim the gods are merciless when they robbed the snake of its limbs to give the other creatures a sporting chance?"
+—Hakim, Loreweaver</flavorText>
+  </item>
+  <item>
+    <id>VIS0104</id>
+    <name>Quicksand</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0105</id>
+    <name>Quirion Druid</name>
+    <text>{G}, {T}: Target land becomes a 2/2 green creature that's still a land. (This effect lasts indefinitely.)</text>
+    <flavorText>"The land has been gracious enough to let you tread upon her for years. That privilege is about to end."
+—Liefellen, Quirion exarch</flavorText>
+  </item>
+  <item>
+    <id>VIS0106</id>
+    <name>Quirion Ranger</name>
+    <text>Return a Forest you control to its owner's hand: Untap target creature. Activate this ability only once each turn.</text>
+    <flavorText>"Respect the earth, for it will one day be your shield and another day your blanket."
+—Liefellen, Quirion exarch</flavorText>
+  </item>
+  <item>
+    <id>VIS0107</id>
+    <name>Raging Gorilla</name>
+    <text>Whenever Raging Gorilla blocks or becomes blocked, it gets +2/-2 until end of turn.</text>
+    <flavorText>"Every temper tantrum makes another angry gorilla."
+—Femeref children's myth</flavorText>
+  </item>
+  <item>
+    <id>VIS0108</id>
+    <name>Rainbow Efreet</name>
+    <text>Flying
+{U}{U}: Rainbow Efreet phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)</text>
+    <flavorText>"A beauty made more so by its fleeting visitations."
+—Teferi</flavorText>
+  </item>
+  <item>
+    <id>VIS0109</id>
+    <name>Relentless Assault</name>
+    <text>Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+    <flavorText>"Flog and Squee / Up the tree / See the army / Flee, flee, flee."
+—Goblin nursery rhyme/war cry</flavorText>
+  </item>
+  <item>
+    <id>VIS0110</id>
+    <name>Relic Ward</name>
+    <text>You may cast Relic Ward as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.
+Enchant artifact
+Enchanted artifact has shroud. (It can't be the target of spells or abilities.)</text>
+    <flavorText>Asmira's prayers alone should have freed Mangara from the amber prison . . .</flavorText>
+  </item>
+  <item>
+    <id>VIS0111</id>
+    <name>Remedy</name>
+    <text>Prevent the next 5 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.</text>
+    <flavorText>"These things will protect you while I'm gone, remind you of my love for you."
+—"Love Song of Night and Day"</flavorText>
+  </item>
+  <item>
+    <id>VIS0112</id>
+    <name>Resistance Fighter</name>
+    <text>Sacrifice Resistance Fighter: Prevent all combat damage target creature would deal this turn.</text>
+    <flavorText>"My soldiers fought without hesitation, died without doubt."
+—Sidar Jabari</flavorText>
+  </item>
+  <item>
+    <id>VIS0113</id>
+    <name>Retribution of the Meek</name>
+    <text>Destroy all creatures with power 4 or greater. They can't be regenerated.</text>
+    <flavorText>"Tread upon the meek, and they shall wound your feet and make you crawl."
+—Asmira, Holy Avenger</flavorText>
+  </item>
+  <item>
+    <id>VIS0114</id>
+    <name>Righteous Aura</name>
+    <text>{W}, Pay 2 life: The next time a source of your choice would deal damage to you this turn, prevent that damage.</text>
+    <flavorText>"Good is not a ‘thing.' You can neither touch nor own it. No, Good is a vision we all share and strive to make real."
+—Asmira, Holy Avenger</flavorText>
+  </item>
+  <item>
+    <id>VIS0115</id>
+    <name>Righteous War</name>
+    <text>White creatures you control have protection from black.
+Black creatures you control have protection from white.</text>
+    <flavorText>"This is a war without neutrality."
+—Asmira, Holy Avenger</flavorText>
+  </item>
+  <item>
+    <id>VIS0116</id>
+    <name>River Boa</name>
+    <text>Islandwalk
+{G}: Regenerate River Boa.</text>
+    <flavorText>"But no one heard the snake's gentle hiss for peace over the elephant's trumpeting of war."
+—Afari, Tales</flavorText>
+  </item>
+  <item>
+    <id>VIS0117</id>
+    <name>Rock Slide</name>
+    <text>Rock Slide deals X damage divided as you choose among any number of target attacking or blocking creatures without flying.</text>
+    <flavorText>"Good ol' rock. Nothing beats rock."
+—Rhirhok, goblin archer</flavorText>
+  </item>
+  <item>
+    <id>VIS0118</id>
+    <name>Rowen</name>
+    <text>Reveal the first card you draw each turn. Whenever you reveal a basic land card this way, draw a card.</text>
+    <flavorText>"I've dreamt of a second harvest but fear I will not see it."
+—Asmira, Holy Avenger</flavorText>
+  </item>
+  <item>
+    <id>VIS0119</id>
+    <name>Sands of Time</name>
+    <text>Each player skips his or her untap step.
+At the beginning of each player's upkeep, that player simultaneously untaps each tapped artifact, creature, and land he or she controls and taps each untapped artifact, creature, and land he or she controls.</text>
+    <flavorText>"But once, with a magician's help, Time was stopped and Day stood still."
+—"Love Song of Night and Day"</flavorText>
+  </item>
+  <item>
+    <id>VIS0120</id>
+    <name>Scalebane's Elite</name>
+    <text>Protection from black</text>
+    <flavorText>"With Rashida's blades, my guiding vision and the luck of the blessed, today we will free Mangara"
+—Asmira, Holy Avenger</flavorText>
+  </item>
+  <item>
+    <id>VIS0121</id>
+    <name>Shimmering Efreet</name>
+    <text>Flying
+Phasing (This phases in or out before you untap during each of your untap steps. While it's phased out, it's treated as though it doesn't exist.)
+Whenever Shimmering Efreet phases in, target creature phases out. (It phases in before its controller untaps during his or her next untap step.)</text>
+    <flavorText>Life or death: which is the illusion?"
+—Naimah, Femeref philosopher</flavorText>
+  </item>
+  <item>
+    <id>VIS0122</id>
+    <name>Shrieking Drake</name>
+    <text>Flying
+When Shrieking Drake enters the battlefield, return a creature you control to its owner's hand.</text>
+    <flavorText>"Kaervek believes the drakes' cries herald his victory; in truth, they mourn aloud for his impending demise."
+—Teferi</flavorText>
+  </item>
+  <item>
+    <id>VIS0123</id>
+    <name>Simoon</name>
+    <text>Simoon deals 1 damage to each creature target opponent controls.</text>
+    <flavorText>"The black-and-white sacred monkey holds her children to her, and waits."
+—"Love Song of Night and Day"</flavorText>
+  </item>
+  <item>
+    <id>VIS0124</id>
+    <name>Sisay's Ring</name>
+    <text>{T}: Add {2} to your mana pool.</text>
+    <flavorText>"With this ring, you have friends in worlds you've never heard of."
+—Sisay, Captain of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>VIS0125</id>
+    <name>Snake Basket</name>
+    <text>{X}, Sacrifice Snake Basket: Put X 1/1 green Snake creature tokens onto the battlefield. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>"Uh, does anyone have a flute?"
+—Rana, Suq'Ata market fool</flavorText>
+  </item>
+  <item>
+    <id>VIS0126</id>
+    <name>Solfatara</name>
+    <text>Target player can't play land cards this turn.
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>"A burst of hot air tossed the moon into the air, and the moon liked it up there so much it never needed the ground again."
+—Azeworai, "Glitter Moon"</flavorText>
+  </item>
+  <item>
+    <id>VIS0127</id>
+    <name>Song of Blood</name>
+    <text>Put the top four cards of your library into your graveyard.
+Whenever a creature attacks this turn, it gets +1/+0 until end of turn for each creature card put into your graveyard this way.</text>
+    <flavorText>Purraj sang slaughter and danced death.</flavorText>
+  </item>
+  <item>
+    <id>VIS0128</id>
+    <name>Spider Climb</name>
+    <text>You may cast Spider Climb as though it had flash. If you cast it any time a sorcery couldn't have been cast, the controller of the permanent it becomes sacrifices it at the beginning of the next cleanup step.
+Enchant creature
+Enchanted creature gets +0/+3 and has reach. (It can block creatures with flying.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0129</id>
+    <name>Spitting Drake</name>
+    <text>Flying
+{R}: Spitting Drake gets +1/+0 until end of turn. Activate this ability only once each turn.</text>
+    <flavorText>It prefers its meals cooked.</flavorText>
+  </item>
+  <item>
+    <id>VIS0130</id>
+    <name>Squandered Resources</name>
+    <text>Sacrifice a land: Add to your mana pool one mana of any type the sacrificed land could produce.</text>
+    <flavorText>"He traded sand for skins, skins for gold, gold for life. In the end, he traded life for sand."
+—Afari, Tales</flavorText>
+  </item>
+  <item>
+    <id>VIS0131</id>
+    <name>Stampeding Wildebeests</name>
+    <text>Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+At the beginning of your upkeep, return a green creature you control to its owner's hand.</text>
+    <flavorText>Prayers for rain are answered with the thunder of hooves.</flavorText>
+  </item>
+  <item>
+    <id>VIS0132</id>
+    <name>Suleiman's Legacy</name>
+    <text>When Suleiman's Legacy enters the battlefield, destroy all Djinns and Efreets. They can't be regenerated.
+Whenever a Djinn or Efreet enters the battlefield, destroy it. It can't be regenerated.</text>
+    <flavorText>With Suleiman's ascension to power, the djinn and efreets of ancient Rabiah learned humility.</flavorText>
+  </item>
+  <item>
+    <id>VIS0133</id>
+    <name>Summer Bloom</name>
+    <text>You may play up to three additional lands this turn.</text>
+    <flavorText>"Our love is like the river in the summer season of long rains. / For a little while it spilled its banks, flooding the crops in the fields."
+—"Love Song of Night and Day"</flavorText>
+  </item>
+  <item>
+    <id>VIS0134</id>
+    <name>Sun Clasp</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+3.
+{W}: Return enchanted creature to its owner's hand.</text>
+    <flavorText>"And darkness shall be cast from me
+For my soul resides in the Sun."
+—Femeref dirge</flavorText>
+  </item>
+  <item>
+    <id>VIS0135</id>
+    <name>Suq'Ata Assassin</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Suq'Ata Assassin attacks and isn't blocked, defending player gets a poison counter. (A player with ten or more poison counters loses the game.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0136</id>
+    <name>Suq'Ata Lancer</name>
+    <text>Haste
+Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)</text>
+    <flavorText>"Never stop 'til you see your lance come out the other side."
+—Telim'Tor</flavorText>
+  </item>
+  <item>
+    <id>VIS0137</id>
+    <name>Talruum Champion</name>
+    <text>First strike
+Whenever Talruum Champion blocks or becomes blocked by a creature, that creature loses first strike until end of turn.</text>
+    <flavorText>In the Talruum language, there is no word for "surprised."</flavorText>
+  </item>
+  <item>
+    <id>VIS0138</id>
+    <name>Talruum Piper</name>
+    <text>All creatures with flying able to block Talruum Piper do so.</text>
+    <flavorText>When the Talruum began to play, the dragons fell from the sky to squash the obnoxious noise.</flavorText>
+  </item>
+  <item>
+    <id>VIS0139</id>
+    <name>Tar Pit Warrior</name>
+    <text>When Tar Pit Warrior becomes the target of a spell or ability, sacrifice it.</text>
+    <flavorText>"The cyclops shrugged off savage blows, but casual insults made him weep."
+—Azeworai, "The Cyclops who Couldn't"</flavorText>
+  </item>
+  <item>
+    <id>VIS0140</id>
+    <name>Teferi's Honor Guard</name>
+    <text>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+{U}{U}: Teferi's Honor Guard phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before you untap during your next untap step.)</text>
+    <flavorText>"They may seem ceremonial, but their swords are still sharp."
+—Kipkemboi, Kukemssa pirate</flavorText>
+  </item>
+  <item>
+    <id>VIS0141</id>
+    <name>Teferi's Puzzle Box</name>
+    <text>At the beginning of each player's draw step, that player puts the cards in his or her hand on the bottom of his or her library in any order, then draws that many cards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0142</id>
+    <name>Teferi's Realm</name>
+    <text>At the beginning of each player's upkeep, that player chooses artifact, creature, land, or non-Aura enchantment. All nontoken permanents of that type phase out. (While they're phased out, they're treated as though they don't exist. Each one phases in before its controller untaps during his or her next untap step.)</text>
+    <flavorText>"Fire is dead. Water has killed him."
+—From The Stories of Nature</flavorText>
+  </item>
+  <item>
+    <id>VIS0143</id>
+    <name>Tempest Drake</name>
+    <text>Flying, vigilance</text>
+    <flavorText>"Its speed will be equaled only by the swiftness of my enemy's fall."
+—Kaervek</flavorText>
+  </item>
+  <item>
+    <id>VIS0144</id>
+    <name>Three Wishes</name>
+    <text>Exile the top three cards of your library face down. You may look at those cards for as long as they remain exiled. Until your next turn, you may play those cards. At the beginning of your next upkeep, put any of those cards you didn't play into your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0145</id>
+    <name>Time and Tide</name>
+    <text>Simultaneously, all phased-out creatures phase in and all creatures with phasing phase out.</text>
+    <flavorText>"Time may heal all wounds, but what heals time?"
+—Teferi</flavorText>
+  </item>
+  <item>
+    <id>VIS0146</id>
+    <name>Tin-Wing Chimera</name>
+    <text>Flying
+Sacrifice Tin-Wing Chimera: Put a +2/+2 counter on target Chimera creature. It gains flying. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0147</id>
+    <name>Tithe</name>
+    <text>Search your library for a Plains card. If you control fewer lands than an opponent, you may search your library for an additional Plains card. Reveal those cards and put them into your hand. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0148</id>
+    <name>Tremor</name>
+    <text>Tremor deals 1 damage to each creature without flying.</text>
+    <flavorText>"Where do you run when the earth becomes your enemy?"
+—Naimah, Femeref philosopher</flavorText>
+  </item>
+  <item>
+    <id>VIS0149</id>
+    <name>Triangle of War</name>
+    <text>{2}, Sacrifice Triangle of War: Choose target creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its power to the other.</text>
+    <flavorText>The Zhalfirin war triangle represents a trinity of might, faith, and guile.</flavorText>
+  </item>
+  <item>
+    <id>VIS0150</id>
+    <name>Uktabi Orangutan</name>
+    <text>When Uktabi Orangutan enters the battlefield, destroy target artifact.</text>
+    <flavorText>"Is it true that the apes wear furs of gold when they marry?"
+—Rana, Suq'Ata market fool</flavorText>
+  </item>
+  <item>
+    <id>VIS0151</id>
+    <name>Undiscovered Paradise</name>
+    <text>{T}: Add one mana of any color to your mana pool. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner's hand.</text>
+    <flavorText>Jolrael's choice of homes was far better than her choice of allies.</flavorText>
+  </item>
+  <item>
+    <id>VIS0152</id>
+    <name>Undo</name>
+    <text>Return two target creatures to their owners' hands.</text>
+    <flavorText>"Oft have I wished to undo past deeds, but never did I imagine they would be undone for me."
+—Naimah, Femeref philosopher</flavorText>
+  </item>
+  <item>
+    <id>VIS0153</id>
+    <name>Urborg Mindsucker</name>
+    <text>{B}, Sacrifice Urborg Mindsucker: Target opponent discards a card at random. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>"My pet will pick the ripe fruit from your tortured brain as if it were hanging from a vine."
+—Kaervek</flavorText>
+  </item>
+  <item>
+    <id>VIS0154</id>
+    <name>Vampiric Tutor</name>
+    <text>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.</text>
+    <flavorText>"I write upon clean white parchment with a sharp quill and the blood of my students, divining their secrets."
+—Shauku, Endbringer</flavorText>
+  </item>
+  <item>
+    <id>VIS0155</id>
+    <name>Vampirism</name>
+    <text>Enchant creature
+When Vampirism enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+Enchanted creature gets +1/+1 for each other creature you control.
+Other creatures you control get -1/-1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0156</id>
+    <name>Vanishing</name>
+    <text>Enchant creature
+{U}{U}: Enchanted creature phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)</text>
+    <flavorText>"Careless, like a child with fire, so was I with time."
+—Teferi</flavorText>
+  </item>
+  <item>
+    <id>VIS0157</id>
+    <name>Viashino Sandstalker</name>
+    <text>Haste (This creature can attack the turn it comes under your control.)
+At the beginning of the end step, return Viashino Sandstalker to its owner's hand. (Return it only if it's on the battlefield.)</text>
+    <flavorText>"Some believe Sandstalkers to be illusions; those with scars know better."
+—Zhalfirin Guide to the Desert</flavorText>
+  </item>
+  <item>
+    <id>VIS0158</id>
+    <name>Viashivan Dragon</name>
+    <text>Flying
+{R}: Viashivan Dragon gets +1/+0 until end of turn.
+{G}: Viashivan Dragon gets +0/+1 until end of turn.</text>
+    <flavorText>The Viashivan understand that cruelty arises from opportunity.</flavorText>
+  </item>
+  <item>
+    <id>VIS0159</id>
+    <name>Vision Charm</name>
+    <text>Choose one — Target player puts the top four cards of his or her library into his or her graveyard; or choose a land type and a basic land type, and each land of the first chosen type becomes the second chosen type until end of turn; or target artifact phases out. (While it's phased out, it's treated as though it doesn't exist. It phases in before its controller untaps during his or her next untap step.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>VIS0160</id>
+    <name>Wake of Vultures</name>
+    <text>Flying
+{1}{B}, Sacrifice a creature: Regenerate Wake of Vultures.</text>
+    <flavorText>"So the vulture said to the griffin, ‘You gonna eat that?'"
+—Azeworai, "The Ugly Bird"</flavorText>
+  </item>
+  <item>
+    <id>VIS0161</id>
+    <name>Wand of Denial</name>
+    <text>{T}: Look at the top card of target player's library. If it's a nonland card, you may pay 2 life. If you do, put it into that player's graveyard.</text>
+    <flavorText>You'll never miss what you never had.</flavorText>
+  </item>
+  <item>
+    <id>VIS0162</id>
+    <name>Warrior's Honor</name>
+    <text>Creatures you control get +1/+1 until end of turn.</text>
+    <flavorText>"We are to be bound together as the reeds of a basket."
+—Asmira, Rashida, and Jabari, unity chant</flavorText>
+  </item>
+  <item>
+    <id>VIS0163</id>
+    <name>Warthog</name>
+    <text>Swampwalk</text>
+    <flavorText>"Too much work—it takes a long time to break them in, and more than a few recruits."
+—Grebog, goblin swine-rider</flavorText>
+  </item>
+  <item>
+    <id>VIS0164</id>
+    <name>Waterspout Djinn</name>
+    <text>Flying
+At the beginning of your upkeep, sacrifice Waterspout Djinn unless you return an untapped Island you control to its owner's hand.</text>
+    <flavorText>"Fly us higher, out of its storm."
+—Sisay, Captain of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>VIS0165</id>
+    <name>Wicked Reward</name>
+    <text>As an additional cost to cast Wicked Reward, sacrifice a creature.
+Target creature gets +4/+2 until end of turn.</text>
+    <flavorText>"The blood on my hands is merely proof of my ambition."
+—Kaervek</flavorText>
+  </item>
+  <item>
+    <id>VIS0166</id>
+    <name>Wind Shear</name>
+    <text>Attacking creatures with flying get -2/-2 and lose flying until end of turn.</text>
+    <flavorText>"As the winds abated, there was a shower of dragonscales, then nothing more."
+—Azeworai, "The Unruly Wind"</flavorText>
+  </item>
+  <item>
+    <id>VIS0167</id>
+    <name>Zhalfirin Crusader</name>
+    <text>Flanking (Whenever a creature without flanking blocks this creature, the blocking creature gets -1/-1 until end of turn.)
+{1}{W}: The next 1 damage that would be dealt to Zhalfirin Crusader this turn is dealt to target creature or player instead.</text>
+    <flavorText>"War is the crucible of leadership."
+—Rashida Scalebane</flavorText>
+  </item>
+</cards>

@@ -1,0 +1,1867 @@
+<cards name="Masters Edition II">
+  <item>
+    <id>ME20001</id>
+    <name>Abbey Gargoyles</name>
+    <text>Flying, protection from red</text>
+    <flavorText>"Though Serra has not been seen for twenty years, her gargoyles still watch over our city and punish the guilty."
+—Gulsen, abbey matron</flavorText>
+  </item>
+  <item>
+    <id>ME20002</id>
+    <name>Angel of Fury</name>
+    <text>Flying
+When Angel of Fury is put into your graveyard from the battlefield, you may shuffle it into your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20003</id>
+    <name>Angel of Light</name>
+    <text>Flying, vigilance</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20004</id>
+    <name>Armor of Faith</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+1.
+{W}: Enchanted creature gets +0/+1 until end of turn.</text>
+    <flavorText>"Keep your chainmail, warrior. I have my own form of protection."
+—Halvor Arenson, Kjeldoran priest</flavorText>
+  </item>
+  <item>
+    <id>ME20005</id>
+    <name>Armored Griffin</name>
+    <text>Flying, vigilance</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20006</id>
+    <name>Aysen Bureaucrats</name>
+    <text>{T}: Tap target creature with power 2 or less.</text>
+    <flavorText>"I would say that our bureaucrats are no better than vipers—but I shouldn't insult the vipers."
+—Murat, death speaker</flavorText>
+  </item>
+  <item>
+    <id>ME20007</id>
+    <name>Aysen Crusader</name>
+    <text>Aysen Crusader's power and toughness are each equal to 2 plus the number of Soldiers and Warriors you control.</text>
+    <flavorText>"A renegade rallying the rabble does not a true crusader make."
+—Irini Sengir</flavorText>
+  </item>
+  <item>
+    <id>ME20008</id>
+    <name>Caribou Range</name>
+    <text>Enchant land you control
+Enchanted land has "{W}{W}, {T}: Put a 0/1 white Caribou creature token onto the battlefield."
+Sacrifice a Caribou token: You gain 1 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20009</id>
+    <name>Combat Medic</name>
+    <text>{1}{W}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>"Without combat medics, Icatia would probably not have withstood the forces of chaos as long as it did."
+—Sarpadian Empires, vol. VI</flavorText>
+  </item>
+  <item>
+    <id>ME20010</id>
+    <name>Disenchant</name>
+    <text>Destroy target artifact or enchantment.</text>
+    <flavorText>"I implore you not to forget the horrors of the past. You would have us start the Brothers' War anew!"
+—Sorine Relicbane, Soldevi heretic</flavorText>
+  </item>
+  <item>
+    <id>ME20011</id>
+    <name>Energy Storm</name>
+    <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Prevent all damage that would be dealt by instant and sorcery spells.
+Creatures with flying don't untap during their controller's untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20012</id>
+    <name>Errand of Duty</name>
+    <text>Put a 1/1 white Knight creature token with banding onto the battlefield. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>"May they speed to their task, for the skyknights alone cannot hold Kjeldor safe."
+—Arna Kennerüd, skycaptain</flavorText>
+  </item>
+  <item>
+    <id>ME20013</id>
+    <name>Farrel's Mantle</name>
+    <text>Enchant creature
+Whenever enchanted creature attacks and isn't blocked, its controller may have it deal damage equal to its power plus 2 to target creature. If that player does, the attacking creature assigns no combat damage this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20014</id>
+    <name>Farrel's Zealot</name>
+    <text>Whenever Farrel's Zealot attacks and isn't blocked, you may have it deal 3 damage to target creature. If you do, Farrel's Zealot assigns no combat damage this turn.</text>
+    <flavorText>Farrel and his followers became a formidable band of vigilantes, battling Icatians and followers of Tourach.</flavorText>
+  </item>
+  <item>
+    <id>ME20015</id>
+    <name>Icatian Javelineers</name>
+    <text>Icatian Javelineers enters the battlefield with a javelin counter on it.
+{T}, Remove a javelin counter from Icatian Javelineers: Icatian Javelineers deals 1 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20016</id>
+    <name>Icatian Phalanx</name>
+    <text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>Even after the wall was breached in half a dozen places, the phalanxes fought on, standing solidly against the onrushing raiders. Disciplined and dedicated, they held their ranks to the end, even in the face of tremendous losses.</flavorText>
+  </item>
+  <item>
+    <id>ME20017</id>
+    <name>Icatian Scout</name>
+    <text>{1}, {T}: Target creature gains first strike until end of turn.</text>
+    <flavorText>"Because the orc hordes attacked along the entire border, Scouts were essential to Icatia's defense."
+—Sarpadian Empires, vol. VI</flavorText>
+  </item>
+  <item>
+    <id>ME20018</id>
+    <name>Inheritance</name>
+    <text>Whenever a creature is put into a graveyard from the battlefield, you may pay {3}. If you do, draw a card.</text>
+    <flavorText>"More than lessons may be gained from the past."
+—Halvor Arensson, Kjeldoran priest</flavorText>
+  </item>
+  <item>
+    <id>ME20019</id>
+    <name>Ivory Gargoyle</name>
+    <text>Flying
+When Ivory Gargoyle is put into a graveyard from the battlefield, return it to the battlefield under its owner's control at the beginning of the next end step and you skip your next draw step.
+{4}{W}: Exile Ivory Gargoyle.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20020</id>
+    <name>Juniper Order Advocate</name>
+    <text>Green creatures you control get +1/+1 as long as Juniper Order Advocate is untapped.</text>
+    <flavorText>"In these troubled times, we alone carry the hope of reconciliation between Elf and Human."
+—Jaeuhl Carthalion, Juniper Order advocate</flavorText>
+  </item>
+  <item>
+    <id>ME20021</id>
+    <name>Kjeldoran Elite Guard</name>
+    <text>{T}: Target creature gets +2/+2 until end of turn. When that creature leaves the battlefield this turn, sacrifice Kjeldoran Elite Guard. Activate this ability only during combat.</text>
+    <flavorText>The winged helms of the guard are put on for pageants—but taken off for war.</flavorText>
+  </item>
+  <item>
+    <id>ME20022</id>
+    <name>Kjeldoran Home Guard</name>
+    <text>At end of combat, if Kjeldoran Home Guard attacked or blocked this combat, put a -0/-1 counter on Kjeldoran Home Guard and put a 0/1 white Deserter creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20023</id>
+    <name>Kjeldoran Skycaptain</name>
+    <text>Flying; first strike; banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>"If we do our duty and uphold our honor, Kjeldor shall stand for a thousand years."
+—Arna Kennerüd, skyknight</flavorText>
+  </item>
+  <item>
+    <id>ME20024</id>
+    <name>Lost Order of Jarkeld</name>
+    <text>As Lost Order of Jarkeld enters the battlefield, choose an opponent.
+Lost Order of Jarkeld's power and toughness are each equal to 1 plus the number of creatures the chosen player controls.</text>
+    <flavorText>"Let us remember brave Jarkeld and his troops, who perished in the Adarkar Wastes so long ago."
+—Halvor Arenson, Kjeldoran priest</flavorText>
+  </item>
+  <item>
+    <id>ME20025</id>
+    <name>Order of the Sacred Torch</name>
+    <text>{T}, Pay 1 life: Counter target black spell.</text>
+    <flavorText>A blazing light to drive out the shadows.</flavorText>
+  </item>
+  <item>
+    <id>ME20026</id>
+    <name>Order of the White Shield</name>
+    <text>Protection from black
+{W}: Order of the White Shield gains first strike until end of turn.
+{W}{W}: Order of the White Shield gets +1/+0 until end of turn.</text>
+    <flavorText>"Shall we turn away a worthy soul because his parents were peasants? I think not."
+—Lucilde Fiksdotter, leader of the Order of the White Shield</flavorText>
+  </item>
+  <item>
+    <id>ME20027</id>
+    <name>Ravages of War</name>
+    <text>Destroy all lands.</text>
+    <flavorText>"Thorn bushes spring up wherever the army has passed. Lean years follow in the wake of a great war."
+—Lao Tzu, Tao Te Ching, trans. Feng and English</flavorText>
+  </item>
+  <item>
+    <id>ME20028</id>
+    <name>Reinforcements</name>
+    <text>Put up to three target creature cards from your graveyard on top of your library.</text>
+    <flavorText>"Let them send their legions! I will show them that my truth is stronger than their swords."
+—General Varchild</flavorText>
+  </item>
+  <item>
+    <id>ME20029</id>
+    <name>Reprisal</name>
+    <text>Destroy target creature with power 4 or greater. It can't be regenerated.</text>
+    <flavorText>"The meek shall fight as one, and they shall overcome even the greatest of foes."
+—Halvor Arensson, Kjeldoran priest</flavorText>
+  </item>
+  <item>
+    <id>ME20030</id>
+    <name>Righteous Fury</name>
+    <text>Destroy all tapped creatures. You gain 2 life for each creature destroyed this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20031</id>
+    <name>Royal Decree</name>
+    <text>Cumulative upkeep {W} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Whenever a Swamp, Mountain, black permanent, or red permanent becomes tapped, Royal Decree deals 1 damage to that permanent's controller.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20032</id>
+    <name>Royal Trooper</name>
+    <text>Whenever Royal Trooper blocks, it gets +2/+2 until end of turn.</text>
+    <flavorText>"Fortune does not side with the fainthearted."
+—Sophocles, Phaedra</flavorText>
+  </item>
+  <item>
+    <id>ME20033</id>
+    <name>Sacred Boon</name>
+    <text>Prevent the next 3 damage that would be dealt to target creature this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.</text>
+    <flavorText>"Divine gifts are granted to those who are worthy."
+—Halvor Arenson, Kjeldoran priest</flavorText>
+  </item>
+  <item>
+    <id>ME20034</id>
+    <name>Scars of the Veteran</name>
+    <text>You may exile a white card from your hand rather than pay Scars of the Veteran's mana cost.
+Prevent the next 7 damage that would be dealt to target creature or player this turn. At the beginning of the next end step, put a +0/+1 counter on that creature for each 1 damage prevented this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20035</id>
+    <name>Shield Bearer</name>
+    <text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>"You have almost completed your four years, my son. Soon you shall be a skyknight."
+—Arna Kennerüd, skyknight</flavorText>
+  </item>
+  <item>
+    <id>ME20036</id>
+    <name>Sustaining Spirit</name>
+    <text>Cumulative upkeep {1}{W} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+Damage that would reduce your life total to less than 1 reduces it to 1 instead.</text>
+    <flavorText>"Faith is our greatest protector."
+—Halvor Arensson, Kjeldoran priest</flavorText>
+  </item>
+  <item>
+    <id>ME20037</id>
+    <name>Swords to Plowshares</name>
+    <text>Exile target creature. Its controller gains life equal to its power.</text>
+    <flavorText>"The so-called barbarians will not respect us for our military might—they will respect us for our honor."
+—Lucilde Fiksdotter, leader of the Order of the White Shield</flavorText>
+  </item>
+  <item>
+    <id>ME20038</id>
+    <name>Warning</name>
+    <text>Prevent all combat damage that would be dealt by target attacking creature this turn.</text>
+    <flavorText>"The folk of the Karplusan mountains are impossible to ambush."
+—Lovisa Coldeyes, Balduvian chieftain</flavorText>
+  </item>
+  <item>
+    <id>ME20039</id>
+    <name>Æther Storm</name>
+    <text>Creature spells can't be cast.
+Pay 4 life: Destroy Æther Storm. It can't be regenerated. Any player may activate this ability.</text>
+    <flavorText>"I do love the rain . . . but this storm feels somehow wrong, Taysir."
+—Daria</flavorText>
+  </item>
+  <item>
+    <id>ME20040</id>
+    <name>Balduvian Conjurer</name>
+    <text>{T}: Target snow land becomes a 2/2 creature until end of turn. It's still a land.</text>
+    <flavorText>"The very lands of Balduvia are alive."
+—Arna Kennerüd, skyknight</flavorText>
+  </item>
+  <item>
+    <id>ME20041</id>
+    <name>Binding Grasp</name>
+    <text>Enchant creature
+At the beginning of your upkeep, sacrifice Binding Grasp unless you pay {1}{U}.
+You control enchanted creature.
+Enchanted creature gets +0/+1.</text>
+    <flavorText>"What I want, I take."
+—Gustha Ebbasdotter, Kjeldoran royal mage</flavorText>
+  </item>
+  <item>
+    <id>ME20042</id>
+    <name>Brainstorm</name>
+    <text>Draw three cards, then put two cards from your hand on top of your library in any order.</text>
+    <flavorText>"I reeled from the blow, and then suddenly, I knew exactly what to do. Within moments, victory was mine."
+—Gustha Ebbasdotter, Kjeldoran royal mage</flavorText>
+  </item>
+  <item>
+    <id>ME20043</id>
+    <name>Browse</name>
+    <text>{2}{U}{U}: Look at the top five cards of your library, put one of them into your hand, and exile the rest.</text>
+    <flavorText>"Once great literature—now great litter."
+—Jaya Ballard, task mage</flavorText>
+  </item>
+  <item>
+    <id>ME20044</id>
+    <name>Counterspell</name>
+    <text>Counter target spell.</text>
+    <flavorText>"The duel was going badly for me, and Zur thought I was finished. He boasted that he would eat my soul—but all he ate were his words."
+—Gustha Ebbasdotter, Kjeldoran royal mage</flavorText>
+  </item>
+  <item>
+    <id>ME20045</id>
+    <name>Deep Spawn</name>
+    <text>Trample
+At the beginning of your upkeep, sacrifice Deep Spawn unless you put the top two cards of your library into your graveyard.
+{U}: Deep Spawn gains shroud until end of turn and doesn't untap during your next untap step. Tap Deep Spawn. (A permanent with shroud can't be the target of spells or abilities.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20046</id>
+    <name>Dreams of the Dead</name>
+    <text>{1}{U}: Return target white or black creature card from your graveyard to the battlefield. That creature gains "Cumulative upkeep {2}." If the creature would leave the battlefield, exile it instead of putting it anywhere else. (At the beginning of its controller's upkeep, that player puts an age counter on it, then sacrifices it unless he or she pays its upkeep cost for each age counter on it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20047</id>
+    <name>Enervate</name>
+    <text>Tap target artifact, creature, or land.
+
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>"Worlds turn in crucial moments of decision. Make your choice."
+—Gustha Ebbasdotter, Kjeldoran royal mage</flavorText>
+  </item>
+  <item>
+    <id>ME20048</id>
+    <name>Essence Flare</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+0.
+At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.</text>
+    <flavorText>Never underestimate the power of the soul unleashed.</flavorText>
+  </item>
+  <item>
+    <id>ME20049</id>
+    <name>Iceberg</name>
+    <text>Iceberg enters the battlefield with X ice counters on it.
+{3}: Put an ice counter on Iceberg.
+Remove an ice counter from Iceberg: Add {1} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20050</id>
+    <name>Icy Prison</name>
+    <text>When Icy Prison enters the battlefield, exile target creature.
+At the beginning of your upkeep, sacrifice Icy Prison unless any player pays {3}.
+When Icy Prison leaves the battlefield, return the exiled creature to the battlefield under its owner's control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20051</id>
+    <name>Krovikan Sorcerer</name>
+    <text>{T}, Discard a nonblack card: Draw a card.
+{T}, Discard a black card: Draw two cards, then discard one of them.</text>
+    <flavorText>"These sorcerers always seem to have another surprise up their sleeves."
+—Zur the Enchanter</flavorText>
+  </item>
+  <item>
+    <id>ME20052</id>
+    <name>Lat-Nam's Legacy</name>
+    <text>Shuffle a card from your hand into your library. If you do, draw two cards at the beginning of the next turn's upkeep.</text>
+    <flavorText>"All the knowledge of Lat-Nam could not protect its sages from the Brothers' War."
+—Gerda Äagesdotter, Archmage of the Unseen</flavorText>
+  </item>
+  <item>
+    <id>ME20053</id>
+    <name>Magus of the Unseen</name>
+    <text>{1}{U}, {T}: Untap target artifact an opponent controls and gain control of it until end of turn. It gains haste until end of turn. When you lose control of the artifact, tap it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20054</id>
+    <name>Marjhan</name>
+    <text>Marjhan doesn't untap during your untap step.
+Marjhan can't attack unless defending player controls an Island.
+When you control no Islands, sacrifice Marjhan.
+{U}{U}, Sacrifice a creature: Untap Marjhan. Activate this ability only during your upkeep.
+{U}{U}: Marjhan gets -1/-0 until end of turn and deals 1 damage to target attacking creature without flying.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20055</id>
+    <name>Mesmeric Trance</name>
+    <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+{U}, Discard a card: Draw a card.</text>
+    <flavorText>"Magic overused can freeze the mind. Creativity is more important than power."
+—Zur the Enchanter</flavorText>
+  </item>
+  <item>
+    <id>ME20056</id>
+    <name>Musician</name>
+    <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+{T}: Put a music counter on target creature. If it doesn't have "At the beginning of your upkeep, destroy this creature unless you pay {1} for each music counter on it," it gains that ability.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20057</id>
+    <name>Narwhal</name>
+    <text>First strike, protection from red</text>
+    <flavorText>"Who needs a spear? Ya break off the horn, and ya stab the fish with it. Easy!"
+—Kakra, sea troll</flavorText>
+  </item>
+  <item>
+    <id>ME20058</id>
+    <name>Personal Tutor</name>
+    <text>Search your library for a sorcery card and reveal that card. Shuffle your library, then put the card on top of it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20059</id>
+    <name>Phantasmal Mount</name>
+    <text>Flying
+{T}: Target creature you control with toughness 2 or less gets +1/+1 and gains flying until end of turn. When Phantasmal Mount leaves the battlefield this turn, sacrifice that creature. When the creature leaves the battlefield this turn, sacrifice Phantasmal Mount.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20060</id>
+    <name>Portent</name>
+    <text>Look at the top three cards of target player's library, then put them back in any order. You may have that player shuffle his or her library.
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20061</id>
+    <name>Ray of Command</name>
+    <text>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20062</id>
+    <name>Red Cliffs Armada</name>
+    <text>Red Cliffs Armada can't attack unless defending player controls an Island.</text>
+    <flavorText>By the battle of Red Cliffs in the year 208, the Wu kingdom controlled more than seven thousand warships on the Yangtze.</flavorText>
+  </item>
+  <item>
+    <id>ME20063</id>
+    <name>Screeching Drake</name>
+    <text>Flying
+When Screeching Drake enters the battlefield, draw a card, then discard a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20064</id>
+    <name>Sea Drake</name>
+    <text>Flying
+When Sea Drake enters the battlefield, return two target lands you control to their owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20065</id>
+    <name>Sea Spirit</name>
+    <text>{U}: Sea Spirit gets +1/+0 until end of turn.</text>
+    <flavorText>"It rose above our heads, above the ship, and still higher yet. No foggy, ice-laden sea in the world could frighten me more."
+—General Jarkeld, the Arctic Fox</flavorText>
+  </item>
+  <item>
+    <id>ME20066</id>
+    <name>Shyft</name>
+    <text>At the beginning of your upkeep, you may have Shyft become the color or colors of your choice. (This effect lasts indefinitely.)</text>
+    <flavorText>"Capturing this specimen was not easy. Study it well, that you someday might be as versatile."
+—Gerda Äagesdotter, Archmage of the Unseen</flavorText>
+  </item>
+  <item>
+    <id>ME20067</id>
+    <name>Sibilant Spirit</name>
+    <text>Flying
+Whenever Sibilant Spirit attacks, defending player may draw a card.</text>
+    <flavorText>"Relax. I'm sure it's just a snake hissing."
+—Avram Garrisson, leader of the Knights of Stromgald</flavorText>
+  </item>
+  <item>
+    <id>ME20068</id>
+    <name>Storm Elemental</name>
+    <text>Flying
+{U}, Exile the top card of your library: Tap target creature with flying.
+{U}, Exile the top card of your library: If the exiled card is a snow land, Storm Elemental gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20069</id>
+    <name>Temporal Manipulation</name>
+    <text>Take an extra turn after this one.</text>
+    <flavorText>Doing something at the last minute isn't so bad when you can make that minute last.</flavorText>
+  </item>
+  <item>
+    <id>ME20070</id>
+    <name>Thought Lash</name>
+    <text>Cumulative upkeep—Exile the top card of your library. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When Thought Lash's cumulative upkeep isn't paid, exile all cards from your library.
+Exile the top card of your library: Prevent the next 1 damage that would be dealt to you this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20071</id>
+    <name>Thunder Wall</name>
+    <text>Defender (This creature can't attack.)
+Flying
+{U}: Thunder Wall gets +1/+1 until end of turn.</text>
+    <flavorText>"The lemures had barely taken wing when the sky roared with thunder. The swarm of little beasts wavered, divided, and fell, crashing to the earth."
+—General Jarkeld, the Arctic Fox</flavorText>
+  </item>
+  <item>
+    <id>ME20072</id>
+    <name>Viscerid Armor</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+1.
+{1}{U}: Return Viscerid Armor to its owner's hand.</text>
+    <flavorText>A fallen viscerid's only tribute is to be worn by a comrade.</flavorText>
+  </item>
+  <item>
+    <id>ME20073</id>
+    <name>Viscerid Drone</name>
+    <text>{T}, Sacrifice a creature and a Swamp: Destroy target nonartifact creature. It can't be regenerated.
+{T}, Sacrifice a creature and a snow Swamp: Destroy target creature. It can't be regenerated.</text>
+    <flavorText>Not all of Terisiare's flooding was natural . . . .</flavorText>
+  </item>
+  <item>
+    <id>ME20074</id>
+    <name>Wall of Kelp</name>
+    <text>Defender (This creature can't attack.)
+{U}{U}, {T}: Put a 0/1 blue Plant Wall creature token with defender named Kelp onto the battlefield.</text>
+    <flavorText>"Ya can eat it or ya can weave it, but ya can't fight in it."
+—Zeki, reef pirate</flavorText>
+  </item>
+  <item>
+    <id>ME20075</id>
+    <name>Wind Spirit</name>
+    <text>Flying
+Wind Spirit can't be blocked except by two or more creatures.</text>
+    <flavorText>"To visit the sky requires bravery, and thought, and little else. To master the sky requires the binding of its masters, and little else."
+—Arnjlot Olasson, sky mage</flavorText>
+  </item>
+  <item>
+    <id>ME20076</id>
+    <name>Zuran Spellcaster</name>
+    <text>{T}: Zuran Spellcaster deals 1 damage to target creature or player.</text>
+    <flavorText>"A mage must be precise as well as potent; cautious, as well as clever."
+—Zur the Enchanter</flavorText>
+  </item>
+  <item>
+    <id>ME20077</id>
+    <name>Armor Thrull</name>
+    <text>{T}, Sacrifice Armor Thrull: Put a +1/+2 counter on target creature.</text>
+    <flavorText>"The worst thing about being a mercenary for the Ebon Hand is having to wear a dead thrull."
+—Ivra Jursdotter</flavorText>
+  </item>
+  <item>
+    <id>ME20078</id>
+    <name>Ashen Ghoul</name>
+    <text>Haste
+{B}: Return Ashen Ghoul from your graveyard to the battlefield. Activate this ability only during your upkeep and only if three or more creature cards are above Ashen Ghoul.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20079</id>
+    <name>Balduvian Dead</name>
+    <text>{2}{R}, Exile a creature card from your graveyard: Put a 3/1 black and red Graveborn creature token with haste onto the battlefield. Sacrifice it at the beginning of the next end step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20080</id>
+    <name>Brine Shaman</name>
+    <text>{T}, Sacrifice a creature: Target creature gets +2/+2 until end of turn.
+{1}{U}{U}, Sacrifice a creature: Counter target creature spell.</text>
+    <flavorText>"The shamans of Marit Lage do her bidding in secret, but they do it gladly."
+—Halvor Arenson, Kjeldoran priest</flavorText>
+  </item>
+  <item>
+    <id>ME20081</id>
+    <name>Broken Visage</name>
+    <text>Destroy target nonartifact attacking creature. It can't be regenerated. Put a black Spirit creature token with that creature's power and toughness onto the battlefield. Sacrifice the token at the beginning of the next end step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20082</id>
+    <name>Cloak of Confusion</name>
+    <text>Enchant creature you control
+Whenever enchanted creature attacks and isn't blocked, you may have it assign no combat damage this turn. If you do, defending player discards a card at random.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20083</id>
+    <name>Dance of the Dead</name>
+    <text>Enchant creature card in a graveyard
+When Dance of the Dead enters the battlefield, if it's on the battlefield, it loses "enchant creature card in a graveyard" and gains "enchant creature put onto the battlefield with Dance of the Dead." Return enchanted creature card to the battlefield tapped under your control and attach Dance of the Dead to it. When Dance of the Dead leaves the battlefield, that creature's controller sacrifices it.
+Enchanted creature gets +1/+1 and doesn't untap during its controller's untap step.
+At the beginning of the upkeep of enchanted creature's controller, that player may pay {1}{B}. If he or she does, untap that creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20084</id>
+    <name>Dark Banishing</name>
+    <text>Destroy target nonblack creature. It can't be regenerated.</text>
+    <flavorText>"Will not the mountains quake and hills melt at the coming of the darkness? Share this vision with your enemies, Lim-Dûl, and they shall wither."
+—Leshrac, Walker of Night</flavorText>
+  </item>
+  <item>
+    <id>ME20085</id>
+    <name>Demonic Consultation</name>
+    <text>Name a card. Exile the top six cards of your library, then reveal cards from the top of your library until you reveal the named card. Put that card into your hand and exile all other cards revealed this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20086</id>
+    <name>Drift of the Dead</name>
+    <text>Defender (This creature can't attack.)
+Drift of the Dead's power and toughness are each equal to the number of snow lands you control.</text>
+    <flavorText>"Take their dead, and entomb them in the snow. Risen, they shall serve a new purpose."
+—Lim-Dûl, the Necromancer</flavorText>
+  </item>
+  <item>
+    <id>ME20087</id>
+    <name>Dry Spell</name>
+    <text>Dry Spell deals 1 damage to each creature and each player.</text>
+    <flavorText>"Wherever water is lacking, all things suffer."
+—Autumn Willow</flavorText>
+  </item>
+  <item>
+    <id>ME20088</id>
+    <name>Dystopia</name>
+    <text>Cumulative upkeep—Pay 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+At the beginning of each player's upkeep, that player sacrifices a green or white permanent.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20089</id>
+    <name>Ebon Praetor</name>
+    <text>First strike, trample
+At the beginning of your upkeep, put a -2/-2 counter on Ebon Praetor.
+Sacrifice a creature: Remove a -2/-2 counter from Ebon Praetor. If the sacrificed creature was a Thrull, put a +1/+0 counter on Ebon Praetor. Activate this ability only during your upkeep and only once each turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20090</id>
+    <name>Foul Familiar</name>
+    <text>Foul Familiar can't block.
+{B}, Pay 1 life: Return Foul Familiar to its owner's hand.</text>
+    <flavorText>"Serve me, and live forever."
+—Lim-Dûl, the Necromancer</flavorText>
+  </item>
+  <item>
+    <id>ME20091</id>
+    <name>Funeral March</name>
+    <text>Enchant creature
+When enchanted creature leaves the battlefield, its controller sacrifices a creature.</text>
+    <flavorText>"This party is such fun—but it's a shame to mourn just one."
+—Irini Sengir</flavorText>
+  </item>
+  <item>
+    <id>ME20092</id>
+    <name>Gangrenous Zombies</name>
+    <text>{T}, Sacrifice Gangrenous Zombies: Gangrenous Zombies deals 1 damage to each creature and each player. If you control a snow Swamp, Gangrenous Zombies deals 2 damage to each creature and each player instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20093</id>
+    <name>Grandmother Sengir</name>
+    <text>{1}{B}, {T}: Target creature gets -1/-1 until end of turn.</text>
+    <flavorText>"Rarely have power and madness been so delightfully wed as they have in our dear grandmother."
+—Baron Sengir</flavorText>
+  </item>
+  <item>
+    <id>ME20094</id>
+    <name>Icequake</name>
+    <text>Destroy target land. If that land was a snow land, Icequake deals 1 damage to that land's controller.</text>
+    <flavorText>"When the earth shakes, and their animals are swallowed up by the ground, perhaps they will think twice before attacking again."
+—Lim-Dûl, the Necromancer</flavorText>
+  </item>
+  <item>
+    <id>ME20095</id>
+    <name>Ihsan's Shade</name>
+    <text>Protection from white</text>
+    <flavorText>"Ihsan, the weak. Ihsan, the fallen. Ihsan, the betrayer. He has brought shame to the Serra paladins where none existed before. May his suffering equal his betrayal."
+—Baris, Serra inquisitor</flavorText>
+  </item>
+  <item>
+    <id>ME20096</id>
+    <name>Imperial Seal</name>
+    <text>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.</text>
+    <flavorText>"If Heaven has placed it in your hands, it means that the throne is destined to be yours."</flavorText>
+  </item>
+  <item>
+    <id>ME20097</id>
+    <name>Infernal Darkness</name>
+    <text>Cumulative upkeep—Pay {B} and 1 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+If a land is tapped for mana, it produces {B} instead of any other type.</text>
+    <flavorText>"I thought the day had brought enough horrors for our ragged band, but the night was far worse."
+—Lucilde Fiksdotter, leader of the Order of the White Shield</flavorText>
+  </item>
+  <item>
+    <id>ME20098</id>
+    <name>Kjeldoran Dead</name>
+    <text>When Kjeldoran Dead enters the battlefield, sacrifice a creature.
+{B}: Regenerate Kjeldoran Dead.</text>
+    <flavorText>"They shall kill those whom once they loved."
+—Lim-Dûl, the Necromancer</flavorText>
+  </item>
+  <item>
+    <id>ME20099</id>
+    <name>Knight of Stromgald</name>
+    <text>Protection from white
+{B}: Knight of Stromgald gains first strike until end of turn.
+{B}{B}: Knight of Stromgald gets +1/+0 until end of turn.</text>
+    <flavorText>"Kjeldorans should rule supreme, and to the rest, death!"
+—Avram Garrisson, leader of the Knights of Stromgald</flavorText>
+  </item>
+  <item>
+    <id>ME20100</id>
+    <name>Krovikan Fetish</name>
+    <text>Enchant creature
+When Krovikan Fetish enters the battlefield, draw a card at the beginning of the next turn's upkeep.
+Enchanted creature gets +1/+1.</text>
+    <flavorText>Some Krovikans find strength in the ears and eyes of their victims and wear such fetishes into battle.</flavorText>
+  </item>
+  <item>
+    <id>ME20101</id>
+    <name>Krovikan Horror</name>
+    <text>At the beginning of the end step, if Krovikan Horror is in your graveyard with a creature card directly above it, you may return Krovikan Horror to your hand.
+{1}, Sacrifice a creature: Krovikan Horror deals 1 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20102</id>
+    <name>Krovikan Vampire</name>
+    <text>At the beginning of each end step, if a creature dealt damage by Krovikan Vampire this turn was put into a graveyard, put that card onto the battlefield under your control. Sacrifice it when you lose control of Krovikan Vampire.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20103</id>
+    <name>Lim-Dûl's High Guard</name>
+    <text>First strike
+{1}{B}: Regenerate Lim-Dûl's High Guard.</text>
+    <flavorText>"The guard will forever stand ready. For them, death is merely an inconvenience, not an ending."
+—Chaeska, Keeper of Tresserhorn</flavorText>
+  </item>
+  <item>
+    <id>ME20104</id>
+    <name>Minion of Leshrac</name>
+    <text>Protection from black
+At the beginning of your upkeep, Minion of Leshrac deals 5 damage to you unless you sacrifice a creature other than Minion of Leshrac. If Minion of Leshrac deals damage to you this way, tap it.
+{T}: Destroy target creature or land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20105</id>
+    <name>Misinformation</name>
+    <text>Put up to three target cards from an opponent's graveyard on top of his or her library in any order.</text>
+    <flavorText>"When you cannot rely on your sources, trust your own senses. When you cannot trust those, you must follow your instincts."
+—Lovisa Coldeyes, Balduvian chieftain</flavorText>
+  </item>
+  <item>
+    <id>ME20106</id>
+    <name>Necrite</name>
+    <text>Whenever Necrite attacks and isn't blocked, you may sacrifice it. If you do, destroy target creature defending player controls. It can't be regenerated.</text>
+    <flavorText>Necrites killed Jherana Rure, ending the counterinsurgency.</flavorText>
+  </item>
+  <item>
+    <id>ME20107</id>
+    <name>Necropotence</name>
+    <text>Skip your draw step.
+Whenever you discard a card, exile that card from your graveyard.
+Pay 1 life: Exile the top card of your library face down. Put that card into your hand at the beginning of your next end step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20108</id>
+    <name>Phantasmal Fiend</name>
+    <text>{B}: Phantasmal Fiend gets +1/-1 until end of turn.
+{1}{U}: Switch Phantasmal Fiend's power and toughness until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20109</id>
+    <name>Ritual of the Machine</name>
+    <text>As an additional cost to cast Ritual of the Machine, sacrifice a creature.
+Gain control of target nonblack, nonartifact creature.</text>
+    <flavorText>"Rumors persist of dark deeds performed in the depths of Soldev. When will Dagsson heed the danger therein?"
+—Sorine Relicbane, Soldevi heretic</flavorText>
+  </item>
+  <item>
+    <id>ME20110</id>
+    <name>Songs of the Damned</name>
+    <text>Add {B} to your mana pool for each creature card in your graveyard.</text>
+    <flavorText>Not wind, but the breath of the dead.</flavorText>
+  </item>
+  <item>
+    <id>ME20111</id>
+    <name>Soul Exchange</name>
+    <text>As an additional cost to cast Soul Exchange, exile a creature you control.
+Return target creature card from your graveyard to the battlefield. Put a +2/+2 counter on that creature if the exiled creature was a Thrull.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20112</id>
+    <name>Soul Kiss</name>
+    <text>Enchant creature
+{B}, Pay 1 life: Enchanted creature gets +2/+2 until end of turn. Activate this ability no more than three times each turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20113</id>
+    <name>Stromgald Cabal</name>
+    <text>{T}, Pay 1 life: Counter target white spell.</text>
+    <flavorText>"Kjeldor must be supreme at any cost."
+—Avram Garrisson, leader of the Knights of Stromgald</flavorText>
+  </item>
+  <item>
+    <id>ME20114</id>
+    <name>Withering Wisps</name>
+    <text>At the beginning of the end step, if no creatures are on the battlefield, sacrifice Withering Wisps.
+{B}: Withering Wisps deals 1 damage to each creature and each player. Activate this ability no more times each turn than the number of snow Swamps you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20115</id>
+    <name>Ambush Party</name>
+    <text>First strike, haste</text>
+    <flavorText>"Fair fight? I'll take survival over chivalry any day!"
+—Tor Wauki, Bandit King</flavorText>
+  </item>
+  <item>
+    <id>ME20116</id>
+    <name>Anarchy</name>
+    <text>Destroy all white permanents.</text>
+    <flavorText>"The shaman waved the staff, and the land itself went mad."
+—Disa the Restless, journal entry</flavorText>
+  </item>
+  <item>
+    <id>ME20117</id>
+    <name>An-Zerrin Ruins</name>
+    <text>As An-Zerrin Ruins enters the battlefield, choose a creature type.
+Creatures of the chosen type don't untap during their controllers' untap steps.</text>
+    <flavorText>"The An-Zerrins have served me well, ever since I first killed them."
+—Baron Sengir</flavorText>
+  </item>
+  <item>
+    <id>ME20118</id>
+    <name>Balduvian Hydra</name>
+    <text>Balduvian Hydra enters the battlefield with X +1/+0 counters on it.
+Remove a +1/+0 counter from Balduvian Hydra: Prevent the next 1 damage that would be dealt to Balduvian Hydra this turn.
+{R}{R}{R}: Put a +1/+0 counter on Balduvian Hydra. Activate this ability only during your upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20119</id>
+    <name>Brassclaw Orcs</name>
+    <text>Brassclaw Orcs can't block creatures with power 2 or greater.</text>
+    <flavorText>"A whole skin is worth a thousand victories."
+—Orcish veteran of the Battle of Montford</flavorText>
+  </item>
+  <item>
+    <id>ME20120</id>
+    <name>Brimstone Dragon</name>
+    <text>Flying, haste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20121</id>
+    <name>Burnout</name>
+    <text>Counter target instant spell if it's blue.
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>"GOTCHA!"
+—Jaya Ballard, task mage</flavorText>
+  </item>
+  <item>
+    <id>ME20122</id>
+    <name>Conquer</name>
+    <text>Enchant land
+You control enchanted land.</text>
+    <flavorText>"Why do we trade with those despicable elves? You don't live in forests, you burn them!"
+—Avram Garrisson, leader of the Knights of Stromgald</flavorText>
+  </item>
+  <item>
+    <id>ME20123</id>
+    <name>Death Spark</name>
+    <text>Death Spark deals 1 damage to target creature or player.
+At the beginning of your upkeep, if Death Spark is in your graveyard with a creature card directly above it, you may pay {1}. If you do, return Death Spark to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20124</id>
+    <name>Errantry</name>
+    <text>Enchant creature
+Enchanted creature gets +3/+0 and can only attack alone.</text>
+    <flavorText>"There is no shame in solitude. The lone knight may succeed where a hundred founder."
+—Arna Kennerüd, skyknight</flavorText>
+  </item>
+  <item>
+    <id>ME20125</id>
+    <name>Fire Dragon</name>
+    <text>Flying
+When Fire Dragon enters the battlefield, it deals damage equal to the number of Mountains you control to target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20126</id>
+    <name>Flame Spirit</name>
+    <text>{R}: Flame Spirit gets +1/+0 until end of turn.</text>
+    <flavorText>"The spirit of the flame is the spirit of change."
+—Lovisa Coldeyes, Balduvian chieftain</flavorText>
+  </item>
+  <item>
+    <id>ME20127</id>
+    <name>Glacial Crevasses</name>
+    <text>Sacrifice a snow Mountain: Prevent all combat damage that would be dealt this turn.</text>
+    <flavorText>"We were chasing Lim-Dûl when the ridge in front of us suddenly crumbled. I can't believe it was mere coincidence."
+—Lucilde Fiksdotter, leader of the Order of the White Shield</flavorText>
+  </item>
+  <item>
+    <id>ME20128</id>
+    <name>Goblin Ski Patrol</name>
+    <text>{1}{R}: Goblin Ski Patrol gets +2/+0 and gains flying. Its controller sacrifices it at the beginning of the next end step. Activate this ability only once and only if you control a snow Mountain.</text>
+    <flavorText>"AIIIEEEE!"
+—Ib Halfheart, goblin tactician</flavorText>
+  </item>
+  <item>
+    <id>ME20129</id>
+    <name>Gorilla Shaman</name>
+    <text>{X}{X}{1}: Destroy target noncreature artifact with converted mana cost X.</text>
+    <flavorText>"Each generation teaches the next that artifice is the enemy of natural order."
+—Kaysa, elder druid of the Juniper Order</flavorText>
+  </item>
+  <item>
+    <id>ME20130</id>
+    <name>Imperial Recruiter</name>
+    <text>When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20131</id>
+    <name>Incinerate</name>
+    <text>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.</text>
+    <flavorText>"Yes, I think ‘toast' is an appropriate description."
+—Jaya Ballard, task mage</flavorText>
+  </item>
+  <item>
+    <id>ME20132</id>
+    <name>Ironclaw Orcs</name>
+    <text>Ironclaw Orcs can't block creatures with power 2 or greater.</text>
+    <flavorText>Generations of genetic weeding have given rise to the deviously cowardly Ironclaw clan.</flavorText>
+  </item>
+  <item>
+    <id>ME20133</id>
+    <name>Karplusan Giant</name>
+    <text>Tap an untapped snow land you control: Karplusan Giant gets +1/+1 until end of turn.</text>
+    <flavorText>"They aren't the brightest or the quickest of giants. For that matter, the same holds true if you compare them to rocks."
+—Disa the Restless, journal entry</flavorText>
+  </item>
+  <item>
+    <id>ME20134</id>
+    <name>Lava Burst</name>
+    <text>Lava Burst deals X damage to target creature or player. If Lava Burst would deal damage to a creature, that damage can't be prevented or dealt instead to another creature or player.</text>
+    <flavorText>"Overkill? This isn't a game of Kick-the-Ouphe!"
+—Jaya Ballard, task mage</flavorText>
+  </item>
+  <item>
+    <id>ME20135</id>
+    <name>Meteor Shower</name>
+    <text>Meteor Shower deals X plus 1 damage divided as you choose among any number of target creatures and/or players.</text>
+    <flavorText>"Eenie, meenie, minie, moe . . . oh, why not all of them?"
+—Jaya Ballard, task mage</flavorText>
+  </item>
+  <item>
+    <id>ME20136</id>
+    <name>Mudslide</name>
+    <text>Creatures without flying don't untap during their controllers' untap steps.
+At the beginning of each player's upkeep, that player may choose any number of tapped creatures without flying he or she controls and pay {2} for each creature chosen this way. If the player does, untap those creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20137</id>
+    <name>Orc General</name>
+    <text>{T}, Sacrifice another Orc or Goblin: Other Orc creatures get +1/+1 until end of turn.</text>
+    <flavorText>"Your army must fear you more than the enemy. Only then will you triumph."
+—Malga Phlegmtooth</flavorText>
+  </item>
+  <item>
+    <id>ME20138</id>
+    <name>Orcish Cannoneers</name>
+    <text>{T}: Orcish Cannoneers deals 2 damage to target creature or player and 3 damage to you.</text>
+    <flavorText>"It's a thankless job, and you'll probably die in an explosion. But the pay is pretty good."
+—Toothlicker Harj, orcish captain</flavorText>
+  </item>
+  <item>
+    <id>ME20139</id>
+    <name>Orcish Captain</name>
+    <text>{1}: Flip a coin. If you win the flip, target Orc creature gets +2/+0 until end of turn. If you lose the flip, it gets -0/-2 until end of turn.</text>
+    <flavorText>There's a chance to win every battle.</flavorText>
+  </item>
+  <item>
+    <id>ME20140</id>
+    <name>Orcish Conscripts</name>
+    <text>Orcish Conscripts can't attack unless at least two other creatures attack.
+
+Orcish Conscripts can't block unless at least two other creatures block.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20141</id>
+    <name>Orcish Farmer</name>
+    <text>{T}: Target land becomes a Swamp until its controller's next untap step.</text>
+    <flavorText>"Yes, the farmers keep our soldiers fed. But why do they have to make every battlefield a pigpen?"
+—Toothlicker Harj, orcish captain</flavorText>
+  </item>
+  <item>
+    <id>ME20142</id>
+    <name>Orcish Lumberjack</name>
+    <text>{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.</text>
+    <flavorText>"How did I ever let myself get talked into this project?"
+—Toothlicker Harj, orcish captain</flavorText>
+  </item>
+  <item>
+    <id>ME20143</id>
+    <name>Orcish Squatters</name>
+    <text>Whenever Orcish Squatters attacks and isn't blocked, you may gain control of target land defending player controls for as long as you control Orcish Squatters. If you do, Orcish Squatters assigns no combat damage this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20144</id>
+    <name>Orcish Veteran</name>
+    <text>Orcish Veteran can't block white creatures with power 2 or greater.
+{R}: Orcish Veteran gains first strike until end of turn.</text>
+    <flavorText>Unsuccessful in their early battle for Montford, the orcs quickly tempered their bloodlust with cowardice.</flavorText>
+  </item>
+  <item>
+    <id>ME20145</id>
+    <name>Panic</name>
+    <text>Cast Panic only during combat before blockers are declared.
+Target creature can't block this turn.
+Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>"If you'd been there, you would've run from that deer, too!"
+—Jaya Ballard, Task Mage</flavorText>
+  </item>
+  <item>
+    <id>ME20146</id>
+    <name>Pillage</name>
+    <text>Destroy target artifact or land. It can't be regenerated.</text>
+    <flavorText>"Were they to reduce us to ash, we would clog their throats and sting their eyes in payment."
+—Lovisa Coldeyes, Balduvian chieftain</flavorText>
+  </item>
+  <item>
+    <id>ME20147</id>
+    <name>Pyrokinesis</name>
+    <text>You may exile a red card from your hand rather than pay Pyrokinesis's mana cost.
+Pyrokinesis deals 4 damage divided as you choose among any number of target creatures.</text>
+    <flavorText>"Anybody want some . . . toast?"
+—Jaya Ballard, task mage</flavorText>
+  </item>
+  <item>
+    <id>ME20148</id>
+    <name>Retribution</name>
+    <text>Choose two target creatures an opponent controls. That player chooses and sacrifices one of those creatures. Put a -1/-1 counter on the other.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20149</id>
+    <name>Rogue Skycaptain</name>
+    <text>Flying
+At the beginning of your upkeep, put a wage counter on Rogue Skycaptain. You may pay {2} for each wage counter on it. If you don't, remove all wage counters from Rogue Skycaptain and an opponent gains control of it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20150</id>
+    <name>Stone Spirit</name>
+    <text>Stone Spirit can't be blocked by creatures with flying.</text>
+    <flavorText>"The spirit of the stone is the spirit of strength."
+—Lovisa Coldeyes, Balduvian chieftain</flavorText>
+  </item>
+  <item>
+    <id>ME20151</id>
+    <name>Stonehands</name>
+    <text>Enchant creature
+Enchanted creature gets +0/+2.
+{R}: Enchanted creature gets +1/+0 until end of turn.</text>
+    <flavorText>"Trust in the power of stone. Stone is strong; stone shatters swords; stone breaks bones. Trust in stone."
+—Lovisa Coldeyes, Balduvian chieftain</flavorText>
+  </item>
+  <item>
+    <id>ME20152</id>
+    <name>Varchild's Crusader</name>
+    <text>{0}: Varchild's Crusader can't be blocked this turn except by Walls. Sacrifice Varchild's Crusader at the beginning of the next end step.</text>
+    <flavorText>"Every patch of land must belong to Kjeldor, no matter what the cost!"
+—General Varchild</flavorText>
+  </item>
+  <item>
+    <id>ME20153</id>
+    <name>Aurochs</name>
+    <text>Trample
+Whenever Aurochs attacks, it gets +1/+0 until end of turn for each other attacking Aurochs.</text>
+    <flavorText>One aurochs may feed a village, but a herd will flatten it.</flavorText>
+  </item>
+  <item>
+    <id>ME20154</id>
+    <name>Bounty of the Hunt</name>
+    <text>You may exile a green card from your hand rather than pay Bounty of the Hunt's mana cost.
+Distribute three +1/+1 counters among one, two, or three target creatures. For each +1/+1 counter you put on a creature this way, remove a +1/+1 counter from that creature at the beginning of the next cleanup step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20155</id>
+    <name>Carapace</name>
+    <text>Enchant creature
+Enchanted creature gets +0/+2.
+Sacrifice Carapace: Regenerate enchanted creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20156</id>
+    <name>Elvish Farmer</name>
+    <text>At the beginning of your upkeep, put a spore counter on Elvish Farmer.
+Remove three spore counters from Elvish Farmer: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: You gain 2 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20157</id>
+    <name>Elvish Hunter</name>
+    <text>{1}{G}, {T}: Target creature doesn't untap during its controller's next untap step.</text>
+    <flavorText>"As the climate cooled, many elves turned to thallid farming for food, while the hunters honed their skills on what little game remained."
+—Sarpadian Empires, vol. III</flavorText>
+  </item>
+  <item>
+    <id>ME20158</id>
+    <name>Elvish Ranger</name>
+    <text>
+    </text>
+    <flavorText>"How can any human hope to match our skills? We are children of Fyndhorn, and its sap runs in our veins."
+—Taaveti of Kelsinko, elvish hunter</flavorText>
+  </item>
+  <item>
+    <id>ME20159</id>
+    <name>Elvish Spirit Guide</name>
+    <text>Exile Elvish Spirit Guide from your hand: Add {G} to your mana pool.</text>
+    <flavorText>"We are never without guidance, if we but seek it."
+—Taaveti of Kelsinko, elvish hunter</flavorText>
+  </item>
+  <item>
+    <id>ME20160</id>
+    <name>Essence Filter</name>
+    <text>Destroy all enchantments or all nonwhite enchantments.</text>
+    <flavorText>"Freyalise has cleansed our bodies and minds of the plagues of Kjeldor; all she asks in return is that we keep pure our newly given home in Fyndhorn."
+—Kolbjörn, elder druid of the Juniper Order</flavorText>
+  </item>
+  <item>
+    <id>ME20161</id>
+    <name>Feral Thallid</name>
+    <text>At the beginning of your upkeep, put a spore counter on Feral Thallid.
+
+Remove three spore counters from Feral Thallid: Regenerate Feral Thallid.</text>
+    <flavorText>"Born and bred of fungus, thallids were nearly impossible to kill."
+—Sarpadian Empires, vol. I</flavorText>
+  </item>
+  <item>
+    <id>ME20162</id>
+    <name>Folk of the Pines</name>
+    <text>{1}{G}: Folk of the Pines gets +1/+0 until end of turn.</text>
+    <flavorText>"Our friends of the forest take many forms, yet all serve the will of Freyalise."
+—Laina of the Elvish Council</flavorText>
+  </item>
+  <item>
+    <id>ME20163</id>
+    <name>Forbidden Lore</name>
+    <text>Enchant land
+Enchanted land has "{T}: Target creature gets +2/+1 until end of turn."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20164</id>
+    <name>Forgotten Lore</name>
+    <text>Target opponent chooses a card in your graveyard. You may pay {G}. If you do, repeat this process except that opponent can't choose a card already chosen for Forgotten Lore. Then put the last chosen card into your hand.</text>
+    <flavorText>In ashes are the gems of history.</flavorText>
+  </item>
+  <item>
+    <id>ME20165</id>
+    <name>Fungal Bloom</name>
+    <text>{G}{G}: Put a spore counter on target Fungus.</text>
+    <flavorText>"Thallids could absorb energy from the forest itself. Even elves were at a disadvantage in fighting them."
+—Sarpadian Empires, vol. III</flavorText>
+  </item>
+  <item>
+    <id>ME20166</id>
+    <name>Fyndhorn Pollen</name>
+    <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+All creatures get -1/-0.
+{1}{G}: All creatures get -1/-0 until end of turn.</text>
+    <flavorText>"I breathed deeply, and suddenly I knew not who or where I was."
+—Taaveti of Kelsinko, elvish hunter</flavorText>
+  </item>
+  <item>
+    <id>ME20167</id>
+    <name>Giant Growth</name>
+    <text>Target creature gets +3/+3 until end of turn.</text>
+    <flavorText>"Here in Fyndhorn, the goddess Freyalise is generous to her children."
+—Kolbjörn, elder druid of the Juniper Order</flavorText>
+  </item>
+  <item>
+    <id>ME20168</id>
+    <name>Johtull Wurm</name>
+    <text>Whenever Johtull Wurm becomes blocked, it gets -2/-1 until end of turn for each creature blocking it beyond the first.</text>
+    <flavorText>"To bring her down we must be on all sides at once—leave one avenue open and we'll all be dead."
+—Taaveti of Kelsinko, elvish hunter</flavorText>
+  </item>
+  <item>
+    <id>ME20169</id>
+    <name>Joven's Ferrets</name>
+    <text>Whenever Joven's Ferrets attacks, it gets +0/+2 until end of turn.
+At end of combat, tap all creatures that blocked Joven's Ferrets this turn. They don't untap during their controller's next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20170</id>
+    <name>Kaysa</name>
+    <text>Green creatures you control get +1/+1.</text>
+    <flavorText>Kaysa speaks as the elder druid, but Yavimaya recognizes only one voice: its own.</flavorText>
+  </item>
+  <item>
+    <id>ME20171</id>
+    <name>Leaping Lizard</name>
+    <text>{1}{G}: Leaping Lizard gains flying and gets -0/-1 until end of turn.</text>
+    <flavorText>"I never question the Autumn Willow about her motives, not even when she turns people into lizards. It's her way."
+—Devin, faerie noble</flavorText>
+  </item>
+  <item>
+    <id>ME20172</id>
+    <name>Nature's Wrath</name>
+    <text>At the beginning of your upkeep, sacrifice Nature's Wrath unless you pay {G}.
+Whenever a player puts an Island or blue permanent onto the battlefield, he or she sacrifices an Island or blue permanent.
+Whenever a player puts a Swamp or black permanent onto the battlefield, he or she sacrifices a Swamp or black permanent.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20173</id>
+    <name>Night Soil</name>
+    <text>{1}, Exile two creature cards from a single graveyard: Put a 1/1 green Saproling creature token onto the battlefield.</text>
+    <flavorText>The elves gathered huge piles of rot to grow fungus. Out of imitation or forethought, the thallids did the same.</flavorText>
+  </item>
+  <item>
+    <id>ME20174</id>
+    <name>Ritual of Subdual</name>
+    <text>Cumulative upkeep {2} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+If a land is tapped for mana, it produces colorless mana instead of any other type.</text>
+    <flavorText>"That which does not bend to the will of Freyalise shall surely break."
+—Kolbjörn, elder druid of the Juniper Order</flavorText>
+  </item>
+  <item>
+    <id>ME20175</id>
+    <name>Shrink</name>
+    <text>Target creature gets -5/-0 until end of turn.</text>
+    <flavorText>"Do not fear adversity. Let your courage be your strength."
+—Onatah, Anaba shaman</flavorText>
+  </item>
+  <item>
+    <id>ME20176</id>
+    <name>Spore Cloud</name>
+    <text>Tap all blocking creatures. Prevent all combat damage that would be dealt this turn. Each attacking creature and each blocking creature doesn't untap during its controller's next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20177</id>
+    <name>Spore Flower</name>
+    <text>At the beginning of your upkeep, put a spore counter on Spore Flower.
+Remove three spore counters from Spore Flower: Prevent all combat damage that would be dealt this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20178</id>
+    <name>Stampede</name>
+    <text>Attacking creatures get +1/+0 and gain trample until end of turn.</text>
+    <flavorText>"We could see the horizon blacken with the great beasts, but it was too late. The icefield offered no immediate safety, but luckily most of us reached a crevasse in which we could take cover."
+—Disa the Restless, journal entry</flavorText>
+  </item>
+  <item>
+    <id>ME20179</id>
+    <name>Stunted Growth</name>
+    <text>Target player chooses three cards from his or her hand and puts them on top of his or her library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20180</id>
+    <name>Thallid</name>
+    <text>At the beginning of your upkeep, put a spore counter on Thallid.
+Remove three spore counters from Thallid: Put a 1/1 green Saproling creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20181</id>
+    <name>Thallid Devourer</name>
+    <text>At the beginning of your upkeep, put a spore counter on Thallid Devourer.
+Remove three spore counters from Thallid Devourer: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Thallid Devourer gets +1/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20182</id>
+    <name>Thelonite Druid</name>
+    <text>{1}{G}, {T}, Sacrifice a creature: Forests you control become 2/3 creatures until end of turn. They're still lands.</text>
+    <flavorText>"The magic at the heart of all living things can bear awe-inspiring fruit."
+—Kolevi of Havenwood, elder druid</flavorText>
+  </item>
+  <item>
+    <id>ME20183</id>
+    <name>Thermokarst</name>
+    <text>Destroy target land. If that land was a snow land, you gain 1 life.</text>
+    <flavorText>"Finally we understand the lesson of our home: loss begets renewal."
+—Kolbjörn, elder druid of the Juniper Order</flavorText>
+  </item>
+  <item>
+    <id>ME20184</id>
+    <name>Tinder Wall</name>
+    <text>Defender (This creature can't attack.)
+Sacrifice Tinder Wall: Add {R}{R} to your mana pool.
+{R}, Sacrifice Tinder Wall: Tinder Wall deals 2 damage to target creature it's blocking.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20185</id>
+    <name>Whiteout</name>
+    <text>All creatures lose flying until end of turn.
+Sacrifice a snow land: Return Whiteout from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20186</id>
+    <name>Wiitigo</name>
+    <text>Wiitigo enters the battlefield with six +1/+1 counters on it.
+At the beginning of your upkeep, put a +1/+1 counter on Wiitigo if it has blocked or been blocked since your last upkeep. Otherwise, remove a +1/+1 counter from it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20187</id>
+    <name>Wolf Pack</name>
+    <text>You may have Wolf Pack assign its combat damage as though it weren't blocked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20188</id>
+    <name>Woolly Mammoths</name>
+    <text>Woolly Mammoths has trample as long as you control a snow land.</text>
+    <flavorText>"Mammoths may be good to ride on, but they're certainly bad to fall off of!"
+—Disa the Restless, journal entry</flavorText>
+  </item>
+  <item>
+    <id>ME20189</id>
+    <name>Woolly Spider</name>
+    <text>Reach (This creature can block creatures with flying.)
+Whenever Woolly Spider blocks a creature with flying, Woolly Spider gets +0/+2 until end of turn.</text>
+    <flavorText>"We need not fear the forces of the air; I've yet to see a spider without an appetite."
+—Taaveti of Kelsinko, elvish hunter</flavorText>
+  </item>
+  <item>
+    <id>ME20190</id>
+    <name>Yavimaya Ancients</name>
+    <text>{G}: Yavimaya Ancients gets +1/-2 until end of turn.</text>
+    <flavorText>"We orphans of Fyndhorn have found no welcome in this alien place."
+—Taaveti of Kelsinko, elvish hunter</flavorText>
+  </item>
+  <item>
+    <id>ME20191</id>
+    <name>Diabolic Vision</name>
+    <text>Look at the top five cards of your library. Put one of them into your hand and the rest on top of your library in any order.</text>
+    <flavorText>"I have seen the true path. I will not warm myself by the fire—I will become the flame."
+—Lim-Dûl, the Necromancer</flavorText>
+  </item>
+  <item>
+    <id>ME20192</id>
+    <name>Earthlink</name>
+    <text>At the beginning of your upkeep, sacrifice Earthlink unless you pay {2}.
+Whenever a creature is put into a graveyard from the battlefield, that creature's controller sacrifices a land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20193</id>
+    <name>Elemental Augury</name>
+    <text>{3}: Look at the top three cards of target player's library, then put them back in any order.</text>
+    <flavorText>"It is the changing of perception that is important."
+—Gerda Äagesdotter, Archmage of the Unseen</flavorText>
+  </item>
+  <item>
+    <id>ME20194</id>
+    <name>Fumarole</name>
+    <text>As an additional cost to cast Fumarole, pay 3 life.
+Destroy target creature and target land.</text>
+    <flavorText>"Too many of us have died in the explosions that wrack these hills."
+—Klazina Jansdotter, leader of the Order of the Sacred Torch</flavorText>
+  </item>
+  <item>
+    <id>ME20195</id>
+    <name>Giant Trap Door Spider</name>
+    <text>{1}{R}{G}, {T}: Exile Giant Trap Door Spider and target creature without flying that's attacking you.</text>
+    <flavorText>"So large and so quiet—a combination best avoided."
+—Disa the Restless, journal entry</flavorText>
+  </item>
+  <item>
+    <id>ME20196</id>
+    <name>Nature's Blessing</name>
+    <text>{G}{W}, Discard a card: Put a +1/+1 counter on target creature or that creature gains banding, first strike, or trample. (This effect lasts indefinitely. Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding a player controls are blocking or being blocked by a creature, that player divides that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>"Be open to the blessings, whatever their form."
+—Kaysa, elder druid of the Juniper Order</flavorText>
+  </item>
+  <item>
+    <id>ME20197</id>
+    <name>Skeleton Ship</name>
+    <text>When you control no Islands, sacrifice Skeleton Ship.
+{T}: Put a -1/-1 counter on target creature.</text>
+    <flavorText>"The sea gives up her dead as easily as the soil."
+—Lim-Dûl, the Necromancer</flavorText>
+  </item>
+  <item>
+    <id>ME20198</id>
+    <name>Storm Spirit</name>
+    <text>Flying
+{T}: Storm Spirit deals 2 damage to target creature.</text>
+    <flavorText>"Come to us, with your lightning. Come to us, with your thunder. Serve us with your strength, and smite our foes with your power."
+—Steinar Icefist, Balduvian shaman</flavorText>
+  </item>
+  <item>
+    <id>ME20199</id>
+    <name>Wings of Aesthir</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+0 and has flying and first strike.</text>
+    <flavorText>"For those of courage, even the sky holds no limit."
+—Arnjlot Olasson, sky mage</flavorText>
+  </item>
+  <item>
+    <id>ME20200</id>
+    <name>Winter's Night</name>
+    <text>Whenever a player taps a snow land for mana, that player adds one mana to his or her mana pool of any type that land produced. That land doesn't untap during its controller's next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20201</id>
+    <name>Adarkar Sentinel</name>
+    <text>{1}: Adarkar Sentinel gets +0/+1 until end of turn.</text>
+    <flavorText>"We encountered the sentinels in the wastes, near no living thing. Their purpose was inscrutable."
+—Disa the Restless, journal entry</flavorText>
+  </item>
+  <item>
+    <id>ME20202</id>
+    <name>Aeolipile</name>
+    <text>{1}, {T}, Sacrifice Aeolipile: Aeolipile deals 2 damage to target creature or player.</text>
+    <flavorText>"Although fragile, the aeolipile could be quite destructive."
+—Sarpadian Empires, vol. I</flavorText>
+  </item>
+  <item>
+    <id>ME20203</id>
+    <name>Ashnod's Cylix</name>
+    <text>{3}, {T}: Target player looks at the top three cards of his or her library, puts one of them back on top of his or her library, then exiles the rest.</text>
+    <flavorText>Few remember that Ashnod's defilement of Terisiare's resources outstripped even that of her peers.</flavorText>
+  </item>
+  <item>
+    <id>ME20204</id>
+    <name>Barbed Sextant</name>
+    <text>{1}, {T}, Sacrifice Barbed Sextant: Add one mana of any color to your mana pool. Draw a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20205</id>
+    <name>Clockwork Steed</name>
+    <text>Clockwork Steed enters the battlefield with four +1/+0 counters on it.
+Clockwork Steed can't be blocked by artifact creatures.
+At end of combat, if Clockwork Steed attacked or blocked this combat, remove a +1/+0 counter from it.
+{X}, {T}: Put up to X +1/+0 counters on Clockwork Steed. This ability can't cause the total number of +1/+0 counters on Clockwork Steed to be greater than four. Activate this ability only during your upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20206</id>
+    <name>Despotic Scepter</name>
+    <text>{T}: Destroy target permanent you own. It can't be regenerated.</text>
+    <flavorText>"We were not meant to have such terrible things. They should be left where we found them, if not destroyed!"
+—Sorine Relicbane, Soldevi heretic</flavorText>
+  </item>
+  <item>
+    <id>ME20207</id>
+    <name>Elkin Bottle</name>
+    <text>{3}, {T}: Exile the top card of your library. Until the beginning of your next upkeep, you may play that card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20208</id>
+    <name>Elven Lyre</name>
+    <text>{1}, {T}, Sacrifice Elven Lyre: Target creature gets +2/+2 until end of turn.</text>
+    <flavorText>Scholars are uncertain whether it was the actual sound or some other magical property of the elven lyre that transformed its player.</flavorText>
+  </item>
+  <item>
+    <id>ME20209</id>
+    <name>Gustha's Scepter</name>
+    <text>{T}: Exile a card from your hand face down. You may look at it for as long as it remains exiled.
+{T}: Return a card you own exiled with Gustha's Scepter to your hand.
+When you lose control of Gustha's Scepter, put all cards exiled with Gustha's Scepter into their owners' graveyards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20210</id>
+    <name>Helm of Obedience</name>
+    <text>{X}, {T}: Target opponent puts cards from the top of his or her library into his or her graveyard until a creature card or X cards are put into that graveyard this way, whichever comes first. If a creature card is put into that graveyard this way, sacrifice Helm of Obedience and put that card onto the battlefield under your control. X can't be 0.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20211</id>
+    <name>Jester's Mask</name>
+    <text>Jester's Mask enters the battlefield tapped.
+{1}, {T}, Sacrifice Jester's Mask: Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. That player puts those cards into his or her hand, then shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20212</id>
+    <name>Jeweled Amulet</name>
+    <text>{1}, {T}: Put a charge counter on Jeweled Amulet. Note the type of mana spent to pay this activation cost. Activate this ability only if there are no charge counters on Jeweled Amulet.
+{T}, Remove a charge counter from Jeweled Amulet: Add one mana of Jeweled Amulet's last noted type to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20213</id>
+    <name>Lodestone Bauble</name>
+    <text>{1}, {T}, Sacrifice Lodestone Bauble: Put up to four target basic land cards from a player's graveyard on top of his or her library in any order. That player draws a card at the beginning of the next turn's upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20214</id>
+    <name>Mana Crypt</name>
+    <text>At the beginning of your upkeep, flip a coin. If you lose the flip, Mana Crypt deals 3 damage to you.
+{T}: Add {2} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20215</id>
+    <name>Mishra's Groundbreaker</name>
+    <text>{T}, Sacrifice Mishra's Groundbreaker: Target land becomes a 3/3 artifact creature that's still a land. (This effect lasts indefinitely.)</text>
+    <flavorText>The very ground yielded to Mishra's wishes.</flavorText>
+  </item>
+  <item>
+    <id>ME20216</id>
+    <name>Phyrexian Devourer</name>
+    <text>When Phyrexian Devourer's power is 7 or greater, sacrifice it.
+Exile the top card of your library: Put X +1/+1 counters on Phyrexian Devourer, where X is the exiled card's converted mana cost. If Phyrexian Devourer's power is 7 or greater, sacrifice it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20217</id>
+    <name>Phyrexian Portal</name>
+    <text>{3}: Target opponent looks at the top ten cards of your library and separates them into two face-down piles. Exile one of those piles. Search the other pile for a card, put it into your hand, then shuffle the rest of that pile into your library. Activate this ability only if your library has ten or more cards in it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20218</id>
+    <name>Roterothopter</name>
+    <text>Flying
+{2}: Roterothopter gets +1/+0 until end of turn. Activate this ability no more than twice each turn.</text>
+    <flavorText>"The roterothoper is as insidious as it is ingenious. It is one of the few creations of our school that I take no pride in."
+—Baki, wizard attendant</flavorText>
+  </item>
+  <item>
+    <id>ME20219</id>
+    <name>Skull Catapult</name>
+    <text>{1}, {T}, Sacrifice a creature: Skull Catapult deals 2 damage to target creature or player.</text>
+    <flavorText>"Let any who doubt the evil of using the ancient devices look at this infernal machine. What manner of fiend would design such a sadistic device?"
+—Sorine Relicbane, Soldevi heretic</flavorText>
+  </item>
+  <item>
+    <id>ME20220</id>
+    <name>Snow Fortress</name>
+    <text>Defender (This creature can't attack.)
+{1}: Snow Fortress gets +1/+0 until end of turn.
+{1}: Snow Fortress gets +0/+1 until end of turn.
+{3}: Snow Fortress deals 1 damage to target creature without flying that's attacking you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20221</id>
+    <name>Soldevi Digger</name>
+    <text>{2}: Put the top card of your graveyard on the bottom of your library.</text>
+    <flavorText>"This ceaseless device has helped uncover marvels unreachable by mere flesh."
+—Arcum Dagsson, Soldevi machinist</flavorText>
+  </item>
+  <item>
+    <id>ME20222</id>
+    <name>Soldevi Simulacrum</name>
+    <text>Cumulative upkeep {1} (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+{1}: Soldevi Simulacrum gets +1/+0 until end of turn.</text>
+    <flavorText>They look human—until they bleed.</flavorText>
+  </item>
+  <item>
+    <id>ME20223</id>
+    <name>Time Bomb</name>
+    <text>At the beginning of your upkeep, put a time counter on Time Bomb.
+
+{1}, {T}, Sacrifice Time Bomb: Time Bomb deals damage to each creature and each player equal to the number of time counters on Time Bomb.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20224</id>
+    <name>Whirling Catapult</name>
+    <text>{2}, Exile the top two cards of your library: Whirling Catapult deals 1 damage to each creature with flying and each player.</text>
+    <flavorText>"Direct confrontation never was to the orcs' taste."
+—General Varchild</flavorText>
+  </item>
+  <item>
+    <id>ME20225</id>
+    <name>Badlands</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20226</id>
+    <name>Balduvian Trading Post</name>
+    <text>If Balduvian Trading Post would enter the battlefield, sacrifice an untapped Mountain instead. If you do, put Balduvian Trading Post onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add {1}{R} to your mana pool.
+{1}, {T}: Balduvian Trading Post deals 1 damage to target attacking creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20227</id>
+    <name>Dwarven Ruins</name>
+    <text>Dwarven Ruins enters the battlefield tapped.
+{T}: Add {R} to your mana pool.
+{T}, Sacrifice Dwarven Ruins: Add {R}{R} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20228</id>
+    <name>Ebon Stronghold</name>
+    <text>Ebon Stronghold enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+{T}, Sacrifice Ebon Stronghold: Add {B}{B} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20229</id>
+    <name>Glacial Chasm</name>
+    <text>Cumulative upkeep—Pay 2 life. (At the beginning of your upkeep, put an age counter on this permanent, then sacrifice it unless you pay its upkeep cost for each age counter on it.)
+When Glacial Chasm enters the battlefield, sacrifice a land.
+Creatures you control can't attack.
+Prevent all damage that would be dealt to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20230</id>
+    <name>Havenwood Battleground</name>
+    <text>Havenwood Battleground enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{T}, Sacrifice Havenwood Battleground: Add {G}{G} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20231</id>
+    <name>Heart of Yavimaya</name>
+    <text>If Heart of Yavimaya would enter the battlefield, sacrifice a Forest instead. If you do, put Heart of Yavimaya onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add {G} to your mana pool.
+{T}: Target creature gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20232</id>
+    <name>Ice Floe</name>
+    <text>You may choose not to untap Ice Floe during your untap step.
+{T}: Tap target creature without flying that's attacking you. It doesn't untap during its controller's untap step for as long as Ice Floe remains tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20233</id>
+    <name>Kjeldoran Outpost</name>
+    <text>If Kjeldoran Outpost would enter the battlefield, sacrifice a Plains instead. If you do, put Kjeldoran Outpost onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add {W} to your mana pool.
+{1}{W}, {T}: Put a 1/1 white Soldier creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20234</id>
+    <name>Ruins of Trokair</name>
+    <text>Ruins of Trokair enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+{T}, Sacrifice Ruins of Trokair: Add {W}{W} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20235</id>
+    <name>Savannah</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20236</id>
+    <name>Soldevi Excavations</name>
+    <text>If Soldevi Excavations would enter the battlefield, sacrifice an untapped Island instead. If you do, put Soldevi Excavations onto the battlefield. If you don't, put it into its owner's graveyard.
+{T}: Add {1}{U} to your mana pool.
+{1}, {T}: Look at the top card of your library. You may put that card on the bottom of your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20237</id>
+    <name>Svyelunite Temple</name>
+    <text>Svyelunite Temple enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+{T}, Sacrifice Svyelunite Temple: Add {U}{U} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20238</id>
+    <name>Taiga</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20239</id>
+    <name>Tundra</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20240</id>
+    <name>Underground Sea</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20241</id>
+    <name>Snow-Covered Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20242</id>
+    <name>Snow-Covered Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20243</id>
+    <name>Snow-Covered Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20244</id>
+    <name>Snow-Covered Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ME20245</id>
+    <name>Snow-Covered Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

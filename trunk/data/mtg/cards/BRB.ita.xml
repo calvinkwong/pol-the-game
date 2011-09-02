@@ -1,0 +1,967 @@
+<cards name="Battle Royale Box Set">
+  <item>
+    <id>BRB0001</id>
+    <name>Abyssal Specter</name>
+    <text>Flying
+Whenever Abyssal Specter deals damage to a player, that player discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0002</id>
+    <name>Advance Scout</name>
+    <text>First strike
+{W}: Target creature gains first strike until end of turn.</text>
+    <flavorText>"The soldier's path is worn smooth by the tread of many feet—all in one direction, none returning."
+—Oracle en-Vec</flavorText>
+  </item>
+  <item>
+    <id>BRB0003</id>
+    <name>Air Elemental</name>
+    <text>Flying</text>
+    <flavorText>These spirits of the air are winsome and wild and cannot be truly contained. Only marginally intelligent, they often substitute whimsy for strategy, delighting in mischief and mayhem.</flavorText>
+  </item>
+  <item>
+    <id>BRB0004</id>
+    <name>Angelic Page</name>
+    <text>Flying
+{T}: Target attacking or blocking creature gets +1/+1 until end of turn.</text>
+    <flavorText>If only every message were as perfect as its bearer.</flavorText>
+  </item>
+  <item>
+    <id>BRB0005</id>
+    <name>Arc Lightning</name>
+    <text>Arc Lightning deals 3 damage divided as you choose among one, two, or three target creatures and/or players.</text>
+    <flavorText>Rainclouds don't last long in Shiv, but that doesn't stop the lightning.</flavorText>
+  </item>
+  <item>
+    <id>BRB0006</id>
+    <name>Argothian Elder</name>
+    <text>{T}: Untap two target lands.</text>
+    <flavorText>Sharpen your ears
+—Elvish expression meaning
+"grow wiser"</flavorText>
+  </item>
+  <item>
+    <id>BRB0007</id>
+    <name>Armored Pegasus</name>
+    <text>Flying</text>
+    <flavorText>"I always charge a little extra to take on a pegasus. They fly like eagles, kick like mules, and hide like hermits."
+—Tahlil en-Dal, bounty hunter</flavorText>
+  </item>
+  <item>
+    <id>BRB0008</id>
+    <name>Azure Drake</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>Little dreamt could seem so cruel
+As waiting for the wings outspread,
+The jagged teeth, the burning eyes,
+And dagger-claws that clench to nerves.</flavorText>
+  </item>
+  <item>
+    <id>BRB0009</id>
+    <name>Blinking Spirit</name>
+    <text>{0}: Return Blinking Spirit to its owner's hand.</text>
+    <flavorText>"Don't look at it Maybe it'll go away"
+—Ib Halfheart, goblin tactician</flavorText>
+  </item>
+  <item>
+    <id>BRB0010</id>
+    <name>Broken Fall</name>
+    <text>Return Broken Fall to its owner's hand: Regenerate target creature.</text>
+    <flavorText>"I think I used up all my good luck and all my bad luck in the same fall."
+—Gerrard of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>BRB0011</id>
+    <name>Cackling Fiend</name>
+    <text>When Cackling Fiend enters the battlefield, each opponent discards a card.</text>
+    <flavorText>Its windpipe is only the first to amplify its maddening laughter.</flavorText>
+  </item>
+  <item>
+    <id>BRB0012</id>
+    <name>Catastrophe</name>
+    <text>Destroy all lands or all creatures. Creatures destroyed this way can't be regenerated.</text>
+    <flavorText>Radiant's eyes flashed. "Go, then," the angel spat at Serra, "and leave this world to those who truly care."</flavorText>
+  </item>
+  <item>
+    <id>BRB0013</id>
+    <name>Cinder Marsh</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {B} or {R} to your mana pool. Cinder Marsh doesn't untap during your next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0014</id>
+    <name>Control Magic</name>
+    <text>Enchant creature
+You control enchanted creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0015</id>
+    <name>Counterspell</name>
+    <text>Counter target spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0016</id>
+    <name>Crazed Skirge</name>
+    <text>Flying, haste</text>
+    <flavorText>They are Phyrexia's couriers; the messages they carry are inscribed on their slick hides.</flavorText>
+  </item>
+  <item>
+    <id>BRB0017</id>
+    <name>Curfew</name>
+    <text>Each player returns a creature he or she controls to its owner's hand.</text>
+    <flavorText>". . . But I'm not tired"</flavorText>
+  </item>
+  <item>
+    <id>BRB0018</id>
+    <name>Dark Ritual</name>
+    <text>Add {B}{B}{B} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0019</id>
+    <name>Dirtcowl Wurm</name>
+    <text>Whenever an opponent plays a land, put a +1/+1 counter on Dirtcowl Wurm.</text>
+    <flavorText>Few of Rath's rivers follow a steady course, so many new channels are carved for them.</flavorText>
+  </item>
+  <item>
+    <id>BRB0020</id>
+    <name>Disenchant</name>
+    <text>Destroy target artifact or enchantment.</text>
+    <flavorText>"I implore you not to forget the horrors of the past. You would have us start the Brothers' War anew"
+—Sorine Relicbane, Soldevi heretic</flavorText>
+  </item>
+  <item>
+    <id>BRB0021</id>
+    <name>Disruptive Student</name>
+    <text>{T}: Counter target spell unless its controller pays {1}.</text>
+    <flavorText>"Teferi is a problem student. Always late for class. No appreciation for constructive use of time."
+—Barrin, progress report</flavorText>
+  </item>
+  <item>
+    <id>BRB0022</id>
+    <name>Drifting Meadow</name>
+    <text>Drifting Meadow enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0023</id>
+    <name>Elvish Lyrist</name>
+    <text>{G}, {T}, Sacrifice Elvish Lyrist: Destroy target enchantment.</text>
+    <flavorText>Bring the spear of ancient briar;
+Bring the torch to light the pyre.
+Bring the one who trod our ground;
+Bring the spade to dig his mound.</flavorText>
+  </item>
+  <item>
+    <id>BRB0024</id>
+    <name>Exhume</name>
+    <text>Each player puts a creature card from his or her graveyard onto the battlefield.</text>
+    <flavorText>"Death—an outmoded concept. We sleep, and we change."
+—Sitrik, birth priest</flavorText>
+  </item>
+  <item>
+    <id>BRB0025</id>
+    <name>Fecundity</name>
+    <text>Whenever a creature is put into a graveyard from the battlefield, that creature's controller may draw a card.</text>
+    <flavorText>Life is eternal. A lifetime is ephemeral.</flavorText>
+  </item>
+  <item>
+    <id>BRB0026</id>
+    <name>Fertile Ground</name>
+    <text>Enchant land
+Whenever enchanted land is tapped for mana, its controller adds one mana of any color to his or her mana pool (in addition to the mana the land produces).</text>
+    <flavorText>The forest was too lush for the brothers to despoil—almost.</flavorText>
+  </item>
+  <item>
+    <id>BRB0027</id>
+    <name>Fire Ants</name>
+    <text>{T}: Fire Ants deals 1 damage to each other creature without flying.</text>
+    <flavorText>Visitors to Shiv fear the dragons, the goblins, or the viashino. Natives fear the ants.</flavorText>
+  </item>
+  <item>
+    <id>BRB0028</id>
+    <name>Flood</name>
+    <text>{U}{U}: Tap target creature without flying.</text>
+    <flavorText>"A dash of cool water does wonders to clear a cluttered battlefield."
+—Vibekke Ragnild, Witches and War</flavorText>
+  </item>
+  <item>
+    <id>BRB0029</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0030</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0031</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0032</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0033</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0034</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0035</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0036</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0037</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0038</id>
+    <name>Giant Growth</name>
+    <text>Target creature gets +3/+3 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0039</id>
+    <name>Gorilla Warrior</name>
+    <text>
+    </text>
+    <flavorText>They were formidable even before they learned the use of weapons.</flavorText>
+  </item>
+  <item>
+    <id>BRB0040</id>
+    <name>Healing Salve</name>
+    <text>Choose one — Target player gains 3 life; or prevent the next 3 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0041</id>
+    <name>Heat Ray</name>
+    <text>Heat Ray deals X damage to target creature.</text>
+    <flavorText>It's not known whether the Thran built the device to forge their wonders or to defend them.</flavorText>
+  </item>
+  <item>
+    <id>BRB0042</id>
+    <name>Hurricane</name>
+    <text>Hurricane deals X damage to each creature with flying and each player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0043</id>
+    <name>Infantry Veteran</name>
+    <text>{T}: Target attacking creature gets +1/+1 until end of turn.</text>
+    <flavorText>"The true dishonor for a soldier is surviving the war."
+—Telim'Tor</flavorText>
+  </item>
+  <item>
+    <id>BRB0044</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0045</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0046</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0047</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0048</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0049</id>
+    <name>Land Tax</name>
+    <text>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0050</id>
+    <name>Lhurgoyf</name>
+    <text>Lhurgoyf's power is equal to the number of creature cards in all graveyards and its toughness is equal to that number plus 1.</text>
+    <flavorText>"Ach Hans, run It's the lhurgoyf"
+—Saffi Eriksdotter, last words</flavorText>
+  </item>
+  <item>
+    <id>BRB0051</id>
+    <name>Lightning Elemental</name>
+    <text>Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+    <flavorText>A lightning elemental once killed an entire tribe of merfolk—simply by going for a swim.</flavorText>
+  </item>
+  <item>
+    <id>BRB0052</id>
+    <name>Living Death</name>
+    <text>Each player exiles all creature cards from his or her graveyard, then sacrifices all creatures he or she controls, then puts all cards he or she exiled this way onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0053</id>
+    <name>Llanowar Elves</name>
+    <text>{T}: Add {G} to your mana pool.</text>
+    <flavorText>One bone broken for every twig snapped underfoot.
+—Llanowar penalty for trespassing</flavorText>
+  </item>
+  <item>
+    <id>BRB0054</id>
+    <name>Mana Leak</name>
+    <text>Counter target spell unless its controller pays {3}.</text>
+    <flavorText>"The fatal flaw in every plan is the assumption that you know more than your enemy."
+—Volrath</flavorText>
+  </item>
+  <item>
+    <id>BRB0055</id>
+    <name>Maniacal Rage</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+2 and can't block.</text>
+    <flavorText>Only by sacrificing any semblance of defense could Gerrard best Greven.</flavorText>
+  </item>
+  <item>
+    <id>BRB0056</id>
+    <name>Man-o'-War</name>
+    <text>When Man-o'-War enters the battlefield, return target creature to its owner's hand.</text>
+    <flavorText>"Beauty to the eye does not always translate to the touch."
+—Naimah, Femeref philosopher</flavorText>
+  </item>
+  <item>
+    <id>BRB0057</id>
+    <name>Manta Riders</name>
+    <text>{U}: Manta Riders gains flying until end of turn.</text>
+    <flavorText>"Water is firmament to the finned."
+—Oracle en-Vec</flavorText>
+  </item>
+  <item>
+    <id>BRB0058</id>
+    <name>Master Decoy</name>
+    <text>{W}, {T}: Tap target creature.</text>
+    <flavorText>"A skilled decoy can throw your enemies off your trail. A master decoy can survive to do it again."
+—Gerrard of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>BRB0059</id>
+    <name>Mogg Hollows</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {R} or {G} to your mana pool. Mogg Hollows doesn't untap during your next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0060</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0061</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0062</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0063</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0064</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0065</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0066</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0067</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0068</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0069</id>
+    <name>Nekrataal</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)
+When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.</text>
+    <flavorText>"I have seen the horrors Kaervek has freed. My Betrayal is certain—but of Kaervek or of Jamuraa, I cannot say."
+—Jolrael</flavorText>
+  </item>
+  <item>
+    <id>BRB0070</id>
+    <name>Opportunity</name>
+    <text>Target player draws four cards.</text>
+    <flavorText>"He cocooned himself alone in his workshop for months. When he finally emerged, all broad grins and excited chatter, I knew he'd found his answer."
+—Barrin, master wizard</flavorText>
+  </item>
+  <item>
+    <id>BRB0071</id>
+    <name>Pacifism</name>
+    <text>Enchant creature
+Enchanted creature can't attack or block.</text>
+    <flavorText>For the first time in his life, Grakk felt a little warm and fuzzy inside.</flavorText>
+  </item>
+  <item>
+    <id>BRB0072</id>
+    <name>Pestilence</name>
+    <text>At the beginning of the end step, if no creatures are on the battlefield, sacrifice Pestilence.
+{B}: Pestilence deals 1 damage to each creature and each player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0073</id>
+    <name>Phyrexian Ghoul</name>
+    <text>Sacrifice a creature: Phyrexian Ghoul gets +2/+2 until end of turn.</text>
+    <flavorText>Phyrexia wastes nothing. Its food chain is a spiraling cycle.</flavorText>
+  </item>
+  <item>
+    <id>BRB0074</id>
+    <name>Pincher Beetles</name>
+    <text>Shroud (This creature can't be the target of spells or abilities.)</text>
+    <flavorText>"No fair Since when does a bug get ta munch on me?"
+—Squee, goblin cabin hand</flavorText>
+  </item>
+  <item>
+    <id>BRB0075</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0076</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0077</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0078</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0079</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0080</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0081</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0082</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0083</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0084</id>
+    <name>Plated Rootwalla</name>
+    <text>{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn.</text>
+    <flavorText>" . . . And the third little boar built his house out of rootwalla plates . . . ."
+—Skyshroud children's story</flavorText>
+  </item>
+  <item>
+    <id>BRB0085</id>
+    <name>Polluted Mire</name>
+    <text>Polluted Mire enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0086</id>
+    <name>Prodigal Sorcerer</name>
+    <text>{T}: Prodigal Sorcerer deals 1 damage to target creature or player.</text>
+    <flavorText>Occasionally members of the Institute of Arcane Study acquire a taste for worldly pleasures. Seldom do they have trouble finding employment.</flavorText>
+  </item>
+  <item>
+    <id>BRB0087</id>
+    <name>Raging Goblin</name>
+    <text>Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+    <flavorText>He raged at the world, at his family, at his life. But mostly he just raged.</flavorText>
+  </item>
+  <item>
+    <id>BRB0088</id>
+    <name>Ray of Command</name>
+    <text>Untap target creature an opponent controls and gain control of it until end of turn. That creature gains haste until end of turn. When you lose control of the creature, tap it.</text>
+    <flavorText>"Heel."</flavorText>
+  </item>
+  <item>
+    <id>BRB0089</id>
+    <name>Reanimate</name>
+    <text>Put target creature card from a graveyard onto the battlefield under your control. You lose life equal to its converted mana cost.</text>
+    <flavorText>"You will learn to earn death."
+—Volrath</flavorText>
+  </item>
+  <item>
+    <id>BRB0090</id>
+    <name>Remote Isle</name>
+    <text>Remote Isle enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0091</id>
+    <name>River Boa</name>
+    <text>Islandwalk
+{G}: Regenerate River Boa.</text>
+    <flavorText>"But no one heard the snake's gentle hiss for peace over the elephant's trumpeting of war."
+—Afari, Tales</flavorText>
+  </item>
+  <item>
+    <id>BRB0092</id>
+    <name>Rolling Thunder</name>
+    <text>Rolling Thunder deals X damage divided as you choose among any number of target creatures and/or players.</text>
+    <flavorText>"Such rage," thought Vhati, gazing up at the thunderhead from the Predator. "It is Greven's mind manifest."</flavorText>
+  </item>
+  <item>
+    <id>BRB0093</id>
+    <name>Sadistic Glee</name>
+    <text>Enchant creature
+Whenever a creature is put into a graveyard from the battlefield, put a +1/+1 counter on enchanted creature.</text>
+    <flavorText>"First blood isn't as important as last blood."
+—Gerrard of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>BRB0094</id>
+    <name>Sanctum Custodian</name>
+    <text>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>Serra told them to guard Urza as he healed. Five years they stood.</flavorText>
+  </item>
+  <item>
+    <id>BRB0095</id>
+    <name>Sanctum Guardian</name>
+    <text>Sacrifice Sanctum Guardian: The next time a source of your choice would deal damage to target creature or player this turn, prevent that damage.</text>
+    <flavorText>"Protect our mother in her womb."</flavorText>
+  </item>
+  <item>
+    <id>BRB0096</id>
+    <name>Sandstorm</name>
+    <text>Sandstorm deals 1 damage to each attacking creature.</text>
+    <flavorText>Even the landscape turned against Sarsour, first rising up and pelting him, then rearranging itself so he could no longer find his way.</flavorText>
+  </item>
+  <item>
+    <id>BRB0097</id>
+    <name>Scaled Wurm</name>
+    <text>
+    </text>
+    <flavorText>"Flourishing during the Ice Age, these wurms were the bane of all Kjeldorans. Their great size and ferocity made them the subject of countless nightmares—they embodied the worst of the Ice Age."
+—Kjeldor: Ice Civilization</flavorText>
+  </item>
+  <item>
+    <id>BRB0098</id>
+    <name>Scryb Sprites</name>
+    <text>Flying</text>
+    <flavorText>The only sound was the gentle clicking of the faeries' wings. Then those intruders who were still standing turned and fled. One thing was certain: they didn't think the Scryb were very funny anymore.</flavorText>
+  </item>
+  <item>
+    <id>BRB0099</id>
+    <name>Seasoned Marshal</name>
+    <text>Whenever Seasoned Marshal attacks, you may tap target creature.</text>
+    <flavorText>There are only two rules of tactics: never be without a plan, and never rely on it.</flavorText>
+  </item>
+  <item>
+    <id>BRB0100</id>
+    <name>Seeker of Skybreak</name>
+    <text>{T}: Untap target creature.</text>
+    <flavorText>"We shun them not for their dream but for their refusal to let such a noble dream die a noble death."
+—Eladamri, Lord of Leaves</flavorText>
+  </item>
+  <item>
+    <id>BRB0101</id>
+    <name>Sengir Vampire</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0102</id>
+    <name>Sewer Rats</name>
+    <text>{B}, Pay 1 life: Sewer Rats gets +1/+0 until end of turn. Activate this ability no more than three times each turn.</text>
+    <flavorText>You lie down with rats, and the rats run away.
+—Suq'Ata insult</flavorText>
+  </item>
+  <item>
+    <id>BRB0103</id>
+    <name>Shower of Sparks</name>
+    <text>Shower of Sparks deals 1 damage to target creature and 1 damage to target player.</text>
+    <flavorText>The viashino had learned how to operate the rig through trial and error—mostly error.</flavorText>
+  </item>
+  <item>
+    <id>BRB0104</id>
+    <name>Skyshroud Elite</name>
+    <text>Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.</text>
+    <flavorText>"Civilization is a conspiracy to disguise the mutilation of nature."
+—Skyshroud elite creed</flavorText>
+  </item>
+  <item>
+    <id>BRB0105</id>
+    <name>Slippery Karst</name>
+    <text>Slippery Karst enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0106</id>
+    <name>Soltari Foot Soldier</name>
+    <text>Shadow (This creature can block or be blocked by only creatures with shadow.)</text>
+    <flavorText>"Children of the Ruins, raised to be warriors, know that life begins when another speaks their names."
+—Soltari Tales of Life</flavorText>
+  </item>
+  <item>
+    <id>BRB0107</id>
+    <name>Songstitcher</name>
+    <text>{1}{W}: Prevent all combat damage that would be dealt this turn by target attacking creature with flying.</text>
+    <flavorText>The true names of birds are songs woven into their souls.</flavorText>
+  </item>
+  <item>
+    <id>BRB0108</id>
+    <name>Soul Warden</name>
+    <text>Whenever another creature enters the battlefield, you gain 1 life.</text>
+    <flavorText>Count carefully the souls and see that none are lost.
+—Vec teaching</flavorText>
+  </item>
+  <item>
+    <id>BRB0109</id>
+    <name>Spike Colony</name>
+    <text>Spike Colony enters the battlefield with four +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Colony: Put a +1/+1 counter on target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0110</id>
+    <name>Spike Feeder</name>
+    <text>Spike Feeder enters the battlefield with two +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Feeder: Put a +1/+1 counter on target creature.
+Remove a +1/+1 counter from Spike Feeder: You gain 2 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0111</id>
+    <name>Spike Weaver</name>
+    <text>Spike Weaver enters the battlefield with three +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.
+{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0112</id>
+    <name>Spike Worker</name>
+    <text>Spike Worker enters the battlefield with two +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Worker: Put a +1/+1 counter on target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0113</id>
+    <name>Steam Blast</name>
+    <text>Steam Blast deals 2 damage to each creature and each player.</text>
+    <flavorText>The viashino knew of the cracked pipes but deliberately left them unmended to bolster the rig's defenses.</flavorText>
+  </item>
+  <item>
+    <id>BRB0114</id>
+    <name>Subversion</name>
+    <text>At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.</text>
+    <flavorText>Kerrick's corrupt domain swelled like a blister on Tolaria's skin.</flavorText>
+  </item>
+  <item>
+    <id>BRB0115</id>
+    <name>Sun Clasp</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+3.
+{W}: Return enchanted creature to its owner's hand.</text>
+    <flavorText>"And darkness shall be cast from me
+For my soul resides in the Sun."
+—Femeref dirge</flavorText>
+  </item>
+  <item>
+    <id>BRB0116</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0117</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0118</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0119</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0120</id>
+    <name>Swords to Plowshares</name>
+    <text>Exile target creature. Its controller gains life equal to its power.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0121</id>
+    <name>Symbiosis</name>
+    <text>Two target creatures each get +2/+2 until end of turn.</text>
+    <flavorText>Although the elves of Argoth always considered them a nuisance, the pixies made fine allies during the war against the machines.</flavorText>
+  </item>
+  <item>
+    <id>BRB0122</id>
+    <name>Syphon Soul</name>
+    <text>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0123</id>
+    <name>Terror</name>
+    <text>Destroy target nonartifact, nonblack creature. It can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0124</id>
+    <name>Thalakos Lowlands</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {W} or {U} to your mana pool. Thalakos Lowlands doesn't untap during your next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0125</id>
+    <name>Tranquility</name>
+    <text>Destroy all enchantments.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0126</id>
+    <name>Trumpeting Armodon</name>
+    <text>{1}{G}: Target creature blocks Trumpeting Armodon this turn if able.</text>
+    <flavorText>These are its last days. But it will not go quietly.</flavorText>
+  </item>
+  <item>
+    <id>BRB0127</id>
+    <name>Unnerve</name>
+    <text>Each opponent discards two cards.</text>
+    <flavorText>"If fear is the only tool you have left, then you'll never control me."
+—Xantcha, to Gix</flavorText>
+  </item>
+  <item>
+    <id>BRB0128</id>
+    <name>Uthden Troll</name>
+    <text>{R}: Regenerate Uthden Troll.</text>
+    <flavorText>"Oi oi oi, me gotta hurt in 'ere,
+Oi oi oi, me smell a ting is near,
+Gonna bosh 'n gonna nosh
+'n da hurt'll disappear."
+—Troll chant</flavorText>
+  </item>
+  <item>
+    <id>BRB0129</id>
+    <name>Vec Townships</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {G} or {W} to your mana pool. Vec Townships doesn't untap during your next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0130</id>
+    <name>Village Elder</name>
+    <text>{G}, {T}, Sacrifice a Forest: Regenerate target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0131</id>
+    <name>Wall of Heat</name>
+    <text>Defender (This creature can't attack.)</text>
+    <flavorText>At a distance, we mistook the sound for a waterfall . . . .</flavorText>
+  </item>
+  <item>
+    <id>BRB0132</id>
+    <name>Weakness</name>
+    <text>Enchant creature
+Enchanted creature gets -2/-1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BRB0133</id>
+    <name>Wildfire Emissary</name>
+    <text>Protection from white
+{1}{R}: Wildfire Emissary gets +1/+0 until end of turn.</text>
+    <flavorText>"The efreet is a striding storm with a voice that crackles like fire."
+—Qhattib, vizier of Amiqat</flavorText>
+  </item>
+  <item>
+    <id>BRB0134</id>
+    <name>Wind Drake</name>
+    <text>Flying</text>
+    <flavorText>"No bird soars too high, if he soars with his own wings."
+—William Blake,
+The Marriage of Heaven and Hell</flavorText>
+  </item>
+  <item>
+    <id>BRB0135</id>
+    <name>Windfall</name>
+    <text>Each player discards his or her hand, then draws cards equal to the greatest number of cards a player discarded this way.</text>
+    <flavorText>"To fill your mind with knowledge, we must start by emptying it."
+—Barrin, master wizard</flavorText>
+  </item>
+  <item>
+    <id>BRB0136</id>
+    <name>Wrath of God</name>
+    <text>Destroy all creatures. They can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

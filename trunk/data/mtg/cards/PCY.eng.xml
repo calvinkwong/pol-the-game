@@ -1,0 +1,982 @@
+<cards name="Prophecy">
+  <item>
+    <id>PCY0001</id>
+    <name>Abolish</name>
+    <text>You may discard a Plains card rather than pay Abolish's mana cost.
+Destroy target artifact or enchantment.</text>
+    <flavorText>As war raged on, the young mages became more direct in their tactics, often at great cost.</flavorText>
+  </item>
+  <item>
+    <id>PCY0002</id>
+    <name>Aura Fracture</name>
+    <text>Sacrifice a land: Destroy target enchantment.</text>
+    <flavorText>Jamuraa's rhystic mages treat magic as their garden, uprooting unwanted spells as bothersome weeds.</flavorText>
+  </item>
+  <item>
+    <id>PCY0003</id>
+    <name>Avatar of Hope</name>
+    <text>If you have 3 or less life, Avatar of Hope costs {6} less to cast.
+Flying
+Avatar of Hope can block any number of creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0004</id>
+    <name>Blessed Wind</name>
+    <text>Target player's life total becomes 20.</text>
+    <flavorText>"The fourth wind of ascension is Anointer, deifying the worthy."
+—Keld Triumphant</flavorText>
+  </item>
+  <item>
+    <id>PCY0005</id>
+    <name>Celestial Convergence</name>
+    <text>Celestial Convergence enters the battlefield with seven omen counters on it.
+At the beginning of your upkeep, remove an omen counter from Celestial Convergence. If there are no omen counters on Celestial Convergence, the player with the highest life total wins the game. If two or more players are tied for highest life total, the game is a draw.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0006</id>
+    <name>Diving Griffin</name>
+    <text>Flying, vigilance</text>
+    <flavorText>To outrace the griffin
+—Kipamu expression meaning
+"to do the impossible"</flavorText>
+  </item>
+  <item>
+    <id>PCY0007</id>
+    <name>Entangler</name>
+    <text>Enchant creature
+Enchanted creature can block any number of creatures.</text>
+    <flavorText>"Tell me again," said Latulla, raising her fist, "how just one woman held back an entire Keldon platoon."</flavorText>
+  </item>
+  <item>
+    <id>PCY0008</id>
+    <name>Excise</name>
+    <text>Exile target attacking creature unless its controller pays {X}.</text>
+    <flavorText>"Creation is no great feat. Anything you make, I can unmake in a heartbeat."
+—Alexi, zephyr mage</flavorText>
+  </item>
+  <item>
+    <id>PCY0009</id>
+    <name>Flowering Field</name>
+    <text>Enchant land
+Enchanted land has "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn."</text>
+    <flavorText>Some lands are soothing, and their peace can be felt in the soul.</flavorText>
+  </item>
+  <item>
+    <id>PCY0010</id>
+    <name>Glittering Lion</name>
+    <text>Prevent all damage that would be dealt to Glittering Lion.
+{3}: Until end of turn, Glittering Lion loses "Prevent all damage that would be dealt to Glittering Lion." Any player may activate this ability.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0011</id>
+    <name>Glittering Lynx</name>
+    <text>Prevent all damage that would be dealt to Glittering Lynx.
+{2}: Until end of turn, Glittering Lynx loses "Prevent all damage that would be dealt to Glittering Lynx." Any player may activate this ability.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0012</id>
+    <name>Jeweled Spirit</name>
+    <text>Flying
+Sacrifice two lands: Jeweled Spirit gains protection from artifacts or from the color of your choice until end of turn.</text>
+    <flavorText>As he knows all the world completely, the world refuses him harm.</flavorText>
+  </item>
+  <item>
+    <id>PCY0013</id>
+    <name>Mageta the Lion</name>
+    <text>{2}{W}{W}, {T}, Discard two cards: Destroy all creatures except for Mageta the Lion. Those creatures can't be regenerated.</text>
+    <flavorText>In the jungle of war there is always a Lion.</flavorText>
+  </item>
+  <item>
+    <id>PCY0014</id>
+    <name>Mageta's Boon</name>
+    <text>Flash
+Enchant creature
+Enchanted creature gets +1/+2.</text>
+    <flavorText>When the Lion roars, his cubs grow stronger.
+—Kipamu saying</flavorText>
+  </item>
+  <item>
+    <id>PCY0015</id>
+    <name>Mercenary Informer</name>
+    <text>Mercenary Informer can't be the target of black spells or abilities from black sources.
+{2}{W}: Put target Mercenary on the bottom of its owner's library.</text>
+    <flavorText>The problem with rebels is that they so quickly reject authority.</flavorText>
+  </item>
+  <item>
+    <id>PCY0016</id>
+    <name>Mine Bearer</name>
+    <text>{T}, Sacrifice Mine Bearer: Destroy target attacking creature.</text>
+    <flavorText>"The Keldons may have explosive tempers, but I have explosives."</flavorText>
+  </item>
+  <item>
+    <id>PCY0017</id>
+    <name>Mirror Strike</name>
+    <text>All combat damage that would be dealt to you this turn by target unblocked creature is dealt to its controller instead.</text>
+    <flavorText>"Enemies can be your weapons or your shields. Simply show them which they are."
+—The Teachings of Zho</flavorText>
+  </item>
+  <item>
+    <id>PCY0018</id>
+    <name>Reveille Squad</name>
+    <text>Whenever one or more creatures attack you, if Reveille Squad is untapped, you may untap all creatures you control.</text>
+    <flavorText>"To arms To arms The Lion roars"</flavorText>
+  </item>
+  <item>
+    <id>PCY0019</id>
+    <name>Rhystic Circle</name>
+    <text>{1}: Any player may pay {1}. If no one does, the next time a source of your choice would deal damage to you this turn, prevent that damage.</text>
+    <flavorText>The circle buys time—an important commodity in battle.</flavorText>
+  </item>
+  <item>
+    <id>PCY0020</id>
+    <name>Rhystic Shield</name>
+    <text>Creatures you control get +0/+1 until end of turn. They get an additional +0/+2 until end of turn unless any player pays {2}.</text>
+    <flavorText>A shield for one is good. A shield for everyone is even better.</flavorText>
+  </item>
+  <item>
+    <id>PCY0021</id>
+    <name>Samite Sanctuary</name>
+    <text>{2}: Prevent the next 1 damage that would be dealt to target creature this turn. Any player may activate this ability.</text>
+    <flavorText>Our war is against suffering, not against those who cause it.
+—Samite creed</flavorText>
+  </item>
+  <item>
+    <id>PCY0022</id>
+    <name>Sheltering Prayers</name>
+    <text>Basic lands each player controls have shroud as long as that player controls three or fewer lands. (They can't be the targets of spells or abilities.)</text>
+    <flavorText>"It matters not if the gods hear my prayers. Jamuraa does."</flavorText>
+  </item>
+  <item>
+    <id>PCY0023</id>
+    <name>Shield Dancer</name>
+    <text>{2}{W}: The next time target attacking creature would deal combat damage to Shield Dancer this turn, that creature deals that damage to itself instead.</text>
+    <flavorText>The harder your strike, the stronger her defense.</flavorText>
+  </item>
+  <item>
+    <id>PCY0024</id>
+    <name>Soul Charmer</name>
+    <text>Whenever Soul Charmer deals combat damage to a creature, you gain 2 life unless that creature's controller pays {2}.</text>
+    <flavorText>She seeks the warmth of the living.</flavorText>
+  </item>
+  <item>
+    <id>PCY0025</id>
+    <name>Sword Dancer</name>
+    <text>{W}{W}: Target attacking creature gets -1/-0 until end of turn.</text>
+    <flavorText>Most soldiers think of the sword as a weapon. In the hands of Zho monks, swords are also the strongest of shields.</flavorText>
+  </item>
+  <item>
+    <id>PCY0026</id>
+    <name>Trenching Steed</name>
+    <text>Sacrifice a land: Trenching Steed gets +0/+3 until end of turn.</text>
+    <flavorText>The Keldons took several of the steeds as trophies of war. They'd never seen such a light beast stand so firm.</flavorText>
+  </item>
+  <item>
+    <id>PCY0027</id>
+    <name>Troubled Healer</name>
+    <text>Sacrifice a land: Prevent the next 2 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>"Which is worse: nothing to defend, or no one to defend it?"</flavorText>
+  </item>
+  <item>
+    <id>PCY0028</id>
+    <name>Alexi, Zephyr Mage</name>
+    <text>{X}{U}, {T}, Discard two cards: Return X target creatures to their owners' hands.</text>
+    <flavorText>The Keldons didn't know her name, but they still cursed her in battle.</flavorText>
+  </item>
+  <item>
+    <id>PCY0029</id>
+    <name>Alexi's Cloak</name>
+    <text>Flash
+Enchant creature
+Enchanted creature has shroud. (It can't be the target of spells or abilities.)</text>
+    <flavorText>"Doesn't look like much, does it?"
+—Alexi, zephyr mage</flavorText>
+  </item>
+  <item>
+    <id>PCY0030</id>
+    <name>Avatar of Will</name>
+    <text>If an opponent has no cards in hand, Avatar of Will costs {6} less to cast.
+Flying</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0031</id>
+    <name>Coastal Hornclaw</name>
+    <text>Sacrifice a land: Coastal Hornclaw gains flying until end of turn.</text>
+    <flavorText>Jamuraan farmers fear three things above all else: droughts, floods, and hornclaws.</flavorText>
+  </item>
+  <item>
+    <id>PCY0032</id>
+    <name>Denying Wind</name>
+    <text>Search target player's library for up to seven cards and exile them. Then that player shuffles his or her library.</text>
+    <flavorText>"The third wind of ascension is Eliminator, clearing Keld's path to victory."
+—Keld Triumphant</flavorText>
+  </item>
+  <item>
+    <id>PCY0033</id>
+    <name>Excavation</name>
+    <text>{1}, Sacrifice a land: Draw a card. Any player may activate this ability.</text>
+    <flavorText>"There are secrets out there begging to be rediscovered. We just need to look in the right places."
+—Teferi, planeswalker</flavorText>
+  </item>
+  <item>
+    <id>PCY0034</id>
+    <name>Foil</name>
+    <text>You may discard an Island card and another card rather than pay Foil's mana cost.
+Counter target spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0035</id>
+    <name>Gulf Squid</name>
+    <text>When Gulf Squid enters the battlefield, tap all lands target player controls.</text>
+    <flavorText>If it could capture the power it wastes, it would be invincible.</flavorText>
+  </item>
+  <item>
+    <id>PCY0036</id>
+    <name>Hazy Homunculus</name>
+    <text>Hazy Homunculus is unblockable as long as defending player controls an untapped land.</text>
+    <flavorText>They hide in dreams and whispers and faraway thoughts.</flavorText>
+  </item>
+  <item>
+    <id>PCY0037</id>
+    <name>Heightened Awareness</name>
+    <text>As Heightened Awareness enters the battlefield, discard your hand.
+At the beginning of your draw step, draw an additional card.</text>
+    <flavorText>"It startles me how alive one feels on the edge of death."
+—Barrin, master wizard</flavorText>
+  </item>
+  <item>
+    <id>PCY0038</id>
+    <name>Mana Vapors</name>
+    <text>Lands target player controls don't untap during his or her next untap step.</text>
+    <flavorText>The scent of magic can rob you of your senses, blinding you to the world.</flavorText>
+  </item>
+  <item>
+    <id>PCY0039</id>
+    <name>Overburden</name>
+    <text>Whenever a player puts a nontoken creature onto the battlefield, that player returns a land he or she controls to its owner's hand.</text>
+    <flavorText>The Kipamu League knew what Keld refused to acknowledge: the land could support no more.</flavorText>
+  </item>
+  <item>
+    <id>PCY0040</id>
+    <name>Psychic Theft</name>
+    <text>Target player reveals his or her hand. You choose an instant or sorcery card from it and exile that card. You may cast that card for as long as it remains exiled. At the beginning of the next end step, if you haven't cast the card, return it to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0041</id>
+    <name>Quicksilver Wall</name>
+    <text>Defender (This creature can't attack.)
+{4}: Return Quicksilver Wall to its owner's hand. Any player may activate this ability.</text>
+    <flavorText>"Ogg hit wall. Ogg no kill wall. Ogg hate wall"</flavorText>
+  </item>
+  <item>
+    <id>PCY0042</id>
+    <name>Rethink</name>
+    <text>Counter target spell unless its controller pays {X}, where X is its converted mana cost.</text>
+    <flavorText>"Are you sure you want to do that?"</flavorText>
+  </item>
+  <item>
+    <id>PCY0043</id>
+    <name>Rhystic Deluge</name>
+    <text>{U}: Tap target creature unless its controller pays {1}.</text>
+    <flavorText>"I'll rain down on you with the power of magic itself. Then we'll see who prevails."
+—Alexi, zephyr mage</flavorText>
+  </item>
+  <item>
+    <id>PCY0044</id>
+    <name>Rhystic Scrying</name>
+    <text>Draw three cards. Then, if any player pays {2}, discard three cards.</text>
+    <flavorText>"The trick is to ask when no one's listening."
+—Alexi, zephyr mage</flavorText>
+  </item>
+  <item>
+    <id>PCY0045</id>
+    <name>Rhystic Study</name>
+    <text>Whenever an opponent casts a spell, you may draw a card unless that player pays {1}.</text>
+    <flavorText>Friends teach what you want to know. Enemies teach what you need to know.</flavorText>
+  </item>
+  <item>
+    <id>PCY0046</id>
+    <name>Ribbon Snake</name>
+    <text>Flying
+{2}: Ribbon Snake loses flying until end of turn. Any player may activate this ability.</text>
+    <flavorText>All snakes slither. Only this one soars.</flavorText>
+  </item>
+  <item>
+    <id>PCY0047</id>
+    <name>Shrouded Serpent</name>
+    <text>Whenever Shrouded Serpent attacks, defending player may pay {4}. If he or she doesn't, Shrouded Serpent is unblockable this turn.</text>
+    <flavorText>Many travelers have wandered into a fog only to find that it had teeth, claws, and an appetite.</flavorText>
+  </item>
+  <item>
+    <id>PCY0048</id>
+    <name>Spiketail Drake</name>
+    <text>Flying
+Sacrifice Spiketail Drake: Counter target spell unless its controller pays {3}.</text>
+    <flavorText>"The spell will have to wait," said Alexi, pointing up. "Drakes."</flavorText>
+  </item>
+  <item>
+    <id>PCY0049</id>
+    <name>Spiketail Hatchling</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Sacrifice Spiketail Hatchling: Counter target spell unless its controller pays {1}.</text>
+    <flavorText>It dodges waves of water to prepare for waves of magic.</flavorText>
+  </item>
+  <item>
+    <id>PCY0050</id>
+    <name>Stormwatch Eagle</name>
+    <text>Flying
+Sacrifice a land: Return Stormwatch Eagle to its owner's hand.</text>
+    <flavorText>When eagles leave the sky, sailors leave the sea.</flavorText>
+  </item>
+  <item>
+    <id>PCY0051</id>
+    <name>Sunken Field</name>
+    <text>Enchant land
+Enchanted land has "{T}: Counter target spell unless its controller pays {1}."</text>
+    <flavorText>The land is heavy with promise, the harvest ripe with betrayal.</flavorText>
+  </item>
+  <item>
+    <id>PCY0052</id>
+    <name>Troublesome Spirit</name>
+    <text>Flying
+At the beginning of your end step, tap all lands you control.</text>
+    <flavorText>As erratic and turbulent as a summer squall.</flavorText>
+  </item>
+  <item>
+    <id>PCY0053</id>
+    <name>Windscouter</name>
+    <text>Flying
+Whenever Windscouter attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)</text>
+    <flavorText>These nimble ships were designed for hit-and-run tactics.</flavorText>
+  </item>
+  <item>
+    <id>PCY0054</id>
+    <name>Withdraw</name>
+    <text>Return target creature to its owner's hand. Then return another target creature to its owner's hand unless its controller pays {1}.</text>
+    <flavorText>"We outnumber them Charge Charge Hey, where'd you guys go? Retreat Retreat"</flavorText>
+  </item>
+  <item>
+    <id>PCY0055</id>
+    <name>Agent of Shauku</name>
+    <text>{1}{B}, Sacrifice a land: Target creature gets +2/+0 until end of turn.</text>
+    <flavorText>"Go ahead. Take it. You'll be so very powerful . . . and what harm can it do?"</flavorText>
+  </item>
+  <item>
+    <id>PCY0056</id>
+    <name>Avatar of Woe</name>
+    <text>If there are ten or more creature cards total in all graveyards, Avatar of Woe costs {6} less to cast.
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+{T}: Destroy target creature. It can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0057</id>
+    <name>Bog Elemental</name>
+    <text>Protection from white
+At the beginning of your upkeep, sacrifice Bog Elemental unless you sacrifice a land.</text>
+    <flavorText>"When the bog walks, the wise run."
+—Erissa, bog witch</flavorText>
+  </item>
+  <item>
+    <id>PCY0058</id>
+    <name>Bog Glider</name>
+    <text>Flying
+{T}, Sacrifice a land: Search your library for a Mercenary permanent card with converted mana cost 2 or less and put that card onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0059</id>
+    <name>Chilling Apparition</name>
+    <text>{B}: Regenerate Chilling Apparition.
+Whenever Chilling Apparition deals combat damage to a player, that player discards a card.</text>
+    <flavorText>Mortal minds shrivel at its touch.</flavorText>
+  </item>
+  <item>
+    <id>PCY0060</id>
+    <name>Coffin Puppets</name>
+    <text>Sacrifice two lands: Return Coffin Puppets from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control a Swamp.</text>
+    <flavorText>The ground won't accept them.</flavorText>
+  </item>
+  <item>
+    <id>PCY0061</id>
+    <name>Death Charmer</name>
+    <text>Whenever Death Charmer deals combat damage to a creature, that creature's controller loses 2 life unless he or she pays {2}.</text>
+    <flavorText>It vents the chill of the grave.</flavorText>
+  </item>
+  <item>
+    <id>PCY0062</id>
+    <name>Despoil</name>
+    <text>Destroy target land. Its controller loses 2 life.</text>
+    <flavorText>Nothing could grow where the vile smoke had been, and no one could breathe it and live.</flavorText>
+  </item>
+  <item>
+    <id>PCY0063</id>
+    <name>Endbringer's Revel</name>
+    <text>{4}: Return target creature card from a graveyard to its owner's hand. Any player may activate this ability but only any time he or she could cast a sorcery.</text>
+    <flavorText>First death. Then Shauku.</flavorText>
+  </item>
+  <item>
+    <id>PCY0064</id>
+    <name>Fen Stalker</name>
+    <text>Fen Stalker has fear as long as you control no untapped lands. (It can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>As silent as a shadow, and just as hard to flee.</flavorText>
+  </item>
+  <item>
+    <id>PCY0065</id>
+    <name>Flay</name>
+    <text>Target player discards a card at random. Then that player discards another card at random unless he or she pays {1}.</text>
+    <flavorText>The Keldons would never admit it, but Greel unsettles them, too.</flavorText>
+  </item>
+  <item>
+    <id>PCY0066</id>
+    <name>Greel, Mind Raker</name>
+    <text>{X}{B}, {T}, Discard two cards: Target player discards X cards at random.</text>
+    <flavorText>"You're Latulla's gift to me, and I always play with my presents."</flavorText>
+  </item>
+  <item>
+    <id>PCY0067</id>
+    <name>Greel's Caress</name>
+    <text>Flash
+Enchant creature
+Enchanted creature gets -3/-0.</text>
+    <flavorText>Greel's grin is far less loathsome than his touch.</flavorText>
+  </item>
+  <item>
+    <id>PCY0068</id>
+    <name>Infernal Genesis</name>
+    <text>At the beginning of each player's upkeep, that player puts the top card of his or her library into his or her graveyard. Then he or she puts X 1/1 black Minion creature tokens onto the battlefield, where X is that card's converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0069</id>
+    <name>Nakaya Shade</name>
+    <text>{B}: Nakaya Shade gets +1/+1 until end of turn unless any player pays {2}.</text>
+    <flavorText>Made strong by reckless magic. Made horrid by reckless strife.</flavorText>
+  </item>
+  <item>
+    <id>PCY0070</id>
+    <name>Noxious Field</name>
+    <text>Enchant land
+Enchanted land has "{T}: This land deals 1 damage to each creature and each player."</text>
+    <flavorText>Ultimately, it became a three-way battle: the land attacked both armies.</flavorText>
+  </item>
+  <item>
+    <id>PCY0071</id>
+    <name>Outbreak</name>
+    <text>You may discard a Swamp card rather than pay Outbreak's mana cost.
+Choose a creature type. All creatures of that type get -1/-1 until end of turn.</text>
+    <flavorText>This plague chooses its victims.</flavorText>
+  </item>
+  <item>
+    <id>PCY0072</id>
+    <name>Pit Raptor</name>
+    <text>Flying, first strike
+At the beginning of your upkeep, sacrifice Pit Raptor unless you pay {2}{B}{B}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0073</id>
+    <name>Plague Fiend</name>
+    <text>Whenever Plague Fiend deals combat damage to a creature, destroy that creature unless its controller pays {2}.</text>
+    <flavorText>As the strange plague ravaged Jamuraa, the fiends multiplied.</flavorText>
+  </item>
+  <item>
+    <id>PCY0074</id>
+    <name>Plague Wind</name>
+    <text>Destroy all creatures you don't control. They can't be regenerated.</text>
+    <flavorText>"The second wind of ascension is Reaver, slaying the unworthy."
+—Keld Triumphant</flavorText>
+  </item>
+  <item>
+    <id>PCY0075</id>
+    <name>Rebel Informer</name>
+    <text>Rebel Informer can't be the target of white spells or abilities from white sources.
+{3}: Put target Rebel on the bottom of its owner's library.</text>
+    <flavorText>The problem with mercenaries is that if you can buy their loyalty, others can too.</flavorText>
+  </item>
+  <item>
+    <id>PCY0076</id>
+    <name>Rhystic Syphon</name>
+    <text>Unless target player pays {3}, he or she loses 5 life and you gain 5 life.</text>
+    <flavorText>Jamuraan wizards are linked together by magic, a bond that only the wicked dare exploit.</flavorText>
+  </item>
+  <item>
+    <id>PCY0077</id>
+    <name>Rhystic Tutor</name>
+    <text>Unless any player pays {2}, search your library for a card, put that card into your hand, then shuffle your library.</text>
+    <flavorText>Any lock can be undone, any secret revealed.</flavorText>
+  </item>
+  <item>
+    <id>PCY0078</id>
+    <name>Soul Strings</name>
+    <text>Return two target creature cards from your graveyard to your hand unless any player pays {X}.</text>
+    <flavorText>Everyone is manipulated. It's just more obvious with the dead.</flavorText>
+  </item>
+  <item>
+    <id>PCY0079</id>
+    <name>Steal Strength</name>
+    <text>Target creature gets +1/+1 until end of turn. Another target creature gets -1/-1 until end of turn.</text>
+    <flavorText>With each grunt of pain from Haddad, Greel's grin widened.</flavorText>
+  </item>
+  <item>
+    <id>PCY0080</id>
+    <name>Wall of Vipers</name>
+    <text>Defender (This creature can't attack.)
+{3}: Destroy Wall of Vipers and target creature it's blocking. Any player may activate this ability.</text>
+    <flavorText>What wall can never be climbed, but is always scaled?
+—Nakaya riddle</flavorText>
+  </item>
+  <item>
+    <id>PCY0081</id>
+    <name>Whipstitched Zombie</name>
+    <text>At the beginning of your upkeep, sacrifice Whipstitched Zombie unless you pay {B}.</text>
+    <flavorText>Pity the tailor.</flavorText>
+  </item>
+  <item>
+    <id>PCY0082</id>
+    <name>Avatar of Fury</name>
+    <text>If an opponent controls seven or more lands, Avatar of Fury costs {6} less to cast.
+Flying
+{R}: Avatar of Fury gets +1/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0083</id>
+    <name>Barbed Field</name>
+    <text>Enchant land
+Enchanted land has "{T}: This land deals 1 damage to target creature or player."</text>
+    <flavorText>Wherever they went, the Keldons transformed the land into a weapon.</flavorText>
+  </item>
+  <item>
+    <id>PCY0084</id>
+    <name>Branded Brawlers</name>
+    <text>Branded Brawlers can't attack if defending player controls an untapped land.
+Branded Brawlers can't block if you control an untapped land.</text>
+    <flavorText>"The sword or the lash. Choose."
+—Akul, Keldon whip sergeant</flavorText>
+  </item>
+  <item>
+    <id>PCY0085</id>
+    <name>Brutal Suppression</name>
+    <text>Activated abilities of nontoken Rebels cost an additional "Sacrifice a land" to activate.</text>
+    <flavorText>"They no longer care about their own suffering. Show them something worse."
+—Latulla, Keldon overseer</flavorText>
+  </item>
+  <item>
+    <id>PCY0086</id>
+    <name>Citadel of Pain</name>
+    <text>At the beginning of each player's end step, Citadel of Pain deals X damage to that player, where X is the number of untapped lands he or she controls.</text>
+    <flavorText>"Battle is our religion. This fortress is our temple."
+—Latulla, Keldon overseer</flavorText>
+  </item>
+  <item>
+    <id>PCY0087</id>
+    <name>Devastate</name>
+    <text>Destroy target land. Devastate deals 1 damage to each creature and each player.</text>
+    <flavorText>"You're willing to die for your homeland. I'm willing to kill for it."
+—Latulla, Keldon overseer</flavorText>
+  </item>
+  <item>
+    <id>PCY0088</id>
+    <name>Fault Riders</name>
+    <text>Sacrifice a land: Fault Riders gets +2/+0 and gains first strike until end of turn. Activate this ability only once each turn.</text>
+    <flavorText>They turn geological upheaval into tactical advantage.</flavorText>
+  </item>
+  <item>
+    <id>PCY0089</id>
+    <name>Fickle Efreet</name>
+    <text>Whenever Fickle Efreet attacks or blocks, flip a coin at end of combat. If you lose the flip, an opponent gains control of Fickle Efreet.</text>
+    <flavorText>Flame chooses its own course.</flavorText>
+  </item>
+  <item>
+    <id>PCY0090</id>
+    <name>Flameshot</name>
+    <text>You may discard a Mountain card rather than pay Flameshot's mana cost.
+Flameshot deals 3 damage divided as you choose among one, two, or three target creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0091</id>
+    <name>Inflame</name>
+    <text>Inflame deals 2 damage to each creature dealt damage this turn.</text>
+    <flavorText>Wound, maim, kill: it's all the same to a Keldon.</flavorText>
+  </item>
+  <item>
+    <id>PCY0092</id>
+    <name>Keldon Arsonist</name>
+    <text>{1}, Sacrifice two lands: Destroy target land.</text>
+    <flavorText>"Fields can be replanted. Settlements can be rebuilt. Burn it all."
+—Latulla, Keldon overseer</flavorText>
+  </item>
+  <item>
+    <id>PCY0093</id>
+    <name>Keldon Berserker</name>
+    <text>Whenever Keldon Berserker attacks, if you control no untapped lands, it gets +3/+0 until end of turn.</text>
+    <flavorText>They fight beyond thought, beyond fear, and beyond mercy.</flavorText>
+  </item>
+  <item>
+    <id>PCY0094</id>
+    <name>Keldon Firebombers</name>
+    <text>When Keldon Firebombers enters the battlefield, each player sacrifices all lands he or she controls except for three.</text>
+    <flavorText>"If there isn't enough of Jamuraa left to stand on, I will still claim it for Keld."
+—Latulla, Keldon overseer</flavorText>
+  </item>
+  <item>
+    <id>PCY0095</id>
+    <name>Latulla, Keldon Overseer</name>
+    <text>{X}{R}, {T}, Discard two cards: Latulla, Keldon Overseer deals X damage to target creature or player.</text>
+    <flavorText>"Everything around her suffers."
+—Haddad, Kipamu soldier</flavorText>
+  </item>
+  <item>
+    <id>PCY0096</id>
+    <name>Latulla's Orders</name>
+    <text>Flash
+Enchant creature
+Whenever enchanted creature deals combat damage to defending player, you may destroy target artifact that player controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0097</id>
+    <name>Lesser Gargadon</name>
+    <text>Whenever Lesser Gargadon attacks or blocks, sacrifice a land.</text>
+    <flavorText>Trod on by a gargadon
+—Kipamu expression meaning
+"wiped out"</flavorText>
+  </item>
+  <item>
+    <id>PCY0098</id>
+    <name>Panic Attack</name>
+    <text>Up to three target creatures can't block this turn.</text>
+    <flavorText>Sometimes everyone decides to go for help at the same time.</flavorText>
+  </item>
+  <item>
+    <id>PCY0099</id>
+    <name>Rhystic Lightning</name>
+    <text>Rhystic Lightning deals 4 damage to target creature or player unless that creature's controller or that player pays {2}. If he or she does, Rhystic Lightning deals 2 damage to the creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0100</id>
+    <name>Ridgeline Rager</name>
+    <text>{R}: Ridgeline Rager gets +1/+0 until end of turn.</text>
+    <flavorText>While armies battled across Jamuraa, beasts stalked the high places looking for victims.</flavorText>
+  </item>
+  <item>
+    <id>PCY0101</id>
+    <name>Scoria Cat</name>
+    <text>Scoria Cat gets +3/+3 as long as you control no untapped lands.</text>
+    <flavorText>Like a volcano, it too can erupt without warning.</flavorText>
+  </item>
+  <item>
+    <id>PCY0102</id>
+    <name>Search for Survivors</name>
+    <text>Reorder your graveyard at random. An opponent chooses a card at random in your graveyard. If it's a creature card, put it onto the battlefield. Otherwise, exile it.</text>
+    <flavorText>There's no rest for a Keldon.</flavorText>
+  </item>
+  <item>
+    <id>PCY0103</id>
+    <name>Searing Wind</name>
+    <text>Searing Wind deals 10 damage to target creature or player.</text>
+    <flavorText>"The first wind of ascension is Forger, burning away impurity."
+—Keld Triumphant</flavorText>
+  </item>
+  <item>
+    <id>PCY0104</id>
+    <name>Spur Grappler</name>
+    <text>Spur Grappler gets +2/+1 as long as you control no untapped lands.</text>
+    <flavorText>Grapplers hunt in packs, driving their victims over steep mountain cliffs.</flavorText>
+  </item>
+  <item>
+    <id>PCY0105</id>
+    <name>Task Mage Assembly</name>
+    <text>When there are no creatures on the battlefield, sacrifice Task Mage Assembly.
+{2}: Task Mage Assembly deals 1 damage to target creature. Any player may activate this ability but only any time he or she could cast a sorcery.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0106</id>
+    <name>Veteran Brawlers</name>
+    <text>Veteran Brawlers can't attack if defending player controls an untapped land.
+Veteran Brawlers can't block if you control an untapped land.</text>
+    <flavorText>Death awaits them on both fronts.</flavorText>
+  </item>
+  <item>
+    <id>PCY0107</id>
+    <name>Whip Sergeant</name>
+    <text>{R}: Target creature gains haste until end of turn. (It can attack this turn.)</text>
+    <flavorText>Keldon soldiers learn to move faster than the whip.</flavorText>
+  </item>
+  <item>
+    <id>PCY0108</id>
+    <name>Zerapa Minotaur</name>
+    <text>First strike
+{2}: Zerapa Minotaur loses first strike until end of turn. Any player may activate this ability.</text>
+    <flavorText>There's no difference between bone and crystal when it's piercing your throat.</flavorText>
+  </item>
+  <item>
+    <id>PCY0109</id>
+    <name>Avatar of Might</name>
+    <text>If an opponent controls at least four more creatures than you, Avatar of Might costs {6} less to cast.
+Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0110</id>
+    <name>Calming Verse</name>
+    <text>Destroy all enchantments you don't control. Then, if you control an untapped land, destroy all enchantments you control.</text>
+    <flavorText>The chattering forest fell silent as the otherworldly song began.</flavorText>
+  </item>
+  <item>
+    <id>PCY0111</id>
+    <name>Darba</name>
+    <text>At the beginning of your upkeep, sacrifice Darba unless you pay {G}{G}.</text>
+    <flavorText>Legend has it the darba gave up its wings in return for an extra stomach.</flavorText>
+  </item>
+  <item>
+    <id>PCY0112</id>
+    <name>Dual Nature</name>
+    <text>Whenever a nontoken creature enters the battlefield, its controller puts a token that's a copy of that creature onto the battlefield.
+Whenever a nontoken creature leaves the battlefield, exile all tokens with the same name as that creature.
+When Dual Nature leaves the battlefield, exile all tokens put onto the battlefield with Dual Nature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0113</id>
+    <name>Elephant Resurgence</name>
+    <text>Each player puts a green Elephant creature token onto the battlefield. Those creatures have "This creature's power and toughness are each equal to the number of creature cards in its controller's graveyard."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0114</id>
+    <name>Forgotten Harvest</name>
+    <text>At the beginning of your upkeep, you may exile a land card from your graveyard. If you do, put a +1/+1 counter on target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0115</id>
+    <name>Jolrael, Empress of Beasts</name>
+    <text>{2}{G}, {T}, Discard two cards: All lands target player controls become 3/3 creatures until end of turn. They're still lands.</text>
+    <flavorText>"I need no army. I have Jamuraa."</flavorText>
+  </item>
+  <item>
+    <id>PCY0116</id>
+    <name>Jolrael's Favor</name>
+    <text>Flash
+Enchant creature
+{1}{G}: Regenerate enchanted creature.</text>
+    <flavorText>"War destroys; nature renews."
+—Jolrael, empress of beasts</flavorText>
+  </item>
+  <item>
+    <id>PCY0117</id>
+    <name>Living Terrain</name>
+    <text>Enchant land
+Enchanted land is a 5/6 green Treefolk creature that's still a land.</text>
+    <flavorText>Keldons were accustomed to rugged terrain, but they never expected it to be aggressive.</flavorText>
+  </item>
+  <item>
+    <id>PCY0118</id>
+    <name>Marsh Boa</name>
+    <text>Swampwalk</text>
+    <flavorText>Though a powerful constrictor, it prefers simply to drown its prey.</flavorText>
+  </item>
+  <item>
+    <id>PCY0119</id>
+    <name>Mungha Wurm</name>
+    <text>You can't untap more than one land during your untap step.</text>
+    <flavorText>Cities have crumbled under its weight.</flavorText>
+  </item>
+  <item>
+    <id>PCY0120</id>
+    <name>Pygmy Razorback</name>
+    <text>Trample</text>
+    <flavorText>As a rite of passage, Kipamu youths taunt razorbacks with long sticks . . . then flee.</flavorText>
+  </item>
+  <item>
+    <id>PCY0121</id>
+    <name>Rib Cage Spider</name>
+    <text>Reach (This creature can block creatures with flying.)</text>
+    <flavorText>Everything it sees it considers food—and with that many eyes, it's not liable to miss much.</flavorText>
+  </item>
+  <item>
+    <id>PCY0122</id>
+    <name>Root Cage</name>
+    <text>Mercenaries don't untap during their controllers' untap steps.</text>
+    <flavorText>The Vintara Forest welcomes its enemies with a crushing embrace.</flavorText>
+  </item>
+  <item>
+    <id>PCY0123</id>
+    <name>Silt Crawler</name>
+    <text>When Silt Crawler enters the battlefield, tap all lands you control.</text>
+    <flavorText>If they could replenish the land instead of draining it, Jamuraa would be teeming with them.</flavorText>
+  </item>
+  <item>
+    <id>PCY0124</id>
+    <name>Snag</name>
+    <text>You may discard a Forest card rather than pay Snag's mana cost.
+Prevent all combat damage that would be dealt by unblocked creatures this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0125</id>
+    <name>Spitting Spider</name>
+    <text>Reach (This creature can block creatures with flying.)
+Sacrifice a land: Spitting Spider deals 1 damage to each creature with flying.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0126</id>
+    <name>Spore Frog</name>
+    <text>Sacrifice Spore Frog: Prevent all combat damage that would be dealt this turn.</text>
+    <flavorText>The end of one life is merely the beginning of thousands more.</flavorText>
+  </item>
+  <item>
+    <id>PCY0127</id>
+    <name>Squirrel Wrangler</name>
+    <text>{1}{G}, Sacrifice a land: Put two 1/1 green Squirrel creature tokens onto the battlefield.
+{1}{G}, Sacrifice a land: Squirrel creatures get +1/+1 until end of turn.</text>
+    <flavorText>"Gnawed to death. Bad way to go."</flavorText>
+  </item>
+  <item>
+    <id>PCY0128</id>
+    <name>Thresher Beast</name>
+    <text>Whenever Thresher Beast becomes blocked, defending player sacrifices a land.</text>
+    <flavorText>It destroys everything in its path, including the path itself.</flavorText>
+  </item>
+  <item>
+    <id>PCY0129</id>
+    <name>Thrive</name>
+    <text>Put a +1/+1 counter on each of X target creatures.</text>
+    <flavorText>"We wait and watch, and as we prepare for war, we grow strong."</flavorText>
+  </item>
+  <item>
+    <id>PCY0130</id>
+    <name>Verdant Field</name>
+    <text>Enchant land
+Enchanted land has "{T}: Target creature gets +1/+1 until end of turn."</text>
+    <flavorText>Jolrael tends the land so that the land will tend the beasts.</flavorText>
+  </item>
+  <item>
+    <id>PCY0131</id>
+    <name>Vintara Elephant</name>
+    <text>Trample
+{3}: Vintara Elephant loses trample until end of turn. Any player may activate this ability.</text>
+    <flavorText>Trained with the aid of rhystic magic, they become uneasy in its absence.</flavorText>
+  </item>
+  <item>
+    <id>PCY0132</id>
+    <name>Vintara Snapper</name>
+    <text>Vintara Snapper has shroud as long as you control no untapped lands. (It can't be the target of spells or abilities.)</text>
+    <flavorText>"The snapper is still when all else moves
+And strikes when all are dozing."
+—Tales of the Vintara Forest</flavorText>
+  </item>
+  <item>
+    <id>PCY0133</id>
+    <name>Vitalizing Wind</name>
+    <text>Creatures you control get +7/+7 until end of turn.</text>
+    <flavorText>"The fifth wind of ascension is Exalter, fulfilling Keld's destiny."
+—Keld Triumphant</flavorText>
+  </item>
+  <item>
+    <id>PCY0134</id>
+    <name>Wild Might</name>
+    <text>Target creature gets +1/+1 until end of turn. That creature gets an additional +4/+4 until end of turn unless any player pays {2}.</text>
+    <flavorText>The hunted can become the fiercest hunters.</flavorText>
+  </item>
+  <item>
+    <id>PCY0135</id>
+    <name>Wing Storm</name>
+    <text>Wing Storm deals damage to each player equal to twice the number of creatures with flying that player controls.</text>
+    <flavorText>A thousand wings beating as one can choke the sky itself.</flavorText>
+  </item>
+  <item>
+    <id>PCY0136</id>
+    <name>Chimeric Idol</name>
+    <text>{0}: Tap all lands you control. Chimeric Idol becomes a 3/3 Turtle artifact creature until end of turn.</text>
+    <flavorText>After a chimeric idol attacked them, the Keldons smashed all unfamiliar statues.</flavorText>
+  </item>
+  <item>
+    <id>PCY0137</id>
+    <name>Copper-Leaf Angel</name>
+    <text>Flying
+{T}, Sacrifice X lands: Put X +1/+1 counters on Copper-Leaf Angel.</text>
+    <flavorText>"When Serra made angels, people called her a goddess. My angels are far superior to hers."
+—Latulla, Keldon overseer</flavorText>
+  </item>
+  <item>
+    <id>PCY0138</id>
+    <name>Hollow Warrior</name>
+    <text>Hollow Warrior can't attack or block unless you tap an untapped creature you control not declared as an attacking or blocking creature this turn.</text>
+    <flavorText>Though it moves like a living thing, anyone can tell it lacks a soul—not to mention mercy.</flavorText>
+  </item>
+  <item>
+    <id>PCY0139</id>
+    <name>Keldon Battlewagon</name>
+    <text>Trample
+Keldon Battlewagon can't block.
+When Keldon Battlewagon attacks, sacrifice it at end of combat.
+Tap an untapped creature you control: Keldon Battlewagon gets +X/+0 until end of turn, where X is the power of the creature tapped this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0140</id>
+    <name>Well of Discovery</name>
+    <text>At the beginning of your end step, if you control no untapped lands, draw a card.</text>
+    <flavorText>When you have given everything, then you are capable of anything.
+—Well inscription</flavorText>
+  </item>
+  <item>
+    <id>PCY0141</id>
+    <name>Well of Life</name>
+    <text>At the beginning of your end step, if you control no untapped lands, you gain 2 life.</text>
+    <flavorText>When you have given everything, then you have everything to gain.
+—Well inscription</flavorText>
+  </item>
+  <item>
+    <id>PCY0142</id>
+    <name>Rhystic Cave</name>
+    <text>{T}: Choose a color. Add one mana of that color to your mana pool unless any player pays {1}. Activate this ability only any time you could cast an instant.</text>
+    <flavorText>"All mages dip into the same well; some are just in more of a hurry."
+—Alexi, zephyr mage</flavorText>
+  </item>
+  <item>
+    <id>PCY0143</id>
+    <name>Wintermoon Mesa</name>
+    <text>Wintermoon Mesa enters the battlefield tapped.
+{T}: Add {1} to your mana pool.
+{2}, {T}, Sacrifice Wintermoon Mesa: Tap two target lands.</text>
+    <flavorText>Dark is light and day is night
+When the winter moon shines.</flavorText>
+  </item>
+</cards>

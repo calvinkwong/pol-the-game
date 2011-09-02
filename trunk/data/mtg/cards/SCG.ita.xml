@@ -1,0 +1,1119 @@
+<cards name="Flagello">
+  <item>
+    <id>SCG0001</id>
+    <name>Sentinelle Sempiterne</name>
+    <text>Difensore (Questa creatura non può attaccare)
+Volare
+Quando le Sentinelle Sempiterne bloccano, diventano un Gigante Uccello, e perdono difensore. (Non sono più un Muro. Questo effetto non ha termine.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0002</id>
+    <name>Acciaio Astrale</name>
+    <text>La creatura bersaglio prende +1/+2 fino alla fine del turno.
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0003</id>
+    <name>Lungoveggente Aviano</name>
+    <text>Volare
+Ogniqualvolta un permanente viene girato a faccia in su, metti un segnalino +1/+1 sul Lungoveggente Aviano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0004</id>
+    <name>Liberatore Aviano</name>
+    <text>Volare
+Metamorfosi {3}{W}
+Quando il Liberatore Aviano viene girato a faccia in su, la creatura bersaglio che controlli guadagna protezione da un colore a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0005</id>
+    <name>Spiritualista Daru</name>
+    <text>Ogniqualvolta una creatura Chierico che controlli diventa bersaglio di una magia o di un'abilità, prende +0/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0006</id>
+    <name>Condottiero Daru</name>
+    <text>Le magie Soldato che lanci costano {1} in meno per essere lanciate.
+Le creature Soldato che controlli prendono +1/+2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0007</id>
+    <name>Elementale dell'Alba</name>
+    <text>Volare
+Previeni tutto il danno che verrebbe inflitto all'Elementale dell'Alba.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0008</id>
+    <name>Decreto della Giustizia</name>
+    <text>Metti sul campo di battaglia X pedine creatura Angelo 4/4 bianche con volare.
+Ciclo {2}{W}
+Quando cicli il Decreto della Giustizia, puoi pagare {X}. Se lo fai, metti sul campo di battaglia X pedine creatura Soldato 1/1 bianche.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0009</id>
+    <name>Breccia Dimensionale</name>
+    <text>Esilia tutti i permanenti. Fintanto che una di quelle carte resta esiliata, all'inizio del mantenimento di ogni giocatore, quel giocatore rimette sul campo di battaglia una delle carte esiliate che possiede.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0010</id>
+    <name>Scaglie del Drago</name>
+    <text>Incanta creatura
+La creatura incantata prende +1/+2 e ha cautela (attacca senza TAPpare.)
+Quando entra sul campo di battaglia una creatura con costo di mana convertito pari o superiore a 6, puoi rimettere le Scaglie del Drago dal tuo cimitero sul campo di battaglia ad incantare quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0011</id>
+    <name>Cacciadraghi</name>
+    <text>Volare, protezione dai Draghi</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0012</id>
+    <name>Drago Eterno</name>
+    <text>Volare
+{3}{W}{W}: Riprendi in mano il Drago Eterno dal tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento.
+Ciclopianura {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0013</id>
+    <name>Profeta Esiliato</name>
+    <text>Tutti i costi di metamorfosi costano {2} addizionali.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0014</id>
+    <name>Bolla di Forza</name>
+    <text>Se sta per esserti inflitto danno, invece metti sulla Bolla di Forza altrettanti segnalini desolazione.
+Quando ci sono quattro o più segnalini desolazione sulla Bolla di Forza, sacrificala.
+All'inizio della sottofase finale, rimuovi tutti i segnalini desolazione dalla Bolla di Forza.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0015</id>
+    <name>Stratega del Fronte</name>
+    <text>Metamorfosi {W}
+Quando lo Stratega del Fronte viene girato a faccia in su, previeni tutto il danno da combattimento che le creature non Soldato infliggerebbero in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0016</id>
+    <name>Luce Dorata</name>
+    <text>Guadagni velo fino alla fine del turno (Non puoi essere bersaglio di magie o abilità.)
+Ciclo {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0017</id>
+    <name>Coscienza Sporca</name>
+    <text>Incanta creatura
+Ogniqualvolta la creatura incantata infligge danno, la Coscienza Sporca infligge altrettanto danno alla creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0018</id>
+    <name>Zelota di Karona</name>
+    <text>Metamorfosi {3}{W}{W}
+Quando lo Zelota di Karona viene girato a faccia in su, tutto il danno che gli verrebbe inflitto in questo turno viene invece inflitto a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0019</id>
+    <name>Templare Nobile</name>
+    <text>Cautela
+Ciclopianura {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0020</id>
+    <name>Pioggia di Lame</name>
+    <text>La Pioggia di Lame infligge 1 danno ad ogni creatura attaccante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0021</id>
+    <name>Recuperare</name>
+    <text>Scegli una - Guadagni 6 punti vita; oppure previeni i prossimi 6 danni che verrebbero inflitti a una creatura bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0022</id>
+    <name>La Ricompensa dei Fedeli</name>
+    <text>Un qualsiasi numero di giocatori bersaglio guadagnano ciascuno un ammontare di punti vita pari al maggiore costo di mana convertito tra i permanenti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0023</id>
+    <name>Cavaliere d'Argento</name>
+    <text>Attacco improvviso, protezione dal rosso</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0024</id>
+    <name>Scava Trappole</name>
+    <text>{2}{W}, {T}: Metti un segnalino trappola su una terra bersaglio che controlli.
+Sacrifica una terra con un segnalino trappola: Lo Scava Trappole infligge 3 danni a una creatura bersaglio senza volare che sta attaccando.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0025</id>
+    <name>Frammenti d'Ala</name>
+    <text>Il giocatore bersaglio sacrifica una creatura attaccante.
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0026</id>
+    <name>Piazza Pulita</name>
+    <text>Esilia un incantesimo bersaglio.
+Ciclo {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0027</id>
+    <name>Inquisitore Fanatico</name>
+    <text>{1}{W}: Il prossimo punto danno che verrebbe inflitto all'Inquisitore Fanatico in questo turno viene invece inflitto a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0028</id>
+    <name>Tracciarune di Aphetto</name>
+    <text>Ogniqualvolta un permanente viene girato a faccia in su, tu puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0029</id>
+    <name>Gelacervello</name>
+    <text>Il giocatore bersaglio mette nel proprio cimitero le prime tre carte del proprio grimorio.
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0030</id>
+    <name>Guardiacoste</name>
+    <text>Volare, protezione dal verde</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0031</id>
+    <name>Il Giorno dei Draghi</name>
+    <text>Quando Il Giorno dei Draghi entra nel campo di battaglia, esilia tutte le creature che controlli. Poi metti sul campo di battaglia un pari numero di pedine creatura Drago 5/5 rosse con volare.
+Quando Il Giorno dei Draghi lascia il campo di battaglia, sacrifica tutti i Draghi che controlli. Poi rimetti sul campo di battaglia sotto il tuo controllo le carte esiliate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0032</id>
+    <name>Decreto del Silenzio</name>
+    <text>Ogniqualvolta un avversario lancia una magia, neutralizza quella magia e metti un segnalino desolazione sul Decreto del Silenzio. Se ci sono tre o più segnalini desolazione sul Decreto del Silenzio, sacrificalo.
+Ciclo {4}{U}{U}
+Quando cicli il Decreto del Silenzio, puoi neutralizzare una magia bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0033</id>
+    <name>Scudo della Dispersione</name>
+    <text>Neutralizza la magia bersaglio se il suo costo di mana convertito è pari o inferiore al maggiore costo di mana convertito tra tutti i permanenti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0034</id>
+    <name>Ali del Drago</name>
+    <text>Incanta creatura
+La creatura incantata ha volare.
+Ciclo {1}{U}
+Quando una creatura con costo di mana convertito pari o superiore a 6 entra nel campo di battaglia, puoi rimettere le Ali del Drago dal tuo cimitero sul campo di battaglia ad incantare quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0035</id>
+    <name>Volti del Passato</name>
+    <text>Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, TAPpa tutte le creature STAPpate che condividono con essa un tipo di creatura, oppure STAPpa tutte le creature TAPpate che condividono con essa un tipo di creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0036</id>
+    <name>Congelato</name>
+    <text>Incanta creatura
+La creatura incantata non STAPpa durante lo STAP del proprio controllore.
+Quando viene inflitto danno alla creatura incantata, distruggila.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0037</id>
+    <name>Tocco Ostacolante</name>
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {2}.
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0038</id>
+    <name>Piani a Lungo Termine</name>
+    <text>Passa in rassegna il tuo grimorio per una carta, rimescola il tuo grimorio e metti quella carta nel grimorio come terza dalla cima.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0039</id>
+    <name>Nibbio di Mercurio</name>
+    <text>Volare
+Ogniqualvolta il Nibbio di Mercurio infligge danno da combattimento a una creatura, TAPpa quella creatura. Quella creatura non STAPpa durante il prossimo STAP del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0040</id>
+    <name>Trasformare</name>
+    <text>Metti un permanente bersaglio controllato da un avversario in cima al grimorio del suo proprietario. Quell'avversario può mettere sul campo di battaglia una carta artefatto, creatura, incantesimo o terra dalla propria mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0041</id>
+    <name>Desiderio della Mente</name>
+    <text>Rimescola il tuo grimorio. Poi esilia la prima carta del tuo grimorio. Fino alla fine del turno, puoi lanciare quella carta senza pagare il suo costo di mana. (Se c'è X nel suo costo di mana, X è 0.)
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0042</id>
+    <name>Quanar Malevolo</name>
+    <text>{3}{U}{U} : Gira il Quanar Malevolo a faccia in giù.
+Metamorfosi {1}{U}{U}
+Quando il Quanar Malevolo viene girato a faccia in su, copia un magia istantaneo o stregoneria bersaglio. Puoi scegliere nuovi bersagli per quella copia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0043</id>
+    <name>Condottiero Nebbiforme</name>
+    <text>Le magie creatura che lanci e che hanno almeno un tipo di creatura in comune con il Condottiero Nebbiforme costano {1} in meno per essere lanciate.
+{T}: Il Condottiero Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0044</id>
+    <name>Pensieri Paralleli</name>
+    <text>Quando i Pensieri Paralleli entrano nel campo di battaglia, passa in rassegna il tuo grimorio per sette carte, esiliale in una pila faccia in giù, e rimescola quella pila. Poi rimescola il tuo grimorio.
+Se stai per pescare una carta, invece puoi mettere nella tua mano la prima carta della pila che hai esiliato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0045</id>
+    <name>Aura Pemmins</name>
+    <text>Incanta creatura
+{U}: STAPpa la creatura incantata.
+{U}: La creatura incantata guadagna volare fino alla fine del turno.
+{U}: La creatura incantata guadagna velo fino alla fine del turno (Non può essere bersaglio di magie o abilità.)
+{1}: La creatura incantata prende +1/-1 o -1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0046</id>
+    <name>Iniziato della Gilda del Corvo</name>
+    <text>Metamorfosi - Il proprietario riprende in mano un Uccello che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0047</id>
+    <name>Maestro della Gilda del Corvo</name>
+    <text>Ogniqualvolta il Maestro della Gilda del Corvo infligge danno da combattimento ad un giocatore, quel giocatore esilia le prime dieci carte del suo grimorio.
+Metamorfosi {2}{U}{U}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0048</id>
+    <name>Sopravvissuto della Marea</name>
+    <text>Metamorfosi {1}{U}{U}
+Quando il Sopravvissuto della Marea viene girato a faccia in su, scarta due carte, poi pesca tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0049</id>
+    <name>Flusso di Conoscenza</name>
+    <text>Pesca un numero di carte pari al maggiore costo di mana convertito tra i permanenti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0050</id>
+    <name>Egoista Sprezzante</name>
+    <text>Metamorfosi {U}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0051</id>
+    <name>Ranger della Costa</name>
+    <text>Volare
+Cicloisola {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0052</id>
+    <name>Reprimere</name>
+    <text>Neutralizza un'abilità attivata o innescata bersaglio. (Le abilità di mana non possono essere bersagliate.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0053</id>
+    <name>Fenditura Temporale</name>
+    <text>Il proprietario riprende in mano un permanente bersaglio.
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0054</id>
+    <name>Elementale del Temporale</name>
+    <text>Volare
+{3}{U}: TAPpa tutte le creature con costituzione pari o inferiore a 2.
+{3}{U}: Tutte le altre creature perdono volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0055</id>
+    <name>Schiavo di Alaspada</name>
+    <text>Lo Schiavo di Alaspada ha volare fintanto che tu controlli un Drago. Quando un Drago entra nel campo di battaglia, puoi rimettere lo Schiavo di Alaspada dal tuo cimitero sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0056</id>
+    <name>Condizionamento della Cabala</name>
+    <text>Un qualsiasi numero di giocatori bersaglio scarta ciascuno un numero di carte pari al maggiore costo di mana convertito tra i permanenti che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0057</id>
+    <name>Interrogatore della Cabala</name>
+    <text>{X}{B},{T}: Il giocatore bersaglio rivela X carte dalla sua mano e tu scegli una di esse. Quel giocatore scarta quella carta. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0058</id>
+    <name>Richiamo del Sepolcro</name>
+    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica una creatura non Zombie.
+All'inizio della sottofase di fine turno, se non ci sono creature nel campo di battaglia, sacrifica il Richiamo del Sepolcro.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0059</id>
+    <name>Mangiacarogne</name>
+    <text>Il Mangiacarogne non può bloccare.
+Sacrifica una creatura: Metti un segnalino +1/+1 sul Mangiacarogne.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0060</id>
+    <name>Presenza Raggelante</name>
+    <text>Come costo addizionale per lanciare la Presenza Raggelante, esilia X carte creatura presenti nel tuo cimitero.
+La creatura bersaglio prende -X/-X fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0061</id>
+    <name>Stretta del Non Morto</name>
+    <text>Incanta creatura
+La creatura incantata prende +3/+3 fintanto che è uno Zombie. Altrimenti prende -3/-3.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0062</id>
+    <name>Fanghiglia Corrosiva</name>
+    <text>{2}{B}{B}: La creatura bersaglio prende -1/-1 fino alla fine del turno. Metti un segnalino +1/+1 sulla Fanghiglia Corrosiva.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0063</id>
+    <name>Poiana Atropa</name>
+    <text>Volare
+Quando la Poiana Atropa viene messa in un cimitero dal campo di battaglia, tutte le creature prendono -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0064</id>
+    <name>Decreto del Dolore</name>
+    <text>Distruggi tutte le creature. Non possono essere rigenerate. Pesca una carta per ogni creatura distrutta in questo modo.
+Ciclo {3}{B}{B}
+Quando cicli il Decreto del Dolore, tutte le creature prendono -2/-2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0065</id>
+    <name>Ombra del Drago</name>
+    <text>Incanta creatura
+La creatura incantata prende +1/+0 e ha paura.
+Quando una creatura con costo di mana convertito pari o superiore a 6 entra sul campo di battaglia, puoi rimettere l'Ombra del Drago dal tuo cimitero sul campo di battaglia per incantare quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0066</id>
+    <name>Mutazione Fatale</name>
+    <text>Incanta creatura
+Quando la creatura incantata viene girata a faccia in su, distruggila. Non può essere rigenerata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0067</id>
+    <name>Punizione Definitiva</name>
+    <text>Il giocatore bersaglio perde un ammontare di punti vita pari ai danni che gli sono già stati inflitti in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0068</id>
+    <name>Vapori Letali</name>
+    <text>Ogniqualvolta una creatura entra nel campo di battaglia, distruggila.
+{0}: Distruggi i Vapori Letali. Salta il tuo prossimo turno. Qualsiasi giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0069</id>
+    <name>Morte Persistente</name>
+    <text>Incanta creatura
+All'inizio della sottofase finale del controllore della creatura incantata, quel giocatore sacrifica la creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0070</id>
+    <name>Nefashu</name>
+    <text>Ogniqualvolta Nefashu attacca, fino a cinque creature bersaglio prendono ciascuna -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0071</id>
+    <name>Raptor Putrido</name>
+    <text>Metamorfosi-Scarta una carta Zombie.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0072</id>
+    <name>Mietere le Tombe</name>
+    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero.
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0073</id>
+    <name>Svuotacranio</name>
+    <text>Come costo addizionale per lanciare lo Svuotacranio, sacrifica una creatura.
+Pesca due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0074</id>
+    <name>Collezionista di Anime</name>
+    <text>Volare
+Ogniqualvolta una creatura alla quale il Collezionista di Anime ha inflitto danno in questo turno viene messa in un cimitero, rimetti quella carta sul campo di battaglia sotto il tuo controllo.
+Metamorfosi {B}{B}{B} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0075</id>
+    <name>Filamenti dell'Agonia</name>
+    <text>Il giocatore bersaglio perde 2 punti vita e tu guadagni 2 punti vita.
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0076</id>
+    <name>Abominio Folle</name>
+    <text>{B}: Rigenera l'Abominio Folle.
+Ciclopalude {2} ({2}, Scarta questa carta: Passa in rassegna il tuo grimorio per una carta Palude, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0077</id>
+    <name>Alleggerire</name>
+    <text>Il giocatore bersaglio scarta due carte.
+Ciclo {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0078</id>
+    <name>Condottiero Non Morto</name>
+    <text>Le magie Zombie che lanci costano {1} in meno per essere lanciate.
+Le creature Zombie che controlli prendono +2/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0079</id>
+    <name>Simbolo Impronunciabile</name>
+    <text>Paga 3 punti vita: Metti un segnalino +1/+1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0080</id>
+    <name>Morto Vendicativo</name>
+    <text>Ogniqualvolta il Morto Vendicativo o un altro Zombie viene messo in un cimitero dal campo di battaglia, ogni avversario perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0081</id>
+    <name>Tagliagole Zombie</name>
+    <text>Metamorfosi - Paga 5 punti vita</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0082</id>
+    <name>Valesk Strappaossa</name>
+    <text>Ogniqualvolta un permanente viene girato a faccia in su, il Valesk Strappaossa infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0083</id>
+    <name>Carbonizzare</name>
+    <text>Carbonizzare infligge 3 danni a una creatura o a un giocatore bersaglio. Quella creatura non può essere rigenerata in questo turno. Se la creatura viene messa in un cimitero in questo turno, invece esiliala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0084</id>
+    <name>Coguaro Dentebrace</name>
+    <text>{R}: Il Coguaro Dentebrace prende +1/+0 fino alla fine del turno.
+Ciclomontagna {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0085</id>
+    <name>Decreto dell'Annientamento</name>
+    <text>Esilia tutti gli artefatti, le creature, le terre, i cimiteri e le mani.
+Ciclo {5}{R}{R}
+Quando cicli il Decreto dell'Annientamento, distruggi tutte le terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0086</id>
+    <name>Alito del Drago</name>
+    <text>Incanta creatura
+La creatura incantata ha rapidità.
+{R}: La creatura incantata prende +1/+0 fino alla fine del turno.
+Quando una creatura con costo di mana convertito pari o superiore a 6 entra nel campo di battaglia, puoi rimettere l'Alito del Drago dal tuo cimitero sul campo di battaglia per incantare quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0087</id>
+    <name>Dracomago</name>
+    <text>Volare
+Ogniqualvolta il Dracomago infligge danno da combattimento ad un giocatore, ogni giocatore scarta la sua mano e pesca sette carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0088</id>
+    <name>Dragotiranno</name>
+    <text>Volare, travolgere
+Doppio attacco
+All'inizio del tuo mantenimento, sacrifica il Dragotiranno a meno che tu paghi {R}{R}{R}{R}.
+{R}: Il Dragotiranno prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0089</id>
+    <name>Sciamano Dracofono</name>
+    <text>Le magie Drago che lanci costano {2} in meno per essere lanciate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0090</id>
+    <name>Dracotempesta</name>
+    <text>Passa in rassegna il tuo grimorio per una carta permanente Drago e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.
+Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in questo turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0091</id>
+    <name>Infuriare</name>
+    <text>La creatura bersaglio prende +X/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0092</id>
+    <name>Braccia Extra</name>
+    <text>Incanta creatura
+Ogniqualvolta la creatura incantata attacca, infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0093</id>
+    <name>Forma del Drago</name>
+    <text>All'inizio del tuo mantenimento, la Forma del Drago infligge 5 danni a una creatura o a un giocatore bersaglio.
+All'inizio della sottofase finale, il totale dei tuoi punti vita diventa 5.
+Le creature senza volare non possono attaccarti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0094</id>
+    <name>Brigante Goblin</name>
+    <text>Il Brigante Goblin attacca in ogni turno, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0095</id>
+    <name>Goblin Psicopatico</name>
+    <text>Ogniqualvolta il Goblin Psicopatico attacca o blocca, lancia una moneta. Se perdi il lancio, la prossima volta che dovrebbe infliggere danno da combattimento in questo turno, invece infligge a te quel danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0096</id>
+    <name>Offensiva dei Goblin</name>
+    <text>L'Offensiva dei Goblin infligge a un giocatore bersaglio un danno pari al numero di Goblin che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0097</id>
+    <name>Condottiero Goblin</name>
+    <text>Le magie Goblin che lanci costano {1} in meno per essere lanciate.
+Le creature Goblin che tu controlli hanno rapidità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0098</id>
+    <name>Stretta del Caos</name>
+    <text>Ogniqualvolta una magia o un'abilità viene messa nella pila, se ha un unico bersaglio, ridetermina a caso il suo bersaglio. (Scegli tra tutti i bersagli legali).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0099</id>
+    <name>Rabbia Fuorviata</name>
+    <text>Il giocatore bersaglio sacrifica un permanente.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0100</id>
+    <name>Colonna di Fuoco</name>
+    <text>Ogniqualvolta un giocatore lancia una magia con costo di mana convertito pari o inferiore a 3, la Colonna di Fuoco infligge 2 danni a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0101</id>
+    <name>Cavalca Rocce</name>
+    <text>Non puoi lanciare il Cavalca Rocce se hai giocato una terra in questo turno.
+Non puoi giocare terre se hai lanciato il Cavalca Rocce in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0102</id>
+    <name>Colpo Frantumante</name>
+    <text>Il Colpo Frantumante infligge 1 danno a una creatura bersaglio.
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0103</id>
+    <name>Capo della Squadra di Assedio</name>
+    <text>Quando il Capo della Squadra di Assedio entra nel campo di battaglia, metti sul campo di battaglia tre pedine creatura Goblin 1/1 rosse.
+{1}{R}, Sacrifica un Goblin: Il Capo della Squadra di Assedio infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0104</id>
+    <name>Vulcanologo di Skirk</name>
+    <text>Metamorfosi-Sacrifica due Montagne.
+Quando il Vulcanologo di Skirk viene girato a faccia in su, infligge 3 danni divisi a tua scelta tra un qualsiasi numero di creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0105</id>
+    <name>Spruzzo di Scintille</name>
+    <text>Lo Spruzzo di Scintille infligge 1 danno a una creatura o a un giocatore bersaglio.
+Ciclo {R}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0106</id>
+    <name>Vortice Sulfureo</name>
+    <text>All'inizio del mantenimento di ogni giocatore, il Vortice Sulfureo infligge 2 danni a quel giocatore.
+Se un giocatore sta per guadagnare punti vita, invece quel giocatore non guadagna alcun punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0107</id>
+    <name>Torrente di Fuoco</name>
+    <text>Il Torrente di Fuoco infligge a una creatura o a un giocatore bersaglio un danno pari al più alto costo di mana convertito tra i permanenti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0108</id>
+    <name>Infestazione Incontrollata</name>
+    <text>Incanta terra non base.
+Quando la terra incantata diventa TAPpata, distruggila.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0109</id>
+    <name>Mutazione Accelerata</name>
+    <text>Una creatura bersaglio prende +X/+X fino alla fine del turno, dove X è il maggiore costo di mana convertito tra i permanenti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0110</id>
+    <name>Esemplare Alpha</name>
+    <text>Incanta creatura
+La creatura incantata prende +2/+2 per ogni altra creatura sul campo di battaglia che condivide un tipo di creatura con essa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0111</id>
+    <name>Capo Imboscata</name>
+    <text>Le Foreste che tu controlli sono creature Elfo 1/1 verdi che sono ancora terre.
+{1}{G}, Sacrifica un Elfo: La creatura bersaglio prende +3/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0112</id>
+    <name>Melma Antica</name>
+    <text>La forza e la costituzione della Melma Antica sono ciascuna pari al costo di mana convertito totale delle altre creature che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0113</id>
+    <name>Fare a Pezzi</name>
+    <text>Distruggi un artefatto o un incantesimo bersaglio.
+Ciclo {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0114</id>
+    <name>Artigli di Boscocavo</name>
+    <text>Gli Artigli di Boscocavo infliggono 3 danni ad ogni creatura con volare e ad ogni giocatore.
+Ciclo {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0115</id>
+    <name>Decreto della Ferocia</name>
+    <text>Metti quattro segnalini +1/+1 su ogni creatura che controlli.
+Ciclo {4}{G}{G}
+Quando cicli il Decreto della Ferocia, puoi mettere quattro segnalini +1/+1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0116</id>
+    <name>Crescita Divergente</name>
+    <text>Fino alla fine del turno, le terre che controlli guadagnano "{T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0117</id>
+    <name>Fauci del Drago</name>
+    <text>Incanta creatura
+La creatura incantata prende +1/+1 e ha travolgere.
+Quando una creatura con costo di mana convertito pari o superiore a 6 entra sul campo di battaglia, puoi rimettere le Fauci del Drago dal tuo cimitero sul campo di battaglia per incantare quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0118</id>
+    <name>Aberrazione Elfica</name>
+    <text>{T}: Aggiungi {G}{G}{G} alla tua riserva di mana.
+Cicloforesta {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0119</id>
+    <name>Empatico Spietato</name>
+    <text>Quando l'Empatico Spietato entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio, scegliere una carta creatura con costo di mana convertito pari o superiore a 6, rivelarla e aggiungerla alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0120</id>
+    <name>Antico Dimenticato</name>
+    <text>Ogniqualvolta un giocatore lancia una magia, puoi mettere un segnalino +1/+1 sull'Antico Dimenticato.
+All'inizio del tuo mantenimento, puoi spostare un qualsiasi numero dei segnalini +1/+1 dall'Antico Dimenticato ad altre creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0121</id>
+    <name>Muta da Caccia</name>
+    <text>Metti sul campo di battaglia una pedina creatura Bestia 4/4 verde.
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0122</id>
+    <name>Mandriano di Krosa</name>
+    <text>Le magie creatura che lanci con costo di mana convertito pari o superiore a 6 costano {2} in meno per essere lanciate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0123</id>
+    <name>Condottiero di Krosa</name>
+    <text>Le magie Bestia che lanci costano {1} in meno per essere lanciate.
+{1}{G} : Rigenera una Bestia bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0124</id>
+    <name>Curgadonte</name>
+    <text>Ogniqualvolta lanci una magia creatura con costo di mana convertito pari o superiore a 6, metti tre segnalini +1/+1 sul Curgadonte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0125</id>
+    <name>Tutt'uno con la Natura</name>
+    <text>Incanta creatura
+Ogniqualvolta la creatura incantata infligge danno da combattimento ad un giocatore, puoi passare in rassegna il tuo grimorio per una carta terra base, metterla nel campo di battaglia TAPpata, poi rimescolare il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0126</id>
+    <name>Incisioni Primitive</name>
+    <text>Rivela la prima carta che peschi in ogni turno. Ogniqualvolta riveli in questo modo una carta creatura, peschi una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0127</id>
+    <name>Elementale della Radice</name>
+    <text>Metamorfosi {5}{G}{G}
+Quando l'Elementale della Radice viene girato a faccia in su, puoi mettere sul campo di battaglia una carta creatura dalla tua mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0128</id>
+    <name>Viticci Germoglianti</name>
+    <text>Passa in rassegna il tuo grimorio per una carta terra base, rivela quella carta, e aggiungila alla tua mano. Poi rimescola il tuo grimorio.
+Tempesta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0129</id>
+    <name>Torobue Titanico</name>
+    <text>Travolgere
+Metamorfosi {4}{G}{G}{G}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0130</id>
+    <name>Scout Arboricolo</name>
+    <text>Lo Scout Arboricolo non può essere bloccato tranne che da creature con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0131</id>
+    <name>Innalzare</name>
+    <text>Le riserve di mana non si svuotano alla fine delle sottofasi, delle fasi, o dei turni.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0132</id>
+    <name>Guardiano di Boscocavo</name>
+    <text>Cicloforesta {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0133</id>
+    <name>Simbionte di Boscocavo</name>
+    <text>Il proprietario riprende in mano un Elfo che tu controlli: STAPpa la creatura bersaglio. Attiva questa abilità soltanto una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0134</id>
+    <name>Mantobosco</name>
+    <text>Metamorfosi {2}{G}{G}
+Quando il Mantobosco viene girato a faccia in su, una creatura bersaglio guadagna travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0135</id>
+    <name>Sciame Xantide</name>
+    <text>Volare
+Ogniqualvolta lo Sciame Xantide attacca, il giocatore in difesa non può lanciare magie in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0136</id>
+    <name>Alaspada il Risorto</name>
+    <text>Volare
+Quando Alaspada il Risorto entra nel campo di battaglia, puoi rimettere una carta permanente Drago bersaglio dal tuo cimitero sul campo di battaglia.
+{B}{R}: Le creature Drago prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0137</id>
+    <name>Calcalimiti</name>
+    <text>Le magie Chierico che lanci costano {W}{B} in meno per essere lanciate. Questo effetto riduce solo l'ammontare di mana colorato da pagare (per esempio, se lanci un Chierico con un costo di mana pari a {1}{W}, costa {1} per essere lanciato).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0138</id>
+    <name>Karona, Dea Fasulla</name>
+    <text>Rapidità
+All'inizio del mantenimento di ogni giocatore, quel giocatore STAPpa Karona, Dea Fasulla e ne prende il controllo.
+Ogniqualvolta Karona, Dea Fasulla attacca, le creature di un tipo a tua scelta prendono +3/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0139</id>
+    <name>Signore Supremo dei Tramutanti</name>
+    <text>{3}: Passa in rassegna il tuo grimorio per una carta Tramutante, rivelala, e aggiungila alla tua mano. Poi rimescola il tuo grimorio.
+{3}: Prendi il controllo del Tramutante bersaglio. (Questo effetto non ha termine.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0140</id>
+    <name>Arca della Devastazione</name>
+    <text>{3}, {T}, Sacrifica l'Arca della Devastazione: Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0141</id>
+    <name>Macchina Proteus</name>
+    <text>Metamorfosi {0}
+Quando la Macchina Proteus viene girata a faccia in su, diventa di un tipo di creatura a tua scelta (Questo effetto non ha termine).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0142</id>
+    <name>Stabilizzatore</name>
+    <text>I giocatori non posso usare l'abilità ciclo delle carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SCG0143</id>
+    <name>Tempio della Dea Fasulla</name>
+    <text>{T}: Aggiungi {2} alla tua riserva di mana. Attiva questa abilità solo se controlli cinque o più terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

@@ -1,0 +1,687 @@
+<cards name="Antiquities">
+  <item>
+    <id>ATQ0001</id>
+    <name>Amulet of Kroog</name>
+    <text>{2}, {T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>Among the first allies Urza gained were the people of Kroog. As a sign of friendship, Urza gave the healers of the city potent amulets; afterwards, thousands journeyed to Kroog in hope of healing, greatly adding to the city's glory.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0002</id>
+    <name>Argivian Archaeologist</name>
+    <text>{W}{W}, {T}: Return target artifact card from your graveyard to your hand.</text>
+    <flavorText>Fascinated by the lore of ancient struggles, the Archaeologist searches incessantly for remnants of an earlier, more powerful era.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0003</id>
+    <name>Argivian Blacksmith</name>
+    <text>{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.</text>
+    <flavorText>Through years of study and training, the Blacksmiths of Argive became adept at reassembling the mangled remains of the strange, mechanical creatures abounding in their native land.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0004</id>
+    <name>Argothian Pixies</name>
+    <text>Argothian Pixies can't be blocked by artifact creatures.
+Prevent all damage that would be dealt to Argothian Pixies by artifact creatures.</text>
+    <flavorText>After the rape of Argoth Forest during the rule of the artificers, the Pixies of Argoth bent their magic to more practical ends.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0005</id>
+    <name>Argothian Treefolk</name>
+    <text>Prevent all damage that would be dealt to Argothian Treefolk by artifacts.</text>
+    <flavorText>Haunting cries we hear in our dreams
+As the forest dies, a death from
+machines.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0006</id>
+    <name>Armageddon Clock</name>
+    <text>At the beginning of your upkeep, put a doom counter on Armageddon Clock.
+At the beginning of your draw step, Armageddon Clock deals damage to each player equal to the number of doom counters on it.
+{4}: Remove a doom counter from Armageddon Clock. Any player may activate this ability but only during any upkeep step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0007</id>
+    <name>Artifact Blast</name>
+    <text>Counter target artifact spell.</text>
+    <flavorText>The first line of defense against Urza and Mishra, the Artifact Blast achieved widespread fame until an unlucky mage discovered it was useless on the devices the brothers had already created.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0008</id>
+    <name>Artifact Possession</name>
+    <text>Enchant artifact
+Whenever enchanted artifact becomes tapped or a player activates an ability of enchanted artifact without {T} in its activation cost, Artifact Possession deals 2 damage to that artifact's controller.</text>
+    <flavorText>Any black mage could coax a Thraxodemon to inhabit a magical device.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0009</id>
+    <name>Artifact Ward</name>
+    <text>Enchant creature
+Enchanted creature has protection from artifacts. This effect doesn't remove Artifact Ward.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0010</id>
+    <name>Ashnod's Altar</name>
+    <text>Sacrifice a creature: Add {2} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0011</id>
+    <name>Ashnod's Battle Gear</name>
+    <text>You may choose not to untap Ashnod's Battle Gear during your untap step.
+{2}, {T}: Target creature you control gets +2/-2 for as long as Ashnod's Battle Gear remains tapped.</text>
+    <flavorText>This horrid invention clearly illustrates why Mishra's lieutenant was feared as much by her troops as by her foes.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0012</id>
+    <name>Ashnod's Transmogrant</name>
+    <text>{T}, Sacrifice Ashnod's Transmogrant: Put a +1/+1 counter on target nonartifact creature. That creature becomes an artifact in addition to its other types.</text>
+    <flavorText>Ashnod found few willing to trade their humanity for the power she offered them.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0013</id>
+    <name>Atog</name>
+    <text>Sacrifice an artifact: Atog gets +2/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0014</id>
+    <name>Battering Ram</name>
+    <text>At the beginning of combat on your turn, Battering Ram gains banding until end of combat. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's blocking.)
+Whenever Battering Ram becomes blocked by a Wall, destroy that Wall at end of combat.</text>
+    <flavorText>By the time Mishra was defeated, no mage was foolish enough to rely heavily on walls.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0015</id>
+    <name>Bronze Tablet</name>
+    <text>Remove Bronze Tablet from your deck before playing if you're not playing for ante.
+Bronze Tablet enters the battlefield tapped.
+{4}, {T}: Exile Bronze Tablet and target nontoken permanent an opponent owns. That player may pay 10 life. If he or she does, put Bronze Tablet into its owner's graveyard. Otherwise, that player owns Bronze Tablet and you own the other exiled card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0016</id>
+    <name>Candelabra of Tawnos</name>
+    <text>{X}, {T}: Untap X target lands.</text>
+    <flavorText>Tawnos learned quickly from Urza that utter simplicity often led to wondrous, yet subtle utility.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0017</id>
+    <name>Circle of Protection: Artifacts</name>
+    <text>{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0018</id>
+    <name>Citanul Druid</name>
+    <text>Whenever an opponent casts an artifact spell, put a +1/+1 counter on Citanul Druid.</text>
+    <flavorText>Driven mad by the fall of Argoth, the Citanul Druids found peace only in battle.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0019</id>
+    <name>Clay Statue</name>
+    <text>{2}: Regenerate Clay Statue.</text>
+    <flavorText>Tawnos won fame as Urza's greatest assistant. After he created these warriors, Urza ended his apprenticeship, promoting him directly to the rank of master.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0020</id>
+    <name>Clockwork Avian</name>
+    <text>Flying
+Clockwork Avian enters the battlefield with four +1/+0 counters on it.
+At end of combat, if Clockwork Avian attacked or blocked this combat, remove a +1/+0 counter from it.
+{X}, {T}: Put up to X +1/+0 counters on Clockwork Avian. This ability can't cause the total number of +1/+0 counters on Clockwork Avian to be greater than four. Activate this ability only during your upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0021</id>
+    <name>Colossus of Sardia</name>
+    <text>Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Colossus of Sardia doesn't untap during your untap step.
+{9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.</text>
+    <flavorText>From the Sardian mountains wakes ancient doom:
+Warrior born from a rocky womb.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0022</id>
+    <name>Coral Helm</name>
+    <text>{3}, Discard a card at random: Target creature gets +2/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0023</id>
+    <name>Crumble</name>
+    <text>Destroy target artifact. It can't be regenerated. That artifact's controller gains life equal to its converted mana cost.</text>
+    <flavorText>The spirits of Argoth grant new life to those who repent the folly of enslaving their labors to devices.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0024</id>
+    <name>Cursed Rack</name>
+    <text>As Cursed Rack enters the battlefield, choose an opponent.
+The chosen player's maximum hand size is four.</text>
+    <flavorText>Ashnod invented several torture techniques that could make victims even miles away beg for mercy as if the End had come.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0025</id>
+    <name>Damping Field</name>
+    <text>Players can't untap more than one artifact during their untap steps.</text>
+    <flavorText>Eventually, mages learned to harness the power of natural damping fields and use it for their own ends.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0026</id>
+    <name>Detonate</name>
+    <text>Destroy target artifact with converted mana cost X. It can't be regenerated. Detonate deals X damage to that artifact's controller.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0027</id>
+    <name>Drafna's Restoration</name>
+    <text>Return any number of target artifact cards from target player's graveyard to the top of his or her library in any order.</text>
+    <flavorText>Drafna, founder of the College of Lat-Nam, could create a working model from even the smallest remnants of a newly unearthed artifact.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0028</id>
+    <name>Dragon Engine</name>
+    <text>{2}: Dragon Engine gets +1/+0 until end of turn.</text>
+    <flavorText>Those who believed the city of Kroog would never fall to Mishra's forces severely underestimated the might of his war machines.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0029</id>
+    <name>Dwarven Weaponsmith</name>
+    <text>{T}, Sacrifice an artifact: Put a +1/+1 counter on target creature. Activate this ability only during your upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0030</id>
+    <name>Energy Flux</name>
+    <text>All artifacts have "At the beginning of your upkeep, sacrifice this artifact unless you pay {2}."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0031</id>
+    <name>Feldon's Cane</name>
+    <text>{T}, Exile Feldon's Cane: Shuffle your graveyard into your library.</text>
+    <flavorText>Feldon found the first of these canes frozen in the Ronom Glacier</flavorText>
+  </item>
+  <item>
+    <id>ATQ0032</id>
+    <name>Gaea's Avenger</name>
+    <text>Gaea's Avenger's power and toughness are each equal to 1 plus the number of artifacts your opponents control.</text>
+    <flavorText>After the destruction of Argoth, Gaea was willing to instill a portion of her own powers into some of her more vengeful followers.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0033</id>
+    <name>Gate to Phyrexia</name>
+    <text>Sacrifice a creature: Destroy target artifact. Activate this ability only during your upkeep and only once each turn.</text>
+    <flavorText>"The warm rain of grease on my face immediately made it clear I had entered Phyrexia."Jarsyl, Diary</flavorText>
+  </item>
+  <item>
+    <id>ATQ0034</id>
+    <name>Goblin Artisans</name>
+    <text>{T}: Flip a coin. If you win the flip, draw a card. If you lose the flip, counter target artifact spell you control that isn't the target of an ability from another creature named Goblin Artisans.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0035</id>
+    <name>Golgothian Sylex</name>
+    <text>{1}, {T}: Each nontoken permanent from the Antiquities expansion is sacrificed by its controller.</text>
+    <flavorText>From their earliest educations, the brothers had known that no human contrivance could stand against the true masters of Dominia.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0036</id>
+    <name>Grapeshot Catapult</name>
+    <text>{T}: Grapeshot Catapult deals 1 damage to target creature with flying.</text>
+    <flavorText>For years scholars debated whether these were Urza's or Mishra's creations. Recent research suggests they were invented by the brothers' original master, Tocasia, and that both used these devices.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0037</id>
+    <name>Haunting Wind</name>
+    <text>Whenever an artifact becomes tapped or a player activates an artifact's ability without {T} in its activation cost, Haunting Wind deals 1 damage to that artifact's controller.</text>
+    <flavorText>These devices lured so many spirits that sometimes entire battlefields would become haunted at once.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0038</id>
+    <name>Hurkyl's Recall</name>
+    <text>Return all artifacts target player owns to his or her hand.</text>
+    <flavorText>This spell, attributed to Drafna, was actually the work of his wife Hurkyl.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0039</id>
+    <name>Ivory Tower</name>
+    <text>At the beginning of your upkeep, you gain X life, where X is the number of cards in your hand minus four.</text>
+    <flavorText>Valuing scholarship above all else, the inhabitants of the Ivory Tower reward those who sacrifice power for knowledge.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0040</id>
+    <name>Jalum Tome</name>
+    <text>{2}, {T}: Draw a card, then discard a card.</text>
+    <flavorText>This timeworn relic was responsible for many of Urza's victories, though he never fully comprehended its mystical runes.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0041</id>
+    <name>Martyrs of Korlis</name>
+    <text>As long as Martyrs of Korlis is untapped, all damage that would be dealt to you by artifacts is dealt to Martyrs of Korlis instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0042</id>
+    <name>Mightstone</name>
+    <text>Attacking creatures get +1/+0.</text>
+    <flavorText>While exploring the sacred cave of Koilos with his brother Mishra and their master Tocasia, Urza fell behind in the Hall of Tagsin, where he discovered the remarkable Mightstone.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0043</id>
+    <name>Millstone</name>
+    <text>{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.</text>
+    <flavorText>More than one mage was driven insane by the sound of the Millstone relentlessly grinding away.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0044</id>
+    <name>Mishra's Factory</name>
+    <text>{T}: Add {1} to your mana pool.
+{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0045</id>
+    <name>Mishra's Factory</name>
+    <text>{T}: Add {1} to your mana pool.
+{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0046</id>
+    <name>Mishra's Factory</name>
+    <text>{T}: Add {1} to your mana pool.
+{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0047</id>
+    <name>Mishra's Factory</name>
+    <text>{T}: Add {1} to your mana pool.
+{1}: Mishra's Factory becomes a 2/2 Assembly-Worker artifact creature until end of turn. It's still a land.
+{T}: Target Assembly-Worker creature gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0048</id>
+    <name>Mishra's War Machine</name>
+    <text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+At the beginning of your upkeep, unless you discard a card, tap Mishra's War Machine and it deals 3 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0049</id>
+    <name>Mishra's Workshop</name>
+    <text>{T}: Add {3} to your mana pool. Spend this mana only to cast artifact spells.</text>
+    <flavorText>Though he eventually came to despise Tocasia, Mishra listened well to her lessons on clarity of purpose. Unlike his brother, he focused his mind on a single goal.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0050</id>
+    <name>Obelisk of Undoing</name>
+    <text>{6}, {T}: Return target permanent you own and control to your hand.</text>
+    <flavorText>The Battle of Tomakul taught Urza not to rely on fickle reinforcements.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0051</id>
+    <name>Onulet</name>
+    <text>When Onulet is put into a graveyard from the battlefield, you gain 2 life.</text>
+    <flavorText>An early inspiration for Urza, Tocasia's Onulets contained magical essences that could be cannibalized after they stopped functioning.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0052</id>
+    <name>Orcish Mechanics</name>
+    <text>{T}, Sacrifice an artifact: Orcish Mechanics deals 2 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0053</id>
+    <name>Ornithopter</name>
+    <text>Flying</text>
+    <flavorText>Many scholars believe that these creatures were the result of Urza's first attempt at mechanical life, perhaps created in his early days as an apprentice to Tocasia.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0054</id>
+    <name>Phyrexian Gremlins</name>
+    <text>You may choose not to untap Phyrexian Gremlins during your untap step.
+{T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Phyrexian Gremlins remains tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0055</id>
+    <name>Power Artifact</name>
+    <text>Enchant artifact
+Enchanted artifact's activated abilities cost {2} less to activate. This effect can't reduce the amount of mana an ability costs to activate to less than one mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0056</id>
+    <name>Powerleech</name>
+    <text>Whenever an artifact an opponent controls becomes tapped or an opponent activates an artifact's ability without {T} in its activation cost, you gain 1 life.</text>
+    <flavorText>The Forest of Argoth has developed a resistance to mechanical intrusion.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0057</id>
+    <name>Priest of Yawgmoth</name>
+    <text>{T}, Sacrifice an artifact: Add to your mana pool an amount of black mana equal to the sacrificed artifact's converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0058</id>
+    <name>Primal Clay</name>
+    <text>As Primal Clay enters the battlefield, it becomes your choice of a 3/3 artifact creature, a 2/2 artifact creature with flying, or a 1/6 Shapeshifter Wall artifact creature with defender.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0059</id>
+    <name>Rakalite</name>
+    <text>{2}: Prevent the next 1 damage that would be dealt to target creature or player this turn. Return Rakalite to its owner's hand at the beginning of the next end step.</text>
+    <flavorText>Urza was the first to understand that the war would not be lost for lack of power, but for lack of troops.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0060</id>
+    <name>Reconstruction</name>
+    <text>Return target artifact card from your graveyard to your hand.</text>
+    <flavorText>Tedious research made the Sages of the College of Lat-Nam adept in repairing broken artifacts.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0061</id>
+    <name>Reverse Polarity</name>
+    <text>You gain X life, where X is twice the damage dealt to you so far this turn by artifacts.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0062</id>
+    <name>Rocket Launcher</name>
+    <text>{2}: Rocket Launcher deals 1 damage to target creature or player. Destroy Rocket Launcher at the beginning of the next end step. Activate this ability only if you've controlled Rocket Launcher continuously since the beginning of your most recent turn.</text>
+    <flavorText>What these devices lacked in subtlety, they made up in strength.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0063</id>
+    <name>Sage of Lat-Nam</name>
+    <text>{T}, Sacrifice an artifact: Draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0064</id>
+    <name>Shapeshifter</name>
+    <text>As Shapeshifter enters the battlefield, choose a number between 0 and 7.
+At the beginning of your upkeep, you may choose a number between 0 and 7.
+Shapeshifter's power is equal to the last chosen number and its toughness is equal to 7 minus that number.</text>
+    <flavorText>Born like a Phoenix from the Flame,
+But neither Bulk nor Shape the same.
+—Jonathan Swift, "Vanbrug's House"</flavorText>
+  </item>
+  <item>
+    <id>ATQ0065</id>
+    <name>Shatterstorm</name>
+    <text>Destroy all artifacts. They can't be regenerated.</text>
+    <flavorText>Chains of leaping fire and sizzling lightning laid waste the artificers' handiwork, sparing not a single device.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0066</id>
+    <name>Staff of Zegon</name>
+    <text>{3}, {T}: Target creature gets -2/-0 until end of turn.</text>
+    <flavorText>Though Mishra was impressed by the staves Ashnod had created for Zegon's defense, he understood they only hinted at her full potential.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0067</id>
+    <name>Strip Mine</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{T}, Sacrifice Strip Mine: Destroy target land.</text>
+    <flavorText>Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0068</id>
+    <name>Strip Mine</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{T}, Sacrifice Strip Mine: Destroy target land.</text>
+    <flavorText>Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0069</id>
+    <name>Strip Mine</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{T}, Sacrifice Strip Mine: Destroy target land.</text>
+    <flavorText>Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0070</id>
+    <name>Strip Mine</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{T}, Sacrifice Strip Mine: Destroy target land.</text>
+    <flavorText>Unlike previous conflicts, the war between Urza and Mishra made Dominia itself a casualty of war.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0071</id>
+    <name>Su-Chi</name>
+    <text>When Su-Chi is put into a graveyard from the battlefield, add {4} to your mana pool.</text>
+    <flavorText>Flawed copies of relics from the Thran Empire, the Su-Chi were inherently unstable but provided useful knowledge for Tocasia's students.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0072</id>
+    <name>Tablet of Epityr</name>
+    <text>Whenever an artifact you control is put into a graveyard from the battlefield, you may pay {1}. If you do, you gain 1 life.</text>
+    <flavorText>Originally considered the work of Urza, this tablet was created by forgers seeking to imitate Urza's masterpieces.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0073</id>
+    <name>Tawnos's Coffin</name>
+    <text>You may choose not to untap Tawnos's Coffin during your untap step.
+{3}, {T}: Exile target creature and all Auras attached to it. Note the number and kind of counters that were on that creature. When Tawnos's Coffin leaves the battlefield or becomes untapped, return the exiled card to the battlefield under its owner's control tapped with the noted number and kind of counters on it, and if you do, return the exiled Aura cards to the battlefield under their owner's control attached to that permanent.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0074</id>
+    <name>Tawnos's Wand</name>
+    <text>{2}, {T}: Target creature with power 2 or less is unblockable this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0075</id>
+    <name>Tawnos's Weaponry</name>
+    <text>You may choose not to untap Tawnos's Weaponry during your untap step.
+{2}, {T}: Target creature gets +1/+1 for as long as Tawnos's Weaponry remains tapped.</text>
+    <flavorText>When Urza's war machines became too costly, Tawnos's weaponry replaced them.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0076</id>
+    <name>Tetravus</name>
+    <text>Flying
+Tetravus enters the battlefield with three +1/+1 counters on it.
+At the beginning of your upkeep, you may remove any number of +1/+1 counters from Tetravus. If you do, put that many 1/1 colorless Tetravite artifact creature tokens onto the battlefield. They each have flying and "This creature can't be enchanted."
+At the beginning of your upkeep, you may exile any number of tokens put onto the battlefield with Tetravus. If you do, put that many +1/+1 counters on Tetravus.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0077</id>
+    <name>The Rack</name>
+    <text>As The Rack enters the battlefield, choose an opponent.
+At the beginning of the chosen player's upkeep, The Rack deals X damage to that player, where X is 3 minus the number of cards in his or her hand.</text>
+    <flavorText>Invented in Mishra's earlier days, the Rack was once his most feared creation.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0078</id>
+    <name>Titania's Song</name>
+    <text>Each noncreature artifact loses its abilities and becomes an artifact creature with power and toughness each equal to its converted mana cost. If Titania's Song leaves the battlefield, this effect continues until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0079</id>
+    <name>Transmute Artifact</name>
+    <text>As an additional cost to cast Transmute Artifact, sacrifice an artifact.
+Search your library for an artifact card. If that card's converted mana cost is less than or equal to the sacrificed artifact's converted mana cost, put it onto the battlefield. If it's greater, you may pay {X}, where X is the difference. If you do, put it onto the battlefield. If you don't, put it into its owner's graveyard. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0080</id>
+    <name>Triskelion</name>
+    <text>Triskelion enters the battlefield with three +1/+1 counters on it.
+Remove a +1/+1 counter from Triskelion: Triskelion deals 1 damage to target creature or player.</text>
+    <flavorText>A brainchild of Tawnos, the Triskelion proved its versatility ans usefulness in many of the later battles between the brothers.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0081</id>
+    <name>Urza's Avenger</name>
+    <text>{0}: Urza's Avenger gets -1/-1 and gains your choice of banding, flying, first strike, or trample until end of turn. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>Unable to settle on just one design, Urza decided to create one versatile being.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0082</id>
+    <name>Urza's Chalice</name>
+    <text>Whenever a player casts an artifact spell, you may pay {1}. If you do, you gain 1 life.</text>
+    <flavorText>When sorely wounded or tired, Urza would often retreat to the workshops of his apprentices. They were greatly amazed at how much better he looked each time he took a sip of water.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0083</id>
+    <name>Urza's Mine</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0084</id>
+    <name>Urza's Mine</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0085</id>
+    <name>Urza's Mine</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0086</id>
+    <name>Urza's Mine</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Power-Plant and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Mines became common as cities during the days of the artificers.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0087</id>
+    <name>Urza's Miter</name>
+    <text>Whenever an artifact you control is put into a graveyard from the battlefield, if it wasn't sacrificed, you may pay {3}. If you do, draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0088</id>
+    <name>Urza's Power Plant</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Artifact construction requires immense resources.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0089</id>
+    <name>Urza's Power Plant</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Artifact construction requires immense resources.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0090</id>
+    <name>Urza's Power Plant</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Artifact construction requires immense resources.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0091</id>
+    <name>Urza's Power Plant</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Tower, add {2} to your mana pool instead.</text>
+    <flavorText>Artifact construction requires immense resources.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0092</id>
+    <name>Urza's Tower</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</text>
+    <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0093</id>
+    <name>Urza's Tower</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</text>
+    <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0094</id>
+    <name>Urza's Tower</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</text>
+    <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0095</id>
+    <name>Urza's Tower</name>
+    <text>{T}: Add {1} to your mana pool. If you control an Urza's Mine and an Urza's Power-Plant, add {3} to your mana pool instead.</text>
+    <flavorText>Urza always put Tocasia's lessons on resource-gathering to effective use.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0096</id>
+    <name>Wall of Spears</name>
+    <text>Defender (This creature can't attack.)
+First strike</text>
+    <flavorText>Even the most conservative generals revised their tactics after the Battle of Sarinth, during which a handful of peasant-pikemen held off a trio of rampaging Craw Wurms.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0097</id>
+    <name>Weakstone</name>
+    <text>Attacking creatures get -1/-0.</text>
+    <flavorText>During the brothers' childhood, Tocasia took them to explore the sacred cave of Koilos. There, in the Hall of Tagsin, Mishra discovered the mysterious weakstone.</flavorText>
+  </item>
+  <item>
+    <id>ATQ0098</id>
+    <name>Xenic Poltergeist</name>
+    <text>{T}: Until your next upkeep, target noncreature artifact becomes an artifact creature with power and toughness each equal to its converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0099</id>
+    <name>Yawgmoth Demon</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+First strike (This creature deals combat damage before creatures without first strike.)
+At the beginning of your upkeep, you may sacrifice an artifact. If you don't, tap Yawgmoth Demon and it deals 2 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ATQ0100</id>
+    <name>Yotian Soldier</name>
+    <text>Vigilance</text>
+    <flavorText>After Kroog was destroyed while most of its defenders were at his side, Urza vowed that none of his allies would ever need to fear for their own defense again, even while laying siege to a city far from their homes.</flavorText>
+  </item>
+</cards>

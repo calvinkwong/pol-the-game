@@ -1,0 +1,2024 @@
+<cards name="Ascesa degli Eldrazi">
+  <item>
+    <id>ROE0001</id>
+    <name>Tutto è Polvere</name>
+    <text>Ogni giocatore sacrifica tutti i permanenti colorati che controlla.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0002</id>
+    <name>Artigiano di Kozilek</name>
+    <text>Quando lanci l'Artigiano di Kozilek, puoi rimettere sul campo di battaglia una carta creatura bersaglio dal tuo cimitero.
+Annientatore 2 (Ogniqualvolta questa creatura attacca, il giocatore in difesa sacrifica due permanenti.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0003</id>
+    <name>Arruolamento Eldrazi</name>
+    <text>Incanta creatura
+La creatura incantata prende +10/+10 e ha travolgere e annientatore 2. (Ogniqualvolta questa creatura attacca, il giocatore in difesa sacrifica due permanenti.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0004</id>
+    <name>Emrakul, lo Strazio Eterno</name>
+    <text>Emrakul, lo Strazio Eterno non può essere neutralizzato.
+Quando lanci Emrakul, gioca un altro turno dopo questo.
+Volare, protezione dalle magie colorate, annientatore 6
+Quando Emrakul viene messo in un cimitero da qualsiasi zona, il suo proprietario rimescola il suo cimitero nel suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0005</id>
+    <name>Mano di Emrakul</name>
+    <text>Puoi sacrificare quattro Progenie Eldrazi invece di pagare il costo di mana della Mano di Emrakul.
+Annientatore 1 (Ogniqualvolta questa creatura attacca, il giocatore in difesa sacrifica un permanente.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0006</id>
+    <name>Kozilek, Macellaio della Verità</name>
+    <text>Quando lanci Kozilek, Macellaio della Verità, pesca quattro carte.
+Annientatore 4 (Ogniqualvolta questa creatura attacca, il giocatore in difesa sacrifica quattro permanenti.)
+Quando Kozilek viene messo in un cimitero da qualsiasi zona, il suo proprietario rimescola il suo cimitero nel suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0007</id>
+    <name>Ciò che Tradisce</name>
+    <text>Annientatore 2 (Ogniqualvolta questa creatura attacca, il giocatore in difesa sacrifica due permanenti.)
+Ogniqualvolta un avversario sacrifica un permanente non pedina, metti sul campo di battaglia quella carta sotto il tuo controllo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0008</id>
+    <name>Non di Questo Mondo</name>
+    <text>Neutralizza una magia o abilità bersaglio che bersaglia un permanente che controlli.
+Non di Questo Mondo costa {7} in meno per essere lanciato se bersaglia una magia o abilità che bersaglia una creatura che controlli con forza pari o superiore a 7.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0009</id>
+    <name>Spianasentieri di Ulamog</name>
+    <text>Annientatore 3 (Ogniqualvolta questa creatura attacca, il giocatore in difesa sacrifica tre permanenti.)
+Lo Spianasentieri di Ulamog non può essere bloccato tranne che da tre o più creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0010</id>
+    <name>Invasione di Parassiti</name>
+    <text>Metti sul campo di battaglia cinque pedine creatura Progenie Eldrazi 0/1 incolori. Hanno "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0011</id>
+    <name>Progenitore di Ulamog</name>
+    <text>Annientatore 1 (Ogniqualvolta questa creatura attacca, il giocatore in difesa sacrifica un permanente.)
+{4}: Metti sul campo di battaglia due pedine creatura Progenie Eldrazi 0/1 incolori. Hanno "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".
+{2}0: Lancia un qualsiasi numero di carte Eldrazi che possiedi al di fuori della partita senza pagare i loro costi di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0012</id>
+    <name>Ulamog, il Cerchio Infinito</name>
+    <text>Quando lanci Ulamog, il Cerchio Infinito distruggi un permanente bersaglio.
+Annientatore 4 (Ogniqualvolta questa creatura attacca, il giocatore in difesa sacrifica quattro permanenti.)
+Ulamog è indistruttibile.
+Quando Ulamog viene messo in un cimitero da qualsiasi zona, il suo proprietario rimescola il suo cimitero nel suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0013</id>
+    <name>Frantumatore di Ulamog</name>
+    <text>Annientatore 2 (Ogniqualvolta questa creatura attacca, il giocatore in difesa sacrifica due permanenti.)
+Il Frantumatore di Ulamog attacca ogni turno, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0014</id>
+    <name>Segugio da Guardia di Affa</name>
+    <text>Lampo
+Quando il Segugio da Guardia di Affa entra nel campo di battaglia, una creatura bersaglio prende +0/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0015</id>
+    <name>Scorta della Carovana</name>
+    <text>Aumentare di livello {2} ({2}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-4
+2/2
+
+LIVELLO 5+
+5/5
+Attacco improvviso</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0016</id>
+    <name>Evocatrice dell'Alba Accecante</name>
+    <text>Volare
+{8}: TAPpa tutte le creature controllate da un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0017</id>
+    <name>Angelo Immortale</name>
+    <text>Volare
+{W}{W}: Una creatura bersaglio è indistruttibile in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0018</id>
+    <name>Demistificare</name>
+    <text>Distruggi un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0019</id>
+    <name>Essenza dell'Antilope</name>
+    <text>Incanta creatura
+La creatura incantata prende +0/+4.
+Armatura totem (Se la creatura incantata sta per essere distrutta, rimuovi invece tutto il danno da essa e distruggi quest'Aura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0020</id>
+    <name>Emergere Incolume</name>
+    <text>Una creatura bersaglio che controlli ha protezione da un colore a tua scelta fino alla fine del turno.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0021</id>
+    <name>Gideon Jura</name>
+    <text>[+2]: Durante il prossimo turno di un avversario bersaglio, le creature controllate da quel giocatore attaccano Gideon Jura se possono farlo.
+[-2]: Distruggi una creatura TAPpata bersaglio.
+[0]: Fino alla fine del turno, Gideon Jura diventa una creatura Soldato Umano 6/6 che è ancora un planeswalker. Previeni tutto il danno che gli verrebbe inflitto in questo turno.
+[Fedeltà 6]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0022</id>
+    <name>Cacciatore di Gloria</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0023</id>
+    <name>Servizio di Guardia</name>
+    <text>Incanta creatura
+La creatura incantata ha difensore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0024</id>
+    <name>Assalto Inoffensivo</name>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno dalle creature attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0025</id>
+    <name>Puristi del Campo di Edri</name>
+    <text>Aumentare di livello {2}{W} ({2}{W}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-4
+1/4
+Se una fonte sta per infliggere danni a te o a una creatura che controlli, previeni 1 di quei danni.
+LIVELLO 5+
+2/5
+Se una fonte sta per infliggere danni a te o a una creatura che controlli, previeni 2 di quei danni.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0026</id>
+    <name>Essenza della Iena</name>
+    <text>Incanta creatura
+La creatura incantata prende +1/+1 e ha attacco improvviso.
+Armatura totem (Se la creatura incantata sta per essere distrutta, rimuovi invece tutto il danno da essa e distruggi quest'Aura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0027</id>
+    <name>Apripista di Ikiral</name>
+    <text>Aumentare di livello {4} ({4}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-3
+2/6
+Cautela
+LIVELLO 4+
+3/10
+Cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0028</id>
+    <name>Difensore di Kabira</name>
+    <text>Aumentare di livello {2}{W} ({2}{W}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 2-4
+3/6
+Le altre creature che controlli prendono +1/+1.
+LIVELLO 5+
+4/8
+Le altre creature che controlli prendono +2/+2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0029</id>
+    <name>Cavaliera di Rifugio Scosceso</name>
+    <text>Aumentare di livello {3} ({3}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-3
+2/3
+Volare
+LIVELLO 4+
+4/4
+Volare, cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0030</id>
+    <name>Lanciafuni Kor</name>
+    <text>{T}: TAPpa una creatura bersaglio con forza pari o inferiore a 3.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0031</id>
+    <name>Danzatrice Spirituale Kor</name>
+    <text>La Danzatrice Spirituale Kor prende +2/+2 per ogni Aura ad essa assegnata.
+Ogniqualvolta lanci una magia Aura, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0032</id>
+    <name>Campo Illu-Minato</name>
+    <text>Ogniqualvolta una o più creature attaccano, il Campo Illu-Minato infligge a ognuna di quelle creature danno pari al numero di creature attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0033</id>
+    <name>Linvala, Custode del Silenzio</name>
+    <text>Volare
+Le abilità attivate delle creature controllate dai tuoi avversari non possono essere attivate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0034</id>
+    <name>Missionario Solitario</name>
+    <text>Quando il Missionario Solitario entra nel campo di battaglia, guadagni 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0035</id>
+    <name>Scia Luminosa</name>
+    <text>Incanta creatura
+Ogniqualvolta la creatura incantata attacca o blocca, guadagni 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0036</id>
+    <name>Grifone di Makindi</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0037</id>
+    <name>Essenza del Mammut</name>
+    <text>Incanta creatura
+La creatura incantata prende +3/+3 e ha cautela.
+Armatura totem (Se la creatura incantata sta per essere distrutta, rimuovi invece tutto il danno da essa e distruggi quest'Aura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0038</id>
+    <name>Esperienza di Pre-Morte</name>
+    <text>All'inizio del tuo mantenimento, se hai esattamente 1 punto vita, vinci la partita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0039</id>
+    <name>Adunata dei Nomadi</name>
+    <text>Metti sul campo di battaglia una pedina creatura Soldato Kor 1/1 bianca per ogni creatura che controlli.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0040</id>
+    <name>Spodestare</name>
+    <text>Metti una creatura bersaglio nel grimorio del suo proprietario come seconda carta. Il suo controllore guadagna 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0041</id>
+    <name>Luce Perforante</name>
+    <text>Distruggi una creatura attaccante o bloccante bersaglio con forza pari o inferiore a 3.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0042</id>
+    <name>Respingere l'Oscurità</name>
+    <text>TAPpa fino a due creature bersaglio.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0043</id>
+    <name>Castigo</name>
+    <text>Distruggi una creatura bloccata bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0044</id>
+    <name>Custode dell'Anima</name>
+    <text>Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi guadagnare 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0045</id>
+    <name>Guardiani Vincola-Anima</name>
+    <text>Difensore, volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0046</id>
+    <name>Portatori di Scudo Risoluti</name>
+    <text>Difensore
+Le altre creature con difensore che controlli prendono +0/+2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0047</id>
+    <name>Studentessa della Guerra</name>
+    <text>Aumentare di livello {W} ({W}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 2-6
+3/3
+Attacco improvviso
+LIVELLO 7+
+4/4
+Doppio attacco</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0048</id>
+    <name>Nascondiglio di Sopravvivenza</name>
+    <text>Guadagni 2 punti vita. Poi se hai più punti vita di un avversario, pesca una carta.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0049</id>
+    <name>Il Tempo degli Eroi</name>
+    <text>Ogni creatura con un segnalino livello che controlli prende +2/+2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0050</id>
+    <name>Alcefalo Totemico</name>
+    <text>Quando l'Alcefalo Totemico entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Aura, rivelarla, aggiungerla alla tua mano, poi rimescolare il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0051</id>
+    <name>Maestro Trascendente</name>
+    <text>Aumentare di livello {1} ({1}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 6-11
+6/6
+Legame vitale
+LIVELLO 12+
+9/9
+Legame vitale
+Il Maestro Trascendente è indistruttibile.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0052</id>
+    <name>Mistica delle Essenze</name>
+    <text>Le Aure assegnate ai permanenti che controlli hanno armatura totem. (Se un permanente incantato che controlli sta per essere distrutto, rimuovi invece tutto il danno da esso e distruggi un'Aura assegnata ad esso.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0053</id>
+    <name>Muro dei Presagi</name>
+    <text>Difensore
+Quando il Muro dei Presagi entra nel campo di battaglia, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0054</id>
+    <name>Finezza dell'Aura</name>
+    <text>Assegna un'Aura bersaglio che controlli a una creatura bersaglio.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0055</id>
+    <name>Lanciare Nel Tempo</name>
+    <text>Le magie istantaneo e stregoneria che controlli hanno ripresa. (Esilia la magia quando si risolve, se la lanci dalla tua mano. All'inizio del tuo prossimo mantenimento, puoi lanciare quella carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0056</id>
+    <name>Draghetto del Campione</name>
+    <text>Volare
+Il Draghetto del Campione prende +3/+3 fintanto che controlli una creatura con tre o più segnalini livello.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0057</id>
+    <name>Comandante dall'Elmo Corallino</name>
+    <text>Aumentare di livello {1} ({1}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 2-3
+3/3
+Volare
+LIVELLO 4+
+4/4
+Volare
+Le altre creature Tritone che controlli prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0058</id>
+    <name>Essenza del Granchio</name>
+    <text>Incanta creatura
+{2}{U}: STAPpa la creatura incantata.
+Armatura totem (Se la creatura incantata sta per essere distrutta, rimuovi invece tutto il danno da essa e distruggi quest'Aura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0059</id>
+    <name>Privare</name>
+    <text>Come costo addizionale per lanciare Privare, fai tornare una terra che controlli in mano al suo proprietario.
+Neutralizza una magia bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0060</id>
+    <name>Colpo Distorcente</name>
+    <text>Una creatura bersaglio prende +1/+0 fino alla fine del turno e non può essere bloccata in questo turno.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0061</id>
+    <name>Addomesticare</name>
+    <text>Incanta creatura
+Controlli la creatura incantata.
+All'inizio della tua sottofase finale, se la forza della creatura incantata è pari o superiore a 4, sacrifica Addomesticare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0062</id>
+    <name>Gomazoa Dormiente</name>
+    <text>Volare
+La Gomazoa Dormiente entra nel campo di battaglia TAPpata.
+La Gomazoa Dormiente non STAPpa durante il tuo STAP.
+Ogniqualvolta diventi il bersaglio di una magia, puoi STAPpare la Gomazoa Dormiente.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0063</id>
+    <name>Essenza del Draghetto</name>
+    <text>Incanta creatura
+La creatura incantata prende +3/+3 e ha volare.
+Armatura totem (Se la creatura incantata sta per essere distrutta, rimuovi invece tutto il danno da essa e distruggi quest'Aura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0064</id>
+    <name>Mago dell'Eco</name>
+    <text>Aumentare di livello {1}{U} ({1}{U}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 2-3
+2/4
+{U}{U}, {T}: Copia una magia istantaneo o stregoneria bersaglio. Puoi scegliere nuovi bersagli per la copia.
+LIVELLO 4+
+2/5
+{U}{U}, {T}: Copia una magia istantaneo o stregoneria bersaglio due volte. Puoi scegliere nuovi bersagli per le copie.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0065</id>
+    <name>Essenza dell'Anguilla</name>
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
+Incanta creatura
+La creatura incantata prende +1/+1.
+Armatura totem (Se la creatura incantata sta per essere distrutta, rimuovi invece tutto il danno da essa e distruggi quest'Aura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0066</id>
+    <name>Criptologa di Enclave</name>
+    <text>Aumentare di livello {1}{U} ({1}{U}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-2
+0/1
+{T}: Pesca una carta, poi scarta una carta.
+LIVELLO 3+
+0/1
+{T}: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0067</id>
+    <name>Distrazione Fugace</name>
+    <text>Una creatura bersaglio prende -1/-0 fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0068</id>
+    <name>Evocatore di Vento Gelido</name>
+    <text>Volare
+{8}: Le creature che controlli hanno volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0069</id>
+    <name>Scarto Gravitazionale</name>
+    <text>Le creature con volare prendono +2/+0.
+Le creature senza volare prendono -2/-0.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0070</id>
+    <name>Gomazoa di Guardia</name>
+    <text>Difensore, volare 
+Previeni tutto il danno da combattimento che verrebbe inflitto alla Gomazoa di Guardia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0071</id>
+    <name>Pattuglia di Spie di Hada</name>
+    <text>Aumentare di livello {2}{U} ({2}{U}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-2
+2/2
+La Pattuglia di Spie di Hada non può essere bloccata.
+LIVELLO 3+
+3/3
+Velo
+La Pattuglia di Spie di Hada non può essere bloccata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0072</id>
+    <name>Pattuglia delle Onde di Halimar</name>
+    <text>Aumentare di livello {2} ({2}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-4
+0/6
+
+LIVELLO 5+
+6/6
+Passa-Isole</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0073</id>
+    <name>Affondatore di Jwar</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0074</id>
+    <name>Denudare</name>
+    <text>Neutralizza una magia bersaglio. Guarda la mano del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0075</id>
+    <name>Cronologista del Faro</name>
+    <text>Aumentare di livello {U} ({U}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 4-6
+2/4
+
+LIVELLO 7+
+3/5
+All'inizio di ogni sottofase finale, se non è il tuo turno, gioca un altro turno dopo questo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0076</id>
+    <name>Tritona Osservatrice</name>
+    <text>Quando la Tritona Osservatrice entra nel campo di battaglia, guarda la prima carta del grimorio di un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0077</id>
+    <name>Tritone Esploratore Celeste</name>
+    <text>Volare
+Ogniqualvolta il Tritone Esploratore Celeste attacca o blocca, STAPpa un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0078</id>
+    <name>Muro Mnemonico</name>
+    <text>Difensore
+Quando il Muro Mnemonico entra nel campo di battaglia, puoi riprendere in mano una carta istantaneo o stregoneria bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0079</id>
+    <name>Narcolessia</name>
+    <text>Incanta creatura
+All'inizio di ogni mantenimento, se la creatura incantata è STAPpata, TAPpala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0080</id>
+    <name>Abominio Fantasma</name>
+    <text>Difensore
+Quando l'Abominio Fantasma diventa bersaglio di una magia o abilità, sacrificalo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0081</id>
+    <name>Spasmo di Realtà</name>
+    <text>Scegli uno -- TAPpa X permanenti bersaglio; o STAPpa X permanenti bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0082</id>
+    <name>Introspezione Ricorrente</name>
+    <text>Pesca un numero di carte pari a quelle in mano a un avversario bersaglio.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0083</id>
+    <name>Regredire</name>
+    <text>Fai tornare un permanente bersaglio in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0084</id>
+    <name>Mutaforma Rinnegato</name>
+    <text>Ogniqualvolta un'altra creatura entra nel campo di battaglia sotto il tuo controllo, puoi far diventare il Mutaforma Rinnegato una copia di quella creatura fino alla fine del turno. (Se lo fa, perde questa abilità per il resto del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0085</id>
+    <name>Oracolo di Portale Marino</name>
+    <text>Quando l'Oracolo di Portale Marino entra nel campo di battaglia, guarda le prime due carte del tuo grimorio. Aggiungi una di quelle carte alla tua mano e metti l'altra in fondo al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0086</id>
+    <name>Vedere Oltre</name>
+    <text>Pesca due carte, poi rimescola una carta dalla tua mano nel tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0087</id>
+    <name>Scoperta Condivisa</name>
+    <text>Come costo addizionale per lanciare la Scoperta Condivisa, TAPpa quattro creature STAPpate che controlli.
+Pesca tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0088</id>
+    <name>Osservatore Celeste Esperto</name>
+    <text>Aumentare di livello {3} ({3}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-2
+2/2
+Volare
+LIVELLO 3+
+4/2
+Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0089</id>
+    <name>Sfinge di Magosi</name>
+    <text>Volare
+{2}{U}: Pesca una carta, poi metti un segnalino +1/+1 sulla Sfinge di Magosi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0090</id>
+    <name>Surrakar delle Lame Magiche</name>
+    <text>Ogniqualvolta lanci una magia istantaneo o stregoneria, puoi mettere un segnalino carica sul Surrakar delle Lame Magiche.
+Ogniqualvolta il Surrakar delle Lame Magiche infligge danno da combattimento a un giocatore, puoi pescare X carte, dove X è il numero di segnalini carica su di esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0091</id>
+    <name>Zona d'Addestramento</name>
+    <text>Le abilità attivate delle creature che controlli costano fino a {2} in meno per essere attivate. Questo effetto non può ridurre la quantità di mana che costa attivare un'abilità a meno di un mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0092</id>
+    <name>Volontà Unificata</name>
+    <text>Neutralizza una magia bersaglio se controlli più creature del controllore di quella magia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0093</id>
+    <name>Venerato Insegnante</name>
+    <text>Quando il Venerato Insegnante entra nel campo di battaglia, metti due segnalini livello su ogni creatura che controlli con aumentare di livello.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0094</id>
+    <name>Arrogante Signore Sanguinario</name>
+    <text>Ogniqualvolta l'Arrogante Signore Sanguinario blocca o viene bloccato da una creatura con forza pari o inferiore a 1, distruggi l'Arrogante Signore Sanguinario alla fine del combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0095</id>
+    <name>Scorpione di Bala Ged</name>
+    <text>Quando lo Scorpione di Bala Ged entra nel campo di battaglia, puoi distruggere una creatura bersaglio con forza pari o inferiore a 1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0096</id>
+    <name>Presagio Malefico</name>
+    <text>All'inizio della tua sottofase finale, puoi rivelare la prima carta del tuo grimorio. Se lo fai, ogni avversario perde punti vita pari al costo di mana convertito di quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0097</id>
+    <name>Evocatore del Rituale Sanguinario</name>
+    <text>{8}: Un giocatore bersaglio perde 3 punti vita e tu guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0098</id>
+    <name>Vampira del Trono Insanguinato</name>
+    <text>Sacrifica una creatura: La Vampira del Trono Insanguinato prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0099</id>
+    <name>Imp dei Cadaveri</name>
+    <text>Volare
+Quando l'Imp dei Cadaveri entra nel campo di battaglia, puoi riprendere in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0100</id>
+    <name>Consumare gli Umili</name>
+    <text>Distruggi ogni creatura con costo di mana convertito pari o inferiore a 3. Non possono essere rigenerate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0101</id>
+    <name>Vapori Distruttivi</name>
+    <text>Un giocatore bersaglio sacrifica una creatura. Guadagni punti vita pari alla costituzione di quella creatura.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0102</id>
+    <name>Terreno Contaminato</name>
+    <text>Incanta terra
+La terra incantata è una Palude.
+Ogniqualvolta la terra incantata viene TAPpata, il suo controllore perde 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0103</id>
+    <name>Covare Nel Cadavere</name>
+    <text>Distruggi una creatura non nera bersaglio. Metti sul campo di battaglia due pedine creatura Progenie Eldrazi 0/1 incolori. Hanno "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0104</id>
+    <name>Maledizione della Stregoneria</name>
+    <text>Mentre la Maledizione della Stregoneria entra nel campo di battaglia, scegli un colore.
+Ogniqualvolta un giocatore lancia una magia del colore scelto, perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0105</id>
+    <name>Cultista della Morte</name>
+    <text>Sacrifica il Cultista della Morte: Un giocatore bersaglio perde 1 punto vita e tu guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0106</id>
+    <name>Appetito Demoniaco</name>
+    <text>Incanta creatura che controlli
+La creatura incantata prende +3/+3.
+All'inizio del tuo mantenimento, sacrifica una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0107</id>
+    <name>Drana, Capo Sanguinario Kalastria</name>
+    <text>Volare
+{X}{B}{B}: Una creatura bersaglio prende -0/-X fino alla fine del turno e Drana, Capo Sanguinario Kalastria prende +X/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0108</id>
+    <name>Parassita del Terrore</name>
+    <text>Quando il Parassita del Terrore entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura Progenie Eldrazi 0/1 incolori. Hanno "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0109</id>
+    <name>Nullo Fuggitivo</name>
+    <text>Legame vitale
+Ogniqualvolta il Nullo Fuggitivo blocca o viene bloccato, prende +5/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0110</id>
+    <name>Nutrirsi d'Essenza</name>
+    <text>Un giocatore bersaglio perde 3 punti vita. Guadagni 3 punti vita e metti sul campo di battaglia tre pedine creatura Progenie Eldrazi 0/1 incolori. Hanno "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0111</id>
+    <name>Tetro Cacciatore</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0112</id>
+    <name>Assassino di Guul Draz</name>
+    <text>Aumentare di livello {1}{B} ({1}{B}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 2-3
+2/2
+{B}, {T}: Una creatura bersaglio prende -2/-2 fino alla fine del turno.
+LIVELLO 4+
+4/4
+{B}, {T}: Una creatura bersaglio prende -4/-4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0113</id>
+    <name>Demone Tagliainferno</name>
+    <text>Volare
+Ogniqualvolta il Demone Tagliainferno infligge danno da combattimento a un giocatore, sacrifica tutti gli altri permanenti che controlli e scarta la tua mano. Esilia le prime sei carte del tuo grimorio. Puoi lanciare un qualsiasi numero di carte non terra esiliate in questo modo senza pagare i loro costi di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0114</id>
+    <name>Spingere alla Disperazione</name>
+    <text>Come costo addizionale per lanciare Spingere alla Disperazione, rivela una carta creatura dalla tua mano.
+Una creatura bersaglio prende -X/-X fino alla fine del turno, dove X è il costo di mana convertito della carta rivelata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0115</id>
+    <name>Indagini di Kozilek</name>
+    <text>Un giocatore bersaglio rivela la sua mano. Scegli una carta non terra con costo di mana convertito pari o inferiore a 3 da quella mano. Quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0116</id>
+    <name>Ultimo Bacio</name>
+    <text>L'Ultimo Bacio infligge 2 danni a una creatura bersaglio e tu guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0117</id>
+    <name>Scarabeo Necroforo</name>
+    <text>Ogniqualvolta un giocatore sacrifica una creatura, puoi mettere un segnalino +1/+1 sullo Scarabeo Necroforo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0118</id>
+    <name>Foschia Notturna</name>
+    <text>Una creatura bersaglio ha passa-Paludi fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0119</id>
+    <name>Tagliagole Nirkana</name>
+    <text>Aumentare di livello {2}{B} ({2}{B}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-2
+4/3
+Tocco letale
+LIVELLO 3+
+5/4
+Attacco improvviso, tocco letale</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0120</id>
+    <name>Rediviva Nirkana</name>
+    <text>Ogniqualvolta TAPpi una Palude per attingere mana, aggiungi {B} alla tua riserva di mana (in aggiunta al mana prodotto dalla terra).
+{B}: La Rediviva Nirkana prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0121</id>
+    <name>Campione Nullo</name>
+    <text>Aumentare di livello {3} ({3}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-3
+4/2
+
+LIVELLO 4+
+7/3
+{B}: Rigenera il Campione Nullo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0122</id>
+    <name>Pedina di Ulamog</name>
+    <text>Ogniqualvolta la Pedina di Ulamog o un'altra creatura non pedina che controlli viene messa in un cimitero dal campo di battaglia, puoi mettere sul campo di battaglia una pedina creatura Progenie Eldrazi 0/1 incolore. Ha "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0123</id>
+    <name>Neanche a Pensarci!</name>
+    <text>Un avversario bersaglio rivela la sua mano. Scegli una carta da quella mano. Quel giocatore rimescola quella carta nel suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0124</id>
+    <name>Demone Pestilenziale</name>
+    <text>Volare
+{B}: Il Demone Pestilenziale infligge 1 danno a ogni creatura e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0125</id>
+    <name>Ripagare della Stessa Moneta</name>
+    <text>I punti vita di ogni giocatore diventano pari ai punti vita più bassi tra tutti i giocatori.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0126</id>
+    <name>Inaridire</name>
+    <text>Tutte le creature prendono -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0127</id>
+    <name>Wurm Scheletrico</name>
+    <text>{B}: Rigenera il Wurm Scheletrico.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0128</id>
+    <name>Subire il Passato</name>
+    <text>Esilia X carte bersaglio dal cimitero di un giocatore bersaglio. Per ogni carta esiliata in questo modo, quel giocatore perde 1 punto vita e tu guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0129</id>
+    <name>Ingoiatore di Pensieri</name>
+    <text>Travolgere
+Quando l'Ingoiatore di Pensieri entra nel campo di battaglia, metti un segnalino +1/+1 su di esso per ogni carta che hai in mano. Se lo fai, scarta la tua mano.
+Quando l'Ingoiatore di Pensieri lascia il campo di battaglia, pesca una carta per ogni segnalino +1/+1 su di esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0130</id>
+    <name>Rivincita</name>
+    <text>Distruggi una creatura non nera bersaglio. Non può essere rigenerata. Perdi punti vita pari alla costituzione di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0131</id>
+    <name>Colpo Virulento</name>
+    <text>Una creatura bersaglio prende +2/+0 e ha tocco letale fino alla fine del turno.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0132</id>
+    <name>Spettro di Zof</name>
+    <text>{2}{B}: Lo Spettro di Zof prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0133</id>
+    <name>Tutore di Zulaport</name>
+    <text>Aumentare di livello {4} ({4}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-2
+3/3
+
+LIVELLO 3+
+5/5
+Il Tutore di Zulaport non può essere bloccato tranne che da creature nere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0134</id>
+    <name>Piedemacigno di Akoum</name>
+    <text>Quando il Piedemacigno di Akoum entra nel campo di battaglia, infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0135</id>
+    <name>Barricata di Guerra</name>
+    <text>Difensore
+{T}: Una creatura bersaglio ha rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0136</id>
+    <name>Sciamano del Sonaglio</name>
+    <text>All'inizio del combattimento nel tuo turno, puoi far prendere +2/+0 a una creatura bersaglio fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0137</id>
+    <name>Mago dello Zolfo</name>
+    <text>Aumentare di livello {3}{R} ({3}{R}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-2
+2/3
+{T}: Il Mago dello Zolfo infligge 1 danno a una creatura o a un giocatore bersaglio.
+LIVELLO 3+
+2/4
+{T}: Il Mago dello Zolfo infligge 3 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0138</id>
+    <name>Nascita della Covata</name>
+    <text>Se controlli una Progenie Eldrazi, metti sul campo di battaglia tre pedine creatura Progenie Eldrazi 0/1 incolori. Hanno "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana". Altrimenti, metti sul campo di battaglia una di quelle pedine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0139</id>
+    <name>Manticora Vittoriosa</name>
+    <text>Volare
+Quando la Manticora Vittoriosa entra nel campo di battaglia, prendi il controllo di una creatura bersaglio controllata da un avversario fino alla fine del turno. STAPpa quella creatura. Ha rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0140</id>
+    <name>Evocazioni Devastanti</name>
+    <text>Come costo addizionale per lanciare le Evocazioni Devastanti, sacrifica X terre.
+Metti sul campo di battaglia due pedine creatura Elementale X/X rosse.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0141</id>
+    <name>Raggio del Disastro</name>
+    <text>Come costo addizionale per lanciare il Raggio del Disastro, rivela una carta creatura dalla tua mano.
+Il Raggio del Disastro infligge X danni a ogni creatura controllata dai tuoi avversari, dove X è il costo di mana convertito della carta rivelata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0142</id>
+    <name>Incubatrice di Emrakul</name>
+    <text>Quando l'Incubatrice di Emrakul entra nel campo di battaglia, metti sul campo di battaglia tre pedine creatura Progenie Eldrazi 0/1 incolori. Hanno "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0143</id>
+    <name>Rivelazione Esplosiva</name>
+    <text>Scegli una creatura o un giocatore bersaglio. Rivela carte dalla cima del tuo grimorio fino a che non riveli una carta non terra. La Rivelazione Esplosiva infligge a quella creatura o a quel giocatore danno pari al costo di mana convertito di quella carta. Aggiungi la carta non terra alla tua mano e metti tutte le altre carte in fondo al tuo grimorio in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0144</id>
+    <name>Sfiatatoio della Crepa</name>
+    <text>Scegli uno o entrambi -- Distruggi un artefatto bersaglio; e/o distruggi una terra non base bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0145</id>
+    <name>Frustata Infuocata</name>
+    <text>La Frustata Infuocata infligge 4 danni a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0146</id>
+    <name>Fulmine Biforcato</name>
+    <text>Il Fulmine Biforcato infligge 2 danni divisi a tua scelta tra una o due creature e/o giocatori bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0147</id>
+    <name>Goblin Inceneritore</name>
+    <text>Quando il Goblin Inceneritore viene messo in un cimitero dal campo di battaglia, puoi fargli infliggere 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0148</id>
+    <name>Scavatore Goblin</name>
+    <text>{T}: Una creatura bersaglio con forza pari o inferiore a 2 non può essere bloccata in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0149</id>
+    <name>Messaggero Grotag</name>
+    <text>{R}, Sacrifica il Messaggero Grotag: Distruggi una creatura con difensore bersaglio. Il Messaggero Grotag infligge 2 danni al controllore di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0150</id>
+    <name>Raggio di Calore</name>
+    <text>Il Raggio di Calore infligge X danni a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0151</id>
+    <name>Eruzione di Infernali</name>
+    <text>Sacrifica tutte le creature che controlli, poi metti sul campo di battaglia altrettante pedine creatura Infernale 4/4 rosse.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0152</id>
+    <name>Signore dei Draghi di Karga</name>
+    <text>Aumentare di livello {R} ({R}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 4-7
+4/4
+Volare
+LIVELLO 8+
+8/8
+Volare, travolgere
+{R}: Il Signore dei Draghi di Karga prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0153</id>
+    <name>Immondo della Fornace</name>
+    <text>Ogniqualvolta lanci una magia istantaneo o stregoneria, l'Immondo della Fornace prende +3/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0154</id>
+    <name>Lucertola Lagac</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0155</id>
+    <name>Evocatore di Fumi Vulcanici</name>
+    <text>{8}: Le creature che controlli prendono +3/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0156</id>
+    <name>Signore del Passo Frantumateschio</name>
+    <text>Aumentare di livello {1}{R} ({1}{R}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-5
+6/6
+
+LIVELLO 6+
+6/6
+Ogniqualvolta il Signore del Passo Frantumateschio attacca, infligge 6 danni a ogni creatura controllata dal giocatore in difesa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0157</id>
+    <name>Brama di Combattimento</name>
+    <text>Incanta creatura
+Ogniqualvolta la creatura incantata viene TAPpata, la Brama di Combattimento infligge 3 danni al controllore di quella creatura.
+La creatura incantata attacca ogni turno, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0158</id>
+    <name>Magmafauce</name>
+    <text>{1}, Sacrifica un permanente non terra: La Magmafauce infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0159</id>
+    <name>Ogre Sentinella</name>
+    <text>Difensore</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0160</id>
+    <name>Nembo dell'Ira</name>
+    <text>Difensore, volare 
+{1}{R}: Una creatura bersaglio attacca in questo turno, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0161</id>
+    <name>Bombardamento da Incursione</name>
+    <text>Ogniqualvolta una creatura che controlli con forza pari o inferiore a 2 attacca, il Bombardamento da Incursione infligge 1 danno al giocatore in difesa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0162</id>
+    <name>Il Famelico</name>
+    <text>Travolgere
+Ogniqualvolta Il Famelico infligge danno da combattimento a un giocatore, metti sul campo di battaglia altrettante pedine creatura Progenie Eldrazi 0/1 incolori. Hanno "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0163</id>
+    <name>Elementale Succhia-Anime</name>
+    <text>Attacco improvviso
+La forza dell'Elementale Succhia-Anime è pari al numero di creature che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0164</id>
+    <name>Soffio Progenitore</name>
+    <text>Il Soffio Progenitore infligge 1 danno a una creatura o a un giocatore bersaglio. Metti sul campo di battaglia una pedina creatura Progenie Eldrazi 0/1 incolore. Ha "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0165</id>
+    <name>Gemellare</name>
+    <text>Incanta creatura
+La creatura incantata ha "{T}: Metti sul campo di battaglia una pedina che è una copia di questa creatura. Quella pedina ha rapidità. Esiliala all'inizio della prossima sottofase finale".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0166</id>
+    <name>Colpo Barcollante</name>
+    <text>Il Colpo Barcollante infligge 2 danni a una creatura o a un giocatore bersaglio.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0167</id>
+    <name>Memorie Surreali</name>
+    <text>Riprendi in mano una carta istantaneo a caso dal tuo cimitero.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0168</id>
+    <name>Istinto Traditore</name>
+    <text>Prendi il controllo di una creatura bersaglio fino alla fine del turno. STAPpa quella creatura. Fino alla fine del turno, prende +2/+0 e ha rapidità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0169</id>
+    <name>Tuktuk l'Esploratore</name>
+    <text>Rapidità
+Quando Tuktuk l'Esploratore viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura artefatto leggendaria Golem Goblin 5/5 incolore chiamata Tuktuk il Reduce.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0170</id>
+    <name>Cinghiale Infuocato di Valakut</name>
+    <text>Ogniqualvolta il Cinghiale Infuocato di Valakut attacca, scambia la sua forza e la sua costituzione fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0171</id>
+    <name>Sentinella Vulcanica</name>
+    <text>Difensore
+{1}{R}, {T}: La Sentinella Vulcanica infligge a un giocatore bersaglio danno pari al numero di creature con difensore che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0172</id>
+    <name>Mondo in Guerra</name>
+    <text>Dopo la prima fase principale post-combattimento in questo turno, c'è una fase di combattimento addizionale seguita da una fase principale addizionale. All'inizio di quel combattimento, STAPpa tutte le creature che hanno attaccato in questo turno.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0173</id>
+    <name>Avvolgere di Fiamme</name>
+    <text>Scegli fino a tre creature bersaglio. Avvolgere di Fiamme infligge 1 danno a ognuna di esse. Quelle creature non possono bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0174</id>
+    <name>Antichi Fermenti</name>
+    <text>Guarda le prime cinque carte del tuo grimorio. Puoi rivelare una carta incolore tra esse e aggiungerla alla tua mano. Poi metti le altre in fondo al tuo grimorio in qualsiasi ordine. (Le carte che non hanno mana colorato nel costo di mana sono incolori. Anche le terre sono incolori.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0175</id>
+    <name>Gnarlid dell'Aura</name>
+    <text>Le creature con forza inferiore a quella del Gnarlid dell'Aura non possono bloccarlo.
+Il Gnarlid dell'Aura prende +1/+1 per ogni Aura sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0176</id>
+    <name>Zona del Risveglio</name>
+    <text>All'inizio del tuo mantenimento, puoi mettere sul campo di battaglia una pedina creatura Progenie Eldrazi 0/1 incolore. Ha "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0177</id>
+    <name>Essenza dell'Orso</name>
+    <text>Incanta creatura
+La creatura incantata prende +2/+2 e ha "Ogniqualvolta questa creatura attacca, STAPpa tutte le terre che controlli".
+Armatura totem (Se la creatura incantata sta per essere distrutta, rimuovi invece tutto il danno da essa e distruggi quest'Aura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0178</id>
+    <name>Domatore di Bala Ged</name>
+    <text>Aumentare di livello {2}{G} ({2}{G}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-3
+4/4
+
+LIVELLO 4+
+6/6
+Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0179</id>
+    <name>Essenza del Cinghiale</name>
+    <text>Incanta creatura
+La creatura incantata prende +3/+3.
+Armatura totem (Se la creatura incantata sta per essere distrutta, rimuovi invece tutto il danno da essa e distruggi quest'Aura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0180</id>
+    <name>Rovo Azzannatore</name>
+    <text>Travolgere
+TAPpa una creatura STAPpata che controlli: Il Rovo Azzannatore prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0181</id>
+    <name>Custode della Covata</name>
+    <text>Le creature Progenie Eldrazi che controlli prendono +2/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0182</id>
+    <name>Basilisco dal Dorso Appuntito</name>
+    <text>Tocco letale</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0183</id>
+    <name>Genesi Gelatinosa</name>
+    <text>Metti sul campo di battaglia X pedine creatura Melma X/X verdi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0184</id>
+    <name>Gigantomante</name>
+    <text>{1}: Una creatura bersaglio che controlli diventa 7/7 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0185</id>
+    <name>Pozzo Gravitazionale</name>
+    <text>Ogniqualvolta una creatura con volare attacca, perde volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0186</id>
+    <name>Spasmo di Crescita</name>
+    <text>Passa in rassegna il tuo grimorio per una carta terra base, mettila sul campo di battaglia TAPpata, poi rimescola il tuo grimorio. Metti sul campo di battaglia una pedina creatura Progenie Eldrazi 0/1 incolore. Ha "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0187</id>
+    <name>Rana Offuscante</name>
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
+Quando la Rana Offuscante entra nel campo di battaglia, previeni tutto il danno da combattimento che le altre creature infliggerebbero in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0188</id>
+    <name>Preda Irresistibile</name>
+    <text>Una creatura bersaglio deve essere bloccata in questo turno, se possibile.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0189</id>
+    <name>Jaddi Errante</name>
+    <text>Quando il Jaddi Errante entra nel campo di battaglia, puoi TAPpare un qualsiasi numero di creature STAPpate che controlli. Guadagni 2 punti vita per ogni creatura TAPpata in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0190</id>
+    <name>Voce Arborea di Joraga</name>
+    <text>Aumentare di livello {1}{G} ({1}{G}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 1-4
+1/2
+{T}: Aggiungi {G}{G} alla tua riserva di mana.
+LIVELLO 5+
+1/4
+Gli Elfi che controlli hanno "{T}: Aggiungi {G}{G} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0191</id>
+    <name>Convocazanne di Kazandu</name>
+    <text>Aumentare di livello {1}{G} ({1}{G}: Metti un segnalino livello su questa creatura. Aumenta di livello solo quando potresti lanciare una stregoneria.)
+LIVELLO 2-5
+1/1
+{T}: Metti sul campo di battaglia una pedina creatura Elefante 3/3 verde.
+LIVELLO 6+
+1/1
+{T}: Metti sul campo di battaglia due pedine creatura Elefante 3/3 verdi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0192</id>
+    <name>Idra di Khalni</name>
+    <text>L'Idra di Khalni costa {G} in meno per essere lanciata per ogni creatura verde che controlli.
+Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0193</id>
+    <name>Predatore di Kozilek</name>
+    <text>Quando il Predatore di Kozilek entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura Progenie Eldrazi 0/1 incolori. Hanno "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0194</id>
+    <name>Freccia a Foglia</name>
+    <text>La Freccia a Foglia infligge 3 danni a una creatura bersaglio con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0195</id>
+    <name>Destino Vivente</name>
+    <text>Come costo addizionale per lanciare il Destino Vivente, rivela una carta creatura dalla tua mano.
+Guadagni punti vita pari al costo di mana convertito della carta rivelata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0196</id>
+    <name>Potere delle Masse</name>
+    <text>Una creatura bersaglio prende +1/+1 fino alla fine del turno per ogni creatura che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0197</id>
+    <name>Grave Sconfitta</name>
+    <text>Come costo addizionale per lanciare la Grave Sconfitta, sacrifica una creatura.
+Peschi carte pari alla forza della creatura sacrificata, poi guadagni punti vita pari alla sua costituzione.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0198</id>
+    <name>Incanalatrici di Mul Daya</name>
+    <text>Gioca con la prima carta del tuo grimorio rivelata.
+Fintanto che la prima carta del tuo grimorio è una carta creatura, le Incanalatrici di Mul Daya prendono +3/+3.
+Fintanto che la prima carta del tuo grimorio è una carta terra, le Incanalatrici di Mul Daya hanno "{T}: Aggiungi due mana di un qualsiasi colore alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0199</id>
+    <name>Ritorno alla Natura</name>
+    <text>Distruggi un artefatto o un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0200</id>
+    <name>Nema in Agguato</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0201</id>
+    <name>Invasore della Colonia</name>
+    <text>Quando l'Invasore della Colonia entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Progenie Eldrazi 0/1 incolore. Ha "Sacrifica questa creatura: Aggiungi {1} alla tua riserva di mana".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0202</id>
+    <name>Gigante di Ondu</name>
+    <text>Quando il Gigante di Ondu entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta terra base, metterla sul campo di battaglia TAPpata, poi rimescolare il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0203</id>
+    <name>Bastione Troppo Cresciuto</name>
+    <text>Difensore
+{T}: Aggiungi {G} alla tua riserva di mana per ogni creatura con difensore che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0204</id>
+    <name>Wurm di Pelakka</name>
+    <text>Travolgere
+Quando il Wurm di Pelakka entra nel campo di battaglia, guadagni 7 punti vita.
+Quando il Wurm di Pelakka viene messo in un cimitero dal campo di battaglia, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0205</id>
+    <name>Vendetta della Preda</name>
+    <text>Una creatura bersaglio prende +2/+2 fino alla fine del turno.
+Ripresa (Se lanci questa magia dalla tua mano, esiliala quando si risolve. All'inizio del tuo prossimo mantenimento, puoi lanciare questa carta dall'esilio senza pagare il suo costo di mana.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0206</id>
+    <name>Reami Mai Esplorati</name>
+    <text>Passa in rassegna il tuo grimorio per quattro carte terra con nomi diversi e rivelale. Un avversario sceglie due di quelle carte. Metti le carte scelte nel tuo cimitero e aggiungi le altre alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0207</id>
+    <name>Essenza del Serpente</name>
+    <text>Incanta creatura
+La creatura incantata prende +1/+1 e ha "Ogniqualvolta questa creatura infligge danno a un avversario, puoi pescare una carta".
+Armatura totem (Se la creatura incantata sta per essere distrutta, rimuovi invece tutto il danno da essa e distruggi quest'Aura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0208</id>
+    <name>Essenza del Ragno</name>
+    <text>Incanta creatura
+La creatura incantata prende +1/+1 e ha raggiungere. (Può bloccare le creature con volare.)
+Armatura totem (Se la creatura incantata sta per essere distrutta, rimuovi invece tutto il danno da essa e distruggi quest'Aura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0209</id>
+    <name>Ragno Calotta di Spore</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0210</id>
+    <name>Cucciolo Calcante</name>
+    <text>Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0211</id>
+    <name>Protettore dei Tajuru</name>
+    <text>Le magie e le abilità controllate dai tuoi avversari non possono farti sacrificare permanenti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0212</id>
+    <name>Liane Vendicative</name>
+    <text>Rapidità
+Ogniqualvolta lanci una magia, se è la seconda magia creatura che lanci in questo turno, puoi rimettere sul campo di battaglia le Liane Vendicative dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0213</id>
+    <name>Evocatrice di Cuore Selvaggio</name>
+    <text>{8}: Una creatura bersaglio prende +5/+5 e ha travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0214</id>
+    <name>Sarkhan il Folle</name>
+    <text>[0]: Rivela la prima carta del tuo grimorio e aggiungila alla tua mano. Sarkhan il Folle infligge a se stesso danno pari al costo di mana convertito di quella carta.
+[-2]: Il controllore di una creatura bersaglio la sacrifica, poi quel giocatore mette sul campo di battaglia una pedina creatura Drago 5/5 rossa con volare.
+[-4]: Ogni creatura Drago che controlli infligge danno pari alla sua forza a un giocatore bersaglio.
+[Fedeltà 7]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0215</id>
+    <name>Fiala del Cuore Angelico</name>
+    <text>Ogniqualvolta ti viene inflitto danno, puoi mettere altrettanti segnalini carica sulla Fiala del Cuore Angelico.
+{2}, {T}, Rimuovi quattro segnalini carica dalla Fiala del Cuore Angelico: Guadagni 2 punti vita e peschi una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0216</id>
+    <name>Edro della Pietra Onirica</name>
+    <text>{T}: Aggiungi {3} alla tua riserva di mana.
+{3}, {T}, Sacrifica l'Edro della Pietra Onirica: Pesca tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0217</id>
+    <name>Golem di Enatu</name>
+    <text>Quando il Golem di Enatu viene messo in un cimitero dal campo di battaglia, guadagni 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0218</id>
+    <name>Matrice di Edri</name>
+    <text>La creatura equipaggiata prende +X/+X, dove X è il suo costo di mana convertito.
+Equipaggiare {4}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0219</id>
+    <name>Pietra del Lamento</name>
+    <text>{5}, {T}: Un giocatore bersaglio mette nel suo cimitero le prime X carte del suo grimorio, dove X è il numero di carte nel cimitero di quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0220</id>
+    <name>Mannaia dell'Ogre</name>
+    <text>La creatura equipaggiata prende +5/+0.
+Equipaggiare {5}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0221</id>
+    <name>Lama del Vessillo</name>
+    <text>La creatura equipaggiata prende +1/+1 per ogni creatura che controlli.
+Equipaggiare {4}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0222</id>
+    <name>Prisma Profetico</name>
+    <text>Quando il Prisma Profetico entra nel campo di battaglia, pesca una carta.
+{1}, {T}: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0223</id>
+    <name>Baluardo Rinforzato</name>
+    <text>Difensore
+{T}: Previeni il prossimo danno che ti verrebbe inflitto in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0224</id>
+    <name>Servitore Runico</name>
+    <text>Quando il Servitore Runico viene messo in un cimitero dal campo di battaglia, ogni giocatore pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0225</id>
+    <name>Bacchetta di Osso della Sfinge</name>
+    <text>Ogniqualvolta lanci una magia istantaneo o stregoneria, puoi mettere un segnalino carica sulla Bacchetta di Osso della Sfinge. Se lo fai, la Bacchetta di Osso della Sfinge infligge danno pari al numero di segnalini carica su di essa a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0226</id>
+    <name>Carro del Guerrafondaio</name>
+    <text>La creatura equipaggiata prende +2/+2.
+Fintanto che la creatura equipaggiata ha difensore, può attaccare come se non avesse difensore.
+Equipaggiare {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0227</id>
+    <name>Tempio Eldrazi</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {2} alla tua riserva di mana. Spendi questo mana solo per lanciare magie Eldrazi incolori o attivare abilità di Eldrazi incolori.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0228</id>
+    <name>Terre Selvagge in Evoluzione</name>
+    <text>{T}, Sacrifica le Terre Selvagge in Evoluzione: Passa in rassegna il tuo grimorio per una carta terra base e mettila sul campo di battaglia TAPpata. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0229</id>
+    <name>Pianura</name>
+    <text>{W}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0230</id>
+    <name>Pianura</name>
+    <text>{W}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0231</id>
+    <name>Pianura</name>
+    <text>{W}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0232</id>
+    <name>Pianura</name>
+    <text>{W}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0233</id>
+    <name>Isola</name>
+    <text>{U}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0234</id>
+    <name>Isola</name>
+    <text>{U}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0235</id>
+    <name>Isola</name>
+    <text>{U}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0236</id>
+    <name>Isola</name>
+    <text>{U}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0237</id>
+    <name>Palude</name>
+    <text>{B}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0238</id>
+    <name>Palude</name>
+    <text>{B}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0239</id>
+    <name>Palude</name>
+    <text>{B}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0240</id>
+    <name>Palude</name>
+    <text>{B}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0241</id>
+    <name>Montagna</name>
+    <text>{R}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0242</id>
+    <name>Montagna</name>
+    <text>{R}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0243</id>
+    <name>Montagna</name>
+    <text>{R}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0244</id>
+    <name>Montagna</name>
+    <text>{R}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0245</id>
+    <name>Foresta</name>
+    <text>{G}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0246</id>
+    <name>Foresta</name>
+    <text>{G}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0247</id>
+    <name>Foresta</name>
+    <text>{G}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ROE0248</id>
+    <name>Foresta</name>
+    <text>{G}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

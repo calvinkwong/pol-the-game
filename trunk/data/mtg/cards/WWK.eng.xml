@@ -1,0 +1,1068 @@
+<cards name="Worldwake">
+  <item>
+    <id>WWK0001</id>
+    <name>Admonition Angel</name>
+    <text>Flying
+Landfall — Whenever a land enters the battlefield under your control, you may exile target nonland permanent other than Admonition Angel.
+When Admonition Angel leaves the battlefield, return all cards exiled with it to the battlefield under their owners' control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0002</id>
+    <name>Apex Hawks</name>
+    <text>Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)
+Flying
+Apex Hawks enters the battlefield with a +1/+1 counter on it for each time it was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0003</id>
+    <name>Archon of Redemption</name>
+    <text>Flying
+Whenever Archon of Redemption or another creature with flying enters the battlefield under your control, you may gain life equal to that creature's power.</text>
+    <flavorText>Until Emeria is freed, he raises his sword in her name.</flavorText>
+  </item>
+  <item>
+    <id>WWK0004</id>
+    <name>Battle Hurda</name>
+    <text>First strike</text>
+    <flavorText>"Murasan hurdas were too aggressive to tolerate a harness, so we put them on guard duty. Now the bandits can't get within spitting distance of us."
+—Bruse Tarl, Goma Fada nomad</flavorText>
+  </item>
+  <item>
+    <id>WWK0005</id>
+    <name>Fledgling Griffin</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, Fledgling Griffin gains flying until end of turn.</text>
+    <flavorText>"We're making progress, but its desire to explore still far exceeds its ability."
+—Amadi, Halimar griffin-master</flavorText>
+  </item>
+  <item>
+    <id>WWK0006</id>
+    <name>Guardian Zendikon</name>
+    <text>Enchant land
+Enchanted land is a 2/6 white Wall creature with defender. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0007</id>
+    <name>Hada Freeblade</name>
+    <text>Whenever Hada Freeblade or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Hada Freeblade.</text>
+    <flavorText>"I toiled in Kazuul's mines when I was eight. I think I'm tough enough for a little hiking."</flavorText>
+  </item>
+  <item>
+    <id>WWK0008</id>
+    <name>Iona's Judgment</name>
+    <text>Exile target creature or enchantment.</text>
+    <flavorText>Beneath the gaze of angels, only the righteous may stand without fear.</flavorText>
+  </item>
+  <item>
+    <id>WWK0009</id>
+    <name>Join the Ranks</name>
+    <text>Put two 1/1 white Soldier Ally creature tokens onto the battlefield.</text>
+    <flavorText>Expeditionary houses are notorious for their rivalries. But when adventurers meet in the wilderness, the instinct for mutual survival outweighs petty grudges.</flavorText>
+  </item>
+  <item>
+    <id>WWK0010</id>
+    <name>Kitesail Apprentice</name>
+    <text>As long as Kitesail Apprentice is equipped, it gets +1/+1 and has flying.</text>
+    <flavorText>Carving lines through the sky, kite sailors map trails for the pilgrims below to follow.</flavorText>
+  </item>
+  <item>
+    <id>WWK0011</id>
+    <name>Kor Firewalker</name>
+    <text>Protection from red
+Whenever a player casts a red spell, you may gain 1 life.</text>
+    <flavorText>"A river of lava is just another river to cross."</flavorText>
+  </item>
+  <item>
+    <id>WWK0012</id>
+    <name>Lightkeeper of Emeria</name>
+    <text>Multikicker {W} (You may pay an additional {W} any number of times as you cast this spell.)
+Flying
+When Lightkeeper of Emeria enters the battlefield, you gain 2 life for each time it was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0013</id>
+    <name>Loam Lion</name>
+    <text>Loam Lion gets +1/+2 as long as you control a Forest.</text>
+    <flavorText>In Zendikar, today's grassland could be tomorrow's jungle, and hunting grounds change as quickly as the weather.</flavorText>
+  </item>
+  <item>
+    <id>WWK0014</id>
+    <name>Marsh Threader</name>
+    <text>Swampwalk</text>
+    <flavorText>"Give me a sturdy rope over the advice of any so-called expert. I can thread the dark wilds better than anyone."</flavorText>
+  </item>
+  <item>
+    <id>WWK0015</id>
+    <name>Marshal's Anthem</name>
+    <text>Multikicker {1}{W} (You may pay an additional {1}{W} any number of times as you cast this spell.)
+Creatures you control get +1/+1.
+When Marshal's Anthem enters the battlefield, return up to X target creature cards from your graveyard to the battlefield, where X is the number of times Marshal's Anthem was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0016</id>
+    <name>Perimeter Captain</name>
+    <text>Defender
+Whenever a creature you control with defender blocks, you may gain 2 life.</text>
+    <flavorText>"We stand between the jaws of chaos and the mantle of order."</flavorText>
+  </item>
+  <item>
+    <id>WWK0017</id>
+    <name>Refraction Trap</name>
+    <text>If an opponent cast a red instant or sorcery spell this turn, you may pay {W} rather than pay Refraction Trap's mana cost.
+Prevent the next 3 damage that a source of your choice would deal to you and/or permanents you control this turn. If damage is prevented this way, Refraction Trap deals that much damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0018</id>
+    <name>Rest for the Weary</name>
+    <text>Target player gains 4 life.
+Landfall — If you had a land enter the battlefield under your control this turn, that player gains 8 life instead.</text>
+    <flavorText>Zendikar is a brutal taskmaster, but sometimes it offers unexpected solace.</flavorText>
+  </item>
+  <item>
+    <id>WWK0019</id>
+    <name>Ruin Ghost</name>
+    <text>{W}, {T}: Exile target land you control, then return it to the battlefield under your control.</text>
+    <flavorText>The Forsaken Ones haunt the ruins that flicker in and out of the spirit realm. Such sites are hard to find and even harder to loot.</flavorText>
+  </item>
+  <item>
+    <id>WWK0020</id>
+    <name>Stoneforge Mystic</name>
+    <text>When Stoneforge Mystic enters the battlefield, you may search your library for an Equipment card, reveal it, put it into your hand, then shuffle your library.
+{1}{W}, {T}: You may put an Equipment card from your hand onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0021</id>
+    <name>Talus Paladin</name>
+    <text>Whenever Talus Paladin or another Ally enters the battlefield under your control, you may have Allies you control gain lifelink until end of turn, and you may put a +1/+1 counter on Talus Paladin.</text>
+    <flavorText>"Why fill pockets with gold when you can fill hearts with conviction?"</flavorText>
+  </item>
+  <item>
+    <id>WWK0022</id>
+    <name>Terra Eternal</name>
+    <text>All lands are indestructible.</text>
+    <flavorText>"If this world could make a wish, it would be to survive the parasites who loot its treasures and threaten its life force."
+—Saidah, Joraga hunter</flavorText>
+  </item>
+  <item>
+    <id>WWK0023</id>
+    <name>Veteran's Reflexes</name>
+    <text>Target creature gets +1/+1 until end of turn. Untap that creature.</text>
+    <flavorText>"Assume everything wants to kill you. At the very least, assume everything wants what's in your pack."</flavorText>
+  </item>
+  <item>
+    <id>WWK0024</id>
+    <name>Æther Tradewinds</name>
+    <text>Return target permanent you control and target permanent you don't control to their owners' hands.</text>
+    <flavorText>"The wind smells of misfortune. Check your knots."
+—Anitan, Ondu cleric</flavorText>
+  </item>
+  <item>
+    <id>WWK0025</id>
+    <name>Calcite Snapper</name>
+    <text>Shroud (This creature can't be the target of spells or abilities.)
+Landfall — Whenever a land enters the battlefield under your control, you may switch Calcite Snapper's power and toughness until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0026</id>
+    <name>Dispel</name>
+    <text>Counter target instant spell.</text>
+    <flavorText>The Jwari winds undo reality as easily as they scatter a pile of leaves.</flavorText>
+  </item>
+  <item>
+    <id>WWK0027</id>
+    <name>Enclave Elite</name>
+    <text>Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)
+Islandwalk
+Enclave Elite enters the battlefield with a +1/+1 counter on it for each time it was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0028</id>
+    <name>Goliath Sphinx</name>
+    <text>Flying</text>
+    <flavorText>He makes his home on the tallest mountain in Sejiri, where the vista is as endless as his patience.</flavorText>
+  </item>
+  <item>
+    <id>WWK0029</id>
+    <name>Halimar Excavator</name>
+    <text>Whenever Halimar Excavator or another Ally enters the battlefield under your control, target player puts the top X cards of his or her library into his or her graveyard, where X is the number of Allies you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0030</id>
+    <name>Horizon Drake</name>
+    <text>Flying, protection from lands</text>
+    <flavorText>Using thermal updrafts and gravity currents, drakes eat and sleep in the air. Some never touch the ground from birth until death.</flavorText>
+  </item>
+  <item>
+    <id>WWK0031</id>
+    <name>Jace, the Mind Sculptor</name>
+    <text>+2: Look at the top card of target player's library. You may put that card on the bottom of that player's library.
+0: Draw three cards, then put two cards from your hand on top of your library in any order.
+-1: Return target creature to its owner's hand.
+-12: Exile all cards from target player's library, then that player shuffles his or her hand into his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0032</id>
+    <name>Jwari Shapeshifter</name>
+    <text>You may have Jwari Shapeshifter enter the battlefield as a copy of any Ally creature on the battlefield.</text>
+    <flavorText>"The best expedition would be an entire team of me."</flavorText>
+  </item>
+  <item>
+    <id>WWK0033</id>
+    <name>Mysteries of the Deep</name>
+    <text>Draw two cards.
+Landfall — If you had a land enter the battlefield under your control this turn, draw three cards instead.</text>
+    <flavorText>"The Roil is destructive, but not random. It's Zendikar's way of revealing secrets."
+—Ilori, merfolk falconer</flavorText>
+  </item>
+  <item>
+    <id>WWK0034</id>
+    <name>Permafrost Trap</name>
+    <text>If an opponent had a green creature enter the battlefield under his or her control this turn, you may pay {U} rather than pay Permafrost Trap's mana cost.
+Tap up to two target creatures. Those creatures don't untap during their controller's next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0035</id>
+    <name>Quest for Ula's Temple</name>
+    <text>At the beginning of your upkeep, you may look at the top card of your library. If it's a creature card, you may reveal it and put a quest counter on Quest for Ula's Temple.
+At the beginning of each end step, if there are three or more quest counters on Quest for Ula's Temple, you may put a Kraken, Leviathan, Octopus, or Serpent creature card from your hand onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0036</id>
+    <name>Sejiri Merfolk</name>
+    <text>As long as you control a Plains, Sejiri Merfolk has first strike and lifelink. (Damage dealt by a creature with lifelink also causes its controller to gain that much life.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0037</id>
+    <name>Selective Memory</name>
+    <text>Search your library for any number of nonland cards and exile them. Then shuffle your library.</text>
+    <flavorText>"I of all people know that memory is not a safe place to hide valuables."
+—Jace Beleren</flavorText>
+  </item>
+  <item>
+    <id>WWK0038</id>
+    <name>Spell Contortion</name>
+    <text>Multikicker {1}{U} (You may pay an additional {1}{U} any number of times as you cast this spell.)
+Counter target spell unless its controller pays {2}. Draw a card for each time Spell Contortion was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0039</id>
+    <name>Surrakar Banisher</name>
+    <text>When Surrakar Banisher enters the battlefield, you may return target tapped creature to its owner's hand.</text>
+    <flavorText>Surrakar grab things they don't want.</flavorText>
+  </item>
+  <item>
+    <id>WWK0040</id>
+    <name>Thada Adel, Acquisitor</name>
+    <text>Islandwalk
+Whenever Thada Adel, Acquisitor deals combat damage to a player, search that player's library for an artifact card and exile it. Then that player shuffles his or her library. Until end of turn, you may play that card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0041</id>
+    <name>Tideforce Elemental</name>
+    <text>{U}, {T}: You may tap or untap another target creature.
+Landfall — Whenever a land enters the battlefield under your control, you may untap Tideforce Elemental.</text>
+    <flavorText>Ebb and flow, high tide and low, quick as sand and just as slow.</flavorText>
+  </item>
+  <item>
+    <id>WWK0042</id>
+    <name>Treasure Hunt</name>
+    <text>Reveal cards from the top of your library until you reveal a nonland card, then put all cards revealed this way into your hand.</text>
+    <flavorText>"The longer the journey, the more one learns."
+—Isanke, Halimar seastalker</flavorText>
+  </item>
+  <item>
+    <id>WWK0043</id>
+    <name>Twitch</name>
+    <text>You may tap or untap target artifact, creature, or land.
+Draw a card.</text>
+    <flavorText>"The flow is diverted. Your path is clear. What are you waiting for—the cave to bid you welcome?"
+—Maizah Shere, Tazeem lullmage</flavorText>
+  </item>
+  <item>
+    <id>WWK0044</id>
+    <name>Vapor Snare</name>
+    <text>Enchant creature
+You control enchanted creature.
+At the beginning of your upkeep, sacrifice Vapor Snare unless you return a land you control to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0045</id>
+    <name>Voyager Drake</name>
+    <text>Multikicker {U} (You may pay an additional {U} any number of times as you cast this spell.)
+Flying
+When Voyager Drake enters the battlefield, up to X target creatures gain flying until end of turn, where X is the number of times Voyager Drake was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0046</id>
+    <name>Wind Zendikon</name>
+    <text>Enchant land
+Enchanted land is a 2/2 blue Elemental creature with flying. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0047</id>
+    <name>Abyssal Persecutor</name>
+    <text>Flying, trample
+You can't win the game and your opponents can't lose the game.</text>
+    <flavorText>His slaves crave death more than they desire freedom. He denies them both.</flavorText>
+  </item>
+  <item>
+    <id>WWK0048</id>
+    <name>Agadeem Occultist</name>
+    <text>{T}: Put target creature card from an opponent's graveyard onto the battlefield under your control if its converted mana cost is less than or equal to the number of Allies you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0049</id>
+    <name>Anowon, the Ruin Sage</name>
+    <text>At the beginning of your upkeep, each player sacrifices a non-Vampire creature.</text>
+    <flavorText>"So many have died in search of that map. And now it appears in the hands of the arrogant child Chandra Nalaar."</flavorText>
+  </item>
+  <item>
+    <id>WWK0050</id>
+    <name>Bloodhusk Ritualist</name>
+    <text>Multikicker {B} (You may pay an additional {B} any number of times as you cast this spell.)
+When Bloodhusk Ritualist enters the battlefield, target opponent discards a card for each time it was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0051</id>
+    <name>Bojuka Brigand</name>
+    <text>Bojuka Brigand can't block.
+Whenever Bojuka Brigand or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Bojuka Brigand.</text>
+    <flavorText>"I don't do tactics. I don't do guard duty. I do damage. Take it or leave it."</flavorText>
+  </item>
+  <item>
+    <id>WWK0052</id>
+    <name>Brink of Disaster</name>
+    <text>Enchant creature or land
+When enchanted permanent becomes tapped, destroy it.</text>
+    <flavorText>"You always have a choice. That doesn't mean you always have a good choice."
+—Alubri, Guul Draz gatekeeper</flavorText>
+  </item>
+  <item>
+    <id>WWK0053</id>
+    <name>Butcher of Malakir</name>
+    <text>Flying
+Whenever Butcher of Malakir or another creature you control is put into a graveyard from the battlefield, each opponent sacrifices a creature.</text>
+    <flavorText>His verdict is always guilty. His sentence is always death.</flavorText>
+  </item>
+  <item>
+    <id>WWK0054</id>
+    <name>Caustic Crawler</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may have target creature get -1/-1 until end of turn.</text>
+    <flavorText>Novice explorers can mistake the acid-carved stone lairs for ancient ruins. They rarely survive to learn better.</flavorText>
+  </item>
+  <item>
+    <id>WWK0055</id>
+    <name>Corrupted Zendikon</name>
+    <text>Enchant land
+Enchanted land is a 3/3 black Ooze creature. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0056</id>
+    <name>Dead Reckoning</name>
+    <text>You may put target creature card from your graveyard on top of your library. If you do, Dead Reckoning deals damage equal to that card's power to target creature.</text>
+    <flavorText>Many venture out to hunt for treasures. Others lie in wait to hunt the hunters.</flavorText>
+  </item>
+  <item>
+    <id>WWK0057</id>
+    <name>Death's Shadow</name>
+    <text>Death's Shadow gets -X/-X, where X is your life total.</text>
+    <flavorText>The shadow of the candle looms tall even as its light grows dim.</flavorText>
+  </item>
+  <item>
+    <id>WWK0058</id>
+    <name>Jagwasp Swarm</name>
+    <text>Flying</text>
+    <flavorText>"You know how to tell a sapling explorer from an old hardhead? See which one mistakes a swarm of jagwasps for the setting sun."
+—Chadir the Navigator</flavorText>
+  </item>
+  <item>
+    <id>WWK0059</id>
+    <name>Kalastria Highborn</name>
+    <text>Whenever Kalastria Highborn or another Vampire you control is put into a graveyard from the battlefield, you may pay {B}. If you do, target player loses 2 life and you gain 2 life.</text>
+    <flavorText>Each of Malakir's great families boasts a contingent of nulls appropriate to its rank in society.</flavorText>
+  </item>
+  <item>
+    <id>WWK0060</id>
+    <name>Mire's Toll</name>
+    <text>Target player reveals a number of cards from his or her hand equal to the number of Swamps you control. You choose one of them. That player discards that card.</text>
+    <flavorText>As the bridge snapped, Berko was sure he heard the swamp laughing at him.</flavorText>
+  </item>
+  <item>
+    <id>WWK0061</id>
+    <name>Nemesis Trap</name>
+    <text>If a white creature is attacking, you may pay {B}{B} rather than pay Nemesis Trap's mana cost.
+Exile target attacking creature. Put a token that's a copy of that creature onto the battlefield. Exile it at the beginning of the next end step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0062</id>
+    <name>Pulse Tracker</name>
+    <text>Whenever Pulse Tracker attacks, each opponent loses 1 life.</text>
+    <flavorText>Pulse trackers terrorize adventurers, driving them through the jungle toward certain death at the gates of Malakir.</flavorText>
+  </item>
+  <item>
+    <id>WWK0063</id>
+    <name>Quag Vampires</name>
+    <text>Multikicker {1}{B} (You may pay an additional {1}{B} any number of times as you cast this spell.)
+Swampwalk
+Quag Vampires enters the battlefield with a +1/+1 counter on it for each time it was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0064</id>
+    <name>Quest for the Nihil Stone</name>
+    <text>Whenever an opponent discards a card, you may put a quest counter on Quest for the Nihil Stone.
+At the beginning of each opponent's upkeep, if that player has no cards in hand and Quest for the Nihil Stone has two or more quest counters on it, you may have that player lose 5 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0065</id>
+    <name>Ruthless Cullblade</name>
+    <text>Ruthless Cullblade gets +2/+1 as long as an opponent has 10 or less life.</text>
+    <flavorText>She wields a blade as bloodthirsty and elegant as herself.</flavorText>
+  </item>
+  <item>
+    <id>WWK0066</id>
+    <name>Scrib Nibblers</name>
+    <text>{T}: Exile the top card of target player's library. If it's a land card, you gain 1 life.
+Landfall — Whenever a land enters the battlefield under your control, you may untap Scrib Nibblers.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0067</id>
+    <name>Shoreline Salvager</name>
+    <text>Whenever Shoreline Salvager deals combat damage to a player, if you control an Island, you may draw a card.</text>
+    <flavorText>"They search for treasures that wash up from the depths. Tracking one could lead you to riches. Or in circles."
+—Javad Nasrin, Ondu relic hunter</flavorText>
+  </item>
+  <item>
+    <id>WWK0068</id>
+    <name>Smother</name>
+    <text>Destroy target creature with converted mana cost 3 or less. It can't be regenerated.</text>
+    <flavorText>"Before I hire new recruits, I test how long they can hold their breath. You'd be surprised how often it comes up."
+—Zahr Gada, Halimar expedition leader</flavorText>
+  </item>
+  <item>
+    <id>WWK0069</id>
+    <name>Tomb Hex</name>
+    <text>Target creature gets -2/-2 until end of turn.
+Landfall — If you had a land enter the battlefield under your control this turn, that creature gets -4/-4 until end of turn instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0070</id>
+    <name>Urge to Feed</name>
+    <text>Target creature gets -3/-3 until end of turn. You may tap any number of untapped Vampire creatures you control. If you do, put a +1/+1 counter on each of those Vampires.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0071</id>
+    <name>Akoum Battlesinger</name>
+    <text>Haste
+Whenever Akoum Battlesinger or another Ally enters the battlefield under your control, you may have Ally creatures you control get +1/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0072</id>
+    <name>Bazaar Trader</name>
+    <text>{T}: Target player gains control of target artifact, creature, or land you control.</text>
+    <flavorText>"No need for a hurda? How about these maps to recently discovered tombs? Or these vials of invisible potion? Very fancy . . ."</flavorText>
+  </item>
+  <item>
+    <id>WWK0073</id>
+    <name>Bull Rush</name>
+    <text>Target creature gets +2/+0 until end of turn.</text>
+    <flavorText>"It's gone mad! Loose the chains and save what you can!"</flavorText>
+  </item>
+  <item>
+    <id>WWK0074</id>
+    <name>Chain Reaction</name>
+    <text>Chain Reaction deals X damage to each creature, where X is the number of creatures on the battlefield.</text>
+    <flavorText>"We train for the improbable, like lightning striking the same place twice, or striking everywhere at once."
+—Nundari, Sea Gate militia captain</flavorText>
+  </item>
+  <item>
+    <id>WWK0075</id>
+    <name>Claws of Valakut</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+0 for each Mountain you control and has first strike.</text>
+    <flavorText>"Swords may sunder. Shields may fail. My will is stronger than steel, and my flesh and bone far more deadly."</flavorText>
+  </item>
+  <item>
+    <id>WWK0076</id>
+    <name>Comet Storm</name>
+    <text>Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+Choose target creature or player, then choose another target creature or player for each time Comet Storm was kicked. Comet Storm deals X damage to each of them.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0077</id>
+    <name>Cosi's Ravager</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may have Cosi's Ravager deal 1 damage to target player.</text>
+    <flavorText>"Cosi has many followers. Even the volcano finds a way to do his bidding."
+—Zakken, Enclave cleric</flavorText>
+  </item>
+  <item>
+    <id>WWK0078</id>
+    <name>Crusher Zendikon</name>
+    <text>Enchant land
+Enchanted land is a 4/2 red Beast creature with trample. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0079</id>
+    <name>Cunning Sparkmage</name>
+    <text>Haste
+{T}: Cunning Sparkmage deals 1 damage to target creature or player.</text>
+    <flavorText>"I see the weaknesses you hide even from yourself."</flavorText>
+  </item>
+  <item>
+    <id>WWK0080</id>
+    <name>Deathforge Shaman</name>
+    <text>Multikicker {R} (You may pay an additional {R} any number of times as you cast this spell.)
+When Deathforge Shaman enters the battlefield, it deals damage to target player equal to twice the number of times it was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0081</id>
+    <name>Dragonmaster Outcast</name>
+    <text>At the beginning of your upkeep, if you control six or more lands, put a 5/5 red Dragon creature token with flying onto the battlefield.</text>
+    <flavorText>"Cast out by my tribe, I am a pariah trapped in this mammal's carcass. Only my true kin hear my cries."</flavorText>
+  </item>
+  <item>
+    <id>WWK0082</id>
+    <name>Goblin Roughrider</name>
+    <text>
+    </text>
+    <flavorText>Astride the bucking creature, Gribble hurtled down the mountainside while his Grotag brethren cheered. It was at that moment that legend of the Skrill Tamer was born.</flavorText>
+  </item>
+  <item>
+    <id>WWK0083</id>
+    <name>Grotag Thrasher</name>
+    <text>Whenever Grotag Thrasher attacks, target creature can't block this turn.</text>
+    <flavorText>The goblin fancied himself a rider. The lizard was happy with its new flail.</flavorText>
+  </item>
+  <item>
+    <id>WWK0084</id>
+    <name>Kazuul, Tyrant of the Cliffs</name>
+    <text>Whenever a creature an opponent controls attacks, if you're the defending player, put a 3/3 red Ogre creature token onto the battlefield unless that creature's controller pays {3}.</text>
+    <flavorText>Warning to those who scale the cliffs without paying tribute: It's a long way down.</flavorText>
+  </item>
+  <item>
+    <id>WWK0085</id>
+    <name>Mordant Dragon</name>
+    <text>Flying
+{1}{R}: Mordant Dragon gets +1/+0 until end of turn.
+Whenever Mordant Dragon deals combat damage to a player, you may have it deal that much damage to target creature that player controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0086</id>
+    <name>Quest for the Goblin Lord</name>
+    <text>Whenever a Goblin enters the battlefield under your control, you may put a quest counter on Quest for the Goblin Lord.
+As long as Quest for the Goblin Lord has five or more quest counters on it, creatures you control get +2/+0.</text>
+    <flavorText>A shrine to unchecked desire.</flavorText>
+  </item>
+  <item>
+    <id>WWK0087</id>
+    <name>Ricochet Trap</name>
+    <text>If an opponent cast a blue spell this turn, you may pay {R} rather than pay Ricochet Trap's mana cost.
+Change the target of target spell with a single target.</text>
+    <flavorText>In his last seconds, Remhas regretted using his most powerful spell.</flavorText>
+  </item>
+  <item>
+    <id>WWK0088</id>
+    <name>Roiling Terrain</name>
+    <text>Destroy target land, then Roiling Terrain deals damage to that land's controller equal to the number of land cards in that player's graveyard.</text>
+    <flavorText>"The trembling lands ruptured, leaving an open door for things from below to emerge."
+—Screed of the Mul Daya</flavorText>
+  </item>
+  <item>
+    <id>WWK0089</id>
+    <name>Rumbling Aftershocks</name>
+    <text>Whenever you cast a kicked spell, you may have Rumbling Aftershocks deal damage to target creature or player equal to the number of times that spell was kicked.</text>
+    <flavorText>"I like it here. You always get a little more for your mana."
+—Chandra Nalaar</flavorText>
+  </item>
+  <item>
+    <id>WWK0090</id>
+    <name>Searing Blaze</name>
+    <text>Searing Blaze deals 1 damage to target player and 1 damage to target creature that player controls.
+Landfall — If you had a land enter the battlefield under your control this turn, Searing Blaze deals 3 damage to that player and 3 damage to that creature instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0091</id>
+    <name>Skitter of Lizards</name>
+    <text>Multikicker {1}{R} (You may pay an additional {1}{R} any number of times as you cast this spell.)
+Haste
+Skitter of Lizards enters the battlefield with a +1/+1 counter on it for each time it was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0092</id>
+    <name>Slavering Nulls</name>
+    <text>Whenever Slavering Nulls deals combat damage to a player, if you control a Swamp, you may have that player discard a card.</text>
+    <flavorText>Having lost their minds, they now want yours.</flavorText>
+  </item>
+  <item>
+    <id>WWK0093</id>
+    <name>Stone Idol Trap</name>
+    <text>Stone Idol Trap costs {1} less to cast for each attacking creature.
+Put a 6/12 colorless Construct artifact creature token with trample onto the battlefield. Exile it at the beginning of your next end step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0094</id>
+    <name>Tuktuk Scrapper</name>
+    <text>Whenever Tuktuk Scrapper or another Ally enters the battlefield under your control, you may destroy target artifact. If that artifact is put into a graveyard this way, Tuktuk Scrapper deals damage to that artifact's controller equal to the number of Allies you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0095</id>
+    <name>Arbor Elf</name>
+    <text>{T}: Untap target Forest.</text>
+    <flavorText>The Mul Daya elves reject their Tajuru kin, calling them arrogant tree-binders who think the roots serve the canopy.</flavorText>
+  </item>
+  <item>
+    <id>WWK0096</id>
+    <name>Avenger of Zendikar</name>
+    <text>When Avenger of Zendikar enters the battlefield, put a 0/1 green Plant creature token onto the battlefield for each land you control.
+Landfall — Whenever a land enters the battlefield under your control, you may put a +1/+1 counter on each Plant creature you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0097</id>
+    <name>Bestial Menace</name>
+    <text>Put a 1/1 green Snake creature token, a 2/2 green Wolf creature token, and a 3/3 green Elephant creature token onto the battlefield.</text>
+    <flavorText>"My battle cry reaches ears far keener than yours."
+—Saidah, Joraga hunter</flavorText>
+  </item>
+  <item>
+    <id>WWK0098</id>
+    <name>Canopy Cover</name>
+    <text>Enchant creature
+Enchanted creature can't be blocked except by creatures with flying or reach.
+Enchanted creature can't be the target of spells or abilities your opponents control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0099</id>
+    <name>Explore</name>
+    <text>You may play an additional land this turn.
+Draw a card.</text>
+    <flavorText>An explorer's reward is a view of tomorrow's possibilities.</flavorText>
+  </item>
+  <item>
+    <id>WWK0100</id>
+    <name>Feral Contest</name>
+    <text>Put a +1/+1 counter on target creature you control. Another target creature blocks it this turn if able.</text>
+    <flavorText>The instinct for survival makes enemies of all.</flavorText>
+  </item>
+  <item>
+    <id>WWK0101</id>
+    <name>Gnarlid Pack</name>
+    <text>Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)
+Gnarlid Pack enters the battlefield with a +1/+1 counter on it for each time it was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0102</id>
+    <name>Grappler Spider</name>
+    <text>Reach (This creature can block creatures with flying.)</text>
+    <flavorText>Creatures of the air wisely avoid the darkest regions of Guul Draz—which is why grappler spiders inhabit the few places touched by the sun's rays.</flavorText>
+  </item>
+  <item>
+    <id>WWK0103</id>
+    <name>Graypelt Hunter</name>
+    <text>Trample
+Whenever Graypelt Hunter or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Graypelt Hunter.</text>
+    <flavorText>He'll cleave wood and bone alike to carve a path for his allies.</flavorText>
+  </item>
+  <item>
+    <id>WWK0104</id>
+    <name>Groundswell</name>
+    <text>Target creature gets +2/+2 until end of turn.
+Landfall — If you had a land enter the battlefield under your control this turn, that creature gets +4/+4 until end of turn instead.</text>
+    <flavorText>"This world will not be tamed."</flavorText>
+  </item>
+  <item>
+    <id>WWK0105</id>
+    <name>Harabaz Druid</name>
+    <text>{T}: Add X mana of any one color to your mana pool, where X is the number of Allies you control.</text>
+    <flavorText>"I care nothing for treasure. The land beckons me, and I cannot rest until my feet have touched every inch of it."</flavorText>
+  </item>
+  <item>
+    <id>WWK0106</id>
+    <name>Joraga Warcaller</name>
+    <text>Multikicker {1}{G} (You may pay an additional {1}{G} any number of times as you cast this spell.)
+Joraga Warcaller enters the battlefield with a +1/+1 counter on it for each time it was kicked.
+Other Elf creatures you control get +1/+1 for each +1/+1 counter on Joraga Warcaller.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0107</id>
+    <name>Leatherback Baloth</name>
+    <text>
+    </text>
+    <flavorText>Heavy enough to withstand the Roil, leatherback skeletons are havens for travelers in storms and landshifts.</flavorText>
+  </item>
+  <item>
+    <id>WWK0108</id>
+    <name>Nature's Claim</name>
+    <text>Destroy target artifact or enchantment. Its controller gains 4 life.</text>
+    <flavorText>"On this plane, the use of magic can provoke a ferocious reprisal from nature. Whoever the Eldrazi were, their relics left Zendikar forever enraged."
+—Jace Beleren</flavorText>
+  </item>
+  <item>
+    <id>WWK0109</id>
+    <name>Omnath, Locus of Mana</name>
+    <text>Green mana doesn't empty from your mana pool as steps and phases end.
+Omnath, Locus of Mana gets +1/+1 for each green mana in your mana pool.</text>
+    <flavorText>It gathers against the coming storm.</flavorText>
+  </item>
+  <item>
+    <id>WWK0110</id>
+    <name>Quest for Renewal</name>
+    <text>Whenever a creature you control becomes tapped, you may put a quest counter on Quest for Renewal.
+As long as there are four or more quest counters on Quest for Renewal, untap all creatures you control during each other player's untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0111</id>
+    <name>Slingbow Trap</name>
+    <text>If a black creature with flying is attacking, you may pay {G} rather than pay Slingbow Trap's mana cost.
+Destroy target attacking creature with flying.</text>
+    <flavorText>The Tajuru elves devised ways to let the forest defend itself.</flavorText>
+  </item>
+  <item>
+    <id>WWK0112</id>
+    <name>Snapping Creeper</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, Snapping Creeper gains vigilance until end of turn.</text>
+    <flavorText>Its vast network of roots and vines keeps it aware of distant dangers.</flavorText>
+  </item>
+  <item>
+    <id>WWK0113</id>
+    <name>Strength of the Tajuru</name>
+    <text>Multikicker {1} (You may pay an additional {1} any number of times as you cast this spell.)
+Choose target creature, then choose another target creature for each time Strength of the Tajuru was kicked. Put X +1/+1 counters on each of them.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0114</id>
+    <name>Summit Apes</name>
+    <text>As long as you control a Mountain, Summit Apes can't be blocked except by two or more creatures.</text>
+    <flavorText>"If you climb Skyfang Peak, avoid the pass. Generations of apes made that trail, and they don't tolerate trespassers."
+—Sachir, Akoum Expeditionary House</flavorText>
+  </item>
+  <item>
+    <id>WWK0115</id>
+    <name>Terastodon</name>
+    <text>When Terastodon enters the battlefield, you may destroy up to three target noncreature permanents. For each permanent put into a graveyard this way, its controller puts a 3/3 green Elephant creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0116</id>
+    <name>Vastwood Animist</name>
+    <text>{T}: Target land you control becomes an X/X Elemental creature until end of turn, where X is the number of Allies you control. It's still a land.</text>
+    <flavorText>He calls on the forests for counsel and summons the earth to his cause.</flavorText>
+  </item>
+  <item>
+    <id>WWK0117</id>
+    <name>Vastwood Zendikon</name>
+    <text>Enchant land
+Enchanted land is a 6/4 green Elemental creature. It's still a land.
+When enchanted land is put into a graveyard, return that card to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0118</id>
+    <name>Wolfbriar Elemental</name>
+    <text>Multikicker {G} (You may pay an additional {G} any number of times as you cast this spell.)
+When Wolfbriar Elemental enters the battlefield, put a 2/2 green Wolf creature token onto the battlefield for each time it was kicked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0119</id>
+    <name>Novablast Wurm</name>
+    <text>Whenever Novablast Wurm attacks, destroy all other creatures.</text>
+    <flavorText>"The sun was born within its coils, but it fled to the sky. The wurm hungers for its child, and the world will bear its loss."
+—Screed of the Mul Daya</flavorText>
+  </item>
+  <item>
+    <id>WWK0120</id>
+    <name>Wrexial, the Risen Deep</name>
+    <text>Islandwalk, swampwalk
+Whenever Wrexial, the Risen Deep deals combat damage to a player, you may cast target instant or sorcery card from that player's graveyard without paying its mana cost. If that card would be put into a graveyard this turn, exile it instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0121</id>
+    <name>Amulet of Vigor</name>
+    <text>Whenever a permanent enters the battlefield tapped and under your control, untap it.</text>
+    <flavorText>"After years of study, I've learned an important lesson: the relics we watch may be watching us back."
+—Anowon, the Ruin Sage</flavorText>
+  </item>
+  <item>
+    <id>WWK0122</id>
+    <name>Basilisk Collar</name>
+    <text>Equipped creature has deathtouch and lifelink.
+Equip {2}</text>
+    <flavorText>During their endless travels, the mages of the Goma Fada caravan have learned ways to harness both life and death.</flavorText>
+  </item>
+  <item>
+    <id>WWK0123</id>
+    <name>Everflowing Chalice</name>
+    <text>Multikicker {2} (You may pay an additional {2} any number of times as you cast this spell.)
+Everflowing Chalice enters the battlefield with a charge counter on it for each time it was kicked.
+{T}: Add {1} to your mana pool for each charge counter on Everflowing Chalice.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0124</id>
+    <name>Hammer of Ruin</name>
+    <text>Equipped creature gets +2/+0.
+Whenever equipped creature deals combat damage to a player, you may destroy target Equipment that player controls.
+Equip {2}</text>
+    <flavorText>By hammer forged, and by hammer undone.</flavorText>
+  </item>
+  <item>
+    <id>WWK0125</id>
+    <name>Hedron Rover</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, Hedron Rover gets +2/+2 until end of turn.</text>
+    <flavorText>"Now that it has woken up and wandered off, we should go see what it was guarding."
+—Gotzen, Bulwark explorer</flavorText>
+  </item>
+  <item>
+    <id>WWK0126</id>
+    <name>Kitesail</name>
+    <text>Equipped creature gets +1/+0 and has flying.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>Kitesailing is a way of life—and without practice, the end of it.</flavorText>
+  </item>
+  <item>
+    <id>WWK0127</id>
+    <name>Lodestone Golem</name>
+    <text>Nonartifact spells cost {1} more to cast.</text>
+    <flavorText>"Somehow it warps the Æther. It brings a strange weight, a blockade in the flow of spellcraft."
+—Noyan Dar, Tazeem lullmage</flavorText>
+  </item>
+  <item>
+    <id>WWK0128</id>
+    <name>Pilgrim's Eye</name>
+    <text>Flying
+When Pilgrim's Eye enters the battlefield, you may search your library for a basic land card, reveal it, put it into your hand, then shuffle your library.</text>
+    <flavorText>The kor send their thopter kites to see if the land is in a welcoming mood.</flavorText>
+  </item>
+  <item>
+    <id>WWK0129</id>
+    <name>Razor Boomerang</name>
+    <text>Equipped creature has "{T}, Unattach Razor Boomerang: Razor Boomerang deals 1 damage to target creature or player. Return Razor Boomerang to its owner's hand."
+Equip {2}</text>
+    <flavorText>Few can catch it without losing a finger.</flavorText>
+  </item>
+  <item>
+    <id>WWK0130</id>
+    <name>Seer's Sundial</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may pay {2}. If you do, draw a card.</text>
+    <flavorText>"The shadow travels toward the apex. I predict we will soon see the true measure of darkness."</flavorText>
+  </item>
+  <item>
+    <id>WWK0131</id>
+    <name>Walking Atlas</name>
+    <text>{T}: You may put a land card from your hand onto the battlefield.</text>
+    <flavorText>Crafted by lullmages and bound to the land, it alters itself to match the tumultuous terrain.</flavorText>
+  </item>
+  <item>
+    <id>WWK0132</id>
+    <name>Bojuka Bog</name>
+    <text>Bojuka Bog enters the battlefield tapped.
+When Bojuka Bog enters the battlefield, exile all cards from target player's graveyard.
+{T}: Add {B} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0133</id>
+    <name>Celestial Colonnade</name>
+    <text>Celestial Colonnade enters the battlefield tapped.
+{T}: Add {W} or {U} to your mana pool.
+{3}{W}{U}: Until end of turn, Celestial Colonnade becomes a 4/4 white and blue Elemental creature with flying and vigilance. It's still a land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0134</id>
+    <name>Creeping Tar Pit</name>
+    <text>Creeping Tar Pit enters the battlefield tapped.
+{T}: Add {U} or {B} to your mana pool.
+{1}{U}{B}: Until end of turn, Creeping Tar Pit becomes a 3/2 blue and black Elemental creature and is unblockable. It's still a land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0135</id>
+    <name>Dread Statuary</name>
+    <text>{T}: Add {1} to your mana pool.
+{4}: Dread Statuary becomes a 4/2 Golem artifact creature until end of turn. It's still a land.</text>
+    <flavorText>The last reliable landmark in Tazeem just walked away.</flavorText>
+  </item>
+  <item>
+    <id>WWK0136</id>
+    <name>Eye of Ugin</name>
+    <text>Colorless Eldrazi spells you cast cost {2} less to cast.
+{7}, {T}: Search your library for a colorless creature card, reveal it, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>An eye closes. A race awakens.</flavorText>
+  </item>
+  <item>
+    <id>WWK0137</id>
+    <name>Halimar Depths</name>
+    <text>Halimar Depths enters the battlefield tapped.
+When Halimar Depths enters the battlefield, look at the top three cards of your library, then put them back in any order.
+{T}: Add {U} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0138</id>
+    <name>Khalni Garden</name>
+    <text>Khalni Garden enters the battlefield tapped.
+When Khalni Garden enters the battlefield, put a 0/1 green Plant creature token onto the battlefield.
+{T}: Add {G} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0139</id>
+    <name>Lavaclaw Reaches</name>
+    <text>Lavaclaw Reaches enters the battlefield tapped.
+{T}: Add {B} or {R} to your mana pool.
+{1}{B}{R}: Until end of turn, Lavaclaw Reaches becomes a 2/2 black and red Elemental creature with "{X}: This creature gets +X/+0 until end of turn." It's still a land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0140</id>
+    <name>Quicksand</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.</text>
+    <flavorText>Not all deaths are etched with mythic meaning and iconic glory.</flavorText>
+  </item>
+  <item>
+    <id>WWK0141</id>
+    <name>Raging Ravine</name>
+    <text>Raging Ravine enters the battlefield tapped.
+{T}: Add {R} or {G} to your mana pool.
+{2}{R}{G}: Until end of turn, Raging Ravine becomes a 3/3 red and green Elemental creature with "Whenever this creature attacks, put a +1/+1 counter on it." It's still a land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0142</id>
+    <name>Sejiri Steppe</name>
+    <text>Sejiri Steppe enters the battlefield tapped.
+When Sejiri Steppe enters the battlefield, target creature you control gains protection from the color of your choice until end of turn.
+{T}: Add {W} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0143</id>
+    <name>Smoldering Spires</name>
+    <text>Smoldering Spires enters the battlefield tapped.
+When Smoldering Spires enters the battlefield, target creature can't block this turn.
+{T}: Add {R} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0144</id>
+    <name>Stirring Wildwood</name>
+    <text>Stirring Wildwood enters the battlefield tapped.
+{T}: Add {G} or {W} to your mana pool.
+{1}{G}{W}: Until end of turn, Stirring Wildwood becomes a 3/4 green and white Elemental creature with reach. It's still a land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>WWK0145</id>
+    <name>Tectonic Edge</name>
+    <text>{T}: Add {1} to your mana pool.
+{1}, {T}, Sacrifice Tectonic Edge: Destroy target nonbasic land. Activate this ability only if an opponent controls four or more lands.</text>
+    <flavorText>"We move because the earth does."
+—Bruse Tarl, Goma Fada nomad</flavorText>
+  </item>
+</cards>

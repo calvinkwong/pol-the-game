@@ -1,0 +1,2500 @@
+<cards name="Odyssey">
+  <item>
+    <id>ODY0001</id>
+    <name>Aegis of Honor</name>
+    <text>{1}: The next time an instant or sorcery spell would deal damage to you this turn, that spell deals that damage to its controller instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0002</id>
+    <name>Ancestral Tribute</name>
+    <text>You gain 2 life for each card in your graveyard.
+Flashback {9}{W}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0003</id>
+    <name>Angelic Wall</name>
+    <text>Defender, flying (This creature can't attack, and it can block creatures with flying.)</text>
+    <flavorText>"The Ancestor protects us in ways we can't begin to comprehend."
+—Mystic elder</flavorText>
+  </item>
+  <item>
+    <id>ODY0004</id>
+    <name>Animal Boneyard</name>
+    <text>Enchant land
+Enchanted land has "{T}, Sacrifice a creature: You gain life equal to that creature's toughness."</text>
+    <flavorText>"The animal spirits are the Ancestor's grandchildren. Remember them."
+—Mystic elder</flavorText>
+  </item>
+  <item>
+    <id>ODY0005</id>
+    <name>Auramancer</name>
+    <text>When Auramancer enters the battlefield, you may return target enchantment card from your graveyard to your hand.</text>
+    <flavorText>Beauty stirs the memory like a sweet perfume excites the air.</flavorText>
+  </item>
+  <item>
+    <id>ODY0006</id>
+    <name>Aven Archer</name>
+    <text>Flying
+{2}{W}, {T}: Aven Archer deals 2 damage to target attacking or blocking creature.</text>
+    <flavorText>Aimed by the eyes of eagles, their arrows never miss the mark.</flavorText>
+  </item>
+  <item>
+    <id>ODY0007</id>
+    <name>Aven Cloudchaser</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Aven Cloudchaser enters the battlefield, destroy target enchantment.</text>
+    <flavorText>"At the Reapportionment, Eagle begged to be human. The Ancestor granted half that prayer."
+—Nomad myth</flavorText>
+  </item>
+  <item>
+    <id>ODY0008</id>
+    <name>Aven Flock</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{W}: Aven Flock gets +0/+1 until end of turn.</text>
+    <flavorText>Just as each added feather steadies the wing, so does the flock grow stronger with each new member.</flavorText>
+  </item>
+  <item>
+    <id>ODY0009</id>
+    <name>Aven Shrine</name>
+    <text>Whenever a player casts a spell, that player gains X life, where X is the number of cards in all graveyards with the same name as that spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0010</id>
+    <name>Balancing Act</name>
+    <text>Each player chooses a number of permanents he or she controls equal to the number of permanents controlled by the player who controls the fewest, then sacrifices the rest. Each player discards cards the same way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0011</id>
+    <name>Beloved Chaplain</name>
+    <text>Protection from creatures</text>
+    <flavorText>Nomad and Nantuko, eagle and elephant; all the birds and beasts are charmed by his quiet dignity.</flavorText>
+  </item>
+  <item>
+    <id>ODY0012</id>
+    <name>Blessed Orator</name>
+    <text>Other creatures you control get +0/+1.</text>
+    <flavorText>His quiet words fade into the night's chill, yet they burn into his listeners' minds with all the power of a thousand suns.</flavorText>
+  </item>
+  <item>
+    <id>ODY0013</id>
+    <name>Cantivore</name>
+    <text>Vigilance
+Cantivore's power and toughness are each equal to the number of enchantment cards in all graveyards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0014</id>
+    <name>Cease-Fire</name>
+    <text>Target player can't cast creature spells this turn.
+Draw a card.</text>
+    <flavorText>When the crimson fades from the magical embers, a final wisp of smoke will rise. Soon after, hostilities will begin anew.</flavorText>
+  </item>
+  <item>
+    <id>ODY0015</id>
+    <name>Confessor</name>
+    <text>Whenever a player discards a card, you may gain 1 life.</text>
+    <flavorText>"There will be gains for our losses. There will be rights for our wrongs."</flavorText>
+  </item>
+  <item>
+    <id>ODY0016</id>
+    <name>Dedicated Martyr</name>
+    <text>{W}, Sacrifice Dedicated Martyr: You gain 3 life.</text>
+    <flavorText>"If he's so willing to suffer for his cause, then by all means, let us oblige him."
+—Cabal Patriarch</flavorText>
+  </item>
+  <item>
+    <id>ODY0017</id>
+    <name>Delaying Shield</name>
+    <text>If you would be dealt damage, put that many delay counters on Delaying Shield instead.
+
+At the beginning of your upkeep, remove all delay counters from Delaying Shield. For each delay counter removed this way, you lose 1 life unless you pay {1}{W}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0018</id>
+    <name>Devoted Caretaker</name>
+    <text>{W}, {T}: Target permanent you control gains protection from instant spells and from sorcery spells until end of turn.</text>
+    <flavorText>Her eyes blaze with the strength of twenty shields. Every glance is a salvation.</flavorText>
+  </item>
+  <item>
+    <id>ODY0019</id>
+    <name>Divine Sacrament</name>
+    <text>White creatures get +1/+1.
+Threshold — White creatures get an additional +1/+1 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>Their whispered prayers rally the nomads better than any war cry could.</flavorText>
+  </item>
+  <item>
+    <id>ODY0020</id>
+    <name>Dogged Hunter</name>
+    <text>{T}: Destroy target creature token.</text>
+    <flavorText>The relationship between hunter and hunted knows nothing of alliances.</flavorText>
+  </item>
+  <item>
+    <id>ODY0021</id>
+    <name>Earnest Fellowship</name>
+    <text>Each creature has protection from its colors.</text>
+    <flavorText>"The world has enough strife as it is. Where would we be if we turned against each other?"
+—Pianna, nomad captain</flavorText>
+  </item>
+  <item>
+    <id>ODY0022</id>
+    <name>Embolden</name>
+    <text>Prevent the next 4 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose.
+Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0023</id>
+    <name>Gallantry</name>
+    <text>Target blocking creature gets +4/+4 until end of turn.
+
+Draw a card.</text>
+    <flavorText>The courageous accomplish more in a single moment than the cowardly do in a lifetime.</flavorText>
+  </item>
+  <item>
+    <id>ODY0024</id>
+    <name>Graceful Antelope</name>
+    <text>Plainswalk
+Whenever Graceful Antelope deals combat damage to a player, you may have target land become a Plains until Graceful Antelope leaves the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0025</id>
+    <name>Hallowed Healer</name>
+    <text>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.
+Threshold — {T}: Prevent the next 4 damage that would be dealt to target creature or player this turn. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0026</id>
+    <name>Karmic Justice</name>
+    <text>Whenever a spell or ability an opponent controls destroys a noncreature permanent you control, you may destroy target permanent that opponent controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0027</id>
+    <name>Kirtar's Desire</name>
+    <text>Enchant creature
+Enchanted creature can't attack.
+Threshold — Enchanted creature can't block as long as seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0028</id>
+    <name>Kirtar's Wrath</name>
+    <text>Destroy all creatures. They can't be regenerated.
+Threshold — If seven or more cards are in your graveyard, instead destroy all creatures, then put two 1/1 white Spirit creature tokens with flying onto the battlefield. Creatures destroyed this way can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0029</id>
+    <name>Lieutenant Kirtar</name>
+    <text>Flying
+{1}{W}, Sacrifice Lieutenant Kirtar: Exile target attacking creature.</text>
+    <flavorText>"His strengths are pride, devotion, and ambition. His weaknesses are the same."
+—Pianna, nomad captain</flavorText>
+  </item>
+  <item>
+    <id>ODY0030</id>
+    <name>Life Burst</name>
+    <text>Target player gains 4 life, then gains 4 life for each card named Life Burst in each graveyard.</text>
+    <flavorText>As uplifting as a mystic's dreams.</flavorText>
+  </item>
+  <item>
+    <id>ODY0031</id>
+    <name>Luminous Guardian</name>
+    <text>{W}: Luminous Guardian gets +0/+1 until end of turn.
+{2}: Luminous Guardian can block an additional creature this turn.</text>
+    <flavorText>"There is no victory without virtue."</flavorText>
+  </item>
+  <item>
+    <id>ODY0032</id>
+    <name>Master Apothecary</name>
+    <text>Tap an untapped Cleric you control: Prevent the next 2 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>It takes a remarkable cleric to turn a group of healers into a hospital.</flavorText>
+  </item>
+  <item>
+    <id>ODY0033</id>
+    <name>Mystic Crusader</name>
+    <text>Protection from black and from red
+Threshold — As long as seven or more cards are in your graveyard, Mystic Crusader gets +1/+1 and has flying.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0034</id>
+    <name>Mystic Penitent</name>
+    <text>Vigilance
+Threshold — As long as seven or more cards are in your graveyard, Mystic Penitent gets +1/+1 and has flying.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0035</id>
+    <name>Mystic Visionary</name>
+    <text>Threshold — Mystic Visionary has flying as long as seven or more cards are in your graveyard.</text>
+    <flavorText>"The aven are heralds of divinity. The greatest glory is to join them in the sky."</flavorText>
+  </item>
+  <item>
+    <id>ODY0036</id>
+    <name>Mystic Zealot</name>
+    <text>Threshold — As long as seven or more cards are in your graveyard, Mystic Zealot gets +1/+1 and has flying.</text>
+    <flavorText>Nomad youths aspire to one of two roles in the tribe: priest or warrior. Their secret dream is to become both.</flavorText>
+  </item>
+  <item>
+    <id>ODY0037</id>
+    <name>Nomad Decoy</name>
+    <text>{W}, {T}: Tap target creature.
+Threshold — {W}{W}, {T}: Tap two target creatures. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>If you can take something from a nomad, it's probably bait.</flavorText>
+  </item>
+  <item>
+    <id>ODY0038</id>
+    <name>Patrol Hound</name>
+    <text>Discard a card: Patrol Hound gains first strike until end of turn.</text>
+    <flavorText>To the camp, it was a fierce and loyal protector. To the sentry's youngest daughter, it would always be her "Wuv Muffin."</flavorText>
+  </item>
+  <item>
+    <id>ODY0039</id>
+    <name>Pianna, Nomad Captain</name>
+    <text>Whenever Pianna, Nomad Captain attacks, attacking creatures get +1/+1 until end of turn.</text>
+    <flavorText>Some find inspiration in their swords. Others find it in their leaders.</flavorText>
+  </item>
+  <item>
+    <id>ODY0040</id>
+    <name>Pilgrim of Justice</name>
+    <text>Protection from red
+{W}, Sacrifice Pilgrim of Justice: The next time a red source of your choice would deal damage this turn, prevent that damage.</text>
+    <flavorText>"I would die a thousand deaths before I let you harm another."</flavorText>
+  </item>
+  <item>
+    <id>ODY0041</id>
+    <name>Pilgrim of Virtue</name>
+    <text>Protection from black
+{W}, Sacrifice Pilgrim of Virtue: The next time a black source of your choice would deal damage this turn, prevent that damage.</text>
+    <flavorText>"A life is measured by the lives it saves."</flavorText>
+  </item>
+  <item>
+    <id>ODY0042</id>
+    <name>Ray of Distortion</name>
+    <text>Destroy target artifact or enchantment.
+Flashback {4}{W}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0043</id>
+    <name>Resilient Wanderer</name>
+    <text>First strike
+Discard a card: Resilient Wanderer gains protection from the color of your choice until end of turn.</text>
+    <flavorText>Nomads understand many cultures and therefore travel without fear.</flavorText>
+  </item>
+  <item>
+    <id>ODY0044</id>
+    <name>Sacred Rites</name>
+    <text>Discard any number of cards. Creatures you control get +0/+1 until end of turn for each card discarded this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0045</id>
+    <name>Second Thoughts</name>
+    <text>Exile target attacking creature.
+Draw a card.</text>
+    <flavorText>It suddenly dawned on Jorin that farming was quite a noble profession.</flavorText>
+  </item>
+  <item>
+    <id>ODY0046</id>
+    <name>Shelter</name>
+    <text>Target creature you control gains protection from the color of your choice until end of turn.
+
+Draw a card.</text>
+    <flavorText>Good strategists seize opportunities. Great strategists make their own.</flavorText>
+  </item>
+  <item>
+    <id>ODY0047</id>
+    <name>Soulcatcher</name>
+    <text>Flying
+Whenever a creature with flying is put into a graveyard from the battlefield, put a +1/+1 counter on Soulcatcher.</text>
+    <flavorText>"Holy couriers guide aven spirits up to the home of the Ancestor."
+—Mystic elder</flavorText>
+  </item>
+  <item>
+    <id>ODY0048</id>
+    <name>Sphere of Duty</name>
+    <text>If a green source would deal damage to you, prevent 2 of that damage.</text>
+    <flavorText>Duty subdues instinct.</flavorText>
+  </item>
+  <item>
+    <id>ODY0049</id>
+    <name>Sphere of Grace</name>
+    <text>If a black source would deal damage to you, prevent 2 of that damage.</text>
+    <flavorText>Grace repels darkness.</flavorText>
+  </item>
+  <item>
+    <id>ODY0050</id>
+    <name>Sphere of Law</name>
+    <text>If a red source would deal damage to you, prevent 2 of that damage.</text>
+    <flavorText>Law smothers anarchy.</flavorText>
+  </item>
+  <item>
+    <id>ODY0051</id>
+    <name>Sphere of Reason</name>
+    <text>If a blue source would deal damage to you, prevent 2 of that damage.</text>
+    <flavorText>Reason exposes deception.</flavorText>
+  </item>
+  <item>
+    <id>ODY0052</id>
+    <name>Sphere of Truth</name>
+    <text>If a white source would deal damage to you, prevent 2 of that damage.</text>
+    <flavorText>Truth tempers fanaticism.</flavorText>
+  </item>
+  <item>
+    <id>ODY0053</id>
+    <name>Spiritualize</name>
+    <text>Until end of turn, whenever target creature deals damage, you gain that much life.
+Draw a card.</text>
+    <flavorText>"There is purity in all things. Even hatred."
+—Lieutenant Kirtar</flavorText>
+  </item>
+  <item>
+    <id>ODY0054</id>
+    <name>Tattoo Ward</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+1 and has protection from enchantments. This effect doesn't remove Tattoo Ward.
+Sacrifice Tattoo Ward: Destroy target enchantment.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0055</id>
+    <name>Testament of Faith</name>
+    <text>{X}: Testament of Faith becomes an X/X Wall creature with defender until end of turn. It's still an enchantment.</text>
+    <flavorText>"Belief in the Ancestor is admirable, but our enemies often demand something more . . . tangible."
+—Pianna, nomad captain</flavorText>
+  </item>
+  <item>
+    <id>ODY0056</id>
+    <name>Tireless Tribe</name>
+    <text>Discard a card: Tireless Tribe gets +0/+4 until end of turn.</text>
+    <flavorText>"We've survived starvation, dwarf attacks, and heatstroke. Why should a little sandstorm bother us?"</flavorText>
+  </item>
+  <item>
+    <id>ODY0057</id>
+    <name>Wayward Angel</name>
+    <text>Flying, vigilance
+Threshold — As long as seven or more cards are in your graveyard, Wayward Angel gets +3/+3, is black, has trample, and has "At the beginning of your upkeep, sacrifice a creature."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0058</id>
+    <name>Aboshan, Cephalid Emperor</name>
+    <text>Tap an untapped Cephalid you control: Tap target permanent.
+{U}{U}{U}: Tap all creatures without flying.</text>
+    <flavorText>"No one can fight the tide forever."</flavorText>
+  </item>
+  <item>
+    <id>ODY0059</id>
+    <name>Aboshan's Desire</name>
+    <text>Enchant creature
+Enchanted creature has flying.
+Threshold — Enchanted creature has shroud as long as seven or more cards are in your graveyard. (It can't be the target of spells or abilities.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0060</id>
+    <name>Æther Burst</name>
+    <text>Return up to X target creatures to their owners' hands, where X is one plus the number of cards named Æther Burst in all graveyards as you cast Æther Burst.</text>
+    <flavorText>As fleeting as a cephalid's promise.</flavorText>
+  </item>
+  <item>
+    <id>ODY0061</id>
+    <name>Amugaba</name>
+    <text>Flying
+{2}{U}, Discard a card: Return Amugaba to its owner's hand.</text>
+    <flavorText>The aven claim it feeds on thunder and rainbows.</flavorText>
+  </item>
+  <item>
+    <id>ODY0062</id>
+    <name>Aura Graft</name>
+    <text>Gain control of target Aura that's attached to a permanent. Attach it to another permanent it can enchant.</text>
+    <flavorText>"It's not really stealing. It's more like extended borrowing."</flavorText>
+  </item>
+  <item>
+    <id>ODY0063</id>
+    <name>Aven Fisher</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Aven Fisher is put into a graveyard from the battlefield, you may draw a card.</text>
+    <flavorText>The same spears that catch their food today will defend their homes tomorrow.</flavorText>
+  </item>
+  <item>
+    <id>ODY0064</id>
+    <name>Aven Smokeweaver</name>
+    <text>Flying, protection from red</text>
+    <flavorText>In a world still pained from burns, some are born already scarred.</flavorText>
+  </item>
+  <item>
+    <id>ODY0065</id>
+    <name>Aven Windreader</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{1}{U}: Target player reveals the top card of his or her library.</text>
+    <flavorText>"The tiniest ripple tells a story ten fathoms deep."</flavorText>
+  </item>
+  <item>
+    <id>ODY0066</id>
+    <name>Balshan Beguiler</name>
+    <text>Whenever Balshan Beguiler deals combat damage to a player, that player reveals the top two cards of his or her library. You choose one of those cards and put it into his or her graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0067</id>
+    <name>Balshan Griffin</name>
+    <text>Flying
+{1}{U}, Discard a card: Return Balshan Griffin to its owner's hand.</text>
+    <flavorText>It helps to have an extra direction in which to run.</flavorText>
+  </item>
+  <item>
+    <id>ODY0068</id>
+    <name>Bamboozle</name>
+    <text>Target player reveals the top four cards of his or her library. You choose two of those cards and put them into his or her graveyard. Put the rest on top of his or her library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0069</id>
+    <name>Battle of Wits</name>
+    <text>At the beginning of your upkeep, if you have 200 or more cards in your library, you win the game.</text>
+    <flavorText>The wizard who reads a thousand books is powerful. The wizard who memorizes a thousand books is insane.</flavorText>
+  </item>
+  <item>
+    <id>ODY0070</id>
+    <name>Careful Study</name>
+    <text>Draw two cards, then discard two cards.</text>
+    <flavorText>Books are like crops—they must be thinned for best yield.</flavorText>
+  </item>
+  <item>
+    <id>ODY0071</id>
+    <name>Cephalid Broker</name>
+    <text>{T}: Target player draws two cards, then discards two cards.</text>
+    <flavorText>Cephalids value the free exchange of ideas—except for the "free" part.</flavorText>
+  </item>
+  <item>
+    <id>ODY0072</id>
+    <name>Cephalid Looter</name>
+    <text>{T}: Target player draws a card, then discards a card.</text>
+    <flavorText>"Amazing, isn't it, what humans will throw away when they're drowning?"</flavorText>
+  </item>
+  <item>
+    <id>ODY0073</id>
+    <name>Cephalid Retainer</name>
+    <text>{U}{U}: Tap target creature without flying.</text>
+    <flavorText>Cephalids whisper flattery in your ear, put jewels in your hand, spin dreams in your head, and stick knives in your back.</flavorText>
+  </item>
+  <item>
+    <id>ODY0074</id>
+    <name>Cephalid Scout</name>
+    <text>Flying
+{2}{U}, Sacrifice a land: Draw a card.</text>
+    <flavorText>The more they survey the dreadful dry expanses, the more the cephalids thirst to tame them.</flavorText>
+  </item>
+  <item>
+    <id>ODY0075</id>
+    <name>Cephalid Shrine</name>
+    <text>Whenever a player casts a spell, counter that spell unless that player pays {X}, where X is the number of cards in all graveyards with the same name as the spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0076</id>
+    <name>Chamber of Manipulation</name>
+    <text>Enchant land
+Enchanted land has "{T}, Discard a card: Gain control of target creature until end of turn."</text>
+    <flavorText>Politics is just a subtle form of mind control—and cephalids are master politicians.</flavorText>
+  </item>
+  <item>
+    <id>ODY0077</id>
+    <name>Cognivore</name>
+    <text>Flying
+Cognivore's power and toughness are each equal to the number of instant cards in all graveyards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0078</id>
+    <name>Concentrate</name>
+    <text>Draw three cards.</text>
+    <flavorText>"The treasure in my mind is greater than any worldly glory."</flavorText>
+  </item>
+  <item>
+    <id>ODY0079</id>
+    <name>Cultural Exchange</name>
+    <text>Choose any number of creatures target player controls. Choose the same number of creatures another target player controls. Those players exchange control of those creatures. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0080</id>
+    <name>Deluge</name>
+    <text>Tap all creatures without flying.</text>
+    <flavorText>"From the sea came all life, and to the sea it will return. The sooner the better."
+—Emperor Aboshan</flavorText>
+  </item>
+  <item>
+    <id>ODY0081</id>
+    <name>Dematerialize</name>
+    <text>Return target permanent to its owner's hand.
+Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0082</id>
+    <name>Divert</name>
+    <text>Change the target of target spell with a single target unless that spell's controller pays {2}.</text>
+    <flavorText>"What's the fun of being a wizard if you can't mess with people's heads?"</flavorText>
+  </item>
+  <item>
+    <id>ODY0083</id>
+    <name>Dreamwinder</name>
+    <text>Dreamwinder can't attack unless defending player controls an Island.
+{U}, Sacrifice an Island: Target land becomes an Island until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0084</id>
+    <name>Escape Artist</name>
+    <text>Escape Artist is unblockable.
+{U}, Discard a card: Return Escape Artist to its owner's hand.</text>
+    <flavorText>"Not even my shadow knows where I am."</flavorText>
+  </item>
+  <item>
+    <id>ODY0085</id>
+    <name>Extract</name>
+    <text>Search target player's library for a card and exile it. Then that player shuffles his or her library.</text>
+    <flavorText>To say Nixar had a splitting headache would be a bit of an understatement.</flavorText>
+  </item>
+  <item>
+    <id>ODY0086</id>
+    <name>Fervent Denial</name>
+    <text>Counter target spell.
+Flashback {5}{U}{U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>"Your tenacity is admirable. And futile."
+—Emperor Aboshan</flavorText>
+  </item>
+  <item>
+    <id>ODY0087</id>
+    <name>Immobilizing Ink</name>
+    <text>Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+Enchanted creature has "{1}, Discard a card: Untap this creature."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0088</id>
+    <name>Laquatus's Creativity</name>
+    <text>Target player draws cards equal to the number of cards in his or her hand, then discards that many cards.</text>
+    <flavorText>One never knows when inspiration will bubble up.</flavorText>
+  </item>
+  <item>
+    <id>ODY0089</id>
+    <name>Patron Wizard</name>
+    <text>Tap an untapped Wizard you control: Counter target spell unless its controller pays {1}.</text>
+    <flavorText>"The best way to teach is by example."</flavorText>
+  </item>
+  <item>
+    <id>ODY0090</id>
+    <name>Pedantic Learning</name>
+    <text>Whenever a land card is put into your graveyard from your library, you may pay {1}. If you do, draw a card.</text>
+    <flavorText>Even the trivial can inspire.</flavorText>
+  </item>
+  <item>
+    <id>ODY0091</id>
+    <name>Peek</name>
+    <text>Look at target player's hand.
+Draw a card.</text>
+    <flavorText>Sometimes you have to read between the minds.</flavorText>
+  </item>
+  <item>
+    <id>ODY0092</id>
+    <name>Persuasion</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+You control enchanted creature.</text>
+    <flavorText>"Protocol demands that you bow down before me. I always stand on protocol."</flavorText>
+  </item>
+  <item>
+    <id>ODY0093</id>
+    <name>Phantom Whelp</name>
+    <text>When Phantom Whelp attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)</text>
+    <flavorText>It lurks in the mist, waiting for stragglers to fall behind. When the fog clears, nothing remains but footprints.</flavorText>
+  </item>
+  <item>
+    <id>ODY0094</id>
+    <name>Predict</name>
+    <text>Name a card, then put the top card of target player's library into his or her graveyard. If that card is the named card, you draw two cards. Otherwise, you draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0095</id>
+    <name>Psionic Gift</name>
+    <text>Enchant creature
+Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."</text>
+    <flavorText>For sale: Complete wizard's library. Rare scrolls, grimoires, and works of ancient spellcrafting Slightly abridged.</flavorText>
+  </item>
+  <item>
+    <id>ODY0096</id>
+    <name>Pulsating Illusion</name>
+    <text>Flying
+Discard a card: Pulsating Illusion gets +4/+4 until end of turn. Activate this ability only once each turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0097</id>
+    <name>Puppeteer</name>
+    <text>{U}, {T}: You may tap or untap target creature.</text>
+    <flavorText>"Getting people to do what you want is merely a matter of telling them what they want to hear."</flavorText>
+  </item>
+  <item>
+    <id>ODY0098</id>
+    <name>Repel</name>
+    <text>Put target creature on top of its owner's library.</text>
+    <flavorText>"I have a hunch we'll be seeing that one again soon."
+—Ambassador Laquatus</flavorText>
+  </item>
+  <item>
+    <id>ODY0099</id>
+    <name>Rites of Refusal</name>
+    <text>Discard any number of cards. Counter target spell unless its controller pays {3} for each card discarded this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0100</id>
+    <name>Scrivener</name>
+    <text>When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.</text>
+    <flavorText>A good memory is no match for a good scribe.</flavorText>
+  </item>
+  <item>
+    <id>ODY0101</id>
+    <name>Shifty Doppelganger</name>
+    <text>{3}{U}, Exile Shifty Doppelganger: You may put a creature card from your hand onto the battlefield. If you do, that creature gains haste until end of turn. At the beginning of the next end step, sacrifice that creature. If you do, return Shifty Doppelganger to the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0102</id>
+    <name>Standstill</name>
+    <text>When a player casts a spell, sacrifice Standstill. If you do, each of that player's opponents draws three cards.</text>
+    <flavorText>"Take your time."</flavorText>
+  </item>
+  <item>
+    <id>ODY0103</id>
+    <name>Syncopate</name>
+    <text>Counter target spell unless its controller pays {X}. If that spell is countered this way, exile it instead of putting it into its owner's graveyard.</text>
+    <flavorText>"Memories can't simply be washed away. The mind must be scrubbed clean."
+—Ambassador Laquatus</flavorText>
+  </item>
+  <item>
+    <id>ODY0104</id>
+    <name>Think Tank</name>
+    <text>At the beginning of your upkeep, look at the top card of your library. You may put that card into your graveyard.</text>
+    <flavorText>Cephalids seek knowledge not to better themselves, but to best others.</flavorText>
+  </item>
+  <item>
+    <id>ODY0105</id>
+    <name>Thought Devourer</name>
+    <text>Flying
+Your maximum hand size is reduced by four.</text>
+    <flavorText>Thinking is hard.</flavorText>
+  </item>
+  <item>
+    <id>ODY0106</id>
+    <name>Thought Eater</name>
+    <text>Flying
+Your maximum hand size is reduced by three.</text>
+    <flavorText>The first memory it sucks out of its host is how to get rid of it.</flavorText>
+  </item>
+  <item>
+    <id>ODY0107</id>
+    <name>Thought Nibbler</name>
+    <text>Flying
+Your maximum hand size is reduced by two.</text>
+    <flavorText>Balshan wizards have long used them to gnaw away the memories they wish to forget.</flavorText>
+  </item>
+  <item>
+    <id>ODY0108</id>
+    <name>Time Stretch</name>
+    <text>Target player takes two extra turns after this one.</text>
+    <flavorText>There's lots of time like the present.</flavorText>
+  </item>
+  <item>
+    <id>ODY0109</id>
+    <name>Touch of Invisibility</name>
+    <text>Target creature is unblockable this turn.
+
+Draw a card.</text>
+    <flavorText>Cephalids specialize in things unseen, be they politics, betrayal, or themselves.</flavorText>
+  </item>
+  <item>
+    <id>ODY0110</id>
+    <name>Traumatize</name>
+    <text>Target player puts the top half of his or her library, rounded down, into his or her graveyard.</text>
+    <flavorText>Dreads had half a mind to leave.</flavorText>
+  </item>
+  <item>
+    <id>ODY0111</id>
+    <name>Treetop Sentinel</name>
+    <text>Flying, protection from green</text>
+    <flavorText>Crian's patrols afford him plenty of opportunity to take potshots at the "dirtwalkers" far below.</flavorText>
+  </item>
+  <item>
+    <id>ODY0112</id>
+    <name>Unifying Theory</name>
+    <text>Whenever a player casts a spell, that player may pay {2}. If the player does, he or she draws a card.</text>
+    <flavorText>Scribbles of a lunatic and formulas of a genius are often indistinguishable.</flavorText>
+  </item>
+  <item>
+    <id>ODY0113</id>
+    <name>Upheaval</name>
+    <text>Return all permanents to their owners' hands.</text>
+    <flavorText>The calm comes after the storm.</flavorText>
+  </item>
+  <item>
+    <id>ODY0114</id>
+    <name>Words of Wisdom</name>
+    <text>You draw two cards, then each other player draws a card.</text>
+    <flavorText>Knowledge can't be kept in a bottle or sealed in a box. It yearns to be spread and shared.</flavorText>
+  </item>
+  <item>
+    <id>ODY0115</id>
+    <name>Afflict</name>
+    <text>Target creature gets -1/-1 until end of turn.
+Draw a card.</text>
+    <flavorText>When one of the Patriarch's champions displeased him, he would only shake his finger. That was enough.</flavorText>
+  </item>
+  <item>
+    <id>ODY0116</id>
+    <name>Bloodcurdler</name>
+    <text>Flying
+At the beginning of your upkeep, put the top card of your library into your graveyard.
+Threshold — As long as seven or more cards are in your graveyard, Bloodcurdler gets +1/+1 and has "At the beginning of your end step, exile two cards from your graveyard."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0117</id>
+    <name>Braids, Cabal Minion</name>
+    <text>At the beginning of each player's upkeep, that player sacrifices an artifact, creature, or land.</text>
+    <flavorText>"Home is where you can find a decent graveyard and strangers can disappear without awkward questions."</flavorText>
+  </item>
+  <item>
+    <id>ODY0118</id>
+    <name>Buried Alive</name>
+    <text>Search your library for up to three creature cards and put them into your graveyard. Then shuffle your library.</text>
+    <flavorText>The scrape of shovels and the tumble of cold dirt soon muffled their pleas.</flavorText>
+  </item>
+  <item>
+    <id>ODY0119</id>
+    <name>Cabal Inquisitor</name>
+    <text>Threshold — {1}{B}, {T}, Exile two cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery, and only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0120</id>
+    <name>Cabal Patriarch</name>
+    <text>{2}{B}, Sacrifice a creature: Target creature gets -2/-2 until end of turn.
+{2}{B}, Exile a creature card from your graveyard: Target creature gets -2/-2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0121</id>
+    <name>Cabal Shrine</name>
+    <text>Whenever a player casts a spell, that player discards X cards, where X is the number of cards in all graveyards with the same name as that spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0122</id>
+    <name>Caustic Tar</name>
+    <text>Enchant land
+Enchanted land has "{T}: Target player loses 3 life."</text>
+    <flavorText>"Twisted magic, twisted fate,
+Force the land to ooze with hate."
+—Cabal chant</flavorText>
+  </item>
+  <item>
+    <id>ODY0123</id>
+    <name>Childhood Horror</name>
+    <text>Flying
+Threshold — As long as seven or more cards are in your graveyard, Childhood Horror gets +2/+2 and can't block.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0124</id>
+    <name>Coffin Purge</name>
+    <text>Exile target card from a graveyard.
+Flashback {B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0125</id>
+    <name>Crypt Creeper</name>
+    <text>Sacrifice Crypt Creeper: Exile target card from a graveyard.</text>
+    <flavorText>To unearth its dinner, it inters itself.</flavorText>
+  </item>
+  <item>
+    <id>ODY0126</id>
+    <name>Cursed Monstrosity</name>
+    <text>Flying
+Whenever Cursed Monstrosity becomes the target of a spell or ability, sacrifice it unless you discard a land card.</text>
+    <flavorText>"Run away It's an . . . um . . . run away"
+—Nomad sentry</flavorText>
+  </item>
+  <item>
+    <id>ODY0127</id>
+    <name>Decaying Soil</name>
+    <text>At the beginning of your upkeep, exile a card from your graveyard.
+Threshold — As long as seven or more cards are in your graveyard, Decaying Soil has "Whenever a nontoken creature is put into your graveyard from the battlefield, you may pay {1}. If you do, return that card to your hand."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0128</id>
+    <name>Decompose</name>
+    <text>Exile up to three target cards from a single graveyard.</text>
+    <flavorText>"Sheesh How am I supposed to make a decent living around here?"
+—Cabal grave robber</flavorText>
+  </item>
+  <item>
+    <id>ODY0129</id>
+    <name>Diabolic Tutor</name>
+    <text>Search your library for a card and put that card into your hand. Then shuffle your library.</text>
+    <flavorText>The best ideas often come from the worst minds.</flavorText>
+  </item>
+  <item>
+    <id>ODY0130</id>
+    <name>Dirty Wererat</name>
+    <text>{B}, Discard a card: Regenerate Dirty Wererat.
+Threshold — As long as seven or more cards are in your graveyard, Dirty Wererat gets +2/+2 and can't block.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0131</id>
+    <name>Dusk Imp</name>
+    <text>Flying</text>
+    <flavorText>It despises humans and squirrels and beasts and dwarves and cephalids . . .  well, it despises just about everything.</flavorText>
+  </item>
+  <item>
+    <id>ODY0132</id>
+    <name>Entomb</name>
+    <text>Search your library for a card and put that card into your graveyard. Then shuffle your library.</text>
+    <flavorText>A grave is the safest place to store ill-gotten treasures.</flavorText>
+  </item>
+  <item>
+    <id>ODY0133</id>
+    <name>Execute</name>
+    <text>Destroy target white creature. It can't be regenerated.
+Draw a card.</text>
+    <flavorText>"Any fool who would die for honor is better off dead."
+—Cabal Patriarch</flavorText>
+  </item>
+  <item>
+    <id>ODY0134</id>
+    <name>Face of Fear</name>
+    <text>{2}{B}, Discard a card: Face of Fear gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>"It's only frightened five people to death. Not my best work."
+—Braids, dementia summoner</flavorText>
+  </item>
+  <item>
+    <id>ODY0135</id>
+    <name>Famished Ghoul</name>
+    <text>{1}{B}, Sacrifice Famished Ghoul: Exile up to two target cards from a single graveyard.</text>
+    <flavorText>Memories have distinct tastes. Its favorites are the sickly sweetness of lost love and the bitter smokiness of cruel murder.</flavorText>
+  </item>
+  <item>
+    <id>ODY0136</id>
+    <name>Filthy Cur</name>
+    <text>Whenever Filthy Cur is dealt damage, you lose that much life.</text>
+    <flavorText>Some things even fleas won't bite.</flavorText>
+  </item>
+  <item>
+    <id>ODY0137</id>
+    <name>Fledgling Imp</name>
+    <text>{B}, Discard a card: Fledgling Imp gains flying until end of turn.</text>
+    <flavorText>Imps aren't born knowing how to fly—just how to annoy.</flavorText>
+  </item>
+  <item>
+    <id>ODY0138</id>
+    <name>Frightcrawler</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Threshold — As long as seven or more cards are in your graveyard, Frightcrawler gets +2/+2 and can't block.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0139</id>
+    <name>Ghastly Demise</name>
+    <text>Destroy target nonblack creature if its toughness is less than or equal to the number of cards in your graveyard.</text>
+    <flavorText>"Anyone can snap her fingers and yank a soul. I prefer to kill creatively."
+—Braids, dementia summoner</flavorText>
+  </item>
+  <item>
+    <id>ODY0140</id>
+    <name>Gravedigger</name>
+    <text>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.</text>
+    <flavorText>Oddly, no one questioned the Cabal's wisdom in hiring a zombie to work at the cemetery.</flavorText>
+  </item>
+  <item>
+    <id>ODY0141</id>
+    <name>Gravestorm</name>
+    <text>At the beginning of your upkeep, target opponent may exile a card from his or her graveyard. If that player doesn't, you may draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0142</id>
+    <name>Haunting Echoes</name>
+    <text>Exile all cards from target player's graveyard other than basic land cards. For each card exiled this way, search that player's library for all cards with the same name as that card and exile them. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0143</id>
+    <name>Hint of Insanity</name>
+    <text>Target player reveals his or her hand. That player discards all nonland cards with the same name as another card in his or her hand.</text>
+    <flavorText>"Practice makes perfect, but obsession makes better."</flavorText>
+  </item>
+  <item>
+    <id>ODY0144</id>
+    <name>Infected Vermin</name>
+    <text>{2}{B}: Infected Vermin deals 1 damage to each creature and each player.
+Threshold — {3}{B}: Infected Vermin deals 3 damage to each creature and each player. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0145</id>
+    <name>Innocent Blood</name>
+    <text>Each player sacrifices a creature.</text>
+    <flavorText>Zombies mourn for the living and celebrate those who will soon be given the gift of death.</flavorText>
+  </item>
+  <item>
+    <id>ODY0146</id>
+    <name>Last Rites</name>
+    <text>Discard any number of cards. Target player reveals his or her hand, then you choose a nonland card from it for each card discarded this way. That player discards those cards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0147</id>
+    <name>Malevolent Awakening</name>
+    <text>{1}{B}{B}, Sacrifice a creature: Return target creature card from your graveyard to your hand.</text>
+    <flavorText>The most popular pit fighters are brought back for encore performances.</flavorText>
+  </item>
+  <item>
+    <id>ODY0148</id>
+    <name>Mind Burst</name>
+    <text>Target player discards X cards, where X is one plus the number of cards named Mind Burst in all graveyards.</text>
+    <flavorText>As haunting as a zombie's curse.</flavorText>
+  </item>
+  <item>
+    <id>ODY0149</id>
+    <name>Mindslicer</name>
+    <text>When Mindslicer is put into a graveyard from the battlefield, each player discards his or her hand.</text>
+    <flavorText>It is the thing that goes bump in the night.</flavorText>
+  </item>
+  <item>
+    <id>ODY0150</id>
+    <name>Morbid Hunger</name>
+    <text>Morbid Hunger deals 3 damage to target creature or player. You gain 3 life.
+Flashback {7}{B}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0151</id>
+    <name>Morgue Theft</name>
+    <text>Return target creature card from your graveyard to your hand.
+Flashback {4}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0152</id>
+    <name>Mortivore</name>
+    <text>Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.
+{B}: Regenerate Mortivore. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0153</id>
+    <name>Nefarious Lich</name>
+    <text>If you would be dealt damage, exile that many cards from your graveyard instead. If you can't, you lose the game.
+If you would gain life, draw that many cards instead.
+When Nefarious Lich leaves the battlefield, you lose the game.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0154</id>
+    <name>Overeager Apprentice</name>
+    <text>Discard a card, Sacrifice Overeager Apprentice: Add {B}{B}{B} to your mana pool.</text>
+    <flavorText>Slow and steady may not always win the race, but at least it doesn't end up splattered on the walls.</flavorText>
+  </item>
+  <item>
+    <id>ODY0155</id>
+    <name>Painbringer</name>
+    <text>{T}, Exile any number of cards from your graveyard: Target creature gets -X/-X until end of turn, where X is the number of cards exiled this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0156</id>
+    <name>Patriarch's Desire</name>
+    <text>Enchant creature
+Enchanted creature gets +2/-2.
+Threshold — Enchanted creature gets an additional +2/-2 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0157</id>
+    <name>Repentant Vampire</name>
+    <text>Flying
+Whenever a creature dealt damage by Repentant Vampire this turn is put into a graveyard, put a +1/+1 counter on Repentant Vampire.
+Threshold — As long as seven or more cards are in your graveyard, Repentant Vampire is white and has "{T}: Destroy target black creature."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0158</id>
+    <name>Rotting Giant</name>
+    <text>Whenever Rotting Giant attacks or blocks, sacrifice it unless you exile a card from your graveyard.</text>
+    <flavorText>Wracked with rot, it wrecks and ruins.</flavorText>
+  </item>
+  <item>
+    <id>ODY0159</id>
+    <name>Sadistic Hypnotist</name>
+    <text>Sacrifice a creature: Target player discards two cards. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>"Victory in the pits is almost as rewarding as the methods I use to achieve it."</flavorText>
+  </item>
+  <item>
+    <id>ODY0160</id>
+    <name>Screams of the Damned</name>
+    <text>{1}{B}, Exile a card from your graveyard: Screams of the Damned deals 1 damage to each creature and each player.</text>
+    <flavorText>It's important to face your inner demons . . . unless they're the kind of demons that can kill you.</flavorText>
+  </item>
+  <item>
+    <id>ODY0161</id>
+    <name>Skeletal Scrying</name>
+    <text>As an additional cost to cast Skeletal Scrying, exile X cards from your graveyard.
+You draw X cards and you lose X life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0162</id>
+    <name>Skull Fracture</name>
+    <text>Target player discards a card.
+Flashback {3}{B} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0163</id>
+    <name>Stalking Bloodsucker</name>
+    <text>Flying
+{1}{B}, Discard a card: Stalking Bloodsucker gets +2/+2 until end of turn.</text>
+    <flavorText>The pits feed both its thirst for combat and its thirst for blood.</flavorText>
+  </item>
+  <item>
+    <id>ODY0164</id>
+    <name>Tainted Pact</name>
+    <text>Exile the top card of your library. You may put that card into your hand unless it has the same name as another card exiled this way. Repeat this process until you put a card into your hand or you exile two cards with the same name, whichever comes first.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0165</id>
+    <name>Tombfire</name>
+    <text>Target player exiles all cards with flashback from his or her graveyard.</text>
+    <flavorText>The fondest memories burn brightest. As they're lost forever, the flames grow hotter still.</flavorText>
+  </item>
+  <item>
+    <id>ODY0166</id>
+    <name>Traveling Plague</name>
+    <text>Enchant creature
+At the beginning of each upkeep, put a plague counter on Traveling Plague.
+Enchanted creature gets -1/-1 for each plague counter on Traveling Plague.
+When enchanted creature leaves the battlefield, that creature's controller returns Traveling Plague from its owner's graveyard to the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0167</id>
+    <name>Whispering Shade</name>
+    <text>Swampwalk
+{B}: Whispering Shade gets +1/+1 until end of turn.</text>
+    <flavorText>It glides through the shadows until it reaches yours.</flavorText>
+  </item>
+  <item>
+    <id>ODY0168</id>
+    <name>Zombie Assassin</name>
+    <text>{T}, Exile two cards from your graveyard and Zombie Assassin: Destroy target nonblack creature. It can't be regenerated.</text>
+    <flavorText>"Zombies don't kill. They recruit."
+—Braids, dementia summoner</flavorText>
+  </item>
+  <item>
+    <id>ODY0169</id>
+    <name>Zombie Cannibal</name>
+    <text>Whenever Zombie Cannibal deals combat damage to a player, you may exile target card from that player's graveyard.</text>
+    <flavorText>Nothing is sacred to the undead—not even their own kind.</flavorText>
+  </item>
+  <item>
+    <id>ODY0170</id>
+    <name>Zombie Infestation</name>
+    <text>Discard two cards: Put a 2/2 black Zombie creature token onto the battlefield.</text>
+    <flavorText>The nomads' funeral pyres are more practical than ceremonial.</flavorText>
+  </item>
+  <item>
+    <id>ODY0171</id>
+    <name>Zombify</name>
+    <text>Return target creature card from your graveyard to the battlefield.</text>
+    <flavorText>"The first birth celebrates life. The second birth mocks it."
+—Mystic elder</flavorText>
+  </item>
+  <item>
+    <id>ODY0172</id>
+    <name>Acceptable Losses</name>
+    <text>As an additional cost to cast Acceptable Losses, discard a card at random.
+Acceptable Losses deals 5 damage to target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0173</id>
+    <name>Anarchist</name>
+    <text>When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.</text>
+    <flavorText>Those who will not follow are doomed to lead.</flavorText>
+  </item>
+  <item>
+    <id>ODY0174</id>
+    <name>Ashen Firebeast</name>
+    <text>{1}{R}: Ashen Firebeast deals 1 damage to each creature without flying.</text>
+    <flavorText>"I'm not sure which impresses me most, its thoroughness or its intensity."
+—Matoc, lavamancer</flavorText>
+  </item>
+  <item>
+    <id>ODY0175</id>
+    <name>Barbarian Lunatic</name>
+    <text>{2}{R}, Sacrifice Barbarian Lunatic: Barbarian Lunatic deals 2 damage to target creature.</text>
+    <flavorText>"I once saw a single barbarian charge a band of twenty nomads. I've seen some crazy ones, too."
+—Nomad sentry</flavorText>
+  </item>
+  <item>
+    <id>ODY0176</id>
+    <name>Bash to Bits</name>
+    <text>Destroy target artifact.
+Flashback {4}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0177</id>
+    <name>Battle Strain</name>
+    <text>Whenever a creature blocks, Battle Strain deals 1 damage to that creature's controller.</text>
+    <flavorText>The pits swallow the weak as predators swallow prey.</flavorText>
+  </item>
+  <item>
+    <id>ODY0178</id>
+    <name>Blazing Salvo</name>
+    <text>Blazing Salvo deals 3 damage to target creature unless that creature's controller has Blazing Salvo deal 5 damage to him or her.</text>
+    <flavorText>Barbarians equate courage with the ability to endure pain.</flavorText>
+  </item>
+  <item>
+    <id>ODY0179</id>
+    <name>Bomb Squad</name>
+    <text>{T}: Put a fuse counter on target creature.
+At the beginning of your upkeep, put a fuse counter on each creature with a fuse counter on it.
+Whenever a creature has four or more fuse counters on it, remove all fuse counters from it and destroy it. That creature deals 4 damage to its controller.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0180</id>
+    <name>Burning Sands</name>
+    <text>Whenever a creature is put into a graveyard from the battlefield, that creature's controller sacrifices a land.</text>
+    <flavorText>"Pain teaches lessons no scholar can."
+—Kamahl, pit fighter</flavorText>
+  </item>
+  <item>
+    <id>ODY0181</id>
+    <name>Chainflinger</name>
+    <text>{1}{R}, {T}: Chainflinger deals 1 damage to target creature or player.
+Threshold — {2}{R}, {T}: Chainflinger deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0182</id>
+    <name>Chance Encounter</name>
+    <text>Whenever you win a coin flip, put a luck counter on Chance Encounter.
+
+At the beginning of your upkeep, if Chance Encounter has ten or more luck counters on it, you win the game.</text>
+    <flavorText>The more unlikely the victory, the more memorable the success.</flavorText>
+  </item>
+  <item>
+    <id>ODY0183</id>
+    <name>Demolish</name>
+    <text>Destroy target artifact or land.</text>
+    <flavorText>"Pound the steel until it fits.
+Doesn't work? Bash to bits."
+—Dwarven forging song</flavorText>
+  </item>
+  <item>
+    <id>ODY0184</id>
+    <name>Demoralize</name>
+    <text>Each creature can't be blocked this turn except by two or more creatures.
+Threshold — If seven or more cards are in your graveyard, creatures can't block this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0185</id>
+    <name>Dwarven Grunt</name>
+    <text>Mountainwalk</text>
+    <flavorText>Hard as stone and twice as stubborn.
+—Dwarven compliment</flavorText>
+  </item>
+  <item>
+    <id>ODY0186</id>
+    <name>Dwarven Recruiter</name>
+    <text>When Dwarven Recruiter enters the battlefield, search your library for any number of Dwarf cards and reveal those cards. Shuffle your library, then put them on top of it in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0187</id>
+    <name>Dwarven Shrine</name>
+    <text>Whenever a player casts a spell, Dwarven Shrine deals X damage to that player, where X is twice the number of cards in all graveyards with the same name as that spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0188</id>
+    <name>Dwarven Strike Force</name>
+    <text>Discard a card at random: Dwarven Strike Force gains first strike and haste until end of turn.</text>
+    <flavorText>Any given foothill may hide dozens of dwarves waiting to spill from their tunnels like fire ants.</flavorText>
+  </item>
+  <item>
+    <id>ODY0189</id>
+    <name>Earth Rift</name>
+    <text>Destroy target land.
+Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0190</id>
+    <name>Ember Beast</name>
+    <text>Ember Beast can't attack or block alone.</text>
+    <flavorText>Spot one ember beast, attack.
+Spot a second, best fall back.
+—Dwarven saying</flavorText>
+  </item>
+  <item>
+    <id>ODY0191</id>
+    <name>Engulfing Flames</name>
+    <text>Engulfing Flames deals 1 damage to target creature. It can't be regenerated this turn.
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0192</id>
+    <name>Epicenter</name>
+    <text>Target player sacrifices a land.
+Threshold — All players sacrifice all lands instead if seven or more cards are in your graveyard.</text>
+    <flavorText>Sometimes destruction is Dominaria's way of rebuilding. Sometimes it's not.</flavorText>
+  </item>
+  <item>
+    <id>ODY0193</id>
+    <name>Firebolt</name>
+    <text>Firebolt deals 2 damage to target creature or player.
+Flashback {4}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>Reach out and torch someone.</flavorText>
+  </item>
+  <item>
+    <id>ODY0194</id>
+    <name>Flame Burst</name>
+    <text>Flame Burst deals X damage to target creature or player, where X is 2 plus the number of cards named Flame Burst in all graveyards.</text>
+    <flavorText>As hot as a dwarf's rage.</flavorText>
+  </item>
+  <item>
+    <id>ODY0195</id>
+    <name>Frenetic Ogre</name>
+    <text>{R}, Discard a card at random: Frenetic Ogre gets +3/+0 until end of turn.</text>
+    <flavorText>The best thing about ogres is that they never try to sneak up on you.</flavorText>
+  </item>
+  <item>
+    <id>ODY0196</id>
+    <name>Halberdier</name>
+    <text>First strike</text>
+    <flavorText>His reputation precedes him—and so does his weapon.</flavorText>
+  </item>
+  <item>
+    <id>ODY0197</id>
+    <name>Impulsive Maneuvers</name>
+    <text>Whenever a creature attacks, flip a coin. If you win the flip, the next time that creature would deal combat damage this turn, it deals double that damage instead. If you lose the flip, the next time that creature would deal combat damage this turn, prevent that damage.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0198</id>
+    <name>Kamahl, Pit Fighter</name>
+    <text>Haste (This creature can attack and {T} as soon as it comes under your control.)
+{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.</text>
+    <flavorText>"I didn't come to play. I came to win."</flavorText>
+  </item>
+  <item>
+    <id>ODY0199</id>
+    <name>Kamahl's Desire</name>
+    <text>Enchant creature
+Enchanted creature has first strike.
+Threshold — Enchanted creature gets +3/+0 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0200</id>
+    <name>Lava Blister</name>
+    <text>Destroy target nonbasic land unless its controller has Lava Blister deal 6 damage to him or her.</text>
+    <flavorText>To treat flesh wounds, use earth. To treat earth wounds, use flesh.
+—Barbarian saying</flavorText>
+  </item>
+  <item>
+    <id>ODY0201</id>
+    <name>Liquid Fire</name>
+    <text>As an additional cost to cast Liquid Fire, choose a number between 0 and 5.
+Liquid Fire deals X damage to target creature and 5 minus X damage to that creature's controller, where X is the chosen number.</text>
+    <flavorText>There's no such thing as a little bit of lava.</flavorText>
+  </item>
+  <item>
+    <id>ODY0202</id>
+    <name>Mad Dog</name>
+    <text>At the beginning of your end step, if Mad Dog didn't attack or come under your control this turn, sacrifice it.</text>
+    <flavorText>The bones it buries may be yours.</flavorText>
+  </item>
+  <item>
+    <id>ODY0203</id>
+    <name>Magma Vein</name>
+    <text>{R}, Sacrifice a land: Magma Vein deals 1 damage to each creature without flying.</text>
+    <flavorText>Standing near a volcano
+—Barbarian expression meaning
+"asking for it"</flavorText>
+  </item>
+  <item>
+    <id>ODY0204</id>
+    <name>Magnivore</name>
+    <text>Haste (This creature can attack the turn it comes under your control.)
+Magnivore's power and toughness are each equal to the number of sorcery cards in all graveyards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0205</id>
+    <name>Mine Layer</name>
+    <text>{1}{R}, {T}: Put a mine counter on target land.
+Whenever a land with a mine counter on it becomes tapped, destroy it.
+When Mine Layer leaves the battlefield, remove all mine counters from all lands.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0206</id>
+    <name>Minotaur Explorer</name>
+    <text>When Minotaur Explorer enters the battlefield, sacrifice it unless you discard a card at random.</text>
+    <flavorText>After the invasion devastated the Talruum and Hurloon tribes, the survivors began to search for other minotaurs.</flavorText>
+  </item>
+  <item>
+    <id>ODY0207</id>
+    <name>Molten Influence</name>
+    <text>Counter target instant or sorcery spell unless its controller has Molten Influence deal 4 damage to him or her.</text>
+    <flavorText>Lavamancers make simple requests: obey or die.</flavorText>
+  </item>
+  <item>
+    <id>ODY0208</id>
+    <name>Mudhole</name>
+    <text>Target player exiles all land cards from his or her graveyard.</text>
+    <flavorText>"Doing okay back there, Tarv? Tarv?"</flavorText>
+  </item>
+  <item>
+    <id>ODY0209</id>
+    <name>Need for Speed</name>
+    <text>Sacrifice a land: Target creature gains haste until end of turn.</text>
+    <flavorText>His feet buckled the ground, his hands cut the wind to ribbons, and he was gone.</flavorText>
+  </item>
+  <item>
+    <id>ODY0210</id>
+    <name>Obstinate Familiar</name>
+    <text>If you would draw a card, you may skip that draw instead.</text>
+    <flavorText>"Lizards make excellent familiars. They never know when they've lost."
+—Matoc, lavamancer</flavorText>
+  </item>
+  <item>
+    <id>ODY0211</id>
+    <name>Pardic Firecat</name>
+    <text>Haste
+If Pardic Firecat is in a graveyard, effects from spells named Flame Burst count it as a card named Flame Burst.</text>
+    <flavorText>"I've heard of putting the cat out, but this isn't what I had in mind."
+—Nomad sentry</flavorText>
+  </item>
+  <item>
+    <id>ODY0212</id>
+    <name>Pardic Miner</name>
+    <text>Sacrifice Pardic Miner: Target player can't play lands this turn.</text>
+    <flavorText>"Punch and drag,
+Toss the slag,
+Sift the soil,
+Leave the spoil."</flavorText>
+  </item>
+  <item>
+    <id>ODY0213</id>
+    <name>Pardic Swordsmith</name>
+    <text>{R}, Discard a card at random: Pardic Swordsmith gets +2/+0 until end of turn.</text>
+    <flavorText>A finely crafted blade will never meet as many blows on the battlefield as it did on the anvil.</flavorText>
+  </item>
+  <item>
+    <id>ODY0214</id>
+    <name>Price of Glory</name>
+    <text>Whenever a player taps a land for mana, if it's not that player's turn, destroy that land.</text>
+    <flavorText>"True strength lies in action. Let the weak react to me."
+—Kamahl, pit fighter</flavorText>
+  </item>
+  <item>
+    <id>ODY0215</id>
+    <name>Reckless Charge</name>
+    <text>Target creature gets +3/+0 and gains haste until end of turn.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0216</id>
+    <name>Recoup</name>
+    <text>Target sorcery card in your graveyard gains flashback until end of turn. The flashback cost is equal to its mana cost. (Mana cost includes color.)
+Flashback {3}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0217</id>
+    <name>Rites of Initiation</name>
+    <text>Discard any number of cards at random. Creatures you control get +1/+0 until end of turn for each card discarded this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0218</id>
+    <name>Savage Firecat</name>
+    <text>Trample
+Savage Firecat enters the battlefield with seven +1/+1 counters on it.
+Whenever you tap a land for mana, remove a +1/+1 counter from Savage Firecat.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0219</id>
+    <name>Scorching Missile</name>
+    <text>Scorching Missile deals 4 damage to target player.
+Flashback {9}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0220</id>
+    <name>Seize the Day</name>
+    <text>Untap target creature. After this main phase, there is an additional combat phase followed by an additional main phase.
+Flashback {2}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0221</id>
+    <name>Shower of Coals</name>
+    <text>Shower of Coals deals 2 damage to each of up to three target creatures and/or players.
+Threshold — Shower of Coals deals 4 damage to each of those creatures and/or players instead if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0222</id>
+    <name>Spark Mage</name>
+    <text>Whenever Spark Mage deals combat damage to a player, you may have Spark Mage deal 1 damage to target creature that player controls.</text>
+    <flavorText>The Pardic Mountains are known for their spicy cuisine.</flavorText>
+  </item>
+  <item>
+    <id>ODY0223</id>
+    <name>Steam Vines</name>
+    <text>Enchant land
+When enchanted land becomes tapped, destroy it and Steam Vines deals 1 damage to that land's controller. That player attaches Steam Vines to a land of his or her choice.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0224</id>
+    <name>Thermal Blast</name>
+    <text>Thermal Blast deals 3 damage to target creature.
+Threshold — Thermal Blast deals 5 damage to that creature instead if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0225</id>
+    <name>Tremble</name>
+    <text>Each player sacrifices a land.</text>
+    <flavorText>Otaria's frequent tremors are the last stages of Dominaria's recovery from the Phyrexian war.</flavorText>
+  </item>
+  <item>
+    <id>ODY0226</id>
+    <name>Volcanic Spray</name>
+    <text>Volcanic Spray deals 1 damage to each creature without flying and each player.
+Flashback {1}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0227</id>
+    <name>Volley of Boulders</name>
+    <text>Volley of Boulders deals 6 damage divided as you choose among any number of target creatures and/or players.
+Flashback {R}{R}{R}{R}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0228</id>
+    <name>Whipkeeper</name>
+    <text>{T}: Whipkeeper deals damage to target creature equal to the damage already dealt to it this turn.</text>
+    <flavorText>"If you don't hit your adversaries while they're down, they might get up again."</flavorText>
+  </item>
+  <item>
+    <id>ODY0229</id>
+    <name>Bearscape</name>
+    <text>{1}{G}, Exile two cards from your graveyard: Put a 2/2 green Bear creature token onto the battlefield.</text>
+    <flavorText>"Nature is the endless dance between life and death."
+—Seton, centaur druid</flavorText>
+  </item>
+  <item>
+    <id>ODY0230</id>
+    <name>Beast Attack</name>
+    <text>Put a 4/4 green Beast creature token onto the battlefield.
+Flashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0231</id>
+    <name>Call of the Herd</name>
+    <text>Put a 3/3 green Elephant creature token onto the battlefield.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0232</id>
+    <name>Cartographer</name>
+    <text>When Cartographer enters the battlefield, you may return target land card from your graveyard to your hand.</text>
+    <flavorText>"Finding the way once is luck. Finding the way twice takes a good map."</flavorText>
+  </item>
+  <item>
+    <id>ODY0233</id>
+    <name>Chatter of the Squirrel</name>
+    <text>Put a 1/1 green Squirrel creature token onto the battlefield.
+Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0234</id>
+    <name>Chlorophant</name>
+    <text>At the beginning of your upkeep, you may put a +1/+1 counter on Chlorophant.
+Threshold — As long as seven or more cards are in your graveyard, Chlorophant has "At the beginning of your upkeep, you may put another +1/+1 counter on Chlorophant."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0235</id>
+    <name>Crashing Centaur</name>
+    <text>{G}, Discard a card: Crashing Centaur gains trample until end of turn.
+Threshold — As long as seven or more cards are in your graveyard, Crashing Centaur gets +2/+2 and has shroud. (It can't be the target of spells or abilities.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0236</id>
+    <name>Deep Reconnaissance</name>
+    <text>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+Flashback {4}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0237</id>
+    <name>Diligent Farmhand</name>
+    <text>{1}{G}, Sacrifice Diligent Farmhand: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.
+If Diligent Farmhand is in a graveyard, effects from spells named Muscle Burst count it as a card named Muscle Burst.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0238</id>
+    <name>Druid Lyrist</name>
+    <text>{G}, {T}, Sacrifice Druid Lyrist: Destroy target enchantment.</text>
+    <flavorText>The druids and the forest are in perfect harmony. They sing the same songs.</flavorText>
+  </item>
+  <item>
+    <id>ODY0239</id>
+    <name>Druid's Call</name>
+    <text>Enchant creature
+Whenever enchanted creature is dealt damage, its controller puts that many 1/1 green Squirrel creature tokens onto the battlefield.</text>
+    <flavorText>Suffer the little creatures, for they may yet rise up and beat you senseless.</flavorText>
+  </item>
+  <item>
+    <id>ODY0240</id>
+    <name>Elephant Ambush</name>
+    <text>Put a 3/3 green Elephant creature token onto the battlefield.
+Flashback {6}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0241</id>
+    <name>Gorilla Titan</name>
+    <text>Trample
+Gorilla Titan gets +4/+4 as long as there are no cards in your graveyard.</text>
+    <flavorText>"I want a banana this big"</flavorText>
+  </item>
+  <item>
+    <id>ODY0242</id>
+    <name>Ground Seal</name>
+    <text>When Ground Seal enters the battlefield, draw a card.
+Cards in graveyards can't be the targets of spells or abilities.</text>
+    <flavorText>"Let all we have buried be buried forever."
+—Seton, centaur druid</flavorText>
+  </item>
+  <item>
+    <id>ODY0243</id>
+    <name>Holistic Wisdom</name>
+    <text>{2}, Exile a card from your hand: Return target card from your graveyard to your hand if it shares a card type with the card exiled this way. (The card types are artifact, creature, enchantment, instant, land, planeswalker, sorcery, and tribal.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0244</id>
+    <name>Howling Gale</name>
+    <text>Howling Gale deals 1 damage to each creature with flying and each player.
+Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0245</id>
+    <name>Ivy Elemental</name>
+    <text>Ivy Elemental enters the battlefield with X +1/+1 counters on it.</text>
+    <flavorText>In the gardens of the centaurs, many travelers have mysteriously vanished while admiring the elaborate topiaries.</flavorText>
+  </item>
+  <item>
+    <id>ODY0246</id>
+    <name>Krosan Archer</name>
+    <text>Reach (This creature can block creatures with flying.)
+{G}, Discard a card: Krosan Archer gets +0/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0247</id>
+    <name>Krosan Avenger</name>
+    <text>Trample
+Threshold — {1}{G}: Regenerate Krosan Avenger. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>She'd have a fearsome reputation if she left any survivors.</flavorText>
+  </item>
+  <item>
+    <id>ODY0248</id>
+    <name>Krosan Beast</name>
+    <text>Threshold — Krosan Beast gets +7/+7 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>Those who see the squirrels go underground in the winter aren't ready for what emerges in the spring.</flavorText>
+  </item>
+  <item>
+    <id>ODY0249</id>
+    <name>Leaf Dancer</name>
+    <text>Forestwalk</text>
+    <flavorText>A leaf dancer sweeps through the forest like a spring breeze, evading even the sharpest eyes and ears.</flavorText>
+  </item>
+  <item>
+    <id>ODY0250</id>
+    <name>Metamorphic Wurm</name>
+    <text>Threshold — Metamorphic Wurm gets +4/+4 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>Only a handful have seen it transform. Or, from the wurm's perspective, only a mouthful.</flavorText>
+  </item>
+  <item>
+    <id>ODY0251</id>
+    <name>Moment's Peace</name>
+    <text>Prevent all combat damage that would be dealt this turn.
+Flashback {2}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0252</id>
+    <name>Muscle Burst</name>
+    <text>Target creature gets +X/+X until end of turn, where X is 3 plus the number of cards named Muscle Burst in all graveyards.</text>
+    <flavorText>As strong as a centaur's will.</flavorText>
+  </item>
+  <item>
+    <id>ODY0253</id>
+    <name>Nantuko Disciple</name>
+    <text>{G}, {T}: Target creature gets +2/+2 until end of turn.</text>
+    <flavorText>Unanswered prayers are themselves answers.
+—Nantuko teaching</flavorText>
+  </item>
+  <item>
+    <id>ODY0254</id>
+    <name>Nantuko Elder</name>
+    <text>{T}: Add {1}{G} to your mana pool.</text>
+    <flavorText>Plant a field with wishes, and you will grow more wishes.
+—Nantuko teaching</flavorText>
+  </item>
+  <item>
+    <id>ODY0255</id>
+    <name>Nantuko Mentor</name>
+    <text>{2}{G}, {T}: Target creature gets +X/+X until end of turn, where X is that creature's power.</text>
+    <flavorText>That which grows without roots cannot be uprooted.
+—Nantuko teaching</flavorText>
+  </item>
+  <item>
+    <id>ODY0256</id>
+    <name>Nantuko Shrine</name>
+    <text>Whenever a player casts a spell, that player puts X 1/1 green Squirrel creature tokens onto the battlefield, where X is the number of cards in all graveyards with the same name as that spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0257</id>
+    <name>New Frontiers</name>
+    <text>Each player may search his or her library for up to X basic land cards and put them onto the battlefield tapped. Then each player who searched his or her library this way shuffles it.</text>
+    <flavorText>Spreading a blanket of growth to warm a weary world.</flavorText>
+  </item>
+  <item>
+    <id>ODY0258</id>
+    <name>Nimble Mongoose</name>
+    <text>Shroud (This permanent can't be the target of spells or abilities.)
+Threshold — Nimble Mongoose gets +2/+2 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>Faster than a cobra's bite.</flavorText>
+  </item>
+  <item>
+    <id>ODY0259</id>
+    <name>Nut Collector</name>
+    <text>At the beginning of your upkeep, you may put a 1/1 green Squirrel creature token onto the battlefield.
+Threshold — Squirrel creatures get +2/+2 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0260</id>
+    <name>Overrun</name>
+    <text>Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)</text>
+    <flavorText>The dance of angry feet
+—Nantuko expression meaning
+"stampede"</flavorText>
+  </item>
+  <item>
+    <id>ODY0261</id>
+    <name>Piper's Melody</name>
+    <text>Shuffle any number of target creature cards from your graveyard into your library.</text>
+    <flavorText>Those who follow nature's path eventually walk in a circle.</flavorText>
+  </item>
+  <item>
+    <id>ODY0262</id>
+    <name>Primal Frenzy</name>
+    <text>Enchant creature
+Enchanted creature has trample.</text>
+    <flavorText>"Don't dismiss its anger as mindless fury. I assure you, it has purpose."
+—Seton, centaur druid</flavorText>
+  </item>
+  <item>
+    <id>ODY0263</id>
+    <name>Rabid Elephant</name>
+    <text>Whenever Rabid Elephant becomes blocked, it gets +2/+2 until end of turn for each creature blocking it.</text>
+    <flavorText>When in doubt, stomp.</flavorText>
+  </item>
+  <item>
+    <id>ODY0264</id>
+    <name>Refresh</name>
+    <text>Regenerate target creature.
+
+Draw a card.</text>
+    <flavorText>Death is a moth that dances toward our inner flame. The brightest fire can singe its wings.
+—Nantuko teaching</flavorText>
+  </item>
+  <item>
+    <id>ODY0265</id>
+    <name>Rites of Spring</name>
+    <text>Discard any number of cards. Search your library for that many basic land cards, reveal those cards, and put them into your hand. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0266</id>
+    <name>Roar of the Wurm</name>
+    <text>Put a 6/6 green Wurm creature token onto the battlefield.
+Flashback {3}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0267</id>
+    <name>Seton, Krosan Protector</name>
+    <text>Tap an untapped Druid you control: Add {G} to your mana pool.</text>
+    <flavorText>"Survival of the fittest is not only the law of the pits, it is the law of nature. That is why I fight."</flavorText>
+  </item>
+  <item>
+    <id>ODY0268</id>
+    <name>Seton's Desire</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+2.
+Threshold — As long as seven or more cards are in your graveyard, all creatures able to block enchanted creature do so.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0269</id>
+    <name>Simplify</name>
+    <text>Each player sacrifices an enchantment.</text>
+    <flavorText>A blossom's petals close inward to shut out the frost.
+—Nantuko teaching</flavorText>
+  </item>
+  <item>
+    <id>ODY0270</id>
+    <name>Skyshooter</name>
+    <text>Reach (This creature can block creatures with flying.)
+{T}, Sacrifice Skyshooter: Destroy target attacking or blocking creature with flying.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0271</id>
+    <name>Spellbane Centaur</name>
+    <text>Creatures you control can't be the targets of blue spells or abilities from blue sources.</text>
+    <flavorText>"No mage's deception can harm those who keep nature balanced."</flavorText>
+  </item>
+  <item>
+    <id>ODY0272</id>
+    <name>Springing Tiger</name>
+    <text>Threshold — Springing Tiger gets +2/+2 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>The ground trembled in a violent purr.</flavorText>
+  </item>
+  <item>
+    <id>ODY0273</id>
+    <name>Squirrel Mob</name>
+    <text>Squirrel Mob gets +1/+1 for each other Squirrel on the battlefield.</text>
+    <flavorText>An army of squirrels is still an army.</flavorText>
+  </item>
+  <item>
+    <id>ODY0274</id>
+    <name>Squirrel Nest</name>
+    <text>Enchant land
+Enchanted land has "{T}: Put a 1/1 green Squirrel creature token onto the battlefield."</text>
+    <flavorText>In the Krosan Forest, you've got to keep an eye out for the squirrels.</flavorText>
+  </item>
+  <item>
+    <id>ODY0275</id>
+    <name>Still Life</name>
+    <text>{G}{G}: Still Life becomes a 4/3 Centaur creature until end of turn. It's still an enchantment.</text>
+    <flavorText>The centaurs' simple magic can undo a basilisk's gaze, but only for a short time.</flavorText>
+  </item>
+  <item>
+    <id>ODY0276</id>
+    <name>Stone-Tongue Basilisk</name>
+    <text>Whenever Stone-Tongue Basilisk deals combat damage to a creature, destroy that creature at end of combat.
+Threshold — As long as seven or more cards are in your graveyard, all creatures able to block Stone-Tongue Basilisk do so.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0277</id>
+    <name>Sylvan Might</name>
+    <text>Target creature gets +2/+2 and gains trample until end of turn.
+Flashback {2}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0278</id>
+    <name>Terravore</name>
+    <text>Trample
+Terravore's power and toughness are each equal to the number of land cards in all graveyards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0279</id>
+    <name>Twigwalker</name>
+    <text>{1}{G}, Sacrifice Twigwalker: Two target creatures each get +2/+2 until end of turn.</text>
+    <flavorText>"Break one in half and you'll get a decent—if gooey—pair of weapons."
+—Centaur warrior</flavorText>
+  </item>
+  <item>
+    <id>ODY0280</id>
+    <name>Verdant Succession</name>
+    <text>Whenever a green nontoken creature is put into a graveyard from the battlefield, that creature's controller may search his or her library for a card with the same name as that creature and put it onto the battlefield. If that player does, he or she shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0281</id>
+    <name>Vivify</name>
+    <text>Target land becomes a 3/3 creature until end of turn. It's still a land.
+
+Draw a card.</text>
+    <flavorText>Near the Krosan border, farmers keep watch over their fields lest the sod get up and wander away.</flavorText>
+  </item>
+  <item>
+    <id>ODY0282</id>
+    <name>Werebear</name>
+    <text>{T}: Add {G} to your mana pool.
+Threshold — Werebear gets +3/+3 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>He exercises his right to bear arms.</flavorText>
+  </item>
+  <item>
+    <id>ODY0283</id>
+    <name>Wild Mongrel</name>
+    <text>Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.</text>
+    <flavorText>It teaches you to play dead.</flavorText>
+  </item>
+  <item>
+    <id>ODY0284</id>
+    <name>Woodland Druid</name>
+    <text>
+    </text>
+    <flavorText>What is a tree?
+Slow hard thought.
+What is a flower?
+Swift soft flesh.
+What is a druid?
+Both.</flavorText>
+  </item>
+  <item>
+    <id>ODY0285</id>
+    <name>Zoologist</name>
+    <text>{3}{G}, {T}: Reveal the top card of your library. If it's a creature card, put it onto the battlefield. Otherwise, put it into your graveyard.</text>
+    <flavorText>"With friends like these, who needs people?"</flavorText>
+  </item>
+  <item>
+    <id>ODY0286</id>
+    <name>Atogatog</name>
+    <text>Sacrifice an Atog creature: Atogatog gets +X/+X until end of turn, where X is the sacrificed creature's power.</text>
+    <flavorText>It relishes old-fashioned family meals.</flavorText>
+  </item>
+  <item>
+    <id>ODY0287</id>
+    <name>Decimate</name>
+    <text>Destroy target artifact, target creature, target enchantment, and target land.</text>
+    <flavorText>"Anyone can admire creation. Only a barbarian sees the beauty in demolition."
+—Kamahl, pit fighter</flavorText>
+  </item>
+  <item>
+    <id>ODY0288</id>
+    <name>Iridescent Angel</name>
+    <text>Flying, protection from all colors</text>
+    <flavorText>She enraptures all, encompasses all, endures all.</flavorText>
+  </item>
+  <item>
+    <id>ODY0289</id>
+    <name>Lithatog</name>
+    <text>Sacrifice an artifact: Lithatog gets +1/+1 until end of turn.
+Sacrifice a land: Lithatog gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0290</id>
+    <name>Mystic Enforcer</name>
+    <text>Protection from black
+Threshold — As long as seven or more cards are in your graveyard, Mystic Enforcer gets +3/+3 and has flying.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0291</id>
+    <name>Phantatog</name>
+    <text>Sacrifice an enchantment: Phantatog gets +1/+1 until end of turn.
+Discard a card: Phantatog gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0292</id>
+    <name>Psychatog</name>
+    <text>Discard a card: Psychatog gets +1/+1 until end of turn.
+Exile two cards from your graveyard: Psychatog gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0293</id>
+    <name>Sarcatog</name>
+    <text>Exile two cards from your graveyard: Sarcatog gets +1/+1 until end of turn.
+Sacrifice an artifact: Sarcatog gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0294</id>
+    <name>Shadowmage Infiltrator</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Shadowmage Infiltrator deals combat damage to a player, you may draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0295</id>
+    <name>Thaumatog</name>
+    <text>Sacrifice a land: Thaumatog gets +1/+1 until end of turn.
+Sacrifice an enchantment: Thaumatog gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0296</id>
+    <name>Vampiric Dragon</name>
+    <text>Flying
+Whenever a creature dealt damage by Vampiric Dragon this turn is put into a graveyard, put a +1/+1 counter on Vampiric Dragon.
+{1}{R}: Vampiric Dragon deals 1 damage to target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0297</id>
+    <name>Catalyst Stone</name>
+    <text>Flashback costs you pay cost up to {2} less.
+Flashback costs your opponents pay cost {2} more.</text>
+    <flavorText>The gems' incandescence invades the dreams of all who see them.</flavorText>
+  </item>
+  <item>
+    <id>ODY0298</id>
+    <name>Charmed Pendant</name>
+    <text>{T}, Put the top card of your library into your graveyard: For each colored mana symbol in that card's mana cost, add one mana of that color to your mana pool. Activate this ability only any time you could cast an instant. (For example, if the card's mana cost is {3}{U}{U}{B}, you add {U}{U}{B} to your mana pool.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0299</id>
+    <name>Darkwater Egg</name>
+    <text>{2}, {T}, Sacrifice Darkwater Egg: Add {U}{B} to your mana pool. Draw a card.</text>
+    <flavorText>"Do you thirst for knowledge no matter the cost?"
+—Watnik, master glassblower</flavorText>
+  </item>
+  <item>
+    <id>ODY0300</id>
+    <name>Junk Golem</name>
+    <text>Junk Golem enters the battlefield with three +1/+1 counters on it.
+At the beginning of your upkeep, sacrifice Junk Golem unless you remove a +1/+1 counter from it.
+{1}, Discard a card: Put a +1/+1 counter on Junk Golem.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0301</id>
+    <name>Limestone Golem</name>
+    <text>{2}, Sacrifice Limestone Golem: Target player draws a card.</text>
+    <flavorText>Dwarves have been known to take pickaxes to their own creations, hoping to discover treasures within.</flavorText>
+  </item>
+  <item>
+    <id>ODY0302</id>
+    <name>Millikin</name>
+    <text>{T}, Put the top card of your library into your graveyard: Add {1} to your mana pool.</text>
+    <flavorText>The toymaker frowned in bewilderment. None of his creations had ever sneezed before.</flavorText>
+  </item>
+  <item>
+    <id>ODY0303</id>
+    <name>Mirari</name>
+    <text>Whenever you cast an instant or sorcery spell, you may pay {3}. If you do, copy that spell. You may choose new targets for the copy.</text>
+    <flavorText>"It offers you what you want, not what you need."
+—Braids, dementia summoner</flavorText>
+  </item>
+  <item>
+    <id>ODY0304</id>
+    <name>Mossfire Egg</name>
+    <text>{2}, {T}, Sacrifice Mossfire Egg: Add {R}{G} to your mana pool. Draw a card.</text>
+    <flavorText>"Can you feel your instincts overwhelm your reason?"
+—Watnik, master glassblower</flavorText>
+  </item>
+  <item>
+    <id>ODY0305</id>
+    <name>Otarian Juggernaut</name>
+    <text>Otarian Juggernaut can't be blocked by Walls.
+Threshold — As long as seven or more cards are in your graveyard, Otarian Juggernaut gets +3/+0 and attacks each turn if able.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0306</id>
+    <name>Patchwork Gnomes</name>
+    <text>Discard a card: Regenerate Patchwork Gnomes.</text>
+    <flavorText>When building gnomes, dwarves adhere to the highest standards. The gnomes themselves aren't as particular.</flavorText>
+  </item>
+  <item>
+    <id>ODY0307</id>
+    <name>Sandstone Deadfall</name>
+    <text>{T}, Sacrifice two lands and Sandstone Deadfall: Destroy target attacking creature.</text>
+    <flavorText>"Two or three tons of rock can really get you down—and keep you there."
+—Kamahl, pit fighter</flavorText>
+  </item>
+  <item>
+    <id>ODY0308</id>
+    <name>Shadowblood Egg</name>
+    <text>{2}, {T}, Sacrifice Shadowblood Egg: Add {B}{R} to your mana pool. Draw a card.</text>
+    <flavorText>"Does your passion for power consume your soul?"
+—Watnik, master glassblower</flavorText>
+  </item>
+  <item>
+    <id>ODY0309</id>
+    <name>Skycloud Egg</name>
+    <text>{2}, {T}, Sacrifice Skycloud Egg: Add {W}{U} to your mana pool. Draw a card.</text>
+    <flavorText>"Have your dreams of a better society become an obsession?"
+—Watnik, master glassblower</flavorText>
+  </item>
+  <item>
+    <id>ODY0310</id>
+    <name>Steamclaw</name>
+    <text>{3}, {T}: Exile target card from a graveyard.
+{1}, Sacrifice Steamclaw: Exile target card from a graveyard.</text>
+    <flavorText>"There's dead, and then there's dead dead."
+—Steamclaw driver</flavorText>
+  </item>
+  <item>
+    <id>ODY0311</id>
+    <name>Sungrass Egg</name>
+    <text>{2}, {T}, Sacrifice Sungrass Egg: Add {G}{W} to your mana pool. Draw a card.</text>
+    <flavorText>"Has your peaceful nature led you on a crusade?"
+—Watnik, master glassblower</flavorText>
+  </item>
+  <item>
+    <id>ODY0312</id>
+    <name>Abandoned Outpost</name>
+    <text>Abandoned Outpost enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+{T}, Sacrifice Abandoned Outpost: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0313</id>
+    <name>Barbarian Ring</name>
+    <text>{T}: Add {R} to your mana pool. Barbarian Ring deals 1 damage to you.
+Threshold — {R}, {T}, Sacrifice Barbarian Ring: Barbarian Ring deals 2 damage to target creature or player. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0314</id>
+    <name>Bog Wreckage</name>
+    <text>Bog Wreckage enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+{T}, Sacrifice Bog Wreckage: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0315</id>
+    <name>Cabal Pit</name>
+    <text>{T}: Add {B} to your mana pool. Cabal Pit deals 1 damage to you.
+Threshold — {B}, {T}, Sacrifice Cabal Pit: Target creature gets -2/-2 until end of turn. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0316</id>
+    <name>Centaur Garden</name>
+    <text>{T}: Add {G} to your mana pool. Centaur Garden deals 1 damage to you.
+Threshold — {G}, {T}, Sacrifice Centaur Garden: Target creature gets +3/+3 until end of turn. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0317</id>
+    <name>Cephalid Coliseum</name>
+    <text>{T}: Add {U} to your mana pool. Cephalid Coliseum deals 1 damage to you.
+Threshold — {U}, {T}, Sacrifice Cephalid Coliseum: Target player draws three cards, then discards three cards. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0318</id>
+    <name>Crystal Quarry</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{5}, {T}: Add {W}{U}{B}{R}{G} to your mana pool.</text>
+    <flavorText>"How tragic that greed eclipses beauty."
+—Seton, centaur druid</flavorText>
+  </item>
+  <item>
+    <id>ODY0319</id>
+    <name>Darkwater Catacombs</name>
+    <text>{1}, {T}: Add {U}{B} to your mana pool.</text>
+    <flavorText>Murky Otarian tides hide the forgotten treacheries of the Phyrexian war.</flavorText>
+  </item>
+  <item>
+    <id>ODY0320</id>
+    <name>Deserted Temple</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{1}, {T}: Untap target land.</text>
+    <flavorText>A monument to long-forgotten gods, it stands as a tribute to the fleeting nature of human ways.</flavorText>
+  </item>
+  <item>
+    <id>ODY0321</id>
+    <name>Mossfire Valley</name>
+    <text>{1}, {T}: Add {R}{G} to your mana pool.</text>
+    <flavorText>Lush growth spreads like a ferocious blaze across the Otarian hillsides.</flavorText>
+  </item>
+  <item>
+    <id>ODY0322</id>
+    <name>Nomad Stadium</name>
+    <text>{T}: Add {W} to your mana pool. Nomad Stadium deals 1 damage to you.
+Threshold — {W}, {T}, Sacrifice Nomad Stadium: You gain 4 life. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0323</id>
+    <name>Petrified Field</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{T}, Sacrifice Petrified Field: Return target land card from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0324</id>
+    <name>Ravaged Highlands</name>
+    <text>Ravaged Highlands enters the battlefield tapped.
+{T}: Add {R} to your mana pool.
+{T}, Sacrifice Ravaged Highlands: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0325</id>
+    <name>Seafloor Debris</name>
+    <text>Seafloor Debris enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+{T}, Sacrifice Seafloor Debris: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0326</id>
+    <name>Shadowblood Ridge</name>
+    <text>{1}, {T}: Add {B}{R} to your mana pool.</text>
+    <flavorText>The carnage of conflicts long past still stains the Otarian soil.</flavorText>
+  </item>
+  <item>
+    <id>ODY0327</id>
+    <name>Skycloud Expanse</name>
+    <text>{1}, {T}: Add {W}{U} to your mana pool.</text>
+    <flavorText>From Otaria, the sun above meets the sea below at a glittering horizon.</flavorText>
+  </item>
+  <item>
+    <id>ODY0328</id>
+    <name>Sungrass Prairie</name>
+    <text>{1}, {T}: Add {G}{W} to your mana pool.</text>
+    <flavorText>On Otaria, peace and harmony are rare. Places that provide both are cherished.</flavorText>
+  </item>
+  <item>
+    <id>ODY0329</id>
+    <name>Tarnished Citadel</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{T}: Add one mana of any color to your mana pool. Tarnished Citadel deals 3 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0330</id>
+    <name>Timberland Ruins</name>
+    <text>Timberland Ruins enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{T}, Sacrifice Timberland Ruins: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0331</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0332</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0333</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0334</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0335</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0336</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0337</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0338</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0339</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0340</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0341</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0342</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0343</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0344</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0345</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0346</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0347</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0348</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0349</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ODY0350</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

@@ -1,0 +1,2296 @@
+<cards name="Mirrodin">
+  <item>
+    <id>MRD0001</id>
+    <name>Luce dell'Altare</name>
+    <text>Esilia l'artefatto o l'incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0002</id>
+    <name>Arrestare</name>
+    <text>Incanta creatura
+La creatura incantata non può attaccare né bloccare, e le sue abilità attivate non possono essere attivate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0003</id>
+    <name>Reggilame Auriok</name>
+    <text>{T}: La creatura bersaglio prende +X/+X fino alla fine del turno, dove X è pari alla forza del Reggilame Auriok.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0004</id>
+    <name>Plasmametallo Auriok</name>
+    <text>I costi di equipaggiamento che tu paghi costano {1} in meno.
+Fintanto che il Plasmametallo Auriok è equipaggiato, le creature Soldato e/o Cavaliere che tu controlli prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0005</id>
+    <name>Pietrificatrice Auriok</name>
+    <text>{W}, {T}: TAPpa l'artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0006</id>
+    <name>Atterrire</name>
+    <text>La prossima volta che la creatura bersaglio infligge danno in questo turno, previeni quel danno. Tu guadagni un ammontare di punti vita pari al danno prevenuto in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0007</id>
+    <name>Raggio Accecante</name>
+    <text>Scegli una - TAPpa due creature bersaglio; oppure le creature non STAPpano durante il prossimo STAP del giocatore bersaglio.
+Intrecciare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0008</id>
+    <name>Abuna Leonid</name>
+    <text>Gli artefatti che tu controlli non possono essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0009</id>
+    <name>Domoguardia Leonid</name>
+    <text>Fintanto che la Domoguardia Leonid è equipaggiata, prende +1/+1 e ha cautela.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0010</id>
+    <name>Anziano Leonid</name>
+    <text>Ogniqualvolta un artefatto entra nel campo di battaglia, tu puoi guadagnare 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0011</id>
+    <name>Solcacielo Leonid</name>
+    <text>Volare (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0012</id>
+    <name>Riparatore Lossodonte</name>
+    <text>{W}, {T}: Rigenera un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0013</id>
+    <name>Pacificatore Lossodonte</name>
+    <text>All'inizio del tuo mantenimento, il giocatore con il minor numero di punti vita prende il controllo del Pacificatore Lossodonte. Se due o più giocatori hanno lo stesso minor numero di punti vita, scegli uno di essi, e quel giocatore prende il controllo del Pacificatore Lossodonte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0014</id>
+    <name>Giustiziere Lossodonte</name>
+    <text>Il Giustiziere Lossodonte prende +2/+2 per ogni equipaggiamento assegnato ad esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0015</id>
+    <name>Angelo Luminoso</name>
+    <text>Volare
+All'inizio del tuo mantenimento, puoi mettere sul campo di battaglia una pedina creatura Spirito 1/1 bianca con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0016</id>
+    <name>Dare l'Allarme</name>
+    <text>Metti sul campo di battaglia due pedine creatura Soldato 1/1 bianca.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0017</id>
+    <name>Barriera Tagliente</name>
+    <text>Il permanente bersaglio che tu controlli guadagna la protezione dagli artefatti o da un colore a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0018</id>
+    <name>Ruggito del Kha</name>
+    <text>Scegli una - Le creature che controlli prendono +1/+1 fino alla fine del turno; oppure STAPpa tutte le creature che controlli.
+Intrecciare {1}{W}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0019</id>
+    <name>Regola della Legge</name>
+    <text>Ogni giocatore non può lanciare più di una magia per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0020</id>
+    <name>Seconda Alba</name>
+    <text>Ogni giocatore rimette sul campo di battaglia tutte le carte artefatto, creatura, incantesimo e terra che sono state messe nel suo cimitero dal campo di battaglia in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0021</id>
+    <name>Cucciola di Solcacielo</name>
+    <text>Fintanto che la Cucciola di Solcacielo è equipaggiata, prende +1/+1 e ha volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0022</id>
+    <name>Pattuglia di Solcacielo</name>
+    <text>Volare, attacco improvviso (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere, e infligge danno da combattimento prima delle creature senza attacco improvviso.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0023</id>
+    <name>Dominatore Slith</name>
+    <text>Volare
+Ogniqualvolta il Dominatore Slith infligge danno da combattimento ad un giocatore, metti un segnalino +1/+1 su di esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0024</id>
+    <name>Onda Solare</name>
+    <text>Scegli una - Distruggi tutte le creature con forza pari o inferiore a 2; oppure distruggi tutte le creature con forza pari o superiore a 3;
+Intrecciare-Sacrifica due terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0025</id>
+    <name>Nova dell'Anima</name>
+    <text>Esilia una creatura attaccante bersaglio e tutti gli Equipaggiamenti ad essa assegnati.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0026</id>
+    <name>Sfera della Purezza</name>
+    <text>Se una fonte artefatto sta per infliggerti danno, previeni 1 di quei danni.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0027</id>
+    <name>Armaiolo di Taj-Nar</name>
+    <text>Quando l'Armaiolo di Taj-Nar entra nel campo di battaglia, puoi pagare {X}. Se lo fai, passa in rassegna il tuo grimorio per una carta Equipaggiamento con costo di mana convertito pari o inferiore a X e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0028</id>
+    <name>Tempesta di Luce</name>
+    <text>Distruggi tutti gli incantesimi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0029</id>
+    <name>Nullificare</name>
+    <text>Neutralizza una magia artefatto o incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0030</id>
+    <name>Affermare l'Autorità</name>
+    <text>Affinità con gli artefatti (Lanciare questa magia costa {1} in meno per ogni artefatto che controlli.)
+Neutralizza una magia bersaglio. Se quella magia viene neutralizzata in questo modo, esiliala invece di metterla nel cimitero del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0031</id>
+    <name>Prole Stellare</name>
+    <text>Affinità con gli artefatti (Questa magia costa {1} in meno per essere lanciata per ogni artefatto che controlli)
+Volare
+La forza e la costituzione della Prole Stellare sono ciascuna pari al numero di artefatti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0032</id>
+    <name>Disarmare</name>
+    <text>Togli tutto l'Equipaggiamento da una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0033</id>
+    <name>Spadroneggiare</name>
+    <text>Incanta creatura artefatto
+Tu controlli la creatura artefatto incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0034</id>
+    <name>Stretta del Sogno</name>
+    <text>Scegli una - TAPpa un permanente bersaglio; oppure STAPpa un permanente bersaglio.
+Intrecciare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0035</id>
+    <name>Fabbricare</name>
+    <text>Passa in rassegna il tuo grimorio per una carta artefatto, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0036</id>
+    <name>Tessifato</name>
+    <text>All'inizio del mantenimento di ogni avversario, quel giocatore sceglie tra la sottofase di acquisizione, la fase principale o la fase di combattimento. Il giocatore salta la fase o la sottofase scelta ogni volta che ricorre in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0037</id>
+    <name>Sfera di Inerzia</name>
+    <text>Incanta artefatto
+L'artefatto incantato non STAPpa durante lo STAP del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0038</id>
+    <name>Aerocustode Incombente</name>
+    <text>Volare
+Quando l'Aerocustode Incombente entra nel campo di battaglia, metti un artefatto bersaglio in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0039</id>
+    <name>Augure del Lumengrid</name>
+    <text>{1}, {T}: Il giocatore bersaglio pesca una carta, poi scarta una carta. Se quel giocatore scarta una carta artefatto in questo modo, STAPpa l'Augure del Lumengrid.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0040</id>
+    <name>Sentinella del Lumengrid</name>
+    <text>Volare
+Ogniqualvolta un artefatto entra nel campo di battaglia sotto il tuo controllo, puoi TAPpare un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0041</id>
+    <name>Guardiano del Lumengrid</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0042</id>
+    <name>Marcia delle Macchine</name>
+    <text>Ogni artefatto non creatura è una creatura artefatto con forza e costituzione pari al suo costo di mana convertito. (Un Equipaggiamento che è anche una creatura non può equipaggiare una creatura.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0043</id>
+    <name>Famiglio Neuraco</name>
+    <text>Volare
+Quando il Famiglio Neuraco entra nel campo di battaglia, rivela la prima carta del tuo grimorio. Se è una carta artefatto, aggiungila alla tua mano. Altrimenti mettila nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0044</id>
+    <name>Spia Neuraca</name>
+    <text>La Spia Neuraca non può essere bloccata fintanto che il giocatore in difesa controlla un artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0045</id>
+    <name>Prepotenza</name>
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {1} per ogni artefatto che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0046</id>
+    <name>Membrana Psichica</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Ogniqualvolta la Membrana Psichica blocca, tu puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0047</id>
+    <name>Elementale di Mercurio</name>
+    <text>{U}: L'Elementale di Mercurio guadagna tutte le abilità attivate di una creatura bersaglio fino alla fine del turno. (Se alcune di quelle abilità usano il nome di quella creatura, usano invece il nome di questa creatura.)
+Puoi spendere mana blu come se fosse mana di un colore qualsiasi per pagare i costi di attivazione delle abilità dell'Elementale di Mercurio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0048</id>
+    <name>Regredire</name>
+    <text>Il proprietario riprende in mano un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0049</id>
+    <name>Destino Comune</name>
+    <text>Se un giocatore sta per pescare una carta, invece quel giocatore esilia a faccia in giù la carta in cima al grimorio di un avversario.
+Ogni giocatore può guardare e giocare le carte che ha esiliato con il Destino Comune.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0050</id>
+    <name>Ramingo Slith</name>
+    <text>Ogniqualvolta il Ramingo Slith viene bloccato, pesca una carta.
+Ogniqualvolta il Ramingo Slith infligge danno da combattimento ad un giocatore, metti un segnalino +1/+1 su di esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0051</id>
+    <name>Aerocustode Fosco</name>
+    <text>Affinità con gli artefatti
+Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0052</id>
+    <name>Cascata Temporale</name>
+    <text>Scegli una - Ogni giocatore rimescola la propria mano ed il proprio cimitero nel proprio grimorio; oppure ogni giocatore pesca sette carte.
+Intrecciare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0053</id>
+    <name>Sete di Conoscenza</name>
+    <text>Pesca tre carte. Poi, scarta due carte a meno che tu scarti una carta artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0054</id>
+    <name>Scagliapensiero</name>
+    <text>Affinità con gli artefatti
+Pesca due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0055</id>
+    <name>Arcimago Vedalken</name>
+    <text>Ogniqualvolta lanci una magia artefatto, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0056</id>
+    <name>Sentinella Suolocustode</name>
+    <text>Quando la Sentinella Suolocustode entra nel campo di battaglia, guarda la mano dell'avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0057</id>
+    <name>Baratto di Sangue</name>
+    <text>Ogni giocatore sacrifica due creature</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0058</id>
+    <name>Tradimento della Carne</name>
+    <text>Scegli una - Distruggi una creatura bersaglio; oppure rimetti una carta creatura bersaglio dal tuo cimitero sul campo di battaglia.
+Intrecciare- Sacrifica tre terre. (Scegli entrambe se paghi il costo di intrecciare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0059</id>
+    <name>Demonietto della Ciminiera</name>
+    <text>Volare
+Quando il Demonietto della Ciminiera viene messo in un cimitero dal campo di battaglia, l'avversario bersaglio mette una carta dalla sua mano in cima al suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0060</id>
+    <name>Spirito Struggente</name>
+    <text>Spendi solo mana nero per X.
+Lo Spirito Struggente infligge X danni a una creatura o a un giocatore bersaglio e tu guadagni X punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0061</id>
+    <name>Legame Contaminato</name>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+Ogniqualvolta la creatura incantata attacca o blocca, il suo controllore perde 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0062</id>
+    <name>Discepolo della Volta</name>
+    <text>Ogniqualvolta un artefatto viene messo in un cimitero dal campo di battaglia, tu puoi far perdere 1 punto vita ad un avversario bersaglio</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0063</id>
+    <name>Mietitore di Scorie</name>
+    <text>Protezione dal bianco
+Alle fine del tuo turno, tu perdi 4 punti vita.
+Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, tu guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0064</id>
+    <name>Ladro di Scorie</name>
+    <text>Paura</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0065</id>
+    <name>Nim Scorticato</name>
+    <text>Ogniqualvolta il Nim Scorticato infligge danno da combattimento ad una creatura, il controllore di quella creatura perde altrettanti punti vita.
+{2}{B}: Rigenera il Nim Scorticato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0066</id>
+    <name>Ricordo Macabro</name>
+    <text>Passa in rassegna il tuo grimorio per una carta non terra e rivelala. Ogni avversario che ha giocato in questo turno una carta con lo stesso nome di quella carta, perde 6 punti vita. Poi rimescola nel tuo grimorio la carta rivelata.
+{B}{B}: Riprendi in mano il Ricordo Macabro dal tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0067</id>
+    <name>Onde Radioattive</name>
+    <text>La creatura bersaglio prende -1/-1 fino alla fine del turno per ogni artefatto che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0068</id>
+    <name>Sciacalla Moriok</name>
+    <text>Quando la Sciacalla Moriok entra nel campo di battaglia, puoi riprendere in mano una carta creatura artefatto dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0069</id>
+    <name>Nebbie Necrogene</name>
+    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0070</id>
+    <name>Divoratore Nim</name>
+    <text>Il Divoratore Nim prende +1/+0 per ogni artefatto che controlli.
+{B}{B}: Rimetti il Divoratore Nim dal tuo cimitero nel campo di battaglia, poi sacrifica una creatura. Attiva questa abilità solo durante il tuo mantenimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0071</id>
+    <name>Fustigatore Nim</name>
+    <text>Il Fustigatore Nim prende +1/+0 per ogni artefatto che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0072</id>
+    <name>Errante Nim</name>
+    <text>L'Errante Nim prende +1/+0 per ogni artefatto che controlli.
+Sacrifica una creatura: Rigenera l'Errante Nim.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0073</id>
+    <name>Urlatore Nim</name>
+    <text>Volare
+L'Urlatore Nim prende +1/+0 per ogni artefatto che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0074</id>
+    <name>Promessa di Potere</name>
+    <text>Scegli una - Pesca cinque carte e perdi 5 punti vita; oppure metti sul campo di battaglia una pedina creatura Demone X/X nera con volare, dove X è il numero di carte nella tua mano mentre la pedina entra nel campo di battaglia.
+Intrecciare {4} (Scegli entrambe se paghi il costo di intrecciare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0075</id>
+    <name>Demone Saccheggiatore</name>
+    <text>Volare
+Quando il Demone Saccheggiatore entra nel campo di battaglia, se lo hai lanciato dalla tua mano, distruggi tutte le creature non nere e non artefatto. Non possono essere rigenerate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0076</id>
+    <name>Flagello della Reliquia</name>
+    <text>Incanta artefatto
+L'artefatto incantato ha "All'inizio del tuo mantenimento, perdi 2 punti vita."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0077</id>
+    <name>Rubasangue Slith</name>
+    <text>Ogniqualvolta il Rubasangue Slith infligge danno da combattimento ad un giocatore, metti un segnalino +1/+1 su di esso.
+{1}{B}: Rigenera il Rubasangue Slith.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0078</id>
+    <name>Bottino della Volta</name>
+    <text>Nomina una carta. Rivela le carte dalla cima del tuo grimorio fino a che riveli la carta che hai nominato, poi aggiungila alla tua mano. Esilia tutte le altre carte rivelate in questo modo, e perdi 1 punto vita per ogni carta esiliata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0079</id>
+    <name>Terrore</name>
+    <text>Distruggi una creatura bersaglio non artefatto e non nera. Non può essere rigenerata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0080</id>
+    <name>Vermicolo</name>
+    <text>Ogniqualvolta un artefatto entra nel campo di battaglia, il Vermicolo prende +4/+4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0081</id>
+    <name>Lamento dei Nim</name>
+    <text>Scegli una - Rigenera ogni creatura che controlli; oppure il Lamento dei Nim infligge 1 danno ad ogni creatura e ad ogni giocatore.
+Intrecciare {B}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0082</id>
+    <name>Muro di Sangue</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Paga 1 punto vita: Il Muro di Sangue prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0083</id>
+    <name>Portatrice di Sofferenza</name>
+    <text>Paura
+Ogniqualvolta la Portatrice di Sofferenza infligge danno da combattimento ad un giocatore, puoi riprendere in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0084</id>
+    <name>Strappa-Mente</name>
+    <text>Il giocatore bersaglio scarta due carte, a meno che scarti una carta artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0085</id>
+    <name>Arcopode</name>
+    <text>{R}, Esilia le prime dieci carte del tuo grimorio: L'Arcopode infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0086</id>
+    <name>Atog</name>
+    <text>Sacrifica un artefatto: L'Atog prende +2/+2 fino alla fine del turno</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0087</id>
+    <name>Confusione nei Ranghi</name>
+    <text>Ogniqualvolta un artefatto, una creatura o un incantesimo entra nel campo di battaglia, il suo controllore sceglie un permanente bersaglio controllato da un altro giocatore che abbia almeno un tipo in comune con esso. Scambia il controllo di quei permanenti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0088</id>
+    <name>Detonazione</name>
+    <text>Distruggi un artefatto bersaglio avente il costo di mana convertito X. Non può essere rigenerato. La Detonazione infligge X danni al controllore di quell'artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0089</id>
+    <name>Scarica Elettrostatica</name>
+    <text>La Scarica Elettrostatica infligge 2 danni a una creatura bersaglio. Se è una creatura artefatto, invece la Scarica Elettrostatica infligge 4 danni a quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0090</id>
+    <name>Bombardamento Furioso</name>
+    <text>Lancia una moneta fino a che non perdi un lancio oppure decidi di fermarti. Se perdi un lancio, il Bombardamento Furioso non ha effetto. Se vinci uno o più lanci, il Bombardamento Furioso infligge 3 danni ad una creatura bersaglio. Se vinci due o più lanci, il Bombardamento Furioso infligge 6 danni ad ogni avversario. Se vinci tre o più lanci, pesca nove carte e STAPpa tutte le terre che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0091</id>
+    <name>Mani dell'Incudine</name>
+    <text>La creatura bersaglio prende +4/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0092</id>
+    <name>Forgia Armatura</name>
+    <text>Come costo addizionale per lanciare il Forgia Armatura, sacrifica un artefatto.
+Metti X segnalini +1/+1 su una creatura bersaglio, dove X è il costo di mana convertito dell'artefatto sacrificato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0093</id>
+    <name>Lealtà Frammentata</name>
+    <text>Incanta creatura
+Ogniqualvolta la creatura incantata diventa bersaglio di una magia o abilità, il controllore di quella magia o abilità prende il controllo della creatura incantata. (Questo effetto non ha termine.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0094</id>
+    <name>Assalitore Goblin</name>
+    <text>Attacco improvviso, rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0095</id>
+    <name>Prendere le Redini</name>
+    <text>Scegli una - Fino alla fine del turno, prendi il controllo di una creatura bersaglio ed essa guadagna rapidità; oppure sacrifica una creatura, poi Prendere le Redini infligge un ammontare di danni pari alla forza di quella creatura a una creatura o a un giocatore bersaglio.
+Intrecciare {2}{R} (Scegli entrambe se paghi il costo di intrecciare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0096</id>
+    <name>Incitare alla Guerra</name>
+    <text>Scegli una - Le creature controllate dal giocatore bersaglio attaccano in questo turno se possono farlo; oppure le creature che tu controlli guadagnano attacco improvviso fino alla fine del turno.
+Intrecciare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0097</id>
+    <name>Energumeno di Krark-Clan</name>
+    <text>Sacrifica un artefatto: L'Energumeno di Krark-Clan prende +1/+0 e guadagna attacco improvviso fino alla fine del turno</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0098</id>
+    <name>Sciamano di Krark-Clan</name>
+    <text>Sacrifica un artefatto: Lo Sciamano di Krark-Clan infligge 1 danno ad ogni creatura senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0099</id>
+    <name>Isteria di Massa</name>
+    <text>Tutte le creature hanno rapidità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0100</id>
+    <name>Megatog</name>
+    <text>Sacrifica un artefatto: Il Metatog prende +3/+3 e guadagna travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0101</id>
+    <name>Pioggia di Metallo Fuso</name>
+    <text>Distruggi una terra bersaglio. Se era una terra non base, la Pioggia di Metallo Fuso infligge 2 danni al controllore di quella terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0102</id>
+    <name>Ogre Piombopiede</name>
+    <text>Ogniqualvolta l'Ogre Piombopiede viene bloccato da una creatura artefatto, distruggi quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0103</id>
+    <name>Ogre Ruggifauce</name>
+    <text>Ogniqualvolta l'Ogre Ruggifauce infligge danno da combattimento ad un giocatore, puoi distruggere un artefatto bersaglio controllato da quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0104</id>
+    <name>Canzone Ribollente</name>
+    <text>Aggiungi {R}{R}{R}{R}{R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0105</id>
+    <name>Distruggi Artefatto</name>
+    <text>Distruggi un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0106</id>
+    <name>Esplosione a Frammentazione</name>
+    <text>Come costo addizionale per lanciare l'Esplosione a Frammentazione, sacrifica un artefatto.
+L'Esplosione a Frammentazione infligge 5 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0107</id>
+    <name>Calcafuoco Slith</name>
+    <text>Rapidità
+Ogniqualvolta il Calcafuoco Slith infligge danno da combattimento ad un giocatore, metti un segnalino +1/+1 su di esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0108</id>
+    <name>Goblin Scagliapunte</name>
+    <text>{R}, {T}: Il Goblin Scagliapunte infligge danno pari alla sua forza ad un giocatore o una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0109</id>
+    <name>Da Rottami a Tesoro</name>
+    <text>Come costo addizionale per giocare Da Rottami a Tesoro, sacrifica un artefatto.
+Rimetti sul campo di battaglia dal tuo cimitero una carta artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0110</id>
+    <name>Signora della Guerra Vulshok</name>
+    <text>Rapidità
+Quando la Signora della Guerra Vulshok entra nel campo di battaglia, assegna a essa tutto l'Equipaggiamento sul campo di battaglia. (Il controllo dell'Equipaggiamento non cambia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0111</id>
+    <name>Berserker Vulshok</name>
+    <text>Rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0112</id>
+    <name>Elementale della Guerra</name>
+    <text>Quando l'Elementale della Guerra entra nel campo di battaglia, sacrificalo a meno che un avversario abbia subìto danni in questo turno.
+Ogniqualvolta viene inflitto danno ad un avversario, metti altrettanti segnalini +1/+1 sull'Elementale della Guerra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0113</id>
+    <name>Sviluppo Bellico</name>
+    <text>Metti un segnalino +1/+1 su una creatura bersaglio</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0114</id>
+    <name>Odore del Sangue</name>
+    <text>Tutte le creature che possono bloccare la creatura bersaglio in questo turno lo fanno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0115</id>
+    <name>Ouphe Bruno</name>
+    <text>{1}{G}, {T}: Neutralizza un'abilità attivata bersaglio di una fonte artefatto. (Le abilità di mana non possono essere bersagliate.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0116</id>
+    <name>Vorrac Zamparame</name>
+    <text>Il Vorrac Zamparame prende +1/+1 per ogni permanente STAPpato controllato dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0117</id>
+    <name>Muffa Insidiosa</name>
+    <text>Distruggi un artefatto, un incantesimo, o una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0118</id>
+    <name>Smontare</name>
+    <text>Distruggi un artefatto bersaglio. Poi aggiungi {G}{G}{G} alla tua riserva di mana</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0119</id>
+    <name>Cacciatore di Fangren</name>
+    <text>Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0120</id>
+    <name>Glissa Sunseeker</name>
+    <text>Attacco improvviso
+{T}: Distruggi un artefatto bersaglio se il suo costo di mana convertito è pari all'ammontare di mana presente nella tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0121</id>
+    <name>Groffskithur</name>
+    <text>Ogniqualvolta il Groffskithur viene bloccato, puoi riprendere in mano dal tuo cimitero una carta bersaglio di nome Groffskithur.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0122</id>
+    <name>Ronzio della Radice</name>
+    <text>Ogni magia artefatto costa {1} in più per essere lanciata per ogni artefatto controllato dal suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0123</id>
+    <name>Viaggio della Scoperta</name>
+    <text>Scegli una delle opzioni seguenti - Passa in rassegna il tuo grimorio per un massimo di due carte terra base, rivelale, aggiungile alla tua mano, poi rimescola il tuo grimorio; oppure puoi giocare fino a due terre addizionali in questo turno.
+Intrecciare {2}{G}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0124</id>
+    <name>Alveare Vivente</name>
+    <text>Travolgere
+Ogniqualvolta l'Alveare Vivente infligge danno da combattimento ad un giocatore, metti sul campo di battaglia altrettante pedine creatura Insetto 1/1 verdi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0125</id>
+    <name>Lumaca della Forgia</name>
+    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica un artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0126</id>
+    <name>Una Dozzina di Occhi</name>
+    <text>Scegli una - Metti sul campo di battaglia una pedina creatura Bestia 5/5 verde; oppure metti sul campo di battaglia cinque pedine creatura Insetto 1/1 verde.
+Intrecciare {G}{G}{G}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0127</id>
+    <name>Wurm delle Scorie Corazzato</name>
+    <text>Il Wurm delle Scorie Corazzato non può essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0128</id>
+    <name>Assalto del Predatore</name>
+    <text>La creatura bersaglio prende +3/+3 e guadagna travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0129</id>
+    <name>Predatore Slith</name>
+    <text>Travolgere
+Ogniqualvolta il Predatore Slith infligge danno da combattimento ad un giocatore, metti un segnalino +1/+1 su di esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0130</id>
+    <name>Premonizione Silvana</name>
+    <text>Passa in rassegna il tuo grimorio per una carta terra, rivelala, e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0131</id>
+    <name>Arcieri di Tel-Jilad</name>
+    <text>Protezione dagli artefatti
+Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0132</id>
+    <name>Prescelto di Tel-Jilad</name>
+    <text>Protezione dagli artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0133</id>
+    <name>Esule di Tel-Jilad</name>
+    <text>{1}{G}: Rigenera l'Esule di Tel-Jilad.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0134</id>
+    <name>Zanne e Unghie</name>
+    <text>Scegli una - Passa in rassegna il tuo grimorio per un massimo di due carte creatura, rivelale, aggiungile alla tua mano, poi rimescola il tuo grimorio; oppure metti sul campo di battaglia fino a due carte creatura dalla tua mano.
+Intrecciare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0135</id>
+    <name>Asceta Troll</name>
+    <text>L'Asceta Troll non può essere bersaglio di magie o abilità controllate dai tuoi avversari.
+{1}{G}: Rigenera l'Asceta Troll. (La prossima volta che questa creatura sta per essere distrutta in questo turno, non viene distrutta. Invece TAPpala, rimuovi da essa tutto il danno e rimuovila dal combattimento.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0136</id>
+    <name>Troll di Tel-Jilad</name>
+    <text>{1}{G}: Rigenera la creatura verde bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0137</id>
+    <name>Ridurre in Polvere</name>
+    <text>Distruggi un Equipaggiamento bersaglio. Poi aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0138</id>
+    <name>Giuntatore Viridiano</name>
+    <text>{T}: Aggiungi alla tua riserva di mana un ammontare di {G} pari alla forza del Giuntatore Viridiano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0139</id>
+    <name>Sciamana Viridiana</name>
+    <text>Quando la Sciamana Viridiana entra nel campo di battaglia, distruggi un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0140</id>
+    <name>Forgiatrice di Pelle di Wurm</name>
+    <text>Quando la Forgiatrice di Pelle di Wurm entra nel campo di battaglia, distribuisci tre segnalini +1/+1 tra un qualsiasi numero di creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0141</id>
+    <name>Bombarcana Eterea</name>
+    <text>{U}, Sacrifica la Bombarcana Eterea: Il proprietario riprende in mano una creatura bersaglio.
+{1}, Sacrifica la Bombarcana Eterea: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0142</id>
+    <name>Myr Alfa</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0143</id>
+    <name>Altare delle Ombre</name>
+    <text>All'inizio della tua fase principale precedente al combattimento, aggiungi {B} alla tua riserva per ogni segnalino carica presente sull'Altare delle Ombre.
+{7}, {T}: Distruggi una creatura bersaglio. Poi, metti un segnalino carica sull'Altare delle Ombre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0144</id>
+    <name>Lama della Banshee</name>
+    <text>La creatura equipaggiata prende +1/+1 per ogni segnalino carica sulla Lama della Banshee.
+Ogniqualvolta la creatura equipaggiata infligge danno da combattimento, metti un segnalino carica su questa carta.
+Equipaggiare {2} ({2}: Assegnalo a una creatura bersaglio che controlli. Equipaggialo solo come una stregoneria. Questa carta entra nel campo di battaglia non assegnata e resta sul campo di battaglia se la creatura lo lascia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0145</id>
+    <name>Urna di Lampidotteri</name>
+    <text>All'inizio della fase principale precedente al combattimento di ogni giocatore, se l'Urna di Lampidotteri è STAPpata, quel giocatore aggiunge {1} alla propria riserva di mana per ogni artefatto che controlla.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0146</id>
+    <name>Spaccaossa</name>
+    <text>La creatura equipaggiata prende +2/+0.
+Equipaggiare {1} ({1}: Assegnalo a una creatura bersaglio che controlli. Equipaggialo solo come una stregoneria. Questa carta entra nel campo di battaglia non assegnata e resta sul campo di battaglia se la creatura lo lascia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0147</id>
+    <name>Bosh, Golem di Ferro</name>
+    <text>Travolgere
+{3}{R}, Sacrifica un artefatto: Bosh, Golem di Ferro infligge un danno pari al costo di mana convertito dell'artefatto sacrificato ad un giocatore o ad una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0148</id>
+    <name>Gnomi della Bottiglia</name>
+    <text>Sacrifica gli Gnomi della Bottiglia: Guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0149</id>
+    <name>Catodione</name>
+    <text>Quando il Catodione viene messo in un cimitero dal campo di battaglia, aggiungi {3} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0150</id>
+    <name>Calice del Nulla</name>
+    <text>Il Calice del Nulla entra nel campo di battaglia con X segnalini carica.
+Ogniqualvolta un giocatore lancia una magia con costo di mana convertito pari al numero di segnalini carica presenti sul Calice del Nulla, neutralizza quella magia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0151</id>
+    <name>Sfera Cromatica</name>
+    <text>{1}, {T}, Sacrifica la Sfera Cromatica: Aggiungi un mana di qualsiasi colore alla tua riserva di mana. Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0152</id>
+    <name>Mox di Cromo</name>
+    <text>Imprimere - Quando la Mox di Cromo entra nel campo di battaglia, puoi esiliare una carta non artefatto, non terra bersaglio presente nella tua mano. (La carta esiliata viene impressa su questo artefatto.) 
+{T} : Aggiungi alla tua riserva un mana di un qualsiasi colore della carta impressa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0153</id>
+    <name>Scarabeo Meccanico</name>
+    <text>Lo Scarabeo Meccanico entra nel campo di battaglia con due segnalini +1/+1.
+Ogniqualvolta lo Scarabeo Meccanico attacca o blocca, alla fine del combattimento rimuovi un segnalino +1/+1 dallo Scarabeo Meccanico.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0154</id>
+    <name>Condor Meccanico</name>
+    <text>Volare
+Il Condor Meccanico entra nel campo di battaglia con tre segnalini +1/+1.
+Ogniqualvolta il Condor Meccanico attacca o blocca, alla fine del combattimento rimuovi un segnalino +1/+1 dal Condor Meccanico.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0155</id>
+    <name>Dragone Meccanico</name>
+    <text>Volare
+Il Dragone Meccanico entra nel campo di battaglia con sei segnalini +1/+1.
+Ogniqualvolta il Dragone Meccanico attacca o blocca, alla fine del combattimento rimuovi un segnalino +1/+1 dal Dragone Meccanico.
+{3}: Metti un segnalino +1/+1 sul Dragone Meccanico.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0156</id>
+    <name>Vorrac Meccanico</name>
+    <text>Il Vorrac Meccanico entra nel campo di battaglia con quattro segnalini +1/+1.
+Ogniqualvolta il Vorrac Meccanico attacca o blocca, alla fine del combattimento rimuovi un segnalino +1/+1 da esso.
+{T}: Metti un segnalino +1/+1 sul Vorrac Meccanico.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0157</id>
+    <name>Golem di Cobalto</name>
+    <text>{1}{U}: Il Golem di Cobalto guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0158</id>
+    <name>Myr di Rame</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0159</id>
+    <name>Frammento di Cristallo</name>
+    <text>{3}, {T} oppure {U}, {T}: Il proprietario riprende in mano la creatura bersaglio a meno che il suo controllore paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0160</id>
+    <name>Bilancia della Selezione</name>
+    <text>All'inizio del tuo mantenimento, distruggi un permanente non terra bersaglio con il più basso costo di mana convertito tra i permanenti non terra nel campo di battaglia. (Se due o più permanenti hanno il costo più basso, scegli come bersaglio uno qualsiasi di essi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0161</id>
+    <name>Matrice Smorzante</name>
+    <text>Le abilità attivate delle creature e degli artefatti non possono esser attivate a meno che siano abilità di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0162</id>
+    <name>Mazza di Necroferro</name>
+    <text>Ogniqualvolta la creatura equipaggiata blocca o viene bloccata da una creatura, distruggi entrambe le creature.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0163</id>
+    <name>Sangue di Drago</name>
+    <text>{3}, {T}: Metti un segnalino +1/+1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0164</id>
+    <name>Scorpione di Scorie</name>
+    <text>Ogniqualvolta lo Scorpione delle Scorie o un'altra creatura artefatto viene messa in un cimitero dal campo di battaglia, tu puoi STAPpare un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0165</id>
+    <name>Replicatore</name>
+    <text>Imprimere - Quando il Replicatore entra nel campo di battaglia, puoi esiliare una creatura non pedina bersaglio.
+Fintanto che la carta esiliata è una carta creatura, il Replicatore ha la forza, la costituzione e i tipi di creatura di quella carta. È ancora un Polimorfo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0166</id>
+    <name>Crepuscolare</name>
+    <text>Ogniqualvolta il Crepuscolare viene bloccato, rigeneralo.
+{3}: Il Crepuscolare prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0167</id>
+    <name>Replicante Elfo</name>
+    <text>{1}{G}, Sacrifica il Replicante Elfo: Distruggi un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0168</id>
+    <name>Piastra Empirea</name>
+    <text>La creatura equipaggiata prende +1/+1 per ogni carta nella tua mano.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0169</id>
+    <name>Lenti Extradimensionali</name>
+    <text>Imprimere - Quando le Lenti Dimensionali entrano nel campo di battaglia, puoi esiliare una terra bersaglio che controlli.
+Ogniqualvolta una terra con lo stesso nome della carta esiliata viene TAPpata per attingere mana, il suo controllore aggiunge alla sua riserva un mana di qualsiasi tipo prodotto da quella terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0170</id>
+    <name>Maschera Lungoveggente</name>
+    <text>Ogniqualvolta una fonte controllata da un avversario ti infligge danno, se la Maschera Lungoveggente è STAPpata puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0171</id>
+    <name>Pirostrillo</name>
+    <text>La creatura equipaggiata ha doppio attacco.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0172</id>
+    <name>Ranella</name>
+    <text>Affinità con gli artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0173</id>
+    <name>Chiave Galvanica</name>
+    <text>Lampo
+{3}, {T}: STAPpa un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0174</id>
+    <name>Cancello per l'Etere</name>
+    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore rivela la prima carta del proprio grimorio. Se è una carta artefatto, creatura, incantesimo, o terra, il giocatore può metterla nel campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0175</id>
+    <name>Loto Dorato</name>
+    <text>{T}: Aggiungi alla tua riserva di mana tre mana di un qualsiasi colore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0176</id>
+    <name>Sparafuoco Goblin</name>
+    <text>{3}, {T}: Rivela le carte dalla cima del tuo grimorio fino a che riveli una carta terra. Lo Sparafuoco Goblin infligge alla creatura o al giocatore bersaglio un danno pari al numero di carte non terra rivelate in questo modo. Se la carta terra rivelata era una Montagna, lo Sparafuoco Goblin infligge invece il doppio di quel danno. Metti le carte rivelate in fondo al tuo grimorio in un qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0177</id>
+    <name>Dirigibile Goblin</name>
+    <text>Volare
+Il Dirigibile Goblin non STAPpa durante il tuo STAP.
+All'inizio del tuo mantenimento, puoi pagare {4}. Se lo fai, STAPpa il Dirigibile Goblin.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0178</id>
+    <name>Replicante Goblin</name>
+    <text>{3}{R}, Sacrifica il Replicante Goblin: Distruggi un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0179</id>
+    <name>Carro da Battaglia Goblin</name>
+    <text>Il Carro da Battaglia Goblin non STAPpa durante il tuo STAP.
+All'inizio del tuo mantenimento, puoi pagare {2}. Se lo fai, STAPpa il Carro da Battaglia Goblin.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0180</id>
+    <name>Myr d'Oro</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0181</id>
+    <name>Guanti di Pelle di Golem</name>
+    <text>La creatura equipaggiata prende +1/+0 per ogni Equipaggiamento assegnato ad essa.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0182</id>
+    <name>Frammento di Granito</name>
+    <text>{3}, {T} oppure {R}, {T}: Il Frammento di Granito infligge 1 danno alla creatura o al giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0183</id>
+    <name>Controllore della Griglia</name>
+    <text>Non puoi lanciare magie creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0184</id>
+    <name>Frammento di Durame</name>
+    <text>{3}, {T} oppure {G}, {T}: La creatura bersaglio guadagna travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0185</id>
+    <name>Golem di Ematite</name>
+    <text>{1}{R}: Il Golem di Ematite prende +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0186</id>
+    <name>Manipolatore Glaciale</name>
+    <text>{1}, {T}: TAPpa un artefatto, una creatura, o una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0187</id>
+    <name>Myr di Ferro</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0188</id>
+    <name>Scettro Isocrono</name>
+    <text>Imprimere - Quando lo Scettro Isocrono entra nel campo di battaglia, puoi esiliare dalla tua mano una carta istantaneo con costo di mana convertito pari o inferiore a 2.
+{2}, {T}: Puoi copiare la carta esiliata. Se lo fai, puoi lanciare la copia senza pagare il suo costo di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0189</id>
+    <name>Strangolatore Portasventura</name>
+    <text>All'inizio della sottofase finale, l'avversario bersaglio prende il controllo dello Strangolatore Portasventura e mette un segnalino carica su di esso.
+All'inizio del tuo mantenimento, lo Strangolatore Portasventura ti infligge un ammontare di danni pari al numero di segnalini carica presenti su di esso.
+{3} : Metti un segnalino carica sullo Strangolatore Portasventura o rimuovine uno dallo stesso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0190</id>
+    <name>Pollice di Krark</name>
+    <text>Se devi lanciare una moneta, invece lancia due monete ed ignorane una.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0191</id>
+    <name>Myr di Piombo</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0192</id>
+    <name>Lama-trappola Leonid</name>
+    <text>Lampo
+{2}, Sacrifica la Lama-trappola Leonid: La Lama-trappola Leonid infligge 2 danni ad ogni creatura attaccante senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0193</id>
+    <name>Scimitarra Leonid</name>
+    <text>La creatura equipaggiata prende +1/+1.
+Equipaggiare {1} ({1}: Assegna a una creatura bersaglio che controlli. Equipaggia solo come una stregoneria.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0194</id>
+    <name>Stendardo del Sole Leonid</name>
+    <text>{1}{W}: Le creature che controlli prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0195</id>
+    <name>Livellatore</name>
+    <text>Quando il Livellatore entra nel campo di battaglia, esilia tutte le carte del tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0196</id>
+    <name>Pendolo del Bugiardo</name>
+    <text>{2}, {T}: Nomina una carta. L'avversario bersaglio prova a indovinare se hai in mano una carta con quel nome. Puoi rivelare la tua mano. Se lo fai e il tuo avversario non ha indovinato, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0197</id>
+    <name>Bombarcana della Vita</name>
+    <text>{G}, Sacrifica la Bombarcana della Vita: Fino alla fine del turno, la terra bersaglio diventa una creatura 3/3 che è ancora una terra.
+{1}, Sacrifica la Bombarcana della Vita: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0198</id>
+    <name>Bobine di Fulmini</name>
+    <text>Ogniqualvolta una creatura non pedina che tu controlli viene messa in un cimitero dal campo di battaglia, metti un segnalino carica sulle Bobine dei Fulmini.
+All'inizio del tuo mantenimento, se le Bobine dei Fulmini hanno cinque o più segnalini carica, rimuovili tutti e metti sul campo di battaglia altrettante pedine creatura Elementale 3/1 rossa con rapidità. Esiliale all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0199</id>
+    <name>Schinieri dei Fulmini</name>
+    <text>La creatura equipaggiata ha rapidità e velo (Non può essere bersaglio di magie o abilità.)
+Equipaggiare {0}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0200</id>
+    <name>Myr di Magnetite</name>
+    <text>Travolgere
+TAPpa un artefatto STAPpato che controlli: Il Myr di Magnetite prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0201</id>
+    <name>Martello da Guerra Lossodonte</name>
+    <text>La creatura equipaggiata prende +3/+0 e ha travolgere e legame vitale. (Se la creatura infligge alle sue creature bloccanti un danno sufficiente a distruggerle, puoi farle infliggere il resto del suo danno al giocatore o al planeswalker in difesa. Il danno inflitto dalla creatura fa anche guadagnare al suo controllore altrettanti punti vita.)
+Equipaggiare {3} ({3}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0202</id>
+    <name>Golem di Malachite</name>
+    <text>{1}{G}: Il Golem di Malachite guadagna travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0203</id>
+    <name>Maschera della Memoria</name>
+    <text>Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, tu puoi pescare due carte. Se lo fai, scarta una carta.
+Equipaggiare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0204</id>
+    <name>Globo Mesmerico</name>
+    <text>Ogniqualvolta un permanente diventa STAPpato, il controllore di quel permanente mette nel suo cimitero la prima carta del suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0205</id>
+    <name>Occhio della Mente</name>
+    <text>Ogniqualvolta un avversario pesca una carta, puoi pagare {1}. Se lo fai, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0206</id>
+    <name>Domina Mente</name>
+    <text>{4}, {T}, Sacrifica il Domina Mente: Tu controlli il prossimo turno di un giocatore bersaglio. (Vedi tutte le carte che quel giocatore può vedere e prendi tutte le decisioni per quel giocatore.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0207</id>
+    <name>Corona di Mentetempesta</name>
+    <text>All'inizio del tuo mantenimento, pesca una carta se non avevi carte in mano all'inizio di questo turno. Se avevi almeno una carta in mano, la Corona di Mentetempesta ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0208</id>
+    <name>Golem di Specchi</name>
+    <text>Imprimere - Quando il Golem di Specchi entra nel campo di battaglia, puoi esiliare una carta bersaglio da un cimitero. (La carta esiliata viene impressa su questo artefatto.)
+Il Golem di Specchi ha protezione da tutti i tipi di carta della carta impressa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0209</id>
+    <name>Scudo del Lamento</name>
+    <text>Imprimere - Quando lo Scudo del Lamento entra nel campo di battaglia, puoi esiliare una carta bersaglio da un cimitero. (La carta esiliata viene impressa su questo artefatto.)
+{2}, {T} : Previeni tutto il danno che verrebbe inflitto in questo turno da una fonte a tua scelta che condivide un colore con la carta impressa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0210</id>
+    <name>Adattatore Myr</name>
+    <text>L'Adattatore Myr prende +1/+1 per ogni Equipaggiamento assegnato ad esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0211</id>
+    <name>Oppressore Myr</name>
+    <text>Affinità con gli artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0212</id>
+    <name>Incubatrice Myr</name>
+    <text>{6}, {T}, Sacrifica l'Incubatrice Myr: Passa in rassegna il tuo grimorio per un qualsiasi numero di carte artefatto, esiliale, poi metti sul campo di battaglia altrettante pedine creatura artefatto Myr 1/1 incolori. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0213</id>
+    <name>Menteschiavo Myr</name>
+    <text>{2}, {T}: Rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0214</id>
+    <name>Prototipo Myr</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino +1/+1 sul Prototipo Myr.
+Il Prototipo Myr non può attaccare o bloccare a meno che tu paghi {1} per ogni segnalino +1/+1 su di esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0215</id>
+    <name>Myr da Riporto</name>
+    <text>Quando il Myr da Riporto viene messo in un cimitero dal campo di battaglia, riprendi in mano un'altra carta artefatto bersaglio presente nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0216</id>
+    <name>Bombarcana Necrogena</name>
+    <text>{B}, Sacrifica la Bombarcana Necrogena: Un giocatore bersaglio scarta una carta.
+{1}, Sacrifica la Bombarcana Necrogena: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0217</id>
+    <name>Moscaspillo</name>
+    <text>Lampo
+Protezione dagli artefatti</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0218</id>
+    <name>Alavela Neurok</name>
+    <text>La creatura equipaggiata ha volare.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0219</id>
+    <name>Frusta dell'Incubo</name>
+    <text>La creatura equipaggiata prende +1/+1 per ogni Palude che controlli.
+Equipaggiare-Paga 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0220</id>
+    <name>Replicante Nim</name>
+    <text>{2}{B}, Sacrifica il Replicante Nim: Una creatura bersaglio prende -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0221</id>
+    <name>Generatore di Pesti</name>
+    <text>{2}, {T}: Metti sul campo di battaglia una pedina creatura artefatto Peste 0/1 incolore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0222</id>
+    <name>Pietra dell'Oblio</name>
+    <text>{4}, {T}: Metti un segnalino fato sul permanente bersaglio.
+{5}, {T}, Sacrifica la Pietra dell'Oblio: Distruggi ogni permanente non terra senza un segnalino fato su di esso, poi rimuovi tutti i segnalini fato da tutti i permanenti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0223</id>
+    <name>Myr Omega</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0224</id>
+    <name>Ornitottero</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0225</id>
+    <name>Frammento di Perla</name>
+    <text>{3}, {T} oppure {W}, {T}: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0226</id>
+    <name>Pentavo</name>
+    <text>Il Pentavo entra nel campo di battaglia con cinque segnalini +1/+1.
+{1}, Rimuovi un segnalino +1/+1 dal Pentavo: Metti sul campo di battaglia una pedina creatura artefatto Pentavite 1/1 incolore con volare.
+{1}, Sacrifica un Pentavite: Metti un segnalino +1/+1 sul Pentavo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0227</id>
+    <name>Golem di Peltro</name>
+    <text>{1}{B}: Rigenera il Golem di Peltro</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0228</id>
+    <name>Angelo di Platino</name>
+    <text>Volare
+Non puoi perdere la partita e i tuoi avversari non possono vincere la partita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0229</id>
+    <name>Condotto di Potere</name>
+    <text>{T}, Rimuovi un segnalino da un permanente che controlli: Scegli una - Metti un segnalino carica su un artefatto bersaglio; oppure metti un segnalino +1/+1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0230</id>
+    <name>Bastone di Proteo</name>
+    <text>{2}{U}, {T}: Metti una creatura bersaglio in fondo al grimorio del proprietario. Il controllore di quella creatura rivela le carte dalla cima del suo grimorio fino a che rivela una carta creatura. Il giocatore mette nel campo di battaglia quella carta e le rimanenti in fondo al grimorio in un qualsiasi ordine. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0231</id>
+    <name>Sonda Psicogena</name>
+    <text>Ogniqualvolta una magia o abilità fa rimescolare il grimorio di un giocatore, la Sonda Psicogena gli infligge 2 danni.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0232</id>
+    <name>Bombarcana di Pirite</name>
+    <text>{R}, Sacrifica la Bombarcana di Pirite: La Bombarcana di Pirite infligge 2 danni alla creatura o al giocatore bersaglio.
+{1}, Sacrifica la Bombarcana di Pirite: Pesca una carta</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0233</id>
+    <name>Fontana di Mercurio</name>
+    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore mette un segnalino inondazione su una terra non Isola bersaglio a sua scelta che controlla. Quella terra è un'Isola fintanto che ha almeno un segnalino inondazione su di essa.
+All'inizio della sottofase finale, se tutte le terre sul campo di battaglia sono Isole, rimuovi da esse tutti i segnalini inondazione.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0234</id>
+    <name>Elementale della Ruggine</name>
+    <text>Volare
+All'inizio del tuo mantenimento, sacrifica un artefatto diverso dall'Elementale della Ruggine. Se non puoi farlo, TAPpa l'Elementale della Ruggine e perdi 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0235</id>
+    <name>Ariete Ruggispora</name>
+    <text>Quando l'Ariete Ruggispora entra nel campo di battaglia, distruggi un Equipaggiamento bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0236</id>
+    <name>Scaglia di Chiss-Goria</name>
+    <text>Lampo
+Affinità con gli artefatti
+{T}: La creatura bersaglio prende +0/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0237</id>
+    <name>Artigli Raschianti</name>
+    <text>{T}: Il giocatore bersaglio esilia una carta dal suo cimitero.
+{1}, Sacrifica gli Artigli Raschianti: Esilia una carta bersaglio da un cimitero. Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0238</id>
+    <name>Acciaio da Scolpire</name>
+    <text>Puoi far entrare l'Acciaio da Scolpire nel campo di battaglia come una copia di un qualsiasi artefatto sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0239</id>
+    <name>Falce del Corruttore</name>
+    <text>La creatura equipaggiata prende +2/+2.
+Ogniqualvolta una creatura a cui è stato inflitto danno dalla creatura equipaggiata in questo turno viene messa in un cimitero, rimetti quella carta sul campo di battaglia sotto il tuo controllo. Assegna la Falce del Corruttore a quella creatura.
+Equipaggiare {4}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0240</id>
+    <name>Serbatoio di Siero</name>
+    <text>Ogniqualvolta il Serbatoio di Siero o un altro artefatto entra nel campo di battaglia, metti un segnalino carica sul Serbatoio di Siero.
+{3}, {T}, Rimuovi un segnalino carica dal Serbatoio di Siero: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0241</id>
+    <name>Myr d'Argento</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0242</id>
+    <name>Frammento di Scheletro</name>
+    <text>{3}, {T} oppure {B}, {T}: Riprendi in mano una carta creatura artefatto bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0243</id>
+    <name>Armatura di Wurm delle Scorie</name>
+    <text>La creatura equipaggiata prende +0/+6.
+Equipaggiare {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0244</id>
+    <name>Replicante Soldato</name>
+    <text>{1}{W}, Sacrifica il Replicante Soldato: Il Replicante Soldato infligge 3 danni a una creatura attaccante o bloccante bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0245</id>
+    <name>Simulacro Solenne</name>
+    <text>Quando il Simulacro Solenne entra nel campo di battaglia, puoi passare in rassegna in tuo grimorio per una carta terra base e mettere sul campo di battaglia TAPpata quella carta. Se lo fai, rimescola il tuo grimorio.
+Quando il Simulacro Solenne viene messo in un cimitero dal campo di battaglia, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0246</id>
+    <name>Forgia dell'Anima</name>
+    <text>Imprimere - Quando la Forgia dell'Anima entra nel campo di battaglia, puoi esiliare una carta creatura dalla tua mano.
+{X}, {T}: Metti sul campo di battaglia una pedina che è una copia della carta esiliata. X è il costo di mana convertito di quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0247</id>
+    <name>Spirale Tessimagie</name>
+    <text>Imprimere - Quando la Spirale Tessimagie entra nel campo di battaglia, puoi esiliare due carte stregoneria bersaglio da un singolo cimitero.
+Ogniqualvolta viene lanciata una carta, se ha lo stesso nome di una delle due carte esiliate con la Spirale Tessimagie, puoi copiare l'altra. Se lo fai, puoi lanciare la copia senza pagare il suo costo di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0248</id>
+    <name>Muro di Acciaio</name>
+    <text>Difensore (Questa creatura non può attaccare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0249</id>
+    <name>Goccia di Sole</name>
+    <text>Ogniqualvolta ti viene inflitto danno, metti altrettanti segnalini carica sulla Goccia di Sole.
+All'inizio di ogni mantenimento, puoi rimuovere un segnalino carica dalla Goccia di Sole. Se lo fai, guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0250</id>
+    <name>Bombarcana Solare</name>
+    <text>{W}, Sacrifica la Bombarcana Solare: Guadagni 5 punti vita.
+{1}, Sacrifica la Bombarcana Solare: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0251</id>
+    <name>Spada di Kaldra</name>
+    <text>La creatura equipaggiata prende +5/+5.
+Ogniqualvolta la creatura equipaggiata infligge danno ad una creatura, esilia quella creatura.
+Equipaggiare {4}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0252</id>
+    <name>Santuario del Sinodo</name>
+    <text>{2}, {T}: Esilia un permanente bersaglio che tu controlli.
+{2}, Sacrifica il Santuario del Sinodo: Rimetti sul campo di battaglia sotto il tuo controllo tutte le carte esiliate con il Santuario del Sinodo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0253</id>
+    <name>Talismano del Dominio</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {U} o {B} alla tua riserva di mana. Il Talismano del Dominio ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0254</id>
+    <name>Talismano dell'Impulso</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {R} o {G} alla tua riserva di mana. Il Talismano dell'Impulso ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0255</id>
+    <name>Talismano dell'Indulgenza</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {B} o {R} alla tua riserva di mana. Il Talismano dell'Indulgenza ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0256</id>
+    <name>Talismano del Progresso</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {W} o {U} alla tua riserva di mana. Il Talismano del Progresso ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0257</id>
+    <name>Talismano dell'Unità</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {G} o {W} alla tua riserva di mana. Il Talismano dell'Unità ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0258</id>
+    <name>Germoglio del Groviglio</name>
+    <text>{1}, {T}: Guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0259</id>
+    <name>Radeogroviglio</name>
+    <text>Ogniqualvolta un giocatore lancia una magia creatura, quel giocatore aggiunge {G} alla sua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0260</id>
+    <name>Stilo di Tel-Jilad</name>
+    <text>{T}: Metti un permanente bersaglio che possiedi in fondo al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0261</id>
+    <name>Prigione del Pensiero</name>
+    <text>Imprimere - Quando la Prigione del Pensiero entra nel campo di battaglia, puoi far rivelare la propria mano a un giocatore bersaglio. Se lo fai, scegli una carta non terra dalla sua mano e esiliala.
+Ogniqualvolta un giocatore lancia una magia che condivide con la carta esiliata un colore o il costo di mana convertito, la Prigione del Pensiero infligge 2 danni a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0262</id>
+    <name>Setacciatempo</name>
+    <text>All'inizio di ogni mantenimento, ogni giocatore esilia la prima carta del proprio grimorio. Il giocatore che ha esiliato la carta con il costo di mana convertito più alto gioca un altro turno dopo questo. Se due o più giocatori hanno esiliato la carta con il costo più alto, i giocatori in parità ripetono il procedimento fino a che la parità si interrompe.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0263</id>
+    <name>Golem di Titanio</name>
+    <text>{1}{W}: Il Golem di Titanio guadagna attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0264</id>
+    <name>Dente di Chiss-Goria</name>
+    <text>Lampo
+Affinità con gli artefatti
+{T}: La creatura bersaglio prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0265</id>
+    <name>Torre dei Campioni</name>
+    <text>{8}, {T}: Una creatura bersaglio prende +6/+6 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0266</id>
+    <name>Torre degli Eoni</name>
+    <text>{8}, {T}: Guadagni 10 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0267</id>
+    <name>Torre della Fortuna</name>
+    <text>{8}, {T}: Pesca quattro carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0268</id>
+    <name>Torre dei Sussurri</name>
+    <text>{8}, {T}: Il giocatore bersaglio mette nel proprio cimitero le prime otto carte del proprio grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0269</id>
+    <name>Triskelion</name>
+    <text>Il Triskelion entra nel campo di battaglia con tre segnalini +1/+1.
+Rimuovi un segnalino +1/+1 dal Triskelion: Il Triskelion infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0270</id>
+    <name>Arco Lungo Viridiano</name>
+    <text>La creatura equipaggiata ha "{T}: Questa creatura infligge 1 danno alla creatura o al giocatore bersaglio."
+Equipaggiare {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0271</id>
+    <name>Corna da Battaglia Vorrac</name>
+    <text>La creatura equipaggiata ha travolgere e non può essere bloccata da più di una creatura.
+Equipaggiare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0272</id>
+    <name>Equipaggiamento Vulshok</name>
+    <text>La creatura equipaggiata prende +3/+3.
+Equipaggiare {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0273</id>
+    <name>Guanti Vulshok</name>
+    <text>La creatura equipaggiata prende +4/+2 e non STAPpa durante lo STAP del suo controllore.
+Equipaggiare {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0274</id>
+    <name>Vasca delle Saldature</name>
+    <text>Sacrifica la Vasca delle Saldature: Rigenera un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0275</id>
+    <name>Replicante Mago</name>
+    <text>Volare
+{U}, Sacrifica il Replicante Mago: Neutralizza una magia bersaglio a meno che il suo controllore paghi {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0276</id>
+    <name>Spaccamondo</name>
+    <text>Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, distruggi tutti i permanenti diversi dallo Spaccamondo.
+Equipaggiare {5}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0277</id>
+    <name>Soldato di Yotian</name>
+    <text>Cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0278</id>
+    <name>Antro Antico</name>
+    <text>(L'Antro Antico non è una magia)
+{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0279</id>
+    <name>Pozzo dei Lampidotteri</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{2}, {T}: TAPpa un artefatto non creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0280</id>
+    <name>Torre delle Nubi</name>
+    <text>La Torre delle Nubi entra nel campo di battaglia TAPpata.
+{T} : Aggiungi {1} alla tua riserva di mana per ogni Luogo nel campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0281</id>
+    <name>Il Nulla Scintillante</name>
+    <text>All'inizio della sottofase finale, se non controlli artefatti, sacrifica Il Nulla Scintillante.
+{T}: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0282</id>
+    <name>Grande Fornace</name>
+    <text>(La Grande Fornace non è una magia.)
+{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0283</id>
+    <name>Sede del Sinodo</name>
+    <text>(La Sede del Sinodo non è una magia.)
+{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0284</id>
+    <name>Pietre Animate</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{6}: Le Pietre Animate diventano una creatura artefatto Elementale 3/3 che è ancora una terra. (Questo effetto non ha termine.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0285</id>
+    <name>Albero dei Racconti</name>
+    <text>(L'Albero dei Racconti non è una magia.)
+{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0286</id>
+    <name>Volta dei Sussurri</name>
+    <text>(La Volta dei Sussurri non è una magia.)
+{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0287</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0288</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0289</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0290</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0291</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0292</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0293</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0294</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0295</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0296</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0297</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0298</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0299</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0300</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0301</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0302</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0303</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0304</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0305</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MRD0306</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

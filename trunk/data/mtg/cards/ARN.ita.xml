@@ -1,0 +1,678 @@
+<cards name="Arabian Nights">
+  <item>
+    <id>ARN0001</id>
+    <name>Abu Ja'far</name>
+    <text>Quando Abu Ja'Far viene messo in un cimitero dal campo di battaglia, distruggi tutte le creature che stava bloccando o che lo stavano bloccando. Quelle creature non possono essere rigenerate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0002</id>
+    <name>Aladino</name>
+    <text>{1}{R}{R}, {T}: Prendi il controllo di un artefatto bersaglio fintanto che controlli Aladino.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0003</id>
+    <name>Lampada di Aladino</name>
+    <text>{X}, {T}: La prossima volta che stai per pescare una carta in questo turno, invece guarda le prime X carte del tuo grimorio, mescolale tutte tranne una, metti le carte mescolate in fondo al tuo grimorio, poi pesca una carta. X non può essere 0.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0004</id>
+    <name>Anello di Aladino</name>
+    <text>{8}, {T}: L'Anello di Aladino infligge 4 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0005</id>
+    <name>Ali Babà</name>
+    <text>{R}: TAPpa un Muro bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0006</id>
+    <name>Ali from Cairo</name>
+    <text>Il danno che ridurrebbe il totale dei tuoi punti vita a meno di 1, invece lo riduce a 1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0007</id>
+    <name>Armata di Allah</name>
+    <text>Le creature attaccanti prendono +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0008</id>
+    <name>Armata di Allah</name>
+    <text>Le creature attaccanti prendono +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0009</id>
+    <name>Bazaar di Baghdad</name>
+    <text>{T}: Pesca due carte, poi scarta tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0010</id>
+    <name>Fanciulla Alata</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0011</id>
+    <name>Fanciulla Alata</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0012</id>
+    <name>Bottiglia di Solimano</name>
+    <text>{1}, Sacrifica la Bottiglia di Solimano: Lancia una moneta. Se perdi il lancio, la Bottiglia di Solimano ti infligge 5 danni. Se vinci il lancio, metti sul campo di battaglia una pedina creatura artefatto Genio 5/5 incolore con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0013</id>
+    <name>Uomo d'Ottone</name>
+    <text>L'Uomo di Ottone non STAPpa durante il tuo STAP.
+All'inizio del tuo mantenimento puoi pagare {1}. Se lo fai, STAPpa l'Uomo di Ottone.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0014</id>
+    <name>Cammello</name>
+    <text>Branco
+Previeni tutto il danno che verrebbe inflitto al Cammello dai Deserti, oppure alle creature in branco con il Cammello dai Deserti. [Oracle 2002/03/01]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0015</id>
+    <name>Città in Bottiglia</name>
+    <text>Ogniqualvolta è nel campo di battaglia un permanente non pedina dell'espansione Arabian Nights diverso dalla Città in Bottiglia, il suo controllore lo sacrifica.
+I giocatori non possono lanciare le carte dell'espansione Arabian Nights.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0016</id>
+    <name>Città d'Ottone</name>
+    <text>Ogniqualvolta la Città d'Ottone diventa TAPpata, ti infligge 1 danno.
+{T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0017</id>
+    <name>Streghe Cuombajj</name>
+    <text>{T}: Le Streghe Cuombajj infliggono 1 danno alla creatura o al giocatore bersaglio e 1 danno alla creatura o al giocatore bersaglio a scelta di un avversario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0018</id>
+    <name>Ciclone</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino vento sul Ciclone, poi sacrifica il Ciclone a meno che tu paghi {G} per ogni segnalino vento presente su di esso. Se paghi, il Ciclone infligge ad ogni creatura e ad ogni giocatore un danno pari al numero di segnalini vento su di esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0019</id>
+    <name>Scimitarra Danzante</name>
+    <text>Volare (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0020</id>
+    <name>Dandân</name>
+    <text>Il Dandân non può attaccare a meno che il giocatore in difesa controlli un'Isola.
+Quando non controlli Isole, sacrifica il Dandân.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0021</id>
+    <name>Deserto</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Il Deserto infligge 1 danno a una creatura attaccante bersaglio. Attiva questa abilità solo nella sottofase di fine combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0022</id>
+    <name>Nomadi del Deserto</name>
+    <text>Passa-deserto
+Previeni tutto il danno che verrebbe inflitto ai Nomadi del Deserto dai Deserti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0023</id>
+    <name>Tornado del Deserto</name>
+    <text>Distruggi un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0024</id>
+    <name>Valle dei Diamanti</name>
+    <text>{T}, Sacrifica una creatura: Guadagni un ammontare di punti vita pari alla costituzione della creatura sacrificata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0025</id>
+    <name>Goccia di Miele</name>
+    <text>All'inizio del tuo mantenimento, distruggi la creatura con la forza minore. Non può essere rigenerata. Se due o più creature hanno entrambe la forza minore, scegli una di esse.
+Quando non ci sono creature nel campo di battaglia, sacrifica la Goccia di Miele.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0026</id>
+    <name>Cavallo d'Ebano</name>
+    <text>{2}, {T}: STAPpa una creatura attaccante che controlli. Previeni tutto il danno da combattimento che verrebbe inflitto e ricevuto da quella creatura in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0027</id>
+    <name>Cimitero degli Elefanti</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Rigenera l'Elefante bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0028</id>
+    <name>El-Ajjaj</name>
+    <text>Ogniqualvolta El-Ajjaj infligge danno, tu guadagni altrettanti punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0029</id>
+    <name>Predoni di Erg</name>
+    <text>All'inizio della tua sottofase finale, se i Predoni di Erg non hanno attaccato in questo turno, i Predoni di Erg ti infliggono 2 danni a meno che siano entrati sotto il tuo controllo in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0030</id>
+    <name>Predoni di Erg</name>
+    <text>All'inizio della tua sottofase finale, se i Predoni di Erg non hanno attaccato in questo turno, i Predoni di Erg ti infliggono 2 danni a meno che siano entrati sotto il tuo controllo in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0031</id>
+    <name>Genio di Erhnam</name>
+    <text>All'inizio del tuo mantenimento, la creatura non Muro bersaglio controllata da un avversario guadagna passa-foreste fino al tuo prossimo mantenimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0032</id>
+    <name>Occhio per Occhio</name>
+    <text>La prossima volta che una fonte a tua scelta sta per infliggerti danno in questo turno, invece quella fonte ti infligge un pari ammontare di danni e l'Occhio per Occhio infligge altrettanti danni al controllore di quella fonte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0033</id>
+    <name>Unguento di Fegato di Pesce</name>
+    <text>Incanta creatura
+La creatura incantata ha Passa-isole. (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla almeno un'Isola.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0034</id>
+    <name>Unguento di Fegato di Pesce</name>
+    <text>Incanta creatura
+La creatura incantata ha Passa-isole. (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla almeno un'Isola.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0035</id>
+    <name>Tappeto Volante</name>
+    <text>{2}, {T}: La creatura bersaglio guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0036</id>
+    <name>Uomini Volanti</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0037</id>
+    <name>Ogre di Ghazban</name>
+    <text>All'inizio del tuo mantenimento, se un giocatore ha più punti vita di qualsiasi altro, quel giocatore guadagna il controllo dell'Ogre di Ghazban.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0038</id>
+    <name>Testuggine Gigante</name>
+    <text>La Testuggine Gigante prende +0/+3 fintanto che è STAPpata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0039</id>
+    <name>Testuggine Gigante</name>
+    <text>La Testuggine Gigante prende +0/+3 fintanto che è STAPpata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0040</id>
+    <name>Guardian Beast</name>
+    <text>Fintanto che la Guardian Beast è STAPpata, gli artefatti non creatura che controlli non possono essere incantati, sono indistruttibili, e gli altri giocatori non possono prenderne il controllo. Questo effetto non rimuove le Aure già assegnate a quegli artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0041</id>
+    <name>Orchessa di Hasran</name>
+    <text>Ogniqualvolta l'Orchessa di Hasran attacca, essa ti infligge 3 danni a meno che tu paghi {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0042</id>
+    <name>Orchessa di Hasran</name>
+    <text>Ogniqualvolta l'Orchessa di Hasran attacca, essa ti infligge 3 danni a meno che tu paghi {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0043</id>
+    <name>Sciacallo di Hurr</name>
+    <text>{T}: La creatura bersaglio non può essere rigenerata in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0044</id>
+    <name>Efreet di Ifh-Biff</name>
+    <text>Volare
+{G}: L'Efreet di Ifh-Biff infligge 1 danno a ogni creatura con volare e a ogni giocatore. Qualsiasi giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0045</id>
+    <name>Jasconius, il Pesce Isola</name>
+    <text>Jasconius, il Pesce Isola non può attaccare a meno che il giocatore in difesa controlli un'Isola.
+Jasconius, il Pesce Isola non STAPpa durante il tuo STAP.
+All'inizio del tuo mantenimento, puoi pagare {U}{U}{U}. Se lo fai, STAPpa Jasconius, il Pesce Isola.
+Quando non controlli isole, sacrifica Jasconius, il Pesce Isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0046</id>
+    <name>Isola di Wak-Wak</name>
+    <text>{T}: La forza della creatura con volare bersaglio diventa 0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0047</id>
+    <name>Anello di Jandor</name>
+    <text>{2}, {T}, Scarta dalla tua mano l'ultima carta che hai pescato in questo turno: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0048</id>
+    <name>Bisacce di Jandor</name>
+    <text>{3}, {T}: STAPpa una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0049</id>
+    <name>Pavone Ingioiellato</name>
+    <text>Rimuovi il Pavone Ingioiellato dal tuo mazzo prima della partita se non stai giocando per la posta.
+{T}: Metti il Pavone Ingioiellato nella posta. Se lo fai, metti nel tuo cimitero tutte le altre carte che possiedi nella posta, poi pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0050</id>
+    <name>Jihad</name>
+    <text>Mentre la Jihad entra nel campo di battaglia, scegli un colore e un avversario.
+Le creature bianche guadagnano +2/+1.
+Quando il giocatore scelto non controlla permanenti non pedina del colore scelto, sacrifica la Jihad.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0051</id>
+    <name>Efreet di Junun</name>
+    <text>Volare
+All'inizio del tuo mantenimento, sacrifica l'Efreet di Junun a meno che tu paghi {B}{B}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0052</id>
+    <name>Juzam Djinn</name>
+    <text>All'inizio del tuo mantenimento, Juzam Djinn ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0053</id>
+    <name>Ghoul di Kabal</name>
+    <text>All'inizio della sottofase finale, metti un segnalino +1/+1 sul Ghoul di Kabal per ogni creatura che è stata messa in un cimitero dal campo di battaglia in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0054</id>
+    <name>Re Solimano</name>
+    <text>{T}: Distruggi un Genio o un Efreet bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0055</id>
+    <name>Gorilla di Kird</name>
+    <text>Il Gorilla di Kird prende +1/+2 fintanto che controlli una Foresta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0056</id>
+    <name>Libreria di Alessandria</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Pesca una carta. Attiva questa abilità solo se hai esattamente sette carte in mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0057</id>
+    <name>Montagna Magnetica</name>
+    <text>Le creature blu non STAPpano durante lo STAP dei loro controllori.
+All'inizio del mantenimento di ogni giocatore, quel giocatore può scegliere un qualsiasi numero di creature blu TAPpate che controlla e pagare {4} per ogni creatura scelta in questo modo. Se il giocatore lo fa, STAPpa quelle creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0058</id>
+    <name>Nave dei Mercanti</name>
+    <text>La Nave dei Mercanti non può attaccare a meno che il giocatore in difesa controlli un'Isola.
+Ogniqualvolta la Nave dei Mercanti attacca e non viene bloccata, guadagni 2 punti vita.
+Quando non controlli Isole, sacrifica la Nave dei Mercanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0059</id>
+    <name>Metamorfosi</name>
+    <text>Come costo addizionale per lanciare la Metamorfosi, sacrifica una creatura.
+Aggiungi X mana di un qualsiasi colore alla tua riserva, dove X è uno più il costo di mana convertito della creatura sacrificata. Spendi questo mana solo per lanciare magie creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0060</id>
+    <name>Genio Mijae</name>
+    <text>Ogniqualvolta il Genio Mijae attacca, lancia una moneta. Se perdi il lancio, rimuovi il Genio Mijae dal combattimento e TAPpalo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0061</id>
+    <name>Cavalleria Moresca</name>
+    <text>Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0062</id>
+    <name>Cavalleria Moresca</name>
+    <text>Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0063</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0064</id>
+    <name>Aspide di Naf</name>
+    <text>Ogniqualvolta l'Aspide di Naf infligge danno ad un giocatore, quel giocatore perde 1 punto vita all'inizio della sua prossima acquisizione a meno che paghi {1} prima di quella acquisizione.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0065</id>
+    <name>Aspide di Naf</name>
+    <text>Ogniqualvolta l'Aspide di Naf infligge danno ad un giocatore, quel giocatore perde 1 punto vita all'inizio della sua prossima acquisizione a meno che paghi {1} prima di quella acquisizione.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0066</id>
+    <name>Oasi</name>
+    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0067</id>
+    <name>Vecchio del Mare</name>
+    <text>Puoi scegliere di non STAPpare il Vecchio del Mare durante il tuo STAP.
+{T}: Guadagni il controllo di una creatura bersaglio con forza pari o inferiore alla forza del Vecchio del Mare fintanto che il Vecchio del Mare resta TAPpato e che la forza di quella creatura resta pari o inferiore alla forza del Vecchio del Mare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0068</id>
+    <name>Oubliette</name>
+    <text>Quando l'Oubliette entra nel campo di battaglia, esilia una creatura bersaglio e tutte le Aura ad essa assegnate. Annota il numero e il tipo di segnalini che erano su quella creatura.
+Quando l'Oubliette lascia il campo di battaglia, rimetti sul campo di battaglia sotto il controllo del suo proprietario la carta esiliata, TAPpata e con il numero e il tipo di segnalini annotati. Se lo fai, rimetti nel campo di battaglia sotto il controllo del loro proprietario le carte Aura esiliate e assegnale a quel permanente.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0069</id>
+    <name>Oubliette</name>
+    <text>Quando l'Oubliette entra nel campo di battaglia, esilia una creatura bersaglio e tutte le Aura ad essa assegnate. Annota il numero e il tipo di segnalini che erano su quella creatura.
+Quando l'Oubliette lascia il campo di battaglia, rimetti sul campo di battaglia sotto il controllo del suo proprietario la carta esiliata, TAPpata e con il numero e il tipo di segnalini annotati. Se lo fai, rimetti nel campo di battaglia sotto il controllo del loro proprietario le carte Aura esiliate e assegnale a quel permanente.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0070</id>
+    <name>Devozione</name>
+    <text>Le creature bloccanti prendono +0/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0071</id>
+    <name>Devozione</name>
+    <text>Le creature bloccanti prendono +0/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0072</id>
+    <name>Piramidi</name>
+    <text>{2}: Scegli una - Distruggi l'Aura bersaglio assegnata a una terra; oppure la prossima volta che la terra bersaglio verrebbe distrutta in questo turno, invece rimuovi da essa tutto il danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0073</id>
+    <name>Fabbro Penitente</name>
+    <text>Protezione dal rosso</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0074</id>
+    <name>Anello di Ma'ruf</name>
+    <text>{5}, {T}, Esilia l'Anello di Ma'ruf: La prossima volta che stai per pescare una carta in questo turno, invece scegli una carta che possiedi all'esterno della partita e aggiungila alla tua mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0075</id>
+    <name>Uovo di Rukh</name>
+    <text>Quando l'Uovo di Rukh viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura Uccello 4/4 rossa con volare all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0076</id>
+    <name>Uovo di Rukh</name>
+    <text>Quando l'Uovo di Rukh viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura Uccello 4/4 rossa con volare all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0077</id>
+    <name>Sandali di Abdallah</name>
+    <text>{2}, {T}: La creatura bersaglio guadagna Passa-Isole fino alla fine del turno. Quando quella creatura viene messa in un cimitero dal campo di battaglia in questo turno, distruggi i Sandali di Abdallah.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0078</id>
+    <name>Tempesta di Sabbia</name>
+    <text>La Tempesta di Sabbia infligge 1 danno ad ogni creatura attaccante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0079</id>
+    <name>Genio di Serendib</name>
+    <text>Volare
+All'inizio del tuo mantenimento, sacrifica una terra. Se sacrifichi un'Isola in questo modo, il Genio di Serendib ti infligge 3 danni.
+Quando non controlli terre, sacrifica il Genio di Serendib.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0080</id>
+    <name>Efreet di Serendib</name>
+    <text>Volare
+All'inizio del tuo mantenimento, l'Efreet di Serendib ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0081</id>
+    <name>Shahrazad</name>
+    <text>I giocatori giocano una sottopartita di Magic, utilizzando i loro grimori come loro mazzi. Ogni giocatore che non vince la sottopartita, perde metà dei suoi punti di vita arrotondati per eccesso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0082</id>
+    <name>Sindbad</name>
+    <text>{T}: Pesca una carta e rivelala. Se non è una carta terra, scartala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0083</id>
+    <name>Albero Canterino</name>
+    <text>{T}: La forza di una creatura attaccante bersaglio diventa 0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0084</id>
+    <name>Regina Incantatrice</name>
+    <text>{T}: La creatura bersaglio diversa dalla Regina Incantatrice diventa 0/2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0085</id>
+    <name>Stone-Throwing Devils</name>
+    <text>Attacco improvviso</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0086</id>
+    <name>Stone-Throwing Devils</name>
+    <text>Attacco improvviso</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0087</id>
+    <name>Mutazione Instabile</name>
+    <text>Incanta creatura
+La creatura incantata prende +3/+3.
+All'inizio del mantenimento del controllore della creatura incantata, metti un segnalino -1/-1 su quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0088</id>
+    <name>Elefante da Guerra</name>
+    <text>Travolgere, branco</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0089</id>
+    <name>Elefante da Guerra</name>
+    <text>Travolgere, branco</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0090</id>
+    <name>Lupo di Wyluli</name>
+    <text>{T}: La creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0091</id>
+    <name>Lupo di Wyluli</name>
+    <text>{T}: La creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ARN0092</id>
+    <name>Ydwen Efreet</name>
+    <text>Ogniqualvolta Ydwen Efreet blocca, lancia una moneta. Se perdi il lancio, rimuovi Ydwen Efreet dal combattimento. Le creature che stava bloccando e che non erano state bloccate da altre creature diventano non bloccate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

@@ -1,0 +1,1454 @@
+<cards name="Fallen Empires">
+  <item>
+    <id>FEM0001</id>
+    <name>Aeolipile</name>
+    <text>{1}, {T}, Sacrifica l'Aeolipile: L'Aeolipile infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0002</id>
+    <name>Thrull Corazza</name>
+    <text>{T}, Sacrifica il Thrull Corazza: Metti un segnalino +1/+2 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0003</id>
+    <name>Thrull Corazza</name>
+    <text>{T}, Sacrifica il Thrull Corazza: Metti un segnalino +1/+2 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0004</id>
+    <name>Thrull Corazza</name>
+    <text>{T}, Sacrifica il Thrull Corazza: Metti un segnalino +1/+2 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0005</id>
+    <name>Thrull Corazza</name>
+    <text>{T}, Sacrifica il Thrull Corazza: Metti un segnalino +1/+2 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0006</id>
+    <name>Balm of Restoration</name>
+    <text>{1}, {T}, Sacrifica il Balm of Restoration: Scegli una - Tu guadagni 2 punti vita; oppure previeni i prossimi 2 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0007</id>
+    <name>Basal Thrull</name>
+    <text>{T}, Sacrifica il Basal Thrull: Aggiungi {B}{B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0008</id>
+    <name>Basal Thrull</name>
+    <text>{T}, Sacrifica il Basal Thrull: Aggiungi {B}{B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0009</id>
+    <name>Basal Thrull</name>
+    <text>{T}, Sacrifica il Basal Thrull: Aggiungi {B}{B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0010</id>
+    <name>Basal Thrull</name>
+    <text>{T}, Sacrifica il Basal Thrull: Aggiungi {B}{B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0011</id>
+    <name>Cripta senza Fondo</name>
+    <text>La Cripta senza Fondo entra nel campo di battaglia TAPpata.
+Puoi scegliere di non STAPpare la Cripta senza Fondo durante il tuo STAP.
+All'inizio del tuo mantenimento, se la Cripta senza Fondo è TAPpata, metti su di essa un segnalino carica.
+{T}, Rimuovi dalla Cripta senza Fondo un qualsiasi numero di segnalini carica: Aggiungi {B} alla tua riserva di mana per ogni segnalino carica rimosso in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0012</id>
+    <name>Orchi dell'Artiglio di Ottone</name>
+    <text>Gli Orchi dall'Artiglio di Ottone non possono bloccare le creature con forza pari o superiore a 2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0013</id>
+    <name>Orchi dell'Artiglio di Ottone</name>
+    <text>Gli Orchi dall'Artiglio di Ottone non possono bloccare le creature con forza pari o superiore a 2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0014</id>
+    <name>Orchi dell'Artiglio di Ottone</name>
+    <text>Gli Orchi dall'Artiglio di Ottone non possono bloccare le creature con forza pari o superiore a 2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0015</id>
+    <name>Orchi dell'Artiglio di Ottone</name>
+    <text>Gli Orchi dall'Artiglio di Ottone non possono bloccare le creature con forza pari o superiore a 2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0016</id>
+    <name>Abisso Prolifico</name>
+    <text>All'inizio del tuo mantenimento, sacrifica l'Abisso Prolifico a meno che tu paghi {B}{B}.
+All'inizio della tua sottofase finale, metti sul campo di battaglia una pedina creatura Thrull 0/1 nera.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0017</id>
+    <name>Medico Combattente</name>
+    <text>{1}{W}: Previeni il prossimo punto danno che verrebbe inflitto in questo turno a un giocatore o a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0018</id>
+    <name>Medico Combattente</name>
+    <text>{1}{W}: Previeni il prossimo punto danno che verrebbe inflitto in questo turno a un giocatore o a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0019</id>
+    <name>Medico Combattente</name>
+    <text>{1}{W}: Previeni il prossimo punto danno che verrebbe inflitto in questo turno a un giocatore o a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0020</id>
+    <name>Medico Combattente</name>
+    <text>{1}{W}: Previeni il prossimo punto danno che verrebbe inflitto in questo turno a un giocatore o a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0021</id>
+    <name>Conch Horn</name>
+    <text>{1}, {T}, Sacrifica il Conch Horn: Pesca due carte, poi metti una carta dalla tua mano in cima al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0022</id>
+    <name>Progenie Profonda</name>
+    <text>Travolgere
+All'inizio del tuo mantenimento, sacrifica la Progenie Profonda, a meno che tu metta nel tuo cimitero le prime due carte del tuo grimorio.
+{U}: La Progenie Profonda guadagna velo fino alla fine del turno e non STAPpa durante il tuo prossimo STAP. TAPpa la Progenie Profonde. (Un permanente con velo non può essere bersaglio di magie e abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0023</id>
+    <name>Cono di Delif</name>
+    <text>{T}, Sacrifica il Cono di Delif: In questo turno, quando una creatura bersaglio che tu controlli attacca e non è bloccata, puoi guadagnare un ammontare di punti vita pari alla sua forza. Se lo fai, quella creatura non infligge danno da combattimento in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0024</id>
+    <name>Cubo di Delif</name>
+    <text>{2}, {T}: In questo turno, quando la creatura bersaglio che tu controlli attacca e non è bloccata, essa non assegna danno da combattimento in questo turno e tu metti un segnalino cubo sul Cubo di Delif.
+{2}, Rimuovi un segnalino cubo dal Cubo di Delif: Rigenera la creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0025</id>
+    <name>Derelor</name>
+    <text>Le magie nere che lanci costano {B} in più per essere lanciate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0026</id>
+    <name>Draconian Cylix</name>
+    <text>{2}, {T}, Scarta una carta a caso: Rigenera una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0027</id>
+    <name>Dwarven Armorer</name>
+    <text>{R}, {T}, Scarta una carta: Metti un segnalino +0/+1 o +1/+0 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0028</id>
+    <name>Catapulta dei Nani</name>
+    <text>La Catapulta dei Nani infligge X danni divisi equamente, arrotondati per difetto, tra tutte le creature controllate da un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0029</id>
+    <name>Presidio dei Nani</name>
+    <text>Il Presidio dei Nani entra nel campo di battaglia TAPpato.
+Puoi scegliere di non STAPpare il Presidio dei Nani durante il tuo STAP.
+All'inizio del tuo mantenimento, se il Presidio dei Nani è TAPpato, metti un segnalino carica su di esso.
+{T}, Rimuovi X segnalini carica dal Presidio dei Nani: Aggiungi {R} alla tua riserva di mana per ogni segnalino carica rimosso in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0030</id>
+    <name>Dwarven Lieutenant</name>
+    <text>{1}{R}: La creatura Nano bersaglio prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0031</id>
+    <name>Rovine dei Nani</name>
+    <text>Le Rovine dei Nani entrano nel campo di battaglia TAPpate.
+{T}: Aggiungi {R} alla tua riserva di mana.
+{T}, Sacrifica le Rovine dei Nani: Aggiungi {R}{R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0032</id>
+    <name>Nano Soldato</name>
+    <text>Ogniqualvolta il Nano Soldato blocca o viene bloccato da uno o più Orchi, il Nano Soldato prende +0/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0033</id>
+    <name>Nano Soldato</name>
+    <text>Ogniqualvolta il Nano Soldato blocca o viene bloccato da uno o più Orchi, il Nano Soldato prende +0/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0034</id>
+    <name>Nano Soldato</name>
+    <text>Ogniqualvolta il Nano Soldato blocca o viene bloccato da uno o più Orchi, il Nano Soldato prende +0/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0035</id>
+    <name>Ebon Praetor</name>
+    <text>Attacco improvviso, travolgere
+All'inizio del tuo mantenimento, metti un segnalino -2/-2 su Ebon Praetor.
+Sacrifica una creatura: Rimuovi un segnalino -2/-2 da Ebon Praetor. Se la creatura sacrificata era un Thrull, metti un segnalino +1/+0 su Ebon Praetor. Attiva questa abilità solo durante il tuo mantenimento e solo una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0036</id>
+    <name>Roccaforte d'Ebano</name>
+    <text>La Roccaforte d'Ebano entra nel campo di battaglia TAPpata.
+{T}: Aggiungi {B} alla tua riserva di mana.
+{T}, Sacrifica la Roccaforte d'Ebano: Aggiungi {B}{B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0037</id>
+    <name>Fortezza Elfica</name>
+    <text>{1}{G}: La creatura bersaglio bloccante prende +0/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0038</id>
+    <name>Fortezza Elfica</name>
+    <text>{1}{G}: La creatura bersaglio bloccante prende +0/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0039</id>
+    <name>Fortezza Elfica</name>
+    <text>{1}{G}: La creatura bersaglio bloccante prende +0/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0040</id>
+    <name>Fortezza Elfica</name>
+    <text>{1}{G}: La creatura bersaglio bloccante prende +0/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0041</id>
+    <name>Elven Lyre</name>
+    <text>{1}, {T}, Sacrifica Elven Lyre: La creatura bersaglio prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0042</id>
+    <name>Elvish Farmer</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora su Elvish Farmer.
+Rimuovi tre segnalini spora da Elvish Farmer: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.
+Sacrifica un Saprolingio: Guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0043</id>
+    <name>Cacciatore Elfico</name>
+    <text>{1}{G}, {T}: La creatura bersaglio non STAPpa durante il prossimo STAP del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0044</id>
+    <name>Cacciatore Elfico</name>
+    <text>{1}{G}, {T}: La creatura bersaglio non STAPpa durante il prossimo STAP del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0045</id>
+    <name>Cacciatore Elfico</name>
+    <text>{1}{G}, {T}: La creatura bersaglio non STAPpa durante il prossimo STAP del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0046</id>
+    <name>Esploratore Elfico</name>
+    <text>{G}, {T}: STAPpa una creatura attaccante bersaglio che controlli. Previeni tutto il danno da combattimento che verrebbe inflitto e ricevuto da quella creatura in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0047</id>
+    <name>Esploratore Elfico</name>
+    <text>{G}, {T}: STAPpa una creatura attaccante bersaglio che controlli. Previeni tutto il danno da combattimento che verrebbe inflitto e ricevuto da quella creatura in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0048</id>
+    <name>Esploratore Elfico</name>
+    <text>{G}, {T}: STAPpa una creatura attaccante bersaglio che controlli. Previeni tutto il danno da combattimento che verrebbe inflitto e ricevuto da quella creatura in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0049</id>
+    <name>Sacerdote di Farrelite</name>
+    <text>{1}: Aggiungi {W} alla tua riserva di mana. Se questa abilità è stata attivata quattro o più volte in questo turno, sacrifica il Sacerdote di Farrelite all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0050</id>
+    <name>Mantello di Farrel</name>
+    <text>Incanta creatura
+Ogniqualvolta la creatura incantata attacca e non viene bloccata, il suo controllore può scegliere di farle infliggere un danno pari alla sua forza più 2 a una creatura bersaglio. Se quel giocatore lo fa, la creatura attaccante non assegna danno da combattimento in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0051</id>
+    <name>Zelota di Farrel</name>
+    <text>Ogniqualvolta lo Zelota di Farrel attacca e non viene bloccato, puoi scegliere di fargli infliggere 3 danni a una creatura bersaglio. Se lo fai, lo Zelota di Farrel non assegna danno da combattimento in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0052</id>
+    <name>Zelota di Farrel</name>
+    <text>Ogniqualvolta lo Zelota di Farrel attacca e non viene bloccato, puoi scegliere di fargli infliggere 3 danni a una creatura bersaglio. Se lo fai, lo Zelota di Farrel non assegna danno da combattimento in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0053</id>
+    <name>Zelota di Farrel</name>
+    <text>Ogniqualvolta lo Zelota di Farrel attacca e non viene bloccato, puoi scegliere di fargli infliggere 3 danni a una creatura bersaglio. Se lo fai, lo Zelota di Farrel non assegna danno da combattimento in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0054</id>
+    <name>Feral Thallid</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora sul Feral Thallid.
+Rimuovi tre segnalini spora dal Feral Thallid: Rigenera il Feral Thallid.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0055</id>
+    <name>Fungal Bloom</name>
+    <text>{G}{G}: Metti un segnalino spora su un Fungus bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0056</id>
+    <name>Goblin Chirurgo</name>
+    <text>Sacrifica un Goblin: Rigenera una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0057</id>
+    <name>Goblin Chirurgo</name>
+    <text>Sacrifica un Goblin: Rigenera una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0058</id>
+    <name>Goblin Chirurgo</name>
+    <text>Sacrifica un Goblin: Rigenera una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0059</id>
+    <name>Goblin Flotilla</name>
+    <text>Passa-isole
+All'inizio del combattimento, a meno che tu paghi {R}, ogniqualvolta la Goblin Flotilla blocca o viene bloccata da una creatura in questo combattimento, quella creatura guadagna attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0060</id>
+    <name>Goblin Grenade</name>
+    <text>Come costo addizionale per lanciare la Goblin Grenade, sacrifica un Goblin.
+La Goblin Grenade infligge 5 danni a una creatura o ad un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0061</id>
+    <name>Goblin Grenade</name>
+    <text>Come costo addizionale per lanciare la Goblin Grenade, sacrifica un Goblin.
+La Goblin Grenade infligge 5 danni a una creatura o ad un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0062</id>
+    <name>Goblin Grenade</name>
+    <text>Come costo addizionale per lanciare la Goblin Grenade, sacrifica un Goblin.
+La Goblin Grenade infligge 5 danni a una creatura o ad un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0063</id>
+    <name>Goblin Kites</name>
+    <text>{R}: Una creatura bersaglio che controlli avente costituzione pari o inferiore a 2 guadagna volare fino alla fine del turno. All'inizio della prossima sottofase finale, lancia una moneta. Se perdi il lancio, sacrifica la creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0064</id>
+    <name>Tamburi di Guerra dei Goblin</name>
+    <text>Ogni creatura che controlli non può essere bloccata tranne che da due o più creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0065</id>
+    <name>Tamburi di Guerra dei Goblin</name>
+    <text>Ogni creatura che controlli non può essere bloccata tranne che da due o più creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0066</id>
+    <name>Tamburi di Guerra dei Goblin</name>
+    <text>Ogni creatura che controlli non può essere bloccata tranne che da due o più creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0067</id>
+    <name>Tamburi di Guerra dei Goblin</name>
+    <text>Ogni creatura che controlli non può essere bloccata tranne che da due o più creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0068</id>
+    <name>Asilo dei Goblin</name>
+    <text>{2}{R}, Sacrifica due Goblin: Metti sul campo di battaglia tre pedine creatura Goblin 1/1 rosse.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0069</id>
+    <name>Mano della Giustizia</name>
+    <text>{T}, TAPpa 3 creature bianche STAPpate che controlli: Distruggi una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0070</id>
+    <name>Campo di Battaglia di Havenwood</name>
+    <text>Il Campo di Battaglia di Havenwood entra nel campo di battaglia TAPpato.
+{T} : Aggiungi {G} alla tua riserva di mana.
+{T}, Sacrifica il Campo di Battaglia di Havenwood : Aggiungi {G}{G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0071</id>
+    <name>Eroismo</name>
+    <text>Sacrifica una creatura bianca: Per ogni creatura attaccante rossa, previeni tutto il danno da combattimento che essa infliggerebbe in questo turno a meno che il giocatore attaccante paghi {2}{R}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0072</id>
+    <name>High Tide</name>
+    <text>Fino alla fine del turno, ogniqualvolta un giocatore TAPpa un'Isola per attingere mana, quel giocatore aggiunge {U} alla sua riserva di mana (in aggiunta al mana prodotto dalla terra).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0073</id>
+    <name>High Tide</name>
+    <text>Fino alla fine del turno, ogniqualvolta un giocatore TAPpa un'Isola per attingere mana, quel giocatore aggiunge {U} alla sua riserva di mana (in aggiunta al mana prodotto dalla terra).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0074</id>
+    <name>High Tide</name>
+    <text>Fino alla fine del turno, ogniqualvolta un giocatore TAPpa un'Isola per attingere mana, quel giocatore aggiunge {U} alla sua riserva di mana (in aggiunta al mana prodotto dalla terra).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0075</id>
+    <name>Alberi Cavi</name>
+    <text>Gli Alberi Cavi Entrano nel campo di battaglia TAPpati.
+Puoi scegliere di non STAPpare gli Alberi Cavi durante il tuo STAP.
+All'inizio del tuo mantenimento, se gli Alberi Cavi sono TAPpati, metti un segnalino carica su di loro.
+{T}, Rimuovi un qualsiasi numero di segnalini carica dagli Alberi Cavi: Aggiungi {G} alla tua riserva di mana per ogni segnalino carica rimosso in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0076</id>
+    <name>Homarid</name>
+    <text>L'Homarid entra nel campo di battaglia con un segnalino onda su di esso.
+All'inizio del tuo mantenimento, metti un segnalino onda sull'Homarid.
+Fintanto che c'è esattamente un segnalino onda sull'Homarid, esso prende -1/-1.
+Fintanto che ci sono esattamente tre segnalini onda sull'Homarid, esso prende +1/+1.
+Ogniqualvolta ci sono quattro segnalini onda sull'Homarid, rimuovi tutti i segnalini onda da esso. [Oracle 1999/07/23]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0077</id>
+    <name>Homarid</name>
+    <text>L'Homarid entra nel campo di battaglia con un segnalino onda su di esso.
+All'inizio del tuo mantenimento, metti un segnalino onda sull'Homarid.
+Fintanto che c'è esattamente un segnalino onda sull'Homarid, esso prende -1/-1.
+Fintanto che ci sono esattamente tre segnalini onda sull'Homarid, esso prende +1/+1.
+Ogniqualvolta ci sono quattro segnalini onda sull'Homarid, rimuovi tutti i segnalini onda da esso. [Oracle 1999/07/23]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0078</id>
+    <name>Homarid</name>
+    <text>L'Homarid entra nel campo di battaglia con un segnalino onda su di esso.
+All'inizio del tuo mantenimento, metti un segnalino onda sull'Homarid.
+Fintanto che c'è esattamente un segnalino onda sull'Homarid, esso prende -1/-1.
+Fintanto che ci sono esattamente tre segnalini onda sull'Homarid, esso prende +1/+1.
+Ogniqualvolta ci sono quattro segnalini onda sull'Homarid, rimuovi tutti i segnalini onda da esso. [Oracle 1999/07/23]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0079</id>
+    <name>Homarid</name>
+    <text>L'Homarid entra nel campo di battaglia con un segnalino onda su di esso.
+All'inizio del tuo mantenimento, metti un segnalino onda sull'Homarid.
+Fintanto che c'è esattamente un segnalino onda sull'Homarid, esso prende -1/-1.
+Fintanto che ci sono esattamente tre segnalini onda sull'Homarid, esso prende +1/+1.
+Ogniqualvolta ci sono quattro segnalini onda sull'Homarid, rimuovi tutti i segnalini onda da esso. [Oracle 1999/07/23]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0080</id>
+    <name>Sciamano Homarid</name>
+    <text>{U}: TAPpa una creatura verde bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0081</id>
+    <name>Letto della Progenie Homarid</name>
+    <text>{1}{U}{U}, Sacrifica una creatura blu: Metti sul campo di battaglia X pedine creatura Camarid 1/1 blu, dove X è pari al costo di mana convertito della creatura sacrificata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0082</id>
+    <name>Guerriero Homarid</name>
+    <text>{U}: Il Guerriero Homarid guadagna velo fino alla fine del turno e non STAPpa durante il tuo prossimo STAP. TAPpa il Guerriero Homarid. (Un permanente con velo non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0083</id>
+    <name>Guerriero Homarid</name>
+    <text>{U}: Il Guerriero Homarid guadagna velo fino alla fine del turno e non STAPpa durante il tuo prossimo STAP. TAPpa il Guerriero Homarid. (Un permanente con velo non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0084</id>
+    <name>Guerriero Homarid</name>
+    <text>{U}: Il Guerriero Homarid guadagna velo fino alla fine del turno e non STAPpa durante il tuo prossimo STAP. TAPpa il Guerriero Homarid. (Un permanente con velo non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0085</id>
+    <name>Hymn to Tourach</name>
+    <text>Il giocatore bersaglio scarta due carte a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0086</id>
+    <name>Hymn to Tourach</name>
+    <text>Il giocatore bersaglio scarta due carte a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0087</id>
+    <name>Hymn to Tourach</name>
+    <text>Il giocatore bersaglio scarta due carte a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0088</id>
+    <name>Hymn to Tourach</name>
+    <text>Il giocatore bersaglio scarta due carte a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0089</id>
+    <name>Fanteria di Icatia</name>
+    <text>{1}: La Fanteria di Icatia guadagna attacco improvviso fino alla fine del turno.
+{1}: La Fanteria di Icatia guadagna branco fino alla fine del turno. (Un qualsiasi numero di creature con branco, e fino ad una senza branco, possono attaccare in un branco. I branchi sono bloccati come un gruppo. Se una qualsiasi creatura con branco viene bloccata oppure blocca una creatura, spetta a te, invece che al suo controllore, dividere il danno da combattimento di quella creatura tra tutte le creature che la hanno bloccata o che ha bloccato.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0090</id>
+    <name>Fanteria di Icatia</name>
+    <text>{1}: La Fanteria di Icatia guadagna attacco improvviso fino alla fine del turno.
+{1}: La Fanteria di Icatia guadagna branco fino alla fine del turno. (Un qualsiasi numero di creature con branco, e fino ad una senza branco, possono attaccare in un branco. I branchi sono bloccati come un gruppo. Se una qualsiasi creatura con branco viene bloccata oppure blocca una creatura, spetta a te, invece che al suo controllore, dividere il danno da combattimento di quella creatura tra tutte le creature che la hanno bloccata o che ha bloccato.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0091</id>
+    <name>Fanteria di Icatia</name>
+    <text>{1}: La Fanteria di Icatia guadagna attacco improvviso fino alla fine del turno.
+{1}: La Fanteria di Icatia guadagna branco fino alla fine del turno. (Un qualsiasi numero di creature con branco, e fino ad una senza branco, possono attaccare in un branco. I branchi sono bloccati come un gruppo. Se una qualsiasi creatura con branco viene bloccata oppure blocca una creatura, spetta a te, invece che al suo controllore, dividere il danno da combattimento di quella creatura tra tutte le creature che la hanno bloccata o che ha bloccato.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0092</id>
+    <name>Fanteria di Icatia</name>
+    <text>{1}: La Fanteria di Icatia guadagna attacco improvviso fino alla fine del turno.
+{1}: La Fanteria di Icatia guadagna branco fino alla fine del turno. (Un qualsiasi numero di creature con branco, e fino ad una senza branco, possono attaccare in un branco. I branchi sono bloccati come un gruppo. Se una qualsiasi creatura con branco viene bloccata oppure blocca una creatura, spetta a te, invece che al suo controllore, dividere il danno da combattimento di quella creatura tra tutte le creature che la hanno bloccata o che ha bloccato.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0093</id>
+    <name>Giavellottieri di Icatia</name>
+    <text>I Giavellottieri di Icatia entrano nel campo di battaglia con un segnalino giavellotto su di essi.
+{T}, Rimuovi un segnalino giavellotto dai Giavellottieri di Icatia: I Giavellottieri di Icatia infliggono 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0094</id>
+    <name>Giavellottieri di Icatia</name>
+    <text>I Giavellottieri di Icatia entrano nel campo di battaglia con un segnalino giavellotto su di essi.
+{T}, Rimuovi un segnalino giavellotto dai Giavellottieri di Icatia: I Giavellottieri di Icatia infliggono 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0095</id>
+    <name>Giavellottieri di Icatia</name>
+    <text>I Giavellottieri di Icatia entrano nel campo di battaglia con un segnalino giavellotto su di essi.
+{T}, Rimuovi un segnalino giavellotto dai Giavellottieri di Icatia: I Giavellottieri di Icatia infliggono 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0096</id>
+    <name>Luogotenente di Icatia</name>
+    <text>{1}{W}: Una creatura Soldato bersaglio prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0097</id>
+    <name>Cambiavalute di Icatia</name>
+    <text>Il Cambiavalute di Icatia entra nel campo di battaglia con 3 segnalini credito su di esso.
+Quando il Cambiavalute di Icatia entra nel campo di battaglia, ti infligge 3 danni.
+All'inizio del tuo mantenimento metti un segnalino credito sul Cambiavalute di Icatia.
+Sacrifica il Cambiavalute di Icatia: Guadagni 1 punto vita per ogni segnalino credito presente sul Cambiavalute di Icatia. Attiva questa abilità solo durante il tuo mantenimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0098</id>
+    <name>Cambiavalute di Icatia</name>
+    <text>Il Cambiavalute di Icatia entra nel campo di battaglia con 3 segnalini credito su di esso.
+Quando il Cambiavalute di Icatia entra nel campo di battaglia, ti infligge 3 danni.
+All'inizio del tuo mantenimento metti un segnalino credito sul Cambiavalute di Icatia.
+Sacrifica il Cambiavalute di Icatia: Guadagni 1 punto vita per ogni segnalino credito presente sul Cambiavalute di Icatia. Attiva questa abilità solo durante il tuo mantenimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0099</id>
+    <name>Cambiavalute di Icatia</name>
+    <text>Il Cambiavalute di Icatia entra nel campo di battaglia con 3 segnalini credito su di esso.
+Quando il Cambiavalute di Icatia entra nel campo di battaglia, ti infligge 3 danni.
+All'inizio del tuo mantenimento metti un segnalino credito sul Cambiavalute di Icatia.
+Sacrifica il Cambiavalute di Icatia: Guadagni 1 punto vita per ogni segnalino credito presente sul Cambiavalute di Icatia. Attiva questa abilità solo durante il tuo mantenimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0100</id>
+    <name>Falange di Icatia</name>
+    <text>Branco</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0101</id>
+    <name>Sacerdote di Icatia</name>
+    <text>{1}{W}{W}: Una creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0102</id>
+    <name>Esploratore di Icatia</name>
+    <text>{1}, {T}: La creatura bersaglio guadagna Attacco Improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0103</id>
+    <name>Esploratore di Icatia</name>
+    <text>{1}, {T}: La creatura bersaglio guadagna Attacco Improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0104</id>
+    <name>Esploratore di Icatia</name>
+    <text>{1}, {T}: La creatura bersaglio guadagna Attacco Improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0105</id>
+    <name>Esploratore di Icatia</name>
+    <text>{1}, {T}: La creatura bersaglio guadagna Attacco Improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0106</id>
+    <name>Icatian Skirmishers</name>
+    <text>Branco, attacco improvviso.
+Quando gli Icatian Skirmishers attaccano, tutte le creature in branco con loro guadagnano attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0107</id>
+    <name>Emporio di Icatia</name>
+    <text>L'Emporio di Icatia entra nel campo di battaglia TAPpato.
+Puoi scegliere di non STAPpare l'Emporio di Icatia durante il tuo STAP.
+All'inizio del tuo mantenimento, se l'Emporio di Icatia è TAPpato, metti un segnalino carica su di esso.
+{T}, Rimuovi un qualsiasi numero di segnalini carica dall'Emporio di Icatia: Aggiungi {W} alla tua riserva di mana per ogni segnalino carica rimosso in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0108</id>
+    <name>Città di Icatia</name>
+    <text>Metti sul campo di battaglia quattro pedine creatura Cittadino 1/1 bianche.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0109</id>
+    <name>Implements of Sacrifice</name>
+    <text>{1}, {T}, Sacrifica Implements of Sacrifice: Aggiungi 2 mana di un qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0110</id>
+    <name>Iniziati della Mano d'Ebano</name>
+    <text>{1}: Aggiungi {B} alla tua riserva di mana. Se questa abilità è stata attivata quattro o più volte in questo turno, sacrifica gli Iniziati della Mano d'Ebano all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0111</id>
+    <name>Iniziati della Mano d'Ebano</name>
+    <text>{1}: Aggiungi {B} alla tua riserva di mana. Se questa abilità è stata attivata quattro o più volte in questo turno, sacrifica gli Iniziati della Mano d'Ebano all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0112</id>
+    <name>Iniziati della Mano d'Ebano</name>
+    <text>{1}: Aggiungi {B} alla tua riserva di mana. Se questa abilità è stata attivata quattro o più volte in questo turno, sacrifica gli Iniziati della Mano d'Ebano all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0113</id>
+    <name>Merseine</name>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+Il Merseine entra nel campo di battaglia con 3 segnalini rete su di esso.
+La creatura incantata non STAPpa durante lo STAP del suo controllore fintanto che Merseine ha un segnalino rete su di esso.
+Paga il costo di mana della creatura incantata: Rimuovi un segnalino rete da Merseine. Qualsiasi giocatore può attivare questa abilità, ma solo se controlla la creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0114</id>
+    <name>Merseine</name>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+Il Merseine entra nel campo di battaglia con 3 segnalini rete su di esso.
+La creatura incantata non STAPpa durante lo STAP del suo controllore fintanto che Merseine ha un segnalino rete su di esso.
+Paga il costo di mana della creatura incantata: Rimuovi un segnalino rete da Merseine. Qualsiasi giocatore può attivare questa abilità, ma solo se controlla la creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0115</id>
+    <name>Merseine</name>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+Il Merseine entra nel campo di battaglia con 3 segnalini rete su di esso.
+La creatura incantata non STAPpa durante lo STAP del suo controllore fintanto che Merseine ha un segnalino rete su di esso.
+Paga il costo di mana della creatura incantata: Rimuovi un segnalino rete da Merseine. Qualsiasi giocatore può attivare questa abilità, ma solo se controlla la creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0116</id>
+    <name>Merseine</name>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+Il Merseine entra nel campo di battaglia con 3 segnalini rete su di esso.
+La creatura incantata non STAPpa durante lo STAP del suo controllore fintanto che Merseine ha un segnalino rete su di esso.
+Paga il costo di mana della creatura incantata: Rimuovi un segnalino rete da Merseine. Qualsiasi giocatore può attivare questa abilità, ma solo se controlla la creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0117</id>
+    <name>Thrull Pungimente</name>
+    <text>Ogniqualvolta il Thrull Pungimente attacca e non è bloccato, puoi sacrificarlo. Se lo fai, il giocatore in difesa scarta tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0118</id>
+    <name>Thrull Pungimente</name>
+    <text>Ogniqualvolta il Thrull Pungimente attacca e non è bloccato, puoi sacrificarlo. Se lo fai, il giocatore in difesa scarta tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0119</id>
+    <name>Thrull Pungimente</name>
+    <text>Ogniqualvolta il Thrull Pungimente attacca e non è bloccato, puoi sacrificarlo. Se lo fai, il giocatore in difesa scarta tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0120</id>
+    <name>Necrite</name>
+    <text>Ogniqualvolta la Necrite attacca e non viene bloccata, puoi sacrificarla. Se lo fai, distruggi una creatura bersaglio controllata dal giocatore in difesa. Non può essere rigenerata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0121</id>
+    <name>Necrite</name>
+    <text>Ogniqualvolta la Necrite attacca e non viene bloccata, puoi sacrificarla. Se lo fai, distruggi una creatura bersaglio controllata dal giocatore in difesa. Non può essere rigenerata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0122</id>
+    <name>Necrite</name>
+    <text>Ogniqualvolta la Necrite attacca e non viene bloccata, puoi sacrificarla. Se lo fai, distruggi una creatura bersaglio controllata dal giocatore in difesa. Non può essere rigenerata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0123</id>
+    <name>Night Soil</name>
+    <text>{1}, Esilia due carte creatura dallo stesso cimitero: Metti nel campo di battaglia una pedina creatura Saprolingio 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0124</id>
+    <name>Night Soil</name>
+    <text>{1}, Esilia due carte creatura dallo stesso cimitero: Metti nel campo di battaglia una pedina creatura Saprolingio 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0125</id>
+    <name>Night Soil</name>
+    <text>{1}, Esilia due carte creatura dallo stesso cimitero: Metti nel campo di battaglia una pedina creatura Saprolingio 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0126</id>
+    <name>Capitano degli Orchi</name>
+    <text>{1}: Lancia una moneta. Se vinci il lancio, una creatura Orco bersaglio prende +2/+0 fino alla fine del turno. Se perdi il lancio, essa prende -0/-2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0127</id>
+    <name>Spia Orchesca</name>
+    <text>{T}: Guarda le prime tre carte del grimorio di un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0128</id>
+    <name>Spia Orchesca</name>
+    <text>{T}: Guarda le prime tre carte del grimorio di un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0129</id>
+    <name>Spia Orchesca</name>
+    <text>{T}: Guarda le prime tre carte del grimorio di un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0130</id>
+    <name>Orcish Veteran</name>
+    <text>L'Orco Veterano non può bloccare le creature bianche con forza pari o superiore a 2.
+{R}: L'Orco Veterano guadagna attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0131</id>
+    <name>Orcish Veteran</name>
+    <text>L'Orco Veterano non può bloccare le creature bianche con forza pari o superiore a 2.
+{R}: L'Orco Veterano guadagna attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0132</id>
+    <name>Orcish Veteran</name>
+    <text>L'Orco Veterano non può bloccare le creature bianche con forza pari o superiore a 2.
+{R}: L'Orco Veterano guadagna attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0133</id>
+    <name>Orcish Veteran</name>
+    <text>L'Orco Veterano non può bloccare le creature bianche con forza pari o superiore a 2.
+{R}: L'Orco Veterano guadagna attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0134</id>
+    <name>Ordine di Leitbur</name>
+    <text>Protezione dal nero
+{W}: L'Ordine di Leitbur guadagna attacco improvviso fino alla fine del turno.
+{W}{W}: L'Ordine di Leitbur prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0135</id>
+    <name>Ordine di Leitbur</name>
+    <text>Protezione dal nero
+{W}: L'Ordine di Leitbur guadagna attacco improvviso fino alla fine del turno.
+{W}{W}: L'Ordine di Leitbur prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0136</id>
+    <name>Ordine di Leitbur</name>
+    <text>Protezione dal nero
+{W}: L'Ordine di Leitbur guadagna attacco improvviso fino alla fine del turno.
+{W}{W}: L'Ordine di Leitbur prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0137</id>
+    <name>Ordine della Mano d'Ebano</name>
+    <text>Protezione dal bianco
+{B}: L'Ordine della Mano d'Ebano guadagna attacco improvviso fino alla fine del turno.
+{B}{B}: L'Ordine della Mano d'Ebano prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0138</id>
+    <name>Ordine della Mano d'Ebano</name>
+    <text>Protezione dal bianco
+{B}: L'Ordine della Mano d'Ebano guadagna attacco improvviso fino alla fine del turno.
+{B}{B}: L'Ordine della Mano d'Ebano prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0139</id>
+    <name>Ordine della Mano d'Ebano</name>
+    <text>Protezione dal bianco
+{B}: L'Ordine della Mano d'Ebano guadagna attacco improvviso fino alla fine del turno.
+{B}{B}: L'Ordine della Mano d'Ebano prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0140</id>
+    <name>Orgg</name>
+    <text>Travolgere
+L'Orgg non può attaccare se il giocatore in difesa controlla una creatura STAPpata con forza pari o superiore a 3.
+L'Orgg non può bloccare creature con forza pari o superiore a 3.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0141</id>
+    <name>Raiding Party</name>
+    <text>Il Raiding Party non può essere bersaglio di magie bianche o abilità da fonti bianche.
+Sacrifica un Orco: Ogni giocatore può TAPpare un qualsiasi numero di creature bianche STAPpate che controlla. Per ogni creatura TAPpata in questo modo, quel giocatore sceglie fino a due Pianure. Poi distruggi tutte le Pianure che non erano state scelte in questo modo da alcun giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0142</id>
+    <name>Rainbow Vale</name>
+    <text>{T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana. Un avversario guadagna il controllo di Rainbow Vale all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0143</id>
+    <name>Anello del Rinnovamento</name>
+    <text>{5}, {T}, Scarta una carta a caso: Pesca 2 carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0144</id>
+    <name>Merfolk di Fiume</name>
+    <text>{U}: Il Merfolk di Fiume guadagna Passa-montagne fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0145</id>
+    <name>Rovine di Trokair</name>
+    <text>Le Rovine di Trokair entrano nel campo di battaglia TAPpate.
+{T}: Aggiungi {W} alla tua riserva di mana.
+{T}, Sacrifica le Rovine di Trokair: Aggiungi {W}{W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0146</id>
+    <name>Silos di Sabbia</name>
+    <text>Il Silos di Sabbia entra nel campo di battaglia TAPpato.
+Puoi scegliere di non STAPpare il Silos di Sabbia durante il tuo STAP.
+All'inizio del tuo mantenimento, se il Silos di Sabbia è TAPpato, metti un segnalino carica su di esso.
+{T}, Rimuovi un qualsiasi numero di segnalini carica dal Silos di Sabbia: Aggiungi {U} alla tua riserva di mana per ogni segnalino carica rimosso in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0147</id>
+    <name>Sirena</name>
+    <text>Quando non controlli Isole, sacrifica la Sirena.
+Puoi scegliere di non STAPpare la Sirena durante il tuo STAP.
+{T}: Prendi il controllo di una creatura bersaglio il cui controllore controlla un'Isola fintanto che controlli la Sirena e la Sirena resta TAPpata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0148</id>
+    <name>Soul Exchange</name>
+    <text>Come costo addizionale per lanciare il Soul Exchange, esilia una creatura che controlli.
+Rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero. Metti un segnalino +2/+2 su quella creatura se la creatura esiliata era un Thrull.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0149</id>
+    <name>Scudo Spirituale</name>
+    <text>Puoi scegliere di non STAPpare lo Scudo Spirituale durante il tuo STAP.
+{2}, {T}: La creatura bersaglio prende +0/+2 fintanto che lo Scudo Spirituale rimane TAPpato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0150</id>
+    <name>Spore Cloud</name>
+    <text>TAPpa tutte le creature bloccanti. Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. Ogni creatura attaccante e ogni creatura bloccante non STAPpa durante il prossimo STAP del proprio controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0151</id>
+    <name>Spore Cloud</name>
+    <text>TAPpa tutte le creature bloccanti. Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. Ogni creatura attaccante e ogni creatura bloccante non STAPpa durante il prossimo STAP del proprio controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0152</id>
+    <name>Spore Cloud</name>
+    <text>TAPpa tutte le creature bloccanti. Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. Ogni creatura attaccante e ogni creatura bloccante non STAPpa durante il prossimo STAP del proprio controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0153</id>
+    <name>Spore Flower</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora su Spore Flower.
+Rimuovi tre segnalini spora da Spore Flower: Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0154</id>
+    <name>Svyelunite Priest</name>
+    <text>{U}{U}, {T}: Una creatura bersaglio guadagna velo fino alla fine del turno. Attiva questa abilità solo durante il tuo mantenimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0155</id>
+    <name>Tempio Svyelunita</name>
+    <text>Il Tempio Svyelunita entra nel campo di battaglia TAPpato.
+{T}: Aggiungi {U} alla tua riserva di mana.
+{T}, Sacrifica il Tempio Svyelunita: Aggiungi {U}{U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0156</id>
+    <name>Thallid</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora sul Thallid.
+Rimuovi tre segnalini spora dal Thallid: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0157</id>
+    <name>Thallid</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora sul Thallid.
+Rimuovi tre segnalini spora dal Thallid: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0158</id>
+    <name>Thallid</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora sul Thallid.
+Rimuovi tre segnalini spora dal Thallid: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0159</id>
+    <name>Thallid</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora sul Thallid.
+Rimuovi tre segnalini spora dal Thallid: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0160</id>
+    <name>Thallid Devourer</name>
+    <text>All'inizio del tuo mantenimento metti un segnalino spora sul Thallid Devourer.
+Rimuovi tre segnalini spora da Thallid Devourer: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.
+Sacrifica un Saprolingio: Il Thallid Devourer prende +1/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0161</id>
+    <name>Thelonite Druid</name>
+    <text>{1}{G}, {T}, Sacrifica una creatura: Le Foreste che controlli diventano creature 2/3 fino alla fine del turno. Sono ancora terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0162</id>
+    <name>Thelonite Monk</name>
+    <text>{T}, Sacrifica una creatura verde: La terra bersaglio diventa una Foresta. (Questo effetto non ha termine.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0163</id>
+    <name>Thelon's Chant</name>
+    <text>All'inizio del tuo mantenimento, sacrifica il Thelon's Chant a meno che tu paghi {G}.
+Ogniqualvolta un giocatore mette una Palude sul campo di battaglia, il Thelon's Chant infligge 3 danni a quel giocatore a meno che egli metta un segnalino -1/-1 su una creatura che controlla.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0164</id>
+    <name>Thelon's Curse</name>
+    <text>Le creature blu non STAPpano durante lo STAP dei loro controllori.
+All'inizio del mantenimento di ogni giocatore, quel giocatore può scegliere un qualsiasi numero di creature blu TAPpate che controlla e pagare {U} per ogni creatura scelta in questo modo. Se il giocatore lo fa, STAPpa quelle creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0165</id>
+    <name>Thorn Thallid</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora su Thorn Thallid.
+Rimuovi tre segnalini spora da Thorn Thallid: Il Thorn Thallis infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0166</id>
+    <name>Thorn Thallid</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora su Thorn Thallid.
+Rimuovi tre segnalini spora da Thorn Thallid: Il Thorn Thallis infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0167</id>
+    <name>Thorn Thallid</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora su Thorn Thallid.
+Rimuovi tre segnalini spora da Thorn Thallid: Il Thorn Thallis infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0168</id>
+    <name>Thorn Thallid</name>
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora su Thorn Thallid.
+Rimuovi tre segnalini spora da Thorn Thallid: Il Thorn Thallis infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0169</id>
+    <name>Campione Thrull</name>
+    <text>Le creature Thrull prendono +1/+1.
+{T}: Prendi il controllo di un Thrull bersaglio fintanto che controlli il Campione Thrull.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0170</id>
+    <name>Thrull Servitore</name>
+    <text>Incanta creatura
+La creatura incantata prende +1/+1.
+Sacrifica il Thrull Servitore: Rigenera la creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0171</id>
+    <name>Mago Thrull</name>
+    <text>{1}{B}: Neutralizza una magia nera a meno che il giocatore di quella magia paghi {B} o {3}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0172</id>
+    <name>Tidal Flats</name>
+    <text>{U}{U}: Per ogni creatura attaccante senza volare, il suo controllore può pagare {1}. Se non lo fa, le creature che tu controlli che stanno bloccando quella creatura guadagnano attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0173</id>
+    <name>Tidal Flats</name>
+    <text>{U}{U}: Per ogni creatura attaccante senza volare, il suo controllore può pagare {1}. Se non lo fa, le creature che tu controlli che stanno bloccando quella creatura guadagnano attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0174</id>
+    <name>Tidal Flats</name>
+    <text>{U}{U}: Per ogni creatura attaccante senza volare, il suo controllore può pagare {1}. Se non lo fa, le creature che tu controlli che stanno bloccando quella creatura guadagnano attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0175</id>
+    <name>Influsso delle Maree</name>
+    <text>Lancia l'Influsso delle Maree solo se non ci sono sul campo di battaglia permanenti chiamati Influsso delle Maree.
+L'Influsso delle Maree entra nel campo di battaglia con un segnalino marea.
+All'inizio del tuo mantenimento, metti un segnalino marea sull'Influsso delle Maree.
+Fintanto che c'è esattamente un segnalino marea sull'Influsso delle Maree, tutte le creature blu prendono -2/-0.
+Fintanto che ci sono esattamente tre segnalini marea sull'Influsso delle Maree, tutte le creature blu prendono +2/+0.
+Ogniqualvolta ci siano quattro segnalini marea sull'Influsso delle Maree, rimuovi da esso tutti i segnalini marea.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0176</id>
+    <name>Tourach's Chant</name>
+    <text>All'inizio del tuo mantenimento, sacrifica Tourach's Chant a meno che tu paghi {B}.
+Ogniqualvolta un giocatore mette una Foresta sul campo di battaglia, Tourach's Chant infligge 3 danni a quel giocatore a meno che egli metta un segnalino -1/-1 su una creatura che controlla.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0177</id>
+    <name>Tourach's Gate</name>
+    <text>Incanta terra che controlli.
+Sacrifica un Thrull: Metti 3 segnalini tempo su Tourach's Gate.
+All'inizio del tuo mantenimento, rimuovi un segnalino tempo da Tourach's Gate. Se non ci sono più segnalini tempo su Tourach's Gate, sacrificalo.
+La terra incantata ha "{T}: Le creature attaccanti che controlli prendono +2/+1 fino alla fine del turno."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0178</id>
+    <name>Cavalieri di Vodalia</name>
+    <text>Attacco improvviso
+I Cavalieri di Vodalia non possono attaccare a meno che il giocatore in difesa controlli un'Isola.
+Quando non controlli Isole, sacrifica i Cavalieri di Vodalia.
+{U}: I Cavalieri di Vodalia guadagnano volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0179</id>
+    <name>Mago di Vodalia</name>
+    <text>{U}, {T}: Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0180</id>
+    <name>Mago di Vodalia</name>
+    <text>{U}, {T}: Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0181</id>
+    <name>Mago di Vodalia</name>
+    <text>{U}, {T}: Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0182</id>
+    <name>Soldati di Vodalia</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0183</id>
+    <name>Soldati di Vodalia</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0184</id>
+    <name>Soldati di Vodalia</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0185</id>
+    <name>Soldati di Vodalia</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0186</id>
+    <name>Macchina da Guerra di Vodalia</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+TAPpa un Tritone STAPpato che controlli: La Macchina da Guerra di Vodalia può attaccare in questo turno come se non avesse difensore.
+TAPpa un Tritone STAPpato che controlli: La Macchina da Guerra di Vodalia prende +2/+1 fino alla fine del turno.
+Quando la Macchina da Guerra di Vodalia viene messa in un cimitero dal campo di battaglia, distruggi tutti i Tritoni TAPpati in questo turno per pagare le sue abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>FEM0187</id>
+    <name>Spada di Zelyon</name>
+    <text>Puoi scegliere di non STAPpare la Spada di Zelyon durante il tuo STAP.
+{3},{T} : La creatura bersaglio prende +2/+0 fintanto che la Spada di Zelyon resta TAPpata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

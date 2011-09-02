@@ -1,0 +1,351 @@
+<?xml version="1.0" standalone="yes"?>
+<strings>
+  <PROGRAM>
+    <MSG_UPDATE_INTERNALERROR value="Si è verificato un errore non previsto durante l'aggiornamento." />
+    <MSG_UPDATE_CANCELED value="L'aggiornamento è stato annullato." />
+    <MSG_UPDATE_IOERROR value="Si è verificato un errore di cancellazione/scrittura dei files su disco durante l'aggiornamento." />
+    <MSG_EXCEPTION value="Si è verificato un errore non previsto. Per favore, comunicare allo staff i dati riportati di seguito." />
+    <MSG_CONFIRM_UPDATE value="E' disponibile una nuova versione! Eseguire l'aggiornamento?" />
+  </PROGRAM>
+  <UPDATE_DIALOG>
+    <TITLE value="Aggiornamento del programma" />
+    <STATUS_DOWNLOADING value="Download in corso..." />
+    <STATUS_DONE value="Download completato" />
+    <STATUS_CANCELED value="Download annullato" />
+    <PROGRESS value="Dati scaricati:" />
+    <CANCEL value="Annulla" />
+    <OK value="OK" />
+  </UPDATE_DIALOG>
+  <START_MENU>
+    <CURRENT_GAME value="Gioco corrente" />
+    <CURRENT_GAME_DESC value=" - Nessun gioco selezionato -" />
+    <SOLITAIRE value="Solitario" />
+    <SOLITAIRE_DESC value="Gioca una partita in solitaro dove puoi \n provare il tuo mazzo." />
+    <HOST_GAME value="Crea partita" />
+    <HOST_GAME_DESC value="Crea una partita e attendi gli altri \n giocatori." />
+    <CONNECT_TO value="Partecipa a partita" />
+    <CONNECT_TO_DESC value="Partecipa ad una partita creata da \n un altro giocatore." />
+    <DECK_EDITOR value="Gestione dei mazzi" />
+    <DECK_EDITOR_DESC value="Gestisci i tuoi mazzi ed accedi all'archivio \n delle carte." />
+    <CHAT value="Chat" />
+    <CHAT_DESC value="Apri la finestra di chat." />
+    <OPTIONS value="Opzioni" />
+    <OPTIONS_DESC value="Modifica le opzioni per personalizzare \n l'esperienza di gioco." />
+    <QUIT value="Esci" />
+    <QUIT_DESC value="Chiudi il gioco." />
+  </START_MENU>
+  <START_GAME_MENU>
+    <TITLE value="Inizia partita" />
+    <TITLE_DESC value="Inizia e ospita una partita." />
+    <NEW_GAME value="Nuova partita" />
+    <NEW_GAME_DESC value="Inizia una nuova partita. Per abilitare il \n salvataggio è richiesta una password." />
+    <SAVED_GAME value="Partita salvata" />
+    <SAVED_GAME_DESC value="Carica una partita salvata. E' richiesta la \n password corrispondente." />
+    <QUIT value="Esci" />
+    <QUIT_DESC value="Ritorna al menu principale." />
+  </START_GAME_MENU>
+  <JOIN_GAME_MENU>
+    <TITLE value="Partecipa a partita" />
+    <TITLE_DESC value="Partecipa a una partita \n già creata." />
+    <NEW_GAME value="Nuova partita" />
+    <NEW_GAME_DESC value="Partecipa ad una nuova partita. Per il \n salvataggio è richiesta una password." />
+    <SAVED_GAME value="Partita salvata" />
+    <SAVED_GAME_DESC value="Partecipa ad una partita salvata. E' richiesta la \n password corrispondente." />
+    <QUIT value="Esci" />
+    <QUIT_DESC value="Ritorna al menu principale." />
+  </JOIN_GAME_MENU>
+  <CARD_LIST>
+    <NAME value="Nome" />
+    <TYPE value="Tipo" />
+    <COST value="Costo" />
+    <CHARACTERISTICS value="Caratteristiche" />
+    <RARITY value="Rarità" />
+    <COLOR value="Colore" />
+    <EDITION value="Edizione" />
+    <TEXT value="Testo" />
+    <FLAVORTEXT value="Testo flavor" />
+    <ARTIST value="Artista" />
+  </CARD_LIST>
+  <OPTIONS_DIALOG>
+    <TITLE value="Opzioni" />
+    <PLAYER value="Giocatore" />
+    <NICKNAME value="Nickname" />
+    <PLAYER_PICTURE value="Avatar" />
+    <REMOVE_PICTURE value="Rimuovi immagine" />
+    <CHANGE_PICTURE value="Scegli immagine..." />
+    <MESSAGE value="Messaggio" />
+    <CARD_PICTURES value="Immagini carte" />
+    <CARD_PICTURES_PATH value="Cartella immagini carte" />
+    <SYSTEM value="Sistema" />
+    <NET value="Rete" />
+    <LANGUAGES value="Lingua" />
+    <LISTEN_PORT value="Porta di ascolto" />
+    <ALL_IMAGES value="Tutte le immagini" />
+    <CLIENT_LANGUAGE value="Lingua del client" />
+    <GAME_LANGUAGE value="Lingua del gioco" />
+    <ANIMATE_HAND value="Anima il pannello della mano" />
+    <ENABLE_SET_MAPPING value="Attiva mappatura set per le immagini delle carte" />
+    <KEEP_GAME_LOG value="Mantieni i log delle partite" />
+    <BEHAVIOR_CROP value="Immagini parziali" />
+    <BEHAVIOR_FULL value="Immagini complete" />
+    <CANCEL value="Annulla" />
+    <OK value="Ok" />
+    <MSG_INVALID_AVATAR value="L'immagine avatar non è valida non non è più disponibile." />
+    <MSG_INVALID_PLAYERNAME value="Il nome del giocatore non è valido." />
+    <MSG_INVALID_PORT value="Il numero della porta non è valido." />
+    <MSG_IMPORTING value="Importazione in corso..." />
+    <MSG_IMPORTING_ERROR value="Si è verificato un errore durante l'importazione" />
+    <MSG_IMPORTING_SUCCESS value="Importazione completata" />
+  </OPTIONS_DIALOG>
+  <SERVER_NEWGAME_DIALOG>
+    <TITLE value="Inizia nuova partita" />
+    <CURRENT_DECK value="Mazzo:" />
+    <CHOOSE_DECK value="Scegli un mazzo..." />
+    <PASSWORD value="Password personale del salvataggio:" />
+    <OK value="OK" />
+    <CANCEL value="Annulla" />
+    <MSG_INVALIDDECK value="Mazzo non valido." />
+  </SERVER_NEWGAME_DIALOG>
+  <SERVER_SAVEDGAME_DIALOG>
+    <TITLE value="Inizia partita salvata" />
+    <DATE value="Data:" />
+    <PASSWORD value="Password:" />
+    <PLAYERS value="Giocatori:" />
+    <OK value="OK" />
+    <CANCEL value="Annulla" />
+    <SAVE_LIST value="Partite salvate" />
+    <SAVE_LIST_DESC value="Scegli una partita salvata dalla lista" />
+    <SUMMARY value="Riepilogo" />
+    <SUMMARY_DESC value="Dettagli della partita salvata" />
+    <MSG_INVALIDSAVEDGAME value="Salvataggio non trovato." />
+    <MSG_PASSWORDREQUIRED value="Inserire la password." />
+    <MSG_DELETE_CONFIRM value="Confermi la cancellazione?" />
+  </SERVER_SAVEDGAME_DIALOG>
+  <CLIENT_INITIALIZATION_DIALOG>
+    <TITLE value="Partecipa ad una partita" />
+    <CURRENT_DECK value="Mazzo:" />
+    <CHOOSE_DECK value="Scegli un mazzo..." />
+    <PASSWORD value="Password personale del salvataggio:" />
+    <SERVER_IP value="Indirizzo IP" />
+    <SERVER_PORT value="Porta" />
+    <OK value="OK" />
+    <CANCEL value="Annulla" />
+    <MSG_INVALIDDECK value="Mazzo non valido." />
+    <MSG_PASSWORDREQUIRED value="Inserire la password." />
+    <MSG_INVALID_IP value="IP non valido." />
+    <MSG_INVALID_PORT value="Porta non valida." />
+  </CLIENT_INITIALIZATION_DIALOG>
+  <NEW_SERVER_GAME_DIALOG>
+    <TITLE value="Crea una nuova partita" />
+    <PLAYER_LIST value="Parecipanti" />
+    <PLAYER_LIST_DESC value="L'elenco dei partecipanti alla partita" />
+    <CHAT value="Chat" />
+    <CHAT_DESC value="Comunica con gli altri giocatori" />
+    <CANCEL value="Annulla" />
+    <START value="Inizia" />
+    <YOUR_IP value="Indirizzo IP:" />
+    <MSG_CONNECTIONREFUSED_VERSIONMISMATCH value="Versione del client non valida." />
+    <MSG_CONNECTIONREFUSED_GAMEISRUNNING value="La partita è in corso." />
+    <MSG_CONNECTIONREFUSED_INVALIDSTARTMODE value="Modalità di avvio non valida." />
+    <MSG_CONNECTIONREFUSED_NICKNAMEDUPLICATED value="Un giocatore con lo stesso nickname si è già unito alla partita." />
+    <MSG_CONNECTIONREFUSED_GAMEDATAMISMATCH value="I dati di gioco sono differenti da quelli del creatore della partita." />
+    <MSG_CONNECTIONREFUSED_PASSWORDREQUIRED value="Per questa partita è richiesta una password." />
+    <MSG_GAMELOADFAILED_CANNOTLOAD value="Impossibile caricare la partita. Le password inserite dai giocatori potrebbero essere errate." />
+    <MSG_GAMELOADFAILED_DIFFERENTPLAYERSCOUNT value="Impossibile caricare la partita. I partecipanti della partita salvata erano #amount#." />
+    <MSG_GAMELOADFAILED_DIFFERENTNICKNAMES value="Impossibile caricare la partita. I nicknames dei partecipanti sono differenti da quelli salvati." />
+  </NEW_SERVER_GAME_DIALOG>
+  <NEW_CLIENT_GAME_DIALOG>
+    <TITLE value="Partecipa ad una partita" />
+    <PLAYER_LIST value="Parecipanti" />
+    <PLAYER_LIST_DESC value="L'elenco dei partecipanti alla partita" />
+    <CHAT value="Chat" />
+    <CHAT_DESC value="Comunica con gli altri giocatori" />
+    <CANCEL value="Annulla" />
+  </NEW_CLIENT_GAME_DIALOG>
+  <SERVER_RESTARTGAME_DIALOG>
+    <TITLE value="Crea una nuova partita" />
+    <PLAYER_LIST value="Parecipanti" />
+    <PLAYER_LIST_DESC value="L'elenco dei partecipanti alla partita" />
+    <CHAT value="Chat" />
+    <CHAT_DESC value="Comunica con gli altri giocatori" />
+    <CANCEL value="Annulla" />
+    <START value="Inizia" />
+    <SIDEBOARDING value="Sideboarding" />
+    <READY value="Pronto" />
+    <NOT_READY value="Non pronto" />
+  </SERVER_RESTARTGAME_DIALOG> 
+  <CLIENT_RESTARTGAME_DIALOG>
+    <TITLE value="Crea una nuova partita" />
+    <PLAYER_LIST value="Parecipanti" />
+    <PLAYER_LIST_DESC value="L'elenco dei partecipanti alla partita" />
+    <CHAT value="Chat" />
+    <CHAT_DESC value="Comunica con gli altri giocatori" />
+    <CANCEL value="Annulla" />
+    <SIDEBOARDING value="Sideboarding" />
+    <READY value="Pronto" />
+    <NOT_READY value="Non pronto" />
+  </CLIENT_RESTARTGAME_DIALOG>      
+  <DECK_ROOM_DIALOG>
+    <TITLE value="La stanza dei mazzi" />
+    <DECK_LIST value="Elenco dei mazzi" />
+    <DECK_LIST_DESC value="Scegli un mazzo dalla lista" />
+    <CARDS value="Carte" />
+    <CARDS_DESC value="L'elenco delle carte contenute nel mazzo" />
+    <SIDEBOARD value="Riserve" />
+    <SIDEBOARD_DESC value="L'elenco delle carte di riserva contenute nel mazzo" />
+    <IMPORT value="Importa" />
+    <EXPORT value="Esporta" />
+    <EDIT value="Modifica" />
+    <DELETE value="Elimina il mazzo" />
+    <NEW value="Crea un nuovo mazzo" />
+    <ALL_FORMATS value="Tutti i formati supportati" />
+    <NAME value="Nome" />
+    <TYPE value="Tipo" />
+    <COST value="Costo" />
+    <QUIT value="Esci" />
+    <OK value="Ok" />
+    <MSG_CHOOSE_A_DECK value="Scegli un mazzo." />
+    <MSG_DELETE_CONFIRMATION value="Eliminare il mazzo #deckname#?" />
+    <MSG_MAPPINGFILENOTFOUND value="File di mappatura dei set non trovato." />
+    <MSG_EXPORTCOMPLETED value="Esportazione completata." />
+  </DECK_ROOM_DIALOG>
+  <IMPORT_RESULTS_DIALOG>
+    <TITLE value="Risultati dell'importazione" />
+    <STATUS value="Stato" />
+    <FILENAME value="File" />
+    <LINE value="Linea" />
+    <ERROR value="Errore" />
+  </IMPORT_RESULTS_DIALOG>
+  <EXPORT_DECK_DIALOG>
+    <TITLE value="Esportazione mazzo" />
+    <LANGUAGE value="Lingua" />
+    <DESTINATION value="Destinazione" />
+    <DESTINATION_FILE value="File di testo" />
+    <DESTINATION_CLIPBOARD value="Appunti" />
+    <EXCLUDE_TAGS value="Non inserire i codici delle carte" />
+    <OK value="Ok" />
+    <CANCEL value="Annulla" />
+  </EXPORT_DECK_DIALOG>
+  <DECK_EDITOR_DIALOG >
+    <TITLE value="Editor di mazzi" />
+    <SET value="Set" />
+    <COLOR value="Colore" />
+    <TYPE value="Tipo" />
+    <NAME value="Nome" />
+    <TEXT value="Testo" />
+    <COST value="Costo" />
+    <RARITY value="Rarità" />
+    <CHARACTERISTICS value="Caratteristiche" />
+    <SEARCH value="Cerca" />
+    <CLEAR_FIELDS value="Pulisci campi" />
+    <SELECT_ALL value="Seleziona campi" />
+    <MOVE_TO_MAIN value="Sposta nel mazzo principale" />
+    <MOVE_TO_SIDE value="Sposta nel mazzo delle riserve" />
+    <EXCHANGE value="Scambia" />
+    <RESET_LIST value="Svuota la lista" />
+    <DUPLICATE value="Aggiungi una copia" />
+    <REMOVE value="Rimuovi una copia" />
+    <SEARCH_ARCHIVE value="Cerca nell'archivio" />
+    <SEARCH_ARCHIVE_DESC value="Insersci i parametri di ricerca" />
+    <SEARCH_RESULT value="Carte in archivio" />
+    <SEARCH_RESULT_DESC value="Elenco delle carte corrispondenti alla ricerca" />
+    <MAIN_CARDS value="Carte principali" />
+    <MAIN_CARDS_DESC value="Le carte che puoi usare durante il gioco" />
+    <SIDEBOARD_CARDS value="Carte di riserva" />
+    <SIDEBOARD_CARDS_DESC value="Le carte di riserva" />
+    <OTHER_INFO value="Altre informazioni" />
+    <OTHER_INFO_DESC value="Nome del mazzo e altre informazioni" />
+    <CATEGORY value="Categoria" />
+    <UNDO_CHANGES value="Annulla le modifiche" />
+    <CLOSE value="Chiudi" />
+    <ORIENTATION value="Orientamento" />
+    <SAVE value="Salva le modifiche" />
+    <SAVE_AND_EXIT value="Salva ed esci" />
+    <EXIT value="Esci senza salvare" />
+    <MSG_INVALID_NAME value="Il nome del mazzo non valido." />
+    <MSG_INVALID_CATEGORY value="Il nome della categoria non è valido." />
+    <MSG_DECK_ALREADY_EXISTS value="Il nome del mazzo è già in uso." />
+    <MSG_INVALID_DECK_SIZE value="Il mazzo deve contenere #decksize# carte principali e #sideboardsize# nel sideboard." />
+    <MSG_SAVE_COMPLETED value="Il mazzo è stato salvato." />
+    <MSG_NO_CARD_FOUND value="Nessuna carta trovata." />
+    <MSG_CONFIRM_CLEAR_LIST value="Sei sicuro di voler svuotare la lista?" />
+  </DECK_EDITOR_DIALOG>
+  <TOKEN_DIALOG>
+    <TITLE value="Segnalino" />
+    <TEXT value="Testo" />
+    <AMOUNT value="Quantità" />
+    <COLOR value="Colore" />
+    <CANCEL value="Annulla" />
+    <OK value="Ok" />
+  </TOKEN_DIALOG>
+  <CHARACTERISTICS_DIALOG>
+    <TITLE value="Caratteristiche" />
+    <VALUE value="Valore" />
+    <INCREMENT value="Incrementa (- per decrementare)" />
+    <CANCEL value="Annulla" />
+    <OK value="Ok" />
+  </CHARACTERISTICS_DIALOG>
+  <NUMBER_DIALOG>
+    <TITLE value="Scegli quantità" />
+    <VALUE value="Altro valore:" />
+    <CANCEL value="Annulla" />
+    <OK value="Ok" />
+  </NUMBER_DIALOG>
+  <SECTORS_DIALOG>
+    <TITLE value="Scegli settore" />
+    <CANCEL value="Annulla" />
+  </SECTORS_DIALOG>
+  <PLAYERS_DIALOG>
+    <TITLE value="Scegli avversario" />
+    <CANCEL value="Annulla" />
+  </PLAYERS_DIALOG>
+  <PAWN_DIALOG>
+    <TITLE value="Dati della pedina" />
+    <NAME value="Nome" />
+    <TYPE value="Tipo" />
+    <TEXT value="Testo" />
+    <CHARACTERISTICS value="Caratteristiche" />
+    <CANCEL value="Annulla" />
+    <OK value="Ok" />
+  </PAWN_DIALOG>
+  <TOKEN_MENU>
+    <EDIT value="Modifica" />
+    <REMOVE value="Rimuovi" />
+  </TOKEN_MENU>
+  <CHAT>
+    <CHANGE_TURN value="Passo" />
+    <WAIT value="Aspetta" />
+  </CHAT>  
+  <GAME>
+    <OPTIONS value="Opzioni" />
+    <ACTIONS_THROW_COIN value="Lancia una moneta" />
+    <ACTIONS_THROW_DICE value="Lancia un dado..." />
+    <ACTIONS_DICE4 value="...a 4 facce" />
+    <ACTIONS_DICE6 value="...a 6 facce" />
+    <ACTIONS_DICE8 value="...a 8 facce" />
+    <ACTIONS_DICE10 value="...a 10 facce" />
+    <ACTIONS_DICE12 value="...a 12 facce" />
+    <ACTIONS_DICE20 value="...a 20 facce" />
+    <ACTIONS_UNDO value="Annulla" />
+    <ACTIONS_REDO value="Ripeti" />
+    <SAVE value="Salva"/>
+    <RESTART value="Nuova partita"/>
+    <SEARCH value="Cerca:" />
+    <ENABLE_LIST_SORTING value="Ordinamento delle carte" />
+    <MOVE_DOWN value="Sposta in giu'" />
+    <MOVE_UP value="Sposta in su" />
+    <MOVE_BOTTOM value="Sposta in fondo" />      
+    <MULLIGAN_CONFIRM value="Sei sicuro di voler eseguire un mulligan?"/>
+    <QUIT_CONFIRM value="Sei sicuro di voler uscire?"/>
+    <NEW_GAME_CONFIRM value="Sei sicuro di volere iniziare una nuova partita?"/>
+    <MSG_UPDATING value="Aggiornamento in corso (#player# - #sector#)..."/>
+    <MSG_SAVE_ENABLED value="Il salvataggio per questa partita è abilitato."/>
+    <MSG_SAVE_DISABLED value="Il salvataggio per questa partita è disabilitato."/>
+    <MSG_UNDO_COMMAND value="Hai annullato un comando." />
+    <MSG_OPPONENT_UNDO_COMMAND value="#player# ha annullato un comando." />
+    <MSG_CANT_UNDO_OPPONENT_COMMAND value="Non puoi annullare un comando avversario." />
+    <MSG_REDO_COMMAND value="Hai rieseguito un comando." />
+    <MSG_OPPONENT_REDO_COMMAND value="#player# ha rieseguito un comando." />
+    <MSG_CANT_UNDO_OPPONENT_COMMAND value="Non puoi rieseguire un comando avversario." />
+  </GAME>
+</strings>

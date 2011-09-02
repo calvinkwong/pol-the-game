@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<game>
+  <info name="Magic L&apos;Adunanza ©" />
+  <commands_lang>
+    <item code="THROW_DICE" name="Lancia un dado" />    
+    <item code="ROTATE_CARDS_TRUE" name="Tappa" />
+    <item code="ROTATE_CARDS_FALSE" name="Stappa" />
+    <item code="ROTATE_ALL_CARDS" name="Stappa tutte le carte" />     
+    <item code="CREATE_PAWN" name="Crea la pedina" />       
+    <item code="ADD_TOKEN" name="Aggiunge un segnalino" />
+    <item code="REMOVE_TOKEN" name="Rimuove un segnalino" />
+    <item code="SET_TOKEN_AMOUNT" name="Modifica quantita' del segnalino" />   
+    <item code="SET_TOKEN_COLOR" name="Modifica colore del segnalino" />
+    <item code="SET_TOKEN_TEXT" name="Modifica testo del segnalino" />              
+    <item code="MULLIGAN" name="Esegue un mulligan" />
+    <item code="DUPLICATE_CARD" name="Duplica" />     
+    <item code="REVERSE_CARDS_TRUE" name="Ruota" />
+    <item code="REVERSE_CARDS_FALSE" name="Ruota" />
+    <item code="SAVE_GAME" name="Salva la partita" />
+    <item code="SET_CARD_CHARACTERISTICS" name="Modifica caratteristiche" />
+    <item code="SET_CARD_VISIBILITY_VISIBLE" name="Rende visibile" />
+    <item code="SET_CARD_VISIBILITY_PRIVATE" name="Rende privato" />              
+    <item code="SET_CARD_VISIBILITY_HIDDEN" name="Rende nascosto" />  
+    <item code="SET_NUMCOUNTER_VALUE" name="Modifica" />
+    <item code="SET_PLAYER_POINTS" name="Modifica i punti vita" />   
+    <item code="SHUFFLE_SECTOR" name="Mischia" />        
+    <item code="THROW_COIN_FACE" name="Lancia una moneta: Testa" />         
+    <item code="THROW_COIN_TAIL" name="Lancia una moneta: Croce" />         
+    <item code="MOVE_RANDOM_CARDS" name="Sposta a caso #amount# carte" />               
+    <item code="MOVE_CARDS" name="Sposta #amount# carte" />
+    <item code="MOVE_SINGLE_CARD" name="Sposta" />      
+    <item code="LOCK_CARDS" name="Non stappa normalmente" />   
+    <item code="WATCH_TOP_CARDS" name="Guarda le prime #amount# carte" />
+    <item code="KEEP_VISIBLE_TOP_CARDS" name="Gioca con le prime #amount# carte scoperte" />
+    <item code="WATCH_ALL_CARDS" name="Guarda tutte le carte" />
+    <item code="SHOW_ALL_CARDS" name="Rivela tutte le carte" />
+    <item code="SHOW_TOP_CARDS" name="Rivela le prime #amount# carte" />
+    <item code="DISPLAY_RANDOM_CARDS" name="Rivela a caso #amount# carte" />
+    <item code="DISPLAY_CARDS" name="Rivela #amount# carte" />    
+    <item code="CLOSE_DISPLAY" name="Smette di guardare le carte" />           
+    <item code="CLOSE_LOOKUP" name="Smette di guardare le carte" />           
+    <item code="RESTART_GAME" name="Inizia una nuova partita" />
+    <item code="REMOVE_PLAYER" name="Lascia la partita" />
+  </commands_lang>
+  <card_rarities_lang>
+    <item code="C" name="Comune" />
+    <item code="R" name="Rara" />
+    <item code="U" name="Non Comune" />
+    <item code="M" name="Rara Mitica" />
+    <item code="S" name="Speciale" />
+  </card_rarities_lang>
+  <card_types_lang>
+    <item code="CRE" name="Creatura" />
+    <item code="INS" name="Istantaneo" />
+    <item code="ENC" name="Incantesimo" />
+    <item code="SOR" name="Stregoneria" />
+    <item code="ART" name="Artefatto" />
+    <item code="ARC" name="Creatura Artefatto" />
+    <item code="LND" name="Terra" />
+    <item code="BLA" name="Terra Base" />
+    <item code="LCR" name="Creatura Leggendaria" />
+    <item code="LEN" name="Incantesimo Leggendario" />
+    <item code="LLA" name="Terra Leggendaria" />
+    <item code="LAR" name="Artefatto Leggendario" />
+    <item code="WEN" name="Incanta Mondo" />
+    <item code="BSL" name="Terra Base Innevata" />
+    <item code="SCR" name="Creatura Neve" />
+    <item code="SLA" name="Terra Neve" />
+    <item code="SEN" name="Incantesimo Neve" />
+    <item code="SAC" name="Creature Artefatto Neve" />
+    <item code="LSL" name="Terra Neve Leggendaria" />
+    <item code="SAR" name="Artefatto Neve" />
+    <item code="TEN" name="Incantesimo Tribale" />
+    <item code="PLA" name="Viandante" />
+    <item code="TSO" name="Stregoneria Tribale" />
+    <item code="TIN" name="Istantaneo Tribale" />
+    <item code="TAR" name="Artefatto Tribale" />
+  </card_types_lang> 
+  <card_colors_lang>
+    <item code="B" name="Nero" />
+    <item code="W" name="Bianco" />
+    <item code="R" name="Rosso" />
+    <item code="U" name="Blu" />
+    <item code="G" name="Verde" />
+    <item code="A" name="Artefatto" />
+    <item code="C" name="Incolore" />
+  </card_colors_lang>       
+  <card_styles_lang>
+    <item code="PRE_8" name="Precedente l&apos;ottava edizione" />
+    <item code="POST_8" name="Successiva all&apos;ottava edizione" />
+    <item code="PAWN" name="Pedina" />
+  </card_styles_lang>
+  <sectors_lang>
+    <item code="DECK" name="Grimorio" />
+    <item code="DISCARDS" name="Cimitero" />
+    <item code="REMOVED" name="Esilio" />
+    <item code="BATTLEFIELD" name="Campo di battaglia" />
+    <item code="HAND" name="Mano" />
+  </sectors_lang>        
+  <numCounters_lang>
+    <item code="R" name="Riserva di mana rosso" />
+    <item code="G" name="Riserva di mana verde" />
+    <item code="W" name="Riserva di mana bianco" />
+    <item code="B" name="Riserva di mana nero" />
+    <item code="U" name="Riserva di mana blu" />
+    <item code="C" name="Riserva di mana incolore" />
+  </numCounters_lang>  
+  <card_sets_lang>
+    <item code="LEA" name="Alpha (solo inglese)(Limited Edition)" />
+    <item code="LEB" name="Beta (solo inglese)(Limited Edition)" />  
+    <item code="2ED" name="Unlimited Edition (solo inglese)" />  
+    <item code="3ED" name="Revised Edition" />  
+    <item code="4ED" name="Quarta Edizione" />  
+    <item code="5ED" name="Quinta Edizione" />  
+    <item code="6ED" name="Classic (Sesta Edizione)" />  
+    <item code="7ED" name="Settima Edizione" />  
+    <item code="8ED" name="Ottava Edizione" />  
+    <item code="9ED" name="Nona Edizione" />  
+    <item code="10E" name="Decima Edizione" />  
+    <item code="M10" name="Magic 2010" />  
+    <item code="ARN" name="Arabian Nights" />  
+    <item code="ATQ" name="Antiquities" />  
+    <item code="LEG" name="Leggende" />  
+    <item code="DRK" name="L&apos;Oscurità" />  
+    <item code="FEM" name="Fallen Empires" />  
+    <item code="HML" name="Origini" />  
+    <item code="ICE" name="Era Glaciale" />  
+    <item code="ALL" name="Alleanze" />  
+    <item code="CLD" name="Ondata Glaciale" />  
+    <item code="MIR" name="Mirage" />    
+    <item code="VIS" name="Visioni" />
+    <item code="WTH" name="Cavalcavento" />
+    <item code="TMP" name="Tempesta" />
+    <item code="STH" name="Fortezza" />
+    <item code="EXO" name="Esodo" />
+    <item code="USG" name="Saga di Urza" />
+    <item code="ULG" name="Eredità di Urza" />
+    <item code="UDS" name="Destino di Urza" />
+    <item code="MMQ" name="Maschere di Mercadia" />
+    <item code="NMS" name="Nemesis" />
+    <item code="PCY" name="Profezia" />
+    <item code="INV" name="Invasione" />
+    <item code="PLS" name="Congiunzione" />
+    <item code="APC" name="Apocalisse" />
+    <item code="ODY" name="Odissea" />
+    <item code="TOR" name="Tormento" />
+    <item code="JUD" name="Sentenza" />
+    <item code="ONS" name="Assalto" />
+    <item code="LGN" name="Legioni" />
+    <item code="SCG" name="Flagello" />
+    <item code="MRD" name="Mirrodin" />
+    <item code="DST" name="Darksteel" />
+    <item code="5DN" name="Quinta Alba" />  
+    <item code="CHK" name="Campioni di Kamigawa" />  
+    <item code="BOK" name="Traditori di Kamigawa" />  
+    <item code="SOK" name="Liberatori di Kamigawa" />  
+    <item code="RAV" name="Ravnica: Città delle Gilde" />  
+    <item code="GPT" name="Patto delle Gilde" />  
+    <item code="DIS" name="Discordia" />
+    <item code="TSP" name="Spirale Temporale" />
+    <item code="TSB" name="Spirale Temporale - Cronotraslate" />
+    <item code="PLC" name="Caos Dimensionale" />
+    <item code="FUT" name="Visione Futura" />
+    <item code="LRW" name="Lorwyn" />  
+    <item code="MOR" name="Aurora" /> 
+    <item code="SHM" name="Landa Tenebrosa" /> 
+    <item code="EVE" name="Vespro" /> 
+    <item code="ALA" name="Frammenti di Alara" /> 
+    <item code="CFX" name="Conflux" /> 
+    <item code="ARB" name="Rinascita di Alara" /> 
+    <item code="ZEN" name="Zendikar" /> 
+    <item code="WWK" name="Worldwake" />
+    <item code="ROE" name="Ascesa degli Eldrazi" />    
+    <item code="CHR" name="Chronicles" />
+    <item code="BRB" name="Battle Royale Box Set" />
+    <item code="BTD" name="Beatdown Box Set" />
+    <item code="HOP" name="Planechase" />
+    <item code="EVG" name="Duel Decks: Elves vs. Goblins" />
+    <item code="JVC" name="Duel Decks: Jace vs. Chandra" />
+    <item code="DVD" name="Duel Decks: Divine vs. Demonic" />
+    <item code="GVL" name="Duel Decks: Garruk vs. Liliana" />     
+    <item code="FVD" name="From the Vault: Dragons" />
+    <item code="FVE" name="From the Vault: Exiled" />  
+    <item code="PDS" name="Premium Deck Series: Slivers" />  
+    <item code="POR" name="Portal" />
+    <item code="P02" name="Portal Second Age" />                       
+    <item code="PTK" name="Portal Three Kingdoms" />
+    <item code="S99" name="Starter 1999" />
+    <item code="S00" name="Starter 2000" />
+    <item code="MED" name="Masters Edition" />
+    <item code="ME2" name="Masters Edition II" />  
+    <item code="ME3" name="Masters Edition III" />
+    <item code="UGL" name="Unglued" />
+    <item code="UNH" name="Unhinged" />       
+    <item code="M11" name="Magic 2011" />      
+    <item code="SOM" name="Cicatrici di Mirrodin" />      
+  </card_sets_lang>    
+</game>

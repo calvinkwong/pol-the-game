@@ -1,0 +1,1263 @@
+<cards name="Quinta Alba">
+  <item>
+    <id>5DN0001</id>
+    <name>Canto dell'Abuna</name>
+    <text>Scegli uno - Guadagni 5 punti vita; oppure previeni i prossimi 5 danni che verrebbero inflitti alla creatura bersaglio in questo turno.
+Intrecciare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0002</id>
+    <name>Reazione Armata</name>
+    <text>La Reazione Armata infligge alla creatura attaccante bersaglio un danno pari al numero di Equipaggiamenti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0003</id>
+    <name>Campionessa Auriok</name>
+    <text>Protezione dal nero e dal rosso.
+Ogniqualvolta un'altra creatura entra sul campo di battaglia, puoi guadagnare 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0004</id>
+    <name>Saccheggiatori Auriok</name>
+    <text>{1}{W}: Riprendi in mano dal tuo cimitero una carta artefatto bersaglio con costo di mana convertito pari o inferiore a 1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0005</id>
+    <name>Calcavento Auriok</name>
+    <text>Volare
+{T}: Assegna un Equipaggiamento bersaglio che controlli ad una creatura bersaglio che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0006</id>
+    <name>Faro dell'Immortalità</name>
+    <text>Raddoppia i punti vita di un giocatore bersaglio. Rimescola il Faro dell'Immortalità nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0007</id>
+    <name>Portatore dell'Alba Bianca</name>
+    <text>Puoi pagare {W}{U}{B}{R}{G} invece di pagare il costo di mana del Portatore dell'Alba Bianca.
+Travolgere
+All'inizio del tuo mantenimento, puoi rimettere una carta artefatto bersaglio dal tuo cimitero sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0008</id>
+    <name>Circolo di Protezione: Artefatti</name>
+    <text>{2}: La prossima volta che una fonte artefatto a tua scelta sa per infliggerti danno in questo turno, previeni quel danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0009</id>
+    <name>Scudiero Leonid</name>
+    <text>Quando lo Scudiero Leonid entra nel campo di battaglia, riprendi in mano dal tuo cimitero una carta artefatto bersaglio con costo di mana convertito pari o inferiore a 1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0010</id>
+    <name>Anacoreta Lossodonte</name>
+    <text>{T}: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0011</id>
+    <name>Lossodonte Vigoroso</name>
+    <text>Cautela (Questa creatura attacca senza TAPpare.) 
+{W}: Il Lossodonte Vigoroso prende +0/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0012</id>
+    <name>Raksha, Cucciolo d'Oro</name>
+    <text>Cautela
+Fintanto che Raksha, Cucciolo d'Oro è equipaggiato, le creature Felino che tu controlli prendono +2/+2 e hanno doppio attacco.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0013</id>
+    <name>Rivalersi</name>
+    <text>Distruggi tutte le creature che ti hanno inflitto danno in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0014</id>
+    <name>Ruggito della Rivendicazione</name>
+    <text>Ogni giocatore rimette sul campo di battaglia tutte le carte artefatto dal proprio cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0015</id>
+    <name>Predatore Solcacielo</name>
+    <text>Volare, cautela (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere, e attacca senza TAPpare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0016</id>
+    <name>Esploratrice Solcacielo</name>
+    <text>Volare, doppio attacco (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere, e infligge sia danno da combattimento da attacco improvviso che danno da combattimento regolare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0017</id>
+    <name>Resistere</name>
+    <text>La creatura bersaglio prende +1/+1 fino alla fine del turno.
+Profetizzare 2 (Per profetizzare 2, guarda le prime due carte del tuo grimorio, poi metti un qualsiasi numero di quelle carte in fondo al tuo grimorio e le rimanenti in cima ad esso in un qualsiasi ordine.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0018</id>
+    <name>Bozzolo di Stasi</name>
+    <text>Incanta artefatto
+Le abilità attivate dell'artefatto incantato non possono essere attivate.
+Se l'artefatto incantato è una creatura, non può attaccare o bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0019</id>
+    <name>Dono del Plasmametallo</name>
+    <text>Passa in rassegna il tuo grimorio per una carta Equipaggiamento, rivela quella carta, e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0020</id>
+    <name>Sgominare</name>
+    <text>Distruggi la creatura bloccante bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0021</id>
+    <name>Acquisire</name>
+    <text>Passa in rassegna il grimorio di un avversario bersaglio per una carta artefatto e mettila sul campo di battaglia sotto il tuo controllo. Poi quel giocatore rimescola il suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0022</id>
+    <name>Aerocustode in Avanscoperta</name>
+    <text>Volare
+{U}: L'Aerocustode in Avanscoperta guadagna velo fino alla fine del turno. (Non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0023</id>
+    <name>Intuito dell'Artefice</name>
+    <text>{U}, Scarta dalla tua mano una carta artefatto: Passa in rassegna il tuo grimorio per una carta artefatto con costo di mana convertito pari o inferiore a 1, rivela quella carta e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0024</id>
+    <name>Faro del Domani</name>
+    <text>Il giocatore bersaglio gioca un altro turno dopo questo. Rimescola il Faro del Domani nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0025</id>
+    <name>Infusione di Lampidotteri</name>
+    <text>Affinità con gli artefatti.
+STAPpa tutti gli artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0026</id>
+    <name>Portatore dell'Alba Blu</name>
+    <text>Puoi pagare {W}{U}{B}{R}{G} invece di pagare il costo di mana del Portatore dell'Alba Blu.
+Travolgere
+All'inizio del tuo mantenimento, puoi pescare due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0027</id>
+    <name>Acconsentire</name>
+    <text>Neutralizza la magia bersaglio a meno che il suo controllore paghi X.
+Profetizzare 2</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0028</id>
+    <name>Aura della Distruzione</name>
+    <text>Incanta artefatto
+L'artefatto incantato ha "All'inizio del tuo mantenimento, sacrifica questo artefatto a meno che tu paghi il suo costo di mana."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0029</id>
+    <name>Prime Gelate</name>
+    <text>TAPpa fino a tre terre bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0030</id>
+    <name>Occhi dell'Osservatore</name>
+    <text>Ogniqualvolta lanci una magia istantaneo o stregoneria, puoi pagare {1}. Se lo fai, profetizzare 2</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0031</id>
+    <name>Avviluppare nell'Etere</name>
+    <text>Neutralizza la magia bersaglio. Se quella magia viene neutralizzata in questo modo, il suo controllore può mettere una carta creatura dalla sua mano nel campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0032</id>
+    <name>Spazzatori Aerocustodi</name>
+    <text>Volare
+Quando gli Spazzatori Aerocustodi entrano nel campo di battaglia, puoi far riprendere in mano ai proprietari fino a due creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0033</id>
+    <name>Nel Nulla</name>
+    <text>Affinità con gli artefatti
+Il proprietario riprende in mano l'artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0034</id>
+    <name>Elementale di Plasma</name>
+    <text>L'Elementale di Plasma non può essere bloccato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0035</id>
+    <name>Cumulipo</name>
+    <text>Affinità con gli artefatti.
+Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0036</id>
+    <name>Visioni del Siero</name>
+    <text>Pesca una carta.
+Profetizzare 2</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0037</id>
+    <name>Variazione Spettrale</name>
+    <text>Scegli una - Cambia il testo di una magia o di un permanente bersaglio sostituendo tutte le ricorrenze di un tipo di terra base con un altro; oppure cambia il testo di una magia o di un permanente bersaglio sostituendo tutte le ricorrenze di una parola colore con un altra. (Questi effetti non hanno termine.)
+Intrecciare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0038</id>
+    <name>Messaggero Psichico</name>
+    <text>{T}: Pesca una carta, poi scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0039</id>
+    <name>Mago dei Gingilli</name>
+    <text>Quando il Mago dei Gingilli entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta artefatto con costo di mana convertito pari o inferiore a 1, rivelare quella carta, e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0040</id>
+    <name>Genio Vedalken</name>
+    <text>{U}, {T}: Il proprietario riprende in mano un permanente bersaglio che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0041</id>
+    <name>Faro dell'Inquietudine</name>
+    <text>Metti sul campo di battaglia sotto il tuo controllo una carta creatura o artefatto bersaglio da un cimitero. Rimescola il Faro dell'Inquietudine nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0042</id>
+    <name>Strisciante Cieco</name>
+    <text>Ogniqualvolta un giocatore lancia una magia, lo Strisciante Cieco prende -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0043</id>
+    <name>Portatore dell'Alba Nera</name>
+    <text>Puoi pagare {W}{U}{B}{R}{G} invece di pagare il costo di mana del Portatore dell'Alba Nera.
+Travolgere
+All'inizio del tuo mantenimento, puoi pagare 2 punti vita. Se lo fai, passa in rassegna il tuo grimorio per una carta qualsiasi, poi rimescola il tuo grimorio e metti quella carta in cima ad esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0044</id>
+    <name>Demonietto Ghignante</name>
+    <text>Volare
+{T}: Il giocatore bersaglio perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0045</id>
+    <name>Elementale Profanatore</name>
+    <text>Paura
+Ogniqualvolta un giocatore lancia una magia, tu sacrifichi una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0046</id>
+    <name>Divorare nell'Ombra</name>
+    <text>Distruggi la creatura bersaglio. Non può essere rigenerata. Tu perdi un ammontare di punti vita pari alla costituzione di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0047</id>
+    <name>Coccodrillo delle Scorie</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0048</id>
+    <name>Draghetto d'Ebano</name>
+    <text>Volare
+Ogniqualvolta un giocatore lancia una magia, tu perdi 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0049</id>
+    <name>Sussurri Infiniti</name>
+    <text>Ogni creatura ha "Quando questa creatura viene messa in un cimitero dal campo di battaglia, scegli un avversario bersaglio. Quel giocatore rimette sul campo di battaglia sotto il suo controllo questa carta da quel cimitero all'inizio della prossima sottofase finale."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0050</id>
+    <name>Riempire di Terrore</name>
+    <text>Il giocatore bersaglio scarta due carte.
+Profetizzare 2</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0051</id>
+    <name>Innestacarne</name>
+    <text>Scarta una carta artefatto: L'Innestacarne prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0052</id>
+    <name>Perdere la Speranza</name>
+    <text>La creatura bersaglio prende -1/-1 fino alla fine del turno.
+Profetizzare 2</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0053</id>
+    <name>Vampiro di Mephidross</name>
+    <text>Volare
+Ogni creatura che controlli è un Vampiro in aggiunta ai suoi altri tipi di creatura e ha "Ogniqualvolta questa creatura infligge danno ad una creatura, metti un segnalino +1/+1 su questa creatura."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0054</id>
+    <name>Maneggione Moriok</name>
+    <text>Ogniqualvolta un artefatto viene messo in un cimitero dal campo di battaglia, puoi mettere un segnalino +1/+1 sul Maneggione Moriok.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0055</id>
+    <name>Sussurri della Notte</name>
+    <text>Tu peschi due carte e perdi 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0056</id>
+    <name>Nim Grottesco</name>
+    <text>Il Nim Grottesco prende +1/+0 per ogni artefatto che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0057</id>
+    <name>Tuffarsi nelle Tenebre</name>
+    <text>Scegli una - Sacrifica un qualsiasi numero di creature, poi guadagni 3 punti vita per ogni creatura sacrificata; oppure paga X punti vita, poi guarda le prime X carte del tuo grimorio, aggiungi alla tua mano una di quelle carte, e esilia le rimanenti.
+Intrecciare {B}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0058</id>
+    <name>Ratti Spietati</name>
+    <text>I Ratti Spietati prendono +1/+1 per ogni altra creatura sul campo di battaglia di nome Ratti Spietati.
+Un mazzo può avere un qualsiasi numero di carte di nome Ratti Spietati.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0059</id>
+    <name>Sogni Infranti</name>
+    <text>Un avversario bersaglio rivela la sua mano. Tu scegli da essa una carta artefatto. Quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0060</id>
+    <name>Tradimento Perverso</name>
+    <text>Come costo addizionale per lanciare il Tradimento Perverso, sacrifica un qualsiasi numero di creature.
+La creatura bersaglio prende +2/+2 fino alla fine del turno per ogni creatura sacrificata in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0061</id>
+    <name>Faro della Distruzione</name>
+    <text>Il Faro della Distruzione infligge 5 danni a una creatura o a un giocatore bersaglio. Rimescola il Faro della Distruzione nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0062</id>
+    <name>Portatore dell'Alba Rossa</name>
+    <text>Puoi pagare {W}{U}{B}{R}{G} invece di pagare il costo di mana del Portatore dell'Alba Rossa.
+Travolgere
+All'inizio del tuo mantenimento, puoi STAPpare una creatura bersaglio e guadagnarne il controllo fino alla fine del turno. Quella creatura guadagna rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0063</id>
+    <name>Larva Cosmica</name>
+    <text>Travolgere
+All'inizio del tuo mantenimento, sacrifica la Larva Cosmica a meno che tu sacrifichi due terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0064</id>
+    <name>Scarica Retroattiva</name>
+    <text>La Scarica Retroattiva infligge al giocatore bersaglio un danno pari al numero di artefatti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0065</id>
+    <name>Cucciolo della Fornace</name>
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
+{R}: Il Cucciolo della Fornace prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0066</id>
+    <name>Lottatore Goblin</name>
+    <text>Attacca improvviso
+Il Lottatore Goblin non può essere equipaggiato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0067</id>
+    <name>Sgretolare</name>
+    <text>Distruggi ogni artefatto non-terra con costo di mana convertito pari o inferiore a 4.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0068</id>
+    <name>Tempesta Ionica</name>
+    <text>{1}{R}, Rimuovi un segnalino +1/+1 o un segnalino carica da un permanente che controlli: La Tempesta Ionica infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0069</id>
+    <name>Ferrospinato Infernale</name>
+    <text>Rapidità
+Il Ferrospinato Infernale non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0070</id>
+    <name>Ingegneri di Krark-Clan</name>
+    <text>{R}, Sacrifica due artefatti: Distruggi un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0071</id>
+    <name>Ogre di Krark-Clan</name>
+    <text>{R}, Sacrifica un artefatto: Una creatura bersaglio non può bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0072</id>
+    <name>Gigante di Magma</name>
+    <text>Quando il Gigante di Magma entra nel campo di battaglia, infligge 2 danni ad ogni creatura e ad ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0073</id>
+    <name>Esplosione di Magma</name>
+    <text>L'Esplosione di Magma infligge 2 danni a una creatura o a un giocatore bersaglio.
+Profetizzare 2</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0074</id>
+    <name>Furto Magnetico</name>
+    <text>Assegna un Equipaggiamento bersaglio a una creatura bersaglio. (Il controllo dell'Equipaggiamento non cambia)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0075</id>
+    <name>Geyser di Mana</name>
+    <text>Aggiungi {R} alla tua riserva di mana per ogni terra TAPpata controllata dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0076</id>
+    <name>Pioggia di Ruggine</name>
+    <text>Scegli una - Distruggi un artefatto bersaglio; oppure distruggi una terra bersaglio.
+Intrecciare {3}{R}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0077</id>
+    <name>Rovescio di Fortuna</name>
+    <text>L'avversario bersaglio rivela la sua mano. Puoi copiare una carta istantaneo o stregoneria dalla sua mano. Se lo fai, puoi lanciare la copia senza pagare il suo costo di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0078</id>
+    <name>Furia Urlante</name>
+    <text>La creatura bersaglio prende +5/+0 e guadagna rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0079</id>
+    <name>Elementale Scintillante</name>
+    <text>Travolgere, rapidità
+All'inizio della sottofase finale, sacrifica l'Elementale Scintillante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0080</id>
+    <name>Fattucchiera Vulshok</name>
+    <text>Rapidità
+{T}: La Fattucchiera Vulshok infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0081</id>
+    <name>Alba di Tutti i Soli</name>
+    <text>Per ogni colore, riprendi in mano dal tuo cimitero fino ad una carta bersaglio di quel colore. Esilia l'Alba di Tutti i Soli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0082</id>
+    <name>Faro della Creazione</name>
+    <text>Metti sul campo di battaglia una pedina creatura Insetto 1/1 verde per ogni Foresta che controlli. Rimescola il Faro della Creazione nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0083</id>
+    <name>Portatore dell'Alba Verde</name>
+    <text>Puoi pagare {W}{U}{B}{R}{G} invece di pagare il costo di mana del Portatore dell'Alba Verde.
+Travolgere
+All'inizio del tuo mantenimento, puoi mettere sul campo di battaglia una pedina creatura Bestia 3/3 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0084</id>
+    <name>Incanalare i Soli</name>
+    <text>Aggiungi {W}{U}{B}{R}{G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0085</id>
+    <name>Riflesso dell'Alba</name>
+    <text>Incanta terra
+Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo controllore aggiunge alla sua riserva due mana in una qualsiasi combinazione di colori (in aggiunta al mana che la terra produce).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0086</id>
+    <name>Testimone Eterna</name>
+    <text>Quando la Testimone Eterna entra nel campo di battaglia, puoi riprendere in mano una carta bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0087</id>
+    <name>Apripista Fangren</name>
+    <text>Ogniqualvolta l'Apripista Fangren attacca, le creature attaccanti guadagnano travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0088</id>
+    <name>Carica Feroce</name>
+    <text>La creatura bersaglio prende +4/+4 fino alla fine del turno.
+Profetizzare 2</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0089</id>
+    <name>Adepta Giuntatrice</name>
+    <text>Le terre che controlli hanno "{T}: Aggiungi alla tua riserva un mana di qualsiasi colore."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0090</id>
+    <name>Vandali Ouphe</name>
+    <text>{G}, Sacrifica i Vandali Ouphe: Neutralizza l'abilità attivata bersaglio di una fonte artefatto e distruggi quell'artefatto se è sul campo di battaglia. (Le abilità di mana non posso essere bersagliate.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0091</id>
+    <name>Rito di Transizione</name>
+    <text>Ogniqualvolta viene inflitto danno ad una creatura che controlli, metti un segnalino +1/+1 su di essa. (Il danno viene inflitto prima che sia messo il segnalino.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0092</id>
+    <name>Brusco Risveglio</name>
+    <text>Scegli una - STAPpa tutte le terre che controlli; oppure fino alla fine del turno le terre che controlli diventano creature 2/2 che sono ancora terre.
+Intrecciare {2}{G}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0093</id>
+    <name>Esploratore Silvaco</name>
+    <text>{T}: Aggiungi alla tua riserva di mana un mana di un qualsiasi colore che una terra controllata da un tuo avversario potrebbe produrre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0094</id>
+    <name>Aspide del Groviglio</name>
+    <text>Ogniqualvolta l'Aspide del Groviglio blocca o viene bloccata da una creatura, distruggi quella creatura alla fine del combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0095</id>
+    <name>Giustizia di Tel-Jilad</name>
+    <text>Distruggi un artefatto bersaglio.
+Profetizzare 2</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0096</id>
+    <name>Soffiavita di Tel-Jilad</name>
+    <text>{G}, {T}, Sacrifica una Foresta: Rigenera una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0097</id>
+    <name>Elementale del Tornado</name>
+    <text>Quando l'Elementale del tornado entra nel campo di battaglia, infligge 6 danni ad ogni creatura con volare.
+Puoi decidere che l'Elementale del Tornado assegni il suo danno da combattimento come se non fosse stato bloccato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0098</id>
+    <name>Tyrannax</name>
+    <text>{1}{G}: Il Tyrranax prende -1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0099</id>
+    <name>Latori dei Miti Viridiani</name>
+    <text>{3}{G}, {T}: La creatura bersaglio prende +X/+X fino alla fine del turno, dove X è il numero degli artefatti controllati dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0100</id>
+    <name>Esploratore Viridiano</name>
+    <text>{2}{G}, Sacrifica l'Esploratore Viridiano: L'Esploratore Viridiano infligge 2 danni a una creatura bersaglio con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0101</id>
+    <name>Predatore Anodet</name>
+    <text>Quando il Predatore Anodet viene messo in un cimitero dal  campo di battaglia, puoi guadagnare 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0102</id>
+    <name>Aracnoide</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0103</id>
+    <name>Girovago Elettrofuso</name>
+    <text>Modulare - Solarizzazione (Questa carta entra nel campo di battaglia con un segnalino +1/+1 su di essa per ogni colore di mana usato per pagarne il costo. Quando viene messa in un cimitero, puoi mettere i suoi segnalini +1/+1 su una creatura artefatto bersaglio)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0104</id>
+    <name>Totem della Cupidigia</name>
+    <text>{5}: Scambia il controllo del Totem della Cupidigia e di un permanente non terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0105</id>
+    <name>Bastone del Coraggio</name>
+    <text>Lampo
+Solarizzazione (Questa carta entra nel campo di battaglia con un segnalino +1/+1 su di essa per ogni colore di mana usato per pagarne il costo.)
+Rimuovi un segnalino carica dal Bastone del Coraggio: Una creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0106</id>
+    <name>Golem Danneggiato</name>
+    <text>Il Golem Danneggiato non STAPpa durante il tuo STAP.
+Ogniqualvolta un artefatto entra nel campo di battaglia, puoi STAPpare il Golem Danneggiato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0107</id>
+    <name>Postazione Esplosiva</name>
+    <text>{T}, Sacrifica una creatura: La Postazione Esplosiva infligge 1 danno a una creatura o a un giocatore bersaglio.
+Ogniqualvolta una creatura entra nel campo di battaglia, puoi STAPpare la Postazione Esplosiva.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0108</id>
+    <name>Spirali Chimeriche</name>
+    <text>{X}{1}: Le Spirali Chimeriche diventano una creatura artefatto Costrutto X/X. Sacrificale all'inizio della sottofase di fine turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0109</id>
+    <name>Calice di Pureacque</name>
+    <text>Solarizzazione (Entra nel campo di battaglia con un segnalino carica per ogni colore di mana usato per lanciarlo.)
+All'inizio del tuo mantenimento, puoi guadagnare 1 punto vita per ogni segnalino carica presente sul Calice di Pureacque.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0110</id>
+    <name>Orologio dei Presagi</name>
+    <text>TAPpa due artefatti STAPpati che controlli: STAPpa un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0111</id>
+    <name>Golem Composito</name>
+    <text>Sacrifica il Golem Composito: Aggiungi {W}{U}{B}{R}{G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0112</id>
+    <name>Ninnolo dell'Evocatore</name>
+    <text>{T}, Sacrifica il Ninnolo dell'Evocatore: Metti in fondo al tuo grimorio fino ad una carta bersaglio dal tuo cimitero. Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0113</id>
+    <name>Placca Cefalica</name>
+    <text>La creatura equipaggiata prende +1/+0 per ogni artefatto che controlli.
+{B}{B}: Assegna la Placca Cefalica a una creatura bersaglio che controlli.
+Equipaggiare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0114</id>
+    <name>Crogiolo di Mondi</name>
+    <text>Puoi giocare le carte terra dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0115</id>
+    <name>Porta sul Nulla</name>
+    <text>La Porta sul Nulla entra nel campo di battaglia TAPpata.
+{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifica la Porta sul Nulla: Il giocatore bersaglio perde la partita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0116</id>
+    <name>Cubo Moltiplicatore</name>
+    <text>{3}, {T}: Raddoppia l'ammontare di ogni tipo di mana nella tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0117</id>
+    <name>Camera dell'Energia</name>
+    <text>All'inizio del tuo mantenimento, scegli una - Metti un segnalino +1/+1 su una creatura artefatto bersaglio; oppure metti un segnalino carica su un artefatto non creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0118</id>
+    <name>Esplosivi Ingegnerizzati</name>
+    <text>Solarizzazione (Entra nel campo di battaglia con un segnalino carica su di esso per ogni colore di mana usato per pagare il suo costo.)
+{2}, Sacrifica gli Esplosivi Ingegnerizzati: Distruggi ogni permanente non terra con costo di mana convertito pari al numero di segnalini carica presenti sugli Esplosivi Ingegnerizzati.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0119</id>
+    <name>Scimitarra Animata</name>
+    <text>{3}: La Scimitarra Animata diventa una creatura artefatto Spirito 1/5 con volare fino alla fine del turno. (Un Equipaggiamento che è una creatura non può equipaggiare una creatura.)
+La creatura equipaggiata prende +1/+5.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0120</id>
+    <name>Fulcro degli Eoni</name>
+    <text>I giocatori saltano il loro mantenimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0121</id>
+    <name>Oracolo Inciso</name>
+    <text>Solarizzazione (Entra nel campo di battaglia con un segnalino +1/+1 per ogni colore di mana usato per pagare il suo costo.)
+{1}, Rimuovi quattro segnalini +1/+1 dall'Oracolo Inciso: Il giocatore bersaglio pesca tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0122</id>
+    <name>Ferropede</name>
+    <text>Il Ferropede non può essere bloccato.
+Ogniqualvolta il Ferropede infligge danno da combattimento a un giocatore, puoi rimuovere un segnalino da un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0123</id>
+    <name>Pugno dei Soli</name>
+    <text>Puoi pagare {W}{U}{B}{R}{G} invece di pagare il costo di mana per le magie che lanci.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0124</id>
+    <name>Esposizione di Gemme</name>
+    <text>{2}: Metti un segnalino carica sulla Esposizione di Gemme.
+Rimuovi un segnalino carica dalla Esposizione di Gemme: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0125</id>
+    <name>Cannone Goblin</name>
+    <text>{2}: Il Cannone Goblin infligge 1 danno a una creatura o a un giocatore bersaglio. Sacrifica il Cannone Goblin.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0126</id>
+    <name>Arsenale Inciso</name>
+    <text>La creatura equipaggiata prende +3/+2.
+Ogniqualvolta l'Arsenale Inciso viene tolto da un permanente, sacrifica quel permanente.
+Equipaggiare {0}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0127</id>
+    <name>Postazione di Frantumazione</name>
+    <text>{T}, Sacrifica un artefatto: Il giocatore bersaglio mette nel proprio cimitero le prime tre carte del suo grimorio.
+Ogniqualvolta un artefatto entra nel campo di battaglia, puoi STAPpare la Postazione di Frantumazione.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0128</id>
+    <name>Idolo Guardiano</name>
+    <text>L'Idolo Guardiano entra nel campo di battaglia TAPpato.
+{T}: Aggiungi {1} alla tua riserva di mana.
+{2}: L'Idolo Guardiano diventa una creatura artefatto Golem 2/2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0129</id>
+    <name>Copricapo del Curatore</name>
+    <text>La creatura equipaggiata prende +0/+2 e ha "{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno."
+{W}{W}: Assegna il Copricapo del Curatore a una creatura bersaglio che controlli.
+Equipaggiare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0130</id>
+    <name>Eliofiala</name>
+    <text>Solarizzazione (Entra nel campo di battaglia con un segnalino carica su di esso per ogni colore di mana usato per pagare il suo costo.); {2}, Sacrifica l'Eliofiala: L'Eliofiala infligge a una creatura o a un giocatore bersaglio un danno pari al numero di segnalini carica presenti sull'Eliofiala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0131</id>
+    <name>Elmo di Kaldra</name>
+    <text>La creatura equipaggiata ha attacco improvviso, travolgere, e rapidità.
+{1}: Se controlli gli Equipaggiamenti di nome Elmo di Kaldra, Spada di Kaldra, e Scudo di Kaldra, metti sul campo di battaglia una pedina creatura leggendaria Avatar 4/4 incolore di nome Kaldra ed assegna ad essa quegli equipaggiamenti.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0132</id>
+    <name>Elmo Cornuto</name>
+    <text>La creatura equipaggiata prende +1/+1 e ha travolgere.
+{G}{G}: Assegna l'Elmo Cornuto alla creatura bersaglio che controlli.
+Equipaggiare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0133</id>
+    <name>Frecce Infuse</name>
+    <text>Solarizzazione (Entra nel campo di battaglia con un segnalino carica per ogni colore di mana usato per pagare il suo costo.)
+{T}, Rimuovi X segnalini carica dalle Frecce Infuse: La creatura bersaglio prende -X/-X fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0134</id>
+    <name>Ferriera di Krark-Clan</name>
+    <text>Sacrifica un artefatto: Aggiungi {2} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0135</id>
+    <name>Lanterna della Perspicacia</name>
+    <text>Ogni giocatore gioca con la prima carta del proprio grimorio scoperta.
+{T}, Sacrifica la Lanterna della Perspicacia: Il giocatore bersaglio rimescola il proprio grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0136</id>
+    <name>Vendicatore Lunare</name>
+    <text>Solarizzazione (Questa carta entra nel campo di battaglia con un segnalino +1/+1 su di essa per ogni colore di mana usato per pagarne il costo.)
+Rimuovi un segnalino +1/+1 dal Vendicatore Lunare: Il Vendicatore Lunare guadagna a tua scelta volare, oppure attacco improvviso, oppure rapidità, fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0137</id>
+    <name>Golem di Micosinti</name>
+    <text>Affinità con gli artefatti.
+Le magie creatura artefatto che lanci hanno affinità con gli artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0138</id>
+    <name>Quadripode Myr</name>
+    <text>{3}: Scambia la forza e la costituzione del Quadripode Myr fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0139</id>
+    <name>Servitore Myr</name>
+    <text>All'inizio del tuo mantenimento, se il Servitore Myr è nel campo di battaglia, ogni giocatore rimette sul campo di battaglia tutte le carte chiamate Servitore Myr dal proprio cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0140</id>
+    <name>Furtoveste Neurok</name>
+    <text>La creatura equipaggiata ha velo. (Non può essere bersaglio di magie o abilità.)
+{U}{U}: Assegna la Furtoveste Neurok a una creatura bersaglio che controlli.
+Equipaggiare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0141</id>
+    <name>Sostegni Opalini</name>
+    <text>Solarizzazione (Entra nel campo di battaglia con un segnalino carica per ogni colore di mana usato per pagare il suo costo.)
+La creatura equipaggiata prende +X/+X, dove X è pari al numero di segnalini carica presenti sui Sostegni Opalini.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0142</id>
+    <name>Mantello del Paradiso</name>
+    <text>La creatura equipaggiata ha "{T}: Aggiungi un mana di qualsiasi colore alla tua riserva di mana."
+Equipaggiare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0143</id>
+    <name>Prisma Pentavalente</name>
+    <text>Solarizzazione
+Rimuovi un segnalino carica dal Prisma Pentavalente: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0144</id>
+    <name>Portale Posseduto</name>
+    <text>Se un giocatore sta per pescare una carta, quel giocatore invece salta quella pescata.
+All'inizio della sottofase finale, ogni giocatore sacrifica un permanente a meno che scarti una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0145</id>
+    <name>Riparo di Erba-Lama</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Il Riparo di Erba-Lama blocca in ogni turno se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0146</id>
+    <name>Masticora Chioma-Lama</name>
+    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)
+All'inizio del tuo mantenimento, sacrifica la Masticora Chioma-Lama a meno che tu scarti una carta.
+All'inizio della tua acquisizione, puoi fare infliggere dalla Masticora Chioma-Lama 3 danni a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0147</id>
+    <name>Barriera Anti-Reliquie</name>
+    <text>{T}: TAPpa un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0148</id>
+    <name>Postazione di Recupero</name>
+    <text>{T}: Rimetti sul campo di battaglia dal tuo cimitero una carta artefatto non creatura bersaglio con costo di mana convertito pari o inferiore a 1.
+Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, puoi STAPpare la Postazione di Recupero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0149</id>
+    <name>Mietitore dai Denti a Sega</name>
+    <text>Solarizzazione (Questa carta entra nel campo di battaglia con un segnalino +1/+1 per ogni colore di mana speso per lanciarlo.)
+Rimuovi due segnalini +1/+1 dal Mietitore dai Denti a Sega: Il Mietitore dai Denti a Sega prende +4/+4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0150</id>
+    <name>Giudice Silente</name>
+    <text>In ogni combattimento non può attaccare più di una creatura.
+In ogni combattimento non può bloccare più di una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0151</id>
+    <name>Gabbia Cerebrale</name>
+    <text>All'inizio del mantenimento di ogni avversario, la Gabbia Cerebrale infligge a quel giocatore 2 danni a meno che egli abbia esattamente tre o quattro carte in mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0152</id>
+    <name>Manta Fendicielo</name>
+    <text>Solarizzazione (Questa carta entra nel campo di battaglia con un segnalino +1/+1 per ogni colore di mana usato per pagarne il costo.)
+Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0153</id>
+    <name>Solarion</name>
+    <text>Solarizzazione (Questa carta entra nel campo di battaglia con un segnalino +1/+1 per ogni colore di mana usato per pagarne il costo.)
+{T}: Raddoppia il numero di segnalini +1/+1 presenti sul Solarion.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0154</id>
+    <name>Collare da Addestramento</name>
+    <text>La creatura equipaggiata ha attacco improvviso.
+{R}{R}: Assegna il Collare da Addestramento a una creatura bersaglio che controlli.
+Equipaggiare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0155</id>
+    <name>Parassita Spinale</name>
+    <text>Solarizzazione (Questa carta entra nel campo di battaglia con un segnalino +1/+1 per ogni colore di mana usato per pagarne il costo.)
+Rimuovi due segnalini +1/+1 dal Parassita Spinale: Rimuovi un segnalino da un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0156</id>
+    <name>Bastone della Dominazione</name>
+    <text>{1}: STAPpa il Bastone della Dominazione.
+{2}, {T}: Guadagni 1 punto vita.
+{3}, {T}: STAPpa una creatura bersaglio.
+{4}, {T}: TAPpa una creatura bersaglio.
+{5}, {T}: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0157</id>
+    <name>Uovo dell'Evocatore</name>
+    <text>Imprimere - Quando l'Uovo dell'Evocatore entra nel campo di battaglia, puoi esiliare a faccia in giù una carta dalla tua mano.
+Quando l'Uovo dell'Evocatore viene messo in un cimitero dal campo di battaglia, gira a faccia in su la carta esiliata. Se è una carta creatura, mettila sul campo di battaglia sotto il tuo controllo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0158</id>
+    <name>Postazione di Evocazione</name>
+    <text>{T}: Metti sul campo di battaglia una pedina creatura Pungitore 2/2 incolore.
+Ogniqualvolta un artefatto viene messo in un cimitero dal campo di battaglia, puoi STAPpare la Postazione di Evocazione.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0159</id>
+    <name>Schiacciasoli</name>
+    <text>Solarizzazione (Questa carta entra nel campo di battaglia con un segnalino +1/+1 per ogni colore di mana usato per pagarne il costo.)
+{4}, {T}, Rimuovi un segnalino +1/+1 dallo Schiacciasoli: Distruggi una creatura bersaglio.
+{2}, Rimuovi un segnalino +1/+1 dalla Schiacciasoli: Il proprietario riprende in mano lo Schiacciasoli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0160</id>
+    <name>Myr Eliotinto</name>
+    <text>Solarizzazione (Questa carta entra nel campo di battaglia con un segnalino +1/+1 per ogni colore di mana usato per pagarne il costo.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0161</id>
+    <name>Centurione del Sinodo</name>
+    <text>Quando non controlli altri artefatti, sacrifica il Centurione del Sinodo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0162</id>
+    <name>Navigatore Termico</name>
+    <text>Sacrifica un artefatto: Il Navigatore Termico guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0163</id>
+    <name>Planetario Vedalken</name>
+    <text>Puoi lanciare le carte non terra come se avessero lampo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0164</id>
+    <name>Catene Vedalken</name>
+    <text>Puoi decidere di non STAPpare le Catene Vedalken durante il tuo STAP.
+{2}, {T}: Guadagni il controllo di una creatura bersaglio con forza minore o uguale al numero di Isole che controlli fintanto che le Catene Vedalken restano TAPpate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0165</id>
+    <name>Ninnolo del Viaggiatore</name>
+    <text>{2}, {T}, Sacrifica il Ninnolo del Viaggiatore: Passa in rassegna il tuo grimorio per una carta terra base e mettila sul campo di battaglia TAPpata. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

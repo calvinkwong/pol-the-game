@@ -1,0 +1,490 @@
+<cards name="Duel Decks: Garruk vs. Liliana">
+  <item>
+    <id>GVL0001</id>
+    <name>Garruk Wildspeaker</name>
+    <text>+1: Untap two target lands.
+-1: Put a 3/3 green Beast creature token onto the battlefield.
+-4: Creatures you control get +3/+3 and gain trample until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0002</id>
+    <name>Basking Rootwalla</name>
+    <text>{1}{G}: Basking Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.
+Madness {0} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0003</id>
+    <name>Beast</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0004</id>
+    <name>Beast</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0005</id>
+    <name>Albino Troll</name>
+    <text>Echo {1}{G} (At the beginning of your upkeep, if this came under your control since the beginning of your last upkeep, sacrifice it unless you pay its echo cost.)
+{1}{G}: Regenerate Albino Troll.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0006</id>
+    <name>Elephant</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0007</id>
+    <name>Vine Trellis</name>
+    <text>Defender (This creature can't attack.)
+{T}: Add {G} to your mana pool.</text>
+    <flavorText>Nature twists knots stronger than any rope.</flavorText>
+  </item>
+  <item>
+    <id>GVL0008</id>
+    <name>Wild Mongrel</name>
+    <text>Discard a card: Wild Mongrel gets +1/+1 and becomes the color of your choice until end of turn.</text>
+    <flavorText>It teaches you to play dead.</flavorText>
+  </item>
+  <item>
+    <id>GVL0009</id>
+    <name>Wirewood Savage</name>
+    <text>Whenever a Beast enters the battlefield, you may draw a card.</text>
+    <flavorText>"She is truly Wirewood's child now."
+—Elvish refugee</flavorText>
+  </item>
+  <item>
+    <id>GVL0010</id>
+    <name>Blastoderm</name>
+    <text>Shroud (This permanent can't be the target of spells or abilities.)
+Fading 3 (This creature enters the battlefield with three fade counters on it. At the beginning of your upkeep, remove a fade counter from it. If you can't, sacrifice it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0011</id>
+    <name>Ravenous Baloth</name>
+    <text>Sacrifice a Beast: You gain 4 life.</text>
+    <flavorText>"All we know about the Krosan Forest we have learned from those few who made it out alive."
+—Elvish refugee</flavorText>
+  </item>
+  <item>
+    <id>GVL0012</id>
+    <name>Stampeding Wildebeests</name>
+    <text>Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+At the beginning of your upkeep, return a green creature you control to its owner's hand.</text>
+    <flavorText>The most violent and destructive storms in Femeref occur on cloudless days.</flavorText>
+  </item>
+  <item>
+    <id>GVL0013</id>
+    <name>Indrik Stomphowler</name>
+    <text>When Indrik Stomphowler enters the battlefield, destroy target artifact or enchantment.</text>
+    <flavorText>An indrik's howl has destructive power much subtler than that of its crushing foot.</flavorText>
+  </item>
+  <item>
+    <id>GVL0014</id>
+    <name>Krosan Tusker</name>
+    <text>Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0015</id>
+    <name>Plated Slagwurm</name>
+    <text>Plated Slagwurm can't be the target of spells or abilities your opponents control.</text>
+    <flavorText>Beneath the Tangle, the wurm tunnels stretch . . . wide as a stone's throw, long as forever, deep as you dare.</flavorText>
+  </item>
+  <item>
+    <id>GVL0016</id>
+    <name>Genju of the Cedars</name>
+    <text>Enchant Forest
+{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.
+When enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0017</id>
+    <name>Giant Growth</name>
+    <text>Target creature gets +3/+3 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0018</id>
+    <name>Rancor</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+0 and has trample.
+When Rancor is put into a graveyard from the battlefield, return Rancor to its owner's hand.</text>
+    <flavorText>Hatred outlives the hateful.</flavorText>
+  </item>
+  <item>
+    <id>GVL0019</id>
+    <name>Lignify</name>
+    <text>Enchant creature
+Enchanted creature is a 0/4 Treefolk with no abilities.</text>
+    <flavorText>Bulgo paused, puzzled. What was that rustling sound, and why did he feel so stiff? And how could his feet be so thirsty?</flavorText>
+  </item>
+  <item>
+    <id>GVL0020</id>
+    <name>Nature's Lore</name>
+    <text>Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.</text>
+    <flavorText>Nature's secrets can be read on every tree, every branch, every leaf.</flavorText>
+  </item>
+  <item>
+    <id>GVL0021</id>
+    <name>Elephant Guide</name>
+    <text>Enchant creature
+Enchanted creature gets +3/+3.
+When enchanted creature is put into a graveyard, put a 3/3 green Elephant creature token onto the battlefield.</text>
+    <flavorText>Nature's strength outlives the strong.</flavorText>
+  </item>
+  <item>
+    <id>GVL0022</id>
+    <name>Invigorate</name>
+    <text>If you control a Forest, you may have an opponent gain 3 life rather than pay Invigorate's mana cost.
+
+Target creature gets +4/+4 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0023</id>
+    <name>Serrated Arrows</name>
+    <text>Serrated Arrows enters the battlefield with three arrowhead counters on it.
+At the beginning of your upkeep, if there are no arrowhead counters on Serrated Arrows, sacrifice it.
+{T}, Remove an arrowhead counter from Serrated Arrows: Put a -1/-1 counter on target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0024</id>
+    <name>Harmonize</name>
+    <text>Draw three cards.</text>
+    <flavorText>"Words lie. People lie. The land tells the truth."</flavorText>
+  </item>
+  <item>
+    <id>GVL0025</id>
+    <name>Rude Awakening</name>
+    <text>Choose one — Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.
+Entwine {2}{G} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0026</id>
+    <name>Beast Attack</name>
+    <text>Put a 4/4 green Beast creature token onto the battlefield.
+Flashback {2}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0027</id>
+    <name>Overrun</name>
+    <text>Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)</text>
+    <flavorText>Nature doesn't walk.</flavorText>
+  </item>
+  <item>
+    <id>GVL0028</id>
+    <name>Windstorm</name>
+    <text>Windstorm deals X damage to each creature with flying.</text>
+    <flavorText>"We don't like interlopers and thieves cluttering our skies."
+—Dionus, elvish archdruid</flavorText>
+  </item>
+  <item>
+    <id>GVL0029</id>
+    <name>Slippery Karst</name>
+    <text>Slippery Karst enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0030</id>
+    <name>Treetop Village</name>
+    <text>Treetop Village enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0031</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0032</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0033</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0034</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0035</id>
+    <name>Liliana Vess</name>
+    <text>+1: Target player discards a card.
+-2: Search your library for a card, then shuffle your library and put that card on top of it.
+-8: Put all creature cards from all graveyards onto the battlefield under your control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0036</id>
+    <name>Deathgreeter</name>
+    <text>Whenever another creature is put into a graveyard from the battlefield, you may gain 1 life.</text>
+    <flavorText>"The bones of allies grant wisdom. The bones of enemies grant strength. The bones of dragons grant life eternal."</flavorText>
+  </item>
+  <item>
+    <id>GVL0037</id>
+    <name>Ghost-Lit Stalker</name>
+    <text>{4}{B}, {T}: Target player discards two cards. Activate this ability only any time you could cast a sorcery.
+Channel — {5}{B}{B}, Discard Ghost-Lit Stalker: Target player discards four cards. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0038</id>
+    <name>Vampire Bats</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0039</id>
+    <name>Drudge Skeletons</name>
+    <text>{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>"The dead make good soldiers. They can't disobey orders, never surrender, and don't stop fighting when a random body part falls off."
+—Nevinyrral, Necromancer's Handbook</flavorText>
+  </item>
+  <item>
+    <id>GVL0040</id>
+    <name>Ravenous Rats</name>
+    <text>When Ravenous Rats enters the battlefield, target opponent discards a card.</text>
+    <flavorText>Nothing is sacred to rats. Everything is simply another meal.</flavorText>
+  </item>
+  <item>
+    <id>GVL0041</id>
+    <name>Fleshbag Marauder</name>
+    <text>When Fleshbag Marauder enters the battlefield, each player sacrifices a creature.</text>
+    <flavorText>Grixis is a world where the only things found in abundance are death and decay. Corpses, whole or in part, are the standard currency among necromancers and demons.</flavorText>
+  </item>
+  <item>
+    <id>GVL0042</id>
+    <name>Phyrexian Rager</name>
+    <text>When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.</text>
+    <flavorText>It takes no prisoners, but it keeps the choicest bits for Phyrexia.</flavorText>
+  </item>
+  <item>
+    <id>GVL0043</id>
+    <name>Urborg Syphon-Mage</name>
+    <text>{2}{B}, {T}, Discard a card: Each other player loses 2 life. You gain life equal to the life lost this way.</text>
+    <flavorText>"I have become a gourmet of sorts. Each soul has its own distinctive flavor. The art is in inviting the right company to the feast."</flavorText>
+  </item>
+  <item>
+    <id>GVL0044</id>
+    <name>Wall of Bone</name>
+    <text>Defender (This creature can't attack.)
+{B}: Regenerate Wall of Bone. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>"Graveyards are sacrilege! A waste of perfectly good bones."
+—Keren-Dur, necromancer lord</flavorText>
+  </item>
+  <item>
+    <id>GVL0045</id>
+    <name>Faerie Macabre</name>
+    <text>Flying
+Discard Faerie Macabre: Exile up to two target cards from graveyards.</text>
+    <flavorText>The line between dream and death is gauzy and fragile. She leads those too near it from one side to the other.</flavorText>
+  </item>
+  <item>
+    <id>GVL0046</id>
+    <name>Howling Banshee</name>
+    <text>Flying
+When Howling Banshee enters the battlefield, each player loses 3 life.</text>
+    <flavorText>Villagers cloaked the town in magical silence, but their ears still bled.</flavorText>
+  </item>
+  <item>
+    <id>GVL0047</id>
+    <name>Keening Banshee</name>
+    <text>Flying
+When Keening Banshee enters the battlefield, target creature gets -2/-2 until end of turn.</text>
+    <flavorText>Her cold wail echoes in the alleys and under-eaves, finding the unfortunate and turning their blood to ice.</flavorText>
+  </item>
+  <item>
+    <id>GVL0048</id>
+    <name>Twisted Abomination</name>
+    <text>{B}: Regenerate Twisted Abomination.
+Swampcycling {2} ({2}, Discard this card: Search your library for a Swamp card, reveal it, and put it into your hand. Then shuffle your library.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0049</id>
+    <name>Skeletal Vampire</name>
+    <text>Flying
+When Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.
+{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.
+Sacrifice a Bat: Regenerate Skeletal Vampire.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0050</id>
+    <name>Genju of the Fens</name>
+    <text>Enchant Swamp
+{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with "{B}: This creature gets +1/+1 until end of turn." It's still a land.
+When enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0051</id>
+    <name>Bad Moon</name>
+    <text>Black creatures get +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0052</id>
+    <name>Sign in Blood</name>
+    <text>Target player draws two cards and loses 2 life.</text>
+    <flavorText>"You know I accept only one currency here, and yet you have sought me out. Why now do you hesitate?"
+—Xathrid demon</flavorText>
+  </item>
+  <item>
+    <id>GVL0053</id>
+    <name>Vicious Hunger</name>
+    <text>Vicious Hunger deals 2 damage to target creature and you gain 2 life.</text>
+    <flavorText>Only the most ravenous soul feeds on the health of the weak.</flavorText>
+  </item>
+  <item>
+    <id>GVL0054</id>
+    <name>Ichor Slick</name>
+    <text>Target creature gets -3/-3 until end of turn.
+Cycling {2} ({2}, Discard this card: Draw a card.)
+Madness {3}{B} (If you discard this card, you may cast it for its madness cost instead of putting it into your graveyard.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0055</id>
+    <name>Hideous End</name>
+    <text>Destroy target nonblack creature. Its controller loses 2 life.</text>
+    <flavorText>"A little dark magic won't stop me. The worse the curse, the better the prize."
+—Radavi, Joraga relic hunter, last words</flavorText>
+  </item>
+  <item>
+    <id>GVL0056</id>
+    <name>Snuff Out</name>
+    <text>If you control a Swamp, you may pay 4 life rather than pay Snuff Out's mana cost.
+
+Destroy target nonblack creature. It can't be regenerated.</text>
+    <flavorText>"The bigger they are, the faster they rot."</flavorText>
+  </item>
+  <item>
+    <id>GVL0057</id>
+    <name>Tendrils of Corruption</name>
+    <text>Tendrils of Corruption deals X damage to target creature and you gain X life, where X is the number of Swamps you control.</text>
+    <flavorText>Darkness doesn't always send its minions to do its dirty work.</flavorText>
+  </item>
+  <item>
+    <id>GVL0058</id>
+    <name>Mutilate</name>
+    <text>All creatures get -1/-1 until end of turn for each Swamp you control.</text>
+    <flavorText>Liliana developed a fondness for the moment when roaring becomes squealing.</flavorText>
+  </item>
+  <item>
+    <id>GVL0059</id>
+    <name>Rise from the Grave</name>
+    <text>Put target creature card from a graveyard onto the battlefield under your control. That creature is a black Zombie in addition to its other colors and types.</text>
+    <flavorText>"Death is no excuse for disobedience."
+—Liliana Vess</flavorText>
+  </item>
+  <item>
+    <id>GVL0060</id>
+    <name>Corrupt</name>
+    <text>Corrupt deals damage equal to the number of Swamps you control to target creature or player. You gain life equal to the damage dealt this way.</text>
+    <flavorText>There are things beneath the murk for whom the bog is a stew, a thin broth in need of meat.</flavorText>
+  </item>
+  <item>
+    <id>GVL0061</id>
+    <name>Enslave</name>
+    <text>Enchant creature
+You control enchanted creature.
+At the beginning of your upkeep, enchanted creature deals 1 damage to its owner.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0062</id>
+    <name>Polluted Mire</name>
+    <text>Polluted Mire enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0063</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0064</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0065</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GVL0066</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

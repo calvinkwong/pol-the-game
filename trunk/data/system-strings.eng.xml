@@ -1,0 +1,351 @@
+<?xml version="1.0" standalone="yes"?>
+<strings>
+  <PROGRAM>
+    <MSG_UPDATE_INTERNALERROR value="An unexpected error has occurred during update." />
+    <MSG_UPDATE_CANCELED value="The update has been canceled." />
+    <MSG_UPDATE_IOERROR value="A disk access error has occured during update." />
+    <MSG_EXCEPTION value="An unhandled error has occured. Please, send following data to the staff." />
+    <MSG_CONFIRM_UPDATE value="A new version is avaiable! Do you want to launch the update?" />
+  </PROGRAM>
+  <UPDATE_DIALOG>
+    <TITLE value="Program update" />
+    <STATUS_DOWNLOADING value="Download in progress..." />
+    <STATUS_DONE value="Download completed" />
+    <STATUS_CANCELED value="Download canceled" />
+    <PROGRESS value="Downloaded:" />
+    <CANCEL value="Cancel" />
+    <OK value="OK" />
+  </UPDATE_DIALOG>
+  <START_MENU>
+    <CURRENT_GAME value="Current game" />
+    <CURRENT_GAME_DESC value=" - No game selected - " />
+    <SOLITAIRE value="Start solitaire" />
+    <SOLITAIRE_DESC value="Start a solitaire game where you \n can try your deck." />
+    <HOST_GAME value="Create game" />
+    <HOST_GAME_DESC value="Create a game and wait for other \n players." />
+    <CONNECT_TO value="Join game" />
+    <CONNECT_TO_DESC value="Join to an existing game created by \n another player." />
+    <DECK_EDITOR value="Deck management" />
+    <DECK_EDITOR_DESC value="Manage your decks and browse \n cards archive." />
+    <CHAT value="Chat" />
+    <CHAT_DESC value="Open the chat window." />
+    <OPTIONS value="Options" />
+    <OPTIONS_DESC value="Change the options to customize \n game experience." />
+    <QUIT value="Quit" />
+    <QUIT_DESC value="Close the game." />
+  </START_MENU>
+  <START_GAME_MENU>
+    <TITLE value="Start game" />
+    <TITLE_DESC value="Start and host a game." />
+    <NEW_GAME value="New game" />
+    <NEW_GAME_DESC value="Start a new game. Optionally you can \n set a password to enable saving feature." />
+    <SAVED_GAME value="Saved game" />
+    <SAVED_GAME_DESC value="Load a saved game. You must enter the \n corresponding password." />
+    <QUIT value="Quit" />
+    <QUIT_DESC value="Return to main menu." />
+  </START_GAME_MENU>
+  <JOIN_GAME_MENU>
+    <TITLE value="Join game" />
+    <TITLE_DESC value="Join to an existing game." />
+    <NEW_GAME value="New game" />
+    <NEW_GAME_DESC value="Join to a new game. You can be asked \n to enter a password if saving is enabled." />
+    <SAVED_GAME value="Saved game" />
+    <SAVED_GAME_DESC value="Join to a saved game. You must enter the \n corresponding password." />
+    <QUIT value="Quit" />
+    <QUIT_DESC value="Return to main menu." />
+  </JOIN_GAME_MENU>
+  <CARD_LIST>
+    <NAME value="Name" />
+    <TYPE value="Type" />
+    <COST value="Cost" />
+    <CHARACTERISTICS value="Characteristics" />
+    <RARITY value="Rarity" />
+    <COLOR value="Color" />
+    <EDITION value="Edition" />
+    <TEXT value="Text" />
+    <FLAVORTEXT value="Flavor text" />
+    <ARTIST value="Artist" />
+  </CARD_LIST>
+  <OPTIONS_DIALOG>
+    <TITLE value="Options" />
+    <PLAYER value="Player" />
+    <NICKNAME value="Nickname" />
+    <PLAYER_PICTURE value="Avatar" />
+    <REMOVE_PICTURE value="Remove image" />
+    <CHANGE_PICTURE value="Choose image..." />
+    <MESSAGE value="Message" />
+    <CARD_PICTURES value="Card pictures" />
+    <CARD_PICTURES_PATH value="Card pictures folder" />
+    <SYSTEM value="System" />
+    <NET value="Network" />
+    <LANGUAGES value="Language" />
+    <LISTEN_PORT value="Listen port" />
+    <ALL_IMAGES value="All images" />
+    <CLIENT_LANGUAGE value="Client language" />
+    <GAME_LANGUAGE value="Game language" />
+    <ANIMATE_HAND value="Animate hand panel" />
+    <ENABLE_SET_MAPPING value="Enable set code mapping for card images" />
+    <KEEP_GAME_LOG value="Keep games log" />
+    <BEHAVIOR_CROP value="Cropped images" />
+    <BEHAVIOR_FULL value="Full images" />
+    <CANCEL value="Cancel" />
+    <OK value="Ok" />
+    <MSG_INVALID_AVATAR value="Avatar image is not valid or is not avaiable anymore." />
+    <MSG_INVALID_PLAYERNAME value="Player name is not valid." />
+    <MSG_INVALID_PORT value="Port number is not valid." />
+    <MSG_IMPORTING value="Import in progress..." />
+    <MSG_IMPORTING_ERROR value="An error occured during import." />
+    <MSG_IMPORTING_SUCCESS value="Import completed" />
+  </OPTIONS_DIALOG>
+  <SERVER_NEWGAME_DIALOG>
+    <TITLE value="Start new game" />
+    <CURRENT_DECK value="Deck:" />
+    <CHOOSE_DECK value="Choose a deck..." />
+    <PASSWORD value="Personal password of saving:" />
+    <OK value="OK" />
+    <CANCEL value="Cancel" />
+    <MSG_INVALIDDECK value="Invalid deck." />
+  </SERVER_NEWGAME_DIALOG>
+  <SERVER_SAVEDGAME_DIALOG>
+    <TITLE value="Start saved game" />
+    <DATE value="Date:" />
+    <PASSWORD value="Password:" />
+    <PLAYERS value="Players:" />
+    <OK value="OK" />
+    <CANCEL value="Cancel" />
+    <SAVE_LIST value="Saved games" />
+    <SAVE_LIST_DESC value="Choose a saved game from list" />
+    <SUMMARY value="Summary" />
+    <SUMMARY_DESC value="Details of selected saved games" />
+    <MSG_INVALIDSAVEDGAME value="Save not found." />
+    <MSG_PASSWORDREQUIRED value="Password required." />
+    <MSG_DELETE_CONFIRM value="Confirm deletion?" />
+  </SERVER_SAVEDGAME_DIALOG>
+  <CLIENT_INITIALIZATION_DIALOG>
+    <TITLE value="Join to a game" />
+    <CURRENT_DECK value="Deck:" />
+    <CHOOSE_DECK value="Choose a deck..." />
+    <PASSWORD value="Personal password of saving:" />
+    <SERVER_IP value="IP address" />
+    <SERVER_PORT value="Port" />
+    <OK value="OK" />
+    <CANCEL value="Cancel" />
+    <MSG_INVALIDDECK value="Invalid deck." />
+    <MSG_PASSWORDREQUIRED value="Password required." />
+    <MSG_INVALID_IP value="Invalid IP." />
+    <MSG_INVALID_PORT value="Invalid Port." />
+  </CLIENT_INITIALIZATION_DIALOG>
+  <NEW_SERVER_GAME_DIALOG>
+    <TITLE value="Create a new game" />
+    <PLAYER_LIST value="Players" />
+    <PLAYER_LIST_DESC value="The list of current game players" />
+    <CHAT value="Chat" />
+    <CHAT_DESC value="Chat with other players" />
+    <CANCEL value="Cancel" />
+    <START value="Start" />
+    <YOUR_IP value="Your IP:" />
+    <MSG_CONNECTIONREFUSED_VERSIONMISMATCH value="Client version not valid." />
+    <MSG_CONNECTIONREFUSED_GAMEISRUNNING value="Game si running." />
+    <MSG_CONNECTIONREFUSED_INVALIDSTARTMODE value="Invalid start mode." />
+    <MSG_CONNECTIONREFUSED_NICKNAMEDUPLICATED value="A player with same nickname has already joined the game." />
+    <MSG_CONNECTIONREFUSED_GAMEDATAMISMATCH value="Game data are different from game creator's." />
+    <MSG_CONNECTIONREFUSED_PASSWORDREQUIRED value="This game require a password." />
+    <MSG_GAMELOADFAILED_CANNOTLOAD value="Game load failed. Player's passords may be wrong." />
+    <MSG_GAMELOADFAILED_DIFFERENTPLAYERSCOUNT value="Game load failed. Saved game players were #amount#." />
+    <MSG_GAMELOADFAILED_DIFFERENTNICKNAMES value="Game load failed. Player's nicknames are different from saved ones." />
+  </NEW_SERVER_GAME_DIALOG>
+  <NEW_CLIENT_GAME_DIALOG>
+    <TITLE value="Join to a game" />
+    <PLAYER_LIST value="Players" />
+    <PLAYER_LIST_DESC value="The list of current game players" />
+    <CHAT value="Chat" />
+    <CHAT_DESC value="Chat with game players" />
+    <CANCEL value="Cancel" />
+  </NEW_CLIENT_GAME_DIALOG>
+  <SERVER_RESTARTGAME_DIALOG>
+    <TITLE value="Create a new game" />
+    <PLAYER_LIST value="Players" />
+    <PLAYER_LIST_DESC value="The list of current game players" />
+    <CHAT value="Chat" />
+    <CHAT_DESC value="Chat with other players" />
+    <CANCEL value="Cancel" />
+    <START value="Start" />
+    <SIDEBOARDING value="Sideboarding" />
+    <READY value="Ready" />
+    <NOT_READY value="Not ready" />
+  </SERVER_RESTARTGAME_DIALOG>    
+  <CLIENT_RESTARTGAME_DIALOG>
+    <TITLE value="Create a new game" />
+    <PLAYER_LIST value="Players" />
+    <PLAYER_LIST_DESC value="The list of current game players" />
+    <CHAT value="Chat" />
+    <CHAT_DESC value="Chat with other players" />
+    <CANCEL value="Cancel" />
+    <SIDEBOARDING value="Sideboarding" />
+    <READY value="Ready" />
+    <NOT_READY value="Not ready" />
+  </CLIENT_RESTARTGAME_DIALOG>     
+  <DECK_ROOM_DIALOG>
+    <TITLE value="Deck Room" />
+    <DECK_LIST value="Deck list" />
+    <DECK_LIST_DESC value="Choose a deck from list" />
+    <CARDS value="Cards" />
+    <CARDS_DESC value="The list of card contained into deck" />
+    <SIDEBOARD value="Sideboard" />
+    <SIDEBOARD_DESC value="The list of sideboard card contained into deck" />
+    <IMPORT value="Import" />
+    <EXPORT value="Export" />
+    <EDIT value="Edit" />
+	  <DELETE value="Delete deck" />
+	  <NEW value="Create a new deck" />
+    <ALL_FORMATS value="All supported formats" />
+    <NAME value="Name" />
+    <TYPE value="Type" />
+    <COST value="Cost" />
+	  <QUIT value="Quit" />
+	  <OK value="Ok" />
+    <MSG_CHOOSE_A_DECK value="Choose a deck." />
+    <MSG_DELETE_CONFIRMATION value="Delete deck #deckname#?" />
+    <MSG_MAPPINGFILENOTFOUND value="Set mapping file not found." />
+    <MSG_EXPORTCOMPLETED value="Export completed." />
+  </DECK_ROOM_DIALOG>
+  <IMPORT_RESULTS_DIALOG>
+    <TITLE value="Import results" />
+    <STATUS value="Status" />
+    <FILENAME value="File" />
+    <LINE value="Line" />
+    <ERROR value="Error" />
+  </IMPORT_RESULTS_DIALOG>
+  <EXPORT_DECK_DIALOG>
+    <TITLE value="Export deck" />
+    <LANGUAGE value="Language" />
+    <DESTINATION value="Destination" />
+    <DESTINATION_FILE value="Text file" />
+    <DESTINATION_CLIPBOARD value="Clipboard" />
+    <EXCLUDE_TAGS value="Don't include card codes" />
+    <OK value="Ok" />
+    <CANCEL value="Cancel" />
+  </EXPORT_DECK_DIALOG>
+  <DECK_EDITOR_DIALOG>
+    <TITLE value="Deck Editor" />
+	  <SET value="Set" />
+	  <COLOR value="Color" />
+	  <TYPE value="Type" />
+	  <NAME value="Name" />
+	  <TEXT value="Text" />
+	  <COST value="Cost" />
+    <RARITY value="Rarity" />
+    <CHARACTERISTICS value="Characteristics" />
+    <SEARCH value="Search" />
+    <CLEAR_FIELDS value="Clear search fields" />
+    <SELECT_ALL value="Select fields" />
+    <MOVE_TO_MAIN value="Move to main deck" />
+    <MOVE_TO_SIDE value="Move sideboard" />
+    <EXCHANGE value="Exchange" />
+    <RESET_LIST value="Empty the list" />
+    <DUPLICATE value="Add a copy" />
+    <REMOVE value="Remove a copy" />
+    <SEARCH_ARCHIVE value="Search" />
+    <SEARCH_ARCHIVE_DESC value="Input search parameters" />
+    <SEARCH_RESULT value="Search results" />
+    <SEARCH_RESULT_DESC value="Card list matching search parameters " />
+    <MAIN_CARDS value="Main cards" />
+    <MAIN_CARDS_DESC value="Cards you can use into the game" />
+    <SIDEBOARD_CARDS value="Sideboard cards" />
+    <SIDEBOARD_CARDS_DESC value="Your sideboard cards" />
+    <OTHER_INFO value="Other info" />
+    <OTHER_INFO_DESC value="Deck name and other informations" />
+	  <CATEGORY value="Category" />
+	  <UNDO_CHANGES value="Undo changes" />
+    <CLOSE value="Close" />
+    <ORIENTATION value="Orientation" />
+    <SAVE value="Save changes" />
+	  <SAVE_AND_EXIT value="Save and exit" />
+    <EXIT value="Exit without saving" />
+    <MSG_INVALID_NAME value="Invalid deck name." />
+    <MSG_INVALID_CATEGORY value="Invalid deck category." />
+    <MSG_DECK_ALREADY_EXISTS value="Deck already exists." />
+    <MSG_INVALID_DECK_SIZE value="Deck must be contains #decksize# main cards and #sideboardsize# in the sideboard." />
+    <MSG_SAVE_COMPLETED value="Deck saved." />
+    <MSG_NO_CARD_FOUND value="No card found." />
+    <MSG_CONFIRM_CLEAR_LIST value="Are you sure to emtpy the list?" />
+  </DECK_EDITOR_DIALOG>
+  <TOKEN_DIALOG>
+    <TITLE value="Token" />
+    <TEXT value="Text" />
+    <AMOUNT value="Amount" />
+    <COLOR value="Color" />
+    <CANCEL value="Cancel" />
+    <OK value="Ok" />
+  </TOKEN_DIALOG>
+  <CHARACTERISTICS_DIALOG>
+    <TITLE value="Characteristics" />
+    <VALUE value="Value" />
+    <INCREMENT value="Increment (- to decrement)" />
+    <CANCEL value="Cancel" />
+    <OK value="Ok" />
+  </CHARACTERISTICS_DIALOG>
+  <NUMBER_DIALOG>
+    <TITLE value="Choose quantity" />
+    <VALUE value="Other value:" />
+    <CANCEL value="Cancel" />
+    <OK value="Ok" />
+  </NUMBER_DIALOG>
+  <SECTORS_DIALOG>
+    <TITLE value="Choose sector" />
+    <CANCEL value="Cancel" />
+  </SECTORS_DIALOG>
+  <PLAYERS_DIALOG>
+    <TITLE value="Choose opponent" />
+    <CANCEL value="Cancel" />
+  </PLAYERS_DIALOG>
+  <PAWN_DIALOG>
+    <TITLE value="Pawn data" />
+    <NAME value="Name" />
+    <TYPE value="Type" />
+    <TEXT value="Text" />
+    <CHARACTERISTICS value="Characteristics" />
+    <CANCEL value="Cancel" />
+    <OK value="Ok" />
+  </PAWN_DIALOG>
+  <TOKEN_MENU>
+    <EDIT value="Edit" />
+    <REMOVE value="Remove" />
+  </TOKEN_MENU>
+  <CHAT>
+    <CHANGE_TURN value="Your turn" />
+    <WAIT value="Wait" />
+  </CHAT> 
+  <GAME>
+    <OPTIONS value="Options" />
+    <ACTIONS_THROW_COIN value="Throw a coin" />
+    <ACTIONS_THROW_DICE value="Throw a dice..." />
+    <ACTIONS_DICE4 value="...4 faces" />
+    <ACTIONS_DICE6 value="...6 faces" />
+    <ACTIONS_DICE8 value="...8 faces" />
+    <ACTIONS_DICE10 value="...10 faces" />
+    <ACTIONS_DICE12 value="...12 faces" />
+    <ACTIONS_DICE20 value="...20 faces" />
+    <ACTIONS_UNDO value="Undo" />
+    <ACTIONS_REDO value="Redo" />
+    <SAVE value="Save"/>
+    <RESTART value="New Game"/>
+    <SEARCH value="Search:" />
+    <ENABLE_LIST_SORTING value="List sorting" />
+    <MOVE_DOWN value="Move down" />
+    <MOVE_UP value="Move up" />
+    <MOVE_BOTTOM value="Move bottom" />
+    <MULLIGAN_CONFIRM value="Are you sure to execute a mulligan?"/>
+    <QUIT_CONFIRM value="Are you sure?"/>
+    <NEW_GAME_CONFIRM value="Are you sure to start a new game?"/>
+    <MSG_UPDATING value="Updating in progress (#player# - #sector#)..."/>
+    <MSG_SAVE_ENABLED value="Saving for this game is enabled."/>
+    <MSG_SAVE_DISABLED value="Saving for this game is disabled."/>
+    <MSG_UNDO_COMMAND value="You have undone a command." />
+    <MSG_OPPONENT_UNDO_COMMAND value="#player# has undone a command." />
+    <MSG_CANT_UNDO_OPPONENT_COMMAND value="You can't undo an opponent's command." />
+    <MSG_REDO_COMMAND value="You have re-executed a command." />
+    <MSG_OPPONENT_REDO_COMMAND value="#player# has re-executed a command." />
+    <MSG_CANT_REDO_OPPONENT_COMMAND value="You can't re-execute an opponent's command." />
+  </GAME>
+</strings>

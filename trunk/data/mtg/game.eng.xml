@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<game>
+  <info name="Magic The Gathering ©" />
+  <commands_lang>
+    <item code="THROW_DICE" name="Throw a dice" />
+    <item code="ROTATE_CARDS_TRUE" name="Tap" />
+    <item code="ROTATE_CARDS_FALSE" name="Stap" />
+    <item code="ROTATE_ALL_CARDS" name="Untap all cards" />
+    <item code="CREATE_PAWN" name="Create pawn" />
+    <item code="ADD_TOKEN" name="Add a token" />
+    <item code="REMOVE_TOKEN" name="Remove a token" />
+    <item code="SET_TOKEN_AMOUNT" name="Change token amount" />
+    <item code="SET_TOKEN_COLOR" name="Change token color" />
+    <item code="SET_TOKEN_TEXT" name="Change token text" />
+    <item code="MULLIGAN" name="Execute a mulligan" />
+    <item code="DUPLICATE_CARD" name="Duplicate" />
+    <item code="REVERSE_CARDS_TRUE" name="Rotate" />
+    <item code="REVERSE_CARDS_FALSE" name="Rotate" />
+    <item code="SAVE_GAME" name="Save the game" />
+    <item code="SET_CARD_CHARACTERISTICS" name="Change characteristics" />
+    <item code="SET_CARD_VISIBILITY_VISIBLE" name="Makes visible" />
+    <item code="SET_CARD_VISIBILITY_PRIVATE" name="Makes private" />
+    <item code="SET_CARD_VISIBILITY_HIDDEN" name="Makes hidden" />
+    <item code="SET_NUMCOUNTER_VALUE" name="Change" />
+    <item code="SET_PLAYER_POINTS" name="Change life points" />
+    <item code="SHUFFLE_SECTOR" name="Shuffle" />
+    <item code="THROW_COIN_FACE" name="Throw coin: Face" />
+    <item code="THROW_COIN_TAIL" name="Throw coin: Tail" />
+    <item code="MOVE_RANDOM_CARDS" name="Move random #amount# cards" />
+    <item code="MOVE_CARDS" name="Move #amount# cards" />
+    <item code="MOVE_SINGLE_CARD" name="Move" />
+    <item code="LOCK_CARDS" name="Don't stap normally" />
+    <item code="WATCH_TOP_CARDS" name="Watch top #amount# cards" />
+    <item code="KEEP_VISIBLE_TOP_CARDS" name="Play with top #amount# cards uncovered" />
+    <item code="WATCH_ALL_CARDS" name="Watch all cards" />
+    <item code="SHOW_ALL_CARDS" name="Show all cards" />
+    <item code="SHOW_TOP_CARDS" name="Show top #amount# cards" />
+    <item code="DISPLAY_RANDOM_CARDS" name="Show random #amount# cards" />
+    <item code="DISPLAY_CARDS" name="Show #amount# cards" />
+    <item code="CLOSE_DISPLAY" name="Stops looking the cards" />
+    <item code="CLOSE_LOOKUP" name="Stops looking the cards" />
+    <item code="RESTART_GAME" name="Start a new game" />
+    <item code="REMOVE_PLAYER" name="Has left the game" />
+  </commands_lang>
+  <card_rarities_lang>
+    <item code="C" name="Common" />
+    <item code="R" name="Rare" />
+    <item code="U" name="Uncommon" />
+    <item code="M" name="Mythic Rare" />
+    <item code="S" name="Special" />
+  </card_rarities_lang>
+  <card_types_lang>
+    <item code="CRE" name="Creature" />
+    <item code="INS" name="Instant" />
+    <item code="ENC" name="Enchantment" />
+    <item code="SOR" name="Sorcery" />
+    <item code="ART" name="Artifact" />
+    <item code="ARC" name="Artifact Creature" />
+    <item code="LND" name="Land" />
+    <item code="BLA" name="Basic Land" />
+    <item code="LCR" name="Legendary Creature" />
+    <item code="LEN" name="Legendary Enchantment" />
+    <item code="LLA" name="Legendary Land" />
+    <item code="LAR" name="Legendary Artifact" />
+    <item code="WEN" name="World Enchantment" />
+    <item code="BSL" name="Basic Snow Land" />
+    <item code="SCR" name="Snow Creature" />
+    <item code="SLA" name="Snow Land" />
+    <item code="SEN" name="Snow Enchantment" />
+    <item code="SAC" name="Snow Artifact Creature" />
+    <item code="LSL" name="Legendary Snow Land" />
+    <item code="SAR" name="Snow Artifact" />
+    <item code="TEN" name="Tribal Enchantment" />
+    <item code="PLA" name="Planeswalker" />
+    <item code="TSO" name="Tribal Sorcery" />
+    <item code="TIN" name="Tribal Instant" />
+    <item code="TAR" name="Tribal Artifact" />
+  </card_types_lang> 
+  <card_colors_lang>
+    <item code="B" name="Black" />
+    <item code="W" name="White" />
+    <item code="R" name="Red" />
+    <item code="U" name="Blue" />
+    <item code="G" name="Green" />
+    <item code="A" name="Artifact" />
+    <item code="C" name="Colorless" />
+  </card_colors_lang>       
+  <card_styles_lang>
+    <item code="PRE_8" name="Previous Eight Edition" />
+    <item code="POST_8" name="Post Eight Edition" />
+    <item code="PAWN" name="Pawn" />
+  </card_styles_lang>
+  <sectors_lang>
+    <item code="DECK" name="Library" />
+    <item code="DISCARDS" name="Graveyard" />
+    <item code="REMOVED" name="Exile" />
+    <item code="BATTLEFIELD" name="Battlefield" />
+    <item code="HAND" name="Hand" />
+  </sectors_lang>        
+  <numCounters_lang>
+    <item code="R" name="Red mana pool" />
+    <item code="G" name="Green mana pool" />
+    <item code="W" name="White mana pool" />
+    <item code="B" name="Black mana pool" />
+    <item code="U" name="Blue mana pool" />
+    <item code="C" name="Colorless mana pool" />
+  </numCounters_lang>  
+  <card_sets_lang>
+    <item code="LEA" name="Limited Edition Alpha" />
+    <item code="LEB" name="Limited Edition Beta" />  
+    <item code="2ED" name="Unlimited Edition" />  
+    <item code="3ED" name="Revised Edition" />  
+    <item code="4ED" name="Fourth Edition" />  
+    <item code="5ED" name="Fifth Edition" />  
+    <item code="6ED" name="Classic Sixth Edition" />  
+    <item code="7ED" name="Seventh Edition" />  
+    <item code="8ED" name="Eighth Edition" />  
+    <item code="9ED" name="Ninth Edition" />  
+    <item code="10E" name="Tenth Edition" />  
+    <item code="M10" name="Magic 2010" />  
+    <item code="ARN" name="Arabian Nights" />  
+    <item code="ATQ" name="Antiquities" />  
+    <item code="LEG" name="Legends" />  
+    <item code="DRK" name="The Dark" />  
+    <item code="FEM" name="Fallen Empires" />  
+    <item code="HML" name="Homelands" />  
+    <item code="ICE" name="Ice Age" />  
+    <item code="ALL" name="Alliances" />  
+    <item code="CLD" name="Coldsnap" />  
+    <item code="MIR" name="Mirage" />  
+    <item code="VIS" name="Visions" />  
+    <item code="WTH" name="Weatherlight" />  
+    <item code="TMP" name="Tempest" />  
+    <item code="STH" name="Stronghold" />  
+    <item code="EXO" name="Exodus" />  
+    <item code="USG" name="Urza&apos;s Saga" />  
+    <item code="ULG" name="Urza&apos;s Legacy" />  
+    <item code="UDS" name="Urza&apos;s Destiny" />  
+    <item code="MMQ" name="Mercadian Masques" />  
+    <item code="NMS" name="Nemesis" />  
+    <item code="PCY" name="Prophecy" />  
+    <item code="INV" name="Invasion" />  
+    <item code="PLS" name="Planeshift" />  
+    <item code="APC" name="Apocalypse" />  
+    <item code="ODY" name="Odyssey" />  
+    <item code="TOR" name="Torment" />  
+    <item code="JUD" name="Judgment" />  
+    <item code="ONS" name="Onslaught" />  
+    <item code="LGN" name="Legions" />  
+    <item code="SCG" name="Scourge" />  
+    <item code="MRD" name="Mirrodin" />  
+    <item code="DST" name="Darksteel" />  
+    <item code="5DN" name="Fifth Dawn" />  
+    <item code="CHK" name="Champions of Kamigawa" />  
+    <item code="BOK" name="Betrayers of Kamigawa" />  
+    <item code="SOK" name="Saviors of Kamigawa" />  
+    <item code="RAV" name="Ravnica: City of Guilds" />  
+    <item code="GPT" name="Guildpact" />  
+    <item code="DIS" name="Dissension" />  
+    <item code="TSP" name="Time Spiral" />  
+    <item code="TSB" name="Time Spiral &quot;Timeshifted&quot;" />  
+    <item code="PLC" name="Planar Chaos" />  
+    <item code="FUT" name="Future Sight" />  
+    <item code="LRW" name="Lorwyn" />  
+    <item code="MOR" name="Morningtide" />  
+    <item code="SHM" name="Shadowmoor" />  
+    <item code="EVE" name="Eventide" />  
+    <item code="ALA" name="Shards of Alara" />  
+    <item code="CFX" name="Conflux" />  
+    <item code="ARB" name="Alara Reborn" />  
+    <item code="ZEN" name="Zendikar" />  
+    <item code="WWK" name="Worldwake" />  
+    <item code="ROE" name="Rise of the Eldrazi" />  
+    <item code="CHR" name="Chronicles" />  
+    <item code="BRB" name="Battle Royale Box Set" />  
+    <item code="BTD" name="Beatdown Box Set" />  
+    <item code="HOP" name="Planechase" />  
+    <item code="EVG" name="Duel Decks: Elves vs. Goblins" />  
+    <item code="JVC" name="Duel Decks: Jace vs. Chandra" />  
+    <item code="DVD" name="Duel Decks: Divine vs. Demonic" />  
+    <item code="GVL" name="Duel Decks: Garruk vs. Liliana" />  
+    <item code="FVD" name="From the Vault: Dragons" />  
+    <item code="FVE" name="From the Vault: Exiled" />  
+    <item code="PDS" name="Premium Deck Series: Slivers" />  
+    <item code="POR" name="Portal" />  
+    <item code="P02" name="Portal Second Age" />  
+    <item code="PTK" name="Portal Three Kingdoms" />  
+    <item code="S99" name="Starter 1999" />  
+    <item code="S00" name="Starter 2000" />  
+    <item code="MED" name="Masters Edition" />  
+    <item code="ME2" name="Masters Edition II" />  
+    <item code="ME3" name="Masters Edition III" />  
+    <item code="UGL" name="Unglued" />  
+    <item code="UNH" name="Unhinged" />  
+    <item code="M11" name="Magic 2011" />  
+    <item code="SOM" name="Scars of Mirrodin" />  
+  </card_sets_lang>    
+</game>

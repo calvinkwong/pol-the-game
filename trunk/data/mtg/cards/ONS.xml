@@ -1,0 +1,5467 @@
+<cards releaseDate="2002-10-07T00:00:00" code="ONS">
+  <item>
+    <id>ONS0001</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Adam Rex</artist>
+    <style>PRE_8</style>
+    <imagePath>Akroma's Blessing.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0002</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{W}{W}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg &amp; Tim Hildebrandt</artist>
+    <style>PRE_8</style>
+    <imagePath>Akroma's Vengeance.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0003</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/5</characteristics>
+    <artist>Kev Walker</artist>
+    <style>PRE_8</style>
+    <imagePath>Ancestor's Prophet.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0004</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Astral Slide.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0005</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Luca Zontini</artist>
+    <style>PRE_8</style>
+    <imagePath>Aura Extraction.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0006</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{W}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Gary Ruddell</artist>
+    <style>PRE_8</style>
+    <imagePath>Aurification.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0007</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{W}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/5</characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Aven Brigadier.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0008</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>John Avon</artist>
+    <style>PRE_8</style>
+    <imagePath>Aven Soulgazer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0009</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Matt Thompson</artist>
+    <style>PRE_8</style>
+    <imagePath>Battlefield Medic.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0010</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Terese Nielsen</artist>
+    <style>PRE_8</style>
+    <imagePath>Catapult Master.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0011</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Brian Snoddy</artist>
+    <style>PRE_8</style>
+    <imagePath>Catapult Squad.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0012</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Randy Gallegos</artist>
+    <style>PRE_8</style>
+    <imagePath>Chain of Silence.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0013</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg &amp; Tim Hildebrandt</artist>
+    <style>PRE_8</style>
+    <imagePath>Circle of Solace.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0014</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{W}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg &amp; Tim Hildebrandt</artist>
+    <style>PRE_8</style>
+    <imagePath>Convalescent Care.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0015</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{6}{W}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Roger Raupp</artist>
+    <style>PRE_8</style>
+    <imagePath>Crowd Favorites.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0016</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Randy Elliott</artist>
+    <style>PRE_8</style>
+    <imagePath>Crown of Awe.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0017</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{W}</cost>
+    <type>CRE</type>
+    <characteristics>4/5</characteristics>
+    <artist>Sam Wood</artist>
+    <style>PRE_8</style>
+    <imagePath>Crude Rampart.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0018</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Dany Orizio</artist>
+    <style>PRE_8</style>
+    <imagePath>Daru Cavalier.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0019</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Dany Orizio</artist>
+    <style>PRE_8</style>
+    <imagePath>Daru Healer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0020</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/4</characteristics>
+    <artist>Brian Snoddy</artist>
+    <style>PRE_8</style>
+    <imagePath>Daru Lancer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0021</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>PRE_8</style>
+    <imagePath>Daunting Defender.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0022</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Brian Snoddy</artist>
+    <style>PRE_8</style>
+    <imagePath>Dawning Purist.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0023</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Luca Zontini</artist>
+    <style>PRE_8</style>
+    <imagePath>Defensive Maneuvers.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0024</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Rush</artist>
+    <style>PRE_8</style>
+    <imagePath>Demystify.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0025</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>PRE_8</style>
+    <imagePath>Disciple of Grace.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0026</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Randy Gallegos</artist>
+    <style>PRE_8</style>
+    <imagePath>Dive Bomber.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0027</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{W}</cost>
+    <type>CRE</type>
+    <characteristics>*/*</characteristics>
+    <artist>Justin Sweet</artist>
+    <style>PRE_8</style>
+    <imagePath>Doubtless One.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0028</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>4/5</characteristics>
+    <artist>Michael Sutfin</artist>
+    <style>PRE_8</style>
+    <imagePath>Exalted Angel.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0029</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Eric Peterson</artist>
+    <style>PRE_8</style>
+    <imagePath>Foothill Guide.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0030</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Dan Frazier</artist>
+    <style>PRE_8</style>
+    <imagePath>Glarecaster.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0031</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Dave Dorman</artist>
+    <style>PRE_8</style>
+    <imagePath>Glory Seeker.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0032</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{5}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/4</characteristics>
+    <artist>Mark Tedin</artist>
+    <style>PRE_8</style>
+    <imagePath>Grassland Crusader.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0033</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/3</characteristics>
+    <artist>Kev Walker</artist>
+    <style>PRE_8</style>
+    <imagePath>Gravel Slinger.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0034</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Dan Frazier</artist>
+    <style>PRE_8</style>
+    <imagePath>Gustcloak Harrier.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0035</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Glen Angus</artist>
+    <style>PRE_8</style>
+    <imagePath>Gustcloak Runner.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0036</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/4</characteristics>
+    <artist>Jim Nelson</artist>
+    <style>PRE_8</style>
+    <imagePath>Gustcloak Savior.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0037</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Mark Zug</artist>
+    <style>PRE_8</style>
+    <imagePath>Gustcloak Sentinel.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0038</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/3</characteristics>
+    <artist>Dan Frazier</artist>
+    <style>PRE_8</style>
+    <imagePath>Gustcloak Skirmisher.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0039</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{W}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Matson</artist>
+    <style>PRE_8</style>
+    <imagePath>Harsh Mercy.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0040</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alan Pollack</artist>
+    <style>PRE_8</style>
+    <imagePath>Improvised Armor.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0041</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Keith Garletts</artist>
+    <style>PRE_8</style>
+    <imagePath>Inspirit.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0042</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/4</characteristics>
+    <artist>Iain McCaig</artist>
+    <style>PRE_8</style>
+    <imagePath>Ironfist Crusher.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0043</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{W}{W}{W}</cost>
+    <type>LCR</type>
+    <characteristics>4/7</characteristics>
+    <artist>Daren Bader</artist>
+    <style>PRE_8</style>
+    <imagePath>Jareth, Leonine Titan.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0044</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>PRE_8</style>
+    <imagePath>Mobilization.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0045</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Alan Pollack</artist>
+    <style>PRE_8</style>
+    <imagePath>Nova Cleric.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0046</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Doug Chaffee</artist>
+    <style>PRE_8</style>
+    <imagePath>Oblation.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0047</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Matthew D. Wilson</artist>
+    <style>PRE_8</style>
+    <imagePath>Pacifism.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0048</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Dany Orizio</artist>
+    <style>PRE_8</style>
+    <imagePath>Pearlspear Courier.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0049</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>David Martin</artist>
+    <style>PRE_8</style>
+    <imagePath>Piety Charm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0050</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dave Dorman</artist>
+    <style>PRE_8</style>
+    <imagePath>Renewed Faith.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0051</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{W}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Scott M. Fischer</artist>
+    <style>PRE_8</style>
+    <imagePath>Righteous Cause.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0052</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Glen Angus</artist>
+    <style>PRE_8</style>
+    <imagePath>Sandskin.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0053</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark Brill</artist>
+    <style>PRE_8</style>
+    <imagePath>Shared Triumph.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0054</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{5}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/3</characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>PRE_8</style>
+    <imagePath>Shieldmage Elder.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0055</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tony Szczudlo</artist>
+    <style>PRE_8</style>
+    <imagePath>Sigil of the New Dawn.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0056</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Monte Michael Moore</artist>
+    <style>PRE_8</style>
+    <imagePath>Sunfire Balm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0057</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>PRE_8</style>
+    <imagePath>True Believer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0058</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dave Dorman</artist>
+    <style>PRE_8</style>
+    <imagePath>Unified Strike.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0059</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Greg &amp; Tim Hildebrandt</artist>
+    <style>PRE_8</style>
+    <imagePath>Weathered Wayfarer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0060</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Ron Spencer</artist>
+    <style>PRE_8</style>
+    <imagePath>Whipcorder.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0061</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rebecca Guay</artist>
+    <style>PRE_8</style>
+    <imagePath>Words of Worship.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0062</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{U}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Bradley Williams</artist>
+    <style>PRE_8</style>
+    <imagePath>Airborne Aid.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0063</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{U}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>PRE_8</style>
+    <imagePath>Annex.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0064</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Aphetto Alchemist.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0065</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Aphetto Grifter.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0066</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{U}{U}{U}</cost>
+    <type>LCR</type>
+    <characteristics>3/4</characteristics>
+    <artist>Justin Sweet</artist>
+    <style>PRE_8</style>
+    <imagePath>Arcanis the Omnipotent.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0067</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Artificial Evolution.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0068</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>3/2</characteristics>
+    <artist>Ron Spencer</artist>
+    <style>PRE_8</style>
+    <imagePath>Ascending Aven.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0069</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{6}{U}</cost>
+    <type>CRE</type>
+    <characteristics>4/5</characteristics>
+    <artist>Anthony S. Waters</artist>
+    <style>PRE_8</style>
+    <imagePath>Aven Fateshaper.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0070</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Pete Venters</artist>
+    <style>PRE_8</style>
+    <imagePath>Backslide.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0071</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{U}{U}{U}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spencer</artist>
+    <style>PRE_8</style>
+    <imagePath>Blatant Thievery.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0072</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Justin Sweet</artist>
+    <style>PRE_8</style>
+    <imagePath>Callous Oppressor.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0073</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>PRE_8</style>
+    <imagePath>Chain of Vapor.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0074</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>PRE_8</style>
+    <imagePath>Choking Tethers.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0075</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{U}</cost>
+    <type>CRE</type>
+    <characteristics>0/0</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>PRE_8</style>
+    <imagePath>Clone.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0076</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Scott M. Fischer</artist>
+    <style>PRE_8</style>
+    <imagePath>Complicate.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0077</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Wayne England</artist>
+    <style>PRE_8</style>
+    <imagePath>Crafty Pathmage.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0078</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Bradley Williams</artist>
+    <style>PRE_8</style>
+    <imagePath>Crown of Ascension.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0079</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{U}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>PRE_8</style>
+    <imagePath>Discombobulate.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0080</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{U}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rebecca Guay</artist>
+    <style>PRE_8</style>
+    <imagePath>Dispersing Orb.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0081</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Darrell Riche</artist>
+    <style>PRE_8</style>
+    <imagePath>Disruptive Pitmage.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0082</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{U}{U}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Wayne England</artist>
+    <style>PRE_8</style>
+    <imagePath>Essence Fracture.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0083</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Iain McCaig</artist>
+    <style>PRE_8</style>
+    <imagePath>Fleeting Aven.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0084</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{U}{U}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Matt Cavotta</artist>
+    <style>PRE_8</style>
+    <imagePath>Future Sight.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0085</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>PRE_8</style>
+    <imagePath>Ghosthelm Courier.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0086</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{5}{U}</cost>
+    <type>CRE</type>
+    <characteristics>3/4</characteristics>
+    <artist>Iain McCaig</artist>
+    <style>PRE_8</style>
+    <imagePath>Graxiplon.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0087</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Terese Nielsen</artist>
+    <style>PRE_8</style>
+    <imagePath>Imagecrafter.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0088</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Jerry Tiritilli</artist>
+    <style>PRE_8</style>
+    <imagePath>Information Dealer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0089</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{U}{U}</cost>
+    <type>LCR</type>
+    <characteristics>3/4</characteristics>
+    <artist>Kev Walker</artist>
+    <style>PRE_8</style>
+    <imagePath>Ixidor, Reality Sculptor.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0090</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Eric Peterson</artist>
+    <style>PRE_8</style>
+    <imagePath>Ixidor's Will.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0091</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>PRE_8</style>
+    <imagePath>Mage's Guile.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0092</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Brian Snoddy</artist>
+    <style>PRE_8</style>
+    <imagePath>Meddle.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0093</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Matthew Mitchell</artist>
+    <style>PRE_8</style>
+    <imagePath>Mistform Dreamer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0094</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Monte Michael Moore</artist>
+    <style>PRE_8</style>
+    <imagePath>Mistform Mask.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0095</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>3/4</characteristics>
+    <artist>John Avon</artist>
+    <style>PRE_8</style>
+    <imagePath>Mistform Mutant.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0096</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Glen Angus</artist>
+    <style>PRE_8</style>
+    <imagePath>Mistform Shrieker.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0097</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{5}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>6/6</characteristics>
+    <artist>Anthony S. Waters</artist>
+    <style>PRE_8</style>
+    <imagePath>Mistform Skyreaver.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0098</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Randy Gallegos</artist>
+    <style>PRE_8</style>
+    <imagePath>Mistform Stalker.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0099</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/4</characteristics>
+    <artist>Franz Vohwinkel</artist>
+    <style>PRE_8</style>
+    <imagePath>Mistform Wall.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0100</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{U}</cost>
+    <type>CRE</type>
+    <characteristics>*/*</characteristics>
+    <artist>Mark Tedin</artist>
+    <style>PRE_8</style>
+    <imagePath>Nameless One.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0101</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{U}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>PRE_8</style>
+    <imagePath>Peer Pressure.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0102</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{U}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rebecca Guay</artist>
+    <style>PRE_8</style>
+    <imagePath>Psychic Trance.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0103</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>5/5</characteristics>
+    <artist>Ron Spencer</artist>
+    <style>PRE_8</style>
+    <imagePath>Quicksilver Dragon.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0104</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{X}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alan Pollack</artist>
+    <style>PRE_8</style>
+    <imagePath>Read the Runes.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0105</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{U}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Bradley Williams</artist>
+    <style>PRE_8</style>
+    <imagePath>Reminisce.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0106</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Justin Sweet</artist>
+    <style>PRE_8</style>
+    <imagePath>Riptide Biologist.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0107</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/3</characteristics>
+    <artist>Roger Raupp</artist>
+    <style>PRE_8</style>
+    <imagePath>Riptide Chronologist.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0108</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Scott Hampton</artist>
+    <style>PRE_8</style>
+    <imagePath>Riptide Entrancer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0109</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Arnie Swekel</artist>
+    <style>PRE_8</style>
+    <imagePath>Riptide Shapeshifter.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0110</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Jerry Tiritilli</artist>
+    <style>PRE_8</style>
+    <imagePath>Rummaging Wizard.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0111</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/3</characteristics>
+    <artist>Randy Gallegos</artist>
+    <style>PRE_8</style>
+    <imagePath>Sage Aven.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0112</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Heather Hudson</artist>
+    <style>PRE_8</style>
+    <imagePath>Screaming Seahawk.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0113</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alan Pollack</artist>
+    <style>PRE_8</style>
+    <imagePath>Sea's Claim.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0114</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{5}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>6/6</characteristics>
+    <artist>Mark Tedin</artist>
+    <style>PRE_8</style>
+    <imagePath>Slipstream Eel.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0115</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Spy Network.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0116</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{U}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Justin Sweet</artist>
+    <style>PRE_8</style>
+    <imagePath>Standardize.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0117</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/3</characteristics>
+    <artist>rk post</artist>
+    <style>PRE_8</style>
+    <imagePath>Supreme Inquisitor.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0118</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{U}{U}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Trade Secrets.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0119</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>David Martin</artist>
+    <style>PRE_8</style>
+    <imagePath>Trickery Charm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0120</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Scott M. Fischer</artist>
+    <style>PRE_8</style>
+    <imagePath>Voidmage Prodigy.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0121</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alan Pollack</artist>
+    <style>PRE_8</style>
+    <imagePath>Wheel and Deal.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0122</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Eric Peterson</artist>
+    <style>PRE_8</style>
+    <imagePath>Words of Wind.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0123</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Jerry Tiritilli</artist>
+    <style>PRE_8</style>
+    <imagePath>Accursed Centaur.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0124</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>4/3</characteristics>
+    <artist>Dany Orizio</artist>
+    <style>PRE_8</style>
+    <imagePath>Anurid Murkdiver.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0125</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Monte Michael Moore</artist>
+    <style>PRE_8</style>
+    <imagePath>Aphetto Dredging.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0126</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>3/2</characteristics>
+    <artist>Tony Szczudlo</artist>
+    <style>PRE_8</style>
+    <imagePath>Aphetto Vulture.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0127</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>PRE_8</style>
+    <imagePath>Blackmail.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0128</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Pete Venters</artist>
+    <style>PRE_8</style>
+    <imagePath>Boneknitter.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0129</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Pete Venters</artist>
+    <style>PRE_8</style>
+    <imagePath>Cabal Archon.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0130</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Rebecca Guay</artist>
+    <style>PRE_8</style>
+    <imagePath>Cabal Executioner.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0131</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Pete Venters</artist>
+    <style>PRE_8</style>
+    <imagePath>Cabal Slaver.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0132</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Chain of Smog.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0133</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{B}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Kev Walker</artist>
+    <style>PRE_8</style>
+    <imagePath>Cover of Darkness.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0134</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Wayne England</artist>
+    <style>PRE_8</style>
+    <imagePath>Crown of Suspicion.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0135</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Cruel Revival.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0136</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>rk post</artist>
+    <style>PRE_8</style>
+    <imagePath>Death Match.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0137</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{B}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tony Szczudlo</artist>
+    <style>PRE_8</style>
+    <imagePath>Death Pulse.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0138</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Heather Hudson</artist>
+    <style>PRE_8</style>
+    <imagePath>Dirge of Dread.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0139</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Matt Cavotta</artist>
+    <style>PRE_8</style>
+    <imagePath>Disciple of Malice.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0140</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Mark Brill</artist>
+    <style>PRE_8</style>
+    <imagePath>Doomed Necromancer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0141</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Wayne England</artist>
+    <style>PRE_8</style>
+    <imagePath>Ebonblade Reaper.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0142</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Nelson DeCastro</artist>
+    <style>PRE_8</style>
+    <imagePath>Endemic Plague.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0143</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>John Matson</artist>
+    <style>PRE_8</style>
+    <imagePath>Entrails Feaster.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0144</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>David Martin</artist>
+    <style>PRE_8</style>
+    <imagePath>Fade from Memory.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0145</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{B}</cost>
+    <type>CRE</type>
+    <characteristics>4/2</characteristics>
+    <artist>Dave Dorman</artist>
+    <style>PRE_8</style>
+    <imagePath>Fallen Cleric.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0146</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{B}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Bradley Williams</artist>
+    <style>PRE_8</style>
+    <imagePath>False Cure.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0147</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Nelson DeCastro</artist>
+    <style>PRE_8</style>
+    <imagePath>Feeding Frenzy.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0148</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>PRE_8</style>
+    <imagePath>Festering Goblin.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0149</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Frightshroud Courier.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0150</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Justin Sweet</artist>
+    <style>PRE_8</style>
+    <imagePath>Gangrenous Goliath.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0151</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{B}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>PRE_8</style>
+    <imagePath>Gluttonous Zombie.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0152</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Adam Rex</artist>
+    <style>PRE_8</style>
+    <imagePath>Gravespawn Sovereign.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0153</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>6/6</characteristics>
+    <artist>Mark Zug</artist>
+    <style>PRE_8</style>
+    <imagePath>Grinning Demon.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0154</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Randy Gallegos</artist>
+    <style>PRE_8</style>
+    <imagePath>Haunted Cadaver.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0155</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Terese Nielsen</artist>
+    <style>PRE_8</style>
+    <imagePath>Head Games.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0156</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Matt Cavotta</artist>
+    <style>PRE_8</style>
+    <imagePath>Headhunter.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0157</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{B}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ben Thompson</artist>
+    <style>PRE_8</style>
+    <imagePath>Infest.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0158</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>David Martin</artist>
+    <style>PRE_8</style>
+    <imagePath>Misery Charm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0159</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>PRE_8</style>
+    <imagePath>Nantuko Husk.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0160</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{B}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>PRE_8</style>
+    <imagePath>Oversold Cemetery.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0161</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ben Thompson</artist>
+    <style>PRE_8</style>
+    <imagePath>Patriarch's Bidding.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0162</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{B}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alan Pollack</artist>
+    <style>PRE_8</style>
+    <imagePath>Profane Prayers.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0163</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>6/5</characteristics>
+    <artist>Heather Hudson</artist>
+    <style>PRE_8</style>
+    <imagePath>Prowling Pangolin.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0164</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>PRE_8</style>
+    <imagePath>Rotlung Reanimator.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0165</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Heather Hudson</artist>
+    <style>PRE_8</style>
+    <imagePath>Screeching Buzzard.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0166</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Dany Orizio</artist>
+    <style>PRE_8</style>
+    <imagePath>Severed Legion.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0167</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Franz Vohwinkel</artist>
+    <style>PRE_8</style>
+    <imagePath>Shade's Breath.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0168</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Shepherd of Rot.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0169</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Daren Bader</artist>
+    <style>PRE_8</style>
+    <imagePath>Silent Specter.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0170</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>PRE_8</style>
+    <imagePath>Smother.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0171</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{B}</cost>
+    <type>CRE</type>
+    <characteristics>*/*</characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>PRE_8</style>
+    <imagePath>Soulless One.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0172</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>3/1</characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>PRE_8</style>
+    <imagePath>Spined Basher.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0173</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg &amp; Tim Hildebrandt</artist>
+    <style>PRE_8</style>
+    <imagePath>Strongarm Tactics.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0174</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>rk post</artist>
+    <style>PRE_8</style>
+    <imagePath>Swat.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0175</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jeff Easley</artist>
+    <style>PRE_8</style>
+    <imagePath>Syphon Mind.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0176</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Syphon Soul.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0177</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>PRE_8</style>
+    <imagePath>Thrashing Mudspawn.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0178</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>3/1</characteristics>
+    <artist>Jeff Easley</artist>
+    <style>PRE_8</style>
+    <imagePath>Undead Gladiator.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0179</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}{B}{B}</cost>
+    <type>LCR</type>
+    <characteristics>5/5</characteristics>
+    <artist>Kev Walker</artist>
+    <style>PRE_8</style>
+    <imagePath>Visara the Dreadful.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0180</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Daren Bader</artist>
+    <style>PRE_8</style>
+    <imagePath>Walking Desecration.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0181</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{B}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg &amp; Tim Hildebrandt</artist>
+    <style>PRE_8</style>
+    <imagePath>Withering Hex.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0182</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{B}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jerry Tiritilli</artist>
+    <style>PRE_8</style>
+    <imagePath>Words of Waste.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0183</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Glen Angus</artist>
+    <style>PRE_8</style>
+    <imagePath>Wretched Anurid.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0184</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark Brill</artist>
+    <style>PRE_8</style>
+    <imagePath>Æther Charge.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0185</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Aggravated Assault.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0186</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{R}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Glen Angus</artist>
+    <style>PRE_8</style>
+    <imagePath>Airdrop Condor.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0187</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Avarax.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0188</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>3/1</characteristics>
+    <artist>Matt Cavotta</artist>
+    <style>PRE_8</style>
+    <imagePath>Battering Craghorn.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0189</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{R}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>7/1</characteristics>
+    <artist>Arnie Swekel</artist>
+    <style>PRE_8</style>
+    <imagePath>Blistering Firecat.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0190</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>PRE_8</style>
+    <imagePath>Break Open.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0191</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Wayne England</artist>
+    <style>PRE_8</style>
+    <imagePath>Brightstone Ritual.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0192</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{R}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>6/6</characteristics>
+    <artist>Kev Walker</artist>
+    <style>PRE_8</style>
+    <imagePath>Butcher Orgg.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0193</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Gary Ruddell</artist>
+    <style>PRE_8</style>
+    <imagePath>Chain of Plasma.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0194</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{R}</cost>
+    <type>CRE</type>
+    <characteristics>4/3</characteristics>
+    <artist>Mark Tedin</artist>
+    <style>PRE_8</style>
+    <imagePath>Charging Slateback.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0195</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spencer</artist>
+    <style>PRE_8</style>
+    <imagePath>Commando Raid.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0196</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Bradley Williams</artist>
+    <style>PRE_8</style>
+    <imagePath>Crown of Fury.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0197</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg &amp; Tim Hildebrandt</artist>
+    <style>PRE_8</style>
+    <imagePath>Custody Battle.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0198</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{R}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Luca Zontini</artist>
+    <style>PRE_8</style>
+    <imagePath>Dragon Roost.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0199</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Gary Ruddell</artist>
+    <style>PRE_8</style>
+    <imagePath>Dwarven Blastminer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0200</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Pete Venters</artist>
+    <style>PRE_8</style>
+    <imagePath>Embermage Goblin.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0201</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Gary Ruddell</artist>
+    <style>PRE_8</style>
+    <imagePath>Erratic Explosion.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0202</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>David Martin</artist>
+    <style>PRE_8</style>
+    <imagePath>Fever Charm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0203</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{R}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Luca Zontini</artist>
+    <style>PRE_8</style>
+    <imagePath>Flamestick Courier.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0204</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{R}</cost>
+    <type>CRE</type>
+    <characteristics>0/5</characteristics>
+    <artist>Doug Chaffee</artist>
+    <style>PRE_8</style>
+    <imagePath>Goblin Machinist.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0205</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Matt Cavotta</artist>
+    <style>PRE_8</style>
+    <imagePath>Goblin Piledriver.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0206</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>PRE_8</style>
+    <imagePath>Goblin Pyromancer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0207</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Goblin Sharpshooter.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0208</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Daren Bader</artist>
+    <style>PRE_8</style>
+    <imagePath>Goblin Sky Raider.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0209</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Ron Spencer</artist>
+    <style>PRE_8</style>
+    <imagePath>Goblin Sledder.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0210</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Trevor Hairsine</artist>
+    <style>PRE_8</style>
+    <imagePath>Goblin Taskmaster.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0211</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Trevor Hairsine</artist>
+    <style>PRE_8</style>
+    <imagePath>Grand Melee.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0212</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{R}{R}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>PRE_8</style>
+    <imagePath>Gratuitous Violence.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0213</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{5}{R}{R}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark Zug</artist>
+    <style>PRE_8</style>
+    <imagePath>Insurrection.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0214</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Glen Angus</artist>
+    <style>PRE_8</style>
+    <imagePath>Kaboom!.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0215</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Monte Michael Moore</artist>
+    <style>PRE_8</style>
+    <imagePath>Lavamancer's Skill.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0216</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>PRE_8</style>
+    <imagePath>Lay Waste.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0217</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Eric Peterson</artist>
+    <style>PRE_8</style>
+    <imagePath>Lightning Rift.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0218</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{R}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>PRE_8</style>
+    <imagePath>Mana Echoes.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0219</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Ron Spencer</artist>
+    <style>PRE_8</style>
+    <imagePath>Menacing Ogre.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0220</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{R}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>PRE_8</style>
+    <imagePath>Nosy Goblin.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0221</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{R}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Darrell Riche</artist>
+    <style>PRE_8</style>
+    <imagePath>Pinpoint Avalanche.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0222</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{R}</cost>
+    <type>CRE</type>
+    <characteristics>*/*</characteristics>
+    <artist>Ron Spencer</artist>
+    <style>PRE_8</style>
+    <imagePath>Reckless One.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0223</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}{R}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jerry Tiritilli</artist>
+    <style>PRE_8</style>
+    <imagePath>Risky Move.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0224</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}{R}{R}</cost>
+    <type>LCR</type>
+    <characteristics>6/5</characteristics>
+    <artist>Darrell Riche</artist>
+    <style>PRE_8</style>
+    <imagePath>Rorix Bladewing.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0225</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{6}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Pete Venters</artist>
+    <style>PRE_8</style>
+    <imagePath>Searing Flesh.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0226</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{6}{R}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Mark Zug</artist>
+    <style>PRE_8</style>
+    <imagePath>Shaleskin Bruiser.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0227</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>PRE_8</style>
+    <imagePath>Shock.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0228</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Dave Dorman</artist>
+    <style>PRE_8</style>
+    <imagePath>Skirk Commando.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0229</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Greg &amp; Tim Hildebrandt</artist>
+    <style>PRE_8</style>
+    <imagePath>Skirk Fire Marshal.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0230</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Doug Chaffee</artist>
+    <style>PRE_8</style>
+    <imagePath>Skirk Prospector.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0231</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{6}{R}</cost>
+    <type>CRE</type>
+    <characteristics>5/5</characteristics>
+    <artist>Alan Pollack</artist>
+    <style>PRE_8</style>
+    <imagePath>Skittish Valesk.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0232</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{R}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark Brill</artist>
+    <style>PRE_8</style>
+    <imagePath>Slice and Dice.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0233</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{R}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Iain McCaig</artist>
+    <style>PRE_8</style>
+    <imagePath>Snapping Thragg.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0234</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Solar Blast.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0235</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Jim Nelson</artist>
+    <style>PRE_8</style>
+    <imagePath>Sparksmith.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0236</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Jim Nelson</artist>
+    <style>PRE_8</style>
+    <imagePath>Spitfire Handler.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0237</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{R}</cost>
+    <type>CRE</type>
+    <characteristics>3/2</characteristics>
+    <artist>Daren Bader</artist>
+    <style>PRE_8</style>
+    <imagePath>Spurred Wolverine.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0238</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{X}{R}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>David Martin</artist>
+    <style>PRE_8</style>
+    <imagePath>Starstorm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0239</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{R}</cost>
+    <type>CRE</type>
+    <characteristics>4/5</characteristics>
+    <artist>Paolo Parente</artist>
+    <style>PRE_8</style>
+    <imagePath>Tephraderm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0240</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{R}</cost>
+    <type>CRE</type>
+    <characteristics>2/3</characteristics>
+    <artist>Jeff Miracola</artist>
+    <style>PRE_8</style>
+    <imagePath>Thoughtbound Primoc.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0241</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark Brill</artist>
+    <style>PRE_8</style>
+    <imagePath>Threaten.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0242</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jim Nelson</artist>
+    <style>PRE_8</style>
+    <imagePath>Thunder of Hooves.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0243</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{X}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg &amp; Tim Hildebrandt</artist>
+    <style>PRE_8</style>
+    <imagePath>Wave of Indifference.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0244</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Justin Sweet</artist>
+    <style>PRE_8</style>
+    <imagePath>Words of War.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0245</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Animal Magnetism.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0246</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{G}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Iain McCaig</artist>
+    <style>PRE_8</style>
+    <imagePath>Barkhide Mauler.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0247</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{6}{G}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Biorhythm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0248</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Dany Orizio</artist>
+    <style>PRE_8</style>
+    <imagePath>Birchlore Rangers.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0249</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Rebecca Guay</artist>
+    <style>PRE_8</style>
+    <imagePath>Bloodline Shaman.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0250</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Keith Garletts</artist>
+    <style>PRE_8</style>
+    <imagePath>Broodhatch Nantuko.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0251</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>PRE_8</style>
+    <imagePath>Centaur Glade.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0252</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spencer</artist>
+    <style>PRE_8</style>
+    <imagePath>Chain of Acid.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0253</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Matt Cavotta</artist>
+    <style>PRE_8</style>
+    <imagePath>Crown of Vigor.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0254</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Darrell Riche</artist>
+    <style>PRE_8</style>
+    <imagePath>Elven Riders.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0255</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg &amp; Tim Hildebrandt</artist>
+    <style>PRE_8</style>
+    <imagePath>Elvish Guidance.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0256</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Todd Lockwood</artist>
+    <style>PRE_8</style>
+    <imagePath>Elvish Pathcutter.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0257</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Christopher Rush</artist>
+    <style>PRE_8</style>
+    <imagePath>Elvish Pioneer.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0258</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>PRE_8</style>
+    <imagePath>Elvish Scrapper.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0259</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Glen Angus</artist>
+    <style>PRE_8</style>
+    <imagePath>Elvish Vanguard.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0260</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/3</characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>PRE_8</style>
+    <imagePath>Elvish Warrior.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0261</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rebecca Guay</artist>
+    <style>PRE_8</style>
+    <imagePath>Enchantress's Presence.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0262</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Darrell Riche</artist>
+    <style>PRE_8</style>
+    <imagePath>Everglove Courier.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0263</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>PRE_8</style>
+    <imagePath>Explosive Vegetation.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0264</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>6/1</characteristics>
+    <artist>Glen Angus</artist>
+    <style>PRE_8</style>
+    <imagePath>Gigapede.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0265</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{G}</cost>
+    <type>CRE</type>
+    <characteristics>*/*</characteristics>
+    <artist>Mark Zug</artist>
+    <style>PRE_8</style>
+    <imagePath>Heedless One.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0266</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/4</characteristics>
+    <artist>Anthony S. Waters</artist>
+    <style>PRE_8</style>
+    <imagePath>Hystrodon.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0267</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>PRE_8</style>
+    <imagePath>Invigorating Boon.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0268</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{G}{G}</cost>
+    <type>LCR</type>
+    <characteristics>4/3</characteristics>
+    <artist>Matthew D. Wilson</artist>
+    <style>PRE_8</style>
+    <imagePath>Kamahl, Fist of Krosa.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0269</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Anthony S. Waters</artist>
+    <style>PRE_8</style>
+    <imagePath>Kamahl's Summons.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0270</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{6}{G}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>9/9</characteristics>
+    <artist>Kev Walker</artist>
+    <style>PRE_8</style>
+    <imagePath>Krosan Colossus.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0271</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{G}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>6/6</characteristics>
+    <artist>Wayne England</artist>
+    <style>PRE_8</style>
+    <imagePath>Krosan Groundshaker.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0272</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{5}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>6/5</characteristics>
+    <artist>Kev Walker</artist>
+    <style>PRE_8</style>
+    <imagePath>Krosan Tusker.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0273</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{G}</cost>
+    <type>CRE</type>
+    <characteristics>4/2</characteristics>
+    <artist>Matt Cavotta</artist>
+    <style>PRE_8</style>
+    <imagePath>Leery Fogbeast.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0274</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{G}{G}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jim Nelson</artist>
+    <style>PRE_8</style>
+    <imagePath>Mythic Proportions.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0275</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Naturalize.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0276</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Overwhelming Instinct.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0277</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Eric Peterson</artist>
+    <style>PRE_8</style>
+    <imagePath>Primal Boost.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0278</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Arnie Swekel</artist>
+    <style>PRE_8</style>
+    <imagePath>Ravenous Baloth.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0279</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alan Pollack</artist>
+    <style>PRE_8</style>
+    <imagePath>Run Wild.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0280</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/3</characteristics>
+    <artist>Franz Vohwinkel</artist>
+    <style>PRE_8</style>
+    <imagePath>Serpentine Basilisk.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0281</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/7</characteristics>
+    <artist>Iain McCaig</artist>
+    <style>PRE_8</style>
+    <imagePath>Silklash Spider.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0282</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{G}{G}{G}</cost>
+    <type>LCR</type>
+    <characteristics>8/5</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>PRE_8</style>
+    <imagePath>Silvos, Rogue Elemental.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0283</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Justin Sweet</artist>
+    <style>PRE_8</style>
+    <imagePath>Snarling Undorak.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0284</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/4</characteristics>
+    <artist>Heather Hudson</artist>
+    <style>PRE_8</style>
+    <imagePath>Spitting Gourna.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0285</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>0/0</characteristics>
+    <artist>Anthony S. Waters</artist>
+    <style>PRE_8</style>
+    <imagePath>Stag Beetle.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0286</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg Staples</artist>
+    <style>PRE_8</style>
+    <imagePath>Steely Resolve.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0287</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Franz Vohwinkel</artist>
+    <style>PRE_8</style>
+    <imagePath>Symbiotic Beast.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0288</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Wayne England</artist>
+    <style>PRE_8</style>
+    <imagePath>Symbiotic Elf.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0289</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{5}{G}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>7/7</characteristics>
+    <artist>Matt Cavotta</artist>
+    <style>PRE_8</style>
+    <imagePath>Symbiotic Wurm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0290</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}</cost>
+    <type>CRE</type>
+    <characteristics>0/1</characteristics>
+    <artist>Rebecca Guay</artist>
+    <style>PRE_8</style>
+    <imagePath>Taunting Elf.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0291</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{G}</cost>
+    <type>CRE</type>
+    <characteristics>5/5</characteristics>
+    <artist>Bob Petillo</artist>
+    <style>PRE_8</style>
+    <imagePath>Tempting Wurm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0292</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{6}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>7/6</characteristics>
+    <artist>Arnie Swekel</artist>
+    <style>PRE_8</style>
+    <imagePath>Towering Baloth.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0293</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{5}{G}</cost>
+    <type>CRE</type>
+    <characteristics>5/4</characteristics>
+    <artist>Heather Hudson</artist>
+    <style>PRE_8</style>
+    <imagePath>Treespring Lorian.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0294</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{X}{2}{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Tribal Unity.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0295</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{6}{G}</cost>
+    <type>CRE</type>
+    <characteristics>5/5</characteristics>
+    <artist>Ron Spencer</artist>
+    <style>PRE_8</style>
+    <imagePath>Venomspout Brackus.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0296</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>David Martin</artist>
+    <style>PRE_8</style>
+    <imagePath>Vitality Charm.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0297</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Pete Venters</artist>
+    <style>PRE_8</style>
+    <imagePath>Voice of the Woods.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0298</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{G}</cost>
+    <type>CRE</type>
+    <characteristics>0/4</characteristics>
+    <artist>Anthony S. Waters</artist>
+    <style>PRE_8</style>
+    <imagePath>Wall of Mulch.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0299</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{X}{G}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Bob Petillo</artist>
+    <style>PRE_8</style>
+    <imagePath>Weird Harvest.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0300</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Christopher Rush</artist>
+    <style>PRE_8</style>
+    <imagePath>Wellwisher.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0301</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Jerry Tiritilli</artist>
+    <style>PRE_8</style>
+    <imagePath>Wirewood Elf.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0302</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>PRE_8</style>
+    <imagePath>Wirewood Herald.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0303</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dave Dorman</artist>
+    <style>PRE_8</style>
+    <imagePath>Wirewood Pride.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0304</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>DiTerlizzi</artist>
+    <style>PRE_8</style>
+    <imagePath>Wirewood Savage.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0305</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Wayne England</artist>
+    <style>PRE_8</style>
+    <imagePath>Words of Wilding.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0306</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{5}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>David Martin</artist>
+    <style>PRE_8</style>
+    <imagePath>Cryptic Gateway.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0307</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{6}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Matthew Mitchell</artist>
+    <style>PRE_8</style>
+    <imagePath>Doom Cannon.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0308</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>PRE_8</style>
+    <imagePath>Dream Chisel.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0309</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{X}{4}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Doug Chaffee</artist>
+    <style>PRE_8</style>
+    <imagePath>Riptide Replicator.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0310</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Corey D. Macourek</artist>
+    <style>PRE_8</style>
+    <imagePath>Slate of Ancestry.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0311</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{6}</cost>
+    <type>ARC</type>
+    <characteristics>4/4</characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>PRE_8</style>
+    <imagePath>Tribal Golem.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0312</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Heather Hudson</artist>
+    <style>PRE_8</style>
+    <imagePath>Barren Moor.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0313</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rob Alexander</artist>
+    <style>PRE_8</style>
+    <imagePath>Bloodstained Mire.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0314</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Anthony S. Waters</artist>
+    <style>PRE_8</style>
+    <imagePath>Contested Cliffs.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0315</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tony Szczudlo</artist>
+    <style>PRE_8</style>
+    <imagePath>Daru Encampment.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0316</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rob Alexander</artist>
+    <style>PRE_8</style>
+    <imagePath>Flooded Strand.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0317</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tony Szczudlo</artist>
+    <style>PRE_8</style>
+    <imagePath>Forgotten Cave.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0318</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>David Martin</artist>
+    <style>PRE_8</style>
+    <imagePath>Goblin Burrows.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0319</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>PRE_8</style>
+    <imagePath>Grand Coliseum.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0320</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Heather Hudson</artist>
+    <style>PRE_8</style>
+    <imagePath>Lonely Sandbar.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0321</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rob Alexander</artist>
+    <style>PRE_8</style>
+    <imagePath>Polluted Delta.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0322</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>PRE_8</style>
+    <imagePath>Riptide Laboratory.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0323</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark Brill</artist>
+    <style>PRE_8</style>
+    <imagePath>Seaside Haven.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0324</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Heather Hudson</artist>
+    <style>PRE_8</style>
+    <imagePath>Secluded Steppe.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0325</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ben Thompson</artist>
+    <style>PRE_8</style>
+    <imagePath>Starlit Sanctum.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0326</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Heather Hudson</artist>
+    <style>PRE_8</style>
+    <imagePath>Tranquil Thicket.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0327</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>PRE_8</style>
+    <imagePath>Unholy Grotto.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0328</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Anthony S. Waters</artist>
+    <style>PRE_8</style>
+    <imagePath>Windswept Heath.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0329</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Anthony S. Waters</artist>
+    <style>PRE_8</style>
+    <imagePath>Wirewood Lodge.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0330</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rob Alexander</artist>
+    <style>PRE_8</style>
+    <imagePath>Wooded Foothills.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0331</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Matthew Mitchell</artist>
+    <style>PRE_8</style>
+    <imagePath>Plains.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_PL_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_PL_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0332</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Matthew Mitchell</artist>
+    <style>PRE_8</style>
+    <imagePath>Plains.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_PL_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_PL_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0333</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Matthew Mitchell</artist>
+    <style>PRE_8</style>
+    <imagePath>Plains.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_PL_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_PL_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0334</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Matthew Mitchell</artist>
+    <style>PRE_8</style>
+    <imagePath>Plains.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_PL_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_PL_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0335</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Bradley Williams</artist>
+    <style>PRE_8</style>
+    <imagePath>Island.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_IS_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_IS_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0336</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Bradley Williams</artist>
+    <style>PRE_8</style>
+    <imagePath>Island.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_IS_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_IS_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0337</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Bradley Williams</artist>
+    <style>PRE_8</style>
+    <imagePath>Island.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_IS_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_IS_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0338</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Bradley Williams</artist>
+    <style>PRE_8</style>
+    <imagePath>Island.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_IS_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_IS_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0339</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Doug Chaffee</artist>
+    <style>PRE_8</style>
+    <imagePath>Swamp.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_SW_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_SW_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0340</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Doug Chaffee</artist>
+    <style>PRE_8</style>
+    <imagePath>Swamp.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_SW_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_SW_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0341</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Doug Chaffee</artist>
+    <style>PRE_8</style>
+    <imagePath>Swamp.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_SW_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_SW_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0342</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Doug Chaffee</artist>
+    <style>PRE_8</style>
+    <imagePath>Swamp.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_SW_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_SW_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0343</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Sam Wood</artist>
+    <style>PRE_8</style>
+    <imagePath>Mountain.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_MO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_MO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0344</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Sam Wood</artist>
+    <style>PRE_8</style>
+    <imagePath>Mountain.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_MO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_MO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0345</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Sam Wood</artist>
+    <style>PRE_8</style>
+    <imagePath>Mountain.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_MO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_MO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0346</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Sam Wood</artist>
+    <style>PRE_8</style>
+    <imagePath>Mountain.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_MO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_MO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0347</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Matson</artist>
+    <style>PRE_8</style>
+    <imagePath>Forest.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_FO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_FO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0348</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Matson</artist>
+    <style>PRE_8</style>
+    <imagePath>Forest.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_FO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_FO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0349</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Matson</artist>
+    <style>PRE_8</style>
+    <imagePath>Forest.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_FO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_FO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>ONS0350</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Matson</artist>
+    <style>PRE_8</style>
+    <imagePath>Forest.jpg</imagePath>
+    <bgimagepathLarge>bg_PRE_8_FO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_PRE_8_FO_Small.png</bgimagepathSmall>
+  </item>
+</cards>

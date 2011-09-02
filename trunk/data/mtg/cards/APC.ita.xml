@@ -1,0 +1,1197 @@
+<cards name="Apocalisse">
+  <item>
+    <id>APC0001</id>
+    <name>Crociato Angelo-di-Fuoco</name>
+    <text>{R}: Il Crociato Angelo-di-Fuoco prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0002</id>
+    <name>Bandiera della Coalizione</name>
+    <text>Incanta creatura che controlli
+La creatura incantata è un Portabandiera.
+Ogniqualvolta una magia o un'abilità controllata da un avversario viene messa nella Pila, se quella magia o abilità potrebbe avere come bersaglio un Portabandiera nel campo di battaglia ma non lo fa, quel giocatore cambia uno dei suoi bersagli e sceglie un Portabandiera come bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0003</id>
+    <name>Pretoriani della Coalizione</name>
+    <text>Se una magia o un'abilità controllata da un avversario viene messa nella Pila, se quella magia o abilità potrebbe avere come bersaglio un Portabandiera nel campo di battaglia ma non lo fa, quel giocatore cambia uno dei suoi bersagli e sceglie un Portabandiera come bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0004</id>
+    <name>Discepolo di Dega</name>
+    <text>{B}, {T}: La creatura bersaglio prende -2/-0 fino alla fine del turno.
+{R}, {T}: La creatura bersaglio prende +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0005</id>
+    <name>Santuario di Dega</name>
+    <text>All'inizio del tuo mantenimento, se controlli un permanente nero o rosso, guadagni 2 punti vita. Se controlli un permanente nero e un permanente rosso, guadagni invece 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0006</id>
+    <name>Degavolvero</name>
+    <text>Potenziamento {1}{B} e/o {R}.
+Se è stato pagato il costo di potenziamento {1}{B}, il Degavolvero entra nel campo di battaglia con due segnalini +1/+1 e con "Paga 3 punti vita: Rigenera il Degavolvero".
+Se è stato pagato il costo di potenziamento {R}, il Degavolvero entra nel campo di battaglia con un segnalino +1/+1 e con attacco improvviso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0007</id>
+    <name>Diversivo</name>
+    <text>TAPpa due creature STAPpate che controlli: TAPpa una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0008</id>
+    <name>Luce Divina</name>
+    <text>Previeni tutto il danno che verrebbe inflitto in questo turno alle creature che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0009</id>
+    <name>Ufficiale Arruolatore</name>
+    <text>Attacco improvviso
+Quando l'Ufficiale Arruolatore entra nel campo di battaglia, rivela le prime quattro carte del tuo grimorio. Aggiungi alla tua mano tutte le carte Soldato rivelate in questo modo e metti le rimanenti in fondo al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0010</id>
+    <name>Alba Fasulla</name>
+    <text>Fino alla fine del turno, le magie e le abilità che controlli che dovrebbero aggiungere mana colorato alla tua riserva di mana invece aggiungono pari ammontare di mana bianco. Fino alla fine del turno, puoi spendere mana bianco come se fosse mana di un qualsiasi colore.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0011</id>
+    <name>Gerrard Capashen</name>
+    <text>All'inizio del tuo mantenimento, guadagni 1 punto vita per ogni carta nella mano di un avversario bersaglio.
+{3}{W}: TAPpa una creatura bersaglio. Attiva questa abilità solo se Gerrard Capashen sta attaccando.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0012</id>
+    <name>Angelo Perseguitato</name>
+    <text>Volare
+Quando l'Angelo Perseguitato viene messo in un cimitero dal campo di battaglia, esilia l'Angelo Perseguitato e ogni altro giocatore mette sul campo di battaglia una pedina creatura Angelo 3/3 nera con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0013</id>
+    <name>Elionauta</name>
+    <text>Volare
+{1}, {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0014</id>
+    <name>Manette della Putrefazione</name>
+    <text>Incanta creatura
+La creatura incantata non può attaccare.
+{B}: La creatura incantata prende -1/-1 fino alla fine del turno.
+{R}: La creatura incantata non può bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0015</id>
+    <name>Tuono di Orim</name>
+    <text>Potenziamento {R}
+Distruggi un artefatto o un incantesimo bersaglio. Se è stato pagato il costo di potenziamento, il Tuono di Orim infligge un ammontare di danni pari al costo di mana convertito di quell'artefatto o incantesimo a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0016</id>
+    <name>Scudo del Dovere e della Ragione</name>
+    <text>Incanta creatura
+La creatura incantata ha protezione dal verde e dal blu.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0017</id>
+    <name>Lince Spettrale</name>
+    <text>Protezione dal verde
+{B}: Rigenera la Lince Spettrale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0018</id>
+    <name>Stendardiere</name>
+    <text>Ogniqualvolta viene messa in pila una magia o un'abilità controllata da un avversario, se quella magia o abilità potrebbe avere come bersaglio un Portabandiera sul campo di battaglia ma non lo fa, quell'avversario cambia uno dei suoi bersagli su un Portabandiera.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0019</id>
+    <name>Discepolo di Ceta</name>
+    <text>{R}, {T}: La creatura bersaglio prende +2/+0 fino alla fine del turno.
+{G}, {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0020</id>
+    <name>Santuario di Ceta</name>
+    <text>All'inizio del tuo mantenimento, se controlli almeno un permanente rosso o verde, pesca una carta, poi scarta una carta. Se controlli almeno un permanente rosso e un permanente verde, pesca invece due carte, poi scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0021</id>
+    <name>Cetavolvero</name>
+    <text>Potenziamento {1}{R} e/o {G}
+Se è stato pagato il costo di Potenziamento {1}{R}, il Cetavolvero entra nel campo di battaglia con due segnalini +1/+1 e con attacco improvviso.
+Se è stato pagato il costo di Potenziamento {G}, il Cetavolvero entra nel campo di battaglia con un segnalino +1/+1 e con travolgere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0022</id>
+    <name>Draghetto della Costa</name>
+    <text>Volare
+{1}{U}, {T}: Il proprietario riprende in mano un Kavu bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0023</id>
+    <name>Azione Evasiva</name>
+    <text>Dominio - Neutralizza una magia bersaglio a meno che il suo controllore paghi {1} per ogni tipo di terra base presente tra le terre che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0024</id>
+    <name>Caverna di Ghiaccio</name>
+    <text>Ogniqualvolta un giocatore lancia una magia, qualsiasi altro giocatore può pagare il costo di mana di quella magia. Se un giocatore lo fa, neutralizza la magia (il costo di mana comprende il colore).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0025</id>
+    <name>Indice</name>
+    <text>Guarda le prime cinque carte del tuo grimorio, poi rimettile a posto in un qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0026</id>
+    <name>Reazione Sedata</name>
+    <text>Neutralizza una magia bersaglio se ha almeno un colore in comune con una creatura che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0027</id>
+    <name>Lasciare</name>
+    <text>Potenziamento {1}{R}
+Il proprietario riprende in mano una creatura bersaglio. Se è stato pagato il costo di potenziamento, Lasciare infligge 2 danni a un'altra creatura bersaglio. [Oracle 2003/07/01]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0028</id>
+    <name>Nave Volante Vivente</name>
+    <text>Volare
+{2}{G}: Rigenera la Nave Volante Vivente.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0029</id>
+    <name>Sciamano della Barriera</name>
+    <text>{T}: La terra bersaglio diventa un tipo di terra base a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0030</id>
+    <name>Miraggio Evanescente</name>
+    <text>La terra bersaglio diventa un tipo di terra base a tua scelta fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0031</id>
+    <name>Messaggero della Marea</name>
+    <text>Quando il Messaggero della Marea entra nel campo di battaglia, rivela le prime quattro carte del tuo grimorio. Aggiungi alla tua mano tutte le carte Tritone rivelate in questo modo e metti le rimanenti in fondo al tuo grimorio.
+{3}{U}: Il Messaggero della Marea guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0032</id>
+    <name>Selezione Innaturale</name>
+    <text>{1}: Scegli un tipo di creatura diverso da Muro. La creatura bersaglio diventa di quel tipo fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0033</id>
+    <name>Mistico di Vodalia</name>
+    <text>{T}: La magia istantaneo o stregoneria bersaglio diventa di un colore a tua scelta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0034</id>
+    <name>Draghetto dei Vortici</name>
+    <text>Volare
+Quando il Draghetto dei Vortici entra nel campo di battaglia, rimescola nel tuo grimorio le carte presenti nella tua mano, poi pesca altrettante carte.
+Quando il Draghetto dei Vortici viene messo in un cimitero dal campo di battaglia, rimescola nel tuo grimorio le carte presenti nella tua mano, poi pesca altrettante carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0035</id>
+    <name>Cavaliere dei Vortici</name>
+    <text>Quando il Cavaliere dei Vortici entra nel campo di battaglia, rimescola nel tuo grimorio le carte presenti nella tua mano, poi pesca altrettante carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0036</id>
+    <name>Guerriero dei Vortici</name>
+    <text>Quando il Guerriero dei Vortici entra nel campo di battaglia, rimescola nel tuo grimorio le carte presenti nella tua mano, poi pesca altrettante carte.
+{R}, Sacrifica il Guerriero dei Vortici: Ogni giocatore rimescola nel proprio grimorio le carte presenti nella sua mano, poi pesca altrettante carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0037</id>
+    <name>Anelli Mortali</name>
+    <text>Distruggi due creature non nere bersaglio a meno che una delle due abbia un colore che l'altra non ha. Non possono essere rigenerate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0038</id>
+    <name>Angelo della Desolazione</name>
+    <text>Volare
+Potenziamento {W}{W}
+Quando l'Angelo della Desolazione entra nel campo di battaglia, distruggi tutte le terre che controlli. Se è stato pagato il costo di potenziamento, distruggi invece tutte le terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0039</id>
+    <name>Presenza Fetida</name>
+    <text>Incanta creatura
+La creatura incantata prende -1/-1 e ha "{T}: La creatura bersaglio prende -1/-1 fino alla fine del turno."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0040</id>
+    <name>Ladro di Tombe</name>
+    <text>Quando il Ladro di Tombe entra nel campo di battaglia, rivela le prime quattro carte del tuo grimorio. Aggiungi alla tua mano tutte le carte Zombie rivelate in questo modo e metti le rimanenti in fondo al tuo grimorio.
+{1}{B}: Rigenera il Ladro di Tombe.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0041</id>
+    <name>Ultima Carezza</name>
+    <text>Il giocatore bersaglio perde un punto vita e tu guadagni un punto vita.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0042</id>
+    <name>Estrazione Mentale</name>
+    <text>Come costo addizionale per lanciare l'Estrazione Mentale, sacrifica una creatura.
+Il giocatore bersaglio rivela la propria mano e scarta da essa tutte le carte dei colori della creatura sacrificata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0043</id>
+    <name>Zombie Lamentoso</name>
+    <text>{W}, {T}: Un giocatore bersaglio guadagna 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0044</id>
+    <name>Discepolo di Necra</name>
+    <text>{G}, {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.
+{W}, {T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0045</id>
+    <name>Santuario di Necra</name>
+    <text>All'inizio del tuo mantenimento, se controlli almeno un permanente verde o bianco, un giocatore bersaglio perde 1 punto vita. Se controlli almeno un permanente verde e un permanente bianco, quel giocatore perde invece 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0046</id>
+    <name>Necravolvero</name>
+    <text>Potenziamento {1}{G} e/o {W}
+Se è stato pagato il costo di potenziamento {1}{G}, il Necravolvero entra nel campo di battaglia con due segnalini +1/+1 e ha travolgere.
+Se è stato pagato il costo di potenziamento {W}, il Necravolvero entra nel campo di battaglia con un segnalino +1/+1 e con "Ogniqualvolta il Necravolvero infligge danno, guadagni altrettanti punti vita."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0047</id>
+    <name>Arena di Phyrexia</name>
+    <text>All'inizio del tuo mantenimento, pesca una carta e perdi 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0048</id>
+    <name>Gargantua di Phyrexia</name>
+    <text>Quando il Gargantua di Phyrexia entra nel campo di battaglia, peschi due carte e perdi 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0049</id>
+    <name>Furia di Phyrexia</name>
+    <text>Quando la Furia di Phyrexia entra nel campo di battaglia, peschi una carta e perdi 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0050</id>
+    <name>Disperazione Dimensionale</name>
+    <text>Dominio - Tutte le creature prendono -1/-1 fino alla fine del turno per ogni tipo di terra base presente tra le terre che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0051</id>
+    <name>Druido della Palude</name>
+    <text>{G},{T}, Sacrifica una creatura: Distruggi un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0052</id>
+    <name>Sopprimere</name>
+    <text>Il giocatore bersaglio esilia a faccia in giù tutte le carte dalla sua mano. All'inizio della sottofase finale del prossimo turno di quel giocatore, quel giocatore riprende in mano quelle carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0053</id>
+    <name>Rivolta di Urborg</name>
+    <text>Riprendi in mano fino a due carte creatura bersaglio dal tuo cimitero.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0054</id>
+    <name>Boa Zombie</name>
+    <text>{1}{B}: Scegli un colore. Ogniqualvolta il Boa Zombie viene bloccato da una creatura di quel colore in questo turno, distruggi quella creatura. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0055</id>
+    <name>Colosso Sangue-di-Fuoco</name>
+    <text>{R}, Sacrifica il Colosso Sangue-di-Fuoco: Il Colosso Sangue-di-Fuoco infligge 6 danni a ogni creatura ed a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0056</id>
+    <name>Nano Sangue-di-Fuoco</name>
+    <text>{R}, Sacrifica il Nano Sangue-di-Fuoco: Il Nano Sangue-di-Fuoco infligge 1 danno ad ogni creatura senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0057</id>
+    <name>Infuso Sangue-di-Fuoco</name>
+    <text>Incanta creatura che controlli
+{R}, Sacrifica la creatura incantata: L'Infuso Sangue-di-Fuoco infligge ad ogni creatura un danno pari alla forza della creatura sacrificata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0058</id>
+    <name>Kavu Sangue-di-Fuoco</name>
+    <text>{R}, Sacrifica il Kavu Sangue-di-Fuoco: Il Kavu Sangue-di-Fuoco infligge 2 danni ad ogni creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0059</id>
+    <name>Gigante della Desolazione</name>
+    <text>Potenziamento  (Puoi pagare {W}{W} addizionale quando lanci questa magia.)
+Quando il Gigante della Desolazione entra nel campo di battaglia, distruggi tutte le altre creature che controlli. Se è stato pagato il costo di potenziamento, invece distruggi tutte le altre creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0060</id>
+    <name>Valanga di Nani</name>
+    <text>Potenziamento {2}{R}, Sacrifica una terra.
+Distruggi una terra bersaglio. Se è stato pagato il costo di potenziamento, distruggi un'altra terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0061</id>
+    <name>Pattuglia di Nani</name>
+    <text>La Pattuglia di Nani non STAPpa durante il tuo STAP.
+Ogniqualvolta lanci una magia non rossa, STAPpa la Pattuglia di Nani.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0062</id>
+    <name>Capobanda Goblin</name>
+    <text>Rapidità
+Quando il Capobanda Goblin entra nel campo di battaglia, rivela le prime quattro carte del tuo grimorio. Aggiungi alla tua mano tutte le carte Goblin rivelate in questo modo e metti le rimanenti in fondo al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0063</id>
+    <name>Illuminare</name>
+    <text>Potenziamento {2}{R} e/o {3}{U}
+L'Illuminare infligge X danni ad una creatura bersaglio. Se è stato pagato il costo di potenziamento {2}{R}, l'Illuminare infligge X danni al controllore di quella creatura. Se è stato pagato il costo di potenziamento {3}{U}, tu peschi X carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0064</id>
+    <name>Aliante Kavu</name>
+    <text>{W}: L'Aliante Kavu prende +0/+1 fino alla fine del turno.
+{U}: L'Aliante Kavu guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0065</id>
+    <name>Tattico Minotauro</name>
+    <text>Rapidità
+Il Tattico Minotauro prende +1/+1 fintanto che controlli una creatura bianca.
+Il Tattico Minotauro prende +1/+1 fintanto che controlli una creatura blu.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0066</id>
+    <name>Discepolo di Raka</name>
+    <text>{W}, {T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.
+{U}, {T}: Una creatura bersaglio guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0067</id>
+    <name>Santuario di Raka</name>
+    <text>All'inizio del tuo mantenimento, se controlli un permanente bianco o blu, il Santuario di Raka infligge 1 danno a una creatura bersaglio. Se controlli un permanente bianco e un permanente blu, il Santuario di Raka infligge invece 3 danni a quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0068</id>
+    <name>Rakavolvero</name>
+    <text>Potenziamento {1}{W} e/o {U}
+Se è stato pagato il costo di potenziamento {1}{W}, il Rakavolvero entra nel campo di battaglia con due segnalini +1/+1 e con "Ogniqualvolta il Rakavolvero infligge danno, guadagni altrettanti punti vita."
+Se è stato pagato il costo di potenziamento {U}, il Rakavolvero entra nel campo di battaglia con un segnalino +1/+1 e con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0069</id>
+    <name>Spaccare</name>
+    <text>Distruggi un artefatto bersaglio.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0070</id>
+    <name>Sguardo di Tahngarth</name>
+    <text>Guarda le prime tre carte del grimorio di un avversario bersaglio, poi rimettile a posto in un qualsiasi ordine. Quel giocatore guarda le prime tre carte del tuo grimorio, poi le rimette a posto in un qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0071</id>
+    <name>Kavu della Tundra</name>
+    <text>{T}: La terra bersaglio diventa una Pianura o un'Isola fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0072</id>
+    <name>Ricerca Selvaggia</name>
+    <text>{1}{W}: Passa in rassegna il tuo grimorio per una carta incantesimo e rivela quella carta. Aggiungila alla tua mano, poi scarta una carta a caso. Poi rimescola il tuo grimorio.
+{1}{U}: Passa in rassegna il tuo grimorio per una carta istantaneo e rivela quella carta. Aggiungila alla tua mano, poi scarta una carta a caso. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0073</id>
+    <name>Discepolo di Ana</name>
+    <text>{U}, {T}: Una creatura bersaglio guadagna volare fino alla fine del turno.
+{B}, {T}: Una creatura bersaglio prende -2/-0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0074</id>
+    <name>Santuario di Ana</name>
+    <text>All'inizio del tuo mantenimento, se controlli almeno un permanente blu o nero, una creatura bersaglio prende +1/+1 fino alla fine del turno. Se controlli un permanente blu e un permanente nero, quella creatura prende invece +5/+5 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0075</id>
+    <name>Anavolvero</name>
+    <text>Potenziamento {1}{U} e/o {B}.
+Se è stato pagato il costo di potenziamento {1}{U}, l'Anavolvero entra nel campo di battaglia con due segnalini +1/+1 e con volare.
+Se è stato pagato il costo di potenziamento {B}, l'Anavolvero entra nel campo di battaglia con un segnalino +1/+1 e con "Paga 3 punti vita: Rigenera l'Anavolvero".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0076</id>
+    <name>Gnarr della Palude</name>
+    <text>Ogniqualvolta un giocatore lancia una magia nera, lo Gnarr della Palude prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0077</id>
+    <name>Equilibrio di Gaea</name>
+    <text>Come costo addizionale per lanciare l'Equilibrio di Gaea, sacrifica cinque terre.
+Passa in rassegna il tuo grimorio per una carta terra base di ogni tipo e mettile nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0078</id>
+    <name>Gnarr della Radura</name>
+    <text>Ogniqualvolta un giocatore lancia una magia blu lo Gnarr della Radura prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0079</id>
+    <name>Ululatore Kavu</name>
+    <text>Quando l'Ululatore Kavu entra nel campo di battaglia, rivela le prime quattro carte del tuo grimorio. Aggiungi alla tua mano tutte le carte Kavu rivelate in questo modo e metti le rimanenti in fondo al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0080</id>
+    <name>Picchiatore Kavu</name>
+    <text>Travolgere
+Ogniqualvolta il Picchiatore Kavu attacca, prende +1/+1 fino alla fine del turno per ogni altro Kavu attaccante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0081</id>
+    <name>Disposizione del Terreno</name>
+    <text>Passa in rassegna il tuo grimorio per una carta terra base, rivela quella carta e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0082</id>
+    <name>Lince Rossa della Penombra</name>
+    <text>Quando la Lince Rossa della Penombra viene messa in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura Felino 2/1 nera.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0083</id>
+    <name>Kavu della Penombra</name>
+    <text>Quando il Kavu della Penombra viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura Kavu 3/3 nera.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0084</id>
+    <name>Wurm della Penombra</name>
+    <text>Travolgere
+Quando il Wurm della Penombra viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura Wurm 6/6 nera con travolgere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0085</id>
+    <name>Gorilla Sanguinario</name>
+    <text>{U}{B}, {T}, Sacrifica il Gorilla Sanguinario: Una creatura bersaglio prende -3/-3 fino alla fine del turno. Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0086</id>
+    <name>Forza della Notte</name>
+    <text>Potenziamento {B}
+Le creature che controlli prendono +1/+1 fino alla fine del turno. Se è stato pagato il costo di potenziamento, le creature Zombie che controlli prendono +2/+2 addizionale fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0087</id>
+    <name>Messaggero Silvano</name>
+    <text>Travolgere
+Quando il Messaggero Silvano entra nel campo di battaglia, rivela le prime quattro carte del tuo grimorio. Aggiungi alla tua mano tutte le carte Elfo rivelate in questo modo e metti le rimanenti in fondo al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0088</id>
+    <name>Dispiegamento Simbiotico</name>
+    <text>Salta la tua acquisizione.
+{1}, TAPpa due creature STAPpate che controlli: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0089</id>
+    <name>Sentiero Tranquillo</name>
+    <text>Distruggi tutti gli incantesimi.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0090</id>
+    <name>Elfo di Urborg</name>
+    <text>{T}: Aggiungi {G}, {U} o {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0091</id>
+    <name>Mutazione Eterea</name>
+    <text>Il proprietario riprende in mano una creatura bersaglio. Metti sul campo di battaglia X pedine creatura Saprolingio 1/1 verdi, dove X è il costo di mana convertito di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0092</id>
+    <name>Manovra del Capitano</name>
+    <text>I prossimi X danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno vengono invece inflitti a un'altra creatura o a un altro giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0093</id>
+    <name>Forza Bruciante</name>
+    <text>Una creatura bersaglio prende +2/+2 fino alla fine del turno. Un'altra creatura bersaglio prende -2/-2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0094</id>
+    <name>Cromat</name>
+    <text>{W}{B}: Distruggi una creatura bersaglio che blocca o che è bloccata da Cromat.
+{U}{R}: Cromat guadagna volare fino alla fine del turno.
+{B}{G}: Rigenera Cromat.
+{R}{W}: Cromat prende +1/+1 fino alla fine del turno.
+{G}{U}: Metti Cromat in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0095</id>
+    <name>Stretta Letale</name>
+    <text>La Stretta Letale infligge X danni a una creatura o a un giocatore bersaglio. Tu guadagni X punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0096</id>
+    <name>Mutazione Mortale</name>
+    <text>Distruggi una creatura bersaglio non nera. Non può essere rigenerata. Metti sul campo di battaglia X pedine creatura Saprolingio 1/1 verdi, dove X è il costo di mana convertito di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0097</id>
+    <name>Silvantropo d'Ebano</name>
+    <text>{B}{G}: Il Silvantropo d'Ebano prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0098</id>
+    <name>Carica Disperata</name>
+    <text>Ogniqualvolta una creatura che controlli attacca, prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0099</id>
+    <name>Destriero di Mutaroccia</name>
+    <text>Ogniqualvolta il Destriero di Mutaroccia attacca, prende +3/-3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0100</id>
+    <name>Fungherrante</name>
+    <text>Travolgere
+Ogniqualvolta il Fungherrante infligge danno a un avversario, tu peschi una carta e quell'avversario scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0101</id>
+    <name>Popolo dei Cieli di Gaea</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0102</id>
+    <name>Verdetto di Gerrard</name>
+    <text>Un giocatore bersaglio scarta due carte. Guadagni 3 punti vita per ogni carta terra scartata in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0103</id>
+    <name>Legionario Goblin</name>
+    <text>{R}, Sacrifica il Legionario Goblin: Il Legionario Goblin infligge 2 danni a una creatura o a un giocatore bersaglio.
+{W}, Sacrifica il Legionario Goblin: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0104</id>
+    <name>Trincee dei Goblin</name>
+    <text>{2}, Sacrifica una terra: Metti sul campo di battaglia due pedine creatura Soldato Goblin 1/1 rosse e bianche.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0105</id>
+    <name>Passaggio Guidato</name>
+    <text>Rivela le carte del tuo grimorio. Un avversario sceglie da esse una carta creatura, una carta terra e una carta che non sia una creatura né una terra. Aggiungi alla tua mano le carte scelte. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0106</id>
+    <name>Barriera di Giungla</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Quando la Barriera di Giungla entra nel campo di battaglia, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0107</id>
+    <name>Resistenza Estrema</name>
+    <text>L'avversario bersaglio perde 2 punti vita per ogni Palude che controlli. La Resistenza Estrema infligge un ammontare di danni pari al numero di Montagne che controlli a una creatura bersaglio. Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde per ogni Foresta che controlli. Guadagni 2 punti vita per ogni Pianura che controlli. Pesca una carta per ogni Isola che controlli, poi scarta altrettante carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0108</id>
+    <name>Angelo dei Fulmini</name>
+    <text>Volare, cautela, rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0109</id>
+    <name>Morti di Llanowar</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0110</id>
+    <name>Tomba dei Martiri</name>
+    <text>Paga 2 punti vita: Previeni il prossimo punto danno che verrebbe inflitto a una creatura bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0111</id>
+    <name>Illusionista Minotauro</name>
+    <text>{1}{U}: L'Illusionista Minotauro guadagna velo fino alla fine del turno. (Non può essere bersaglio di magie o abilità.)
+{R}, Sacrifica l'Illusionista Minotauro: L'Illusionista Minotauro infligge un ammontare di danni pari alla propria forza a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0112</id>
+    <name>Serpente Mistico</name>
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
+Quando il Serpente Mistico entra nel campo di battaglia, neutralizza una magia bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0113</id>
+    <name>Dimora Abbandonata</name>
+    <text>Sacrifica una terra: Guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0114</id>
+    <name>Azione Malvagia</name>
+    <text>{X}, Sacrifica l'Azione Malvagia: Distruggi ogni artefatto, creatura e incantesimo con un costo di mana convertito pari o inferiore a X.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0115</id>
+    <name>Campo di Pietre del Potere</name>
+    <text>Ogniqualvolta una creatura attacca o blocca, il Campo di Pietre del Potere le infligge 2 danni.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0116</id>
+    <name>Fulmine Profetico</name>
+    <text>Il Fulmine Profetico infligge 4 danni a una creatura o a un giocatore bersaglio. Guarda le prime quattro carte del tuo grimorio. Aggiungi alla tua mano una di quelle carte e metti le rimanenti in fondo al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0117</id>
+    <name>Guerriero Putrido</name>
+    <text>Ogniqualvolta il Guerriero Putrido infligge danno, scegli una - ogni giocatore perde 1 punto vita; oppure ogni giocatore guadagna 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0118</id>
+    <name>Pugnale di Argento Vivo</name>
+    <text>Incanta creatura
+La creatura incantata ha "{T}: Questa creatura infligge 1 danno ad un giocatore bersaglio. Pesca una carta".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0119</id>
+    <name>Cacciatore dalla Pinna Tagliente</name>
+    <text>{T}: Il Cacciatore dalla Pinna Tagliente infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0120</id>
+    <name>Legame dell'Anima</name>
+    <text>Incanta creatura
+Ogniqualvolta la creatura incantata infligge danno, guadagni altrettanti punti vita.
+Ogniqualvolta la creatura incantata riceve danno, guadagni altrettanti punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0121</id>
+    <name>Spiritivendolo</name>
+    <text>Ogniqualvolta lo Spiritivendolo infligge danno a una creatura, metti un segnalino +1/+1 sullo Spiritivendolo.
+{B}: Rigenera lo Spiritivendolo.
+{G}: Lo Spiritivendolo diventa di un colore a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0122</id>
+    <name>Abbraccio di Squee</name>
+    <text>Incanta creatura
+La creatura incantata prende +2/+2.
+Quando la creatura incantata viene messa in un cimitero, il proprietario riprende in mano quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0123</id>
+    <name>Vendetta di Squee</name>
+    <text>Scegli un numero. Lancia una moneta per quel numero di volte o fino a che perdi un lancio, quale delle due accade prima. Se vinci tutti i lanci, pesca due carte per ogni lancio effettuato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0124</id>
+    <name>Esplosione Soffocante</name>
+    <text>Neutralizza una magia bersaglio e l'Esplosione Soffocante infligge 3 danni a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0125</id>
+    <name>Sorgente Temporale</name>
+    <text>Metti un permanente bersaglio in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0126</id>
+    <name>Rivendicare</name>
+    <text>Distruggi un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0127</id>
+    <name>Abbraccio di Yavimaya</name>
+    <text>Incanta creatura
+Tu controlli la creatura incantata.
+La creatura incantata prende +2/+2 e ha travolgere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0128</id>
+    <name>Fire</name>
+    <text>Fire deals 2 damage divided as you choose among one or two target creatures and/or players.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0129</id>
+    <name>Fire</name>
+    <text>Fire deals 2 damage divided as you choose among one or two target creatures and/or players.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0130</id>
+    <name>Ice</name>
+    <text>Fire deals 2 damage divided as you choose among one or two target creatures and/or players.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0131</id>
+    <name>Ice</name>
+    <text>Fire deals 2 damage divided as you choose among one or two target creatures and/or players.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0132</id>
+    <name>Illusion</name>
+    <text>Target spell or permanent becomes the color of your choice until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0133</id>
+    <name>Illusion</name>
+    <text>Target spell or permanent becomes the color of your choice until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0134</id>
+    <name>Reality</name>
+    <text>Target spell or permanent becomes the color of your choice until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0135</id>
+    <name>Reality</name>
+    <text>Target spell or permanent becomes the color of your choice until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0136</id>
+    <name>Death</name>
+    <text>Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0137</id>
+    <name>Death</name>
+    <text>Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0138</id>
+    <name>Life</name>
+    <text>Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0139</id>
+    <name>Life</name>
+    <text>Return target creature card from your graveyard to the battlefield. You lose life equal to its converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0140</id>
+    <name>Day</name>
+    <text>Creatures target player controls get +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0141</id>
+    <name>Day</name>
+    <text>Creatures target player controls get +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0142</id>
+    <name>Night</name>
+    <text>Creatures target player controls get +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0143</id>
+    <name>Night</name>
+    <text>Creatures target player controls get +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0144</id>
+    <name>Chaos</name>
+    <text>Creatures can't block this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0145</id>
+    <name>Chaos</name>
+    <text>Creatures can't block this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0146</id>
+    <name>Order</name>
+    <text>Creatures can't block this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0147</id>
+    <name>Order</name>
+    <text>Creatures can't block this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0148</id>
+    <name>Araldo di Ottone</name>
+    <text>Mentre l'Araldo di Ottone entra nel campo di battaglia, scegli un tipo di creatura.
+Quando l'Araldo di Ottone entra nel campo di battaglia, rivela le prime quattro carte del tuo grimorio. Aggiungi alla tua mano tutte le carte creatura del tipo scelto rivelate in questo modo e metti le rimanenti in fondo al tuo grimorio.
+Le creature del tipo scelto prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0149</id>
+    <name>Dodecapode</name>
+    <text>Se una magia o un'abilità controllata da un avversario ti fa scartare il Dodecapode, mettilo sul campo di battaglia con due segnalini +1/+1 invece di metterlo nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0150</id>
+    <name>Volta del Drago</name>
+    <text>{2}, {T}: Puoi mettere una carta creatura multicolore dalla tua mano sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0151</id>
+    <name>Golem Decorato</name>
+    <text>Potenziamento {X}
+Spendi solo mana colorato per pagare X. Non può essere speso in questo modo più di un mana per ogni colore.
+Se è stato pagato il costo di potenziamento, Il Golem Decorato entra nel campo di battaglia con X segnalini +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0152</id>
+    <name>Arma dell'Eredità</name>
+    <text>{W}{U}{B}{R}{G}: Esilia un permanente bersaglio.
+Se l'Arma dell'Eredità sta per essere messa in un cimitero da una qualsiasi zona, rivela invece l'Arma dell'Eredità e rimescolala nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0153</id>
+    <name>Maschera dell'Intolleranza</name>
+    <text>All'inizio del mantenimento di ogni giocatore, se ci sono quattro o più tipi di terra base tra le terre controllate da quel giocatore, la Maschera dell'Intolleranza gli infligge 3 danni.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0154</id>
+    <name>Forgia da Campo</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {R} o {W} alla tua riserva di mana. La Forgia da Campo ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0155</id>
+    <name>Caverne di Koilos</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {W} o {B} alla tua riserva di mana. Le Caverne di Koilos ti infliggono 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0156</id>
+    <name>Distese di Llanowar</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {B} o {G} alla tua riserva di mana. Le Distese di Llanowar ti infliggono 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0157</id>
+    <name>Barriera di Shiv</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {U} o {R} alla tua riserva di mana. La Barriera di Shiv ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>APC0158</id>
+    <name>Costa di Yavimaya</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{T}: Aggiungi {G} o {U} alla tua riserva di mana. La Costa di Yavimaya ti infligge 1 danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

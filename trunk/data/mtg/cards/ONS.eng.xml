@@ -1,0 +1,2481 @@
+<cards name="Onslaught">
+  <item>
+    <id>ONS0001</id>
+    <name>Akroma's Blessing</name>
+    <text>Creatures you control gain protection from the color of your choice until end of turn.
+Cycling {W} ({W}, Discard this card: Draw a card.)</text>
+    <flavorText>The clerics saw her as a divine gift. She saw them only as allies in her war against Phage.</flavorText>
+  </item>
+  <item>
+    <id>ONS0002</id>
+    <name>Akroma's Vengeance</name>
+    <text>Destroy all artifacts, creatures, and enchantments.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    <flavorText>Ixidor had only to imagine their ruin and Akroma made it so.</flavorText>
+  </item>
+  <item>
+    <id>ONS0003</id>
+    <name>Ancestor's Prophet</name>
+    <text>Tap five untapped Clerics you control: You gain 10 life.</text>
+    <flavorText>"We have faced horrors of war and terrors beyond imagining. We will overcome the uncertainties of this new life."</flavorText>
+  </item>
+  <item>
+    <id>ONS0004</id>
+    <name>Astral Slide</name>
+    <text>Whenever a player cycles a card, you may exile target creature. If you do, return the exiled card to the battlefield under its owner's control at the beginning of the next end step.</text>
+    <flavorText>"The hum of the universe is never off-key."
+—Mystic elder</flavorText>
+  </item>
+  <item>
+    <id>ONS0005</id>
+    <name>Aura Extraction</name>
+    <text>Put target enchantment on top of its owner's library.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>Every day, Order clerics contain as much of the Mirari's energy as possible, hoping to delay Otaria's demise.</flavorText>
+  </item>
+  <item>
+    <id>ONS0006</id>
+    <name>Aurification</name>
+    <text>Whenever a creature deals damage to you, put a gold counter on it.
+Each creature with a gold counter on it is a Wall in addition to its other creature types and has defender. (Those creatures can't attack.)
+When Aurification leaves the battlefield, remove all gold counters from all creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0007</id>
+    <name>Aven Brigadier</name>
+    <text>Flying
+Other Bird creatures get +1/+1.
+Other Soldier creatures get +1/+1.</text>
+    <flavorText>He represents what little pride the Order has left.</flavorText>
+  </item>
+  <item>
+    <id>ONS0008</id>
+    <name>Aven Soulgazer</name>
+    <text>Flying
+{2}{W}: Look at target face-down creature.</text>
+    <flavorText>"Every question has a proper answer. Every soul has a proper place."</flavorText>
+  </item>
+  <item>
+    <id>ONS0009</id>
+    <name>Battlefield Medic</name>
+    <text>{T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of Clerics on the battlefield.</text>
+    <flavorText>"Death never stops to rest. Neither can we."</flavorText>
+  </item>
+  <item>
+    <id>ONS0010</id>
+    <name>Catapult Master</name>
+    <text>Tap five untapped Soldiers you control: Exile target creature.</text>
+    <flavorText>"There's no ‘I' in ‘team,' but there's a ‘we' in ‘weapon.'"</flavorText>
+  </item>
+  <item>
+    <id>ONS0011</id>
+    <name>Catapult Squad</name>
+    <text>Tap two untapped Soldiers you control: Catapult Squad deals 2 damage to target attacking or blocking creature.</text>
+    <flavorText>Together they could hit anything between the heavens and the horizon.</flavorText>
+  </item>
+  <item>
+    <id>ONS0012</id>
+    <name>Chain of Silence</name>
+    <text>Prevent all damage target creature would deal this turn. That creature's controller may sacrifice a land. If the player does, he or she may copy this spell and may choose a new target for that copy.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0013</id>
+    <name>Circle of Solace</name>
+    <text>As Circle of Solace enters the battlefield, choose a creature type.
+{1}{W}: The next time a creature of the chosen type would deal damage to you this turn, prevent that damage.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0014</id>
+    <name>Convalescent Care</name>
+    <text>At the beginning of your upkeep, if you have 5 or less life, you gain 3 life and draw a card.</text>
+    <flavorText>Enlightenment comes most swiftly at life's end.</flavorText>
+  </item>
+  <item>
+    <id>ONS0015</id>
+    <name>Crowd Favorites</name>
+    <text>{3}{W}: Tap target creature.
+{3}{W}: Crowd Favorites gets +0/+5 until end of turn.</text>
+    <flavorText>"The rabble likes them. Make sure they win, then book them for tomorrow."
+—Cabal Patriarch</flavorText>
+  </item>
+  <item>
+    <id>ONS0016</id>
+    <name>Crown of Awe</name>
+    <text>Enchant creature
+Enchanted creature has protection from black and from red.
+Sacrifice Crown of Awe: Enchanted creature and other creatures that share a creature type with it gain protection from black and from red until end of turn.</text>
+    <flavorText>"Honor, guide my step."</flavorText>
+  </item>
+  <item>
+    <id>ONS0017</id>
+    <name>Crude Rampart</name>
+    <text>Defender (This creature can't attack.)
+Morph {4}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>Success is one part inspiration, nine parts desperation.</flavorText>
+  </item>
+  <item>
+    <id>ONS0018</id>
+    <name>Daru Cavalier</name>
+    <text>First strike
+When Daru Cavalier enters the battlefield, you may search your library for a card named Daru Cavalier, reveal it, and put it into your hand. If you do, shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0019</id>
+    <name>Daru Healer</name>
+    <text>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Morph {W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0020</id>
+    <name>Daru Lancer</name>
+    <text>First strike
+Morph {2}{W}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>Although the Order frowned upon his preparations for the pits, behind closed doors most saw the fights as a necessary evil.</flavorText>
+  </item>
+  <item>
+    <id>ONS0021</id>
+    <name>Daunting Defender</name>
+    <text>If a source would deal damage to a Cleric creature you control, prevent 1 of that damage.</text>
+    <flavorText>"I will wield the stone of my homeland as though it were the fists of the Ancestor."</flavorText>
+  </item>
+  <item>
+    <id>ONS0022</id>
+    <name>Dawning Purist</name>
+    <text>Whenever Dawning Purist deals combat damage to a player, you may destroy target enchantment that player controls.
+Morph {1}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0023</id>
+    <name>Defensive Maneuvers</name>
+    <text>Creatures of the creature type of your choice get +0/+4 until end of turn.</text>
+    <flavorText>"Only on the battlefield can we repay all the Order has given us."</flavorText>
+  </item>
+  <item>
+    <id>ONS0024</id>
+    <name>Demystify</name>
+    <text>Destroy target enchantment.</text>
+    <flavorText>"The truth will outshine all lies."</flavorText>
+  </item>
+  <item>
+    <id>ONS0025</id>
+    <name>Disciple of Grace</name>
+    <text>Protection from black
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>Dread was as foreign to her as the landscape ahead.</flavorText>
+  </item>
+  <item>
+    <id>ONS0026</id>
+    <name>Dive Bomber</name>
+    <text>Flying
+{T}, Sacrifice Dive Bomber: Dive Bomber deals 2 damage to target attacking or blocking creature.</text>
+    <flavorText>"Your graves will lie beneath my final nest."</flavorText>
+  </item>
+  <item>
+    <id>ONS0027</id>
+    <name>Doubtless One</name>
+    <text>Doubtless One's power and toughness are each equal to the number of Clerics on the battlefield.
+Whenever Doubtless One deals damage, you gain that much life.</text>
+    <flavorText>"Share your devotion with me."</flavorText>
+  </item>
+  <item>
+    <id>ONS0028</id>
+    <name>Exalted Angel</name>
+    <text>Flying
+Whenever Exalted Angel deals damage, you gain that much life.
+Morph {2}{W}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0029</id>
+    <name>Foothill Guide</name>
+    <text>Protection from Goblins
+Morph {W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>"Like any pests, goblins must be repelled quickly or they multiply."</flavorText>
+  </item>
+  <item>
+    <id>ONS0030</id>
+    <name>Glarecaster</name>
+    <text>Flying
+{5}{W}: The next time damage would be dealt to Glarecaster and/or you this turn, that damage is dealt to target creature or player instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0031</id>
+    <name>Glory Seeker</name>
+    <text>
+    </text>
+    <flavorText>The turning of the tide always begins with one soldier's decision to head back into the fray.</flavorText>
+  </item>
+  <item>
+    <id>ONS0032</id>
+    <name>Grassland Crusader</name>
+    <text>{T}: Target Elf or Soldier creature gets +2/+2 until end of turn.</text>
+    <flavorText>"Everyone deserves a chance to live. My job is to make sure they get it."</flavorText>
+  </item>
+  <item>
+    <id>ONS0033</id>
+    <name>Gravel Slinger</name>
+    <text>{T}: Gravel Slinger deals 1 damage to target attacking or blocking creature.
+Morph {1}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0034</id>
+    <name>Gustcloak Harrier</name>
+    <text>Flying
+Whenever Gustcloak Harrier becomes blocked, you may untap it and remove it from combat.</text>
+    <flavorText>Banking steeply, the aven streaked toward the ground—and vanished.</flavorText>
+  </item>
+  <item>
+    <id>ONS0035</id>
+    <name>Gustcloak Runner</name>
+    <text>Whenever Gustcloak Runner becomes blocked, you may untap it and remove it from combat.</text>
+    <flavorText>Cabal spies trying to follow the Order's movements are constantly frustrated by tracks that stop dead.</flavorText>
+  </item>
+  <item>
+    <id>ONS0036</id>
+    <name>Gustcloak Savior</name>
+    <text>Flying
+Whenever a creature you control becomes blocked, you may untap that creature and remove it from combat.</text>
+    <flavorText>"Our death-arrows flew in high arcs towards the aven. And then . . . nothing."
+—Coliseum guard</flavorText>
+  </item>
+  <item>
+    <id>ONS0037</id>
+    <name>Gustcloak Sentinel</name>
+    <text>Whenever Gustcloak Sentinel becomes blocked, you may untap it and remove it from combat.</text>
+    <flavorText>Entire platoons have mysteriously vanished from battle, leaving enemy weapons to slice through empty air.</flavorText>
+  </item>
+  <item>
+    <id>ONS0038</id>
+    <name>Gustcloak Skirmisher</name>
+    <text>Flying
+Whenever Gustcloak Skirmisher becomes blocked, you may untap it and remove it from combat.</text>
+    <flavorText>They're trained in the art of pressing their luck.</flavorText>
+  </item>
+  <item>
+    <id>ONS0039</id>
+    <name>Harsh Mercy</name>
+    <text>Each player chooses a creature type. Destroy all creatures that aren't of a type chosen this way. They can't be regenerated.</text>
+    <flavorText>"There is no greater burden than choosing who to save."
+—Kamahl, druid acolyte</flavorText>
+  </item>
+  <item>
+    <id>ONS0040</id>
+    <name>Improvised Armor</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+5.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    <flavorText>"I trust what I make for myself. Do you trust more what is made for you by another?"</flavorText>
+  </item>
+  <item>
+    <id>ONS0041</id>
+    <name>Inspirit</name>
+    <text>Untap target creature. It gets +2/+4 until end of turn.</text>
+    <flavorText>"We will force the Cabal into their own pits"</flavorText>
+  </item>
+  <item>
+    <id>ONS0042</id>
+    <name>Ironfist Crusher</name>
+    <text>Ironfist Crusher can block any number of creatures.
+Morph {3}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0043</id>
+    <name>Jareth, Leonine Titan</name>
+    <text>Whenever Jareth, Leonine Titan blocks, it gets +7/+7 until end of turn.
+{W}: Jareth gains protection from the color of your choice until end of turn.</text>
+    <flavorText>Light's champion in the stronghold of darkness.</flavorText>
+  </item>
+  <item>
+    <id>ONS0044</id>
+    <name>Mobilization</name>
+    <text>Soldier creatures have vigilance. (Attacking doesn't cause them to tap.)
+{2}{W}: Put a 1/1 white Soldier creature token onto the battlefield.</text>
+    <flavorText>Newcomers to Otaria find themselves at the bottom of the heap. In the pits, they at least have the chance to climb atop a heap of bodies.</flavorText>
+  </item>
+  <item>
+    <id>ONS0045</id>
+    <name>Nova Cleric</name>
+    <text>{2}{W}, {T}, Sacrifice Nova Cleric: Destroy all enchantments.</text>
+    <flavorText>"Our noblest thoughts are our very first and our very last."</flavorText>
+  </item>
+  <item>
+    <id>ONS0046</id>
+    <name>Oblation</name>
+    <text>The owner of target nonland permanent shuffles it into his or her library, then draws two cards.</text>
+    <flavorText>"A richer people could give more but they could never give as much."</flavorText>
+  </item>
+  <item>
+    <id>ONS0047</id>
+    <name>Pacifism</name>
+    <text>Enchant creature
+Enchanted creature can't attack or block.</text>
+    <flavorText>Even those born to battle could only lay their blades at Akroma's feet.</flavorText>
+  </item>
+  <item>
+    <id>ONS0048</id>
+    <name>Pearlspear Courier</name>
+    <text>You may choose not to untap Pearlspear Courier during your untap step.
+{2}{W}, {T}: Target Soldier creature gets +2/+2 and has vigilance for as long as Pearlspear Courier remains tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0049</id>
+    <name>Piety Charm</name>
+    <text>Choose one — Destroy target Aura attached to a creature; or target Soldier creature gets +2/+2 until end of turn; or creatures you control gain vigilance until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0050</id>
+    <name>Renewed Faith</name>
+    <text>You gain 6 life.
+Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle Renewed Faith, you may gain 2 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0051</id>
+    <name>Righteous Cause</name>
+    <text>Whenever a creature attacks, you gain 1 life.</text>
+    <flavorText>"Until the world unites in vengeful fury and Phage is destroyed, I will not stay my hand."
+—Akroma, angelic avenger</flavorText>
+  </item>
+  <item>
+    <id>ONS0052</id>
+    <name>Sandskin</name>
+    <text>Enchant creature
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.</text>
+    <flavorText>"Those who live by the sword will die by the sword. I choose to do neither."</flavorText>
+  </item>
+  <item>
+    <id>ONS0053</id>
+    <name>Shared Triumph</name>
+    <text>As Shared Triumph enters the battlefield, choose a creature type.
+Creatures of the chosen type get +1/+1.</text>
+    <flavorText>"Win together, die alone."</flavorText>
+  </item>
+  <item>
+    <id>ONS0054</id>
+    <name>Shieldmage Elder</name>
+    <text>Tap two untapped Clerics you control: Prevent all damage target creature would deal this turn.
+Tap two untapped Wizards you control: Prevent all damage target spell would deal this turn.</text>
+    <flavorText>"You may fight if I deem your cause worthy."</flavorText>
+  </item>
+  <item>
+    <id>ONS0055</id>
+    <name>Sigil of the New Dawn</name>
+    <text>Whenever a creature is put into your graveyard from the battlefield, you may pay {1}{W}. If you do, return that card to your hand.</text>
+    <flavorText>"We lay our dead to rest in a beautiful bed, in hopes that the Ancestor will think it a fit cradle for the next life."
+—Mystic elder</flavorText>
+  </item>
+  <item>
+    <id>ONS0056</id>
+    <name>Sunfire Balm</name>
+    <text>Prevent the next 4 damage that would be dealt to target creature or player this turn.
+Cycling {1}{W} ({1}{W}, Discard this card: Draw a card.)
+When you cycle Sunfire Balm, you may prevent the next 1 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0057</id>
+    <name>True Believer</name>
+    <text>You have shroud. (You can't be the target of spells or abilities.)</text>
+    <flavorText>So great is his certainty that mere facts cannot shake it.</flavorText>
+  </item>
+  <item>
+    <id>ONS0058</id>
+    <name>Unified Strike</name>
+    <text>Exile target attacking creature if its power is less than or equal to the number of Soldiers on the battlefield.</text>
+    <flavorText>The tall, reedy grass of the Daru Plains rustles loudly in the winds, a perfect cover for any ambush.</flavorText>
+  </item>
+  <item>
+    <id>ONS0059</id>
+    <name>Weathered Wayfarer</name>
+    <text>{W}, {T}: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library. Activate this ability only if an opponent controls more lands than you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0060</id>
+    <name>Whipcorder</name>
+    <text>{W}, {T}: Tap target creature.
+Morph {W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>His bolas whirl like galaxies, but it's his enemies who see stars.</flavorText>
+  </item>
+  <item>
+    <id>ONS0061</id>
+    <name>Words of Worship</name>
+    <text>{1}: The next time you would draw a card this turn, you gain 5 life instead.</text>
+    <flavorText>"The faithful don't succumb to terror, nor are they ruled by passion. They adhere to order, for order is life."
+—Volume I, The Book of Faith</flavorText>
+  </item>
+  <item>
+    <id>ONS0062</id>
+    <name>Airborne Aid</name>
+    <text>Draw a card for each Bird on the battlefield.</text>
+    <flavorText>"We help our Southern Order comrades as much as we can. But the Cabal's insidious influence spreads, dividing our forces and leaving new arrivals to fend for themselves."
+—Commander Eesha</flavorText>
+  </item>
+  <item>
+    <id>ONS0063</id>
+    <name>Annex</name>
+    <text>Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)
+You control enchanted land.</text>
+    <flavorText>Most refugees left their ancestral homes behind when they came to Otaria. A few decided to bring them along.</flavorText>
+  </item>
+  <item>
+    <id>ONS0064</id>
+    <name>Aphetto Alchemist</name>
+    <text>{T}: Untap target artifact or creature.
+Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>He brews trouble.</flavorText>
+  </item>
+  <item>
+    <id>ONS0065</id>
+    <name>Aphetto Grifter</name>
+    <text>Tap two untapped Wizards you control: Tap target permanent.</text>
+    <flavorText>Aphetto con artists started working in pairs to make it less likely they'd be the victims of con artists.</flavorText>
+  </item>
+  <item>
+    <id>ONS0066</id>
+    <name>Arcanis the Omnipotent</name>
+    <text>{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.</text>
+    <flavorText>He has journeyed where none have been before. Now he returns to ensure that none follow.</flavorText>
+  </item>
+  <item>
+    <id>ONS0067</id>
+    <name>Artificial Evolution</name>
+    <text>Change the text of target spell or permanent by replacing all instances of one creature type with another. The new creature type can't be Wall. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0068</id>
+    <name>Ascending Aven</name>
+    <text>Flying
+Ascending Aven can block only creatures with flying.
+Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0069</id>
+    <name>Aven Fateshaper</name>
+    <text>Flying
+When Aven Fateshaper enters the battlefield, look at the top four cards of your library, then put them back in any order.
+{4}{U}: Look at the top four cards of your library, then put them back in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0070</id>
+    <name>Backslide</name>
+    <text>Turn target creature with morph face down.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+    <flavorText>Some things are better left unknown.</flavorText>
+  </item>
+  <item>
+    <id>ONS0071</id>
+    <name>Blatant Thievery</name>
+    <text>For each opponent, gain control of target permanent that player controls. (This effect lasts indefinitely.)</text>
+    <flavorText>"I'll leave subtlety to the rich."</flavorText>
+  </item>
+  <item>
+    <id>ONS0072</id>
+    <name>Callous Oppressor</name>
+    <text>You may choose not to untap Callous Oppressor during your untap step.
+As Callous Oppressor enters the battlefield, an opponent chooses a creature type.
+{T}: Gain control of target creature that isn't of the chosen type for as long as Callous Oppressor remains tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0073</id>
+    <name>Chain of Vapor</name>
+    <text>Return target nonland permanent to its owner's hand. Then that permanent's controller may sacrifice a land. If the player does, he or she may copy this spell and may choose a new target for that copy.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0074</id>
+    <name>Choking Tethers</name>
+    <text>Tap up to four target creatures.
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)
+When you cycle Choking Tethers, you may tap target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0075</id>
+    <name>Clone</name>
+    <text>You may have Clone enter the battlefield as a copy of any creature on the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0076</id>
+    <name>Complicate</name>
+    <text>Counter target spell unless its controller pays {3}.
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+When you cycle Complicate, you may counter target spell unless its controller pays {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0077</id>
+    <name>Crafty Pathmage</name>
+    <text>{T}: Target creature with power 2 or less is unblockable this turn.</text>
+    <flavorText>The most valuable commodity in the pits is a way out.</flavorText>
+  </item>
+  <item>
+    <id>ONS0078</id>
+    <name>Crown of Ascension</name>
+    <text>Enchant creature
+Enchanted creature has flying.
+Sacrifice Crown of Ascension: Enchanted creature and other creatures that share a creature type with it gain flying until end of turn.</text>
+    <flavorText>"Wisdom, clear my eyes."</flavorText>
+  </item>
+  <item>
+    <id>ONS0079</id>
+    <name>Discombobulate</name>
+    <text>Counter target spell. Look at the top four cards of your library, then put them back in any order.</text>
+    <flavorText>"I said ‘pick his brain,' not ‘tear off his head.'"
+—Riptide Project researcher</flavorText>
+  </item>
+  <item>
+    <id>ONS0080</id>
+    <name>Dispersing Orb</name>
+    <text>{3}{U}, Sacrifice a permanent: Return target permanent to its owner's hand.</text>
+    <flavorText>"Like the seas, the Æther is fickle and ever-changing. If we can control one, we can master the other."
+—Riptide Project director</flavorText>
+  </item>
+  <item>
+    <id>ONS0081</id>
+    <name>Disruptive Pitmage</name>
+    <text>{T}: Counter target spell unless its controller pays {1}.
+Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>"Show weakness to hide your strength."</flavorText>
+  </item>
+  <item>
+    <id>ONS0082</id>
+    <name>Essence Fracture</name>
+    <text>Return two target creatures to their owners' hands.
+Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)</text>
+    <flavorText>"Shaping reality is simply a matter of knowing where to apply pressure."
+—Ixidor, reality sculptor</flavorText>
+  </item>
+  <item>
+    <id>ONS0083</id>
+    <name>Fleeting Aven</name>
+    <text>Flying
+Whenever a player cycles a card, return Fleeting Aven to its owner's hand.</text>
+    <flavorText>"Don't become so enthralled with magic that you forget you can fly without it."</flavorText>
+  </item>
+  <item>
+    <id>ONS0084</id>
+    <name>Future Sight</name>
+    <text>Play with the top card of your library revealed.
+You may play the top card of your library.</text>
+    <flavorText>"My past holds only pain and loss. I will conquer it by creating the perfect future."
+—Ixidor, reality sculptor</flavorText>
+  </item>
+  <item>
+    <id>ONS0085</id>
+    <name>Ghosthelm Courier</name>
+    <text>You may choose not to untap Ghosthelm Courier during your untap step.
+{2}{U}, {T}: Target Wizard creature gets +2/+2 and has shroud for as long as Ghosthelm Courier remains tapped. (It can't be the target of spells or abilities.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0086</id>
+    <name>Graxiplon</name>
+    <text>Graxiplon is unblockable unless defending player controls three or more creatures that share a creature type.</text>
+    <flavorText>"Attempts to revive this ancient species have not been entirely successful, but results indicate potential for future development."
+—Riptide Project researcher</flavorText>
+  </item>
+  <item>
+    <id>ONS0087</id>
+    <name>Imagecrafter</name>
+    <text>{T}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.</text>
+    <flavorText>When Otarians learned not to trust wizards, the wizards learned to adapt.</flavorText>
+  </item>
+  <item>
+    <id>ONS0088</id>
+    <name>Information Dealer</name>
+    <text>{T}: Look at the top X cards of your library, where X is the number of Wizards on the battlefield, then put them back in any order.</text>
+    <flavorText>"One wizard is a suspect. Two wizards are a conspiracy."
+—Elvish refugee</flavorText>
+  </item>
+  <item>
+    <id>ONS0089</id>
+    <name>Ixidor, Reality Sculptor</name>
+    <text>Face-down creatures get +1/+1.
+{2}{U}: Turn target face-down creature face up.</text>
+    <flavorText>"Reality has exiled me. I am no longer bound by its laws."</flavorText>
+  </item>
+  <item>
+    <id>ONS0090</id>
+    <name>Ixidor's Will</name>
+    <text>Counter target spell unless its controller pays {2} for each Wizard on the battlefield.</text>
+    <flavorText>"Some dreams should not come to be."</flavorText>
+  </item>
+  <item>
+    <id>ONS0091</id>
+    <name>Mage's Guile</name>
+    <text>Target creature gains shroud until end of turn. (It can't be the target of spells or abilities.)
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+    <flavorText>"Next time, don't bother."</flavorText>
+  </item>
+  <item>
+    <id>ONS0092</id>
+    <name>Meddle</name>
+    <text>If target spell has only one target and that target is a creature, change that spell's target to another creature.</text>
+    <flavorText>Strength may win the fight, but style wins the crowd.</flavorText>
+  </item>
+  <item>
+    <id>ONS0093</id>
+    <name>Mistform Dreamer</name>
+    <text>Flying
+{1}: Mistform Dreamer becomes the creature type of your choice until end of turn.</text>
+    <flavorText>Devotion, the second myth of reality: The faithful are most hurt by the objects of their faith.</flavorText>
+  </item>
+  <item>
+    <id>ONS0094</id>
+    <name>Mistform Mask</name>
+    <text>Enchant creature
+{1}: Enchanted creature becomes the creature type of your choice until end of turn.</text>
+    <flavorText>Trust, the fifth myth of reality: Every truth holds the seed of betrayal.</flavorText>
+  </item>
+  <item>
+    <id>ONS0095</id>
+    <name>Mistform Mutant</name>
+    <text>{1}{U}: Choose a creature type other than Wall. Target creature becomes that type until end of turn.</text>
+    <flavorText>Familiarity, the first myth of reality: What you know the best, you observe the least.</flavorText>
+  </item>
+  <item>
+    <id>ONS0096</id>
+    <name>Mistform Shrieker</name>
+    <text>Flying
+{1}: Mistform Shrieker becomes the creature type of your choice until end of turn.
+Morph {3}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0097</id>
+    <name>Mistform Skyreaver</name>
+    <text>Flying
+{1}: Mistform Skyreaver becomes the creature type of your choice until end of turn.</text>
+    <flavorText>Conviction, the third myth of reality: Only those who seek the truth can be deceived.</flavorText>
+  </item>
+  <item>
+    <id>ONS0098</id>
+    <name>Mistform Stalker</name>
+    <text>{1}: Mistform Stalker becomes the creature type of your choice until end of turn.
+{2}{U}{U}: Mistform Stalker gets +2/+2 and gains flying until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0099</id>
+    <name>Mistform Wall</name>
+    <text>Mistform Wall has defender as long as it's a Wall.
+{1}: Mistform Wall becomes the creature type of your choice until end of turn.</text>
+    <flavorText>Fellowship, the fourth myth of reality: As the tides of war shift, so do loyalties.</flavorText>
+  </item>
+  <item>
+    <id>ONS0100</id>
+    <name>Nameless One</name>
+    <text>Nameless One's power and toughness are each equal to the number of Wizards on the battlefield.
+Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>"Open your mind to me."</flavorText>
+  </item>
+  <item>
+    <id>ONS0101</id>
+    <name>Peer Pressure</name>
+    <text>Choose a creature type. If you control more creatures of that type than each other player, you gain control of all creatures of that type. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0102</id>
+    <name>Psychic Trance</name>
+    <text>Until end of turn, Wizards you control gain "{T}: Counter target spell."</text>
+    <flavorText>The Riptide Project was perhaps the only school devoted to preventing the spread of knowledge.</flavorText>
+  </item>
+  <item>
+    <id>ONS0103</id>
+    <name>Quicksilver Dragon</name>
+    <text>Flying
+{U}: If target spell has only one target and that target is Quicksilver Dragon, change that spell's target to another creature.
+Morph {4}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0104</id>
+    <name>Read the Runes</name>
+    <text>Draw X cards. For each card drawn this way, discard a card unless you sacrifice a permanent.</text>
+    <flavorText>"The world is a puzzle, and the mind is its key."</flavorText>
+  </item>
+  <item>
+    <id>ONS0105</id>
+    <name>Reminisce</name>
+    <text>Target player shuffles his or her graveyard into his or her library.</text>
+    <flavorText>"Leave the door to the past even slightly ajar and it could be blown off its hinges."</flavorText>
+  </item>
+  <item>
+    <id>ONS0106</id>
+    <name>Riptide Biologist</name>
+    <text>Protection from Beasts
+Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>"I gave it two choices: life in the lab or death in the hunt."</flavorText>
+  </item>
+  <item>
+    <id>ONS0107</id>
+    <name>Riptide Chronologist</name>
+    <text>{U}, Sacrifice Riptide Chronologist: Untap all creatures of the creature type of your choice.</text>
+    <flavorText>The wizard consulted the Riptide Project about how to further his research. He wasn't prepared for what they told him.</flavorText>
+  </item>
+  <item>
+    <id>ONS0108</id>
+    <name>Riptide Entrancer</name>
+    <text>Whenever Riptide Entrancer deals combat damage to a player, you may sacrifice it. If you do, gain control of target creature that player controls. (This effect lasts indefinitely.)
+Morph {U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0109</id>
+    <name>Riptide Shapeshifter</name>
+    <text>{2}{U}{U}, Sacrifice Riptide Shapeshifter: Choose a creature type. Reveal cards from the top of your library until you reveal a creature card of that type. Put that card onto the battlefield and shuffle the rest into your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0110</id>
+    <name>Rummaging Wizard</name>
+    <text>{2}{U}: Look at the top card of your library. You may put that card into your graveyard.</text>
+    <flavorText>"I've got everything you'd ever need right here. Just give me some time to find it."</flavorText>
+  </item>
+  <item>
+    <id>ONS0111</id>
+    <name>Sage Aven</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Sage Aven enters the battlefield, look at the top four cards of your library, then put them back in any order.</text>
+    <flavorText>From their mountain aeries, aven scholars see far more than the distant horizon.</flavorText>
+  </item>
+  <item>
+    <id>ONS0112</id>
+    <name>Screaming Seahawk</name>
+    <text>Flying
+When Screaming Seahawk enters the battlefield, you may search your library for a card named Screaming Seahawk, reveal it, and put it into your hand. If you do, shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0113</id>
+    <name>Sea's Claim</name>
+    <text>Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)
+Enchanted land is an Island.</text>
+    <flavorText>"My vengeance will drown my enemies as my storms drown the desert."
+—Ixidor, reality sculptor</flavorText>
+  </item>
+  <item>
+    <id>ONS0114</id>
+    <name>Slipstream Eel</name>
+    <text>Slipstream Eel can't attack unless defending player controls an Island.
+Cycling {1}{U} ({1}{U}, Discard this card: Draw a card.)</text>
+    <flavorText>"It's a fine way to travel, if you don't mind the smell."</flavorText>
+  </item>
+  <item>
+    <id>ONS0115</id>
+    <name>Spy Network</name>
+    <text>Look at target player's hand, the top card of that player's library, and any face-down creatures he or she controls. Look at the top four cards of your library, then put them back in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0116</id>
+    <name>Standardize</name>
+    <text>Choose a creature type other than Wall. Each creature becomes that type until end of turn.</text>
+    <flavorText>At that point, the wizards' argument got a lot uglier.</flavorText>
+  </item>
+  <item>
+    <id>ONS0117</id>
+    <name>Supreme Inquisitor</name>
+    <text>Tap five untapped Wizards you control: Search target player's library for up to five cards and exile them. Then that player shuffles his or her library.</text>
+    <flavorText>"It's hard to fight on an empty mind."</flavorText>
+  </item>
+  <item>
+    <id>ONS0118</id>
+    <name>Trade Secrets</name>
+    <text>Target opponent draws two cards, then you draw up to four cards. That opponent may repeat this process as many times as he or she chooses.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0119</id>
+    <name>Trickery Charm</name>
+    <text>Choose one — Target creature gains flying until end of turn; or target creature becomes the creature type of your choice until end of turn; or look at the top four cards of your library, then put them back in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0120</id>
+    <name>Voidmage Prodigy</name>
+    <text>{U}{U}, Sacrifice a Wizard: Counter target spell.
+Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0121</id>
+    <name>Wheel and Deal</name>
+    <text>Any number of target opponents each discards his or her hand and draws seven cards.
+
+Draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0122</id>
+    <name>Words of Wind</name>
+    <text>{1}: The next time you would draw a card this turn, each player returns a permanent he or she controls to its owner's hand instead.</text>
+    <flavorText>"Be logical in all things. Do not allow instinct or passion to cloud your mind."
+—Volume II, The Book of Insight</flavorText>
+  </item>
+  <item>
+    <id>ONS0123</id>
+    <name>Accursed Centaur</name>
+    <text>When Accursed Centaur enters the battlefield, sacrifice a creature.</text>
+    <flavorText>"The Cabal mocks the natural order. For its minions, death is just a pause between duties."
+—Kamahl, druid acolyte</flavorText>
+  </item>
+  <item>
+    <id>ONS0124</id>
+    <name>Anurid Murkdiver</name>
+    <text>Swampwalk</text>
+    <flavorText>Aphetto's swamps are alive with the dead.</flavorText>
+  </item>
+  <item>
+    <id>ONS0125</id>
+    <name>Aphetto Dredging</name>
+    <text>Return up to three target creature cards of the creature type of your choice from your graveyard to your hand.</text>
+    <flavorText>Phage became both executioner and savior, helping others to the same rebirth she had found.</flavorText>
+  </item>
+  <item>
+    <id>ONS0126</id>
+    <name>Aphetto Vulture</name>
+    <text>Flying
+When Aphetto Vulture is put into a graveyard from the battlefield, you may put target Zombie card from your graveyard on top of your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0127</id>
+    <name>Blackmail</name>
+    <text>Target player reveals three cards from his or her hand and you choose one of them. That player discards that card.</text>
+    <flavorText>Even the most virtuous person is only one secret away from being owned by the Cabal.</flavorText>
+  </item>
+  <item>
+    <id>ONS0128</id>
+    <name>Boneknitter</name>
+    <text>{1}{B}: Regenerate target Zombie.
+Morph {2}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>Nothing comes together as easily as it comes apart.</flavorText>
+  </item>
+  <item>
+    <id>ONS0129</id>
+    <name>Cabal Archon</name>
+    <text>{B}, Sacrifice a Cleric: Target player loses 2 life and you gain 2 life.</text>
+    <flavorText>"You are weak. I am strong. The protocol is obvious."</flavorText>
+  </item>
+  <item>
+    <id>ONS0130</id>
+    <name>Cabal Executioner</name>
+    <text>Whenever Cabal Executioner deals combat damage to a player, that player sacrifices a creature.
+Morph {3}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0131</id>
+    <name>Cabal Slaver</name>
+    <text>Whenever a Goblin deals combat damage to a player, that player discards a card.</text>
+    <flavorText>"In its natural habitat, the goblin is stupid, yet devious. Now it's stupid, devious, and powerful."</flavorText>
+  </item>
+  <item>
+    <id>ONS0132</id>
+    <name>Chain of Smog</name>
+    <text>Target player discards two cards. That player may copy this spell and may choose a new target for that copy.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0133</id>
+    <name>Cover of Darkness</name>
+    <text>As Cover of Darkness enters the battlefield, choose a creature type.
+Creatures of the chosen type have fear. (They can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0134</id>
+    <name>Crown of Suspicion</name>
+    <text>Enchant creature
+Enchanted creature gets +2/-1.
+Sacrifice Crown of Suspicion: Enchanted creature and other creatures that share a creature type with it get +2/-1 until end of turn.</text>
+    <flavorText>"Darkness, hide my fear."</flavorText>
+  </item>
+  <item>
+    <id>ONS0135</id>
+    <name>Cruel Revival</name>
+    <text>Destroy target non-Zombie creature. It can't be regenerated. Return up to one target Zombie card from your graveyard to your hand.</text>
+    <flavorText>Few Cabal fighters fear death. They fear what follows it.</flavorText>
+  </item>
+  <item>
+    <id>ONS0136</id>
+    <name>Death Match</name>
+    <text>Whenever a creature enters the battlefield, that creature's controller may have target creature of his or her choice get -3/-3 until end of turn.</text>
+    <flavorText>The Cabal breeds many things for the pit fights, but it never breeds compassion.</flavorText>
+  </item>
+  <item>
+    <id>ONS0137</id>
+    <name>Death Pulse</name>
+    <text>Target creature gets -4/-4 until end of turn.
+Cycling {1}{B}{B} ({1}{B}{B}, Discard this card: Draw a card.)
+When you cycle Death Pulse, you may have target creature get -1/-1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0138</id>
+    <name>Dirge of Dread</name>
+    <text>All creatures gain fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)
+When you cycle Dirge of Dread, you may have target creature gain fear until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0139</id>
+    <name>Disciple of Malice</name>
+    <text>Protection from white
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>The lantern he carried did not light his way—it signaled his approach.</flavorText>
+  </item>
+  <item>
+    <id>ONS0140</id>
+    <name>Doomed Necromancer</name>
+    <text>{B}, {T}, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield.</text>
+    <flavorText>"His sacrifice shall not be forgotten. Now toss his body over there with the others."
+—Phage the Untouchable</flavorText>
+  </item>
+  <item>
+    <id>ONS0141</id>
+    <name>Ebonblade Reaper</name>
+    <text>Whenever Ebonblade Reaper attacks, you lose half your life, rounded up.
+Whenever Ebonblade Reaper deals combat damage to a player, that player loses half his or her life, rounded up.
+Morph {3}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0142</id>
+    <name>Endemic Plague</name>
+    <text>As an additional cost to cast Endemic Plague, sacrifice a creature.
+Destroy all creatures that share a creature type with the sacrificed creature. They can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0143</id>
+    <name>Entrails Feaster</name>
+    <text>At the beginning of your upkeep, you may exile a creature card from a graveyard. If you do, put a +1/+1 counter on Entrails Feaster. If you don't, tap Entrails Feaster.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0144</id>
+    <name>Fade from Memory</name>
+    <text>Exile target card from a graveyard.
+Cycling {B} ({B}, Discard this card: Draw a card.)</text>
+    <flavorText>Proper burial is a luxury Otarians can no longer afford.</flavorText>
+  </item>
+  <item>
+    <id>ONS0145</id>
+    <name>Fallen Cleric</name>
+    <text>Protection from Clerics
+Morph {4}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>The most terrifying zombies are those with just a hint of their old selves left.</flavorText>
+  </item>
+  <item>
+    <id>ONS0146</id>
+    <name>False Cure</name>
+    <text>Until end of turn, whenever a player gains life, that player loses 2 life for each 1 life he or she gained.</text>
+    <flavorText>"I do unto others as others have done unto me."
+—Phage the Untouchable</flavorText>
+  </item>
+  <item>
+    <id>ONS0147</id>
+    <name>Feeding Frenzy</name>
+    <text>Target creature gets -X/-X until end of turn, where X is the number of Zombies on the battlefield.</text>
+    <flavorText>It wasn't as much a strategy as a dim instinct to drown their prey.</flavorText>
+  </item>
+  <item>
+    <id>ONS0148</id>
+    <name>Festering Goblin</name>
+    <text>When Festering Goblin is put into a graveyard from the battlefield, target creature gets -1/-1 until end of turn.</text>
+    <flavorText>In life, it was a fetid, disease-ridden thing. In death, not much changed.</flavorText>
+  </item>
+  <item>
+    <id>ONS0149</id>
+    <name>Frightshroud Courier</name>
+    <text>You may choose not to untap Frightshroud Courier during your untap step.
+{2}{B}, {T}: Target Zombie creature gets +2/+2 and has fear for as long as Frightshroud Courier remains tapped. (It can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0150</id>
+    <name>Gangrenous Goliath</name>
+    <text>Tap three untapped Clerics you control: Return Gangrenous Goliath from your graveyard to your hand.</text>
+    <flavorText>Cabal clerics don't heal the sick—they heal the dead.</flavorText>
+  </item>
+  <item>
+    <id>ONS0151</id>
+    <name>Gluttonous Zombie</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>Greed and gluttony led him to death. Now they are his greatest assets.</flavorText>
+  </item>
+  <item>
+    <id>ONS0152</id>
+    <name>Gravespawn Sovereign</name>
+    <text>Tap five untapped Zombies you control: Put target creature card from a graveyard onto the battlefield under your control.</text>
+    <flavorText>The Cabal never expected its creations to create servants of their own.</flavorText>
+  </item>
+  <item>
+    <id>ONS0153</id>
+    <name>Grinning Demon</name>
+    <text>At the beginning of your upkeep, you lose 2 life.
+Morph {2}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>It's drawn to the scent of screaming.</flavorText>
+  </item>
+  <item>
+    <id>ONS0154</id>
+    <name>Haunted Cadaver</name>
+    <text>Whenever Haunted Cadaver deals combat damage to a player, you may sacrifice it. If you do, that player discards three cards.
+Morph {1}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0155</id>
+    <name>Head Games</name>
+    <text>Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. The player puts those cards into his or her hand, then shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0156</id>
+    <name>Headhunter</name>
+    <text>Whenever Headhunter deals combat damage to a player, that player discards a card.
+Morph {B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0157</id>
+    <name>Infest</name>
+    <text>All creatures get -2/-2 until end of turn.</text>
+    <flavorText>"It is from Phage that this evil springs, and to her it shall return."
+—Akroma, angelic avenger</flavorText>
+  </item>
+  <item>
+    <id>ONS0158</id>
+    <name>Misery Charm</name>
+    <text>Choose one — Destroy target Cleric; or return target Cleric card from your graveyard to your hand; or target player loses 2 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0159</id>
+    <name>Nantuko Husk</name>
+    <text>Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.</text>
+    <flavorText>The soul sheds light, and death is its shadow. When the light dims, life and death embrace.
+—Nantuko teaching</flavorText>
+  </item>
+  <item>
+    <id>ONS0160</id>
+    <name>Oversold Cemetery</name>
+    <text>At the beginning of your upkeep, if you have four or more creature cards in your graveyard, you may return target creature card from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0161</id>
+    <name>Patriarch's Bidding</name>
+    <text>Each player chooses a creature type. Each player returns all creature cards of a type chosen this way from his or her graveyard to the battlefield.</text>
+    <flavorText>"Family plots are so convenient."
+—Cabal Patriarch</flavorText>
+  </item>
+  <item>
+    <id>ONS0162</id>
+    <name>Profane Prayers</name>
+    <text>Profane Prayers deals X damage to target creature or player and you gain X life, where X is the number of Clerics on the battlefield.</text>
+    <flavorText>"We have ways to make you talk, but you have nothing interesting to say."</flavorText>
+  </item>
+  <item>
+    <id>ONS0163</id>
+    <name>Prowling Pangolin</name>
+    <text>When Prowling Pangolin enters the battlefield, any player may sacrifice two creatures. If a player does, sacrifice Prowling Pangolin.</text>
+    <flavorText>It's always hungry, yet easily sated.</flavorText>
+  </item>
+  <item>
+    <id>ONS0164</id>
+    <name>Rotlung Reanimator</name>
+    <text>Whenever Rotlung Reanimator or another Cleric is put into a graveyard from the battlefield, put a 2/2 black Zombie creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0165</id>
+    <name>Screeching Buzzard</name>
+    <text>Flying
+When Screeching Buzzard is put into a graveyard from the battlefield, each opponent discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0166</id>
+    <name>Severed Legion</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>No one in Aphetto answers a knock at the door after sundown.</flavorText>
+  </item>
+  <item>
+    <id>ONS0167</id>
+    <name>Shade's Breath</name>
+    <text>Until end of turn, each creature you control becomes black, its creature type becomes Shade, and it gains "{B}: This creature gets +1/+1 until end of turn."</text>
+    <flavorText>The grim business of the Coliseum casts long shadows.</flavorText>
+  </item>
+  <item>
+    <id>ONS0168</id>
+    <name>Shepherd of Rot</name>
+    <text>{T}: Each player loses 1 life for each Zombie on the battlefield.</text>
+    <flavorText>"My priests swore loyalty to the Cabal not until death, but beyond it."
+—Cabal Patriarch</flavorText>
+  </item>
+  <item>
+    <id>ONS0169</id>
+    <name>Silent Specter</name>
+    <text>Flying
+Whenever Silent Specter deals combat damage to a player, that player discards two cards.
+Morph {3}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0170</id>
+    <name>Smother</name>
+    <text>Destroy target creature with converted mana cost 3 or less. It can't be regenerated.</text>
+    <flavorText>"I can't hear them scream, but at least I don't have to listen to them beg."
+—Phage the Untouchable</flavorText>
+  </item>
+  <item>
+    <id>ONS0171</id>
+    <name>Soulless One</name>
+    <text>Soulless One's power and toughness are each equal to the number of Zombies on the battlefield plus the number of Zombie cards in all graveyards.</text>
+    <flavorText>"Surrender your soul to me."</flavorText>
+  </item>
+  <item>
+    <id>ONS0172</id>
+    <name>Spined Basher</name>
+    <text>Morph {2}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>"How cute. Does it do any other tricks?"
+—Braids, dementia summoner</flavorText>
+  </item>
+  <item>
+    <id>ONS0173</id>
+    <name>Strongarm Tactics</name>
+    <text>Each player discards a card. Then each player who didn't discard a creature card this way loses 4 life.</text>
+    <flavorText>"If you can't pay your gambling debts, you just might be tomorrow's main attraction at the Grand Coliseum."</flavorText>
+  </item>
+  <item>
+    <id>ONS0174</id>
+    <name>Swat</name>
+    <text>Destroy target creature with power 2 or less.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>Few who cross Phage have the chance to repeat the mistake.</flavorText>
+  </item>
+  <item>
+    <id>ONS0175</id>
+    <name>Syphon Mind</name>
+    <text>Each other player discards a card. You draw a card for each card discarded this way.</text>
+    <flavorText>When tempers run high, it's easy to lose your head.</flavorText>
+  </item>
+  <item>
+    <id>ONS0176</id>
+    <name>Syphon Soul</name>
+    <text>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.</text>
+    <flavorText>As Phage drank their energy, a vague memory of Jeska stirred. Then she lost herself again in the joy of her victims' suffering.</flavorText>
+  </item>
+  <item>
+    <id>ONS0177</id>
+    <name>Thrashing Mudspawn</name>
+    <text>Whenever Thrashing Mudspawn is dealt damage, you lose that much life.
+Morph {1}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>It just obeys you. It doesn't like you.</flavorText>
+  </item>
+  <item>
+    <id>ONS0178</id>
+    <name>Undead Gladiator</name>
+    <text>{1}{B}, Discard a card: Return Undead Gladiator from your graveyard to your hand. Activate this ability only during your upkeep.
+Cycling {1}{B} ({1}{B}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0179</id>
+    <name>Visara the Dreadful</name>
+    <text>Flying
+{T}: Destroy target creature. It can't be regenerated.</text>
+    <flavorText>"My eyes are my strongest feature."</flavorText>
+  </item>
+  <item>
+    <id>ONS0180</id>
+    <name>Walking Desecration</name>
+    <text>{B}, {T}: Creatures of the creature type of your choice attack this turn if able.</text>
+    <flavorText>Such sacrilege turns blinding grief into blinding rage.</flavorText>
+  </item>
+  <item>
+    <id>ONS0181</id>
+    <name>Withering Hex</name>
+    <text>Enchant creature
+Whenever a player cycles a card, put a plague counter on Withering Hex.
+Enchanted creature gets -1/-1 for each plague counter on Withering Hex.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0182</id>
+    <name>Words of Waste</name>
+    <text>{1}: The next time you would draw a card this turn, each opponent discards a card instead.</text>
+    <flavorText>"Terror corrupts order and paralyzes instinct."
+—Volume III, The Book of Decay</flavorText>
+  </item>
+  <item>
+    <id>ONS0183</id>
+    <name>Wretched Anurid</name>
+    <text>Whenever another creature enters the battlefield, you lose 1 life.</text>
+    <flavorText>The only prince inside this frog is the one it ate.</flavorText>
+  </item>
+  <item>
+    <id>ONS0184</id>
+    <name>Æther Charge</name>
+    <text>Whenever a Beast enters the battlefield under your control, you may have it deal 4 damage to target opponent.</text>
+    <flavorText>"Is it just me, or does that meteor have teeth?"</flavorText>
+  </item>
+  <item>
+    <id>ONS0185</id>
+    <name>Aggravated Assault</name>
+    <text>{3}{R}{R}: Untap all creatures you control. After this main phase, there is an additional combat phase followed by an additional main phase. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0186</id>
+    <name>Airdrop Condor</name>
+    <text>Flying
+{1}{R}, Sacrifice a Goblin creature: Airdrop Condor deals damage equal to the sacrificed creature's power to target creature or player.</text>
+    <flavorText>It has two kinds of droppings, neither of which is particularly pleasant.</flavorText>
+  </item>
+  <item>
+    <id>ONS0187</id>
+    <name>Avarax</name>
+    <text>Haste
+When Avarax enters the battlefield, you may search your library for a card named Avarax, reveal it, and put it into your hand. If you do, shuffle your library.
+{1}{R}: Avarax gets +1/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0188</id>
+    <name>Battering Craghorn</name>
+    <text>First strike
+Morph {1}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>Their skeletons can be found all over Skirk Ridge, tangled in each other's horns.</flavorText>
+  </item>
+  <item>
+    <id>ONS0189</id>
+    <name>Blistering Firecat</name>
+    <text>Trample, haste
+At the beginning of the end step, sacrifice Blistering Firecat.
+Morph {R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0190</id>
+    <name>Break Open</name>
+    <text>Turn target face-down creature an opponent controls face up.</text>
+    <flavorText>There are two ways to resolve puzzling situations: thoughtful contemplation or force. After thoughtful contemplation, most barbarians choose force.</flavorText>
+  </item>
+  <item>
+    <id>ONS0191</id>
+    <name>Brightstone Ritual</name>
+    <text>Add {R} to your mana pool for each Goblin on the battlefield.</text>
+    <flavorText>Wizards fought over the stone to exploit its power. Goblins fight over it because it's shiny.</flavorText>
+  </item>
+  <item>
+    <id>ONS0192</id>
+    <name>Butcher Orgg</name>
+    <text>You may assign Butcher Orgg's combat damage divided as you choose among defending player and/or any number of creatures he or she controls.</text>
+    <flavorText>It can kill you with three arms tied behind its back.</flavorText>
+  </item>
+  <item>
+    <id>ONS0193</id>
+    <name>Chain of Plasma</name>
+    <text>Chain of Plasma deals 3 damage to target creature or player. Then that player or that creature's controller may discard a card. If the player does, he or she may copy this spell and may choose a new target for that copy.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0194</id>
+    <name>Charging Slateback</name>
+    <text>Charging Slateback can't block.
+Morph {4}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>Goblins prize its hide for building rock sled runners.</flavorText>
+  </item>
+  <item>
+    <id>ONS0195</id>
+    <name>Commando Raid</name>
+    <text>Until end of turn, target creature you control gains "When this creature deals combat damage to a player, you may have it deal damage equal to its power to target creature that player controls."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0196</id>
+    <name>Crown of Fury</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+0 and has first strike.
+Sacrifice Crown of Fury: Enchanted creature and other creatures that share a creature type with it get +1/+0 and gain first strike until end of turn.</text>
+    <flavorText>"Passion, fire my heart."</flavorText>
+  </item>
+  <item>
+    <id>ONS0197</id>
+    <name>Custody Battle</name>
+    <text>Enchant creature
+Enchanted creature has "At the beginning of your upkeep, target opponent gains control of this creature unless you sacrifice a land."</text>
+    <flavorText>Goblins resolve disputes by splitting everything straight down the middle.</flavorText>
+  </item>
+  <item>
+    <id>ONS0198</id>
+    <name>Dragon Roost</name>
+    <text>{5}{R}{R}: Put a 5/5 red Dragon creature token with flying onto the battlefield. (It can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>A powerful mage created the roost to guard a portal between the planes. The mage is long gone, but dragons still keep watch at the gate.</flavorText>
+  </item>
+  <item>
+    <id>ONS0199</id>
+    <name>Dwarven Blastminer</name>
+    <text>{2}{R}, {T}: Destroy target nonbasic land.
+Morph {R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>"Life is too short for something like a hunk of rock to get in my way."</flavorText>
+  </item>
+  <item>
+    <id>ONS0200</id>
+    <name>Embermage Goblin</name>
+    <text>When Embermage Goblin enters the battlefield, you may search your library for a card named Embermage Goblin, reveal it, and put it into your hand. If you do, shuffle your library.
+{T}: Embermage Goblin deals 1 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0201</id>
+    <name>Erratic Explosion</name>
+    <text>Choose target creature or player. Reveal cards from the top of your library until you reveal a nonland card. Erratic Explosion deals damage equal to that card's converted mana cost to that creature or player. Put the revealed cards on the bottom of your library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0202</id>
+    <name>Fever Charm</name>
+    <text>Choose one — Target creature gains haste until end of turn; or target creature gets +2/+0 until end of turn; or Fever Charm deals 3 damage to target Wizard creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0203</id>
+    <name>Flamestick Courier</name>
+    <text>You may choose not to untap Flamestick Courier during your untap step.
+{2}{R}, {T}: Target Goblin creature gets +2/+2 and has haste for as long as Flamestick Courier remains tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0204</id>
+    <name>Goblin Machinist</name>
+    <text>{2}{R}: Reveal cards from the top of your library until you reveal a nonland card. Goblin Machinist gets +X/+0 until end of turn, where X is that card's converted mana cost. Put the revealed cards on the bottom of your library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0205</id>
+    <name>Goblin Piledriver</name>
+    <text>Protection from blue
+Whenever Goblin Piledriver attacks, it gets +2/+0 until end of turn for each other attacking Goblin.</text>
+    <flavorText>Throw enough goblins at any problem and it should go away. At the very least, there'll be fewer goblins.</flavorText>
+  </item>
+  <item>
+    <id>ONS0206</id>
+    <name>Goblin Pyromancer</name>
+    <text>When Goblin Pyromancer enters the battlefield, Goblin creatures get +3/+0 until end of turn.
+At the beginning of the end step, destroy all Goblins.</text>
+    <flavorText>"The good news is, we figured out how the wand works. The bad news is, we figured out how the wand works."</flavorText>
+  </item>
+  <item>
+    <id>ONS0207</id>
+    <name>Goblin Sharpshooter</name>
+    <text>Goblin Sharpshooter doesn't untap during your untap step.
+Whenever a creature is put into a graveyard from the battlefield, untap Goblin Sharpshooter.
+{T}: Goblin Sharpshooter deals 1 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0208</id>
+    <name>Goblin Sky Raider</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>The goblin word for "flying" is more accurately translated as "falling slowly."</flavorText>
+  </item>
+  <item>
+    <id>ONS0209</id>
+    <name>Goblin Sledder</name>
+    <text>Sacrifice a Goblin: Target creature gets +1/+1 until end of turn.</text>
+    <flavorText>"Let's play ‘sled.' Here's how it works: you're the sled."</flavorText>
+  </item>
+  <item>
+    <id>ONS0210</id>
+    <name>Goblin Taskmaster</name>
+    <text>{1}{R}: Target Goblin creature gets +1/+0 until end of turn.
+Morph {R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>For some reason, goblin fighting school isn't as crowded on day two.</flavorText>
+  </item>
+  <item>
+    <id>ONS0211</id>
+    <name>Grand Melee</name>
+    <text>All creatures attack each turn if able.
+
+All creatures block each turn if able.</text>
+    <flavorText>Hot blood washes away cold reason.</flavorText>
+  </item>
+  <item>
+    <id>ONS0212</id>
+    <name>Gratuitous Violence</name>
+    <text>If a creature you control would deal damage to a creature or player, it deals double that damage to that creature or player instead.</text>
+    <flavorText>Only the Cabal could make a fight to the death more deadly.</flavorText>
+  </item>
+  <item>
+    <id>ONS0213</id>
+    <name>Insurrection</name>
+    <text>Untap all creatures and gain control of them until end of turn. They gain haste until end of turn.</text>
+    <flavorText>"Maybe they wanted to be on the winning side for once."
+—Matoc, lavamancer</flavorText>
+  </item>
+  <item>
+    <id>ONS0214</id>
+    <name>Kaboom!</name>
+    <text>Choose any number of target players. For each of those players, reveal cards from the top of your library until you reveal a nonland card. Kaboom deals damage equal to that card's converted mana cost to that player, then you put the revealed cards on the bottom of your library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0215</id>
+    <name>Lavamancer's Skill</name>
+    <text>Enchant creature
+Enchanted creature has "{T}: This creature deals 1 damage to target creature."
+If enchanted creature is a Wizard, it has "{T}: This creature deals 2 damage to target creature."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0216</id>
+    <name>Lay Waste</name>
+    <text>Destroy target land.
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>Skirk Ridge had survived earthquakes, mudslides, and meteor showers. Then the goblins moved in.</flavorText>
+  </item>
+  <item>
+    <id>ONS0217</id>
+    <name>Lightning Rift</name>
+    <text>Whenever a player cycles a card, you may pay {1}. If you do, Lightning Rift deals 2 damage to target creature or player.</text>
+    <flavorText>Options will cost you, but a lack of them will cost you even more.</flavorText>
+  </item>
+  <item>
+    <id>ONS0218</id>
+    <name>Mana Echoes</name>
+    <text>Whenever a creature enters the battlefield, you may add {X} to your mana pool, where X is the number of creatures you control that share a creature type with it.</text>
+    <flavorText>When the ground is saturated with mana, even the lightest footstep can bring it to the surface.</flavorText>
+  </item>
+  <item>
+    <id>ONS0219</id>
+    <name>Menacing Ogre</name>
+    <text>Trample, haste
+When Menacing Ogre enters the battlefield, each player secretly chooses a number. Then those numbers are revealed. Each player with the highest number loses that much life. If you are one of those players, put two +1/+1 counters on Menacing Ogre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0220</id>
+    <name>Nosy Goblin</name>
+    <text>{T}, Sacrifice Nosy Goblin: Destroy target face-down creature.</text>
+    <flavorText>To his surprise, Furt discovered that the strange creatures were not at all like bugs.</flavorText>
+  </item>
+  <item>
+    <id>ONS0221</id>
+    <name>Pinpoint Avalanche</name>
+    <text>Pinpoint Avalanche deals 4 damage to target creature. The damage can't be prevented.</text>
+    <flavorText>"Some solve problems by thinking and talking. Others use rocks."
+—Toggo, goblin weaponsmith</flavorText>
+  </item>
+  <item>
+    <id>ONS0222</id>
+    <name>Reckless One</name>
+    <text>Haste
+Reckless One's power and toughness are each equal to the number of Goblins on the battlefield.</text>
+    <flavorText>"Release chaos with me"</flavorText>
+  </item>
+  <item>
+    <id>ONS0223</id>
+    <name>Risky Move</name>
+    <text>At the beginning of each player's upkeep, that player gains control of Risky Move.
+
+When you gain control of Risky Move from another player, choose a creature you control and an opponent. Flip a coin. If you lose the flip, that opponent gains control of that creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0224</id>
+    <name>Rorix Bladewing</name>
+    <text>Flying, haste</text>
+    <flavorText>In the smoldering ashes of Shiv, a few dragons strive to rebuild their native land. The rest seek any opportunity to restore the broken pride of their race.</flavorText>
+  </item>
+  <item>
+    <id>ONS0225</id>
+    <name>Searing Flesh</name>
+    <text>Searing Flesh deals 7 damage to target opponent.</text>
+    <flavorText>Zemoo found out the hard way that "inflammable" and "flammable" mean the same thing.</flavorText>
+  </item>
+  <item>
+    <id>ONS0226</id>
+    <name>Shaleskin Bruiser</name>
+    <text>Trample
+Whenever Shaleskin Bruiser attacks, it gets +3/+0 until end of turn for each other attacking Beast.</text>
+    <flavorText>Its only predators are the elements.</flavorText>
+  </item>
+  <item>
+    <id>ONS0227</id>
+    <name>Shock</name>
+    <text>Shock deals 2 damage to target creature or player.</text>
+    <flavorText>"I love lightning It's my best invention since the rock."
+—Toggo, goblin weaponsmith</flavorText>
+  </item>
+  <item>
+    <id>ONS0228</id>
+    <name>Skirk Commando</name>
+    <text>Whenever Skirk Commando deals combat damage to a player, you may have it deal 2 damage to target creature that player controls.
+Morph {2}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0229</id>
+    <name>Skirk Fire Marshal</name>
+    <text>Protection from red
+Tap five untapped Goblins you control: Skirk Fire Marshal deals 10 damage to each creature and each player.</text>
+    <flavorText>He's boss because he's smart enough to get out of the way.</flavorText>
+  </item>
+  <item>
+    <id>ONS0230</id>
+    <name>Skirk Prospector</name>
+    <text>Sacrifice a Goblin: Add {R} to your mana pool.</text>
+    <flavorText>"I like goblins. They make funny little popping sounds when they die."
+—Braids, dementia summoner</flavorText>
+  </item>
+  <item>
+    <id>ONS0231</id>
+    <name>Skittish Valesk</name>
+    <text>At the beginning of your upkeep, flip a coin. If you lose the flip, turn Skittish Valesk face down.
+Morph {5}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0232</id>
+    <name>Slice and Dice</name>
+    <text>Slice and Dice deals 4 damage to each creature.
+Cycling {2}{R} ({2}{R}, Discard this card: Draw a card.)
+When you cycle Slice and Dice, you may have it deal 1 damage to each creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0233</id>
+    <name>Snapping Thragg</name>
+    <text>Whenever Snapping Thragg deals combat damage to a player, you may have it deal 3 damage to target creature that player controls.
+Morph {4}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0234</id>
+    <name>Solar Blast</name>
+    <text>Solar Blast deals 3 damage to target creature or player.
+Cycling {1}{R}{R} ({1}{R}{R}, Discard this card: Draw a card.)
+When you cycle Solar Blast, you may have it deal 1 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0235</id>
+    <name>Sparksmith</name>
+    <text>{T}: Sparksmith deals X damage to target creature and X damage to you, where X is the number of Goblins on the battlefield.</text>
+    <flavorText>"If it didn't hurt, how would I know it worked?"</flavorText>
+  </item>
+  <item>
+    <id>ONS0236</id>
+    <name>Spitfire Handler</name>
+    <text>Spitfire Handler can't block creatures with power greater than Spitfire Handler's power.
+{R}: Spitfire Handler gets +1/+0 until end of turn.</text>
+    <flavorText>"Wait 'til Toggo sees this"</flavorText>
+  </item>
+  <item>
+    <id>ONS0237</id>
+    <name>Spurred Wolverine</name>
+    <text>Tap two untapped Beasts you control: Target creature gains first strike until end of turn.</text>
+    <flavorText>After a few painful experiences, goblins learned not to pick their noses around the beasts.</flavorText>
+  </item>
+  <item>
+    <id>ONS0238</id>
+    <name>Starstorm</name>
+    <text>Starstorm deals X damage to each creature.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    <flavorText>Pardic barbarians didn't complain when the Order started blaming every crisis on the Cabal.</flavorText>
+  </item>
+  <item>
+    <id>ONS0239</id>
+    <name>Tephraderm</name>
+    <text>Whenever a creature deals damage to Tephraderm, Tephraderm deals that much damage to that creature.
+
+Whenever a spell deals damage to Tephraderm, Tephraderm deals that much damage to that spell's controller.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0240</id>
+    <name>Thoughtbound Primoc</name>
+    <text>Flying
+At the beginning of your upkeep, if a player controls more Wizards than each other player, that player gains control of Thoughtbound Primoc.</text>
+    <flavorText>Efforts to use them as spies failed when they kept reporting to the enemy.</flavorText>
+  </item>
+  <item>
+    <id>ONS0241</id>
+    <name>Threaten</name>
+    <text>Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and {T} this turn.)</text>
+    <flavorText>Goblins' motivational techniques are crude, but effective.</flavorText>
+  </item>
+  <item>
+    <id>ONS0242</id>
+    <name>Thunder of Hooves</name>
+    <text>Thunder of Hooves deals X damage to each creature without flying and each player, where X is the number of Beasts on the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0243</id>
+    <name>Wave of Indifference</name>
+    <text>X target creatures can't block this turn.</text>
+    <flavorText>"Darius?"
+"Yeah?"
+"There's a goblin sneaking up on you."
+"So?"
+"Just sayin'."</flavorText>
+  </item>
+  <item>
+    <id>ONS0244</id>
+    <name>Words of War</name>
+    <text>{1}: The next time you would draw a card this turn, Words of War deals 2 damage to target creature or player instead.</text>
+    <flavorText>"Passions can't be shackled by laws or mastered with logic. The choice is freedom or death."
+—Volume IV, The Book of Fire</flavorText>
+  </item>
+  <item>
+    <id>ONS0245</id>
+    <name>Animal Magnetism</name>
+    <text>Reveal the top five cards of your library. An opponent chooses a creature card from among them. Put that card onto the battlefield and the rest into your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0246</id>
+    <name>Barkhide Mauler</name>
+    <text>Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>Anywhere else they would be hunted for their skins, but in Wirewood, they are safe.</flavorText>
+  </item>
+  <item>
+    <id>ONS0247</id>
+    <name>Biorhythm</name>
+    <text>Each player's life total becomes the number of creatures he or she controls.</text>
+    <flavorText>"I have seen life's purpose, and now it is my own."
+—Kamahl, druid acolyte</flavorText>
+  </item>
+  <item>
+    <id>ONS0248</id>
+    <name>Birchlore Rangers</name>
+    <text>Tap two untapped Elves you control: Add one mana of any color to your mana pool.
+Morph {G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0249</id>
+    <name>Bloodline Shaman</name>
+    <text>{T}: Choose a creature type. Reveal the top card of your library. If that card is a creature card of the chosen type, put it into your hand. Otherwise, put it into your graveyard.</text>
+    <flavorText>Every creature of the forest has a name, and she knows them all.</flavorText>
+  </item>
+  <item>
+    <id>ONS0250</id>
+    <name>Broodhatch Nantuko</name>
+    <text>Whenever Broodhatch Nantuko is dealt damage, you may put that many 1/1 green Insect creature tokens onto the battlefield.
+Morph {2}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0251</id>
+    <name>Centaur Glade</name>
+    <text>{2}{G}{G}: Put a 3/3 green Centaur creature token onto the battlefield.</text>
+    <flavorText>The Mirari called to the centaurs, and all who heard it were forever changed.</flavorText>
+  </item>
+  <item>
+    <id>ONS0252</id>
+    <name>Chain of Acid</name>
+    <text>Destroy target noncreature permanent. Then that permanent's controller may copy this spell and may choose a new target for that copy.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0253</id>
+    <name>Crown of Vigor</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+1.
+Sacrifice Crown of Vigor: Enchanted creature and other creatures that share a creature type with it get +1/+1 until end of turn.</text>
+    <flavorText>"Life, be my shield."</flavorText>
+  </item>
+  <item>
+    <id>ONS0254</id>
+    <name>Elven Riders</name>
+    <text>Elven Riders can't be blocked except by Walls and/or creatures with flying.</text>
+    <flavorText>"Wirewood cannot hide great size. Only with speed and skill can we survive here."</flavorText>
+  </item>
+  <item>
+    <id>ONS0255</id>
+    <name>Elvish Guidance</name>
+    <text>Enchant land
+Whenever enchanted land is tapped for mana, its controller adds {G} to his or her mana pool for each Elf on the battlefield (in addition to the mana the land produces).</text>
+    <flavorText>"Old home never forgotten, new home ours forever."</flavorText>
+  </item>
+  <item>
+    <id>ONS0256</id>
+    <name>Elvish Pathcutter</name>
+    <text>{2}{G}: Target Elf creature gains forestwalk until end of turn.</text>
+    <flavorText>In harsh times, the strongest currency is cooperation.</flavorText>
+  </item>
+  <item>
+    <id>ONS0257</id>
+    <name>Elvish Pioneer</name>
+    <text>When Elvish Pioneer enters the battlefield, you may put a basic land card from your hand onto the battlefield tapped.</text>
+    <flavorText>"Destruction is the work of an afternoon. Creation is the work of a lifetime."
+—Kamahl, druid acolyte</flavorText>
+  </item>
+  <item>
+    <id>ONS0258</id>
+    <name>Elvish Scrapper</name>
+    <text>{G}, {T}, Sacrifice Elvish Scrapper: Destroy target artifact.</text>
+    <flavorText>"The stories tell of a distant time when machines overran the forests, destroying everything that lived. That time will not come again."</flavorText>
+  </item>
+  <item>
+    <id>ONS0259</id>
+    <name>Elvish Vanguard</name>
+    <text>Whenever another Elf enters the battlefield, put a +1/+1 counter on Elvish Vanguard.</text>
+    <flavorText>"Our lives are woven together like the trees' branches over our heads, forming a canopy that protects us all."</flavorText>
+  </item>
+  <item>
+    <id>ONS0260</id>
+    <name>Elvish Warrior</name>
+    <text>
+    </text>
+    <flavorText>"My tales of war are the stories most asked for around the fires at night, but they're the ones I care least to tell."</flavorText>
+  </item>
+  <item>
+    <id>ONS0261</id>
+    <name>Enchantress's Presence</name>
+    <text>Whenever you cast an enchantment spell, draw a card.</text>
+    <flavorText>"The wise learn from successes as well as mistakes."</flavorText>
+  </item>
+  <item>
+    <id>ONS0262</id>
+    <name>Everglove Courier</name>
+    <text>You may choose not to untap Everglove Courier during your untap step.
+{2}{G}, {T}: Target Elf creature gets +2/+2 and has trample for as long as Everglove Courier remains tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0263</id>
+    <name>Explosive Vegetation</name>
+    <text>Search your library for up to two basic land cards and put them onto the battlefield tapped. Then shuffle your library.</text>
+    <flavorText>Torching Krosa would be pointless. It grows faster than it burns.</flavorText>
+  </item>
+  <item>
+    <id>ONS0264</id>
+    <name>Gigapede</name>
+    <text>Shroud (This permanent can't be the target of spells or abilities.)
+At the beginning of your upkeep, if Gigapede is in your graveyard, you may discard a card. If you do, return Gigapede to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0265</id>
+    <name>Heedless One</name>
+    <text>Trample
+Heedless One's power and toughness are each equal to the number of Elves on the battlefield.</text>
+    <flavorText>"Channel your vitality through me."</flavorText>
+  </item>
+  <item>
+    <id>ONS0266</id>
+    <name>Hystrodon</name>
+    <text>Trample
+Whenever Hystrodon deals combat damage to a player, you may draw a card.
+Morph {1}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0267</id>
+    <name>Invigorating Boon</name>
+    <text>Whenever a player cycles a card, you may put a +1/+1 counter on target creature.</text>
+    <flavorText>The Mirari's echoes rang in the scouts' minds long after they had returned from the Krosan Forest.</flavorText>
+  </item>
+  <item>
+    <id>ONS0268</id>
+    <name>Kamahl, Fist of Krosa</name>
+    <text>{G}: Target land becomes a 1/1 creature until end of turn. It's still a land.
+{2}{G}{G}{G}: Creatures you control get +3/+3 and gain trample until end of turn.</text>
+    <flavorText>"My mind has changed. My strength has not."</flavorText>
+  </item>
+  <item>
+    <id>ONS0269</id>
+    <name>Kamahl's Summons</name>
+    <text>Each player may reveal any number of creature cards from his or her hand. Then each player puts a 2/2 green Bear creature token onto the battlefield for each card he or she revealed this way.</text>
+    <flavorText>As Krosa unleashed the peace in Kamahl, he unleashed the fury in Krosa.</flavorText>
+  </item>
+  <item>
+    <id>ONS0270</id>
+    <name>Krosan Colossus</name>
+    <text>Morph {6}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>When it walked, it altered geography. When it bellowed, it changed the weather.</flavorText>
+  </item>
+  <item>
+    <id>ONS0271</id>
+    <name>Krosan Groundshaker</name>
+    <text>{G}: Target Beast creature gains trample until end of turn.</text>
+    <flavorText>You know it's coming when you hear the distant thunder. You know where it's been when you see the path of broken trees.</flavorText>
+  </item>
+  <item>
+    <id>ONS0272</id>
+    <name>Krosan Tusker</name>
+    <text>Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle Krosan Tusker, you may search your library for a basic land card, reveal that card, put it into your hand, then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0273</id>
+    <name>Leery Fogbeast</name>
+    <text>Whenever Leery Fogbeast becomes blocked, prevent all combat damage that would be dealt this turn.</text>
+    <flavorText>It emerges from the mists only to feed.</flavorText>
+  </item>
+  <item>
+    <id>ONS0274</id>
+    <name>Mythic Proportions</name>
+    <text>Enchant creature
+Enchanted creature gets +8/+8 and has trample.</text>
+    <flavorText>The blood of Krosa turns rational beings into primal forces.</flavorText>
+  </item>
+  <item>
+    <id>ONS0275</id>
+    <name>Naturalize</name>
+    <text>Destroy target artifact or enchantment.</text>
+    <flavorText>"From here, let the world be reborn."</flavorText>
+  </item>
+  <item>
+    <id>ONS0276</id>
+    <name>Overwhelming Instinct</name>
+    <text>Whenever you attack with three or more creatures, draw a card.</text>
+    <flavorText>The biggest difference between a victory and a massacre is which side you're on.</flavorText>
+  </item>
+  <item>
+    <id>ONS0277</id>
+    <name>Primal Boost</name>
+    <text>Target creature gets +4/+4 until end of turn.
+Cycling {2}{G} ({2}{G}, Discard this card: Draw a card.)
+When you cycle Primal Boost, you may have target creature get +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0278</id>
+    <name>Ravenous Baloth</name>
+    <text>Sacrifice a Beast: You gain 4 life.</text>
+    <flavorText>"All we know about the Krosan Forest we have learned from those few who made it out alive."
+—Elvish refugee</flavorText>
+  </item>
+  <item>
+    <id>ONS0279</id>
+    <name>Run Wild</name>
+    <text>Until end of turn, target creature gains trample and "{G}: Regenerate this creature."</text>
+    <flavorText>Wirewood's beasts didn't seem to mind when the elves moved in. In fact, they hardly noticed them underfoot.</flavorText>
+  </item>
+  <item>
+    <id>ONS0280</id>
+    <name>Serpentine Basilisk</name>
+    <text>Whenever Serpentine Basilisk deals combat damage to a creature, destroy that creature at end of combat.
+Morph {1}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0281</id>
+    <name>Silklash Spider</name>
+    <text>Reach (This creature can block creatures with flying.)
+{X}{G}{G}: Silklash Spider deals X damage to each creature with flying.</text>
+    <flavorText>The only thing that flies over the Krosan Forest is the wind.</flavorText>
+  </item>
+  <item>
+    <id>ONS0282</id>
+    <name>Silvos, Rogue Elemental</name>
+    <text>Trample
+{G}: Regenerate Silvos, Rogue Elemental.</text>
+    <flavorText>He was born of the Mirari, thrust out of his homeland before he was even aware. Left without purpose or meaning, he found both in the pits.</flavorText>
+  </item>
+  <item>
+    <id>ONS0283</id>
+    <name>Snarling Undorak</name>
+    <text>{2}{G}: Target Beast creature gets +1/+1 until end of turn.
+Morph {1}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>Most creatures in the Krosan Forest feared the Mirari's power. A few fed upon it.</flavorText>
+  </item>
+  <item>
+    <id>ONS0284</id>
+    <name>Spitting Gourna</name>
+    <text>Reach (This creature can block creatures with flying.)
+Morph {4}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0285</id>
+    <name>Stag Beetle</name>
+    <text>Stag Beetle enters the battlefield with X +1/+1 counters on it, where X is the number of other creatures on the battlefield.</text>
+    <flavorText>Its voice crackles with the hum of a thousand wings beating at once.</flavorText>
+  </item>
+  <item>
+    <id>ONS0286</id>
+    <name>Steely Resolve</name>
+    <text>As Steely Resolve enters the battlefield, choose a creature type.
+Creatures of the chosen type have shroud. (They can't be the targets of spells or abilities.)</text>
+    <flavorText>No one in Wirewood understands what is happening. They just know it's unnatural—and coming from Krosa.</flavorText>
+  </item>
+  <item>
+    <id>ONS0287</id>
+    <name>Symbiotic Beast</name>
+    <text>When Symbiotic Beast is put into a graveyard from the battlefield, put four 1/1 green Insect creature tokens onto the battlefield.</text>
+    <flavorText>The insects found a meal in the carrion of the beast's prey. The beast found a spiffy new hairstyle.</flavorText>
+  </item>
+  <item>
+    <id>ONS0288</id>
+    <name>Symbiotic Elf</name>
+    <text>When Symbiotic Elf is put into a graveyard from the battlefield, put two 1/1 green Insect creature tokens onto the battlefield.</text>
+    <flavorText>The elves arriving in Wirewood had no homes, let alone weapons, but they knew that the forest would always provide.</flavorText>
+  </item>
+  <item>
+    <id>ONS0289</id>
+    <name>Symbiotic Wurm</name>
+    <text>When Symbiotic Wurm is put into a graveyard from the battlefield, put seven 1/1 green Insect creature tokens onto the battlefield.</text>
+    <flavorText>The insects keep the wurm's hide free from parasites. In return, the wurm doesn't eat the insects.</flavorText>
+  </item>
+  <item>
+    <id>ONS0290</id>
+    <name>Taunting Elf</name>
+    <text>All creatures able to block Taunting Elf do so.</text>
+    <flavorText>The safety of the village depends on the beast thinking with its stomach.</flavorText>
+  </item>
+  <item>
+    <id>ONS0291</id>
+    <name>Tempting Wurm</name>
+    <text>When Tempting Wurm enters the battlefield, each opponent may put any number of artifact, creature, enchantment, and/or land cards from his or her hand onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0292</id>
+    <name>Towering Baloth</name>
+    <text>Morph {6}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>The Mirari twisted all that lived in the Krosan Forest into gross mockeries of their former selves.</flavorText>
+  </item>
+  <item>
+    <id>ONS0293</id>
+    <name>Treespring Lorian</name>
+    <text>Morph {5}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>No matter your strength, the Krosan Forest is stronger. No matter your speed, the Wirewood Forest is faster.</flavorText>
+  </item>
+  <item>
+    <id>ONS0294</id>
+    <name>Tribal Unity</name>
+    <text>Creatures of the creature type of your choice get +X/+X until end of turn.</text>
+    <flavorText>Kamahl left the violence of his former life behind him, but he still believes in the power of muscle.</flavorText>
+  </item>
+  <item>
+    <id>ONS0295</id>
+    <name>Venomspout Brackus</name>
+    <text>{1}{G}, {T}: Venomspout Brackus deals 5 damage to target attacking or blocking creature with flying.
+Morph {3}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0296</id>
+    <name>Vitality Charm</name>
+    <text>Choose one — Put a 1/1 green Insect creature token onto the battlefield; or target creature gets +1/+1 and gains trample until end of turn; or regenerate target Beast.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0297</id>
+    <name>Voice of the Woods</name>
+    <text>Tap five untapped Elves you control: Put a 7/7 green Elemental creature token with trample onto the battlefield.</text>
+    <flavorText>The ritual of making draws upon the elves' memories and pasts. And elves have long memories and ancient pasts.</flavorText>
+  </item>
+  <item>
+    <id>ONS0298</id>
+    <name>Wall of Mulch</name>
+    <text>Defender (This creature can't attack.)
+{G}, Sacrifice a Wall: Draw a card.</text>
+    <flavorText>Mulch is the fabric of life in the forest. Plants live in it, they die in it, and then they become part of it, feeding countless generations to come.</flavorText>
+  </item>
+  <item>
+    <id>ONS0299</id>
+    <name>Weird Harvest</name>
+    <text>Each player may search his or her library for up to X creature cards, reveal those cards, and put them into his or her hand. Then each player who searched his or her library this way shuffles it.</text>
+    <flavorText>Krosa's distorted groves bear strange fruit.</flavorText>
+  </item>
+  <item>
+    <id>ONS0300</id>
+    <name>Wellwisher</name>
+    <text>{T}: You gain 1 life for each Elf on the battlefield.</text>
+    <flavorText>"Close your ears to the voice of greed, and you can turn a gift for one into a gift for many."</flavorText>
+  </item>
+  <item>
+    <id>ONS0301</id>
+    <name>Wirewood Elf</name>
+    <text>{T}: Add {G} to your mana pool.</text>
+    <flavorText>"The land belongs to nature as far as our eyes can see. The higher we climb, the more we can see."</flavorText>
+  </item>
+  <item>
+    <id>ONS0302</id>
+    <name>Wirewood Herald</name>
+    <text>When Wirewood Herald is put into a graveyard from the battlefield, you may search your library for an Elf card, reveal that card, put it into your hand, then shuffle your library.</text>
+    <flavorText>The goblins laughed as the elf ran away, until more came back.</flavorText>
+  </item>
+  <item>
+    <id>ONS0303</id>
+    <name>Wirewood Pride</name>
+    <text>Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.</text>
+    <flavorText>"Though you may leave this haven we have found, may our strength never leave you."</flavorText>
+  </item>
+  <item>
+    <id>ONS0304</id>
+    <name>Wirewood Savage</name>
+    <text>Whenever a Beast enters the battlefield, you may draw a card.</text>
+    <flavorText>"She is truly Wirewood's child now."
+—Elvish refugee</flavorText>
+  </item>
+  <item>
+    <id>ONS0305</id>
+    <name>Words of Wilding</name>
+    <text>{1}: The next time you would draw a card this turn, put a 2/2 green Bear creature token onto the battlefield instead.</text>
+    <flavorText>"Instinct is undaunted by terror, unchained by logic. It is the path from which all other paths diverge."
+—Volume V, The Book of Life</flavorText>
+  </item>
+  <item>
+    <id>ONS0306</id>
+    <name>Cryptic Gateway</name>
+    <text>Tap two untapped creatures you control: You may put a creature card from your hand that shares a creature type with each creature tapped this way onto the battlefield.</text>
+    <flavorText>Its lock changes to fit each key.</flavorText>
+  </item>
+  <item>
+    <id>ONS0307</id>
+    <name>Doom Cannon</name>
+    <text>As Doom Cannon enters the battlefield, choose a creature type.
+{3}, {T}, Sacrifice a creature of the chosen type: Doom Cannon deals 3 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0308</id>
+    <name>Dream Chisel</name>
+    <text>Face-down creature spells you cast cost {1} less to cast.</text>
+    <flavorText>Itself a product of Ixidor's tortured psyche, the chisel brings his darkest dreams to life.</flavorText>
+  </item>
+  <item>
+    <id>ONS0309</id>
+    <name>Riptide Replicator</name>
+    <text>As Riptide Replicator enters the battlefield, choose a color and a creature type.
+Riptide Replicator enters the battlefield with X charge counters on it.
+{4}, {T}: Put an X/X creature token of the chosen color and type onto the battlefield, where X is the number of charge counters on Riptide Replicator.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0310</id>
+    <name>Slate of Ancestry</name>
+    <text>{4}, {T}, Discard your hand: Draw a card for each creature you control.</text>
+    <flavorText>The pattern of life can be studied like a book, if you know how to read it.</flavorText>
+  </item>
+  <item>
+    <id>ONS0311</id>
+    <name>Tribal Golem</name>
+    <text>Tribal Golem has trample as long as you control a Beast, haste as long as you control a Goblin, first strike as long as you control a Soldier, flying as long as you control a Wizard, and "{B}: Regenerate Tribal Golem" as long as you control a Zombie.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0312</id>
+    <name>Barren Moor</name>
+    <text>Barren Moor enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+Cycling {B} ({B}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0313</id>
+    <name>Bloodstained Mire</name>
+    <text>{T}, Pay 1 life, Sacrifice Bloodstained Mire: Search your library for a Swamp or Mountain card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0314</id>
+    <name>Contested Cliffs</name>
+    <text>{T}: Add {1} to your mana pool.
+{R}{G}, {T}: Choose target Beast creature you control and target creature an opponent controls. Each of those creatures deals damage equal to its power to the other.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0315</id>
+    <name>Daru Encampment</name>
+    <text>{T}: Add {1} to your mana pool.
+{W}, {T}: Target Soldier creature gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0316</id>
+    <name>Flooded Strand</name>
+    <text>{T}, Pay 1 life, Sacrifice Flooded Strand: Search your library for a Plains or Island card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0317</id>
+    <name>Forgotten Cave</name>
+    <text>Forgotten Cave enters the battlefield tapped.
+{T}: Add {R} to your mana pool.
+Cycling {R} ({R}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0318</id>
+    <name>Goblin Burrows</name>
+    <text>{T}: Add {1} to your mana pool.
+{1}{R}, {T}: Target Goblin creature gets +2/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0319</id>
+    <name>Grand Coliseum</name>
+    <text>Grand Coliseum enters the battlefield tapped.
+{T}: Add {1} to your mana pool.
+{T}: Add one mana of any color to your mana pool. Grand Coliseum deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0320</id>
+    <name>Lonely Sandbar</name>
+    <text>Lonely Sandbar enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+Cycling {U} ({U}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0321</id>
+    <name>Polluted Delta</name>
+    <text>{T}, Pay 1 life, Sacrifice Polluted Delta: Search your library for an Island or Swamp card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0322</id>
+    <name>Riptide Laboratory</name>
+    <text>{T}: Add {1} to your mana pool.
+{1}{U}, {T}: Return target Wizard you control to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0323</id>
+    <name>Seaside Haven</name>
+    <text>{T}: Add {1} to your mana pool.
+
+{W}{U}, {T}, Sacrifice a Bird: Draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0324</id>
+    <name>Secluded Steppe</name>
+    <text>Secluded Steppe enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+Cycling {W} ({W}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0325</id>
+    <name>Starlit Sanctum</name>
+    <text>{T}: Add {1} to your mana pool.
+{W}, {T}, Sacrifice a Cleric creature: You gain life equal to the sacrificed creature's toughness.
+{B}, {T}, Sacrifice a Cleric creature: Target player loses life equal to the sacrificed creature's power.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0326</id>
+    <name>Tranquil Thicket</name>
+    <text>Tranquil Thicket enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+Cycling {G} ({G}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0327</id>
+    <name>Unholy Grotto</name>
+    <text>{T}: Add {1} to your mana pool.
+{B}, {T}: Put target Zombie card from your graveyard on top of your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0328</id>
+    <name>Windswept Heath</name>
+    <text>{T}, Pay 1 life, Sacrifice Windswept Heath: Search your library for a Forest or Plains card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0329</id>
+    <name>Wirewood Lodge</name>
+    <text>{T}: Add {1} to your mana pool.
+{G}, {T}: Untap target Elf.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0330</id>
+    <name>Wooded Foothills</name>
+    <text>{T}, Pay 1 life, Sacrifice Wooded Foothills: Search your library for a Mountain or Forest card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0331</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0332</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0333</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0334</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0335</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0336</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0337</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0338</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0339</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0340</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0341</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0342</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0343</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0344</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0345</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0346</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0347</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0348</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0349</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ONS0350</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>
