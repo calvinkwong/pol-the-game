@@ -1,0 +1,247 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9EA044E4-D872-4056-A448-0E54EA4A1F93}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PoL.Logic</RootNamespace>
+    <AssemblyName>PoL.Logic</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>pol.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>pol.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization">
+    </Reference>
+    <Reference Include="System.ServiceModel">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Commands\DeckEditor\ClearListCommand.cs" />
+    <Compile Include="Commands\DeckRoom\ImportDecksCommand.cs" />
+    <Compile Include="Commands\GameRestarters\ChatCommand.cs" />
+    <Compile Include="Commands\GameRestarters\SetDeckCommand.cs" />
+    <Compile Include="Commands\GameRestarters\SetReadyStateCommand.cs" />
+    <Compile Include="Commands\GameRestarters\StartGameCommand.cs" />
+    <Compile Include="Commands\GameRestarters\UpdatePlayerListCommand.cs" />
+    <Compile Include="Commands\GameStarters\UpdatePlayerListCommand.cs" />
+    <Compile Include="Commands\GameStarters\ChatCommand.cs" />
+    <Compile Include="Commands\DeckEditor\SaveCommand.cs" />
+    <Compile Include="Commands\DeckEditor\MoveCardCommand.cs" />
+    <Compile Include="Commands\DeckRoom\DeleteDeckCommand.cs" />
+    <Compile Include="Commands\DeckRoom\SelectDeckCommand.cs" />
+    <Compile Include="Commands\Game\CloseCardDisplayCommand.cs" />
+    <Compile Include="Commands\Game\RemovePlayerCommand.cs" />
+    <Compile Include="Commands\Game\RestartGameCommand.cs" />
+    <Compile Include="Commands\Game\MultipleKeysArguments.cs" />
+    <Compile Include="Commands\Game\SetNumCounterValueCommand.cs" />
+    <Compile Include="Commands\Game\DoMulliganCommand.cs" />
+    <Compile Include="Commands\Game\DuplicateCardCommand.cs" />
+    <Compile Include="Commands\Game\OpenSectorLookupCommand.cs" />
+    <Compile Include="Commands\Game\CreatePawnCommand.cs" />
+    <Compile Include="Commands\Game\CardLogger.cs" />
+    <Compile Include="Commands\Game\SaveGameCommand.cs" />
+    <Compile Include="Commands\Game\LockCardsCommand.cs" />
+    <Compile Include="Commands\Game\RotateSectorCardsCommand.cs" />
+    <Compile Include="Commands\Game\SetCardsCustomCharacteristicsCommand.cs" />
+    <Compile Include="Commands\Game\SetTokenColorCommand.cs" />
+    <Compile Include="Commands\Game\SetTokenAmountCommand.cs" />
+    <Compile Include="Commands\Game\MoveCardsCommand.cs" />
+    <Compile Include="Commands\Game\SetPlayerPointsCommand.cs" />
+    <Compile Include="Commands\Game\DisplayCardsCommand.cs" />
+    <Compile Include="Commands\Game\SingleKeyArguments.cs" />
+    <Compile Include="Commands\Game\ChatCommand.cs" />
+    <Compile Include="Commands\Game\AddTokenCommand.cs" />
+    <Compile Include="Commands\Game\GameCommand.cs" />
+    <Compile Include="Commands\Game\GameCommandHandler.cs" />
+    <Compile Include="Commands\Game\CloseSectorLookupCommand.cs" />
+    <Compile Include="Commands\Game\SetTokenTextCommand.cs" />
+    <Compile Include="Commands\Game\RemoveTokenCommand.cs" />
+    <Compile Include="Commands\Game\SetCardsVisibilityCommand.cs" />
+    <Compile Include="Commands\Game\ReverseCardsCommand.cs" />
+    <Compile Include="Commands\Game\RotateCardsCommand.cs" />
+    <Compile Include="Commands\Game\ShuffleSectorCommand.cs" />
+    <Compile Include="Commands\Game\ThrowCoinCommand.cs" />
+    <Compile Include="Commands\Game\ThrowDiceCommand.cs" />
+    <Compile Include="Commands\GameStarters\StartGameCommand.cs" />
+    <Compile Include="Commands\SideboardingEditor\ClearListCommand.cs" />
+    <Compile Include="Commands\SideboardingEditor\MoveCardCommand.cs" />
+    <Compile Include="Commands\SideboardingEditor\SaveCommand.cs" />
+    <Compile Include="Controllers\ClientRestarterController.cs" />
+    <Compile Include="Controllers\GameStarters\LobbyController.cs" />
+    <Compile Include="Controllers\GameStarters\ServerConnectionController.cs" />
+    <Compile Include="Controllers\ServerRestarterController.cs" />
+    <Compile Include="Controllers\SideboardingEditorController.cs" />
+    <Compile Include="Controllers\GameStarters\ClientStarterController.cs" />
+    <Compile Include="Controllers\DeckEditorController.cs" />
+    <Compile Include="Controllers\DeckRoomController.cs" />
+    <Compile Include="Controllers\GameStarters\ClientConnector.cs" />
+    <Compile Include="Controllers\GameStarters\ClientInitializationController.cs" />
+    <Compile Include="Controllers\GameStarters\ConfirmMessage.cs" />
+    <Compile Include="Controllers\GameStarters\HandshakeResponse.cs" />
+    <Compile Include="Controllers\GameStarters\HandshakeRequest.cs" />
+    <Compile Include="Controllers\GameStarters\ServerStartNewGameController.cs" />
+    <Compile Include="Controllers\GameStarters\ServerListener.cs" />
+    <Compile Include="Controllers\GameController.cs" />
+    <Compile Include="Controllers\GameStarters\ServerStartSavedGameController.cs" />
+    <Compile Include="Controllers\IGameController.cs" />
+    <Compile Include="Controllers\OptionsController.cs" />
+    <Compile Include="Controllers\GameStarters\ServerStarterController.cs" />
+    <Compile Include="Controllers\SectorActionSupporting.cs" />
+    <Compile Include="DeckRoom.cs" />
+    <Compile Include="IViewFactory.cs" />
+    <Compile Include="LogicHandler.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Views\CardViewItem.cs" />
+    <Compile Include="Views\ILobbyView.cs" />
+    <Compile Include="Views\IServerConnectionView.cs" />
+    <Compile Include="Views\IClientRestarterView.cs" />
+    <Compile Include="Views\IServerRestarterView.cs" />
+    <Compile Include="Views\ISideboardingEditorView.cs" />
+    <Compile Include="Views\IClientInitializationView.cs" />
+    <Compile Include="Views\IServerStarterView.cs" />
+    <Compile Include="Views\IClientStarterView.cs" />
+    <Compile Include="Views\IDeckEditorView.cs" />
+    <Compile Include="Views\IDeckRoomView.cs" />
+    <Compile Include="Views\IGameView.cs" />
+    <Compile Include="Views\IServerStartNewGameView.cs" />
+    <Compile Include="Views\IOptionsView.cs" />
+    <Compile Include="Views\IServerStartSavedGameView.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Communication\Communication.csproj">
+      <Project>{8DD0505F-1E32-4141-B497-06D338710C47}</Project>
+      <Name>Communication</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Patterns\Patterns.csproj">
+      <Project>{5CC0424B-E57E-4DAE-8EAA-05A61019C7BF}</Project>
+      <Name>Patterns</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PoL.Common\PoL.Common.csproj">
+      <Project>{2A59B1E6-104B-41E0-80F6-4141283BAF63}</Project>
+      <Name>PoL.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PoL.Models\PoL.Models.csproj">
+      <Project>{B5267EC0-AC00-4B2C-B04A-83EE99532930}</Project>
+      <Name>PoL.Models</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PoL.Services\PoL.Services.csproj">
+      <Project>{8CE351F2-B36A-49E5-9A0E-EF95BE257101}</Project>
+      <Name>PoL.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PoL.Configuration\PoL.Configuration.csproj">
+      <Project>{FB868D8F-B865-4EA3-A289-DDD4D9337A40}</Project>
+      <Name>PoL.Configuration</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 e x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pol.pfx" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug No Sign|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug No Sign</OutputPath>
+    <WarningLevel>4</WarningLevel>
+    <DebugSymbols>true</DebugSymbols>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+</Project>

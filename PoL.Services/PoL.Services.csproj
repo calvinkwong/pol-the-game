@@ -1,0 +1,298 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003" ToolsVersion="4.0">
+  <PropertyGroup>
+    <ProjectType>Local</ProjectType>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{8CE351F2-B36A-49E5-9A0E-EF95BE257101}</ProjectGuid>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <AssemblyKeyContainerName>
+    </AssemblyKeyContainerName>
+    <AssemblyName>PoL.Services</AssemblyName>
+    <DefaultClientScript>JScript</DefaultClientScript>
+    <DefaultHTMLPageLayout>Grid</DefaultHTMLPageLayout>
+    <DefaultTargetSchema>IE50</DefaultTargetSchema>
+    <DelaySign>false</DelaySign>
+    <OutputType>Library</OutputType>
+    <RootNamespace>PoL.Services</RootNamespace>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <TargetFrameworkProfile />
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <PublishUrl>publish\</PublishUrl>
+    <Install>true</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>false</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <ApplicationRevision>0</ApplicationRevision>
+    <ApplicationVersion>1.0.0.%2a</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <OutputPath>bin\Debug\</OutputPath>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <DebugSymbols>true</DebugSymbols>
+    <FileAlignment>4096</FileAlignment>
+    <Optimize>false</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>full</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>pol.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <OutputPath>bin\Release\</OutputPath>
+    <AllowUnsafeBlocks>true</AllowUnsafeBlocks>
+    <BaseAddress>285212672</BaseAddress>
+    <ConfigurationOverrideFile>
+    </ConfigurationOverrideFile>
+    <DefineConstants>TRACE</DefineConstants>
+    <DocumentationFile>
+    </DocumentationFile>
+    <FileAlignment>4096</FileAlignment>
+    <Optimize>true</Optimize>
+    <RegisterForComInterop>false</RegisterForComInterop>
+    <RemoveIntegerChecks>false</RemoveIntegerChecks>
+    <WarningLevel>4</WarningLevel>
+    <DebugType>none</DebugType>
+    <ErrorReport>prompt</ErrorReport>
+    <CodeAnalysisRuleSet>AllRules.ruleset</CodeAnalysisRuleSet>
+    <SignAssembly>true</SignAssembly>
+    <AssemblyOriginatorKeyFile>pol.pfx</AssemblyOriginatorKeyFile>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System">
+      <Name>System</Name>
+    </Reference>
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Runtime.Serialization">
+    </Reference>
+    <Reference Include="System.Windows.Forms">
+      <Name>System.Windows.Forms</Name>
+    </Reference>
+    <Reference Include="System.Xml">
+      <Name>System.XML</Name>
+    </Reference>
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Configuration" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DataEntities\CardItem.cs" />
+    <Compile Include="DataEntities\CardTypeItem.cs" />
+    <Compile Include="DataEntities\CardTypesService.cs" />
+    <Compile Include="DataEntities\NumCountersService.cs" />
+    <Compile Include="DataEntities\NumCounterItem.cs" />
+    <Compile Include="DataEntities\DeckExportParameters.cs" />
+    <Compile Include="DataEntities\DeckImportStatistics.cs" />
+    <Compile Include="DataEntities\GameSetsService.cs" />
+    <Compile Include="DataEntities\GameSetItem.cs" />
+    <Compile Include="DataEntities\DeckCategoryItem.cs" />
+    <Compile Include="DataEntities\GameInfoItem.cs" />
+    <Compile Include="DataEntities\BaseItemService.cs" />
+    <Compile Include="DataEntities\CardSearchParams.cs" />
+    <Compile Include="DataEntities\SectorItem.cs" />
+    <Compile Include="DataEntities\SectorsService.cs" />
+    <Compile Include="DataEntities\BaseItem.cs" />
+    <Compile Include="DataExceptions\ArchiveException.cs" />
+    <Compile Include="CryptoDataSaver.cs" />
+    <Compile Include="ImagesService.cs" />
+    <Compile Include="Metrics\PartialCardLayout2ST.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Metrics\PartialCardLayout2ST.Designer.cs">
+      <DependentUpon>PartialCardLayout2ST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metrics\FullCardLayout2ST.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Metrics\FullCardLayout2ST.Designer.cs">
+      <DependentUpon>FullCardLayout2ST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metrics\PartialCardLayout1ST.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Metrics\PartialCardLayout1ST.Designer.cs">
+      <DependentUpon>PartialCardLayout1ST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metrics\FullCardLayout1ST.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Metrics\FullCardLayout1ST.Designer.cs">
+      <DependentUpon>FullCardLayout1ST.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metrics\PartialCardLayoutPawn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Metrics\PartialCardLayoutPawn.Designer.cs">
+      <DependentUpon>PartialCardLayoutPawn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metrics\FullCardLayoutPawn.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Metrics\FullCardLayoutPawn.Designer.cs">
+      <DependentUpon>FullCardLayoutPawn.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CodesMapService.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Include="DataEntities\CardStyleBehaviorItem.cs" />
+    <Compile Include="ServicesProvider.cs" />
+    <Compile Include="DataEntities\CardStyleBehaviorsService.cs" />
+    <Compile Include="DataEntities\CardsService.cs" />
+    <Compile Include="DataEntities\DeckItem.cs" />
+    <Compile Include="DataEntities\DecksService.cs" />
+    <Compile Include="Metrics\PartialCardLayoutPOST_8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Metrics\PartialCardLayoutPOST_8.Designer.cs">
+      <DependentUpon>PartialCardLayoutPOST_8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metrics\PartialCardLayoutPRE_8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Metrics\PartialCardLayoutPRE_8.Designer.cs">
+      <DependentUpon>PartialCardLayoutPRE_8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metrics\FullCardLayoutPOST_8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Metrics\FullCardLayoutPOST_8.Designer.cs">
+      <DependentUpon>FullCardLayoutPOST_8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metrics\FullCardLayoutPRE_8.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Metrics\FullCardLayoutPRE_8.Designer.cs">
+      <DependentUpon>FullCardLayoutPRE_8.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Metrics\CardMetricsService.cs" />
+    <Compile Include="DataEntities\StringService.cs" />
+    <Compile Include="DataEntities\DeckDataContract.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="Metrics\PartialCardLayout2ST.resx">
+      <DependentUpon>PartialCardLayout2ST.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Metrics\FullCardLayout2ST.resx">
+      <DependentUpon>FullCardLayout2ST.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Metrics\PartialCardLayout1ST.resx">
+      <DependentUpon>PartialCardLayout1ST.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Metrics\FullCardLayout1ST.resx">
+      <DependentUpon>FullCardLayout1ST.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Metrics\PartialCardLayoutPawn.resx">
+      <DependentUpon>PartialCardLayoutPawn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Metrics\FullCardLayoutPawn.resx">
+      <DependentUpon>FullCardLayoutPawn.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Metrics\PartialCardLayoutPOST_8.resx">
+      <DependentUpon>PartialCardLayoutPOST_8.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Metrics\PartialCardLayoutPRE_8.resx">
+      <DependentUpon>PartialCardLayoutPRE_8.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Metrics\FullCardLayoutPOST_8.resx">
+      <DependentUpon>FullCardLayoutPOST_8.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Metrics\FullCardLayoutPRE_8.resx">
+      <DependentUpon>FullCardLayoutPRE_8.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="pol.pfx" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Patterns\Patterns.csproj">
+      <Project>{5CC0424B-E57E-4DAE-8EAA-05A61019C7BF}</Project>
+      <Name>Patterns</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PoL.Common\PoL.Common.csproj">
+      <Project>{2A59B1E6-104B-41E0-80F6-4141283BAF63}</Project>
+      <Name>PoL.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PoL.Configuration\PoL.Configuration.csproj">
+      <Project>{FB868D8F-B865-4EA3-A289-DDD4D9337A40}</Project>
+      <Name>PoL.Configuration</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include=".NETFramework,Version=v4.0">
+      <Visible>False</Visible>
+      <ProductName>Microsoft .NET Framework 4 %28x86 and x64%29</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <PropertyGroup>
+    <PreBuildEvent>
+    </PreBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug No Sign|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug No Sign</OutputPath>
+    <WarningLevel>4</WarningLevel>
+    <DebugSymbols>true</DebugSymbols>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+</Project>

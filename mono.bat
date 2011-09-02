@@ -1,0 +1,1 @@
+"C:\Program Files\Mono-2.8.1\bin\mono" "D:\Programmazione\PoL\src\PoL.WinFormsView\bin\Debug No Sign\PoL.WinFormsView.exe"
