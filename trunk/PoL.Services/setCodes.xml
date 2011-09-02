@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<mapping>
+  <!-- Set Base -->
+  <item code="LEA" alias="A" name="Limited Edition Alpha"/>
+  <item code="LEB" alias="B" name="Limited Edition Beta" />
+  <item code="2ED" alias="U" name="Unlimited Edition" />
+  <item code="3ED" alias="R" name="Revised Edition" />
+  <item code="4ED" alias="4E" name="Quarta Edizione" />
+  <item code="5ED" alias="5E" name="Quinta Edizione" />
+  <item code="6ED" alias="6E" name="Sesta Edizione (Classic)" />
+  <item code="7ED" alias="7E" name="Settima Edizione (Classic)" />
+  <item code="8ED" alias="8E" name="Ottava Edizione" />
+  <item code="9ED" alias="9E" name="Nona Edizione" />
+
+  <!-- Set di Espansione -->
+  <item code="ARN" alias="AN" name="Arabian Nights" />
+  <item code="ATQ" alias="AQ" name="Antiquities" />
+  <item code="LEG" alias="LG" name="Leggende" />
+  <item code="DRK" alias="DK" name="L'Oscurità" />
+  <item code="FEM" alias="FE" name="Fallen Empires" />
+  <item code="HML" alias="HL" name="Origini" />
+  <item code="ICE" alias="IA" name="Era Glaciale" />
+  <item code="ALL" alias="AL" name="Alleanze" />
+  <item code="CLD" alias="CS" name="Ondata Glaciale" />
+  <item code="MIR" alias="MI" name="Mirage" />
+  <item code="VIS" alias="VI" name="Visioni" />
+  <item code="WTH" alias="WL" name="Cavalcavento" />
+  <item code="TMP" alias="TE" name="Tempesta" />
+  <item code="STH" alias="SH" name="Fortezza" />
+  <item code="EXO" alias="EX" name="Esodo" />
+  <item code="USG" alias="US" name="Saga di Urza" />
+  <item code="ULG" alias="UL" name="Eredità di Urza" />
+  <item code="UDS" alias="UD" name="Destino di Urza" />
+  <item code="MMQ" alias="MM" name="Maschere di Mercadia" />
+  <item code="NMS" alias="NE" name="Nemesis" />
+  <item code="PCY" alias="PY" name="Profezia" />
+  <item code="INV" alias="IN" name="Invasione" />
+  <item code="PLS" alias="PS" name="Congiunzione" />
+  <item code="APC" alias="AP" name="Apocalisse" />
+  <item code="ODY" alias="OD" name="Odissea" />
+  <item code="TOR" alias="TO" name="Tormento" />
+  <item code="JUD" alias="JU" name="Sentenza" />
+  <item code="ONS" alias="ON" name="Assalto" />
+  <item code="LGN" alias="LE" name="Legioni" />
+  <item code="SCG" alias="SC" name="Flagello" />
+  <item code="MRD" alias="MR" name="Mirrodin" />
+  <item code="DST" alias="DS" name="Darksteel" />
+  <item code="5DN" alias="FD" name="Quinta Alba" />
+  <item code="GPT" alias="GP" name="Patto delle Gilde" />
+
+  <!-- Set di Ristampa Speciali -->
+  <item code="CHR" alias="CH" name="Chronicles" />
+  <item code="ATH" alias="AT" name="Anthologies" />
+  <item code="BTD" alias="BD" name="Beatdown" />
+  <!-- 
+  // ?? Rinascimento    
+  // ?? Pegaso
+  // ?? Planechase    
+  -->
+
+  <!-- Set Introduttivi -->
+  <item code="S99" alias="ST" name="Starter 1999" />
+  <item code="POR" alias="PT" name="Portal" />
+  <item code="P02" alias="P2" name="Portal Second Age" />
+  <item code="PTK" alias="P3" name="Portal Three Kingdoms" />  
+  <!-- 
+  // ?? Rivals
+  -->
+  
+  
+  <!-- Set non legali nei tornei ufficiali -->
+  <item code="UGL" alias="UG" name="Unglued" />
+  <!-- 
+  // ?? Collector's Edition
+  // Astral
+  -->
+
+</mapping>

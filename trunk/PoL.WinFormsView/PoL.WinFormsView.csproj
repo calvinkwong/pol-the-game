@@ -1,0 +1,834 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProductVersion>9.0.30729</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{9B9979D9-EE51-4BA9-AB5A-8DC376B5694A}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>PoL.WinFormsView</RootNamespace>
+    <AssemblyName>PoL.WinFormsView</AssemblyName>
+    <TargetFrameworkVersion>v3.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <IsWebBootstrapper>false</IsWebBootstrapper>
+    <ManifestCertificateThumbprint>1D77C9703FA97CB55BDB05ADE87EA2B578FA8F69</ManifestCertificateThumbprint>
+    <ManifestKeyFile>Eyn.PoL.WinFormsView_TemporaryKey.pfx</ManifestKeyFile>
+    <GenerateManifests>false</GenerateManifests>
+    <TargetZone>LocalIntranet</TargetZone>
+    <SignManifests>false</SignManifests>
+    <ApplicationIcon>Logo.ico</ApplicationIcon>
+    <NoWin32Manifest>true</NoWin32Manifest>
+    <RunPostBuildEvent>OnOutputUpdated</RunPostBuildEvent>
+    <FileUpgradeFlags>
+    </FileUpgradeFlags>
+    <UpgradeBackupLocation>
+    </UpgradeBackupLocation>
+    <OldToolsVersion>3.5</OldToolsVersion>
+    <TargetFrameworkProfile />
+    <PublishUrl>D:\Source Code\Training\Eyn.PoL\deploy\</PublishUrl>
+    <Install>false</Install>
+    <InstallFrom>Disk</InstallFrom>
+    <UpdateEnabled>false</UpdateEnabled>
+    <UpdateMode>Foreground</UpdateMode>
+    <UpdateInterval>7</UpdateInterval>
+    <UpdateIntervalUnits>Days</UpdateIntervalUnits>
+    <UpdatePeriodically>true</UpdatePeriodically>
+    <UpdateRequired>false</UpdateRequired>
+    <MapFileExtensions>true</MapFileExtensions>
+    <AutorunEnabled>true</AutorunEnabled>
+    <ApplicationRevision>2</ApplicationRevision>
+    <ApplicationVersion>0.1.0.2</ApplicationVersion>
+    <UseApplicationTrust>false</UseApplicationTrust>
+    <PublishWizardCompleted>true</PublishWizardCompleted>
+    <BootstrapperEnabled>true</BootstrapperEnabled>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+    <DocumentationFile>
+    </DocumentationFile>
+    <UseVSHostingProcess>false</UseVSHostingProcess>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Design" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml.Linq">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data.DataSetExtensions">
+      <RequiredTargetFramework>3.5</RequiredTargetFramework>
+    </Reference>
+    <Reference Include="System.Data" />
+    <Reference Include="System.Xml" />
+    <Reference Include="WindowsBase">
+      <RequiredTargetFramework>3.0</RequiredTargetFramework>
+    </Reference>
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DeckEditor\SearchParametersView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeckEditor\SearchParametersView.Designer.cs">
+      <DependentUpon>SearchParametersView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeckRoom\ExportParametersView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeckRoom\ExportParametersView.Designer.cs">
+      <DependentUpon>ExportParametersView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameStarters\LobbyView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameStarters\LobbyView.Designer.cs">
+      <DependentUpon>LobbyView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameStarters\ServerConnectionView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameStarters\ServerConnectionView.Designer.cs">
+      <DependentUpon>ServerConnectionView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\CardViewHelper.cs" />
+    <Compile Include="Game\CardMenuContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\CardMenuContainer.Designer.cs">
+      <DependentUpon>CardMenuContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\CardDisplayView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game\CardDisplayView.Designer.cs">
+      <DependentUpon>CardDisplayView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameRestarters\ClientRestarterView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameRestarters\ClientRestarterView.Designer.cs">
+      <DependentUpon>ClientRestarterView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameRestarters\ServerRestarterView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameRestarters\ServerRestarterView.designer.cs">
+      <DependentUpon>ServerRestarterView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SideboardingEditor\DragDropData.cs" />
+    <Compile Include="SideboardingEditor\SideboardingEditorView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SideboardingEditor\SideboardingEditorView.designer.cs">
+      <DependentUpon>SideboardingEditorView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\NumCounterView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\NumCounterView.Designer.cs">
+      <DependentUpon>NumCounterView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\SectorInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game\SectorInput.Designer.cs">
+      <DependentUpon>SectorInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\PlayerInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game\PlayerInput.Designer.cs">
+      <DependentUpon>PlayerInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\NumberInput.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game\NumberInput.Designer.cs">
+      <DependentUpon>NumberInput.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\PlayerStatusView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\PlayerStatusView.Designer.cs">
+      <DependentUpon>PlayerStatusView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\SectorMenuContainer.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\SectorMenuContainer.Designer.cs">
+      <DependentUpon>SectorMenuContainer.cs</DependentUpon>
+    </Compile>
+    <Compile Include="UpdateDownloadView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="UpdateDownloadView.Designer.cs">
+      <DependentUpon>UpdateDownloadView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\CardCostUtils.cs" />
+    <Compile Include="Utils\CardDrawer.cs" />
+    <Compile Include="Utils\CardListView.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Utils\CollapsablePanel.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Utils\CursorCreator.cs" />
+    <Compile Include="Utils\DragableContainer.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Utils\FlashWindow.cs" />
+    <Compile Include="Utils\ListItem.cs" />
+    <Compile Include="Utils\ListViewColumnSorter.cs" />
+    <Compile Include="Utils\RichTextBoxEx.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="Utils\SavedGameItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Utils\SavedGameItem.Designer.cs">
+      <DependentUpon>SavedGameItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameStarters\ServerStartSavedGameView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameStarters\ServerStartSavedGameView.Designer.cs">
+      <DependentUpon>ServerStartSavedGameView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StartGameMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StartGameMenu.Designer.cs">
+      <DependentUpon>StartGameMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="JoinGameMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="JoinGameMenu.Designer.cs">
+      <DependentUpon>JoinGameMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameStarters\ClientInitializationView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameStarters\ClientInitializationView.Designer.cs">
+      <DependentUpon>ClientInitializationView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameStarters\ClientStarterView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameStarters\ClientStarterView.Designer.cs">
+      <DependentUpon>ClientStarterView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeckEditor\DeckEditorView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeckEditor\DeckEditorView.designer.cs">
+      <DependentUpon>DeckEditorView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeckEditor\DragDropData.cs" />
+    <Compile Include="DeckEditor\DeckStatisticsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeckEditor\DeckStatisticsView.Designer.cs">
+      <DependentUpon>DeckStatisticsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeckRoom\DeckRoomView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeckRoom\DeckRoomView.Designer.cs">
+      <DependentUpon>DeckRoomView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="DeckRoom\DeckImportStatisticsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="DeckRoom\DeckImportStatisticsView.Designer.cs">
+      <DependentUpon>DeckImportStatisticsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ExceptionView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="ExceptionView.Designer.cs">
+      <DependentUpon>ExceptionView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\CharacteristicsEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game\CharacteristicsEditor.Designer.cs">
+      <DependentUpon>CharacteristicsEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\PawnEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game\PawnEditor.Designer.cs">
+      <DependentUpon>PawnEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\LookupView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game\LookupView.Designer.cs">
+      <DependentUpon>LookupView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\CardView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\CardView.Designer.cs">
+      <DependentUpon>CardView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="GameStarters\ServerStartNewGameView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameStarters\ServerStartNewGameView.Designer.cs">
+      <DependentUpon>ServerStartNewGameView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\PlayerListItem.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Utils\PlayerListItem.Designer.cs">
+      <DependentUpon>PlayerListItem.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\ProgressDialog.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Utils\ProgressDialog.Designer.cs">
+      <DependentUpon>ProgressDialog.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\TokenEditor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game\TokenEditor.Designer.cs">
+      <DependentUpon>TokenEditor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\TokenView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\TokenView.Designer.cs">
+      <DependentUpon>TokenView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="ILocalizable.cs" />
+    <Compile Include="GameStarters\ServerStarterView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="GameStarters\ServerStarterView.designer.cs">
+      <DependentUpon>ServerStarterView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Options\OptionsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Options\OptionsView.Designer.cs">
+      <DependentUpon>OptionsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainMenu.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainMenu.Designer.cs">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\AnimationController.cs" />
+    <Compile Include="Game\GameViewHelper.cs" />
+    <Compile Include="Game\DragDropData.cs" />
+    <Compile Include="Game\CollapsableFlowSectorView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\CollapsableFlowSectorView.Designer.cs">
+      <DependentUpon>CollapsableFlowSectorView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\PlayerView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\PlayerView.Designer.cs">
+      <DependentUpon>PlayerView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\GameView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Game\GameView.Designer.cs">
+      <DependentUpon>GameView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\ConsoleView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\ConsoleView.Designer.cs">
+      <DependentUpon>ConsoleView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Game\StaticFreeSectorView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\StaticFreeSectorView.Designer.cs">
+      <DependentUpon>StaticFreeSectorView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resources.resx</DependentUpon>
+    </Compile>
+    <Compile Include="Game\ISectorView.cs">
+    </Compile>
+    <Compile Include="Game\SimpleSectorView.cs">
+      <SubType>UserControl</SubType>
+    </Compile>
+    <Compile Include="Game\SimpleSectorView.Designer.cs">
+      <DependentUpon>SimpleSectorView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Utils\TransparentLabel.cs">
+      <SubType>Component</SubType>
+    </Compile>
+    <Compile Include="WinFormsView.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="WinFormsView.Designer.cs">
+      <DependentUpon>WinFormsView.cs</DependentUpon>
+    </Compile>
+    <Compile Include="WinFormsViewFactory.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <EmbeddedResource Include="GameStarters\ClientInitializationView.resx">
+      <DependentUpon>ClientInitializationView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeckEditor\SearchParametersView.resx">
+      <DependentUpon>SearchParametersView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeckRoom\ExportParametersView.resx">
+      <DependentUpon>ExportParametersView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameStarters\LobbyView.resx">
+      <DependentUpon>LobbyView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameStarters\ServerConnectionView.resx">
+      <DependentUpon>ServerConnectionView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\CardMenuContainer.resx">
+      <DependentUpon>CardMenuContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\CardDisplayView.resx">
+      <DependentUpon>CardDisplayView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameRestarters\ClientRestarterView.resx">
+      <DependentUpon>ClientRestarterView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameRestarters\ServerRestarterView.resx">
+      <DependentUpon>ServerRestarterView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SideboardingEditor\SideboardingEditorView.resx">
+      <DependentUpon>SideboardingEditorView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\NumCounterView.resx">
+      <DependentUpon>NumCounterView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\SectorInput.resx">
+      <DependentUpon>SectorInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\PlayerInput.resx">
+      <DependentUpon>PlayerInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\NumberInput.resx">
+      <DependentUpon>NumberInput.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\PlayerStatusView.resx">
+      <DependentUpon>PlayerStatusView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\SectorMenuContainer.resx">
+      <DependentUpon>SectorMenuContainer.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameStarters\ServerStartSavedGameView.resx">
+      <DependentUpon>ServerStartSavedGameView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StartGameMenu.resx">
+      <DependentUpon>StartGameMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="JoinGameMenu.resx">
+      <DependentUpon>JoinGameMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameStarters\ClientStarterView.resx">
+      <DependentUpon>ClientStarterView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeckEditor\DeckEditorView.resx">
+      <DependentUpon>DeckEditorView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeckEditor\DeckStatisticsView.resx">
+      <DependentUpon>DeckStatisticsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeckRoom\DeckRoomView.resx">
+      <DependentUpon>DeckRoomView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="DeckRoom\DeckImportStatisticsView.resx">
+      <DependentUpon>DeckImportStatisticsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="ExceptionView.resx">
+      <DependentUpon>ExceptionView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\CharacteristicsEditor.resx">
+      <DependentUpon>CharacteristicsEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\PawnEditor.resx">
+      <DependentUpon>PawnEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\LookupView.resx">
+      <DependentUpon>LookupView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\CardView.resx">
+      <DependentUpon>CardView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\ConsoleView.resx">
+      <DependentUpon>ConsoleView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\CollapsableFlowSectorView.resx">
+      <DependentUpon>CollapsableFlowSectorView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\PlayerView.resx">
+      <DependentUpon>PlayerView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\GameView.resx">
+      <DependentUpon>GameView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameStarters\ServerStartNewGameView.resx">
+      <DependentUpon>ServerStartNewGameView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="UpdateDownloadView.resx">
+      <DependentUpon>UpdateDownloadView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\CardListView.resx">
+      <DependentUpon>CardListView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\PlayerListItem.resx">
+      <DependentUpon>PlayerListItem.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\ProgressDialog.resx">
+      <DependentUpon>ProgressDialog.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\StaticFreeSectorView.resx">
+      <DependentUpon>StaticFreeSectorView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\SimpleSectorView.resx">
+      <DependentUpon>SimpleSectorView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\TokenEditor.resx">
+      <DependentUpon>TokenEditor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Game\TokenView.resx">
+      <DependentUpon>TokenView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="GameStarters\ServerStarterView.resx">
+      <DependentUpon>ServerStarterView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Options\OptionsView.resx">
+      <DependentUpon>OptionsView.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainMenu.resx">
+      <DependentUpon>MainMenu.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Utils\SavedGameItem.resx">
+      <DependentUpon>SavedGameItem.cs</DependentUpon>
+    </EmbeddedResource>
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Patterns\Patterns.csproj">
+      <Project>{5CC0424B-E57E-4DAE-8EAA-05A61019C7BF}</Project>
+      <Name>Patterns</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PoL.Common\PoL.Common.csproj">
+      <Project>{2A59B1E6-104B-41E0-80F6-4141283BAF63}</Project>
+      <Name>PoL.Common</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PoL.Logic\PoL.Logic.csproj">
+      <Project>{9EA044E4-D872-4056-A448-0E54EA4A1F93}</Project>
+      <Name>PoL.Logic</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PoL.Services\PoL.Services.csproj">
+      <Project>{8CE351F2-B36A-49E5-9A0E-EF95BE257101}</Project>
+      <Name>PoL.Services</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\PoL.Configuration\PoL.Configuration.csproj">
+      <Project>{FB868D8F-B865-4EA3-A289-DDD4D9337A40}</Project>
+      <Name>PoL.Configuration</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\RibbonStyle\RibbonStyle.csproj">
+      <Project>{6EEF9ABA-6762-4A72-8B14-3E9312073DCF}</Project>
+      <Name>RibbonStyle</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\background.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\background2.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\darkbackground.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Logo.ico" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\panelbg.jpg" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\pol.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16\remove.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16\rotate.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\redbanner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\card.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\greenbanner.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\aces.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\eye.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\stock_person.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\bookmark_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\emblem-new.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\gtk-leave-fullscreen.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\stock_new-window.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\system-run.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\applications-accessories.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\applications-other.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\preferences-system.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\32x32\emblem-symbolic-link.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\stock_right-with-subpoints.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\emblem-default.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\stop.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\emblem-web.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16\application-x-gnome-saved-search1.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\gtk-edit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\gtk-delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\filenew.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <BootstrapperPackage Include="Microsoft.Net.Client.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1 Client Profile</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.2.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 2.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.0">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.0 %28x86%29</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5</ProductName>
+      <Install>false</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Net.Framework.3.5.SP1">
+      <Visible>False</Visible>
+      <ProductName>.NET Framework 3.5 SP1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+    <BootstrapperPackage Include="Microsoft.Windows.Installer.3.1">
+      <Visible>False</Visible>
+      <ProductName>Windows Installer 3.1</ProductName>
+      <Install>true</Install>
+    </BootstrapperPackage>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\gtk-find.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\reload.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\centrejust.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\document-save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\exit.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16\edit-redo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16\edit-undo.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16\stock_smiley-1 - copy.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16\dice.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16\stock_calc-cancel.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\16x16\stock_internet.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\24x24\editdelete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\down.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\empty.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\other\up.gif" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Logo.ico" />
+    <None Include="Resources\32x32\emblem-web.png" />
+    <None Include="Properties\app.manifest" />
+    <None Include="Resources\16x16\zoom-best-fit.png" />
+    <None Include="Resources\16x16\stock_calc-accept.png" />
+    <None Include="Resources\16x16\stock_sort-ascending.png" />
+    <None Include="Resources\16x16\eye.png" />
+    <None Include="Resources\16x16\eye-button.png" />
+    <None Include="Resources\16x16\myst_eye.png" />
+    <None Include="Resources\16x16\pixel_eye.png" />
+    <None Include="Resources\16x16\stock_horz_arrows.png" />
+    <None Include="Resources\16x16\stock_vert_arrows.png" />
+    <Content Include="Resources\24x24\application-x-gnome-saved-search.png" />
+    <Content Include="Resources\24x24\application-x-gnome-saved-search.png" />
+    <Content Include="Resources\16x16\finish1.png" />
+    <None Include="Resources\24x24\stock_inbox.png" />
+    <None Include="Resources\24x24\stock_outbox.png" />
+    <None Include="Resources\24x24\stock_calc-cancel.png" />
+    <None Include="Resources\24x24\stock_calc-accept.png" />
+    <None Include="Resources\32x32\gnome-remote-desktop.png" />
+    <None Include="Resources\32x32\gtk-go-down.png" />
+    <None Include="Resources\32x32\go-up.png" />
+    <None Include="Resources\32x32\gnome-applications.png" />
+    <None Include="Resources\32x32\gtk-zoom-fit.png" />
+    <None Include="Resources\other\sfondoblu_tondo.png" />
+    <None Include="Resources\32x32\document-save.png" />
+    <None Include="Resources\32x32\help-faq.png" />
+    <None Include="Resources\other\sfondoblu.png" />
+    <None Include="Resources\32x32\go-previous1.png" />
+    <None Include="Resources\32x32\go-next.png" />
+    <None Include="Resources\16x16\go-previous.png" />
+    <None Include="Resources\16x16\stock_slide-showhide.png" />
+    <None Include="Resources\48x48\stock_signature.png" />
+    <None Include="Resources\other\apacheconf.png" />
+    <None Include="Resources\16x16\stock_book_open.png" />
+    <None Include="Resources\other\crysmile.png" />
+    <None Include="Resources\16x16\stock_show-all.png" />
+    <None Include="Resources\16x16\stock_form-text-box.png" />
+    <None Include="Resources\16x16\stock_text-quickedit.png" />
+    <None Include="Resources\16x16\stock_alignment-right.png" />
+    <None Include="Resources\16x16\stock_rotate.png" />
+    <None Include="Resources\16x16\down1.png" />
+    <None Include="Resources\16x16\stock_flip-horizontally.png" />
+    <None Include="Resources\16x16\edit-copy.png" />
+    <None Include="Resources\16x16\stop1.png" />
+    <None Include="Resources\16x16\go-up1.png" />
+    <None Include="Resources\16x16\go-top.png" />
+    <None Include="Resources\16x16\gtk-remove1.png" />
+    <None Include="Resources\16x16\list-add.png" />
+    <None Include="Resources\16x16\bottom.png" />
+    <None Include="Resources\16x16\gtk-delete1.png" />
+    <None Include="Resources\16x16\forward1.png" />
+    <None Include="Resources\16x16\button-yellow_small.png" />
+    <None Include="Resources\16x16\button-seagreen_small.png" />
+    <None Include="Resources\16x16\button-red_small.png" />
+    <None Include="Resources\16x16\button-purple_small.png" />
+    <None Include="Resources\16x16\button-green_small.png" />
+    <None Include="Resources\16x16\button-blue_small.png" />
+    <None Include="Resources\16x16\document-revert1.png" />
+    <None Include="Resources\24x24\document-revert.png" />
+  </ItemGroup>
+  <ItemGroup />
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+  <PropertyGroup>
+    <PostBuildEvent>
+    </PostBuildEvent>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug No Sign|AnyCPU' ">
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug No Sign</OutputPath>
+    <WarningLevel>4</WarningLevel>
+    <DebugSymbols>true</DebugSymbols>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+  </PropertyGroup>
+</Project>
