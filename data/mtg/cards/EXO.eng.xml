@@ -1,0 +1,1007 @@
+<cards name="Exodus">
+  <item>
+    <id>EXO0001</id>
+    <name>Allay</name>
+    <text>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Destroy target enchantment.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0002</id>
+    <name>Angelic Blessing</name>
+    <text>Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>Only the warrior who can admit mortal weakness will be bolstered by immortal strength.</flavorText>
+  </item>
+  <item>
+    <id>EXO0003</id>
+    <name>Cataclysm</name>
+    <text>Each player chooses from the permanents he or she controls an artifact, a creature, an enchantment, and a land, then sacrifices the rest.</text>
+    <flavorText>The Weatherlight dragged the Predator behind it, the cradle hauling the casket.</flavorText>
+  </item>
+  <item>
+    <id>EXO0004</id>
+    <name>Charging Paladin</name>
+    <text>Whenever Charging Paladin attacks, it gets +0/+3 until end of turn.</text>
+    <flavorText>"Hope shall be the blade that severs our bonds."</flavorText>
+  </item>
+  <item>
+    <id>EXO0005</id>
+    <name>Convalescence</name>
+    <text>At the beginning of your upkeep, if you have 10 or less life, you gain 1 life.</text>
+    <flavorText>Selenia had hurt Mirri terribly, but injuries of the flesh could be treated. The wounds she had torn in Crovax's soul would never close.</flavorText>
+  </item>
+  <item>
+    <id>EXO0006</id>
+    <name>Exalted Dragon</name>
+    <text>Flying
+Exalted Dragon can't attack unless you sacrifice a land.</text>
+    <flavorText>If dragons excel at anything more than vanity, it is greed.</flavorText>
+  </item>
+  <item>
+    <id>EXO0007</id>
+    <name>High Ground</name>
+    <text>Each creature you control can block an additional creature.</text>
+    <flavorText>In war, as in society, position is everything.</flavorText>
+  </item>
+  <item>
+    <id>EXO0008</id>
+    <name>Keeper of the Light</name>
+    <text>{W}, {T}: Choose target opponent who had more life than you did as you activated this ability. You gain 3 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0009</id>
+    <name>Kor Chant</name>
+    <text>All damage that would be dealt this turn to target creature you control by a source of your choice is dealt to another target creature instead.</text>
+    <flavorText>The true treasure no thief can touch.</flavorText>
+  </item>
+  <item>
+    <id>EXO0010</id>
+    <name>Limited Resources</name>
+    <text>When Limited Resources enters the battlefield, each player chooses five lands he or she controls and sacrifices the rest.
+Players can't play lands as long as ten or more lands are on the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0011</id>
+    <name>Oath of Lieges</name>
+    <text>At the beginning of each player's upkeep, that player chooses target player who controls more lands than he or she does and is his or her opponent. The first player may search his or her library for a basic land card, put that card onto the battlefield, then shuffle his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0012</id>
+    <name>Paladin en-Vec</name>
+    <text>First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)</text>
+    <flavorText>"Our belief shall be the lance that pierces Volrath's heart."</flavorText>
+  </item>
+  <item>
+    <id>EXO0013</id>
+    <name>Peace of Mind</name>
+    <text>{W}, Discard a card: You gain 3 life.</text>
+    <flavorText>Three are the paths of the soul:
+One out—roam across the plain,
+One back—dwell with tribe and tent,
+One in—turn an enemy's hate.</flavorText>
+  </item>
+  <item>
+    <id>EXO0014</id>
+    <name>Pegasus Stampede</name>
+    <text>Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Put a 1/1 white Pegasus creature token with flying onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0015</id>
+    <name>Penance</name>
+    <text>Put a card from your hand on top of your library: The next time a black or red source of your choice would deal damage this turn, prevent that damage.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0016</id>
+    <name>Reaping the Rewards</name>
+    <text>Buyback—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+You gain 2 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0017</id>
+    <name>Reconnaissance</name>
+    <text>{0}: Remove target attacking creature you control from combat and untap it.</text>
+    <flavorText>War favors the informed.</flavorText>
+  </item>
+  <item>
+    <id>EXO0018</id>
+    <name>Shackles</name>
+    <text>Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.
+{W}: Return Shackles to its owner's hand.</text>
+    <flavorText>Shackles of gold are still shackles.</flavorText>
+  </item>
+  <item>
+    <id>EXO0019</id>
+    <name>Shield Mate</name>
+    <text>Sacrifice Shield Mate: Target creature gets +0/+4 until end of turn.</text>
+    <flavorText>They bear weightier burdens than the shields they carry.</flavorText>
+  </item>
+  <item>
+    <id>EXO0020</id>
+    <name>Soltari Visionary</name>
+    <text>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Whenever Soltari Visionary deals damage to a player, destroy target enchantment that player controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0021</id>
+    <name>Soul Warden</name>
+    <text>Whenever another creature enters the battlefield, you gain 1 life.</text>
+    <flavorText>Count carefully the souls and see that none are lost.
+—Vec teaching</flavorText>
+  </item>
+  <item>
+    <id>EXO0022</id>
+    <name>Standing Troops</name>
+    <text>Vigilance</text>
+    <flavorText>The less you have, the harder you fight for it.</flavorText>
+  </item>
+  <item>
+    <id>EXO0023</id>
+    <name>Treasure Hunter</name>
+    <text>When Treasure Hunter enters the battlefield, you may return target artifact card from your graveyard to your hand.</text>
+    <flavorText>"What separates junk from treasure is imagination."
+—Hanna, Weatherlight navigator</flavorText>
+  </item>
+  <item>
+    <id>EXO0024</id>
+    <name>Wall of Nets</name>
+    <text>Defender (This creature can't attack.)
+At end of combat, exile all creatures blocked by Wall of Nets.
+When Wall of Nets leaves the battlefield, return all cards exiled with Wall of Nets to the battlefield under their owners' control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0025</id>
+    <name>Welkin Hawk</name>
+    <text>Flying
+When Welkin Hawk is put into a graveyard from the battlefield, you may search your library for a card named Welkin Hawk, reveal that card, put it into your hand, then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0026</id>
+    <name>Zealots en-Dal</name>
+    <text>At the beginning of your upkeep, if all nonland permanents you control are white, you gain 1 life.</text>
+    <flavorText>"Great chains shall free our warriors."
+—Oracle en-Vec</flavorText>
+  </item>
+  <item>
+    <id>EXO0027</id>
+    <name>Æther Tide</name>
+    <text>As an additional cost to cast Æther Tide, discard X creature cards.
+Return X target creatures to their owners' hands.</text>
+    <flavorText>The tide of magic brought them here. Now it would take them home.</flavorText>
+  </item>
+  <item>
+    <id>EXO0028</id>
+    <name>Cunning</name>
+    <text>Enchant creature
+Enchanted creature gets +3/+3.
+When enchanted creature attacks or blocks, sacrifice Cunning at the beginning of the next cleanup step.</text>
+    <flavorText>". . . Dry-walkers die
+We feed on sweet flesh . . . ."
+—Rootwater Saga</flavorText>
+  </item>
+  <item>
+    <id>EXO0029</id>
+    <name>Curiosity</name>
+    <text>Enchant creature
+Whenever enchanted creature deals damage to an opponent, you may draw a card.</text>
+    <flavorText>All Mirri wanted to do was rest, but she couldn't ignore a nagging suspicion as she followed Crovax's skulking form.</flavorText>
+  </item>
+  <item>
+    <id>EXO0030</id>
+    <name>Dominating Licid</name>
+    <text>{1}{U}{U}, {T}: Dominating Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {U} to end this effect.
+You control enchanted creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0031</id>
+    <name>Ephemeron</name>
+    <text>Flying
+Discard a card: Return Ephemeron to its owner's hand.</text>
+    <flavorText>From nothing came teeth.</flavorText>
+  </item>
+  <item>
+    <id>EXO0032</id>
+    <name>Equilibrium</name>
+    <text>Whenever you cast a creature spell, you may pay {1}. If you do, return target creature to its owner's hand.</text>
+    <flavorText>In Rath, there are only so many souls to go around.</flavorText>
+  </item>
+  <item>
+    <id>EXO0033</id>
+    <name>Ertai, Wizard Adept</name>
+    <text>{2}{U}{U}, {T}: Counter target spell.</text>
+    <flavorText>"Was that it?"
+—Ertai, wizard adept</flavorText>
+  </item>
+  <item>
+    <id>EXO0034</id>
+    <name>Fade Away</name>
+    <text>For each creature, its controller sacrifices a permanent unless he or she pays {1}.</text>
+    <flavorText>"Consider the fable of the greedy herder. As her flock grew, so did her weariness; she slept, and the sheep wandered off."
+—Karn, silver golem</flavorText>
+  </item>
+  <item>
+    <id>EXO0035</id>
+    <name>Forbid</name>
+    <text>Buyback—Discard two cards. (You may discard two cards in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Counter target spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0036</id>
+    <name>Keeper of the Mind</name>
+    <text>{U}, {T}: Choose target opponent who had at least two more cards in hand than you did as you activated this ability. Draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0037</id>
+    <name>Killer Whale</name>
+    <text>{U}: Killer Whale gains flying until end of turn.</text>
+    <flavorText>Hunger is like the sea: deep, endless, and unforgiving.</flavorText>
+  </item>
+  <item>
+    <id>EXO0038</id>
+    <name>Mana Breach</name>
+    <text>Whenever a player casts a spell, that player returns a land he or she controls to its owner's hand.</text>
+    <flavorText>The wizard had it all—until she tried to use it.</flavorText>
+  </item>
+  <item>
+    <id>EXO0039</id>
+    <name>Merfolk Looter</name>
+    <text>{T}: Draw a card, then discard a card.</text>
+    <flavorText>In the depths of Rootwater, salvage and sewage differ only in texture.</flavorText>
+  </item>
+  <item>
+    <id>EXO0040</id>
+    <name>Mind Over Matter</name>
+    <text>Discard a card: You may tap or untap target artifact, creature, or land.</text>
+    <flavorText>Lyna turned to the figure beside her. "They're gone. What now?"
+"As ever," said Urza, "we wait."</flavorText>
+  </item>
+  <item>
+    <id>EXO0041</id>
+    <name>Mirozel</name>
+    <text>Flying
+When Mirozel becomes the target of a spell or ability, return Mirozel to its owner's hand.</text>
+    <flavorText>The mirozels are the only stars in Rath's opaque skies.</flavorText>
+  </item>
+  <item>
+    <id>EXO0042</id>
+    <name>Oath of Scholars</name>
+    <text>At the beginning of each player's upkeep, that player chooses target player who has more cards in hand than he or she does and is his or her opponent. The first player may discard his or her hand and draw three cards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0043</id>
+    <name>Robe of Mirrors</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has shroud. (It can't be the target of spells or abilities.)</text>
+    <flavorText>"Does this make me look fat?"</flavorText>
+  </item>
+  <item>
+    <id>EXO0044</id>
+    <name>Rootwater Mystic</name>
+    <text>{1}{U}: Look at the top card of target player's library.</text>
+    <flavorText>"Read the roots    tell the tale
+Future forms    in waving weeds
+Higher than truth   is hope."
+—Rootwater Saga</flavorText>
+  </item>
+  <item>
+    <id>EXO0045</id>
+    <name>School of Piranha</name>
+    <text>At the beginning of your upkeep, sacrifice School of Piranha unless you pay {1}{U}.</text>
+    <flavorText>Some schools aren't worth getting into.</flavorText>
+  </item>
+  <item>
+    <id>EXO0046</id>
+    <name>Scrivener</name>
+    <text>When Scrivener enters the battlefield, you may return target instant card from your graveyard to your hand.</text>
+    <flavorText>"History is a potent weapon."
+—Karn, silver golem</flavorText>
+  </item>
+  <item>
+    <id>EXO0047</id>
+    <name>Thalakos Drifters</name>
+    <text>Discard a card: Thalakos Drifters gains shadow until end of turn. (This creature can block or be blocked by only creatures with shadow.)</text>
+    <flavorText>They drift in and out of shadow and ever on toward madness.</flavorText>
+  </item>
+  <item>
+    <id>EXO0048</id>
+    <name>Thalakos Scout</name>
+    <text>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Discard a card: Return Thalakos Scout to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0049</id>
+    <name>Theft of Dreams</name>
+    <text>Draw a card for each tapped creature target opponent controls.</text>
+    <flavorText>"Volrath stole everything there was of me."
+—Takara</flavorText>
+  </item>
+  <item>
+    <id>EXO0050</id>
+    <name>Treasure Trove</name>
+    <text>{2}{U}{U}: Draw a card.</text>
+    <flavorText>Karn and Hanna stood over the recovered Legacy artifacts like loving parents over sleeping children.</flavorText>
+  </item>
+  <item>
+    <id>EXO0051</id>
+    <name>Wayward Soul</name>
+    <text>Flying
+
+{U}: Put Wayward Soul on top of its owner's library.</text>
+    <flavorText>"no home    no heart    no hope"
+—Stronghold graffito</flavorText>
+  </item>
+  <item>
+    <id>EXO0052</id>
+    <name>Whiptongue Frog</name>
+    <text>{U}: Whiptongue Frog gains flying until end of turn.</text>
+    <flavorText>Their favorite food? Wind dancers.</flavorText>
+  </item>
+  <item>
+    <id>EXO0053</id>
+    <name>Carnophage</name>
+    <text>At the beginning of your upkeep, tap Carnophage unless you pay 1 life.</text>
+    <flavorText>Eating is all it knows.</flavorText>
+  </item>
+  <item>
+    <id>EXO0054</id>
+    <name>Cat Burglar</name>
+    <text>{2}{B}, {T}: Target player discards a card. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>The il-Kor no longer roam the open plains, but they are still hunters.</flavorText>
+  </item>
+  <item>
+    <id>EXO0055</id>
+    <name>Culling the Weak</name>
+    <text>As an additional cost to cast Culling the Weak, sacrifice a creature.
+Add {B}{B}{B}{B} to your mana pool.</text>
+    <flavorText>"The blood of the weak shall be the ink with which we scribe great Yawgmoth's glorious name."
+—Stronghold architect, journal</flavorText>
+  </item>
+  <item>
+    <id>EXO0056</id>
+    <name>Cursed Flesh</name>
+    <text>Enchant creature
+Enchanted creature gets -1/-1 and has fear. (It can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>A farewell to arms . . . and feet . . . and legs . . . .</flavorText>
+  </item>
+  <item>
+    <id>EXO0057</id>
+    <name>Dauthi Cutthroat</name>
+    <text>Shadow (This creature can block or be blocked by only creatures with shadow.)
+{1}{B}, {T}: Destroy target creature with shadow.</text>
+    <flavorText>In their twisted logic, to empty the shadow world is to escape it.</flavorText>
+  </item>
+  <item>
+    <id>EXO0058</id>
+    <name>Dauthi Jackal</name>
+    <text>Shadow (This creature can block or be blocked by only creatures with shadow.)
+{B}{B}, Sacrifice Dauthi Jackal: Destroy target blocking creature.</text>
+    <flavorText>"All Dauthi are jackals, regardless of breed."
+—Lyna, Soltari emissary</flavorText>
+  </item>
+  <item>
+    <id>EXO0059</id>
+    <name>Dauthi Warlord</name>
+    <text>Shadow (This creature can block or be blocked by only creatures with shadow.)
+Dauthi Warlord's power is equal to the number of creatures with shadow on the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0060</id>
+    <name>Death's Duet</name>
+    <text>Return two target creature cards from your graveyard to your hand.</text>
+    <flavorText>Life has always been a dance. It is only fitting that death sing the tune.</flavorText>
+  </item>
+  <item>
+    <id>EXO0061</id>
+    <name>Entropic Specter</name>
+    <text>Flying
+As Entropic Specter enters the battlefield, choose an opponent.
+Entropic Specter's power and toughness are each equal to the number of cards in the chosen player's hand.
+Whenever Entropic Specter deals damage to a player, that player discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0062</id>
+    <name>Fugue</name>
+    <text>Target player discards three cards.</text>
+    <flavorText>"My ship . . . ," Sisay mumbled. "Intact," Gerrard reassured her, "which is more than I can say for you, my friend." Sisay laughed despite the pain.</flavorText>
+  </item>
+  <item>
+    <id>EXO0063</id>
+    <name>Grollub</name>
+    <text>Whenever Grollub is dealt damage, each opponent gains that much life.</text>
+    <flavorText>Mogglings caught in a misdeed often blame the grollub. Even though the creature is usually innocent, no taskmaster can resist an excuse to beat it.</flavorText>
+  </item>
+  <item>
+    <id>EXO0064</id>
+    <name>Hatred</name>
+    <text>As an additional cost to cast Hatred, pay X life.
+Target creature gets +X/+0 until end of turn.</text>
+    <flavorText>"I will flay the skin from your flesh and the flesh from your bones and scrape your bones dry. And still you will not have suffered enough."
+—Greven il-Vec, to Gerrard</flavorText>
+  </item>
+  <item>
+    <id>EXO0065</id>
+    <name>Keeper of the Dead</name>
+    <text>{B}, {T}: Choose target opponent who had at least two fewer creature cards in his or her graveyard than you did as you activated this ability. Destroy target nonblack creature he or she controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0066</id>
+    <name>Mind Maggots</name>
+    <text>When Mind Maggots enters the battlefield, discard any number of creature cards. For each card discarded this way, put two +1/+1 counters on Mind Maggots.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0067</id>
+    <name>Nausea</name>
+    <text>All creatures get -1/-1 until end of turn.</text>
+    <flavorText>Any mogg will tell you there's nothing more nauseating than the smell of cute.</flavorText>
+  </item>
+  <item>
+    <id>EXO0068</id>
+    <name>Necrologia</name>
+    <text>Cast Necrologia only during your end step.
+As an additional cost to cast Necrologia, pay X life.
+Draw X cards.</text>
+    <flavorText>"My enemies' death yields threefold benefit: removal, reuse, and research."
+—Volrath</flavorText>
+  </item>
+  <item>
+    <id>EXO0069</id>
+    <name>Oath of Ghouls</name>
+    <text>At the beginning of each player's upkeep, that player chooses target player whose graveyard has fewer creature cards in it than his or her graveyard does and is his or her opponent. The first player may return a creature card from his or her graveyard to his or her hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0070</id>
+    <name>Pit Spawn</name>
+    <text>First strike
+At the beginning of your upkeep, sacrifice Pit Spawn unless you pay {B}{B}.
+Whenever Pit Spawn deals damage to a creature, exile that creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0071</id>
+    <name>Plaguebearer</name>
+    <text>{X}{X}{B}: Destroy target nonblack creature with converted mana cost X.</text>
+    <flavorText>Its respiration is your expiration.</flavorText>
+  </item>
+  <item>
+    <id>EXO0072</id>
+    <name>Recurring Nightmare</name>
+    <text>Sacrifice a creature, Return Recurring Nightmare to its owner's hand: Return target creature card from your graveyard to the battlefield. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>"I am confined by sleep and defined by nightmare."
+—Crovax</flavorText>
+  </item>
+  <item>
+    <id>EXO0073</id>
+    <name>Scare Tactics</name>
+    <text>Creatures you control get +1/+0 until end of turn.</text>
+    <flavorText>"Fear rules those weak enough to accept it."
+—Greven il-Vec</flavorText>
+  </item>
+  <item>
+    <id>EXO0074</id>
+    <name>Slaughter</name>
+    <text>Buyback—Pay 4 life. (You may pay 4 life in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Destroy target nonblack creature. It can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0075</id>
+    <name>Spike Cannibal</name>
+    <text>Spike Cannibal enters the battlefield with a +1/+1 counter on it.
+When Spike Cannibal enters the battlefield, move all +1/+1 counters from all creatures onto it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0076</id>
+    <name>Thrull Surgeon</name>
+    <text>{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>"Just take a little off the top."</flavorText>
+  </item>
+  <item>
+    <id>EXO0077</id>
+    <name>Vampire Hounds</name>
+    <text>Discard a creature card: Vampire Hounds gets +2/+2 until end of turn.</text>
+    <flavorText>The hounds' barks are a horrifying chorus of screams, moans, and whispers.</flavorText>
+  </item>
+  <item>
+    <id>EXO0078</id>
+    <name>Volrath's Dungeon</name>
+    <text>Pay 5 life: Destroy Volrath's Dungeon. Any player may activate this ability but only during his or her turn.
+Discard a card: Target player puts a card from his or her hand on top of his or her library. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0079</id>
+    <name>Anarchist</name>
+    <text>When Anarchist enters the battlefield, you may return target sorcery card from your graveyard to your hand.</text>
+    <flavorText>"I'll take that. You won't need it when the revolution comes."</flavorText>
+  </item>
+  <item>
+    <id>EXO0080</id>
+    <name>Cinder Crawler</name>
+    <text>{R}: Cinder Crawler gets +1/+0 until end of turn. Activate this ability only if Cinder Crawler is blocked.</text>
+    <flavorText>The crawler doesn't care what gets in its way. It pushes everything into the boiling muck and waits for the meal to cook.</flavorText>
+  </item>
+  <item>
+    <id>EXO0081</id>
+    <name>Dizzying Gaze</name>
+    <text>Enchant creature you control
+{R}: Enchanted creature deals 1 damage to target creature with flying.</text>
+    <flavorText>"When I cut down my angel I only started my fall."
+—Crovax</flavorText>
+  </item>
+  <item>
+    <id>EXO0082</id>
+    <name>Fighting Chance</name>
+    <text>For each blocking creature, flip a coin. If you win the flip, prevent all combat damage that would be dealt by that creature this turn.</text>
+    <flavorText>A stroke of luck can smite an army.</flavorText>
+  </item>
+  <item>
+    <id>EXO0083</id>
+    <name>Flowstone Flood</name>
+    <text>Buyback—Pay 3 life, Discard a card at random. (You may pay 3 life and discard a card at random in addition to any other costs as you cast this spell. If you do, put this card into your hand as it resolves.)
+Destroy target land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0084</id>
+    <name>Furnace Brood</name>
+    <text>{R}: Target creature can't be regenerated this turn.</text>
+    <flavorText>Furnace air crackles with magmatic cackles.</flavorText>
+  </item>
+  <item>
+    <id>EXO0085</id>
+    <name>Keeper of the Flame</name>
+    <text>{R}, {T}: Choose target opponent who had more life than you did as you activated this ability. Keeper of the Flame deals 2 damage to him or her.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0086</id>
+    <name>Mage il-Vec</name>
+    <text>{T}, Discard a card at random: Mage il-Vec deals 1 damage to target creature or player.</text>
+    <flavorText>Living below a flowstone foundry produces a disproportionate number of fire mages among the il.</flavorText>
+  </item>
+  <item>
+    <id>EXO0087</id>
+    <name>Maniacal Rage</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+2 and can't block.</text>
+    <flavorText>Only by sacrificing any semblance of defense could Gerrard best Greven.</flavorText>
+  </item>
+  <item>
+    <id>EXO0088</id>
+    <name>Mogg Assassin</name>
+    <text>{T}: You choose target creature an opponent controls, and that opponent chooses target creature. Flip a coin. If you win the flip, destroy the creature you chose. If you lose the flip, destroy the creature your opponent chose.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0089</id>
+    <name>Monstrous Hound</name>
+    <text>Monstrous Hound can't attack unless you control more lands than defending player.
+Monstrous Hound can't block unless you control more lands than attacking player.</text>
+    <flavorText>"Stay."</flavorText>
+  </item>
+  <item>
+    <id>EXO0090</id>
+    <name>Oath of Mages</name>
+    <text>At the beginning of each player's upkeep, that player chooses target player who has more life than he or she does and is his or her opponent. The first player may have Oath of Mages deal 1 damage to the second player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0091</id>
+    <name>Ogre Shaman</name>
+    <text>{2}, Discard a card at random: Ogre Shaman deals 2 damage to target creature or player.</text>
+    <flavorText>Ogre shamans must be bright enough to learn their invocations and dim enough to use them.</flavorText>
+  </item>
+  <item>
+    <id>EXO0092</id>
+    <name>Onslaught</name>
+    <text>Whenever you cast a creature spell, tap target creature.</text>
+    <flavorText>The last thing to go through the mogg's mind was its teeth.</flavorText>
+  </item>
+  <item>
+    <id>EXO0093</id>
+    <name>Pandemonium</name>
+    <text>Whenever a creature enters the battlefield, that creature's controller may have it deal damage equal to its power to target creature or player of his or her choice.</text>
+    <flavorText>"If we cannot live proudly, we die so"
+—Eladamri, Lord of Leaves</flavorText>
+  </item>
+  <item>
+    <id>EXO0094</id>
+    <name>Paroxysm</name>
+    <text>Enchant creature
+At the beginning of the upkeep of enchanted creature's controller, that player reveals the top card of his or her library. If that card is a land card, destroy that creature. Otherwise, it gets +3/+3 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0095</id>
+    <name>Price of Progress</name>
+    <text>Price of Progress deals damage to each player equal to twice the number of nonbasic lands that player controls.</text>
+    <flavorText>Man versus nature is not a fair fight.</flavorText>
+  </item>
+  <item>
+    <id>EXO0096</id>
+    <name>Raging Goblin</name>
+    <text>Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+    <flavorText>Volrath has bred them to fear only him. Are they charging into battle, or merely fleeing his wrath?</flavorText>
+  </item>
+  <item>
+    <id>EXO0097</id>
+    <name>Ravenous Baboons</name>
+    <text>When Ravenous Baboons enters the battlefield, destroy target nonbasic land.</text>
+    <flavorText>Build something and the baboons will tear it down. Leave the pieces lying and they will scatter them.</flavorText>
+  </item>
+  <item>
+    <id>EXO0098</id>
+    <name>Reckless Ogre</name>
+    <text>Whenever Reckless Ogre attacks alone, it gets +3/+0 until end of turn.</text>
+    <flavorText>There is no such thing as a regiment of ogres.</flavorText>
+  </item>
+  <item>
+    <id>EXO0099</id>
+    <name>Sabertooth Wyvern</name>
+    <text>Flying, first strike</text>
+    <flavorText>Most creatures grow out of their baby teeth, but sabertooth wyverns grow into theirs.</flavorText>
+  </item>
+  <item>
+    <id>EXO0100</id>
+    <name>Scalding Salamander</name>
+    <text>Whenever Scalding Salamander attacks, you may have it deal 1 damage to each creature without flying defending player controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0101</id>
+    <name>Seismic Assault</name>
+    <text>Discard a land card: Seismic Assault deals 2 damage to target creature or player.</text>
+    <flavorText>The flowstone seemed for a moment to assume Greven's rage—it lunged like a wild beast at the Weatherlight.</flavorText>
+  </item>
+  <item>
+    <id>EXO0102</id>
+    <name>Shattering Pulse</name>
+    <text>Buyback {3} (You may pay an additional {3} as you cast this spell. If you do, put this card into your hand as it resolves.)
+Destroy target artifact.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0103</id>
+    <name>Sonic Burst</name>
+    <text>As an additional cost to cast Sonic Burst, discard a card at random.
+Sonic Burst deals 4 damage to target creature or player.</text>
+    <flavorText>Music scythes the savage beast.</flavorText>
+  </item>
+  <item>
+    <id>EXO0104</id>
+    <name>Spellshock</name>
+    <text>Whenever a player casts a spell, Spellshock deals 2 damage to that player.</text>
+    <flavorText>A snap of fingers, a snap of teeth.</flavorText>
+  </item>
+  <item>
+    <id>EXO0105</id>
+    <name>Avenging Druid</name>
+    <text>Whenever Avenging Druid deals damage to an opponent, you may reveal cards from the top of your library until you reveal a land card. If you do, put that card onto the battlefield and put all other cards revealed this way into your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0106</id>
+    <name>Bequeathal</name>
+    <text>Enchant creature
+When enchanted creature is put into a graveyard, you draw two cards.</text>
+    <flavorText>"On my death, I give you this treasure: the knowledge that life is hard, yet too soon past."
+—Dal funeral rite</flavorText>
+  </item>
+  <item>
+    <id>EXO0107</id>
+    <name>Cartographer</name>
+    <text>When Cartographer enters the battlefield, you may return target land card from your graveyard to your hand.</text>
+    <flavorText>How do you map a world when the land moves beneath your feet?</flavorText>
+  </item>
+  <item>
+    <id>EXO0108</id>
+    <name>Crashing Boars</name>
+    <text>Whenever Crashing Boars attacks, defending player chooses an untapped creature he or she controls. That creature blocks Crashing Boars this turn if able.</text>
+    <flavorText>Bores ruin a party. Boars are party to ruin.</flavorText>
+  </item>
+  <item>
+    <id>EXO0109</id>
+    <name>Elven Palisade</name>
+    <text>Sacrifice a Forest: Target attacking creature gets -3/-0 until end of turn.</text>
+    <flavorText>"Volrath is not the only one who can shape this world to serve him."
+—Eladamri, Lord of Leaves</flavorText>
+  </item>
+  <item>
+    <id>EXO0110</id>
+    <name>Elvish Berserker</name>
+    <text>Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</text>
+    <flavorText>Their fury scatters enemies like a pile of dry leaves.</flavorText>
+  </item>
+  <item>
+    <id>EXO0111</id>
+    <name>Jackalope Herd</name>
+    <text>When you cast a spell, return Jackalope Herd to its owner's hand.</text>
+    <flavorText>There's little more demeaning than getting your butt kicked by a bunch of bunnies.</flavorText>
+  </item>
+  <item>
+    <id>EXO0112</id>
+    <name>Keeper of the Beasts</name>
+    <text>{G}, {T}: Choose target opponent who controlled more creatures than you did as you activated this ability. Put a 2/2 green Beast creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0113</id>
+    <name>Manabond</name>
+    <text>At the beginning of your end step, you may reveal your hand and put all land cards from it onto the battlefield. If you do, discard your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0114</id>
+    <name>Mirri, Cat Warrior</name>
+    <text>First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it's unblockable as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0115</id>
+    <name>Oath of Druids</name>
+    <text>At the beginning of each player's upkeep, that player chooses target player who controls more creatures than he or she does and is his or her opponent. The first player may reveal cards from the top of his or her library until he or she reveals a creature card. If he or she does, that player puts that card onto the battlefield and all other cards revealed this way into his or her graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0116</id>
+    <name>Plated Rootwalla</name>
+    <text>{2}{G}: Plated Rootwalla gets +3/+3 until end of turn. Activate this ability only once each turn.</text>
+    <flavorText>" . . . And the third little boar built his house out of rootwalla plates . . . ."
+—Skyshroud children's story</flavorText>
+  </item>
+  <item>
+    <id>EXO0117</id>
+    <name>Predatory Hunger</name>
+    <text>Enchant creature
+Whenever an opponent casts a creature spell, put a +1/+1 counter on enchanted creature.</text>
+    <flavorText>Hunger growls, never purrs.</flavorText>
+  </item>
+  <item>
+    <id>EXO0118</id>
+    <name>Pygmy Troll</name>
+    <text>Whenever Pygmy Troll becomes blocked by a creature, Pygmy Troll gets +1/+1 until end of turn.
+{G}: Regenerate Pygmy Troll.</text>
+    <flavorText>"Who you callin' ‘shorty'?"</flavorText>
+  </item>
+  <item>
+    <id>EXO0119</id>
+    <name>Rabid Wolverines</name>
+    <text>Whenever Rabid Wolverines becomes blocked by a creature, Rabid Wolverines gets +1/+1 until end of turn.</text>
+    <flavorText>Is there any other kind?</flavorText>
+  </item>
+  <item>
+    <id>EXO0120</id>
+    <name>Reclaim</name>
+    <text>Put target card from your graveyard on top of your library.</text>
+    <flavorText>The wise pay as much attention to what they throw away as to what they keep.</flavorText>
+  </item>
+  <item>
+    <id>EXO0121</id>
+    <name>Resuscitate</name>
+    <text>Until end of turn, creatures you control gain "{1}: Regenerate this creature."</text>
+    <flavorText>"It is the art of convincing someone to live."
+—Orim, Samite healer</flavorText>
+  </item>
+  <item>
+    <id>EXO0122</id>
+    <name>Rootwater Alligator</name>
+    <text>Sacrifice a Forest: Regenerate Rootwater Alligator.</text>
+    <flavorText>Subduing and skinning an alligator is the first rite of maturity adolescent merfolk must pass.</flavorText>
+  </item>
+  <item>
+    <id>EXO0123</id>
+    <name>Skyshroud Elite</name>
+    <text>Skyshroud Elite gets +1/+2 as long as an opponent controls a nonbasic land.</text>
+    <flavorText>"Civilization is a conspiracy to disguise the mutilation of nature."
+—Skyshroud elite creed</flavorText>
+  </item>
+  <item>
+    <id>EXO0124</id>
+    <name>Skyshroud War Beast</name>
+    <text>Trample
+As Skyshroud War Beast enters the battlefield, choose an opponent.
+Skyshroud War Beast's power and toughness are each equal to the number of nonbasic lands the chosen player controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0125</id>
+    <name>Song of Serenity</name>
+    <text>Creatures that are enchanted can't attack or block.</text>
+    <flavorText>Heartwood brings peace in great symphonies where dryads conduct the trees through every note.</flavorText>
+  </item>
+  <item>
+    <id>EXO0126</id>
+    <name>Spike Hatcher</name>
+    <text>Spike Hatcher enters the battlefield with six +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Hatcher: Put a +1/+1 counter on target creature.
+{1}, Remove a +1/+1 counter from Spike Hatcher: Regenerate Spike Hatcher.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0127</id>
+    <name>Spike Rogue</name>
+    <text>Spike Rogue enters the battlefield with two +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Rogue: Put a +1/+1 counter on target creature.
+{2}, Remove a +1/+1 counter from a creature you control: Put a +1/+1 counter on Spike Rogue.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0128</id>
+    <name>Spike Weaver</name>
+    <text>Spike Weaver enters the battlefield with three +1/+1 counters on it.
+{2}, Remove a +1/+1 counter from Spike Weaver: Put a +1/+1 counter on target creature.
+{1}, Remove a +1/+1 counter from Spike Weaver: Prevent all combat damage that would be dealt this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0129</id>
+    <name>Survival of the Fittest</name>
+    <text>{G}, Discard a creature card: Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0130</id>
+    <name>Wood Elves</name>
+    <text>When Wood Elves enters the battlefield, search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.</text>
+    <flavorText>Secure in the embrace of wood, they want no part of Eladamri's war.</flavorText>
+  </item>
+  <item>
+    <id>EXO0131</id>
+    <name>Coat of Arms</name>
+    <text>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)</text>
+    <flavorText>"Hup, two, three, four,
+Dunno how to count no more."
+—Mogg march</flavorText>
+  </item>
+  <item>
+    <id>EXO0132</id>
+    <name>Erratic Portal</name>
+    <text>{1}, {T}: Return target creature to its owner's hand unless its controller pays {1}.</text>
+    <flavorText>"In Barrin's name" cried Lyna as Hanna's sword passed through her, "Ertai sends word that the portal is open—but not for long"</flavorText>
+  </item>
+  <item>
+    <id>EXO0133</id>
+    <name>Medicine Bag</name>
+    <text>{1}, {T}, Discard a card: Regenerate target creature.</text>
+    <flavorText>"My medicine bag and I have treated countless wounds and illnesses. But never have I seen so many made so sick for so long. We will never eat Squee's cooking again."
+—Orim, journal</flavorText>
+  </item>
+  <item>
+    <id>EXO0134</id>
+    <name>Memory Crystal</name>
+    <text>Buyback costs cost {2} less.</text>
+    <flavorText>Hues of recollection flicker like facets of a gem.</flavorText>
+  </item>
+  <item>
+    <id>EXO0135</id>
+    <name>Mindless Automaton</name>
+    <text>Mindless Automaton enters the battlefield with two +1/+1 counters on it.
+{1}, Discard a card: Put a +1/+1 counter on Mindless Automaton.
+Remove two +1/+1 counters from Mindless Automaton: Draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0136</id>
+    <name>Null Brooch</name>
+    <text>{2}, {T}, Discard your hand: Counter target noncreature spell.</text>
+    <flavorText>Give away everything so others have nothing.
+—Brooch inscription</flavorText>
+  </item>
+  <item>
+    <id>EXO0137</id>
+    <name>Skyshaper</name>
+    <text>Sacrifice Skyshaper: Creatures you control gain flying until end of turn.</text>
+    <flavorText>"It'll get us to the portal, but I can't guarantee what it'll do to the ship."
+—Hanna, Weatherlight navigator</flavorText>
+  </item>
+  <item>
+    <id>EXO0138</id>
+    <name>Spellbook</name>
+    <text>You have no maximum hand size.</text>
+    <flavorText>"Everything the wise woman learned she wrote in a book, and when the pages were black with ink, she took white ink and began again."
+—Karn, silver golem</flavorText>
+  </item>
+  <item>
+    <id>EXO0139</id>
+    <name>Sphere of Resistance</name>
+    <text>Spells cost {1} more to cast.</text>
+    <flavorText>A sphere pushes equally in all directions.</flavorText>
+  </item>
+  <item>
+    <id>EXO0140</id>
+    <name>Thopter Squadron</name>
+    <text>Flying
+Thopter Squadron enters the battlefield with three +1/+1 counters on it.
+{1}, Remove a +1/+1 counter from Thopter Squadron: Put a 1/1 colorless Thopter artifact creature token with flying onto the battlefield. Activate this ability only any time you could cast a sorcery.
+{1}, Sacrifice another Thopter: Put a +1/+1 counter on Thopter Squadron. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0141</id>
+    <name>Transmogrifying Licid</name>
+    <text>{1}, {T}: Transmogrifying Licid loses this ability and becomes an Aura enchantment with enchant creature. Attach it to target creature. You may pay {1} to end this effect.
+Enchanted creature gets +1/+1 and is an artifact in addition to its other types.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0142</id>
+    <name>Workhorse</name>
+    <text>Workhorse enters the battlefield with four +1/+1 counters on it.
+Remove a +1/+1 counter from Workhorse: Add {1} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EXO0143</id>
+    <name>City of Traitors</name>
+    <text>When you play another land, sacrifice City of Traitors.
+{T}: Add {2} to your mana pool.</text>
+    <flavorText>"While we fought, the il surrendered."
+—Oracle en-Vec</flavorText>
+  </item>
+</cards>

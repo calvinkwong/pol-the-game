@@ -1,0 +1,1399 @@
+<cards name="Portal Three Kingdoms">
+  <item>
+    <id>PTK0001</id>
+    <name>Balance of Power</name>
+    <text>If target opponent has more cards in hand than you, draw cards equal to the difference.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0002</id>
+    <name>Balance of Power</name>
+    <text>If target opponent has more cards in hand than you, draw cards equal to the difference.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0003</id>
+    <name>Blaze</name>
+    <text>Blaze deals X damage to target creature or player.</text>
+    <flavorText>"Spreading flames illumined cloud and sea:
+Cao Cao went down; 'twas Zhou Yu's victory."</flavorText>
+  </item>
+  <item>
+    <id>PTK0004</id>
+    <name>Blaze</name>
+    <text>Blaze deals X damage to target creature or player.</text>
+    <flavorText>"Spreading flames illumined cloud and sea:
+Cao Cao went down; 'twas Zhou Yu's victory."</flavorText>
+  </item>
+  <item>
+    <id>PTK0005</id>
+    <name>Blaze</name>
+    <text>Blaze deals X damage to target creature or player.</text>
+    <flavorText>"Spreading flames illumined cloud and sea:
+Cao Cao went down; 'twas Zhou Yu's victory."</flavorText>
+  </item>
+  <item>
+    <id>PTK0006</id>
+    <name>Exhaustion</name>
+    <text>Creatures and lands target opponent controls don't untap during his or her next untap step.</text>
+    <flavorText>Starving and worn, Cao Cao escaped from the battle of Red Cliffs with only 27 of his original 800,000 men.</flavorText>
+  </item>
+  <item>
+    <id>PTK0007</id>
+    <name>Exhaustion</name>
+    <text>Creatures and lands target opponent controls don't untap during his or her next untap step.</text>
+    <flavorText>Starving and worn, Cao Cao escaped from the battle of Red Cliffs with only 27 of his original 800,000 men.</flavorText>
+  </item>
+  <item>
+    <id>PTK0008</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0009</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0010</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0011</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0012</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0013</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0014</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0015</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0016</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0017</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0018</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0019</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0020</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0021</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0022</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0023</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0024</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0025</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0026</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0027</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0028</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0029</id>
+    <name>Mystic Denial</name>
+    <text>Counter target creature or sorcery spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0030</id>
+    <name>Mystic Denial</name>
+    <text>Counter target creature or sorcery spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0031</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0032</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0033</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0034</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0035</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0036</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0037</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0038</id>
+    <name>Stalking Tiger</name>
+    <text>Stalking Tiger can't be blocked by more than one creature.</text>
+    <flavorText>Throughout Chinese history, generals have often been referred to as tigers for their fierceness, strength, and bravery.</flavorText>
+  </item>
+  <item>
+    <id>PTK0039</id>
+    <name>Stalking Tiger</name>
+    <text>Stalking Tiger can't be blocked by more than one creature.</text>
+    <flavorText>Throughout Chinese history, generals have often been referred to as tigers for their fierceness, strength, and bravery.</flavorText>
+  </item>
+  <item>
+    <id>PTK0040</id>
+    <name>Stone Rain</name>
+    <text>Destroy target land.</text>
+    <flavorText>Soldiers often blocked off the steep mountain passes to ambush enemy troops in western and central China.</flavorText>
+  </item>
+  <item>
+    <id>PTK0041</id>
+    <name>Stone Rain</name>
+    <text>Destroy target land.</text>
+    <flavorText>Soldiers often blocked off the steep mountain passes to ambush enemy troops in western and central China.</flavorText>
+  </item>
+  <item>
+    <id>PTK0042</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0043</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0044</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0045</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0046</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0047</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0048</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0049</id>
+    <name>Vengeance</name>
+    <text>Destroy target tapped creature.</text>
+    <flavorText>"Until I've gnawed their flesh and exterminated their clans, my humiliation will not be effaced."
+—Liu Bei, on the death of
+his oath-brother Guan Yu</flavorText>
+  </item>
+  <item>
+    <id>PTK0050</id>
+    <name>Vengeance</name>
+    <text>Destroy target tapped creature.</text>
+    <flavorText>"Until I've gnawed their flesh and exterminated their clans, my humiliation will not be effaced."
+—Liu Bei, on the death of
+his oath-brother Guan Yu</flavorText>
+  </item>
+  <item>
+    <id>PTK0051</id>
+    <name>Alert Shu Infantry</name>
+    <text>Vigilance</text>
+    <flavorText>Kongming's predecessor helped Liu Bei win the battle of Fancheng by recognizing and defeating Cao Ren's use of the dreaded "Eight Gold Locks" formation.</flavorText>
+  </item>
+  <item>
+    <id>PTK0052</id>
+    <name>Eightfold Maze</name>
+    <text>Cast Eightfold Maze only during the declare attackers step and only if you've been attacked this step.
+Destroy target attacking creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0053</id>
+    <name>Empty City Ruse</name>
+    <text>Target opponent skips all combat phases of his or her next turn.</text>
+    <flavorText>Out of time and options, Kongming was forced to bluff at Xicheng. He tricked an army of 150,000 Wei by leaving the city gates open and calmly playing the zither.</flavorText>
+  </item>
+  <item>
+    <id>PTK0054</id>
+    <name>False Defeat</name>
+    <text>Return target creature card from your graveyard to the battlefield.</text>
+    <flavorText>"All warfare is based on deception."
+—Sun Tzu, Art of War (trans. Giles)</flavorText>
+  </item>
+  <item>
+    <id>PTK0055</id>
+    <name>Flanking Troops</name>
+    <text>Whenever Flanking Troops attacks, you may tap target creature.</text>
+    <flavorText>Following the battle of Redcliffs, both Liu Bei and Sun Quan coveted the province of Jingzhou. After Sun Quan's troops failed to capture it, Liu Bei's succeeded.</flavorText>
+  </item>
+  <item>
+    <id>PTK0056</id>
+    <name>Guan Yu, Sainted Warrior</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+When Guan Yu, Sainted Warrior is put into your graveyard from the battlefield, you may shuffle Guan Yu into your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0057</id>
+    <name>Guan Yu's 1,000-Li March</name>
+    <text>Destroy all tapped creatures.</text>
+    <flavorText>"He Guan Yu covered the ground on a thousand-li horse; / With dragon blade he took each pass by force."</flavorText>
+  </item>
+  <item>
+    <id>PTK0058</id>
+    <name>Huang Zhong, Shu General</name>
+    <text>Huang Zhong, Shu General can't be blocked by more than one creature.</text>
+    <flavorText>"Virile in war, he kept the north in fear;
+His prodigies subdued the western sphere."</flavorText>
+  </item>
+  <item>
+    <id>PTK0059</id>
+    <name>Kongming, "Sleeping Dragon"</name>
+    <text>Other creatures you control get +1/+1.</text>
+    <flavorText>"Such a lord as this—all virtues' height—
+Had never been, nor ever was again."</flavorText>
+  </item>
+  <item>
+    <id>PTK0060</id>
+    <name>Kongming's Contraptions</name>
+    <text>{T}: Kongming's Contraptions deals 2 damage to target attacking creature. Activate this ability only during the declare attackers step and only if you've been attacked this step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0061</id>
+    <name>Liu Bei, Lord of Shu</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Liu Bei, Lord of Shu gets +2/+2 as long as you control a permanent named Guan Yu, Sainted Warrior or a permanent named Zhang Fei, Fierce Warrior.</text>
+    <flavorText>"Only wisdom and virtue can truly win men's devotion."
+—Liu Bei</flavorText>
+  </item>
+  <item>
+    <id>PTK0062</id>
+    <name>Loyal Retainers</name>
+    <text>Sacrifice Loyal Retainers: Return target legendary creature card from your graveyard to the battlefield. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0063</id>
+    <name>Misfortune's Gain</name>
+    <text>Destroy target creature. Its owner gains 4 life.</text>
+    <flavorText>The mourning families of commanders and generals were often given land, valuables, or money to compensate for their losses.</flavorText>
+  </item>
+  <item>
+    <id>PTK0064</id>
+    <name>Pang Tong, "Young Phoenix"</name>
+    <text>{T}: Target creature gets +0/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>". . . It was Pang Tong's boat-connecting scheme
+That let Zhou Yu accomplish his great deed."</flavorText>
+  </item>
+  <item>
+    <id>PTK0065</id>
+    <name>Peach Garden Oath</name>
+    <text>You gain 2 life for each creature you control.</text>
+    <flavorText>"We three, though of separate ancestry, join in brotherhood . . . . We dare not hope to be together always but hereby vow to die the selfsame day."
+—Peach Garden Oath</flavorText>
+  </item>
+  <item>
+    <id>PTK0066</id>
+    <name>Rally the Troops</name>
+    <text>Cast Rally the Troops only during the declare attackers step and only if you've been attacked this step.
+Untap all creatures you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0067</id>
+    <name>Ravages of War</name>
+    <text>Destroy all lands.</text>
+    <flavorText>"Thorn bushes spring up wherever the army has passed. Lean years follow in the wake of a great war."Lao Tzu, Tao Te Ching (trans. Feng and English)</flavorText>
+  </item>
+  <item>
+    <id>PTK0068</id>
+    <name>Riding Red Hare</name>
+    <text>Target creature gets +3/+3 and gains horsemanship until end of turn. (It can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>One of the greatest steeds in the empire, Red Hare could travel a thousand li a day and climb hills as if running on flat ground.</flavorText>
+  </item>
+  <item>
+    <id>PTK0069</id>
+    <name>Shu Cavalry</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>In establishing the Shu kingdom, Liu Bei's forces fought against Ma Chao at Chengdu. Eventually, Ma Chao surrendered and became one of Liu Bei's Tiger Generals.</flavorText>
+  </item>
+  <item>
+    <id>PTK0070</id>
+    <name>Shu Defender</name>
+    <text>Whenever Shu Defender blocks, it gets +0/+2 until end of turn.</text>
+    <flavorText>Confronting Cao Cao's army at Steepslope Bridge, Zhang Fei bellowed, "I am Zhang Fei of Yan Who dares fight me to the death?" Cao Cao's army cowered and fled.</flavorText>
+  </item>
+  <item>
+    <id>PTK0071</id>
+    <name>Shu Elite Companions</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>Throughout the three kingdoms, important generals were often guarded by small groups of expert soldiers known as "elite companions."</flavorText>
+  </item>
+  <item>
+    <id>PTK0072</id>
+    <name>Shu Elite Infantry</name>
+    <text>
+    </text>
+    <flavorText>Kongming's first campaign against the Wei kingdom was a rousing success until an arrogant Shu general, Ma Su, foolishly lost the city of Jieting.</flavorText>
+  </item>
+  <item>
+    <id>PTK0073</id>
+    <name>Shu Farmer</name>
+    <text>{T}: You gain 1 life. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>"The common folk are ceaselessly active. The fields are fertile and the soil productive, and neither flood nor drought plagues us."
+—A Shu diplomat</flavorText>
+  </item>
+  <item>
+    <id>PTK0074</id>
+    <name>Shu Foot Soldiers</name>
+    <text>
+    </text>
+    <flavorText>Liu Bei lost many men at the battle of Runan because of his lack of strategy. It wasn't until he met Kongming that the he began to truly succeed as a leader.</flavorText>
+  </item>
+  <item>
+    <id>PTK0075</id>
+    <name>Shu General</name>
+    <text>Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0076</id>
+    <name>Shu Grain Caravan</name>
+    <text>When Shu Grain Caravan enters the battlefield, you gain 2 life.</text>
+    <flavorText>Keeping a million-man army fed was no easy task. Grain and rice caravans were the lifeblood of the empire.</flavorText>
+  </item>
+  <item>
+    <id>PTK0077</id>
+    <name>Shu Soldier-Farmers</name>
+    <text>When Shu Soldier-Farmers enters the battlefield, you gain 4 life.</text>
+    <flavorText>During Kongming's campaigns against the Wei, his Shu troops rotated from the battlefront to the fields every hundred days.</flavorText>
+  </item>
+  <item>
+    <id>PTK0078</id>
+    <name>Virtuous Charge</name>
+    <text>Creatures you control get +1/+1 until end of turn.</text>
+    <flavorText>"The empire belongs to no one man but to all in the empire. He who has virtue shall possess it."</flavorText>
+  </item>
+  <item>
+    <id>PTK0079</id>
+    <name>Volunteer Militia</name>
+    <text>
+    </text>
+    <flavorText>After making the Peach Garden Oath, the three brothers raised an army of 500 youths to fight the Yellow Scarves rebellion.</flavorText>
+  </item>
+  <item>
+    <id>PTK0080</id>
+    <name>Warrior's Stand</name>
+    <text>Cast Warrior's Stand only during the declare attackers step and only if you've been attacked this step.
+Creatures you control get +2/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0081</id>
+    <name>Zhang Fei, Fierce Warrior</name>
+    <text>Vigilance; horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>Zhang Fei's uncharacteristic alliance with a defeated Riverlands general, Yan Yan, allowed Shu forces to advance through forty-five Riverlands strongpoints with no casualties.</flavorText>
+  </item>
+  <item>
+    <id>PTK0082</id>
+    <name>Zhao Zilong, Tiger General</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Whenever Zhao Zilong, Tiger General blocks, it gets +1/+1 until end of turn.</text>
+    <flavorText>Zhao Zilong was a brave and noble warrior. He twice rescued Liu Bei's son and heir, Liu Shan.</flavorText>
+  </item>
+  <item>
+    <id>PTK0083</id>
+    <name>Borrowing 100,000 Arrows</name>
+    <text>Draw a card for each tapped creature target opponent controls.</text>
+    <flavorText>Kongming and Lu Su tricked Wei troops into shooting over 100,000 arrows at them to later use against the Wei at Red Cliffs.</flavorText>
+  </item>
+  <item>
+    <id>PTK0084</id>
+    <name>Brilliant Plan</name>
+    <text>Draw three cards.</text>
+    <flavorText>At Red Cliffs, Kongming and Zhou Yu each wrote his plan for defeating Wei on the palm of his hand. They laughed as they both revealed the same word, "Fire."</flavorText>
+  </item>
+  <item>
+    <id>PTK0085</id>
+    <name>Broken Dam</name>
+    <text>Tap one or two target creatures without horsemanship.</text>
+    <flavorText>Using nature to their advantage, wise Three Kingdoms generals often let dammed rivers loose to destroy their enemies.</flavorText>
+  </item>
+  <item>
+    <id>PTK0086</id>
+    <name>Capture of Jingzhou</name>
+    <text>Take an extra turn after this one.</text>
+    <flavorText>The province of Jingzhou was the fulcrum of the three kingdoms. At separate times it was coveted and controlled by the Wu, the Shu, and the Wei.</flavorText>
+  </item>
+  <item>
+    <id>PTK0087</id>
+    <name>Champion's Victory</name>
+    <text>Cast Champion's Victory only during the declare attackers step and only if you've been attacked this step.
+Return target attacking creature to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0088</id>
+    <name>Council of Advisors</name>
+    <text>When Council of Advisors enters the battlefield, draw a card.</text>
+    <flavorText>Sun Quan's long and successful rule in the years 199 to 251 was due to his ability to choose and foster talented advisors and generals.</flavorText>
+  </item>
+  <item>
+    <id>PTK0089</id>
+    <name>Counterintelligence</name>
+    <text>Return one or two target creatures to their owners' hands.</text>
+    <flavorText>Before the battle of Red Cliffs, a supposedly sleeping Zhou Yu allowed his old friend, a Wei advisor, to steal a planted letter forged as if from Wei's two best admirals.</flavorText>
+  </item>
+  <item>
+    <id>PTK0090</id>
+    <name>Extinguish</name>
+    <text>Counter target sorcery spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0091</id>
+    <name>Forced Retreat</name>
+    <text>Put target creature on top of its owner's library.</text>
+    <flavorText>"Leadership, not numbers, determines victory."
+—A Wu commander, before his 5,000 troops forced 15,000 Wei troops to retreat from Ruxu</flavorText>
+  </item>
+  <item>
+    <id>PTK0092</id>
+    <name>Lady Sun</name>
+    <text>{T}: Return Lady Sun and another target creature to their owners' hands. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>Sister to Sun Quan and wife to Liu Bei, Lady Sun often felt her loyalty to both tested.</flavorText>
+  </item>
+  <item>
+    <id>PTK0093</id>
+    <name>Lu Meng, Wu General</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>As the Wu chief commander, Lu Meng conquered Shu-held Jingzhou in 219 by disguising soldiers as merchants on boats filled with hiding troops.</flavorText>
+  </item>
+  <item>
+    <id>PTK0094</id>
+    <name>Lu Su, Wu Advisor</name>
+    <text>{T}: Draw a card. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>Lu Su served as an intermediary between the Wu and Shu kingdoms until Zhou Yu's death in 210, when he became Wu's supreme commander.</flavorText>
+  </item>
+  <item>
+    <id>PTK0095</id>
+    <name>Lu Xun, Scholar General</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Whenever Lu Xun, Scholar General deals damage to an opponent, you may draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0096</id>
+    <name>Preemptive Strike</name>
+    <text>Counter target creature spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0097</id>
+    <name>Red Cliffs Armada</name>
+    <text>Red Cliffs Armada can't attack unless defending player controls an Island.</text>
+    <flavorText>By the battle of Red Cliffs in the year 208, the Wu kingdom controlled more than 7,000 warships on the Yangtze.</flavorText>
+  </item>
+  <item>
+    <id>PTK0098</id>
+    <name>Sage's Knowledge</name>
+    <text>Return target sorcery card from your graveyard to your hand.</text>
+    <flavorText>"Those who know do not talk. Those who talk do not know."
+—Lao Tzu, Tao Te Ching
+(trans. Feng and English)</flavorText>
+  </item>
+  <item>
+    <id>PTK0099</id>
+    <name>Strategic Planning</name>
+    <text>Look at the top three cards of your library. Put one of them into your hand and the rest into your graveyard.</text>
+    <flavorText>"Plans evolved within the tent decide a victory 1,000 li away."</flavorText>
+  </item>
+  <item>
+    <id>PTK0100</id>
+    <name>Straw Soldiers</name>
+    <text>
+    </text>
+    <flavorText>The overnight appearance of miles of "armed" Wu forts at Guangling frightened a much vaster Wei force into fleeing for their lives.</flavorText>
+  </item>
+  <item>
+    <id>PTK0101</id>
+    <name>Sun Ce, Young Conquerer</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+When Sun Ce, Young Conquerer enters the battlefield, you may return target creature to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0102</id>
+    <name>Sun Quan, Lord of Wu</name>
+    <text>Creatures you control have horsemanship. (They can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>"One score and four he reigned, the Southland king: / A dragon coiled, a tiger poised below the mighty Yangtze."</flavorText>
+  </item>
+  <item>
+    <id>PTK0103</id>
+    <name>Wu Admiral</name>
+    <text>Wu Admiral gets +1/+1 as long as an opponent controls an Island.</text>
+    <flavorText>The Wu kingdom's well-trained admirals were integral to the Southlands' victory at Red Cliffs as well as the kingdom's defense.</flavorText>
+  </item>
+  <item>
+    <id>PTK0104</id>
+    <name>Wu Elite Cavalry</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>At the second battle of Ruxu, the brave Wu general Gan Ning raided Cao Cao's camp of 400,000 men with only 100 cavalry. Not a single man or horse was lost.</flavorText>
+  </item>
+  <item>
+    <id>PTK0105</id>
+    <name>Wu Infantry</name>
+    <text>
+    </text>
+    <flavorText>The first battle of Hefei was Sun Quan's last as a field general. From then on he let his generals command in the field while he directed battle from behind the front lines.</flavorText>
+  </item>
+  <item>
+    <id>PTK0106</id>
+    <name>Wu Light Cavalry</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>A cunning strategist, Cao Ren tricked Zhou Yu by letting him enter Nanjun. Zhou Yu thought he was capturing the city until Cao Ren's arrows rained down upon him.</flavorText>
+  </item>
+  <item>
+    <id>PTK0107</id>
+    <name>Wu Longbowman</name>
+    <text>{T}: Wu Longbowman deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0108</id>
+    <name>Wu Scout</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+When Wu Scout enters the battlefield, look at target opponent's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0109</id>
+    <name>Wu Spy</name>
+    <text>When Wu Spy enters the battlefield, look at the top two cards of target player's library. Put one of them into his or her graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0110</id>
+    <name>Wu Warship</name>
+    <text>Wu Warship can't attack unless defending player controls an Island.</text>
+    <flavorText>Both Wu and Wei warships patrolled the Yangtze River, the natural border between the two kingdoms.</flavorText>
+  </item>
+  <item>
+    <id>PTK0111</id>
+    <name>Zhou Yu, Chief Commander</name>
+    <text>Zhou Yu, Chief Commander can't attack unless defending player controls an Island.</text>
+    <flavorText>"After making me, Zhou Yu, did you have to make Kongming?"
+—Zhou Yu crying to heaven on his deathbed</flavorText>
+  </item>
+  <item>
+    <id>PTK0112</id>
+    <name>Zhuge Jin, Wu Strategist</name>
+    <text>{T}: Target creature is unblockable this turn. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>When Zhuge Jin proposed the marriage of Guan Yu's daugher and Sun Quan's heir, Guan Yu's arrogant refusal led to disaster.</flavorText>
+  </item>
+  <item>
+    <id>PTK0113</id>
+    <name>Ambition's Cost</name>
+    <text>You draw three cards and you lose 3 life.</text>
+    <flavorText>"When you give offense to heaven, to whom can you pray?"
+—Cao Cao, quoting Confucius</flavorText>
+  </item>
+  <item>
+    <id>PTK0114</id>
+    <name>Cao Cao, Lord of Wei</name>
+    <text>{T}: Target opponent discards two cards. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0115</id>
+    <name>Cao Ren, Wei Commander</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+When Cao Ren, Wei Commander enters the battlefield, you lose 3 life.</text>
+    <flavorText>Cao Cao's cousin, Cao Ren was known throughout the three kingdoms as the fiercest of warriors.</flavorText>
+  </item>
+  <item>
+    <id>PTK0116</id>
+    <name>Coercion</name>
+    <text>Target opponent reveals his or her hand. You choose a card from it. That player discards that card.</text>
+    <flavorText>Though he held the title of prime minister, Cao Cao used the emperor's name to exert his own influence on the empire.</flavorText>
+  </item>
+  <item>
+    <id>PTK0117</id>
+    <name>Corrupt Court Official</name>
+    <text>When Corrupt Court Official enters the battlefield, target opponent discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0118</id>
+    <name>Cunning Advisor</name>
+    <text>{T}: Target opponent discards a card. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0119</id>
+    <name>Deception</name>
+    <text>Target opponent discards two cards.</text>
+    <flavorText>Believing they wrote the forged letter that had been stolen from Zhou Yu, Cao Cao rashly executed his two best admirals for treason.</flavorText>
+  </item>
+  <item>
+    <id>PTK0120</id>
+    <name>Desperate Charge</name>
+    <text>Creatures you control get +2/+0 until end of turn.</text>
+    <flavorText>"Lieutenants dishonored, corpses carted home; The general raises troops again to take revenge."</flavorText>
+  </item>
+  <item>
+    <id>PTK0121</id>
+    <name>Famine</name>
+    <text>Famine deals 3 damage to each creature and each player.</text>
+    <flavorText>"But it was a year of dearth. People were reduced to eating leaves of jujube trees. Corpses were seen everywhere in the countryside."</flavorText>
+  </item>
+  <item>
+    <id>PTK0122</id>
+    <name>Ghostly Visit</name>
+    <text>Destroy target nonblack creature.</text>
+    <flavorText>Cao Cao was haunted to death by the ghosts of the empresses and other high courtiers he had murdered.</flavorText>
+  </item>
+  <item>
+    <id>PTK0123</id>
+    <name>Imperial Edict</name>
+    <text>Target opponent chooses a creature he or she controls. Destroy it.</text>
+    <flavorText>Frustrated with Cao Cao's control of the imperial court, Emperor Xian secretly issued an edict condemning him, using his own blood as ink.</flavorText>
+  </item>
+  <item>
+    <id>PTK0124</id>
+    <name>Imperial Seal</name>
+    <text>Search your library for a card, then shuffle your library and put that card on top of it. You lose 2 life.</text>
+    <flavorText>"If Heaven has placed it in your hands, it means that the throne is destined to be yours."</flavorText>
+  </item>
+  <item>
+    <id>PTK0125</id>
+    <name>Overwhelming Forces</name>
+    <text>Destroy all creatures target opponent controls. Draw a card for each creature destroyed this way.</text>
+    <flavorText>By the year 208, Cao Cao commanded more than 1,000 experienced generals and a million infantry, cavalry, and naval troops.</flavorText>
+  </item>
+  <item>
+    <id>PTK0126</id>
+    <name>Poison Arrow</name>
+    <text>Destroy target nonblack creature. You gain 3 life.</text>
+    <flavorText>In ancient China, not wearing armor could be a fatal mistake. Guan Yu, Zhou Yu, Sun Ce, and other heros were struck by poison arrows.</flavorText>
+  </item>
+  <item>
+    <id>PTK0127</id>
+    <name>Return to Battle</name>
+    <text>Return target creature card from your graveyard to your hand.</text>
+    <flavorText>"Swallowing his eye, the valiant Xiahou Dun fought on; / But Cao Cao's vanguard, its commander wounded, could not hold out for long."</flavorText>
+  </item>
+  <item>
+    <id>PTK0128</id>
+    <name>Sima Yi, Wei Field Marshal</name>
+    <text>Sima Yi, Wei Field Marshal's power is equal to the number of Swamps you control.</text>
+    <flavorText>Sima Yi fought for four generations of the Cao family before his own grandson became emperor and united the three kingdoms.</flavorText>
+  </item>
+  <item>
+    <id>PTK0129</id>
+    <name>Stolen Grain</name>
+    <text>Stolen Grain deals 5 damage to target opponent. You gain 5 life.</text>
+    <flavorText>At the battle of Guandu, Cao Cao defeated Yuan Shao by raiding his grain depot, leaving him with no way to feed his troops.</flavorText>
+  </item>
+  <item>
+    <id>PTK0130</id>
+    <name>Stone Catapult</name>
+    <text>{T}: Destroy target tapped nonblack creature. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0131</id>
+    <name>Wei Ambush Force</name>
+    <text>Whenever Wei Ambush Force attacks, it gets +2/+0 until end of turn.</text>
+    <flavorText>The battle of Puyang marked the beginning of the end for Lu Bu. He lost the city—and later his life—to Cao Cao.</flavorText>
+  </item>
+  <item>
+    <id>PTK0132</id>
+    <name>Wei Assassins</name>
+    <text>When Wei Assassins enters the battlefield, target opponent chooses a creature he or she controls. Destroy it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0133</id>
+    <name>Wei Elite Companions</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>Cao Cao was more concerned with capabilities than lineage. He excelled at recruiting and retaining men of talent to serve him.</flavorText>
+  </item>
+  <item>
+    <id>PTK0134</id>
+    <name>Wei Infantry</name>
+    <text>
+    </text>
+    <flavorText>Wei won the battle of Hefei when Zhang Liao defeated Sun Quan and then foiled a Wu scheme to incite rebellion.</flavorText>
+  </item>
+  <item>
+    <id>PTK0135</id>
+    <name>Wei Night Raiders</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Whenever Wei Night Raiders deals damage to an opponent, that player discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0136</id>
+    <name>Wei Scout</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>He will win who, prepared himself, waits to take the enemy unprepared."
+—Sun Tzu, Art of War (trans. Giles)</flavorText>
+  </item>
+  <item>
+    <id>PTK0137</id>
+    <name>Wei Strike Force</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>At the battle of Chang'an, Ma Chao defeated the two generals Cao Cao sent to guard the pass but was forced to flee when Cao Cao's trickery turned his own ally against him.</flavorText>
+  </item>
+  <item>
+    <id>PTK0138</id>
+    <name>Xiahou Dun, the One-Eyed</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Sacrifice Xiahou Dun, the One-Eyed: Return target black card from your graveyard to your hand. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0139</id>
+    <name>Xun Yu, Wei Advisor</name>
+    <text>{T}: Target creature you control gets +2/+0 until end of turn. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>"A splendid talent, admired of all men His folly lay in serving Cao Cao's power."</flavorText>
+  </item>
+  <item>
+    <id>PTK0140</id>
+    <name>Young Wei Recruits</name>
+    <text>Young Wei Recruits can't block.</text>
+    <flavorText>"To send the common people to war untrained is to throw them away."
+—Confucius, The Analects (trans. Lau)</flavorText>
+  </item>
+  <item>
+    <id>PTK0141</id>
+    <name>Zhang He, Wei General</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Whenever Zhang He, Wei General attacks, each other creature you control gets +1/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0142</id>
+    <name>Zhang Liao, Hero of Hefei</name>
+    <text>Whenever Zhang Liao, Hero of Hefei deals damage to an opponent, that opponent discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0143</id>
+    <name>Zodiac Pig</name>
+    <text>Swampwalk</text>
+    <flavorText>". . . Zhong Hui and Deng Ai next led armies west: / And to the Cao, Han's hills and streams now passed. . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0144</id>
+    <name>Zodiac Rat</name>
+    <text>Swampwalk</text>
+    <flavorText>" . . . Cao Pi, Cao Rui, Fang, Mao, and briefly, Huan— / The Sima took the empire in their turn. . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0145</id>
+    <name>Zodiac Snake</name>
+    <text>Swampwalk</text>
+    <flavorText>"Thrice Xuande's ardent quest led to Nanyang, / Where Sleeping Dragon unveiled Han's partition: . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0146</id>
+    <name>Barbarian General</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>"Barbarian tribes with their rulers are inferior to Chinese states without them."
+—Confucius, The Analects (trans. Lau)</flavorText>
+  </item>
+  <item>
+    <id>PTK0147</id>
+    <name>Barbarian Horde</name>
+    <text>
+    </text>
+    <flavorText>Only twenty years after the Sima clan united the empire, invading barbarians divided it again.</flavorText>
+  </item>
+  <item>
+    <id>PTK0148</id>
+    <name>Burning Fields</name>
+    <text>Burning Fields deals 5 damage to target opponent.</text>
+    <flavorText>"In raiding and plundering, be like fire, in immovability like a mountain."
+—Sun Tzu, Art of War (trans. Giles)</flavorText>
+  </item>
+  <item>
+    <id>PTK0149</id>
+    <name>Burning of Xinye</name>
+    <text>You destroy four lands you control, then target opponent destroys four lands he or she controls. Then Burning of Xinye deals 4 damage to each creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0150</id>
+    <name>Control of the Court</name>
+    <text>Draw four cards, then discard three cards at random.</text>
+    <flavorText>"Power-hungry eunuchs, the curse of the dynasty, have thrown the masses of the people into the depths of misery."</flavorText>
+  </item>
+  <item>
+    <id>PTK0151</id>
+    <name>Corrupt Eunuchs</name>
+    <text>When Corrupt Eunuchs enters the battlefield, it deals 2 damage to target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0152</id>
+    <name>Desert Sandstorm</name>
+    <text>Desert Sandstorm deals 1 damage to each creature.</text>
+    <flavorText>While pursuing the remnants of Yuan Shao's forces into the Wuhan Desert, Cao Cao was temporarily turned back by a fierce sandstorm.</flavorText>
+  </item>
+  <item>
+    <id>PTK0153</id>
+    <name>Diaochan, Artful Beauty</name>
+    <text>{T}: Destroy target creature of your choice, then destroy target creature of an opponent's choice. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0154</id>
+    <name>Dong Zhou, the Tyrant</name>
+    <text>When Dong Zhou, the Tyrant enters the battlefield, target creature an opponent controls deals damage equal to its power to that player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0155</id>
+    <name>Eunuchs' Intrigues</name>
+    <text>Target opponent chooses a creature he or she controls. Other creatures he or she controls can't block this turn.</text>
+    <flavorText>Taking control of powerful court positions one by one, eunuchs eventually brought on the fall of the Han dynasty, leading to the chaos of the Three Kingdoms.</flavorText>
+  </item>
+  <item>
+    <id>PTK0156</id>
+    <name>Fire Ambush</name>
+    <text>Fire Ambush deals 3 damage to target creature or player.</text>
+    <flavorText>"With fire he broke the battle at Bowang . . . . Striking fear deep into Cao Cao's soul, thus Kongming scored a coup at his debut."</flavorText>
+  </item>
+  <item>
+    <id>PTK0157</id>
+    <name>Fire Bowman</name>
+    <text>Sacrifice Fire Bowman: Fire Bowman deals 1 damage to target creature or player. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0158</id>
+    <name>Imperial Recruiter</name>
+    <text>When Imperial Recruiter enters the battlefield, search your library for a creature card with power 2 or less, reveal it, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0159</id>
+    <name>Independent Troops</name>
+    <text>
+    </text>
+    <flavorText>"The empire, long united, must divide, and long divided, must unite."</flavorText>
+  </item>
+  <item>
+    <id>PTK0160</id>
+    <name>Lu Bu, Master-at-Arms</name>
+    <text>Haste; horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>"Dong Zhuo's man, Lu Bu, warrior without peer, / Far surpassed the champions of his sphere."</flavorText>
+  </item>
+  <item>
+    <id>PTK0161</id>
+    <name>Ma Chao, Western Warrior</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Whenever Ma Chao, Western Warrior attacks alone, it's unblockable this combat.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0162</id>
+    <name>Mountain Bandit</name>
+    <text>Haste</text>
+    <flavorText>Penniless and far from home, many former Yellow Scarves and other soldiers became bandits to survive.</flavorText>
+  </item>
+  <item>
+    <id>PTK0163</id>
+    <name>Ravaging Horde</name>
+    <text>When Ravaging Horde enters the battlefield, destroy target land.</text>
+    <flavorText>Upon his return to the capitol after taking soldiers to loot a nearby peaceful town, the prime minister, Dong Zhou, boasted of it as a victory over bandits.</flavorText>
+  </item>
+  <item>
+    <id>PTK0164</id>
+    <name>Relentless Assault</name>
+    <text>Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+    <flavorText>With only 70,000 men under his command at the battle of Guandu, Cao Cao was able to defeat Yuan Shao and his 700,000.</flavorText>
+  </item>
+  <item>
+    <id>PTK0165</id>
+    <name>Renegade Troops</name>
+    <text>Haste</text>
+    <flavorText>"Across the land rebellions seethed and swarmed / As vicious war lords swooped down on all sides."</flavorText>
+  </item>
+  <item>
+    <id>PTK0166</id>
+    <name>Rockslide Ambush</name>
+    <text>Rockslide Ambush deals damage equal to the number of Mountains you control to target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0167</id>
+    <name>Rolling Earthquake</name>
+    <text>Rolling Earthquake deals X damage to each creature without horsemanship and each player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0168</id>
+    <name>Warrior's Oath</name>
+    <text>Take an extra turn after this one. At the beginning of that turn's end step, you lose the game.</text>
+    <flavorText>"If I fail, my head is yours."
+—Warrior's oath common
+during the Three Kingdoms period</flavorText>
+  </item>
+  <item>
+    <id>PTK0169</id>
+    <name>Yellow Scarves Cavalry</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Yellow Scarves Cavalry can't block.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0170</id>
+    <name>Yellow Scarves General</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Yellow Scarves General can't block.</text>
+    <flavorText>Zhang Jue, leader of the Yellow Scarves rebellion, was a Taoist master and tutored his soldiers in those arts.</flavorText>
+  </item>
+  <item>
+    <id>PTK0171</id>
+    <name>Yellow Scarves Troops</name>
+    <text>Yellow Scarves Troops can't block.</text>
+    <flavorText>Over 500,000 commoners followed Zhang Jue, General of Heaven, in his attempt to overthrow the corrupt Han dynasty.</flavorText>
+  </item>
+  <item>
+    <id>PTK0172</id>
+    <name>Yuan Shao, the Indecisive</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)
+Each creature you control can't be blocked by more than one creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0173</id>
+    <name>Yuan Shao's Infantry</name>
+    <text>Whenever Yuan Shao's Infantry attacks alone, Yuan Shao's Infantry is unblockable this combat.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0174</id>
+    <name>Zodiac Dog</name>
+    <text>Mountainwalk</text>
+    <flavorText>". . . Jiang Wei alone still strove with might and main: / Nine times more he fought the north—in vain. . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0175</id>
+    <name>Zodiac Dragon</name>
+    <text>When Zodiac Dragon is put into your graveyard from the battlefield, you may return it to your hand.</text>
+    <flavorText>". . . The kingdoms three are now the stuff of dream, / For men to ponder, past all praise or blame."</flavorText>
+  </item>
+  <item>
+    <id>PTK0176</id>
+    <name>Zodiac Goat</name>
+    <text>Mountainwalk</text>
+    <flavorText>". . . Near death in Baidi, having reigned three years, / Bei sadly placed his son in Kongming's care. . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0177</id>
+    <name>Borrowing the East Wind</name>
+    <text>Borrowing the East Wind deals X damage to each creature with horsemanship and each player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0178</id>
+    <name>False Mourning</name>
+    <text>Put target card from your graveyard on top of your library.</text>
+    <flavorText>Zhou Yu, Sun Ce, and other famous generals feigned their deaths in order to later surprise their opponents.</flavorText>
+  </item>
+  <item>
+    <id>PTK0179</id>
+    <name>Forest Bear</name>
+    <text>
+    </text>
+    <flavorText>Fish and bear paws—one can't have both.
+—Chinese idiom meaning
+"you can't have it both ways"</flavorText>
+  </item>
+  <item>
+    <id>PTK0180</id>
+    <name>Heavy Fog</name>
+    <text>Cast Heavy Fog only during the declare attackers step and only if you've been attacked this step.
+Prevent all damage that would be dealt to you this turn by attacking creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0181</id>
+    <name>Hua Tuo, Honored Physician</name>
+    <text>{T}: Put target creature card from your graveyard on top of your library. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0182</id>
+    <name>Hunting Cheetah</name>
+    <text>Whenever Hunting Cheetah deals damage to an opponent, you may search your library for a Forest card, reveal that card, put it into your hand, then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0183</id>
+    <name>Lady Zhurong, Warrior Queen</name>
+    <text>Horsemanship (This creature can't be blocked except by creatures with horsemanship.)</text>
+    <flavorText>"A man, and such a fool I, a woman, will fight them for you."
+—Lady Zhurong to her husband Meng Huo, before leading an army against the Shu</flavorText>
+  </item>
+  <item>
+    <id>PTK0184</id>
+    <name>Lone Wolf</name>
+    <text>You may have Lone Wolf assign its combat damage as though it weren't blocked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0185</id>
+    <name>Marshaling the Troops</name>
+    <text>Tap any number of untapped creatures you control. You gain 4 life for each creature tapped this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0186</id>
+    <name>Meng Huo, Barbarian King</name>
+    <text>Other green creatures you control get +1/+1.</text>
+    <flavorText>The stubborn Meng Huo was captured and released by Kongming seven times before finally surrendering.</flavorText>
+  </item>
+  <item>
+    <id>PTK0187</id>
+    <name>Meng Huo's Horde</name>
+    <text>
+    </text>
+    <flavorText>Through his allies, Meng Huo commanded several hundred thousand troops composed of cavalry, rattan-armored warriors, infantry, naked men with swords, and wild animals.</flavorText>
+  </item>
+  <item>
+    <id>PTK0188</id>
+    <name>Riding the Dilu Horse</name>
+    <text>Target creature gets +2/+2 and gains horsemanship. (It can't be blocked except by creatures with horsemanship. This effect lasts indefinitely.)</text>
+    <flavorText>"All men have their appointed time; that's something no horse can change."
+—Liu Bei, after being told that the
+Dilu brings its master ill fortune</flavorText>
+  </item>
+  <item>
+    <id>PTK0189</id>
+    <name>Slashing Tiger</name>
+    <text>Whenever Slashing Tiger becomes blocked, it gets +2/+2 until end of turn.</text>
+    <flavorText>"Unless you enter the tiger's lair, you cannot get hold of the tiger's cubs."
+—Sun Tzu, Art of War (trans. Giles)</flavorText>
+  </item>
+  <item>
+    <id>PTK0190</id>
+    <name>Southern Elephant</name>
+    <text>
+    </text>
+    <flavorText>While defending their southern borders, both the Wu and Shu kingdoms fought against the barbarians' trained elephants.</flavorText>
+  </item>
+  <item>
+    <id>PTK0191</id>
+    <name>Spoils of Victory</name>
+    <text>Search your library for a Plains, Island, Swamp, Mountain, or Forest card and put that card onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0192</id>
+    <name>Spring of Eternal Peace</name>
+    <text>You gain 8 life.</text>
+    <flavorText>Bathing in this spring could cure ailments of body and mind alike.</flavorText>
+  </item>
+  <item>
+    <id>PTK0193</id>
+    <name>Taoist Hermit</name>
+    <text>Taoist Hermit can't be the target of spells or abilities your opponents control.</text>
+    <flavorText>Taoists chose to be hermits for many reasons, but all shared one unchanging goal: to follow the Tao.</flavorText>
+  </item>
+  <item>
+    <id>PTK0194</id>
+    <name>Taoist Mystic</name>
+    <text>Taoist Mystic can't be blocked by creatures with horsemanship.</text>
+    <flavorText>By appearing in places miles apart at the same time, Zuo Ci exhibited the mystic's ability to "shrink the land."</flavorText>
+  </item>
+  <item>
+    <id>PTK0195</id>
+    <name>Taunting Challenge</name>
+    <text>All creatures able to block target creature this turn do so.</text>
+    <flavorText>Incensed by their opponents' unrelenting taunts, even wise generals were known to rashly lead their troops into battle—often to disastrous defeats.</flavorText>
+  </item>
+  <item>
+    <id>PTK0196</id>
+    <name>Three Visits</name>
+    <text>Search your library for a Forest card and put that card onto the battlefield. Then shuffle your library.</text>
+    <flavorText>"Trying to meet a worthy man in the wrong way is as bad as closing the door on an invited guest."
+—Mencius, a Chinese philosopher</flavorText>
+  </item>
+  <item>
+    <id>PTK0197</id>
+    <name>Trip Wire</name>
+    <text>Destroy target creature with horsemanship.</text>
+    <flavorText>Trip wire, hooked poles, and sunken pits were commonly used to unhorse riders during the Three Kingdoms period.</flavorText>
+  </item>
+  <item>
+    <id>PTK0198</id>
+    <name>Trained Cheetah</name>
+    <text>Whenever Trained Cheetah becomes blocked, it gets +1/+1 until end of turn.</text>
+    <flavorText>"King Mulu's cheetahs came riding on the winds, charging, with fangs bared and claws flexed."</flavorText>
+  </item>
+  <item>
+    <id>PTK0199</id>
+    <name>Trained Jackal</name>
+    <text>
+    </text>
+    <flavorText>To taunt a man into action, call him a coward. To insult him beyond forgiveness, call him a jackal.</flavorText>
+  </item>
+  <item>
+    <id>PTK0200</id>
+    <name>Wielding the Green Dragon</name>
+    <text>Target creature gets +4/+4 until end of turn.</text>
+    <flavorText>Named for the eastern part of the sky, the source of energy and renewal, Guan Yu's crescent-moon blade weighed over 100 pounds.</flavorText>
+  </item>
+  <item>
+    <id>PTK0201</id>
+    <name>Wolf Pack</name>
+    <text>You may have Wolf Pack assign its combat damage as though it weren't blocked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0202</id>
+    <name>Zodiac Horse</name>
+    <text>Islandwalk</text>
+    <flavorText>". . . ‘First take Jingzhou, next the Riverlands; / On that rich region, base your own royal stand.' . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0203</id>
+    <name>Zodiac Monkey</name>
+    <text>Forestwalk (This creature is unblockable as long as defending player controls a Forest.)</text>
+    <flavorText>". . . By six offensives from the hills of Qi
+Kongming sought to change Han's destiny. . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0204</id>
+    <name>Zodiac Ox</name>
+    <text>Swampwalk</text>
+    <flavorText>". . . Cao's abdication changed the face of all; / No mighty battles marked the Southland's fall. . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0205</id>
+    <name>Zodiac Rabbit</name>
+    <text>Forestwalk</text>
+    <flavorText>". . . The world's affairs rush on, an endless stream; / A sky-told fate, infinite in reach, dooms all. . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0206</id>
+    <name>Zodiac Rooster</name>
+    <text>Plainswalk</text>
+    <flavorText>". . . But the time of Han had run—could he Kongming not tell?— / That night his master star fell past the hills. . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0207</id>
+    <name>Zodiac Tiger</name>
+    <text>Forestwalk</text>
+    <flavorText>". . . Three kings no more—Chenliu, Guiming, Anle. / The fiefs and posts must now be filled anew. . . ."</flavorText>
+  </item>
+  <item>
+    <id>PTK0208</id>
+    <name>Zuo Ci, the Mocking Sage</name>
+    <text>Zuo Ci, the Mocking Sage can't be blocked by creatures with horsemanship.
+Zuo Ci can't be the target of spells or abilities your opponents control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

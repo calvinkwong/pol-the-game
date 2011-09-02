@@ -1,0 +1,2287 @@
+<cards name="Landa Tenebrosa">
+  <item>
+    <id>SHM0001</id>
+    <name>Iniziata Farmacista</name>
+    <text>Ogniqualvolta un giocatore lancia una magia bianca, puoi pagare {1}. Se lo fai, guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0002</id>
+    <name>Ascensione Corazzata</name>
+    <text>Incanta creatura
+La creatura incantata prende +1/+1 per ogni Pianura che controlli e ha volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0003</id>
+    <name>Coorte di Ballynock</name>
+    <text>Attacco improvviso; La Coorte di Ballynock prende +1/+1 fintanto che controlli un'altra creatura bianca.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0004</id>
+    <name>Medico di Barrenton</name>
+    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.
+Metti un segnalino -1/-1 sul Medico di Barrenton: STAPpa il Medico di Barrenton.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0005</id>
+    <name>Riflesso di Guarigione</name>
+    <text>Se stai per guadagnare punti vita, guadagni invece il doppio di quei punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0006</id>
+    <name>Falena Lucedorata</name>
+    <text>Volare
+Ogniqualvolta la Falena Lucedorata blocca, puoi guadagnare 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0007</id>
+    <name>Auramanzia Potenziata</name>
+    <text>Gli altri incantesimi che controlli hanno velo.
+Le creature incantate che controlli hanno velo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0008</id>
+    <name>Trappola dell'Inquisitore</name>
+    <text>Previeni tutto il danno che una creatura attaccante o bloccante bersaglio infliggerebbe in questo turno. Se quella creatura è nera o rossa, distruggila.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0009</id>
+    <name>Tumulto di Kithkin</name>
+    <text>Cautela
+La forza e la costituzione del Tumulto di Kithkin sono ciascuna pari al numero di permanenti bianchi che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0010</id>
+    <name>Scudo Ardito Kithkin</name>
+    <text>{W}, {T}: Una creatura bloccante bersaglio prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0011</id>
+    <name>Ultimo Respiro</name>
+    <text>Esilia una creatura bersaglio con forza pari o inferiore a 2. Il suo controllore guadagna 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0012</id>
+    <name>Calcificazione di Massa</name>
+    <text>Distruggi tutte le creature non bianche.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0013</id>
+    <name>Scavi in Miniera</name>
+    <text>Fai tornare una carta artefatto o incantesimo bersaglio in un cimitero in mano al suo proprietario.
+Cospirare (Mentre lanci questa magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia. Puoi scegliere un nuovo bersaglio per la copia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0014</id>
+    <name>Lavativo della Prateria Brumosa</name>
+    <text>Legame vitale, protezione da costo di mana convertito pari o superiore a 3</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0015</id>
+    <name>Fuochi Fatui Perlacei</name>
+    <text>Una creatura bersaglio diventa bianca fino alla fine del turno. TAPpa quella creatura.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0016</id>
+    <name>Ordine di Biancargilla</name>
+    <text>{1}{W}{W}, {STAP}: Rimetti sul campo di battaglia una carta creatura bersaglio con costo di mana convertito pari o inferiore a 3 dal tuo cimitero. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0017</id>
+    <name>Viandante Pallido</name>
+    <text>{2}{W}{W}, {STAP}: Una creatura bersaglio guadagna protezione da un colore a scelta del suo controllore fino alla fine del turno. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0018</id>
+    <name>Stato d'Arresto</name>
+    <text>Incanta creatura
+La creatura incantata non può attaccare o bloccare e le sue abilità attivate non possono essere attivate.
+Ogniqualvolta una creatura entra nel campo di battaglia sotto il controllo di un avversario, puoi assegnare lo Stato d'Arresto a quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0019</id>
+    <name>Mentore Risplendente</name>
+    <text>Le creature bianche che controlli hanno "{T}: Guadagni 1 punto vita."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0020</id>
+    <name>Cavaliere del Cervide</name>
+    <text>Volare
+{V|B}{V|B}: Il Cavaliere del Cervide prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0021</id>
+    <name>Aureola Runica</name>
+    <text>Mentre l'Aureola Runica entra nel campo di battaglia, nomina una carta.
+Hai protezione dal nome scelto. (Non puoi essere bersagliato, non ti può essere inflitto danno, né puoi essere incantato da qualcosa con il nome scelto.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0022</id>
+    <name>Sentinella del Fortincanto</name>
+    <text>{2}{W}, {STAP}: La Sentinella del Fortincanto prende +0/+2 fino alla fine del turno. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0023</id>
+    <name>Processione Spettrale</name>
+    <text>({2|B} può essere pagato con due mana qualsiasi o con {W}. Il costo di mana convertito di questa carta è 6.)
+Metti sul campo di battaglia tre pedine creatura Spirito 1/1 bianche con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0024</id>
+    <name>Spogliare</name>
+    <text>Distruggi tutte le Aure e gli Equipaggiamenti assegnati a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0025</id>
+    <name>Pastorella del Crepuscolo</name>
+    <text>Volare, cautela
+Quando la Pastorella del Crepuscolo entra nel campo di battaglia, riprendi in mano tutte le carte che sono state messe nel tuo cimitero dal campo di battaglia in questo turno.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0026</id>
+    <name>Rapace di Vento Pungente</name>
+    <text>Volare
+Le creature attaccanti che controlli hanno legame vitale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0027</id>
+    <name>Divoratore di Disgrazie</name>
+    <text>{W}, {T}: Rimuovi un segnalino -1/-1 da una creatura bersaglio. Se lo fai, guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0028</id>
+    <name>Consiglio degli Spiritelli</name>
+    <text>({2|L} può essere pagato con due mana qualsiasi o con {U}. Il costo di mana convertito di questa carta è 6.)
+Guarda le prime cinque carte del tuo grimorio. Se controlli più creature di qualsiasi altro giocatore, aggiungi alla tua mano due di quelle carte. Altrimenti, aggiungi alla tua mano una di quelle carte. Poi metti le altre in fondo al tuo grimorio in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0029</id>
+    <name>Catena Sferzante</name>
+    <text>Incanta creatura
+Controlli la creatura incantata.
+All'inizio del tuo mantenimento, metti un segnalino -1/-1 sulla creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0030</id>
+    <name>Coorte di Bacca d'Erica</name>
+    <text>Volare
+La Coorte di Bacca d'Erica prende +1/+1 fintanto che controlli un'altra creatura blu.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0031</id>
+    <name>Fuochi Fatui Cerulei</name>
+    <text>Una creatura bersaglio diventa blu fino alla fine del turno. STAPpa quella creatura.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0032</id>
+    <name>Consegnare in Sogno</name>
+    <text>Il proprietario riprende in mano un permanente bersaglio. Se quel permanente è rosso o verde, mettilo invece in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0033</id>
+    <name>Foro Neutralizzatore</name>
+    <text>Neutralizza una magia bersaglio. Passa in rassegna il cimitero, la mano e il grimorio del suo controllore per tutte le carte con lo stesso nome di quella magia ed esiliale. Poi quel giocatore rimescola il suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0034</id>
+    <name>Catturamagie</name>
+    <text>Sacrifica il Catturamagie: Neutralizza una magia istantaneo o stregoneria bersaglio a meno che il suo controllore paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0035</id>
+    <name>Mentore dei Canali Profondi</name>
+    <text>Le creature blu che controlli non possono essere bloccate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0036</id>
+    <name>Iniziato Affogatore</name>
+    <text>Ogniqualvolta un giocatore lancia una magia blu, puoi pagare {1}. Se lo fai, un giocatore bersaglio mette nel suo cimitero le prime due carte del suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0037</id>
+    <name>Sciame di Spiritelle</name>
+    <text>Volare
+La forza e la costituzione dello Sciame di Spiritelle sono ciascuna pari al numero di permanenti blu che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0038</id>
+    <name>Flusso di Idee</name>
+    <text>Pesca una carta per ogni Isola che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0039</id>
+    <name>Scoperta Agghiacciante</name>
+    <text>Pesca due carte, poi scarta una carta.
+Cospirare (Mentre lanci questa magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0040</id>
+    <name>Progenie del Bacino delle Conchiglie</name>
+    <text>Velo
+La Progenie del Bacino delle Conchiglie prende +4/+8 fintanto che ci sono venti o meno carte in un grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0041</id>
+    <name>Fiociniere di Kinscaer</name>
+    <text>Volare
+Ogniqualvolta il Fiociniere di Kinscaer attacca, puoi fare perdere volare a una creatura bersaglio fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0042</id>
+    <name>Cricca Seghetta</name>
+    <text>Volare
+{1}{U}, {STAP}: Un avversario bersaglio esilia la prima carta del suo grimorio. Fino alla fine del turno, puoi giocare quella carta. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0043</id>
+    <name>Dispensatore di Sanguisughe</name>
+    <text>Il Dispensatore di Sanguisughe entra nel campo di battaglia con due segnalini -1/-1.
+{U}, {STAP}: Sposta un segnalino da una creatura bersaglio a un'altra creatura bersaglio. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0044</id>
+    <name>Spezzaonde Merrow</name>
+    <text>{1}{U}, {STAP}: Gli Spezzaonde Merrow guadagnano volare fino alla fine del turno. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0045</id>
+    <name>Sentinelle del Parapetto</name>
+    <text>{B|L}: Le Sentinelle del Parapetto prendono +0/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0046</id>
+    <name>Merrow dalla Scia Prismatica</name>
+    <text>Lampo
+Quando il Merrow dalla Scia Prismatica entra nel campo di battaglia, un permanente bersaglio diventa di uno o più colori a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0047</id>
+    <name>Inganno del Puca</name>
+    <text>All'inizio del tuo mantenimento, puoi scambiare il controllo di un permanente non terra bersaglio che controlli e un permanente non terra bersaglio controllato da un avversario con un costo di mana convertito pari o inferiore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0048</id>
+    <name>Mettere Via</name>
+    <text>Neutralizza una magia bersaglio. Puoi rimescolare nel tuo grimorio fino a una carta bersaglio nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0049</id>
+    <name>Kelpie Fluviale</name>
+    <text>Ogniqualvolta il Kelpie Fluviale o un altro permanente viene messo sul campo di battaglia da un cimitero, pesca una carta.
+Ogniqualvolta una magia viene lanciata da un cimitero, pesca una carta.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0050</id>
+    <name>Assaporare il Momento</name>
+    <text>Gioca un altro turno dopo questo. Salta lo STAP di quel turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0051</id>
+    <name>Sensazione di Sprofondare</name>
+    <text>Incanta creatura
+La creatura incantata non STAPpa durante lo STAP del suo controllore.
+La creatura incantata ha "{1}, Metti un segnalino -1/-1 su questa creatura: STAPpa questa creatura."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0052</id>
+    <name>Sifone di Magie</name>
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {1} per ogni permanente blu che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0053</id>
+    <name>Riflesso di Pensiero</name>
+    <text>Se stai per pescare una carta, pesca invece due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0054</id>
+    <name>Scrutapensieri</name>
+    <text>Lo Scrutapensieri non può attaccare a meno che il giocatore in difesa controlli un permanente blu.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0055</id>
+    <name>Fuochi Fatui Oscuri</name>
+    <text>Una creatura bersaglio diventa nera e ha paura fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0056</id>
+    <name>Coorte della Brughiera Grigia</name>
+    <text>La Coorte della Brughiera Grigia prende +1/+1 fintanto che controlli un'altra creatura nera.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0057</id>
+    <name>Supplicare la Regina</name>
+    <text>({2|N} può essere pagato con due mana qualsiasi o con {B}. Il costo di mana convertito di questa carta è 6.)
+Passa in rassegna il tuo grimorio per una carta con costo di mana convertito pari o inferiore al numero di terre che controlli, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0058</id>
+    <name>Infestazione di Mosche Cadaveriche</name>
+    <text>Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, se aveva un segnalino -1/-1, metti un segnalino -1/-1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0059</id>
+    <name>Scheletro Cinereo</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+{1}{B}: Rigenera lo Scheletro Cinereo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0060</id>
+    <name>Corruttore Incendiario</name>
+    <text>{T}: Un giocatore bersaglio scarta una carta. Attiva questa abilità solo durante il tuo turno.
+Metti un segnalino -1/-1 sul Corruttore Incendiario: STAPpa il Corruttore Incendiario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0061</id>
+    <name>Mentore Corrosivo</name>
+    <text>Le creature nere che controlli hanno avvizzire. (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0062</id>
+    <name>Corrompere</name>
+    <text>Corrompere infligge danno pari al numero di Paludi che controlli a una creatura o a un giocatore bersaglio. Guadagni punti vita pari ai danni inflitti in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0063</id>
+    <name>Folla di Cinerei</name>
+    <text>Paura
+La forza e la costituzione della Folla di Cinerei sono pari al numero di permanenti neri che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0064</id>
+    <name>Complotto Inquietante</name>
+    <text>Fai tornare una carta creatura bersaglio in un cimitero in mano al suo proprietario.
+Cospirare (Mentre lanci questa magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia. Puoi scegliere un nuovo bersaglio per la copia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0065</id>
+    <name>Teppisti del Crepuscolo</name>
+    <text>Ogniqualvolta i Teppisti del Crepuscolo attaccano o bloccano, metti un segnalino -1/-1 su di essi.
+Quando i Teppisti del Crepuscolo vengono messi in un cimitero dal campo di battaglia, pesca una carta per ogni segnalino -1/-1 su di essi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0066</id>
+    <name>Spiritella Macabra</name>
+    <text>Volare
+Scarta la Spiritella Macabra: Esilia fino a due carte bersaglio dai cimiteri.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0067</id>
+    <name>Lancia di Tenebra</name>
+    <text>Distruggi una creatura bersaglio. Se quella creatura era verde o bianca, il suo controllore scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0068</id>
+    <name>Barghest del Dente Ululato</name>
+    <text>All'inizio del tuo mantenimento, se non hai carte in mano, ogni avversario perde 2 punti vita.
+All'inizio del mantenimento di ogni avversario, se quel giocatore non ha carte in mano, perde 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0069</id>
+    <name>Saggio Incupito</name>
+    <text>Ogniqualvolta il Saggio Incupito viene STAPpato, puoi fare scartare una carta a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0070</id>
+    <name>Incremento di Avvizzimento</name>
+    <text>Metti un segnalino -1/-1 su una creatura bersaglio, due segnalini -1/-1 su un'altra creatura bersaglio e tre segnalini -1/-1 su una terza creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0071</id>
+    <name>Korrigan Lacustre</name>
+    <text>{L|N}: La Korrigan Lacustre prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0072</id>
+    <name>Banshee di Mezzanotte</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+All'inizio del tuo mantenimento, metti un segnalino -1/-1 su ogni creatura non nera.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0073</id>
+    <name>Piaga di Ratti</name>
+    <text>A partire da te, ogni giocatore può pagare un qualsiasi ammontare di punti vita. Ripeti questo procedimento fino a che nessuno paga punti vita. Ogni giocatore mette sul campo di battaglia una pedina creatura Ratto 1/1 nera per ogni punto vita pagato in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0074</id>
+    <name>Legami Inquinati</name>
+    <text>Ogniqualvolta una terra entra nel campo di battaglia sotto il controllo di un avversario, quel giocatore perde 2 punti vita e tu guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0075</id>
+    <name>Cricca di Burattinai</name>
+    <text>Volare
+Quando la Cricca di Burattinai entra nel campo di battaglia, metti sul campo di battaglia sotto il tuo controllo una carta creatura bersaglio dal cimitero di un avversario. Ha rapidità. All'inizio della tua prossima sottofase finale, esiliala.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0076</id>
+    <name>Rito di Consumo</name>
+    <text>Come costo addizionale per lanciare il Rito di Consumo, sacrifica una creatura.
+Il Rito di Consumo infligge danno pari alla forza della creatura sacrificata a un giocatore bersaglio. Guadagni punti vita pari ai danni inflitti in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0077</id>
+    <name>Falcetto Lacerante</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0078</id>
+    <name>Iniziato Ardente</name>
+    <text>Ogniqualvolta un giocatore lancia una magia nera, puoi pagare {1}. Se lo fai, un giocatore bersaglio perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0079</id>
+    <name>Mal di Testa che Spacca</name>
+    <text>Scegli uno - Un giocatore bersaglio scarta due carte; oppure un giocatore bersaglio rivela la sua mano, tu scegli una carta da essa, poi quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0080</id>
+    <name>Tortura</name>
+    <text>Incanta creatura
+{1}{B}: Metti un segnalino -1/-1 sulla creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0081</id>
+    <name>Riflesso di Ferita</name>
+    <text>All'inizio della sottofase finale, ogni avversario perde punti vita pari ai punti vita che ha perso in questo turno. (Il danno causa la perdita di punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0082</id>
+    <name>Dieflyn Ribollente</name>
+    <text>Volare
+{N|R}: Il Dieflyn Ribollente prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0083</id>
+    <name>Mentore dal Marchio di Sangue</name>
+    <text>Le creature rosse che controlli hanno attacco improvviso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0084</id>
+    <name>Febbre Massacrante</name>
+    <text>Incanta creatura
+La creatura incantata attacca ogni turno, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0085</id>
+    <name>Piromani Boggart</name>
+    <text>Passa-pianure
+{2}{R}, Sacrifica i Piromani Boggart: Distruggi uno Spaventapasseri o una Pianura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0086</id>
+    <name>Scia Infuocata</name>
+    <text>La Scia Infuocata infligge 3 danni a una creatura o a un giocatore bersaglio.
+Cospirare (Mentre lanci questa magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia. Puoi scegliere un nuovo bersaglio per la copia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0087</id>
+    <name>Crematore di Cragganwick</name>
+    <text>Quando il Crematore di Cragganwick entra nel campo di battaglia, scarta una carta a caso. Se scarti una carta creatura in questo modo, il Crematore di Cragganwick infligge danno pari alla forza di quella carta a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0088</id>
+    <name>Fuochi Fatui Cremisi</name>
+    <text>Una creatura bersaglio diventa rossa e guadagna rapidità fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0089</id>
+    <name>Titano dal Sonno Pesante</name>
+    <text>Il Titano dal Sonno Pesante entra nel campo di battaglia TAPpato.
+Il Titano dal Sonno Pesante non STAPpa durante il tuo STAP.
+Ogniqualvolta viene inflitto danno al Titano dal Sonno Pesante, STAPpalo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0090</id>
+    <name>Supremazia Elementale</name>
+    <text>Incanta creatura
+La creatura incantata ha "{T}: Metti sul campo di battaglia X pedine creatura Elementale 1/1 rosse con rapidità, dove X è la forza di questa creatura. Esiliale all'inizio della prossima sottofase finale."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0091</id>
+    <name>Tempesta di Braci</name>
+    <text>Le creature controllate da un giocatore bersaglio non possono bloccare in questo turno. La Tempesta di Braci infligge 1 danno a ogni creatura bianca e/o blu controllata da quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0092</id>
+    <name>Giavellotto Infuocato</name>
+    <text>({2|R} può essere pagato con due mana qualsiasi o con {R}. Il costo di mana convertito di questa carta è 6.)
+Il Giavellotto Infuocato infligge 4 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0093</id>
+    <name>Gigante Attizzafuria</name>
+    <text>Quando il Gigante Attizzafuria entra nel campo di battaglia, le altre creature che controlli hanno "{T}: Questa creatura infligge 2 danni a una creatura o a un giocatore bersaglio" fino alla fine del turno.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila nel campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0094</id>
+    <name>Orda di Boggart</name>
+    <text>La forza e la costituzione dell'Orda di Boggart sono ciascuna pari al numero di permanenti rossi che controlli.
+L'Orda di Boggart non può essere bloccata tranne che da due o più creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0095</id>
+    <name>Bruto Inevitabile</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Il Bruto Inevitabile deve essere bloccato, se può esserlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0096</id>
+    <name>Iniziato Intimidatore</name>
+    <text>Ogniqualvolta un giocatore lancia una magia rossa, puoi pagare {1}. Se lo fai, una creatura bersaglio non può bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0097</id>
+    <name>Mascelle di Pietra</name>
+    <text>Le Mascelle di Pietra infliggono X danni divisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio, dove X è il numero di Montagne che controlli mentre lanci le Mascelle di Pietra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0098</id>
+    <name>Drago di Spina Rocciosa</name>
+    <text>Volare
+Quando il Drago di Spina Rocciosa entra nel campo di battaglia, puoi scartare la tua mano e pescare un numero di carte pari al danno inflitto in questo turno a un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0099</id>
+    <name>Invocazione di Spina Rocciosa</name>
+    <text>{X}, Scarta una carta con costo di mana convertito pari a X: L'Invocazione di Spina Rocciosa infligge X danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0100</id>
+    <name>Coorte di Rissaiolo Fangoso</name>
+    <text>Rapidità
+La Coorte di Rissaiolo Fangoso prende +1/+1 fintanto che controlli un'altra creatura rossa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0101</id>
+    <name>Potere del Fuoco</name>
+    <text>Incanta creatura
+La creatura incantata ha "{T}: Questa creatura infligge 1 danno a una creatura o a un giocatore bersaglio."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0102</id>
+    <name>Fulmine Perforante</name>
+    <text>Il Fulmine Perforante infligge 1 danno a una creatura bersaglio. Metti un segnalino -1/-1 su quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0103</id>
+    <name>Incendiapire</name>
+    <text>Rapidità
+{R}: L'Incendiapire prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0104</id>
+    <name>Riflesso d'Ira</name>
+    <text>Le creature che controlli hanno doppio attacco.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0105</id>
+    <name>Macellaio dalla Lama Rugginosa</name>
+    <text>Attacco improvviso
+Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0106</id>
+    <name>Gigante Furtivo</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Ogniqualvolta il Gigante Furtivo blocca o viene bloccato, prende -3/-0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0107</id>
+    <name>Sbriciolare</name>
+    <text>Distruggi un artefatto bersaglio. Sbriciolare infligge 3 danni al controllore di quell'artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0108</id>
+    <name>Colpo Selvaggio</name>
+    <text>Scegli tre permanenti non incantesimo bersaglio. Distruggi uno di essi a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0109</id>
+    <name>Coorte del Melo Selvatico</name>
+    <text>La Coorte del Melo Selvatico prende +1/+1 fintanto che controlli un'altra creatura verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0110</id>
+    <name>Druido Devoto</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.
+Metti un segnalino -1/-1 sul Druido Devoto: STAPpa il Druido Devoto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0111</id>
+    <name>Entrata Drammatica</name>
+    <text>Puoi mettere una carta creatura verde dalla tua mano sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0112</id>
+    <name>Folla di Elfi</name>
+    <text>La forza e la costituzione della Folla di Elfi sono ciascuna pari al numero di permanenti verdi che controlli.
+La Folla di Elfi non può essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0113</id>
+    <name>Elfa del Rifugio Lontano</name>
+    <text>Quando l'Elfa del Rifugio Lontano entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta terra base e metterla nel campo di battaglia TAPpata. Se lo fai, rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0114</id>
+    <name>Difese in Allerta</name>
+    <text>Ogniqualvolta viene messo un segnalino -1/-1 su una creatura, puoi mettere sul campo di battaglia una pedina creatura Guerriero Elfo 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0115</id>
+    <name>Quercia Infiammata</name>
+    <text>{R|V}{R|V}{R|V}: La Quercia Infiammata prende +3/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0116</id>
+    <name>Sabotaggio Divertente</name>
+    <text>Distruggi un artefatto o un incantesimo bersaglio.
+Cospirare (Mentre lanci questa magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia. Puoi scegliere un nuovo bersaglio per la copia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0117</id>
+    <name>Vedova di Tenebra</name>
+    <text>Raggiungere
+La Vedova di Tenebra non può bloccare le creature senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0118</id>
+    <name>Banchetto della Vedova di Tenebra</name>
+    <text>Distruggi una creatura bersaglio con volare. Se quella creatura era blu o nera, metti sul campo di battaglia una pedina creatura Ragno 1/2 verde con raggiungere. (Può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0119</id>
+    <name>Ululato del Branco Notturno</name>
+    <text>Metti sul campo di battaglia una pedina creatura Lupo 2/2 verde per ogni Foresta che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0120</id>
+    <name>Spriggan Affamato</name>
+    <text>Travolgere
+Ogniqualvolta lo Spriggan Affamato attacca, prende +3/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0121</id>
+    <name>Cucciolo di Vedova di Tenebra</name>
+    <text>Raggiungere (Può bloccare le creature con volare.)
+Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0122</id>
+    <name>Riflesso di Mana</name>
+    <text>Se TAPpi un permanente per attingere mana, esso produce invece il doppio di quel mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0123</id>
+    <name>Troll del Ponte Muscoso</name>
+    <text>Se il Troll del Ponte Muscoso sta per essere distrutto, rigeneralo.
+TAPpa un qualsiasi numero di creature STAPpate che controlli diverse dal Troll del Ponte Muscoso con forza totale pari o superiore a 10: Il Troll del Ponte Muscoso prende +20/+20 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0124</id>
+    <name>Iniziata Conservatrice</name>
+    <text>Ogniqualvolta un giocatore lancia una magia verde, puoi pagare {1}. Se lo fai, una creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0125</id>
+    <name>Presenza di Gond</name>
+    <text>Incanta creatura
+La creatura incantata ha "{T}: Metti sul campo di battaglia una pedina creatura Guerriero Elfo 1/1 verde."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0126</id>
+    <name>Presagio Prismatico</name>
+    <text>Le terre che controlli hanno tutti i tipi di terra base in aggiunta ai loro altri tipi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0127</id>
+    <name>Fronde Artigliate</name>
+    <text>Ogniqualvolta una creatura con volare ti attacca, le Fronde Artigliate le infliggono 4 danni.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0128</id>
+    <name>Mentore Dispotico</name>
+    <text>Le creature verdi che controlli hanno travolgere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0129</id>
+    <name>Serpifero</name>
+    <text>Travolgere
+Ogniqualvolta il Serpifero infligge danno da combattimento a un giocatore, metti sul campo di battaglia una pedina che è la copia del Serpifero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0130</id>
+    <name>Sudare per la Fama</name>
+    <text>Guadagni 1 punto vita per ogni artefatto, creatura e terra TAPpati che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0131</id>
+    <name>Torreggiare</name>
+    <text>({2|V} può essere pagato con due mana qualsiasi o con {G}. Il costo di mana convertito di questa carta è 6.)
+Fino alla fine del turno, una creatura bersaglio prende +4/+4 e guadagna travolgere, avvizzire e "Quando questa creatura attacca, una creatura bersaglio la blocca in questo turno se può farlo." (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0132</id>
+    <name>Fuochi Fatui Verdastri</name>
+    <text>Una creatura bersaglio diventa verde e prende +1/+0 fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0133</id>
+    <name>Assassini Selvaggi Elfici</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0134</id>
+    <name>Wurm dalle Scaglie Avvizzenti</name>
+    <text>Ogniqualvolta il Wurm dalle Scaglie Avvizzenti blocca o viene bloccato da una creatura, quella creatura guadagna avvizzire fino alla fine del turno. (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Ogniqualvolta il Wurm dalle Scaglie Avvizzenti infligge danno a un avversario, rimuovi da esso tutti i segnalini -1/-1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0135</id>
+    <name>Primus della Foresta Caduta</name>
+    <text>Travolgere
+Quando il Primus della Foresta Caduta entra nel campo di battaglia, distruggi un permanente non creatura bersaglio.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0136</id>
+    <name>Risacca d'Etere</name>
+    <text>Metti una creatura attaccante o bloccante bersaglio in cima al grimorio del suo proprietario.
+Cospirare (Mentre lanci questa magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia. Puoi scegliere un nuovo bersaglio per la copia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0137</id>
+    <name>Adepta Augure</name>
+    <text>Ogniqualvolta l'Adepta Augure infligge danno da combattimento a un giocatore, rivela la prima carta del tuo grimorio e aggiungila alla tua mano. Guadagni punti vita pari al costo di mana convertito di quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0138</id>
+    <name>Rocciatori di Barrenton</name>
+    <text>I Rocciatori di Barrenton non possono essere bloccati dalle creature rosse.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0139</id>
+    <name>Maledizione delle Catene</name>
+    <text>Incanta creatura
+All'inizio di ogni mantenimento, TAPpa la creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0140</id>
+    <name>Sera Incantata</name>
+    <text>Tutti i permanenti sono incantesimi in aggiunta ai loro altri tipi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0141</id>
+    <name>Tessitori di Insidie</name>
+    <text>Lampo
+Volare
+Quando i Tessitori di Insidie entrano nel campo di battaglia, assegna tutte le Aure che incantano un permanente bersaglio a un altro permanente controllato dallo stesso giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0142</id>
+    <name>Divinità delle Meraviglie</name>
+    <text>Volare
+Le altre creature sono 1/1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0143</id>
+    <name>Trama a Specchio</name>
+    <text>Ogni altra creatura diventa una copia di una creatura non leggendaria bersaglio fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0144</id>
+    <name>Strega della Prateria Brumosa</name>
+    <text>{2}{W}{U}: Esilia una creatura bersaglio. Rimetti sul campo di battaglia quella carta sotto il controllo del suo proprietario all'inizio della sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0145</id>
+    <name>Piumavelata</name>
+    <text>Lampo
+Volare, difensore</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0146</id>
+    <name>Sguardopuro Merrow</name>
+    <text>{B|L}, {STAP}: Guarda la prima carta del tuo grimorio. Puoi esiliare quella carta. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0147</id>
+    <name>Respingere gli Intrusi</name>
+    <text>Metti sul campo di battaglia due pedine creatura Soldato Kithkin 1/1 bianche se è stato speso {W} per lanciare Respingere gli Intrusi. Neutralizza fino a una magia creatura bersaglio se è stato speso {U} per lanciare Respingere gli Intrusi. (Compi entrambe le azioni se è stato speso {W}{U}.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0148</id>
+    <name>Spiritella Filo di Seta</name>
+    <text>Volare
+{1}{B|L}, {STAP}: TAPpa una creatura bersaglio. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0149</id>
+    <name>Sonnomante</name>
+    <text>Quando la Sonnomante entra nel campo di battaglia, puoi TAPpare una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0150</id>
+    <name>Acciaio della Divinità</name>
+    <text>Incanta creatura
+Fintanto che la creatura incantata è bianca, prende +1/+1 e ha legame vitale.
+Fintanto che la creatura incantata è blu, prende +1/+1 e non può essere bloccata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0151</id>
+    <name>Cigni di Bryn Argoll</name>
+    <text>Volare
+Se una fonte sta per infliggere danno ai Cigni di Bryn Argoll, previeni quel danno. Il controllore di quella fonte pesca un numero di carte pari al danno prevenuto in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0152</id>
+    <name>Duo di Cardo Appassito</name>
+    <text>Ogniqualvolta lanci una magia bianca, il Duo di Cardo Appassito prende +1/+1 fino alla fine del turno.
+Ogniqualvolta lanci una magia blu, il Duo di Cardo Appassito ha volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0153</id>
+    <name>Vassallo di Cardo Appassito</name>
+    <text>Lampo
+Le altre creature bianche che controlli prendono +1/+1.
+Le altre creature blu che controlli prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0154</id>
+    <name>Avvio della Trama dei Pensieri</name>
+    <text>TAPpa tutte le creature controllate dai tuoi avversari e STAPpa tutte le creature che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0155</id>
+    <name>Tramutare in Nebbia</name>
+    <text>Esilia una creatura bersaglio. Rimetti sul campo di battaglia quella carta sotto il controllo del suo proprietario all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0156</id>
+    <name>Purificazione dei Mondi</name>
+    <text>I proprietari riprendono in mano tutti i loro permanenti. Ogni giocatore sceglie fino a sette carte nella propria mano, poi rimescola le altre nel proprio grimorio. Vuota tutte le riserve di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0157</id>
+    <name>Guardiano Zelante</name>
+    <text>Lampo</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0158</id>
+    <name>Puca del Cimitero</name>
+    <text>Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, puoi pagare {1}. Se lo fai, il Puca del Cimitero diventa una copia di quella creatura e ha questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0159</id>
+    <name>Correnti Selvagge</name>
+    <text>Ogniqualvolta una creatura blu entra nel campo di battaglia sotto il tuo controllo, puoi far pescare una carta a un giocatore bersaglio.
+Ogniqualvolta una creatura nera entra nel campo di battaglia sotto il tuo controllo, puoi far scartare una carta a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0160</id>
+    <name>Riciclo di Sogni</name>
+    <text>Pesca un numero di carte pari a quelle scartate da un avversario bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0161</id>
+    <name>Trasferimento del Fato</name>
+    <text>Sposta tutti i segnalini da una creatura bersaglio a un'altra creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0162</id>
+    <name>Tetro Signore dell'Evasione</name>
+    <text>Il Tetro Signore dell'Evasione non può essere bloccato.
+Ogniqualvolta il Tetro Signore dell'Evasione infligge danno da combattimento a un giocatore, quel giocatore rivela la sua mano. Tu scegli una carta da essa. Quel giocatore esilia quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0163</id>
+    <name>Vassallo di Gola Elendra</name>
+    <text>Volare
+Le altre creature blu che controlli prendono +1/+1.
+Le altre creature nere che controlli prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0164</id>
+    <name>Asciasqualo della Branchiaghiaiosa</name>
+    <text>Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila nel campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0165</id>
+    <name>Duo della Branchiaghiaiosa</name>
+    <text>Ogniqualvolta lanci una magia blu, il Duo della Branchiaghiaiosa prende +1/+1 fino alla fine del turno.
+Ogniqualvolta lanci una magia nera, il Duo della Branchiaghiaiosa ha paura fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0166</id>
+    <name>Elmo del Tetro Signore</name>
+    <text>Incanta creatura
+Fintanto che la creatura incantata è blu, prende +1/+1 e ha "Ogniqualvolta questa creatura infligge danno a un avversario, pesca una carta."
+Fintanto che la creatura incantata è nera, prende +1/+1 e ha "Ogniqualvolta questa creatura infligge danno a un avversario, quel giocatore scarta una carta."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0167</id>
+    <name>Infiltrata di Batinchiostro</name>
+    <text>L'Infiltrata di Batinchiostro non può bloccare e non può essere bloccata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0168</id>
+    <name>Stregone di Batinchiostro</name>
+    <text>Paura
+{2}{U}{B}: Ogni creatura non bloccata diventa 4/1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0169</id>
+    <name>Furto di Memoria</name>
+    <text>Puoi lanciare una carta istantaneo o stregoneria bersaglio dal cimitero di un avversario senza pagare il suo costo di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0170</id>
+    <name>Lavare Memoria</name>
+    <text>Un giocatore bersaglio mette nel suo cimitero le prime quattro carte del suo grimorio.
+Cospirare (Mentre lanci questa magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia. Puoi scegliere un nuovo bersaglio per la copia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0171</id>
+    <name>Spruzzamelma Merrow</name>
+    <text>{1}{L|N}, {STAP}: Una creatura bersaglio prende -2/-0 fino alla fine del turno. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0172</id>
+    <name>Oona, Regina degli Spiritelli</name>
+    <text>Volare
+{X}{L|N}: Scegli un colore. Un avversario bersaglio esilia le prime X carte del suo grimorio. Per ogni carta del colore scelto esiliata in questo modo, metti sul campo di battaglia una pedina creatura Farabutto Spiritello 1/1 blu e nera con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0173</id>
+    <name>Guardia del Cancello di Oona</name>
+    <text>Volare, difensore
+Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0174</id>
+    <name>Stretta del Fiume</name>
+    <text>Se è stato speso {U} per lanciare la Stretta del Fiume, fai tornare fino a una creatura bersaglio in mano al suo proprietario. Se è stato speso {B} per lanciare la Stretta del Fiume, un giocatore bersaglio rivela la sua mano, tu scegli una carta non terra da essa, poi quel giocatore scarta quella carta. (Compi entrambe le azioni se è stato speso {U}{B}.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0175</id>
+    <name>Rituale di Cicatrizzazione delle Scaglie</name>
+    <text>Come costo addizionale per lanciare il Rituale di Cicatrizzazione delle Scaglie, metti un segnalino -1/-1 su una creatura che controlli.
+Pesca due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0176</id>
+    <name>Sygg, Tagliagole Fluviale</name>
+    <text>All'inizio della sottofase finale, se un avversario ha perso 3 o più punti vita in questo turno, puoi pescare una carta. (Il danno causa la perdita di punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0177</id>
+    <name>Polvere Intorpidente</name>
+    <text>Lampo
+Incanta creatura
+La creatura incantata prende -3/-0.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0178</id>
+    <name>Tagliaradici di Brina Errante</name>
+    <text>I Tagliaradici di Brina Errante non possono essere bloccati dalle creature verdi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0179</id>
+    <name>Lanciere Punta di Vespa</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0180</id>
+    <name>Perforatore della Brughiera Grigia</name>
+    <text>Il Perforatore della Brughiera Grigia non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0181</id>
+    <name>Vassallo della Brughiera Grigia</name>
+    <text>Le altre creature nere che controlli prendono +1/+1.
+Le altre creature rosse che controlli prendono +1/+1.
+Ogniqualvolta il Vassallo della Brughiera Grigia diventa bersaglio di una magia o abilità controllata da un avversario, quel giocatore perde 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0182</id>
+    <name>Marchiatore Cinereo</name>
+    <text>Quando il Marchiatore Cinereo entra nel campo di battaglia, metti un segnalino -1/-1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0183</id>
+    <name>Semidio della Vendetta</name>
+    <text>Volare, rapidità
+Quando lanci il Semidio della Vendetta, rimetti sul campo di battaglia tutte le carte con nome Semidio della Vendetta dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0184</id>
+    <name>Frastuono del Branco Infuocato</name>
+    <text>Metti sul campo di battaglia una pedina creatura Elementale 5/5 rossa e nera. Un avversario bersaglio sacrifica una creatura per ogni creatura nera che controlli, poi sacrifica una terra per ogni creatura rossa che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0185</id>
+    <name>Duo Colpodibrace</name>
+    <text>Ogniqualvolta lanci una magia nera, il Duo Colpodibrace prende +1/+1 fino alla fine del turno.
+Ogniqualvolta lanci una magia rossa, il Duo Colpodibrace ha attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0186</id>
+    <name>Tormento Eterno</name>
+    <text>I giocatori non possono guadagnare punti vita.
+Il danno non può essere prevenuto.
+Tutto il danno viene inflitto come se la sua fonte avesse avvizzire. (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0187</id>
+    <name>Pugni del Semidio</name>
+    <text>Incanta creatura
+Fintanto che la creatura incantata è nera, prende +1/+1 e ha avvizzire. (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Fintanto che la creatura incantata è rossa, prende +1/+1 e ha attacco improvviso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0188</id>
+    <name>Mago Fulminatore</name>
+    <text>Sacrifica il Mago Fulminatore: Distruggi una terra non base bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0189</id>
+    <name>Tiranno del Dolore</name>
+    <text>Il Tiranno del Dolore entra nel campo di battaglia con quattro segnalini -1/-1.
+Quando il Tiranno del Dolore viene messo in un cimitero dal campo di battaglia, metti un segnalino -1/-1 su una creatura bersaglio per ogni segnalino -1/-1 che aveva il Tiranno del Dolore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0190</id>
+    <name>Cavaliere di Kulrath</name>
+    <text>Volare
+Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Le creature con segnalini controllate dai tuoi avversari non possono attaccare né bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0191</id>
+    <name>Forgiamana Cinerea</name>
+    <text>{1}: Aggiungi {B} o {R} alla tua riserva di mana. Attiva questa abilità non più di tre volte per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0192</id>
+    <name>Omicida dal Berretto Rosso</name>
+    <text>Quando l'Omicida dal Berretto Rosso entra nel campo di battaglia, infligge danno pari alla propria forza a una creatura o a un giocatore bersaglio.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0193</id>
+    <name>Avvelenare il Pozzo</name>
+    <text>Distruggi una terra bersaglio. Avvelenare il Pozzo infligge 2 danni al controllore di quella terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0194</id>
+    <name>Cicatrice</name>
+    <text>Metti un segnalino -1/-1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0195</id>
+    <name>Attizzafuliggine</name>
+    <text>Rapidità
+{T}: Una creatura rossa o nera bersaglio ha rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0196</id>
+    <name>Erranti della Fuliggine</name>
+    <text>Gli Erranti della Fuliggine non possono essere bloccati dalle creature bianche.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0197</id>
+    <name>Strega della Fiamma Dispettosa</name>
+    <text>{B}{R}: Ogni giocatore perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0198</id>
+    <name>Visioni Astiose</name>
+    <text>All'inizio dell'acquisizione di ogni giocatore, quel giocatore pesca una carta addzionale.
+Ogniqualvolta un giocatore pesca una carta, le Visioni Astiose infliggono 1 danno a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0199</id>
+    <name>Torrente delle Anime</name>
+    <text>Rimetti sul campo di battaglia fino a una carta creatura bersaglio dal tuo cimitero se è stato speso {B} per giocare il Torrente delle Anime. Le creature controllate da un giocatore bersaglio prendono +2/+0 e hanno rapidità fino alla fine del turno, se è stato speso {R} per giocare il Torrente delle Anime. (Compi entrambe le azioni se è stato speso {B}{R}.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0200</id>
+    <name>Ruggito del Traditore</name>
+    <text>TAPpa una creatura STAPpata bersaglio. Quella creatura infligge danno pari alla propria forza al suo controllore.
+Cospirare (Mentre lanci questa magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia. Puoi scegliere un nuovo bersaglio per la copia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0201</id>
+    <name>Tirannizzare</name>
+    <text>Un giocatore bersaglio scarta la sua mano a meno che egli paghi 7 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0202</id>
+    <name>Vassallo Zanna di Cinghiale</name>
+    <text>Travolgere
+Le altre creature rosse che controlli prendono +1/+1.
+Le altre creature verdi che controlli prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0203</id>
+    <name>Squadra d'Assalto Boggart</name>
+    <text>Rapidità
+Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0204</id>
+    <name>Dio delle Calamità</name>
+    <text>Travolgere
+Ogniqualvolta il Dio delle Calamità infligge 6 o più danni a un avversario, distruggi una terra bersaglio controllata da quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0205</id>
+    <name>Colonna di Fuoco *</name>
+    <text>La Colonna di Fuoco infligge 3 danni a ogni creatura senza volare se è stato speso {R} per lanciare la Colonna di Fuoco e 3 danni a ogni creatura con volare se è stato speso {G}. (Compi entrambe le azioni se è stato speso {R}{G}.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0206</id>
+    <name>Ritrovamento di Fossili</name>
+    <text>Riprendi in mano una carta a caso dal tuo cimitero, poi riordina a tua scelta il tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0207</id>
+    <name>Esca dei Giganti</name>
+    <text>Metti sul campo di battaglia una pedina creatura Guerriero Gigante 4/4 rossa e verde con rapidità. Esiliala all'inizio della prossima sottofase finale.
+Cospirare (Mentre lanci questa magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0208</id>
+    <name>Risposta Gutturale</name>
+    <text>Neutralizza una magia istantaneo blu bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0209</id>
+    <name>Razzia Improvvisata</name>
+    <text>{2}{R|V}: Rivela la prima carta del tuo grimorio. Se non è una carta creatura, mettila nel tuo cimitero. Altrimenti, mettila sul campo di battaglia. Quella creatura ha rapidità. Sacrificala all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0210</id>
+    <name>Gigante Trascinaterra</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0211</id>
+    <name>Manamorfosi</name>
+    <text>Aggiungi due mana in qualsiasi combinazione di colori alla tua riserva di mana.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0212</id>
+    <name>Ammassagruzzoli</name>
+    <text>L'Ammassagruzzoli entra nel campo di battaglia con due segnalini -1/-1.
+Rimuovi un segnalino -1/-1 dall'Ammassagruzzoli: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0213</id>
+    <name>Razziatori di Rissaiolo Fangoso</name>
+    <text>I Razziatori di Rissaiolo Fangoso non possono essere bloccati dalle creature blu.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0214</id>
+    <name>Rosheen dei Vaneggiamenti</name>
+    <text>{T}: Aggiungi {4} alla tua riserva di mana. Spendi questo mana solo per costi che contengono {X}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0215</id>
+    <name>Rune del Dio</name>
+    <text>Incanta creatura
+Fintanto che la creatura incantata è rossa, prende +1/+1 e ha doppio attacco. (Infligge sia danno da combattimento da attacco improvviso che danno da combattimento regolare.)
+Fintanto che la creatura incantata è verde, prende +1/+1 e ha travolgere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0216</id>
+    <name>Predoni di Scozzaschiena</name>
+    <text>Travolgere
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0217</id>
+    <name>Rissoso di Scozzaschiena</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0218</id>
+    <name>Duo di Mangiastracci</name>
+    <text>Ogniqualvolta lanci una magia rossa, il Duo di Mangiastracci prende +1/+1 fino alla fine del turno.
+Ogniqualvolta lanci una magia verde, il Duo di Mangiastracci guadagna passa-foreste fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0219</id>
+    <name>Maniaco di Mangiastracci</name>
+    <text>Il Maniaco di Mangiastracci attacca ogni turno, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0220</id>
+    <name>Stregone di Mangiastracci</name>
+    <text>{R}{G}: Ogni creatura bloccata prende +1/+0 e ha travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0221</id>
+    <name>Creatore di Vallate</name>
+    <text>{T}, Sacrifica una Montagna: Il Creatore di Vallate infligge 3 danni a una creatura bersaglio.
+{T}, Sacrifica una Foresta: Scegli un giocatore. Quel giocatore aggiunge {G}{G}{G} alla sua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0222</id>
+    <name>Silenziatore Irritante</name>
+    <text>Il Silenziatore Irritante non può essere neutralizzato.
+{R|V}: Una magia bersaglio non può essere neutralizzata da magie o abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0223</id>
+    <name>Larva, la Madre Razziatrice</name>
+    <text>Quando Larva, la Madre Razziatrice entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura Guerriero Goblin 1/1 rosse e verdi.
+Ogni magia istantaneo o stregoneria verde o rossa che lanci ha cospirare. (Mentre lanci la magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia. Puoi scegliere dei nuovi bersagli per la copia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0224</id>
+    <name>Benedizione della Dura Corteccia</name>
+    <text>Una creatura bersaglio prende +2/+2 fino alla fine del turno.
+Cospirare (Mentre lanci questa magia, puoi TAPpare due creature STAPpate che controlli che condividono un colore con essa. Quando lo fai, copia la magia. Puoi scegliere un nuovo bersaglio per la copia.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0225</id>
+    <name>Infuso di Ardore Aurorale</name>
+    <text>Guadagni X punti vita se è stato speso {G} per lanciare l'Infuso di Ardore Aurorale e X punti vita se è stato speso {W}. (Compi entrambe le azioni se è stato speso {G}{W}.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0226</id>
+    <name>Elfo Cacciamaledizioni</name>
+    <text>{V|B}, {T}, Sacrifica l'Elfo Cacciamaledizioni: Distruggi un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0227</id>
+    <name>Raffica Sbriciolante</name>
+    <text>Distruggi tutti gli artefatti e gli incantesimi. Guadagni 2 punti vita per ogni permanente distrutto in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0228</id>
+    <name>Salvacuori</name>
+    <text>All'inizio del tuo mantenimento, rimuovi un segnalino -1/-1 da ogni creatura che controlli.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0229</id>
+    <name>Crumiri della Cucina</name>
+    <text>Quando i Crumiri della Cucina entrano nel campo di battaglia, guadagni 2 punti vita.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0230</id>
+    <name>Velocista Guaritrice</name>
+    <text>Quando la Velocista Guaritrice entra nel campo di battaglia, puoi rimuovere un segnalino da un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0231</id>
+    <name>Uccisione Misericordiosa</name>
+    <text>Il controllore di una creatura bersaglio la sacrifica, poi mette sul campo di battaglia X pedine creatura Guerriero Elfo 1/1 bianche e verdi, dove X è la forza di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0232</id>
+    <name>Anziano dalla Bianca Corteccia</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0233</id>
+    <name>Oracolo dei Nettari</name>
+    <text>{X}, {T}: Guadagni X punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0234</id>
+    <name>Anima Eccelsa del Crepuscolo</name>
+    <text>Protezione dal blu, dal nero e dal rosso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0235</id>
+    <name>Dragone di Volo del Corvo</name>
+    <text>Il Dragone di Volo del Corvo non può essere bloccato dalle creature nere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0236</id>
+    <name>Risaldare</name>
+    <text>Rigenera un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0237</id>
+    <name>Rhys il Redento</name>
+    <text>{2}{V|B}, {T}: Metti sul campo di battaglia una pedina creatura Guerriero Elfo 1/1 bianca e verde.
+{4}{V|B}{V|B}, {T}: Per ogni pedina creatura che controlli, metti sul campo di battaglia una pedina che è una copia di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0238</id>
+    <name>Duo del Fortincanto</name>
+    <text>Ogniqualvolta lanci una magia verde, il Duo del Fortincanto prende +1/+1 fino alla fine del turno.
+Ogniqualvolta lanci una magia bianca, il Duo del Fortincanto ha cautela fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0239</id>
+    <name>Elite del Fortincanto</name>
+    <text>Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0240</id>
+    <name>Missione dei Salvaincanti</name>
+    <text>Passa in rassegna il tuo grimorio per una carta Foresta o Pianura, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0241</id>
+    <name>Strega della Culla dei Semi</name>
+    <text>{2}{G}{W}: Una creatura bersaglio prende +3/+3 fino alla fine del turno. STAPpa quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0242</id>
+    <name>Scudo dell'Anima Eccelsa</name>
+    <text>Incanta creatura
+Fintanto che la creatura incantata è verde, prende +1/+1 ed è indistruttibile. (Il danno letale e gli effetti che dicono "distruggi" non la distruggono. Se la sua costituzione è pari o inferiore a 0, viene comunque messa nel cimitero del suo proprietario.)
+Fintanto che la creatura incantata è bianca, prende +1/+1 e ha volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0243</id>
+    <name>Ruota del Sole e della Luna</name>
+    <text>Incanta giocatore
+Se una carta sta per essere messa nel cimitero del giocatore incantato da una qualsiasi zona, quella carta viene invece rivelata e messa in fondo al grimorio di quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0244</id>
+    <name>Cavalieri di Foglia Secca</name>
+    <text>Cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0245</id>
+    <name>Vassallo di Foglia Secca</name>
+    <text>Le altre creature verdi che controlli prendono +1/+1.
+Le altre creature bianche che controlli prendono +1/+1.
+Se una magia o abilità controllata da un avversario ti fa scartare il Vassallo di Foglia Secca, mettilo sul campo di battaglia invece di metterlo nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0246</id>
+    <name>Spaventapasseri Fiammaspina</name>
+    <text>Lo Spaventapasseri Fiammaspina ha rapidità fintanto che controlli una creatura rossa.
+Lo Spaventapasseri Fiammaspina ha avvizzire fintanto che controlli una creatura verde. (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0247</id>
+    <name>Falcetto Avvizzente</name>
+    <text>La creatura equipaggiata prende +1/+0 e ha avvizzire. (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0248</id>
+    <name>Calderone delle Anime</name>
+    <text>{T}: Scegli un qualsiasi numero di creature bersaglio. Ognuna di quelle creature ha persistere fino alla fine del turno. (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0249</id>
+    <name>Spezzacatene</name>
+    <text>Lo Spezzacatene entra nel campo di battaglia con due segnalini -1/-1.
+{3}, {T}: Rimuovi un segnalino -1/-1 da una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0250</id>
+    <name>Flacone dell'Altrove</name>
+    <text>Quando il Flacone dell'Altrove entra nel campo di battaglia, pesca una carta.
+Sacrifica il Flacone dell'Altrove: Scegli un tipo di terra base. Ogni terra che controlli diventa quel tipo di terra base fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0251</id>
+    <name>Effige Nodosa</name>
+    <text>{4}, {T}: Metti un segnalino -1/-1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0252</id>
+    <name>Burattino Sinistro</name>
+    <text>Il Burattino Sinistro entra nel campo di battaglia con tre segnalini -1/-1.
+Rimuovi un segnalino -1/-1 dal Burattino Sinistro: Metti un segnalino -1/-1 su un'altra creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0253</id>
+    <name>Cumulo di Bambole</name>
+    <text>Sacrifica il Cumulo di Bambole: Esilia una carta bersaglio da un cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0254</id>
+    <name>Pagina Illuminata</name>
+    <text>{1}, {T}, Rivela due carte dalla tua mano che condividono un colore: Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0255</id>
+    <name>Mandibola Mordace</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Quando la Mandibola Mordace viene messa in un cimitero dal campo di battaglia, metti un segnalino -1/-1 su ogni creatura con un segnalino -1/-1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0256</id>
+    <name>Spaventapasseri Seguimagie</name>
+    <text>Mentre lo Spaventapasseri Seguimagie entra nel campo di battaglia, scegli un colore.
+Quando non controlli permanenti del colore scelto, sacrifica lo Spaventapasseri Seguimagie.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0257</id>
+    <name>Servo del Pittore</name>
+    <text>Mentre il Servo del Pittore entra nel campo di battaglia, scegli un colore.
+Tutte le carte che non sono sul campo di battaglia, le magie e i permanenti sono del colore scelto in aggiunta ai propri altri colori.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0258</id>
+    <name>Sfarfallante</name>
+    <text>Volare
+{2}, {STAP}: Aggiungi un mana di qualsiasi colore alla tua riserva di mana. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0259</id>
+    <name>Spaventapasseri Scuotifiamma</name>
+    <text>Lo Spaventapasseri Scuotifiamma ha persistere fintanto che controlli una creatura nera. (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)
+Lo Spaventapasseri Scuotifiamma ha rapidità fintanto che controlli una creatura rossa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0260</id>
+    <name>Re Mietitore</name>
+    <text>({2|B} può essere pagato con due mana qualsiasi o con {W}. Il costo di mana convertito di questa carta è 10.)
+Le altre creature Spaventapasseri che controlli prendono +1/+1.
+Ogniqualvolta un altro Spaventapasseri entra nel campo di battaglia sotto il tuo controllo, distruggi un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0261</id>
+    <name>Corno Rivelacanti</name>
+    <text>{1}, {T}, TAPpa una creatura STAPpata che controlli: Una creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0262</id>
+    <name>Cesto degli Scarti</name>
+    <text>{1}: Il Cesto degli Scarti diventa di tutti i colori fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0263</id>
+    <name>Sommozzatore Fedele</name>
+    <text>{T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.
+{T}: Una creatura bersaglio diventa di uno o più colori a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0264</id>
+    <name>Straccio Volante</name>
+    <text>Volare
+Lo Straccio Volante non può avere segnalini.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0265</id>
+    <name>Spaventapasseri Guardiaspina</name>
+    <text>Lo Spaventapasseri Guardiaspina ha avvizzire fintanto che controlli una creatura verde. (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Lo Spaventapasseri Guardiaspina ha cautela fintanto che controlli una creatura bianca.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0266</id>
+    <name>Calappio Intralciante</name>
+    <text>{2}, {T}: TAPpa una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0267</id>
+    <name>Mantello d'Ombra</name>
+    <text>La creatura equipaggiata ha "{3}, {STAP}: Questa creatura prende +2/+2 fino alla fine del turno." ({STAP} è il simbolo di STAP.)
+Equipaggiare {0}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0268</id>
+    <name>Spaventapasseri Guardiapiuma</name>
+    <text>Lo Spaventapasseri Guardiapiuma ha cautela fintanto che controlli una creatura bianca.
+Lo Spaventapasseri Guardiapiuma ha volare fintanto che controlli una creatura blu.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0269</id>
+    <name>Strisciavimini da Guerra</name>
+    <text>Ogniqualvolta lo Strisciavimini da Guerra attacca o blocca, metti un segnalino -1/-1 su di esso alla fine del combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0270</id>
+    <name>Spaventapasseri Scuotipiuma</name>
+    <text>Lo Spaventapasseri Scuotipiuma ha volare fintanto che controlli una creatura blu.
+Lo Spaventapasseri Scuotipiuma ha persistere fintanto che controlli una creatura nera. (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0271</id>
+    <name>Boschetto delle Fiamme</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{R|V}, {T}: Aggiungi {R}{R}, {R}{G}, o {G}{G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0272</id>
+    <name>Tumuli Scolpiti</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{N|R}, {T}: Aggiungi {B}{B}, {B}{R} o {R}{R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0273</id>
+    <name>Palude delle Sanguisughe</name>
+    <text>({T}: Aggiungi {B} alla tua riserva di mana.)
+La Palude delle Sanguisughe entra nel campo di battaglia TAPpata.
+{B}, {T}: Ogni avversario perde 1 punto vita. Attiva questa abilità solo se controlli due o più permanenti neri.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0274</id>
+    <name>Monte Furia Cieca</name>
+    <text>({T}: Aggiungi {R} alla tua riserva di mana.)
+Il Monte Furia Cieca entra nel campo di battaglia TAPpato.
+{R}, {T}: Rimescola il tuo grimorio. Attiva questa abilità solo se controlli due o più permanenti rossi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0275</id>
+    <name>Radura della Nebbia Eterna</name>
+    <text>({T}: Aggiungi {W} alla tua riserva di mana.)
+La Radura della Nebbia Eterna entra nel campo di battaglia TAPpata.
+{W}, {T}: Metti in fondo al tuo grimorio una carta bersaglio dal tuo cimitero. Attiva questa abilità solo se controlli due o più permanenti bianchi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0276</id>
+    <name>Isola Anello di Luna</name>
+    <text>({T}: Aggiungi {U} alla tua riserva di mana.)
+L'Isola Anello di Luna entra nel campo di battaglia TAPpata.
+{U}, {T}: Guarda la prima carta del grimorio di un giocatore bersaglio. Attiva questa abilità solo se controlli due o più permanenti blu.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0277</id>
+    <name>Cancello Mistico</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{B|L}, {T}: Aggiungi {W}{W}, {W}{U}, o {U}{U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0278</id>
+    <name>Pozza Riflettente</name>
+    <text>{T}: Aggiungi alla tua riserva di mana un mana di qualsiasi tipo che una terra che controlli potrebbe produrre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0279</id>
+    <name>Bosco della Linfa Gocciolante</name>
+    <text>({T}: Aggiungi {G} alla tua riserva di mana.)
+Il Bosco della Linfa Gocciolante entra nel campo di battaglia TAPpato.
+{G}, {T}: Guadagni 1 punto vita. Attiva questa abilità solo se controlli due o più permanenti verdi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0280</id>
+    <name>Rovine Sommerse</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{L|N}, {T}: Aggiungi {U}{U}, {U}{B}, o {B}{B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0281</id>
+    <name>Bastione Arboreo</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{V|B}, {T}: Aggiungi {G}{G}, {G}{W}, o {W}{W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0282</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0283</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0284</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0285</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0286</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0287</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0288</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0289</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0290</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0291</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0292</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0293</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0294</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0295</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0296</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0297</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0298</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0299</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0300</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>SHM0301</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

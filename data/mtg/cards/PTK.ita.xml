@@ -1,0 +1,1489 @@
+<cards name="Portal Three Kingdoms">
+  <item>
+    <id>PTK0001</id>
+    <name>Bilancia del Potere</name>
+    <text>Se un avversario bersaglio ha in mano più carte di te, tu peschi un numero di carte pari alla differenza.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0002</id>
+    <name>Bilancia del Potere</name>
+    <text>Se un avversario bersaglio ha in mano più carte di te, tu peschi un numero di carte pari alla differenza.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0003</id>
+    <name>Fiammata</name>
+    <text>La Fiammata infligge X danni alla creatura o al giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0004</id>
+    <name>Fiammata</name>
+    <text>La Fiammata infligge X danni alla creatura o al giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0005</id>
+    <name>Fiammata</name>
+    <text>La Fiammata infligge X danni alla creatura o al giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0006</id>
+    <name>Esaurimento</name>
+    <text>Le creature e le terre controllate da un avversario bersaglio non STAPpano durante il suo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0007</id>
+    <name>Esaurimento</name>
+    <text>Le creature e le terre controllate da un avversario bersaglio non STAPpano durante il suo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0008</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0009</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0010</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0011</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0012</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0013</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0014</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0015</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0016</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0017</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0018</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0019</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0020</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0021</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0022</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0023</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0024</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0025</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0026</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0027</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0028</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0029</id>
+    <name>Rifiuto Mistico</name>
+    <text>Neutralizza una magia creatura o stregoneria bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0030</id>
+    <name>Rifiuto Mistico</name>
+    <text>Neutralizza una magia creatura o stregoneria bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0031</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0032</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0033</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0034</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0035</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0036</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0037</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0038</id>
+    <name>Tigre in Agguato</name>
+    <text>La Tigre in Agguato non può essere bloccata da più di una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0039</id>
+    <name>Tigre in Agguato</name>
+    <text>La Tigre in Agguato non può essere bloccata da più di una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0040</id>
+    <name>Pioggia di Pietre</name>
+    <text>Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0041</id>
+    <name>Pioggia di Pietre</name>
+    <text>Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0042</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0043</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0044</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0045</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0046</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0047</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0048</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0049</id>
+    <name>Vendetta</name>
+    <text>Distruggi una creatura TAPpata bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0050</id>
+    <name>Vendetta</name>
+    <text>Distruggi una creatura TAPpata bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0051</id>
+    <name>Alert Shu Infantry</name>
+    <text>Cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0052</id>
+    <name>Eightfold Maze</name>
+    <text>Gioca Eightfold Maze soltanto durante la dichiarazione degli attaccanti e soltanto se sei stato attaccato in questo sottofase.
+Distruggi una creatura attaccante bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0053</id>
+    <name>Empty City Ruse</name>
+    <text>L'avversario bersaglio salta tutte le fasi di combattimento del suo prossimo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0054</id>
+    <name>False Defeat</name>
+    <text>Rimetti nel campo di battaglia una carta creatura bersaglio presente nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0055</id>
+    <name>Flanking Troops</name>
+    <text>Ogniqualvolta Flanking Troops attacca, puoi TAPpare una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0056</id>
+    <name>Guan Yu, Sainted Warrior</name>
+    <text>Cavalierato
+Quando Guan Yu, Sainted Warrior viene messo in un cimitero dal campo di battaglia, puoi rimescolare Guan Yu nel tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0057</id>
+    <name>Guan Yu's 1,000-Li March</name>
+    <text>Distruggi tutte le creature TAPpate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0058</id>
+    <name>Huang Zhong, Shu General</name>
+    <text>Huang Zhong, Shu General non può essere bloccato da più di una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0059</id>
+    <name>Kongming, Sleeping Dragon</name>
+    <text>Le altre creature che controlli prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0060</id>
+    <name>Kongming's Contraptions</name>
+    <text>{T}: Kongming's Contraptions infligge 2 danni a una creatura attaccante bersaglio. Attiva questa abilità durante la dichiarazione degli attaccanti, e soltanto nel turno di un avversario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0061</id>
+    <name>Liu Bei, Lord of Shu</name>
+    <text>Cavalierato
+Liu Bei, Lord of Shu prende +2/+2 fintanto che tu controlli un permanente chiamato Guan Yu, Sainted Warrior o un permanente chiamato Zhang Fei, Fierce Warrior.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0062</id>
+    <name>Loyal Retainers</name>
+    <text>Sacrifica Loyal Retainers: Rimetti nel campo di battaglia una carta creatura leggendaria bersaglio dal tuo cimitero. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0063</id>
+    <name>Misfortune's Gain</name>
+    <text>Distruggi una creatura bersaglio. Il suo proprietario guadagna 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0064</id>
+    <name>Pang Tong, "Young Phoenix"</name>
+    <text>{T}: Target creature gets +0/+2 until end of turn. Activate this ability only during your turn, before attackers are declared.</text>
+    <flavorText>". . . It was Pang Tong's boat-connecting scheme
+That let Zhou Yu accomplish his great deed."</flavorText>
+  </item>
+  <item>
+    <id>PTK0065</id>
+    <name>Giuramento del Pesco</name>
+    <text>Guadagni 2 punti vita per ogni creatura che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0066</id>
+    <name>Radunare le Truppe</name>
+    <text>Lancia Radunare le Truppe solo durante la dichiarazione degli attaccanti e solo se sei stato attaccato in questo turno.
+STAPpa tutte le creature che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0067</id>
+    <name>Ravages of War</name>
+    <text>Distruggi tutte le terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0068</id>
+    <name>Riding Red Hare</name>
+    <text>La creatura bersaglio prende +3/+3 e guadagna cavalierato fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0069</id>
+    <name>Shu Cavalry</name>
+    <text>Cavalierato</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0070</id>
+    <name>Shu Defender</name>
+    <text>Ogniqualvolta Shu Defender blocca, prende +0/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0071</id>
+    <name>Shu Elite Companions</name>
+    <text>Cavalierato</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0072</id>
+    <name>Shu Elite Infantry</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0073</id>
+    <name>Shu Farmer</name>
+    <text>{T}: Guadagni 1 punto vita. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0074</id>
+    <name>Shu Foot Soldiers</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0075</id>
+    <name>Shu General</name>
+    <text>Cavalierato, cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0076</id>
+    <name>Shu Grain Caravan</name>
+    <text>Quando Shu Grain Caravan entra nel campo di battaglia, guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0077</id>
+    <name>Shu Soldier-Farmers</name>
+    <text>Quando Shu Soldier-Farmers entra nel campo di battaglia, guadagni 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0078</id>
+    <name>Virtuous Charge</name>
+    <text>Le creature che controlli prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0079</id>
+    <name>Milizia Volontaria</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0080</id>
+    <name>Resistenza del Guerriero</name>
+    <text>Lancia la Resistenza del Guerriero solo durante la dichiarazione degli attaccanti e solo se sei stato attaccato in questo turno.
+Le creature che controlli prendono +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0081</id>
+    <name>Zhang Fei, Fierce Warrior</name>
+    <text>Cavalierato, cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0082</id>
+    <name>Zhao Zilong, Tiger General</name>
+    <text>Cavalierato
+Ogniqualvolta Zhao Zilong, Tiger General blocca, prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0083</id>
+    <name>Borrowing 100,000 Arrows</name>
+    <text>Pesca una carta per ogni creatura TAPpata controllata da un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0084</id>
+    <name>Brilliant Plan</name>
+    <text>Pesca tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0085</id>
+    <name>Broken Dam</name>
+    <text>TAPpa uno o due creature bersaglio senza cavalierato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0086</id>
+    <name>Capture of Jingzhou</name>
+    <text>Gioca un altro turno dopo questo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0087</id>
+    <name>Champion's Victory</name>
+    <text>Lancia Champion's Victory soltanto durante la dichiarazione degli attaccanti e soltanto se tu sei il giocatore in difesa.
+Il proprietario riprende in mano una creatura attaccante bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0088</id>
+    <name>Council of Advisors</name>
+    <text>Quando Council of Advisors entra nel campo di battaglia, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0089</id>
+    <name>Counterintelligence</name>
+    <text>I proprietari riprendono in mano una o due creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0090</id>
+    <name>Extinguish</name>
+    <text>Neutralizza una magia stregoneria bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0091</id>
+    <name>Forced Retreat</name>
+    <text>Metti una creatura bersaglio in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0092</id>
+    <name>Lady Sun</name>
+    <text>{T}: I proprietari riprendono in mano Lady Sun e un'altra creatura bersaglio. Attiva questa abilità solo durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0093</id>
+    <name>Lu Meng, Wu General</name>
+    <text>Cavalierato</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0094</id>
+    <name>Lu Su, Wu Advisor</name>
+    <text>{T}: Pesca una carta. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0095</id>
+    <name>Lu Xun, Scholar General</name>
+    <text>Cavalierato
+Ogniqualvolta Lu Xun, Scholar General infligge danno ad un giocatore, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0096</id>
+    <name>Preemptive Strike</name>
+    <text>Neutralizza una magia creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0097</id>
+    <name>Red Cliffs Armada</name>
+    <text>Red Cliffs Armada non può attaccare a meno che il giocatore in difesa controlli un'Isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0098</id>
+    <name>Sage's Knowledge</name>
+    <text>Riprendi in mano una carta stregoneria bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0099</id>
+    <name>Strategic Planning</name>
+    <text>Guarda le prime tre carte del tuo grimorio. Aggiungi alla tua mano una di quelle carte e metti le rimanenti nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0100</id>
+    <name>Straw Soldiers</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0101</id>
+    <name>Sun Ce, Young Conquerer</name>
+    <text>Cavalierato
+Quando Sun Ce, Young Conquerer entra nel campo di battaglia, puoi far riprendere in mano al proprietario una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0102</id>
+    <name>Sun Quan, Lord of Wu</name>
+    <text>Le creature che controlli hanno cavalierato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0103</id>
+    <name>Wu Admiral</name>
+    <text>Wu Admiral prende +1/+1 fintanto che un avversario controlla un'Isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0104</id>
+    <name>Wu Elite Cavalry</name>
+    <text>Cavalierato</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0105</id>
+    <name>Wu Infantry</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0106</id>
+    <name>Wu Light Cavalry</name>
+    <text>Cavalierato</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0107</id>
+    <name>Wu Longbowman</name>
+    <text>{T}: Wu Longbowman infligge 1 danno a una creatura od a un giocatore bersaglio. Attiva questa abilità solo durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0108</id>
+    <name>Wu Scout</name>
+    <text>Cavalierato
+Quando Wu Scout entra nel campo di battaglia, guarda la mano di un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0109</id>
+    <name>Wu Spy</name>
+    <text>Quando Wu Spy entra nel campo di battaglia, guarda le prime due carte del grimorio di un giocatore bersaglio. Metti nel suo cimitero una di quelle carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0110</id>
+    <name>Wu Warship</name>
+    <text>Wu Warship non può attaccare a meno che il giocatore in difesa controlli un'Isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0111</id>
+    <name>Zhou Yu, Chief Commander</name>
+    <text>Zhou Yu, Chief Commander non può attaccare a meno che il giocatore in difesa controlli un'Isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0112</id>
+    <name>Zhuge Jin, Wu Strategist</name>
+    <text>{T}: La creatura bersaglio non può essere bloccata in questo turno. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0113</id>
+    <name>Costo dell'Ambizione</name>
+    <text>Peschi tre carte e perdi 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0114</id>
+    <name>Cao Cao, Lord of Wei</name>
+    <text>{T}: L'avversario bersaglio scarta due carte. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0115</id>
+    <name>Cao Ren, Wei Commander</name>
+    <text>Cavalierato
+Quando Cao Ren, Wei Commander entra nel campo di battaglia, perdi 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0116</id>
+    <name>Coercizione</name>
+    <text>L'avversario bersaglio rivela la sua mano. Tu scegli una carta da essa. Quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0117</id>
+    <name>Corrupt Court Official</name>
+    <text>Quando Corrupt Court Official entra nel campo di battaglia, un avversario bersaglio scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0118</id>
+    <name>Cunning Advisor</name>
+    <text>{T}: L'avversario bersaglio scarta una carta. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0119</id>
+    <name>Deception</name>
+    <text>L'avversario bersaglio scarta due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0120</id>
+    <name>Desperate Charge</name>
+    <text>Le creature che controlli prendono +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0121</id>
+    <name>Famine</name>
+    <text>Famine infligge 3 danni a ogni creatura e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0122</id>
+    <name>Ghostly Visit</name>
+    <text>Distruggi una creatura non nera bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0123</id>
+    <name>Imperial Edict</name>
+    <text>L'avversario bersaglio sceglie una creatura che controlla. Distruggi quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0124</id>
+    <name>Imperial Seal</name>
+    <text>Passa in rassegna il tuo grimorio per una carta qualsiasi, poi rimescola il tuo grimorio e metti quella carta in cima ad esso. Perdi 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0125</id>
+    <name>Overwhelming Forces</name>
+    <text>Distruggi tutte le creature controllate da un avversario bersaglio. Peschi una carta per ogni creatura distrutta in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0126</id>
+    <name>Poison Arrow</name>
+    <text>Distruggi una creatura non nera bersaglio. Guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0127</id>
+    <name>Return to Battle</name>
+    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0128</id>
+    <name>Sima Yi, Wei Field Marshal</name>
+    <text>La forza di Sima Yi, Wei Field Marshal è pari al numero di Paludi che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0129</id>
+    <name>Stolen Grain</name>
+    <text>Stolen Grain infligge 5 danni a un avversario bersaglio. Tu guadagni 5 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0130</id>
+    <name>Stone Catapult</name>
+    <text>{T}: Distruggi una creatura non nera TAPpata bersaglio. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0131</id>
+    <name>Wei Ambush Force</name>
+    <text>Ogniqualvolta Wei Ambush Force attacca, prende +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0132</id>
+    <name>Wei Assassins</name>
+    <text>Quando Wei Assassins entra nel campo di battaglia, un avversaro bersaglio sacrifica una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0133</id>
+    <name>Wei Elite Companions</name>
+    <text>Cavalierato</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0134</id>
+    <name>Wei Infantry</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0135</id>
+    <name>Wei Night Raiders</name>
+    <text>Cavalierato
+Ogniqualvolta Wei Night Raiders infligge danno ad un avversario, quel giocatore scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0136</id>
+    <name>Wei Scout</name>
+    <text>Cavalierato</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0137</id>
+    <name>Wei Strike Force</name>
+    <text>Cavalierato</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0138</id>
+    <name>Xiahou Dun, the One-Eyed</name>
+    <text>Cavalierato
+Sacrifica Xiahou Dun, the One-Eyed: Riprendi in mano una carta nera bersaglio dal tuo cimitero. Attiva questa abilità solo durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0139</id>
+    <name>Xun Yu, Wei Advisor</name>
+    <text>{T}: Una creatura bersaglio che controlli prende +2/+0 fino alla fine del turno. Attiva questa abilità solo durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0140</id>
+    <name>Young Wei Recruits</name>
+    <text>Young Wei Recruits non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0141</id>
+    <name>Zhang He, Wei General</name>
+    <text>Cavalierato
+Ogniqualvolta Zhang He, Wei General attacca, ogni altra creatura che controlli prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0142</id>
+    <name>Zhang Liao, Hero of Hefei</name>
+    <text>Ogniqualvolta Zhang Liao, Hero of Hefei infligge danno ad un avversario, quell'avversario scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0143</id>
+    <name>Zodiac Pig</name>
+    <text>Passa-paludi</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0144</id>
+    <name>Zodiac Rat</name>
+    <text>Passa-paludi</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0145</id>
+    <name>Zodiac Snake</name>
+    <text>Passa-paludi</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0146</id>
+    <name>Barbarian General</name>
+    <text>Cavalierato (Questa creatura non può essere bloccata tranne che dalle creature con cavalierato.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0147</id>
+    <name>Barbarian Horde</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0148</id>
+    <name>Burning Fields</name>
+    <text>Burning Fields infligge 5 danni a un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0149</id>
+    <name>Burning of Xinye</name>
+    <text>Tu distruggi quattro terre che controlli, poi un avversario bersaglio distrugge quattro terre che controlla. Poi Burning of Xinye infligge 4 danni ad ogni creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0150</id>
+    <name>Control of the Court</name>
+    <text>Pesca quattro carte, poi scarta tre carte a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0151</id>
+    <name>Corrupt Eunuchs</name>
+    <text>Quando Corrupt Eunuchs entrano nel campo di battaglia, infliggono 2 danni a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0152</id>
+    <name>Desert Sandstorm</name>
+    <text>Desert Sandstorm infligge 1 danno ad ogni creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0153</id>
+    <name>Diaochan, Artful Beauty</name>
+    <text>{T}: Distruggi una creatura bersaglio a tua scelta, poi distruggi una creatura bersaglio a scelta di un avversario. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0154</id>
+    <name>Dong Zhou, the Tyrant</name>
+    <text>Quando Dong Zhou, the Tyrant entra nel campo di battaglia, una creatura bersaglio controllata da un avversario infligge un danno pari alla propria forza a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0155</id>
+    <name>Eunuchs' Intrigues</name>
+    <text>L'avversario bersaglio sceglie una creatura che controlla. Le altre creature che quel giocatore controlla, non possono bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0156</id>
+    <name>Fire Ambush</name>
+    <text>Fire Ambush infligge 3 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0157</id>
+    <name>Fire Bowman</name>
+    <text>Sacrifica Fire Bowman: Fire Bowman infligge 1 danno a una creatura o a un giocatore bersaglio. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0158</id>
+    <name>Imperial Recruiter</name>
+    <text>Quando Imperial Recruiter entra nel campo di battaglia, passa in rassegna il tuo grimorio per una carta creatura con forza pari o inferiore a 2, rivelala, e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0159</id>
+    <name>Independent Troops</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0160</id>
+    <name>Lu Bu, Master-at-Arms</name>
+    <text>Cavalierato, rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0161</id>
+    <name>Ma Chao, Western Warrior</name>
+    <text>Cavalierato
+Ogniqualvolta Ma Chao, Western Warrior attacca da solo, non può essere bloccato in questo combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0162</id>
+    <name>Mountain Bandit</name>
+    <text>Rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0163</id>
+    <name>Ravaging Horde</name>
+    <text>Quando Ravaging Horde entra nel campo di battaglia, distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0164</id>
+    <name>Assalto Implacabile</name>
+    <text>STAPpa tutte le creature che hanno attaccato in questo turno. Dopo questa fase principale, c'è una fase di combattimento addizionale seguita da una fase principale aggiuntiva.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0165</id>
+    <name>Renegade Troops</name>
+    <text>Rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0166</id>
+    <name>Rockslide Ambush</name>
+    <text>Rockslide Ambush infligge ad una creatura bersaglio un danno pari al numero di Montagne che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0167</id>
+    <name>Rolling Earthquake</name>
+    <text>Rolling Earthquake infligge X danni a ogni creatura senza cavalierato e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0168</id>
+    <name>Warrior's Oath</name>
+    <text>Gioca un altro turno dopo questo. Alla fine di quel turno, perdi la partita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0169</id>
+    <name>Yellow Scarves Cavalry</name>
+    <text>Cavalierato (Questa creatura non può essere bloccata tranne che dalle creature con cavalierato); Yellow Scarves Cavalry non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0170</id>
+    <name>Yellow Scarves General</name>
+    <text>Cavalierato
+Yellow Scarves General non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0171</id>
+    <name>Yellow Scarves Troops</name>
+    <text>Yellow Scarves Troops non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0172</id>
+    <name>Yuan Shao, the Indecisive</name>
+    <text>Cavalierato
+Ogni creatura che controlli non può essere bloccata da più di una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0173</id>
+    <name>Yuan Shao's Infantry</name>
+    <text>Ogniqualvolta Yuan Shao's Infantry attacca da solo, Yuan Shao's Infantry non può essere bloccato in questo combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0174</id>
+    <name>Zodiac Dog</name>
+    <text>Passa-montagne</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0175</id>
+    <name>Zodiac Dragon</name>
+    <text>Quando Zodiac Dragon viene messo in un cimitero dal campo di battaglia, puoi riprenderlo in mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0176</id>
+    <name>Zodiac Goat</name>
+    <text>Passa-montagne</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0177</id>
+    <name>Borrowing the East Wind</name>
+    <text>Borrowing the East Wind infligge X danni ad ogni creatura con cavalierato e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0178</id>
+    <name>False Mourning</name>
+    <text>Metti una carta bersaglio dal tuo cimitero in cima al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0179</id>
+    <name>Forest Bear</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0180</id>
+    <name>Heavy Fog</name>
+    <text>Lancia Heavy Fog soltanto durante la dichiarazione degli attaccanti e soltanto se tu sei il giocatore in difesa.
+Previeni tutto il danno che ti verrebbe inflitto in questo turno dalle creature attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0181</id>
+    <name>Hua Tuo, Honored Physician</name>
+    <text>{T}: Metti una carta creatura bersaglio dal tuo cimitero in cima al tuo grimorio. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0182</id>
+    <name>Hunting Cheetah</name>
+    <text>Ogniqualvolta Hunting Cheetah infligge danno a un avversario, puoi passare in rassegna il tuo grimorio per una carta Foresta, rivelare quella carta, e aggiungerla alla tua mano, poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0183</id>
+    <name>Lady Zhurong, Warrior Queen</name>
+    <text>Cavalierato</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0184</id>
+    <name>Lupo Solitario</name>
+    <text>Puoi decidere che il Lupo Solitario assegni il proprio danno da combattimento come se non fosse stato bloccato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0185</id>
+    <name>Marshaling the Troops</name>
+    <text>TAPpa un qualsiasi numero di creature STAPpate che controlli. Guadagni 4 punti vita per ogni creatura TAPpata in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0186</id>
+    <name>Meng Huo, Barbarian King</name>
+    <text>Le altre creature verdi che controlli prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0187</id>
+    <name>Meng Huo's Horde</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0188</id>
+    <name>Riding the Dilu Horse</name>
+    <text>La creatura bersaglio prende +2/+2 e guadagna cavalierato. (Questo effetto non ha termine.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0189</id>
+    <name>Slashing Tiger</name>
+    <text>Ogniqualvolta Slashing Tiger viene bloccata, prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0190</id>
+    <name>Southern Elephant</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0191</id>
+    <name>Spoils of Victory</name>
+    <text>Passa in rassegna il tuo grimorio per una carta terra base e metti quella carta sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0192</id>
+    <name>Spring of Eternal Peace</name>
+    <text>Guadagni 8 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0193</id>
+    <name>Taoist Hermit</name>
+    <text>Taoist Hermit non può essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0194</id>
+    <name>Taoist Mystic</name>
+    <text>Taoist Mystic non può essere bloccato dalle creature con cavalierato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0195</id>
+    <name>Taunting Challenge</name>
+    <text>Tutte le creature che possono bloccare la creatura bersaglio in questo turno lo fanno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0196</id>
+    <name>Three Visits</name>
+    <text>Passa in rassegna il tuo grimorio per una carta Foresta e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0197</id>
+    <name>Trip Wire</name>
+    <text>Distruggi una creatura bersaglio con cavalierato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0198</id>
+    <name>Trained Cheetah</name>
+    <text>Ogniqualvolta Trained Cheetah viene bloccato, prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0199</id>
+    <name>Trained Jackal</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0200</id>
+    <name>Wielding the Green Dragon</name>
+    <text>La creatura bersaglio prende +4/+4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0201</id>
+    <name>Wolf Pack</name>
+    <text>Puoi decidere che il Wolf Pack assegni il suo danno da combattimento come se non fosse stato bloccato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0202</id>
+    <name>Zodiac Horse</name>
+    <text>Passa-isole</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0203</id>
+    <name>Scimmia dello Zodiaco</name>
+    <text>Passa-foreste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0204</id>
+    <name>Zodiac Ox</name>
+    <text>Passa-paludi</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0205</id>
+    <name>Zodiac Rabbit</name>
+    <text>Passa-foreste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0206</id>
+    <name>Zodiac Rooster</name>
+    <text>Passa-pianure</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0207</id>
+    <name>Zodiac Tiger</name>
+    <text>Passa-foreste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PTK0208</id>
+    <name>Zuo Ci, the Mocking Sage</name>
+    <text>Zuo Ci, the Mocking Sage non può essere bloccato da creature con cavalierato.
+Zuo Ci non può essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

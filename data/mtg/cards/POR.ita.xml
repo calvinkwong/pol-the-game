@@ -1,0 +1,1605 @@
+<cards name="Portal">
+  <item>
+    <id>POR0001</id>
+    <name>Drago d'Alabastro</name>
+    <text>Volare
+Quando il Drago d'Alabastro viene messo in un cimitero dal campo di battaglia, rimescola il Drago d'Alabastro nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0002</id>
+    <name>Profumo Invitante</name>
+    <text>Tutte le creature che possono bloccare la creatura bersaglio in questo turno devono farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0003</id>
+    <name>Anaconda</name>
+    <text>Passa-paludi (Questa creatura è imbloccabile fintanto che il giocatore in difesa controlla almeno una Palude.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0004</id>
+    <name>Anaconda</name>
+    <text>Passa-paludi (Questa creatura è imbloccabile fintanto che il giocatore in difesa controlla almeno una Palude.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0005</id>
+    <name>Memorie Ancestrali</name>
+    <text>Guarda le prime sette carte del tuo grimorio. Aggiungi due di esse alla tua mano e metti le rimanenti nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0006</id>
+    <name>Benedizione Angelica</name>
+    <text>Una creatura bersaglio prende +3/+3 e ha volare fino alla fine del turno. (Non può essere bloccata tranne che da creature con volare o raggiungere.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0007</id>
+    <name>Arcangelo</name>
+    <text>Volare, cautela (Questa creatura attacca senza TAPpare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0008</id>
+    <name>Milizia Fervente</name>
+    <text>Cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0009</id>
+    <name>Armageddon</name>
+    <text>Distruggi tutte le terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0010</id>
+    <name>Pegaso Corazzato</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0011</id>
+    <name>Arrogant Vampire</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0012</id>
+    <name>Assassin's Blade</name>
+    <text>Lancia Assassin's Blade soltanto durante la dichiarazione degli attaccanti e soltanto se sei stato attaccato in questa sottofase.
+Distruggi una creatura attaccante bersaglio non nera.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0013</id>
+    <name>Bilancia del Potere</name>
+    <text>Se un avversario bersaglio ha in mano più carte di te, tu peschi un numero di carte pari alla differenza.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0014</id>
+    <name>Sguardo Malevolo</name>
+    <text>L'avversario bersaglio rivela la propria mano. Peschi una carta per ogni Montagna e ogni carta rossa presente in essa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0015</id>
+    <name>Puntura d'Ape</name>
+    <text>La Puntura d'Ape infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0016</id>
+    <name>Fiammata</name>
+    <text>La Fiammata infligge X danni alla creatura o al giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0017</id>
+    <name>Fiammata</name>
+    <text>La Fiammata infligge X danni alla creatura o al giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0018</id>
+    <name>Inversione Benedetta</name>
+    <text>Guadagni 3 punti vita per ogni creatura che ti sta attaccando.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0019</id>
+    <name>Luce Accecante</name>
+    <text>TAPpa tutte le creature non bianche.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0020</id>
+    <name>Demonietto delle Paludi</name>
+    <text>Volare (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0021</id>
+    <name>Predoni delle Paludi</name>
+    <text>Passa-paludi</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0022</id>
+    <name>Necrospettro delle Paludi</name>
+    <text>Passa-Paludi (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla una Palude.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0023</id>
+    <name>Mari Ribollenti</name>
+    <text>Distruggi tutte le Isole.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0024</id>
+    <name>Border Guard</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0025</id>
+    <name>Alito di Vita</name>
+    <text>Rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0026</id>
+    <name>Ippopotamo Capobranco</name>
+    <text>Passa-isole</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0027</id>
+    <name>Burning Cloak</name>
+    <text>La creatura bersaglio prende +2/+0 fino alla fine del turno. Burning Cloak infligge 2 danni a quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0028</id>
+    <name>Capricious Sorcerer</name>
+    <text>{T}: Capricious Sorcerer infligge 1 danno a una creatura o a un giocatore bersaglio. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0029</id>
+    <name>Charging Bandits</name>
+    <text>Ogniqualvolta Charging Bandits attacca, prende +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0030</id>
+    <name>Paladino in Carica</name>
+    <text>Ogniqualvolta il Paladino in Carica attacca, prende +0/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0031</id>
+    <name>Rinoceronte alla Carica</name>
+    <text>Il Rinoceronte alla Carica non può essere bloccato da più di una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0032</id>
+    <name>Cloak of Feathers</name>
+    <text>La creatura bersaglio guadagna volare fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0033</id>
+    <name>Cloud Dragon</name>
+    <text>Volare
+Il Cloud Dragon può bloccare soltanto le creature con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0034</id>
+    <name>Cloud Pirates</name>
+    <text>Volare
+I Cloud Pirates possono bloccare soltanto creature con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0035</id>
+    <name>Spirito delle Nubi</name>
+    <text>Volare
+Lo Spirito delle Nubi può bloccare soltanto creature con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0036</id>
+    <name>Command of Unsummoning</name>
+    <text>Lancia il Command of Unsummoning soltanto durante il turno di un avversario.
+I proprietari riprendono in mano una o due creature attaccanti bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0037</id>
+    <name>Anguilla Corallina</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0038</id>
+    <name>Gigante Codardo</name>
+    <text>Il Gigante Codardo non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0039</id>
+    <name>Craven Knight</name>
+    <text>Il Craven Knight non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0040</id>
+    <name>Cruel Bargain</name>
+    <text>Pesca quattro carte. Perdi metà dei tuoi punti vita, arrotondati per eccesso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0041</id>
+    <name>Cruel Fate</name>
+    <text>Guarda le prime cinque carte del grimorio di un avversario bersaglio. Metti una di quelle carte nel cimitero di quel giocatore e le rimanenti in cima al suo grimorio in un qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0042</id>
+    <name>Cruel Tutor</name>
+    <text>Passa in rassegna il tuo grimorio per una qualsiasi carta, poi rimescola il tuo grimorio e metti quella carta in cima ad esso. Perdi 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0043</id>
+    <name>Bosco Intricato</name>
+    <text>Lancia il Bosco Intricato soltanto durante la dichiarazione degli attaccanti e soltanto se sei stato attaccato in questa sottofase.
+Previeni tutto il danno che ti verrebbe inflitto in questo turno dalle creature attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0044</id>
+    <name>Deep-Sea Serpent</name>
+    <text>Il Deep-Sea Serpent non può attaccare a meno che in giocatore in difesa controlli un'isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0045</id>
+    <name>Defiant Stand</name>
+    <text>Lancia la Defiant Stand soltanto durante la sottofase di dichiarazione degli attaccanti e solo se sei stato attaccato in questa sottofase. 
+La creatura bersaglio prende +1/+3 fino alla fine del turno. Se quella creatura è TAPpata, STAPpala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0046</id>
+    <name>Déjà Vu</name>
+    <text>Riprendi in mano dal tuo cimitero una carta stregoneria bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0047</id>
+    <name>Desert Drake</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0048</id>
+    <name>Devastation</name>
+    <text>Distruggi tutte le creature e tutte le terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0049</id>
+    <name>Devoted Hero</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0050</id>
+    <name>Djinn of the Lamp</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0051</id>
+    <name>Dread Charge</name>
+    <text>Fino alla fine del turno, le creature nere che controlli possono essere bloccate soltanto da creature nere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0052</id>
+    <name>Dread Reaper</name>
+    <text>Volare
+Quando Dread Reaper entra nel campo di battaglia, perdi 5 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0053</id>
+    <name>Prosciugare</name>
+    <text>Il Prosciugare infligge 1 danno a ogni creatura e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0054</id>
+    <name>Terremoto</name>
+    <text>Il Terremoto infligge X danni a ogni creatura senza volare e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0055</id>
+    <name>Ebon Dragon</name>
+    <text>Volare
+Quando Ebon Dragon entra nel campo di battaglia, puoi far scartare una carta ad un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0056</id>
+    <name>Elite Cat Warrior</name>
+    <text>Passa-foreste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0057</id>
+    <name>Elite Cat Warrior</name>
+    <text>Passa-foreste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0058</id>
+    <name>Nascondiglio degli Elfi</name>
+    <text>Riprendi in mano una carta bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0059</id>
+    <name>Ranger degli Elfi</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0060</id>
+    <name>Endless Cockroaches</name>
+    <text>Quando gli Endless Cockroaches vengono messi in un cimitero dal campo di battaglia, il proprietario riprende in mano gli Endless Cockroaches.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0061</id>
+    <name>Esaurimento</name>
+    <text>Le creature e le terre controllate da un avversario bersaglio non STAPpano durante il suo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0062</id>
+    <name>False Peace</name>
+    <text>Il giocatore bersaglio salta tutte le fasi di combattimento del suo prossimo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0063</id>
+    <name>Ombra Ferale</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0064</id>
+    <name>Final Strike</name>
+    <text>Come costo addizionale per lanciare Final Strike, sacrifica una creatura. Final Strike infligge ad un avversario bersaglio un danno pari alla forza della creatura sacrificata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0065</id>
+    <name>Fire Dragon</name>
+    <text>Volare
+Quando Fire Dragon entra nel campo di battaglia, infligge ad una creatura bersaglio un danno pari al numero di Montagne che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0066</id>
+    <name>Fire Imp</name>
+    <text>Quando Fire Imp entra nel campo di battaglia, infligge 2 danni ad una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0067</id>
+    <name>Fire Snake</name>
+    <text>Quando il Fire Snake viene messo in un cimitero dal campo di battaglia, distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0068</id>
+    <name>Fire Tempest</name>
+    <text>Fire Tempest infligge 6 danni ad ogni creatura ed a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0069</id>
+    <name>Incendio</name>
+    <text>Distruggi tutte le Pianure.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0070</id>
+    <name>Fleet-Footed Monk</name>
+    <text>Il Fleet-Footed Monk non può essere bloccato da creature con forza pari o superiore a 2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0071</id>
+    <name>Flusso</name>
+    <text>Ogni giocatore scarta un qualsiasi numero di carte, poi pesca altrettante carte.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0072</id>
+    <name>Soldati Appiedati</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0073</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0074</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0075</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0076</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0077</id>
+    <name>Forked Lightning</name>
+    <text>Forked Lightning infligge 4 danni divisi a tua scelta tra una, due, o tre creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0078</id>
+    <name>Fruition</name>
+    <text>Guadagni 1 punto vita per ogni Foresta nel campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0079</id>
+    <name>Piovra Gigante</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0080</id>
+    <name>Ragno Gigante</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0081</id>
+    <name>Dono dell'Estate</name>
+    <text>Se un avversario ha sul campo di battaglia più terre di te, passa in rassegna il tuo grimorio per un massimo di tre carte Pianura, rivelale e aggiungile alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0082</id>
+    <name>Goblin Bully</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0083</id>
+    <name>Guerriero Gorilla</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0084</id>
+    <name>Scavatombe</name>
+    <text>Quando lo Scavatombe entra nel campo di battaglia, puoi riprendere in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0085</id>
+    <name>Orso Grizzly</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0086</id>
+    <name>Mano della Morte</name>
+    <text>Distruggi una creatura non nera bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0087</id>
+    <name>Mano della Morte</name>
+    <text>Distruggi una creatura non nera bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0088</id>
+    <name>Harsh Justice</name>
+    <text>Lancia Harsh Justice soltanto durante la dichiarazione degli attaccanti e soltanto se tu sei il giocatore in difesa.
+In questo turno, ogniqualvolta una creatura attaccante ti infligge danno, infligge un pari danno al suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0089</id>
+    <name>Highland Giant</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0090</id>
+    <name>Gigante delle Colline</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0091</id>
+    <name>Tartaruga Cornuta</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0092</id>
+    <name>Howling Fury</name>
+    <text>La creatura bersaglio prende +4/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0093</id>
+    <name>Ciclope Goffo</name>
+    <text>Il Ciclope Goffo non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0094</id>
+    <name>Hulking Goblin</name>
+    <text>Hulking Goblin non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0095</id>
+    <name>Uragano</name>
+    <text>L'Uragano infligge X danni a ogni creatura con volare e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0096</id>
+    <name>Ingenious Thief</name>
+    <text>Volare
+Quando Ingenious Thief entra nel campo di battaglia, guarda la mano di un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0097</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0098</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0099</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0100</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0101</id>
+    <name>Jungle Lion</name>
+    <text>Il Jungle Lion non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0102</id>
+    <name>Keen-Eyed Archers</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0103</id>
+    <name>King's Assassin</name>
+    <text>{T}: Distruggi una creatura bersaglio TAPpata. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0104</id>
+    <name>Cavaliere Ramingo</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0105</id>
+    <name>Last Chance</name>
+    <text>Gioca un altro turno dopo questo. All'inizio della sottofase finale di quel turno, perdi la partita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0106</id>
+    <name>Ascia di Lava</name>
+    <text>L'Ascia di Lava infligge 5 danni a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0107</id>
+    <name>Lava Flow</name>
+    <text>Distruggi una creatura o una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0108</id>
+    <name>Lizard Warrior</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0109</id>
+    <name>Caravella Portoghese</name>
+    <text>Quando la Caravella Portoghese entra nel campo di battaglia, rimanda la creatura bersaglio in mano al proprietario. [Oracle 1999/07/01]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0110</id>
+    <name>Mercenary Knight</name>
+    <text>Quando Mercenary Knight entra nel campo di battaglia, sacrificalo a meno che tu scarti una carta creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0111</id>
+    <name>Tritone dal Tridente Perlaceo</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0112</id>
+    <name>Mind Knives</name>
+    <text>L'avversario bersaglio scarta una carta a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0113</id>
+    <name>Cancrena della Mente</name>
+    <text>Un giocatore bersaglio scarta due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0114</id>
+    <name>Minotaur Warrior</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0115</id>
+    <name>Mobilize</name>
+    <text>STAPpa tutte le creature che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0116</id>
+    <name>Crescita Mostruosa</name>
+    <text>La creatura bersaglio prende +4/+4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0117</id>
+    <name>Crescita Mostruosa</name>
+    <text>La creatura bersaglio prende +4/+4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0118</id>
+    <name>Spiritello Lunare</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0119</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0120</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0121</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0122</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0123</id>
+    <name>Capra di Montagna</name>
+    <text>Passa-montagne.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0124</id>
+    <name>Ratti Sudici</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0125</id>
+    <name>Rifiuto Mistico</name>
+    <text>Neutralizza una magia creatura o stregoneria bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0126</id>
+    <name>Ordine Naturale</name>
+    <text>Come costo addizionale per lanciare l'Ordine Naturale, sacrifica una creatura verde.
+Passa in rassegna il tuo grimorio per una carta creatura verde e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0127</id>
+    <name>Sorgente Naturale</name>
+    <text>Il giocatore bersaglio guadagna 8 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0128</id>
+    <name>Nature's Cloak</name>
+    <text>Le creature verdi che controlli guadagnano passa-foreste fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0129</id>
+    <name>Sapere della Natura</name>
+    <text>Passa in rassegna il tuo grimorio per una carta Foresta e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0130</id>
+    <name>Nature's Ruin</name>
+    <text>Distruggi tutte le creature verdi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0131</id>
+    <name>Tempesta d'Aghi</name>
+    <text>La Tempesta d'Aghi infligge 4 danni ad ogni creatura con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0132</id>
+    <name>Noxious Toad</name>
+    <text>Quando il Noxious Toad viene messo in un cimitero dal campo di battaglia, ogni avversario scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0133</id>
+    <name>Omen</name>
+    <text>Guarda le prime tre carte del tuo grimorio, poi rimettile a posto in un qualsiasi ordine. Puoi rimescolare il tuo grimorio.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0134</id>
+    <name>Owl Familiar</name>
+    <text>Volare
+Quando Owl Familiar entra nel campo di battaglia, pesca una carta, poi scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0135</id>
+    <name>Pantere Guerriere</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0136</id>
+    <name>Sentiero di Pace</name>
+    <text>Distruggi una creatura bersaglio. Il proprietario di quella creatura guadagna 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0137</id>
+    <name>Personal Tutor</name>
+    <text>Passa in rassegna il tuo grimorio per una carta stregoneria e rivela quella carta. Rimescola il tuo grimorio, poi metti la carta in cima ad esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0138</id>
+    <name>Guerriero Fantasma</name>
+    <text>Il Guerriero Fantasma non può essere bloccato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0139</id>
+    <name>Pillaging Horde</name>
+    <text>Quando Pillaging Horde entra nel campo di battaglia, sacrificalo a meno che tu scarti una carta a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0140</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0141</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0142</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0143</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0144</id>
+    <name>Plant Elemental</name>
+    <text>Quando Plant Elemental entra nel campo di battaglia, sacrificalo a meno che tu sacrifichi una Foresta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0145</id>
+    <name>Forza Primordiale</name>
+    <text>Quando la Forza Primordiale entra nel campo di battaglia, sacrificala a meno che tu sacrifichi tre Foreste.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0146</id>
+    <name>Prosperità</name>
+    <text>Ogni giocatore pesca X carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0147</id>
+    <name>Piroclasma</name>
+    <text>Il Piroclasma infligge 2 danni a ogni creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0148</id>
+    <name>Pitone</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0149</id>
+    <name>Raging Cougar</name>
+    <text>Rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0150</id>
+    <name>Goblin Furioso</name>
+    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0151</id>
+    <name>Goblin Furioso</name>
+    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0152</id>
+    <name>Raging Minotaur</name>
+    <text>Rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0153</id>
+    <name>Pioggia di Sale</name>
+    <text>Distruggi due terre bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0154</id>
+    <name>Pioggia di Lacrime</name>
+    <text>Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0155</id>
+    <name>Risveglio dei Morti</name>
+    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0156</id>
+    <name>Silvantropi Sequoia</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0157</id>
+    <name>Unicorno Reale</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0158</id>
+    <name>Renewing Dawn</name>
+    <text>Guadagni 2 punti vita per ogni Montagna controllata da un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0159</id>
+    <name>Rowan Treefolk</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0160</id>
+    <name>Sacred Knight</name>
+    <text>Sacred Knight non può essere bloccato da creature nere e/o rosse.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0161</id>
+    <name>Nettare Sacro</name>
+    <text>Guadagni 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0162</id>
+    <name>Scorching Spear</name>
+    <text>Scorching Spear infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0163</id>
+    <name>Scorching Winds</name>
+    <text>Lancia Scorching Winds solo durante la dichiarazione degli attaccanti e solo se sei stato attaccato in questa sottofase.
+Scorching Winds infligge 1 danno ad ogni creatura attaccante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0164</id>
+    <name>Maresciallo Veterano</name>
+    <text>Ogniqualvolta il Maresciallo Veterano attacca, puoi TAPpare una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0165</id>
+    <name>Serpent Assassin</name>
+    <text>Quando Serpent Assassin entra nel campo di battaglia, puoi distruggere una creatura non nera bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0166</id>
+    <name>Guerriero Serpente</name>
+    <text>Quando il Guerriero Serpente entra nel campo di battaglia, perdi 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0167</id>
+    <name>Skeletal Crocodile</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0168</id>
+    <name>Skeletal Snake</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0169</id>
+    <name>Draghetto Azzannatore</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0170</id>
+    <name>Sorcerous Sight</name>
+    <text>Guarda la mano di un avversario bersaglio.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0171</id>
+    <name>Soul Shred</name>
+    <text>Soul Shred infligge 3 danni ad una creatura bersaglio non nera. Guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0172</id>
+    <name>Wurm Spinato</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0173</id>
+    <name>Spiritual Guardian</name>
+    <text>Quando Spiritual Guardian entra nel campo di battaglia, guadagni 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0174</id>
+    <name>Fulmine Tellurico</name>
+    <text>Il Fulmine Tellurico infligge danno pari al numero di Montagne che controlli a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0175</id>
+    <name>Spotted Griffin</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0176</id>
+    <name>Tigre in Agguato</name>
+    <text>La Tigre in Agguato non può essere bloccata da più di una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0177</id>
+    <name>Luce Stellare</name>
+    <text>Guadagni 3 punti vita per ogni creatura nera controllata da un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0178</id>
+    <name>Starlit Angel</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0179</id>
+    <name>Steadfastness</name>
+    <text>Le creature che controlli prendono +0/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0180</id>
+    <name>Stern Marshal</name>
+    <text>{T}: La creatura bersaglio prende +2/+2 fino alla fine del turno. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0181</id>
+    <name>Pioggia di Pietre</name>
+    <text>Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0182</id>
+    <name>Corvo delle Tempeste</name>
+    <text>Volare (Questa creatura non può essere bloccata tranne che dalle creature con volare o con raggiungere.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0183</id>
+    <name>Fioritura Estiva</name>
+    <text>Puoi giocare fino a 3 terre addizionali in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0184</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0185</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0186</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0187</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0188</id>
+    <name>Sylvan Tutor</name>
+    <text>Passa in rassegna il tuo grimorio per una carta creatura e rivela quella carta. Rimescola il tuo grimorio, poi metti quella carta in cima ad esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0189</id>
+    <name>Symbol of Unsummoning</name>
+    <text>Il proprietario riprende in mano una creatura bersaglio.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0190</id>
+    <name>Taunt</name>
+    <text>Durante il prossimo turno del giocatore bersaglio, ogni creatura che egli controlla ti attacca se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0191</id>
+    <name>Temporary Truce</name>
+    <text>Ogni giocatore può pescare fino a due carte. Per ogni carta inferiore a due che un giocatore pesca in questo modo, quel giocatore guadagna 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0192</id>
+    <name>Furto di Sogni</name>
+    <text>Pesca una carta per ogni creatura TAPpata controllata da un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0193</id>
+    <name>Thing from the Deep</name>
+    <text>Ogniqualvolta Thing from the Deep attacca, sacrificalo a meno che tu sacrifichi un'Isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0194</id>
+    <name>Thundering Wurm</name>
+    <text>Quando il Thundering Wurm entra nel campo di battaglia, sacrificalo a meno che tu scarti una carta terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0195</id>
+    <name>Cavallo del Tuono</name>
+    <text>Rapidità
+Quando il Cavallo del Tuono entra nel campo di battaglia, TAPpa tutte le altre creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0196</id>
+    <name>Flutto di Marea</name>
+    <text>TAPpa fino a tre creature bersaglio senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0197</id>
+    <name>Riflusso Temporale</name>
+    <text>Metti una creatura bersaglio in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0198</id>
+    <name>Tocco di Genio</name>
+    <text>Pesca due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0199</id>
+    <name>Treetop Defense</name>
+    <text>Gioca Treetop Defense solo durante la dichiarazione degli attaccanti e solo se sei stato attaccato in questo turno.
+Le creature che controlli guadagnano raggiungere fino alla fine del turno. (Possono bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0200</id>
+    <name>Undying Beast</name>
+    <text>Quando la Undying Beast viene messa in un cimitero dal campo di battaglia, metti la Undying Beast in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0201</id>
+    <name>Natura Incontaminata</name>
+    <text>Passa in rassegna il tuo grimorio per una carta terra base e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0202</id>
+    <name>Valorous Charge</name>
+    <text>Le creature bianche prendono +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0203</id>
+    <name>Vampiric Feast</name>
+    <text>Vampiric Feast infligge 4 danni ad una creatura o a un giocatore bersaglio e tu guadagni 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0204</id>
+    <name>Vampiric Touch</name>
+    <text>Vampiric Touch infligge 2 danni ad un avversario bersaglio e tu guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0205</id>
+    <name>Monaco Venerabile</name>
+    <text>Quando il Monaco Venerabile entra nel campo di battaglia, guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0206</id>
+    <name>Vendetta</name>
+    <text>Distruggi una creatura TAPpata bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0207</id>
+    <name>Virtue's Ruin</name>
+    <text>Distruggi tutte le creature bianche.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0208</id>
+    <name>Drago Vulcanico</name>
+    <text>Volare, rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0209</id>
+    <name>Martello Vulcanico</name>
+    <text>Il Martello Vulcanico infligge 3 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0210</id>
+    <name>Wall of Granite</name>
+    <text>Difensore (Questa creatura non può attaccare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0211</id>
+    <name>Muro di Spade</name>
+    <text>Difensore, volare (Questa creatura non può attaccare, e può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0212</id>
+    <name>Warrior's Charge</name>
+    <text>Le creature che controlli prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0213</id>
+    <name>Warrior's Charge</name>
+    <text>Le creature che controlli prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0214</id>
+    <name>Whiptail Wurm</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0215</id>
+    <name>Wicked Pact</name>
+    <text>Distruggi due creature non nere bersaglio. Perdi 5 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0216</id>
+    <name>Willow Dryad</name>
+    <text>Passa-foreste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0217</id>
+    <name>Draghetto del Vento</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0218</id>
+    <name>Venti di Cambiamento</name>
+    <text>Ogni giocatore rimescola le carte dalla propria mano nel proprio grimorio, poi pesca altrettante carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0219</id>
+    <name>Morsa dell'Inverno</name>
+    <text>Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0220</id>
+    <name>Sguardo Avvizzente</name>
+    <text>L'avversario bersaglio rivela la sua mano. Peschi una carta per ogni carta Foresta e ogni carta verde in essa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0221</id>
+    <name>Elfi dei Boschi</name>
+    <text>Quando gli Elfi dei Boschi entrano nel campo di battaglia, passa in rassegna il tuo grimorio per una carta Foresta e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>POR0222</id>
+    <name>Ira di Dio</name>
+    <text>Distruggi tutte le creature. Non possono essere rigenerate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

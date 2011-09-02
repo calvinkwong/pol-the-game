@@ -1,0 +1,1398 @@
+<cards name="Vespro">
+  <item>
+    <id>EVE0001</id>
+    <name>Arconte della Giustizia</name>
+    <text>Volare
+Quando l'Arconte della Giustizia viene messo in un cimitero dal  campo di battaglia, esilia un permanente bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0002</id>
+    <name>Trapper di Ballynock</name>
+    <text>{T}: TAPpa una creatura bersaglio.
+Ogniqualvolta lanci una magia bianca, puoi STAPpare la Trapper di Ballynock.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0003</id>
+    <name>Arruolamento del Cenn</name>
+    <text>Metti sul campo di battaglia due pedine creatura Soldato Kithkin 1/1 bianche.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0004</id>
+    <name>Orizzonti Infiniti</name>
+    <text>Quando gli Orizzonti Infiniti entrano nel campo di battaglia, passa in rassegna il tuo grimorio per un qualsiasi numero di carte Pianura e esiliale. Poi rimescola il tuo grimorio.
+All'inizio del tuo mantenimento, puoi aggiungere alla tua mano una carta che possiedi esiliata con gli Orizzonti Infiniti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0005</id>
+    <name>Sopportare</name>
+    <text>Previeni tutto il danno che verrebbe inflitto a te e ai permanenti che controlli in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0006</id>
+    <name>Guizzo Incorporeo</name>
+    <text>Volare
+Quando il Guizzo Incorporeo entra nel campo di battaglia, esilia un altro permanente bersaglio. Rimetti quella carta nel campo di battaglia sotto il controllo del suo proprietario all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0007</id>
+    <name>Sepoltura Consacrata</name>
+    <text>Metti tutte le creature in fondo ai grimori dei loro proprietari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0008</id>
+    <name>Spargimagia Kithkin</name>
+    <text>Volare
+{1}{W}, Sacrifica la Spargimagia Kithkin: Distruggi un incantesimo bersaglio.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0009</id>
+    <name>Zelota Kithkin</name>
+    <text>Quando lo Zelota Kithkin entra nel campo di battaglia, guadagni 1 punto vita per ogni permanente nero e/o rosso controllato da un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0010</id>
+    <name>Luce Interiore</name>
+    <text>Cromia - Ogni creatura che controlli prende +1/+1 per ogni simbolo di mana bianco nel suo costo di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0011</id>
+    <name>Girifalco Fidato</name>
+    <text>Difensore, volare
+Ogniqualvolta lanci una magia bianca, il Girifalco Fidato perde difensore fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0012</id>
+    <name>Segnalatrice della Pattuglia</name>
+    <text>{1}{W}, {STAP}: Metti sul campo di battaglia una pedina creatura Soldato Kithkin 1/1 bianca. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0013</id>
+    <name>Beatitudine Distesa</name>
+    <text>Incanta creatura
+La creatura incantata non può attaccare o bloccare.
+All'inizio del tuo mantenimento, puoi guadagnare 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0014</id>
+    <name>Spirito del Focolare</name>
+    <text>Volare
+Non puoi essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0015</id>
+    <name>Pastorella di Pecolepri</name>
+    <text>Cromia - Quando la Pastorella di Pecolepri entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Capra 0/1 bianca per ogni simbolo di mana bianco nei costi di mana dei permanenti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0016</id>
+    <name>Spirito di Sutura</name>
+    <text>Volare
+{B|N}{B|N}{B|N}: Rigenera una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0017</id>
+    <name>Talento Esiliante</name>
+    <text>Fino alla fine del turno, una creatura bersaglio ha "{T}: Fai tornare un permanente non terra bersaglio in mano al suo proprietario".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0018</id>
+    <name>Razziatori di Bottini</name>
+    <text>All'inizio del tuo mantenimento, il proprietario riprende in mano un permanente che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0019</id>
+    <name>Frattura Onirica</name>
+    <text>Neutralizza una magia bersaglio. Il suo controllore pesca una carta.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0020</id>
+    <name>Ladra di Sogni</name>
+    <text>Volare
+Quando la Ladra di Sogni entra nel campo di battaglia, pesca una carta se hai lanciato un'altra magia blu in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0021</id>
+    <name>Tintura Illusoria</name>
+    <text>Cambia il testo di una magia o di un permanente bersaglio sostituendo tutte le istanze di una parola colore con un'altra.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0022</id>
+    <name>Arcimaga di Gola Elendra</name>
+    <text>Volare
+{U}, Sacrifica l'Arcimaga di Gola Elendra: Neutralizza una magia non creatura bersaglio.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila nel campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0023</id>
+    <name>Pensieri Oziosi</name>
+    <text>{2}: Pesca una carta se non hai carte in mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0024</id>
+    <name>Spiritello Indaco</name>
+    <text>Volare
+{U}: Un permanente bersaglio diventa blu in aggiunta agli altri suoi colori fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0025</id>
+    <name>Inondare</name>
+    <text>Fai tornare tutte le creature non blu in mano ai loro proprietari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0026</id>
+    <name>Merrow Levitante</name>
+    <text>{T}: Una creatura bersaglio ha volare fino alla fine del turno.
+Ogniqualvolta lanci una magia blu, puoi STAPpare il Merrow Levitante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0027</id>
+    <name>Grazia di Oona</name>
+    <text>Un giocatore bersaglio pesca una carta.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0028</id>
+    <name>Abolitore dalla Pinna Tagliente</name>
+    <text>{1}{U}, {T}: Il proprietario riprende in mano una creatura bersaglio con un segnalino su di sé.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0029</id>
+    <name>Macinapsiche</name>
+    <text>Cromia - Rivela le prime dieci carte del tuo grimorio. Per ogni simbolo di mana blu nei costi di mana delle carte rivelate, un avversario bersaglio mette la prima carta del suo grimorio nel suo cimitero. Poi metti le carte rivelate in questo modo in fondo al tuo grimorio in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0030</id>
+    <name>Squartiglio</name>
+    <text>Volare
+{L|R}: Lo Squartiglio prende +1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0031</id>
+    <name>Sferzascia</name>
+    <text>Ogniqualvolta un permanente che controlli diventa STAPpato, lo Sferzascia prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0032</id>
+    <name>Ipnotizzatore Selvaggio</name>
+    <text>{T}: Una creatura rossa o verde bersaglio prende -2/-0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0033</id>
+    <name>Cenerina, l'Estintrice</name>
+    <text>Ogniqualvolta Cenerina, l'Estintrice infligge danno da combattimento a un giocatore, scegli una creatura bersaglio controllata da quel giocatore. Quel giocatore sacrifica quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0034</id>
+    <name>Ghoul di Bosco Scricchiolante</name>
+    <text>{N|V}{N|V}: Esilia una carta bersaglio da un cimitero. Guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0035</id>
+    <name>Ceneri Sgretolanti</name>
+    <text>All'inizio del tuo mantenimento, distruggi una creatura bersaglio con un segnalino -1/-1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0036</id>
+    <name>Torturatore Persistente</name>
+    <text>Paura
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila nel campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0037</id>
+    <name>Merrow Masticaossa</name>
+    <text>{T}: Un giocatore bersaglio esilia una carta dal suo cimitero.  
+Ogniqualvolta lanci una magia nera, puoi STAPpare il Merrow Masticaossa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0038</id>
+    <name>Necroide</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Ogniqualvolta una creatura con un segnalino -1/-1 controllata da un avversario viene messa in un cimitero, puoi rimettere quella carta nel campo di battaglia sotto il tuo controllo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0039</id>
+    <name>Spettro dell'Ago</name>
+    <text>Volare
+Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Ogniqualvolta lo Spettro dell'Ago infligge danno da combattimento a un giocatore, quel giocatore scarta altrettante carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0040</id>
+    <name>Incursione da Incubo</name>
+    <text>Passa in rassegna il grimorio di un giocatore bersaglio per trovare fino a X carte, dove X è il numero di Paludi che controlli, e esiliale. Poi quel giocatore rimescola il suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0041</id>
+    <name>Crimine del Corvo</name>
+    <text>Un giocatore bersaglio scarta una carta.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0042</id>
+    <name>Macellaio Rovente</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0043</id>
+    <name>Imp della Fuliggine</name>
+    <text>Volare
+Ogniqualvolta un giocatore lancia una magia non nera, quel giocatore perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0044</id>
+    <name>Mietere Anime</name>
+    <text>Distruggi una creatura non verde bersaglio. Il suo controllore perde 3 punti vita se hai lanciato un'altra magia nera in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0045</id>
+    <name>Spegnianime</name>
+    <text>Quando gli Spegnianime entrano nel campo di battaglia, metti un segnalino -1/-1 su ogni creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0046</id>
+    <name>Aspirare la Vita</name>
+    <text>Un giocatore bersaglio perde 2 punti vita e tu guadagni 2 punti vita.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0047</id>
+    <name>Flagello di Talara</name>
+    <text>Un avversario bersaglio rivela la sua mano. Tu scegli una carta creatura verde o bianca da quella mano. Guadagni punti vita pari alla costituzione di quella carta creatura, poi quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0048</id>
+    <name>Cacciatore Ombroso</name>
+    <text>Cromia - La forza e la costituzione del Cacciatore Ombroso sono pari al numero di simboli di mana nero nei costi di mana delle carte nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0049</id>
+    <name>Reazione Caotica</name>
+    <text>La Reazione Caotica infligge danno a un giocatore bersaglio pari al doppio del numero di permanenti bianchi e/o blu che controlla.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0050</id>
+    <name>Piromante Cinereo</name>
+    <text>{T}: Il Piromante Cinereo infligge 1 danno a un giocatore bersaglio.
+Ogniqualvolta lanci una magia rossa, puoi STAPpare il Piromante Cinereo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0051</id>
+    <name>Duergar Guardiano delle Caverne</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+{R|B}: Il Duergar Guardiano delle Caverne prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0052</id>
+    <name>Bombardamento Infuocato</name>
+    <text>Cromia - {2}, Sacrifica una creatura: Il Bombardamento Infuocato infligge danno a una creatura o a un giocatore bersaglio pari al numero di simboli di mana rosso nel costo di mana della creatura sacrificata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0053</id>
+    <name>Stoccata Fiammeggiante</name>
+    <text>La Stoccata Fiammeggiante infligge 1 danno a una creatura o a un giocatore bersaglio.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0054</id>
+    <name>Bullo con Ascia</name>
+    <text>{2}{R}, {T}, Metti un segnalino -1/-1 su una creatura che controlli: Il Bullo con Ascia infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0055</id>
+    <name>Scorticatore Odioso</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+{2}{R}, {STAP}: Lo Scorticatore Odioso infligge danno pari alla sua forza a una creatura o a un giocatore bersaglio. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0056</id>
+    <name>Cinereo Sferza del Cuore</name>
+    <text>Rapidità
+Cromia - Quando il Cinereo Sferza del Cuore entra nel campo di battaglia, prende +X/+0 fino alla fine del turno, dove X è il numero di simboli di mana rosso nei costi di mana dei permanenti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0057</id>
+    <name>Gigante Irruento</name>
+    <text>Rapidità
+Il Gigante Irruento entra nel campo di battaglia con due segnalini -1/-1 a meno che tu non abbia lanciato un'altra magia rossa in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0058</id>
+    <name>Gigante Costretto</name>
+    <text>Travolgere
+TAPpa una creatura rossa STAPpata che controlli diversa dal Gigante Costretto: Il Gigante Costretto prende +X/+0 fino alla fine del turno, dove X è la forza della creatura TAPpata in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0059</id>
+    <name>Sciamana delle Atrocità</name>
+    <text>Cromia - Quando la Sciamana delle Atrocità entra nel campo di battaglia, infligge danno a una creatura bersaglio pari al numero di simboli di mana rosso nei costi di mana dei permanenti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0060</id>
+    <name>Getto Perforante</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Il Getto Perforante infligge 3 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0061</id>
+    <name>Riaccendere Fiamma</name>
+    <text>Riaccendere Fiamma infligge 4 danni a una creatura o a un giocatore bersaglio.
+All'inizio del tuo mantenimento, se un avversario non ha carte in mano, puoi riprendere in mano Riaccendere Fiamma dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0062</id>
+    <name>Fustigatore con Stigma</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Ogniqualvolta il Fustigatore con Stigma infligge danno a un giocatore, quel giocatore non può guadagnare punti vita per il resto della partita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0063</id>
+    <name>Fulminafuria</name>
+    <text>Rapidità
+Il Fulminafuria ha travolgere fintanto che ha un segnalino -1/-1.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0064</id>
+    <name>Reclutamento Coatto</name>
+    <text>Prendi il controllo di una creatura bersaglio fino alla fine del turno. STAPpa quella creatura. Prende +X/+0 e guadagna rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0065</id>
+    <name>Ouphe del Nido</name>
+    <text>Sacrifica gli Ouphe del Nido: Gli Ouphe del Nido infliggono danno pari alla loro forza a una creatura bersaglio con volare.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia , se non aveva segnalini -1/-1, rimettila nel campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0066</id>
+    <name>Custode dei Fiori</name>
+    <text>{T}: Per ogni colore tra i permanenti che controlli, aggiungi un mana di quel colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0067</id>
+    <name>Wurm di Valle Oscura</name>
+    <text>Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0068</id>
+    <name>Pinnacolo a Spirale</name>
+    <text>Velo
+{X}: Metti X segnalini torre sul Pinnacolo a Spirale.
+All'inizio del tuo mantenimento, se ci sono 100 o più segnalini torre sul Pinnacolo a Spirale, vinci la partita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0069</id>
+    <name>Gigante Bevipalude</name>
+    <text>Quando il Gigante Bevipalude entra nel campo di battaglia, distruggi un'Isola o una Palude bersaglio controllata da un avversario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0070</id>
+    <name>Mostrificare</name>
+    <text>Una creatura bersaglio prende +4/+4 fino alla fine del turno.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0071</id>
+    <name>Sentinella delle Ortiche</name>
+    <text>La Sentinella delle Ortiche non STAPpa durante lo STAP del suo controllore.
+Ogniqualvolta lanci una magia verde, puoi STAPpare la Sentinella delle Ortiche.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0072</id>
+    <name>Banchetto Fosforescente</name>
+    <text>Cromia - Rivela un qualsiasi numero di carte dalla tua mano. Guadagni 2 punti vita per ogni simbolo di mana verde nel costo di mana di quelle carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0073</id>
+    <name>Nodo Primario</name>
+    <text>Travolgere
+Cromia - La forza e la costituzione del Nodo Primario sono pari al numero di simboli di mana verde nei costi di mana dei permanenti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0074</id>
+    <name>Forza Regale</name>
+    <text>Quando la Forza Regale entra nel campo di battaglia, pesca una carta per ogni creatura verde che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0075</id>
+    <name>Concepimento Selvaggio</name>
+    <text>Metti sul campo di battaglia una pedina creatura Bestia 3/3 verde.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0076</id>
+    <name>Spriggan Vorticante</name>
+    <text>{V|L}{V|L}: Una creatura bersaglio che controlli diventa di uno o più colori a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0077</id>
+    <name>Battaglione di Talara</name>
+    <text>Travolgere
+Lancia il Battaglione di Talara solo se hai lanciato un'altra magia verde in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0078</id>
+    <name>Silvantropo Coltivatore</name>
+    <text>Quando il Silvantropo Coltivatore entra nel campo di battaglia, puoi riprendere in mano fino a due carte terra bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0079</id>
+    <name>Squartatore delle Lame Gemelle</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+{1}{G}: Lo Squartatore delle Lame Gemelle prende +2/+2 fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0080</id>
+    <name>Anziano Rami di Vimini</name>
+    <text>L'Anziano Rami di Vimini entra nel campo di battaglia con un segnalino -1/-1.
+{G}, Rimuovi un segnalino -1/-1 dall'Anziano Rami di Vimini: Distruggi un artefatto o un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0081</id>
+    <name>Foschia di Ali di Pipistrello</name>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno se è stato speso {W} per lanciare la Foschia di Ali di Pipistrello. Ogni giocatore perde 1 punto vita per ogni creatura attaccante che controlla se è stato speso {B} per lanciare la Foschia di Ali di Pipistrello. (Compi entrambe le azioni se è stato speso {W}{B}.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0082</id>
+    <name>Invitare Apparizione</name>
+    <text>Esilia una carta bersaglio da un cimitero. Metti sul campo di battaglia una pedina creatura Spirito 1/1 bianca e nera con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0083</id>
+    <name>Fantasma Insanguinato</name>
+    <text>Volare
+Il Fantasma Insanguinato entra nel campo di battaglia con un segnalino -1/-1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0084</id>
+    <name>Foschia del Calderone</name>
+    <text>Scegli un qualsiasi numero di creature bersaglio. Ognuna di quelle creature ha persistere fino alla fine del turno. (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0085</id>
+    <name>Vassallo Latore di Morte</name>
+    <text>Le altre creature bianche che controlli prendono +1/+1.
+Le altre creature nere che controlli prendono +1/+1.
+Ogniqualvolta lanci una magia bianca, puoi TAPpare una creatura bersaglio.
+Ogniqualvolta lanci una magia nera, puoi distruggere una creatura bersaglio se è TAPpata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0086</id>
+    <name>Divinità dell'Orgoglio</name>
+    <text>Volare, legame vitale
+La Divinità dell'Orgoglio prende +4/+4 fintanto che hai 25 o più punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0087</id>
+    <name>Lama della Divinità</name>
+    <text>Incanta creatura
+Fintanto che la creatura incantata è bianca, prende +1/+2.
+Fintanto che la creatura incantata è nera, prende +2/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0088</id>
+    <name>Passero Perenne</name>
+    <text>Volare
+Il Passero Perenne prende +2/+2 per ogni Aura ad esso assegnata.
+{X}{B|N}{B|N}: Rimetti nel campo di battaglia il Passero Perenne dal tuo cimitero. Puoi mettere nel campo di battaglia dalla tua mano una carta Aura con costo di mana convertito pari o inferiore a X assegnata al Passero Perenne. Se non lo fai, esilia il Passero Perenne.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0089</id>
+    <name>Gwyllion Maga Ambulante</name>
+    <text>Quando la Gwyllion Maga Ambulante entra nel campo di battaglia, se controlli due o più Pianure, puoi mettere sul campo di battaglia una pedina creatura Soldato Kithkin 1/1 bianca.
+Quando la Gwyllion Maga Ambulante entra nel campo di battaglia, se controlli due o più Paludi, puoi mettere un segnalino -1/-1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0090</id>
+    <name>Gwyllion Mietitrice</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0091</id>
+    <name>Mimic Notturno</name>
+    <text>Ogniqualvolta lanci una magia bianca e nera, il Mimic Notturno diventa 4/4 e ha volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0092</id>
+    <name>Gwyllion Morsicante</name>
+    <text>Legame vitale</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0093</id>
+    <name>Rinascita di Pirro</name>
+    <text>Ogni giocatore rimette sul campo di battaglia ogni carta creatura dal proprio cimitero con un segnalino -1/-1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0094</id>
+    <name>Apparizione Inquieta</name>
+    <text>{B|N}{B|N}{B|N}: L'Apparizione Inquieta prende +3/+3 fino alla fine del turno.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0095</id>
+    <name>Cavaliere della Luna Piena</name>
+    <text>Protezione dal bianco e dal nero
+{B|N}: Il Cavaliere della Luna Piena ha volare fino alla fine del turno.
+{B|N}: Il Cavaliere della Luna Piena ha attacco improvviso fino alla fine del turno.
+{B|N}{B|N}: Il Cavaliere della Luna Piena prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0096</id>
+    <name>Disfare</name>
+    <text>Esilia una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0097</id>
+    <name>Cucciolo Vorace</name>
+    <text>Legame vitale
+Il Cucciolo Vorace entra nel campo di battaglia con quattro segnalini -1/-1.
+Ogniqualvolta lanci una magia bianca, rimuovi un segnalino -1/-1 dal Cucciolo Vorace.
+Ogniqualvolta lanci una magia nera, rimuovi un segnalino -1/-1 dal Cucciolo Vorace.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0098</id>
+    <name>Invocare il Solcacielo</name>
+    <text>Metti sul campo di battaglia una pedina creatura Elementale 5/5 blu e rossa con volare.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0099</id>
+    <name>Potere del Dominus</name>
+    <text>Incanta creatura
+Fintanto che la creatura incantata è blu, prende +1/+1 e ha velo. (Non può essere bersaglio di magie o abilità.)
+Fintanto che la creatura incantata è rossa, prende +1/+1 e ha rapidità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0100</id>
+    <name>Alone Crepitante</name>
+    <text>{L|R}{L|R}, {T}, TAPpa due creature rosse STAPpate che controlli: L'Alone Crepitante infligge 3 danni a una creatura o a un giocatore bersaglio.
+{L|R}{L|R}, {STAP}, STAPpa due creature blu TAPpate che controlli: Fai tornare una creatura bersaglio in mano al suo proprietario. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0101</id>
+    <name>Puca del Dirupo</name>
+    <text>{L|R}: Scambia la forza e la costituzione del Puca del Dirupo fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0102</id>
+    <name>Dominus della Fedeltà</name>
+    <text>Volare
+All'inizio del tuo mantenimento, puoi prendere il controllo di un permanente bersaglio fino alla fine del turno. Se lo fai, STAPpalo e ha rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0103</id>
+    <name>Rivoltato</name>
+    <text>Scambia la forza e la costituzione di una creatura bersaglio fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0104</id>
+    <name>Vassallo Distruggi Mente</name>
+    <text>Le altre creature blu che controlli prendono +1/+1.
+Le altre creature rosse che controlli prendono +1/+1.
+{L|R}{L|R}{L|R}{L|R}: Puoi mettere sul campo di battaglia una carta creatura blu o rossa dalla tua mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0105</id>
+    <name>Lucidare a Specchio</name>
+    <text>{1}{L|R}{L|R}: Copia una magia istantaneo o stregoneria bersaglio che ti bersaglia. Puoi scegliere nuovi bersagli per la copia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0106</id>
+    <name>Noggle Bandito</name>
+    <text>Il Noggle Bandito non può essere bloccato tranne che da creature con difensore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0107</id>
+    <name>Noggle Sfasciaponti</name>
+    <text>Quando il Noggle Sfasciaponti entra nel campo di battaglia, fai tornare una terra che controlli in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0108</id>
+    <name>Noggle Mago Ambulante</name>
+    <text>Quando il Noggle Mago Ambulante entra nel campo di battaglia, se controlli due o più Isole, puoi TAPpare due permanenti bersaglio.
+Quando il Noggle Mago Ambulante entra nel campo di battaglia, se controlli due o più Montagne, puoi fare infliggere dal Noggle Mago Ambulante 2 danni a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0109</id>
+    <name>Noggle Saccheggiatore</name>
+    <text>Quando il Noggle Saccheggiatore entra nel campo di battaglia, ogni giocatore pesca due carte, poi scarta una carta a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0110</id>
+    <name>Nucklavee</name>
+    <text>Quando il Nucklavee entra nel campo di battaglia, puoi riprendere in mano una carta stregoneria rossa bersaglio dal tuo cimitero.
+Quando il Nucklavee entra nel campo di battaglia, puoi riprendere in mano una carta istantaneo blu bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0111</id>
+    <name>Mimic della Cascata</name>
+    <text>Ogniqualvolta lanci una magia blu e rossa, il Mimic della Cascata diventa 3/3 e non può essere bloccato fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0112</id>
+    <name>Cucciolo Pungente</name>
+    <text>Il Cucciolo Pungente entra nel campo di battaglia con quattro segnalini -1/-1.
+{L|R}: Una creatura bersaglio non può bloccare il Cucciolo Pungente in questo turno.
+Ogniqualvolta lanci una magia blu, rimuovi un segnalino -1/-1 dal Cucciolo Pungente.
+Ogniqualvolta lanci una magia rossa, rimuovi un segnalino -1/-1 dal Cucciolo Pungente.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0113</id>
+    <name>Saltafossi</name>
+    <text>{L|R}: Il Saltafossi guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0114</id>
+    <name>Assalto Impressionante</name>
+    <text>Le creature controllate dai tuoi avversari prendono -1/-0 fino alla fine del turno se è stato speso {U} per lanciare l'Assalto Impressionante e le creature che controlli prendono +1/+0 fino alla fine del turno se è stato speso {R} per lanciarlo. (Compi entrambe le azioni se è stato speso {U}{R}.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0115</id>
+    <name>Abominio Canceroso</name>
+    <text>Mentre l'Abominio Canceroso entra nel campo di battaglia, scegli un avversario. L'Abominio Canceroso entra nel campo di battaglia con un segnalino -1/-1 per ogni creatura controllata da quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0116</id>
+    <name>Sete Cancerosa</name>
+    <text>Se è stato speso {B} per lanciare la Sete Cancerosa, puoi far prendere -3/-3 a una creatura bersaglio fino alla fine del turno. Se è stato speso {G} per lanciare la Sete Cancerosa, puoi far prendere +3/+3 a una creatura bersaglio fino alla fine del turno. (Compi entrambe le azioni se è stato speso {B}{G}.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0117</id>
+    <name>Vassallo di Bosco Scricchiolante</name>
+    <text>Le altre creature nere che controlli prendono +1/+1.
+Le altre creature verdi che controlli prendono +1/+1.
+All'inizio del tuo mantenimento, puoi mettere sul campo di battaglia una pedina creatura Verme 1/1 nera e verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0118</id>
+    <name>Divinità delle Cicatrici</name>
+    <text>Travolgere
+La Divinità delle Cicatrici entra nel campo di battaglia con due segnalini -1/-1.
+{N|V}, Rimuovi un segnalino -1/-1 dalla Divinità delle Cicatrici: Rigenera la Divinità delle Cicatrici.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0119</id>
+    <name>Strega Profanatrice</name>
+    <text>Quando la Strega Profanatrice entra nel campo di battaglia, riprendi in mano dal tuo cimitero la carta creatura con la forza maggiore. Se due o più carte hanno entrambe la forza maggiore, scegline una.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0120</id>
+    <name>Fauce Distruttiva</name>
+    <text>Travolgere
+All'inizio del tuo mantenimento, sacrifica una creatura. Guadagni punti vita pari alla costituzione di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0121</id>
+    <name>Prosciugare il Pozzo</name>
+    <text>Distruggi una terra bersaglio. Guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0122</id>
+    <name>Dono della Divinità</name>
+    <text>Incanta creatura
+Fintanto che la creatura incantata è nera, prende +1/+1 e ha tocco letale.
+Fintanto che la creatura incantata è verde, prende +1/+1 e tutte le creature in grado di bloccarla lo fanno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0123</id>
+    <name>Strega Maga Ambulante</name>
+    <text>Quando la Strega Maga Ambulante entra nel campo di battaglia, se controlli due o più Paludi, puoi fare scartare una carta a un giocatore bersaglio.
+Quando la Strega Maga Ambulante entra nel campo di battaglia, se controlli due o più Foreste, puoi mettere una carta bersaglio dal tuo cimitero in cima al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0124</id>
+    <name>Cucciolo Fastidioso</name>
+    <text>Il Cucciolo Fastidioso entra nel campo di battaglia con quattro segnalini -1/-1.
+Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Ogniqualvolta lanci una magia nera, rimuovi un segnalino -1/-1 dal Cucciolo Fastidioso.
+Ogniqualvolta lanci una magia verde, rimuovi un segnalino -1/-1 dal Cucciolo Fastidioso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0125</id>
+    <name>Trow Ripugnante</name>
+    <text>{1}{N|V}: Rigenera il Trow Ripugnante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0126</id>
+    <name>Puntaculei</name>
+    <text>{N|V}, Rimuovi un segnalino -1/-1 da una creatura che controlli: Il Puntaculei prende +3/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0127</id>
+    <name>Trow dagli Artigli Strazianti</name>
+    <text>Avvizzire (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila nel campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0128</id>
+    <name>Talea di Colfenor</name>
+    <text>La Talea di Colfenor è indistruttibile.
+Ogniqualvolta la Talea di Colfenor attacca, rivela la prima carta del tuo grimorio. Se è una carta creatura, guadagni punti vita pari alla costituzione di quella carta, perdi punti vita pari alla sua forza, poi aggiungila alla tua mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0129</id>
+    <name>Strega Cacciatrice</name>
+    <text>Passa-Paludi, passa-Foreste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0130</id>
+    <name>Mimic Silvestre</name>
+    <text>Ogniqualvolta lanci una magia nera e verde, il Mimic Silvestre diventa 4/5 e guadagna avvizzire fino alla fine del turno. (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0131</id>
+    <name>Raccolto del Verme</name>
+    <text>Metti sul campo di battaglia una pedina creatura Verme 1/1 nera e verde per ogni carta terra nel tuo cimitero.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0132</id>
+    <name>Vassallo della Pira</name>
+    <text>Le altre creature rosse che controlli prendono +1/+1.
+Le altre creature bianche che controlli prendono +1/+1.
+Ogniqualvolta lanci una magia rossa, il Vassallo della Pira infligge 3 danni a un giocatore bersaglio.
+Ogniqualvolta lanci una magia bianca, guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0133</id>
+    <name>Mimic del Cancello</name>
+    <text>Ogniqualvolta lanci una magia rossa e bianca, il Mimic del Cancello diventa 4/2 e ha attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0134</id>
+    <name>Cucciolo Belligerante</name>
+    <text>Attacco improvviso
+Il Cucciolo Belligerante entra nel campo di battaglia con quattro segnalini -1/-1.
+Ogniqualvolta lanci una magia rossa, rimuovi un segnalino -1/-1 dal Cucciolo Belligerante.
+Ogniqualvolta lanci una magia bianca, rimuovi un segnalino -1/-1 dal Cucciolo Belligerante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0135</id>
+    <name>Doppia Fenditura</name>
+    <text>Una creatura bersaglio ha doppio attacco fino alla fine del turno. (Infligge sia danno da combattimento da attacco improvviso che danno da combattimento regolare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0136</id>
+    <name>Duergar Assalitore</name>
+    <text>Sacrifica il Duergar Assalitore: Il Duergar Assalitore infligge 1 danno a una creatura attaccante o bloccante bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0137</id>
+    <name>Duergar Mago Ambulante</name>
+    <text>Quando il Duergar Mago Ambulante entra nel campo di battaglia, se controlli due o più Montagne, puoi distruggere un artefatto bersaglio.
+Quando il Duergar Mago Ambulante entra nel campo di battaglia, se controlli due o più Pianure, puoi distruggere un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0138</id>
+    <name>Duergar Capitano di Miniera</name>
+    <text>{1}{R|B}, {STAP}: Le creature attaccanti prendono +1/+0 fino alla fine del turno. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0139</id>
+    <name>Figura del Destino</name>
+    <text>{R|B}: La Figura del Destino diventa uno Spirito Kithkin 2/2.
+{R|B}{R|B}{R|B}: Se la Figura del Destino è uno Spirito, diventa un Guerriero Spirito Kithkin 4/4.
+{R|B}{R|B}{R|B}{R|B}{R|B}{R|B}: Se la Figura del Destino è un Guerriero, diventa un Avatar Guerriero Spirito Kithkin 8/8 con volare e attacco improvviso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0140</id>
+    <name>Fuoco a Volontà</name>
+    <text>Fuoco a Volontà infligge 3 danni suddivisi a tua scelta tra un qualsiasi numero di creature attaccanti o bloccanti bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0141</id>
+    <name>Hobgoblin del Focolare</name>
+    <text>Doppio attacco</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0142</id>
+    <name>Dragone Hobgoblin</name>
+    <text>Volare, attacco improvviso</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0143</id>
+    <name>Controllo Lunare</name>
+    <text>Un giocatore bersaglio non può giocare carte terra in questo turno se è stato speso {R} per lanciare il Controllo Lunare e non può lanciare carte creatura in questo turno se è stato speso {W} per lanciarlo. (Compi entrambe le azioni se è stato speso {R}{W}.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0144</id>
+    <name>Nobile di Guerra</name>
+    <text>Volare
+Le creature attaccanti che controlli prendono +2/+0.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0145</id>
+    <name>Rivolta degli Hobgoblin</name>
+    <text>Quando la Rivolta degli Hobgoblin entra nel campo di battaglia, puoi pagare {X}. Se lo fai, metti sul campo di battaglia X pedine creatura Soldato Goblin 1/1 rosse e bianche.
+{R|B}: Le creature rosse e le creature bianche che controlli hanno attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0146</id>
+    <name>Sferza del Nobile</name>
+    <text>Incanta creatura
+Fintanto che la creatura incantata è rossa, prende +1/+1 e ha "{R|B}: Questa creatura prende +1/+0 fino alla fine del turno".
+Fintanto che la creatura incantata è bianca, prende +1/+1 e ha legame vitale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0147</id>
+    <name>Giumenta Maligna</name>
+    <text>Ogniqualvolta viene inflitto danno alla Giumenta Maligna, essa infligge altrettanti danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0148</id>
+    <name>Ondate di Aggressione</name>
+    <text>STAPpa tutte le creature che hanno attaccato in questo turno. Dopo questa fase principale, c'è una fase di combattimento addizionale seguita da una fase principale addizionale.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0149</id>
+    <name>Selkie dagli Occhi di Ghiaccio</name>
+    <text>Passa-isole
+Ogniqualvolta la Selkie dagli Occhi di Ghiaccio infligge danno da combattimento a un giocatore, puoi pescare altrettante carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0150</id>
+    <name>Favola del Lupo e del Gufo</name>
+    <text>Ogniqualvolta lanci una magia verde, puoi mettere sul campo di battaglia una pedina creatura Lupo 2/2 verde.
+Ogniqualvolta lanci una magia blu, puoi mettere sul campo di battaglia una pedina creatura Uccello 1/1 blu con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0151</id>
+    <name>Favore dell'Eminenza</name>
+    <text>Incanta creatura
+Fintanto che la creatura incantata è verde, prende +1/+1 e ha cautela.
+Fintanto che la creatura incantata è blu, prende +1/+1 e ha volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0152</id>
+    <name>Piccolo Doratore</name>
+    <text>{2}{V|L}, {STAP}: Per ogni segnalino su un permanente bersaglio, metti un altro di quei segnalini su quel permanente. ({STAP} è il simbolo di STAP.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0153</id>
+    <name>Kelpie al Pascolo</name>
+    <text>{V|L}, Sacrifica il Kelpie al Pascolo: Metti una carta bersaglio da un cimitero in fondo al grimorio del suo proprietario.
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila nel campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0154</id>
+    <name>Assalitore di Terricoli</name>
+    <text>{V|L}: L'Assalitore di Terricoli prende +1/+3 e ha volare fino alla fine del turno. Attiva questa abilità solo una volta per turno e solo se un avversario controlla una creatura con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0155</id>
+    <name>Capovolgere il Cielo</name>
+    <text>Le creature controllate dai tuoi avversari perdono volare fino alla fine del turno se è stato speso {G} per lanciare Capovolgere il Cielo e le creature che controlli hanno volare fino alla fine del turno se è stato speso {U} per lanciarlo. (Compi entrambe le azioni se è stato speso {G}{U}.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0156</id>
+    <name>Vassallo Demone Oscuro</name>
+    <text>Le altre creature verdi che controlli prendono +1/+1.
+Le altre creature blu che controlli prendono +1/+1.
+STAPpa tutte le creature verdi e/o blu che controlli durante lo STAP di ogni altro giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0157</id>
+    <name>Eminenza del Mito</name>
+    <text>La forza e la costituzione dell'Eminenza del Mito sono pari al numero di carte nella tua mano.
+All'inizio della tua acquisizione, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0158</id>
+    <name>Selkie Maga Ambulante</name>
+    <text>Quando la Selkie Maga Ambulante entra nel campo di battaglia, se controlli due o più Foreste, puoi guadagnare 3 punti vita.
+Quando la Selkie Maga Ambulante entra nel campo di battaglia, se controlli due o più Isole, puoi fare tornare una creatura TAPpata bersaglio in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0159</id>
+    <name>Mimic Costiero</name>
+    <text>Ogniqualvolta lanci una magia verde e blu, il Mimic Costiero diventa 5/3 e ha travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0160</id>
+    <name>Bogle Viscido</name>
+    <text>Il Bogle Viscido non può essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0161</id>
+    <name>Forma Serpentina</name>
+    <text>Una creatura bersaglio perde tutte le abilità e diventa un Serpente 1/1 verde fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0162</id>
+    <name>Immagine Sputata</name>
+    <text>Metti sul campo di battaglia una pedina che è una copia di una creatura bersaglio.
+Rievocare (Puoi lanciare questa carta dal tuo cimitero scartando una carta terra oltre a pagare gli altri suoi costi.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0163</id>
+    <name>Cucciolo Risoluto</name>
+    <text>Il Cucciolo Risoluto entra nel campo di battaglia con quattro segnalini -1/-1.
+{V|L}: Il Cucciolo Risoluto ha velo fino alla fine del turno.
+Ogniqualvolta lanci una magia verde, rimuovi un segnalino -1/-1 dal Cucciolo Risoluto.
+Ogniqualvolta lanci una magia blu, rimuovi un segnalino -1/-1 dal Cucciolo Risoluto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0164</id>
+    <name>Kelpie Fauce Trappolatrice</name>
+    <text>Lampo
+Persistere (Quando questa creatura viene messa in un cimitero dal campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0165</id>
+    <name>Selkie Malinconica</name>
+    <text>Quando la Selkie Malinconica entra nel campo di battaglia, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0166</id>
+    <name>Golem dell'Altare</name>
+    <text>Travolgere
+La forza e la costituzione del Golem dell'Altare sono pari al numero di creature sul campo di battaglia.
+Il Golem dell'Altare non STAPpa durante lo STAP del suo controllore.
+TAPpa cinque creature STAPpate che controlli: STAPpa il Golem dell'Altare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0167</id>
+    <name>Teschiato delle Corna</name>
+    <text>{2}: Una creatura bianca bersaglio ha persistere fino alla fine del turno. (Quando quella creatura viene messa in un cimitero dal  campo di battaglia, se non aveva segnalini -1/-1, rimettila sul campo di battaglia sotto il controllo del suo proprietario con un segnalino -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0168</id>
+    <name>Teschiato delle Zanne</name>
+    <text>{2}: Una creatura nera bersaglio guadagna avvizzire fino alla fine del turno. (Una fonte con avvizzire infligge danno alle creature sotto forma di segnalini -1/-1.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0169</id>
+    <name>Teschiato degli Zoccoli</name>
+    <text>{3}: Una creatura verde bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0170</id>
+    <name>Teschiato delle Mandibole</name>
+    <text>{2}: Una creatura rossa bersaglio guadagna rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0171</id>
+    <name>Stemma Malizioso</name>
+    <text>Ogniqualvolta lanci una magia, la creatura equipaggiata prende +2/+2 fino alla fine del turno.
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0172</id>
+    <name>Spaventamegera</name>
+    <text>{1}, Sacrifica uno Spaventapasseri: Pesca una carta.
+{4}, {T}: Rimetti sul campo di battaglia una carta creatura artefatto bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0173</id>
+    <name>Teschiato dei Gusci</name>
+    <text>{3}: Una creatura blu bersaglio ha velo fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0174</id>
+    <name>Sigillo delle Ossa</name>
+    <text>Ogni avversario che controlla più creature di te non può giocare carte creatura. Lo stesso vale per artefatti, incantesimi e terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0175</id>
+    <name>Cascata a Precipizio</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{L|R}, {T}: Aggiungi {U}{U}, {U}{R} o {R}{R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0176</id>
+    <name>Brughiera Fetida</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{B|N}, {T}: Aggiungi {W}{W}, {W}{B} o {B}{B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0177</id>
+    <name>Boschetto Inondato</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{V|L}, {T}: Aggiungi {G}{G}, {G}{U} o {U}{U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0178</id>
+    <name>Prateria Accidentata</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{R|B}, {T}: Aggiungi {R}{R}, {R}{W} o {W}{W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0179</id>
+    <name>Pascolo delle Pecolepri</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{4}, {T}: Metti sul campo di battaglia una pedina creatura Capra 0/1 bianca.
+{T}, Sacrifica X Capre: Aggiungi X mana di qualsiasi singolo colore alla tua riserva di mana. Guadagni X punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>EVE0180</id>
+    <name>Acquitrino Crepuscolare</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{N|V}, {T}: Aggiungi {B}{B}, {B}{G} o {G}{G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

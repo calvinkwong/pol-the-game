@@ -1,0 +1,1170 @@
+<cards name="Mirrodin Assediato">
+  <item>
+    <id>MBS0001</id>
+    <name>Concorde Paladino</name>
+    <text>Grido di guerra (Ogniqualvolta questa creatura attacca, ogni altra creatura attaccante prende +1/+0 fino alla fine del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0002</id>
+    <name>Recluta Entusiasta</name>
+    <text>Metallurgia - La Recluta Entusiasta prende +2/+2 fintanto che controlli tre o più artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0003</id>
+    <name>Decreto di Esilio</name>
+    <text>Metti un artefatto, una creatura o un incantesimo bersaglio in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0004</id>
+    <name>Vapori Soffocanti</name>
+    <text>Metti un segnalino -1/-1 su ogni creatura attaccante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0005</id>
+    <name>Offerta Divina</name>
+    <text>Distruggi un artefatto bersaglio. Guadagni punti vita pari al suo costo di mana convertito.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0006</id>
+    <name>Salvataggio Frenetico</name>
+    <text>Metti in cima al tuo grimorio un qualsiasi numero di carte artefatto bersaglio dal tuo cimitero. 
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0007</id>
+    <name>Vassallo dei Gheroni</name>
+    <text>Sacrifica il Vassallo dei Gheroni: Metti un segnalino -1/-1 su una creatura bersaglio. Poi se la costituzione di quella creatura è pari o superiore a 1, rigenerala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0008</id>
+    <name>Eroina di Rifugio delle Lame</name>
+    <text>Grido di guerra (Ogniqualvolta questa creatura attacca, ogni altra creatura attaccante prende +1/+0 fino alla fine del turno.) 
+Ogniqualvolta l'Eroina di Rifugio delle Lame attacca, metti sul campo di battaglia due pedine creatura Soldato 1/1 bianche TAPpate e attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0009</id>
+    <name>Legione di Kemba</name>
+    <text>Cautela 
+La Legione di Kemba può bloccare una creatura addizionale per ogni Equipaggiamento assegnato alla Legione di Kemba.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0010</id>
+    <name>Custode delle Reliquie Leonid</name>
+    <text>Quando il Custode delle Reliquie Leonid entra nel campo di battaglia, puoi esiliare un artefatto o un incantesimo bersaglio. 
+Quando il Custode delle Reliquie Leonid lascia il campo di battaglia, rimetti sul campo di battaglia la carta esiliata sotto il controllo del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0011</id>
+    <name>Solcacielo Leonid</name>
+    <text>Volare (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0012</id>
+    <name>Fautore Lossodonte</name>
+    <text>Grido di guerra (Ogniqualvolta questa creatura attacca, ogni altra creatura attaccante prende +1/+0 fino alla fine del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0013</id>
+    <name>La Voce del Padrone</name>
+    <text>Metti sul campo di battaglia due pedine creatura artefatto Myr 1/1 incolori.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0014</id>
+    <name>Crociato di Mirrodin</name>
+    <text>Doppio attacco, protezione dal nero e dal verde</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0015</id>
+    <name>Rinascita di Phyrexia</name>
+    <text>Distruggi tutte le creature, poi metti sul campo di battaglia una pedina creatura artefatto Orrore X/X incolore, dove X è il numero di creature distrutte in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0016</id>
+    <name>Sacerdoti di Norn</name>
+    <text>Cautela 
+Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0017</id>
+    <name>Avèrla Ramificata</name>
+    <text>Volare 
+Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0018</id>
+    <name>Messaggera di Vittoria</name>
+    <text>Volare 
+Ogniqualvolta la Messaggera di Vittoria attacca, le creature attaccanti hanno volare e legame vitale fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0019</id>
+    <name>Zenit del Sole Bianco</name>
+    <text>Metti sul campo di battaglia X pedine creatura Felino 2/2 bianche. Rimescola lo Zenit del Sole Bianco nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0020</id>
+    <name>Zenit del Sole Blu</name>
+    <text>Un giocatore bersaglio pesca X carte. Rimescola lo Zenit del Sole Blu nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0021</id>
+    <name>Sfinge Consacrata</name>
+    <text>Volare 
+Ogniqualvolta un avversario pesca una carta, puoi pescare due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0022</id>
+    <name>Coscienza Corrotta</name>
+    <text>Incanta creatura 
+Controlli la creatura incantata. 
+La creatura incantata ha infettare. (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0023</id>
+    <name>Criptoplasma</name>
+    <text>All'inizio del tuo mantenimento, puoi far diventare il Criptoplasma una copia di un'altra creatura bersaglio. Se lo fai, il Criptoplasma guadagna questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0024</id>
+    <name>Ricordi Lontani</name>
+    <text>Passa in rassegna il tuo grimorio per una carta, esiliala, poi rimescola il tuo grimorio. Qualsiasi avversario può farti aggiungere quella carta alla tua mano. Se nessun giocatore lo fa, peschi tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0025</id>
+    <name>Alimentare la Causa</name>
+    <text>Neutralizza una magia bersaglio, poi proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0026</id>
+    <name>Spia Mirran</name>
+    <text>Volare 
+Ogniqualvolta lanci una magia artefatto, puoi STAPpare una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0027</id>
+    <name>Manipolazione Mitotica</name>
+    <text>Guarda le prime sette carte del tuo grimorio. Puoi mettere sul campo di battaglia una di quelle carte se ha lo stesso nome di un permanente. Metti le altre in fondo al tuo grimorio in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0028</id>
+    <name>Neurok del Commando</name>
+    <text>Velo 
+Ogniqualvolta la Neurok del Commando infligge danno da combattimento a un giocatore, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0029</id>
+    <name>Oculo</name>
+    <text>Quando l'Oculo viene messo in un cimitero dal campo di battaglia, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0030</id>
+    <name>Geyser del Mare di Mercurio</name>
+    <text>Fai tornare fino a due permanenti non terra bersaglio in mano ai loro proprietari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0031</id>
+    <name>Rastrellatore di Siero</name>
+    <text>Volare 
+Quando il Rastrellatore di Siero viene messo in un cimitero dal campo di battaglia, ogni giocatore scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0032</id>
+    <name>Serpe delle Spire</name>
+    <text>Difensore 
+Metallurgia - Fintanto che controlli tre o più artefatti, la Serpe delle Spire prende +2/+2 e può attaccare come se non avesse difensore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0033</id>
+    <name>Sabotaggio d'Acciaio</name>
+    <text>Scegli uno - Neutralizza una magia artefatto bersaglio; oppure fai tornare un artefatto bersaglio in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0034</id>
+    <name>Mago dei Tesori</name>
+    <text>Quando il Mago dei Tesori entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta artefatto con costo di mana convertito pari o superiore a 6, rivelarla e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0035</id>
+    <name>Invertire il Flusso</name>
+    <text>Le creature controllate dai tuoi avversari prendono -2/-0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0036</id>
+    <name>Anatomista Vedalken</name>
+    <text>{2}{U}, {T}: Metti un segnalino -1/-1 su una creatura bersaglio. Puoi TAPpare o STAPpare quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0037</id>
+    <name>Infonditore Vedalken</name>
+    <text>All'inizio del tuo mantenimento, puoi mettere un segnalino carica su un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0038</id>
+    <name>Vivisezione</name>
+    <text>Come costo addizionale per lanciare la Vivisezione, sacrifica una creatura. 
+Pesca tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0039</id>
+    <name>Zenit del Sole Nero</name>
+    <text>Metti X segnalini -1/-1 su ogni creatura. Rimescola lo Zenit del Sole Nero nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0040</id>
+    <name>Segugio Caustico</name>
+    <text>Quando il Segugio Caustico viene messo in un cimitero dal campo di battaglia, ogni giocatore perde 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0041</id>
+    <name>Acaro Scuoiatore</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Legame vitale (Il danno inflitto da questa creatura ti fa anche guadagnare altrettanti punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0042</id>
+    <name>Imp Carnivoro</name>
+    <text>Volare 
+Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Sacrifica una creatura: L'Imp Carnivoro prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0043</id>
+    <name>Mirare alla Gola</name>
+    <text>Distruggi una creatura non artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0044</id>
+    <name>Bis Raccapricciante</name>
+    <text>Metti sul campo di battaglia sotto il tuo controllo una carta creatura bersaglio dal cimitero di un avversario. Ha rapidità. Esiliala all'inizio della prossima sottofase finale. Se sta per lasciare il campo di battaglia, esiliala invece di metterla in qualsiasi altra zona.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0045</id>
+    <name>Rivelazione Orripilante</name>
+    <text>Un giocatore bersaglio scarta una carta, poi mette nel suo cimitero la prima carta del suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0046</id>
+    <name>Wurm della Strage</name>
+    <text>Quando il Wurm della Strage entra nel campo di battaglia, le creature controllate dai tuoi avversari prendono -2/-2 fino alla fine del turno. 
+Ogniqualvolta una creatura controllata da un avversario viene messa in un cimitero dal campo di battaglia, quel giocatore perde 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0047</id>
+    <name>Razzia Morbosa</name>
+    <text>Riprendi in mano fino a due carte creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0048</id>
+    <name>Ghoul Annidato</name>
+    <text>Ogniqualvolta una fonte infligge danno al Ghoul Annidato, metti sul campo di battaglia una pedina creatura Zombie 2/2 nera.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0049</id>
+    <name>Phyresis</name>
+    <text>Incanta creatura 
+La creatura incantata ha infettare. (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0050</id>
+    <name>Crociato di Phyrexia</name>
+    <text>Attacco improvviso, protezione dal rosso e dal bianco 
+Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0051</id>
+    <name>Furia di Phyrexia</name>
+    <text>Quando la Furia di Phyrexia entra nel campo di battaglia, peschi una carta e perdi 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0052</id>
+    <name>Urnamadre di Phyrexia</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+All'inizio del tuo mantenimento, ottieni un segnalino veleno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0053</id>
+    <name>Ematomante</name>
+    <text>Volare 
+Ogniqualvolta una creatura controllata da un avversario viene messa in un cimitero dal campo di battaglia, puoi guadagnare 3 punti vita. 
+Ogniqualvolta un avversario scarta una carta, puoi guadagnare 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0054</id>
+    <name>Servitore Flagello</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0055</id>
+    <name>Ratti Settici</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Ogniqualvolta i Ratti Settici attaccano, se il giocatore in difesa è avvelenato, prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0056</id>
+    <name>Diffondere la Malattia</name>
+    <text>Distruggi una creatura bersaglio, poi proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0057</id>
+    <name>Ferita Virulenta</name>
+    <text>Metti un segnalino -1/-1 su una creatura bersaglio. Quando quella creatura viene messa in un cimitero in questo turno, il suo controllore ottiene un segnalino veleno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0058</id>
+    <name>Sciamano della Bacchetta Vescicante</name>
+    <text>Quando lo Sciamano della Bacchetta Vescicante entra nel campo di battaglia, infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0059</id>
+    <name>Bruciare gli Impuri</name>
+    <text>Bruciare gli Impuri infligge 3 danni a una creatura bersaglio. Se quella creatura ha infettare, Bruciare gli Impuri infligge 3 danni al controllore di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0060</id>
+    <name>Fulmine da Scuotimento</name>
+    <text>Il Fulmine da Scuotimento infligge 4 danni a un giocatore bersaglio. 
+Metallurgia - Se controlli tre o più artefatti, le creature controllate da quel giocatore non possono bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0061</id>
+    <name>Stritolare</name>
+    <text>Distruggi un artefatto non creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0062</id>
+    <name>Galvanoth</name>
+    <text>All'inizio del tuo mantenimento, puoi guardare la prima carta del tuo grimorio. Se è una carta istantaneo o stregoneria, puoi lanciarla senza pagare il costo di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0063</id>
+    <name>Gnatosauro</name>
+    <text>Sacrifica un artefatto: Lo Gnatosauro ha travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0064</id>
+    <name>Pilota di Guerra Goblin</name>
+    <text>Grido di guerra (Ogniqualvolta questa creatura attacca, ogni altra creatura attaccante prende +1/+0 fino alla fine del turno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0065</id>
+    <name>Nibbio Infernale Incendiario</name>
+    <text>Volare, rapidità 
+{1}{R}: Il Nibbio Infernale Incendiario prende +X/+0 fino alla fine del turno, dove X è il numero di artefatti che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0066</id>
+    <name>Eroe di Cresta Oxid</name>
+    <text>Rapidità 
+Grido di guerra (Ogniqualvolta questa creatura attacca, ogni altra creatura attaccante prende +1/+0 fino alla fine del turno.) 
+Ogniqualvolta l'Eroe di Cresta Oxid attacca, le creature con forza pari o inferiore a 1 non possono bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0067</id>
+    <name>Nel Nucleo</name>
+    <text>Esilia due artefatti bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0068</id>
+    <name>Messaggera di Koth</name>
+    <text>Passa-Foreste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0069</id>
+    <name>Demone di Fiamme di Kuldotha</name>
+    <text>Quando il Demone di Fiamme di Kuldotha entra nel campo di battaglia, puoi sacrificare un artefatto. Se lo fai, il Demone di Fiamme di Kuldotha infligge 4 danni suddivisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0070</id>
+    <name>Capobanda di Kuldotha</name>
+    <text>Grido di guerra (Ogniqualvolta questa creatura attacca, ogni altra creatura attaccante prende +1/+0 fino alla fine del turno.) 
+Il Capobanda di Kuldotha attacca ogni turno, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0071</id>
+    <name>Supremazia Metallica</name>
+    <text>Prendi il controllo di un artefatto bersaglio fino alla fine del turno. STAPpa quell'artefatto. Ha rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0072</id>
+    <name>Ogre della Resistenza</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0073</id>
+    <name>Radunare le Forze</name>
+    <text>Le creature attaccanti prendono +1/+0 e hanno attacco improvviso fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0074</id>
+    <name>Zenit del Sole Rosso</name>
+    <text>Lo Zenit del Sole Rosso infligge X danni a una creatura o a un giocatore bersaglio. Se una creatura a cui è stato inflitto danno in questo modo sta per essere messa in un cimitero in questo turno, invece esiliala. Rimescola lo Zenit del Sole Rosso nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0075</id>
+    <name>Tempesta di Scorie</name>
+    <text>Scegli uno - La Tempesta di Scorie infligge 3 danni a ogni creatura; oppure la Tempesta di Scorie infligge 3 danni a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0076</id>
+    <name>Duellante in Spirale</name>
+    <text>Metallurgia - La Duellante in Spirale ha doppio attacco fintanto che controlli tre o più artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0077</id>
+    <name>Vedova Maligna</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
+Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0078</id>
+    <name>Corrosione Rampicante</name>
+    <text>Distruggi tutti gli artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0079</id>
+    <name>Predatore di Fangren</name>
+    <text>Ogniqualvolta un artefatto viene messo in un cimitero dal campo di battaglia, puoi guadagnare 5 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0080</id>
+    <name>Messaggero di Glissa</name>
+    <text>Passa-Montagne</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0081</id>
+    <name>Zenit del Sole Verde</name>
+    <text>Passa in rassegna il tuo grimorio per una carta creatura verde con costo di mana convertito pari o inferiore a X, mettila sul campo di battaglia, poi rimescola il tuo grimorio. Rimescola lo Zenit del Sole Verde nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0082</id>
+    <name>Guidare l'Assalto</name>
+    <text>Guarda le prime cinque carte del tuo grimorio. Puoi rivelare un qualsiasi numero di carte creatura tra esse e aggiungere le carte rivelate alla tua mano. Metti le altre in fondo al tuo grimorio in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0083</id>
+    <name>Custodi di Melira</name>
+    <text>I Custodi di Melira non possono avere segnalini.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0084</id>
+    <name>Tempra Mirran</name>
+    <text>Una creatura bersaglio prende +2/+2 fino alla fine del turno. 
+Metallurgia - Quella creatura prende invece +4/+4 fino alla fine del turno se controlli tre o più artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0085</id>
+    <name>Idra di Phyrexia</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Se sta per essere inflitto danno all'Idra di Phyrexia, previeni quel danno. Metti un segnalino -1/-1 sull'Idra di Phyrexia per ogni punto danno prevenuto in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0086</id>
+    <name>Attacco dei Pistus</name>
+    <text>Distruggi una creatura bersaglio con volare. Il suo controllore ottiene un segnalino veleno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0087</id>
+    <name>Bestia Faucepiaga</name>
+    <text>{T}, Sacrifica una creatura: Proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0088</id>
+    <name>Consiglio del Pretore</name>
+    <text>Riprendi in mano tutte le carte dal tuo cimitero. Esilia il Consiglio del Pretore. Non hai un limite massimo di carte in mano per il resto della partita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0089</id>
+    <name>Wurm delle Scorie Spinato</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0090</id>
+    <name>Lupo Putrescente</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Ogniqualvolta una creatura alla quale il Lupo Putrescente ha inflitto danno in questo turno viene messa in un cimitero, puoi pescare una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0091</id>
+    <name>Mantide del Groviglio</name>
+    <text>Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0092</id>
+    <name>Thrun, l'Ultimo Troll</name>
+    <text>Thrun, l'Ultimo Troll non può essere neutralizzato. 
+Thrun non può essere bersaglio di magie o abilità controllate dai tuoi avversari. 
+{1}{G}: Rigenera Thrun.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0093</id>
+    <name>Predazione Innaturale</name>
+    <text>Una creatura bersaglio prende +1/+1 e ha travolgere fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0094</id>
+    <name>Corruttore Viridiano</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Quando il Corruttore Viridiano entra nel campo di battaglia, distruggi un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0095</id>
+    <name>Emissario Viridiano</name>
+    <text>Quando l'Emissario Viridiano viene messo in un cimitero dal campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta terra base, metterla sul campo di battaglia TAPpata, poi rimescolare il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0096</id>
+    <name>Glissa, la Traditrice</name>
+    <text>Attacco improvviso, tocco letale 
+Ogniqualvolta una creatura controllata da un avversario viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta artefatto bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0097</id>
+    <name>Tezzeret, Agente di Bolas</name>
+    <text>+1: Guarda le prime cinque carte del tuo grimorio. Puoi rivelare una carta artefatto tra esse e aggiungerla alla tua mano. Metti le altre in fondo al tuo grimorio in qualsiasi ordine. 
+-1: Un artefatto bersaglio diventa una creatura artefatto 5/5. 
+-4: Un giocatore bersaglio perde X punti vita e tu guadagni X punti vita, dove X è pari al doppio del numero di artefatti che controlli. 
+Fedeltà 3</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0098</id>
+    <name>Sentinella delle Lame</name>
+    <text>{W}: La Sentinella delle Lame ha cautela fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0099</id>
+    <name>Colosso di Blightsteel</name>
+    <text>Travolgere, infettare 
+Il Colosso di Blightsteel è indistruttibile. 
+Se il Colosso di Blightsteel sta per essere messo in un cimitero da qualsiasi zona, rivela invece il Colosso di Blightsteel e rimescolalo nel grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0100</id>
+    <name>Mucchio d'Ossa</name>
+    <text>Arma vivente (Quando questo Equipaggiamento entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Microbo 0/0 nera, poi assegnalo ad essa.) 
+La creatura equipaggiata prende +X/+X, dove X è il numero di carte creatura in tutti i cimiteri. 
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0101</id>
+    <name>Scudiero di Ottone</name>
+    <text>{T}: Assegna un Equipaggiamento bersaglio che controlli a una creatura bersaglio che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0102</id>
+    <name>Carapace di Rame</name>
+    <text>La creatura equipaggiata prende +2/+2 e non può bloccare. 
+Equipaggiare {3} ({3}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0103</id>
+    <name>Predone del Nucleo</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Quando il Predone del Nucleo viene messo in un cimitero dal campo di battaglia, proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0104</id>
+    <name>Corazza di Darksteel</name>
+    <text>La Corazza di Darksteel è indistruttibile. 
+La creatura equipaggiata è indistruttibile. 
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0105</id>
+    <name>Ragnatela Falcidiante</name>
+    <text>{4}, {T}: Un avversario bersaglio perde 2 punti vita, ottiene un segnalino veleno, poi mette nel suo cimitero le prime sei carte del suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0106</id>
+    <name>Squartatore del Dross</name>
+    <text>{2}{B}: Lo Squartatore del Dross prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0107</id>
+    <name>Guscio dello Scorticatore</name>
+    <text>Arma vivente (Quando questo Equipaggiamento entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Microbo 0/0 nera, poi assegnalo ad essa.) 
+La creatura equipaggiata prende +1/+1. 
+Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0108</id>
+    <name>Rincope della Pioggia</name>
+    <text>{U}: Il Rincope della Pioggia ha volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0109</id>
+    <name>Golem delle Esapiastre</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0110</id>
+    <name>Sorgente d'Icore</name>
+    <text>Quando la Sorgente d'Icore entra nel campo di battaglia o viene messa in un cimitero dal campo di battaglia, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0111</id>
+    <name>Pozza della Conoscenza</name>
+    <text>Imprimere - Quando la Pozza della Conoscenza entra nel campo di battaglia, ogni giocatore esilia le prime tre carte del proprio grimorio. 
+Ogniqualvolta un giocatore lancia una magia dalla propria mano, la esilia. Se il giocatore lo fa, può lanciare un'altra carta non terra esiliata con la Pozza della Conoscenza senza pagare il costo di mana di quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0112</id>
+    <name>Gargoyle del Lumengrid</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0113</id>
+    <name>Mina Magnetica</name>
+    <text>Ogniqualvolta un altro artefatto viene messo in un cimitero dal campo di battaglia, la Mina Magnetica infligge 2 danni al controllore di quell'artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0114</id>
+    <name>Congegno Specchiante</name>
+    <text>Ogniqualvolta un altro artefatto non pedina entra nel campo di battaglia sotto il tuo controllo, puoi pagare {2}. Se lo fai, metti sul campo di battaglia una pedina che è una copia di quell'artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0115</id>
+    <name>Capsula Mortaio</name>
+    <text>Arma vivente (Quando questo Equipaggiamento entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Microbo 0/0 nera, poi assegnalo ad essa.) 
+La creatura equipaggiata prende +0/+1 e ha "Sacrifica questa creatura: Questa creatura infligge 1 danno a una creatura o a un giocatore bersaglio". 
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0116</id>
+    <name>Antenato Myr</name>
+    <text>Quando l'Antenato Myr viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura artefatto Myr 1/1 incolore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0117</id>
+    <name>Turbina dei Myr</name>
+    <text>{T}: Metti sul campo di battaglia una pedina creatura artefatto Myr 1/1 incolore. 
+{T}, TAPpa cinque Myr STAPpati che controlli: Passa in rassegna il tuo grimorio per una carta creatura Myr, mettila sul campo di battaglia, poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0118</id>
+    <name>Myr Saldatore</name>
+    <text>Imprimere - {T}: Esilia una carta artefatto bersaglio da un cimitero. 
+Il Myr Saldatore ha tutte le abilità attivate di tutte le carte esiliate con esso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0119</id>
+    <name>Errante Pacifico</name>
+    <text>Quando l'Errante Pacifico entra nel campo di battaglia, guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0120</id>
+    <name>Digeritore di Phyrexia</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0121</id>
+    <name>Juggernaut di Phyrexia</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Il Juggernaut di Phyrexia attacca ogni turno, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0122</id>
+    <name>Revocatore di Phyrexia</name>
+    <text>Mentre il Revocatore di Phyrexia entra nel campo di battaglia, nomina una carta non terra. 
+Le abilità attivate delle fonti col nome scelto non possono essere attivate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0123</id>
+    <name>Errante Perforante</name>
+    <text>Quando l'Errante Perforante entra nel campo di battaglia, un avversario bersaglio perde 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0124</id>
+    <name>Slitta a Pistoni</name>
+    <text>Quando la Slitta a Pistoni entra nel campo di battaglia, assegnala a una creatura bersaglio che controlli. 
+La creatura equipaggiata prende +3/+1. 
+Equipaggiare-Sacrifica un artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0125</id>
+    <name>Myr della Peste</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+{T}: Aggiungi {1} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0126</id>
+    <name>Psicosi Strisciante</name>
+    <text>La forza e la costituzione della Psicosi Strisciante sono pari al numero di carte nella tua mano. 
+Ogniqualvolta peschi una carta, ogni avversario perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0127</id>
+    <name>Rinoceronte dei Campi Taglienti</name>
+    <text>Metallurgia - Il Rinoceronte dei Campi Taglienti prende +2/+2 fintanto che controlli tre o più artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0128</id>
+    <name>Squartatore Arrugginito</name>
+    <text>Sacrifica un artefatto: Rigenera lo Squartatore Arrugginito.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0129</id>
+    <name>Myr Scintillante</name>
+    <text>Lampo 
+Puoi lanciare carte artefatto come se avessero lampo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0130</id>
+    <name>Corno Urlante</name>
+    <text>Il Corno Urlante entra nel campo di battaglia con tre segnalini carica. 
+{T}, Rimuovi un segnalino carica dal Corno Urlante: Un giocatore bersaglio mette nel suo cimitero le prime due carte del suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0131</id>
+    <name>Peste dei Segnali</name>
+    <text>Grido di guerra (Ogniqualvolta questa creatura attacca, ogni altra creatura attaccante prende +1/+0 fino alla fine del turno.) 
+La Peste dei Segnali non può essere bloccata tranne che da creature con volare o raggiungere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0132</id>
+    <name>Armatura di Pelle Argentata</name>
+    <text>La creatura equipaggiata prende +1/+1 ed è un artefatto in aggiunta ai suoi altri tipi. 
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0133</id>
+    <name>Ala di Pelle</name>
+    <text>Arma vivente (Quando questo Equipaggiamento entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Microbo 0/0 nera, poi assegnalo ad essa.) 
+La creatura equipaggiata prende +2/+2 e ha volare. 
+Equipaggiare {6}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0134</id>
+    <name>Sfera dei Soli</name>
+    <text>La Sfera dei Soli entra nel campo di battaglia TAPpata e con tre segnalini carica. 
+{T}, Rimuovi un segnalino carica dalla Sfera dei Soli: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0135</id>
+    <name>Macchina Rotatoria</name>
+    <text>{R}: Una creatura bersaglio non può bloccare la Macchina Rotatoria in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0136</id>
+    <name>Spina di Ish Sah</name>
+    <text>Quando la Spina di Ish Sah entra nel campo di battaglia, distruggi un permanente bersaglio. 
+Quando la Spina di Ish Sah viene messa in un cimitero dal campo di battaglia, falla tornare in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0137</id>
+    <name>Trefolo Errante</name>
+    <text>Arma vivente (Quando questo Equipaggiamento entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Microbo 0/0 nera, poi assegnalo ad essa.) 
+La creatura equipaggiata prende +2/+4 e ha raggiungere. 
+Equipaggiare {4}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0138</id>
+    <name>Spada di Abbondanza e Carestia</name>
+    <text>La creatura equipaggiata prende +2/+2 e ha protezione dal nero e dal verde. 
+Ogniqualvolta la creatura equipaggiata infligge danno da combattimento a un giocatore, quel giocatore scarta una carta e tu STAPpi tutte le terre che controlli. 
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0139</id>
+    <name>Bestione del Groviglio</name>
+    <text>{2}{G}: Rigenera il Bestione del Groviglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0140</id>
+    <name>Tottero Assemblato</name>
+    <text>Volare 
+All'inizio del tuo mantenimento, se l'unico Tottero che controlli è il Tottero Assemblato, fai tornare il Tottero Assemblato in mano al suo proprietario e metti sul campo di battaglia cinque pedine creatura artefatto Tottero 1/1 incolori con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0141</id>
+    <name>Forgia dei Titani</name>
+    <text>{3}, {T}: Metti un segnalino carica sulla Forgia dei Titani. 
+{T}, Rimuovi tre segnalini carica dalla Forgia dei Titani: Metti sul campo di battaglia una pedina creatura artefatto Golem 9/9 incolore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0142</id>
+    <name>Parassita da Allenamento</name>
+    <text>Il Parassita da Allenamento non può attaccare o bloccare a meno che non sia equipaggiato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0143</id>
+    <name>Artiglio Viridiano</name>
+    <text>La creatura equipaggiata prende +1/+0 e ha attacco improvviso. 
+Equipaggiare {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0144</id>
+    <name>Zona di Guerra Contesa</name>
+    <text>Ogniqualvolta una creatura ti infligge danno da combattimento, il controllore di quella creatura prende il controllo della Zona di Guerra Contesa. 
+{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Le creature attaccanti prendono +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0145</id>
+    <name>Nexus degli Atrodotteri</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}: Il Nexus degli Atrodotteri diventa una creatura artefatto Lampidottero 1/1 con volare e infettare fino alla fine del turno. È ancora una terra. (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0146</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0147</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0148</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0149</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0150</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0151</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0152</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0153</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0154</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MBS0155</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

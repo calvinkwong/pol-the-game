@@ -1,0 +1,1274 @@
+<cards name="Betrayers of Kamigawa">
+  <item>
+    <id>BOK0001</id>
+    <name>Day of Destiny</name>
+    <text>Legendary creatures you control get +2/+2.</text>
+    <flavorText>"Rise like the sun, stand like the mountain, charge like the lion, die as a hero."
+—General Takeno</flavorText>
+  </item>
+  <item>
+    <id>BOK0002</id>
+    <name>Empty-Shrine Kannushi</name>
+    <text>Empty-Shrine Kannushi has protection from the colors of permanents you control.</text>
+    <flavorText>"Crease the folds, bend the paper, turn the spirits, shield the soul."</flavorText>
+  </item>
+  <item>
+    <id>BOK0003</id>
+    <name>Faithful Squire</name>
+    <text>Flying
+Remove a ki counter from Kaiso, Memory of Loyalty: Prevent all damage that would be dealt to target creature this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0004</id>
+    <name>Kaiso, Memory of Loyalty</name>
+    <text>Flying
+Remove a ki counter from Kaiso, Memory of Loyalty: Prevent all damage that would be dealt to target creature this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0005</id>
+    <name>Final Judgment</name>
+    <text>Exile all creatures.</text>
+    <flavorText>"The clashing warriors turned to face O-Kagachi, the greatest kami, and their sigh of awe was their last breath."
+—Great Battles of Kamigawa</flavorText>
+  </item>
+  <item>
+    <id>BOK0006</id>
+    <name>Genju of the Fields</name>
+    <text>Enchant Plains
+{2}: Until end of turn, enchanted Plains becomes a 2/5 white Spirit creature with "Whenever this creaure deals damage, its controller gains that much life." It's still a land.
+When enchanted Plains is put into a graveyard, you may return Genju of the Fields from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0007</id>
+    <name>Heart of Light</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Prevent all damage that would be dealt to and dealt by enchanted creature.</text>
+    <flavorText>"There is a shining in the mortal heart that even the kami cannot reach."
+—Sensei Golden-Tail</flavorText>
+  </item>
+  <item>
+    <id>BOK0008</id>
+    <name>Hokori, Dust Drinker</name>
+    <text>Lands don't untap during their controllers' untap steps.
+At the beginning of each player's upkeep, that player untaps a land he or she controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0009</id>
+    <name>Hundred-Talon Strike</name>
+    <text>Target creature gets +1/+0 and gains first strike until end of turn.
+Splice onto Arcane—Tap an untapped white creature you control. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0010</id>
+    <name>Indebted Samurai</name>
+    <text>Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)
+Whenever a Samurai you control is put into a graveyard from the battlefield, you may put a +1/+1 counter on Indebted Samurai.</text>
+    <flavorText>"Forgive me, Saburo. I could not save you. But your blade will not rest in my hand."</flavorText>
+  </item>
+  <item>
+    <id>BOK0011</id>
+    <name>Kami of False Hope</name>
+    <text>Sacrifice Kami of False Hope: Prevent all combat damage that would be dealt this turn.</text>
+    <flavorText>"Across the rift of battle, a bridge of gossamer. And for one moment, it holds."
+—Snow-Fur, kitsune poet</flavorText>
+  </item>
+  <item>
+    <id>BOK0012</id>
+    <name>Kami of Tattered Shoji</name>
+    <text>Whenever you cast a Spirit or Arcane spell, Kami of Tattered Shoji gains flying until end of turn.</text>
+    <flavorText>It remembered all the shadows lantern-cast upon its paper wings, and sometimes those silhouettes played across its shape again, acting out silent tragedies.</flavorText>
+  </item>
+  <item>
+    <id>BOK0013</id>
+    <name>Kami of the Honored Dead</name>
+    <text>Flying
+Whenever Kami of the Honored Dead is dealt damage, you gain that much life.
+Soulshift 6 (When this is put into a graveyard from the battlefield, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0014</id>
+    <name>Kentaro, the Smiling Cat</name>
+    <text>Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)
+You may pay {X} rather than pay the mana cost for Samurai spells you cast, where X is that spell's converted mana cost.</text>
+    <flavorText>"The bonds of bushido will draw the dishonored back someday, and I will be there waiting."</flavorText>
+  </item>
+  <item>
+    <id>BOK0015</id>
+    <name>Kitsune Palliator</name>
+    <text>{T}: Prevent the next 1 damage that would be dealt to each creature and each player this turn.</text>
+    <flavorText>"Who am I to judge who is deserving and who is not? That is a question for lords, not healers."</flavorText>
+  </item>
+  <item>
+    <id>BOK0016</id>
+    <name>Mending Hands</name>
+    <text>Prevent the next 4 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>"I can staunch their blood, mend their flesh, and knit their bones. But I cannot restore their hope."
+—Tender-Hand, kitsune healer</flavorText>
+  </item>
+  <item>
+    <id>BOK0017</id>
+    <name>Moonlit Strider</name>
+    <text>Sacrifice Moonlit Strider: Target creature you control gains protection from the color of your choice until end of turn.
+Soulshift 3 (When this is put into a graveyard from the battlefield, you may return target Spirit card with converted mana cost 3 or less from your graveyard to your hand.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0018</id>
+    <name>Opal-Eye, Konda's Yojimbo</name>
+    <text>Defender (This creature can't attack.)
+Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)
+{T}: The next time a source of your choice would deal damage this turn, that damage is dealt to Opal-Eye, Konda's Yojimbo instead.
+{1}{W}: Prevent the next 1 damage that would be dealt to Opal-Eye this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0019</id>
+    <name>Oyobi, Who Split the Heavens</name>
+    <text>Flying
+Whenever you cast a Spirit or Arcane spell, put a 3/3 white Spirit creature token with flying onto the battlefield.</text>
+    <flavorText>Her angry call split the sky. From that rift descended her champions.</flavorText>
+  </item>
+  <item>
+    <id>BOK0020</id>
+    <name>Patron of the Kitsune</name>
+    <text>Fox offering (You may cast this card any time you could cast an instant by sacrificing a Fox and paying the difference in mana costs between this and the sacrificed Fox. Mana cost includes color.)
+Whenever a creature attacks, you may gain 1 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0021</id>
+    <name>Scour</name>
+    <text>Exile target enchantment. Search its controller's graveyard, hand, and library for all cards with the same name as that enchantment and exile them. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0022</id>
+    <name>Shining Shoal</name>
+    <text>You may exile a white card with converted mana cost X from your hand rather than pay Shining Shoal's mana cost.
+The next X damage that a source of your choice would deal to you and/or creatures you control this turn is dealt to target creature or player instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0023</id>
+    <name>Silverstorm Samurai</name>
+    <text>Flash
+Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0024</id>
+    <name>Split-Tail Miko</name>
+    <text>{W}, {T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>"I wish there were no use for those with my talents. I wish that I could walk Kamigawa forgotten and unneeded, with no war wounds to heal and no broken bones to mend."</flavorText>
+  </item>
+  <item>
+    <id>BOK0025</id>
+    <name>Takeno's Cavalry</name>
+    <text>Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)
+{T}: Takeno's Cavalry deals 1 damage to target attacking or blocking Spirit.</text>
+    <flavorText>At night he perfected his aim, shooting spiderwebs by starlight.</flavorText>
+  </item>
+  <item>
+    <id>BOK0026</id>
+    <name>Tallowisp</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may search your library for an Aura card with enchant creature, reveal it, and put it into your hand. If you do, shuffle your library.</text>
+    <flavorText>Isolated on its little candlewick, the kami never heard of the crime that drove its comrades to war.</flavorText>
+  </item>
+  <item>
+    <id>BOK0027</id>
+    <name>Terashi's Grasp</name>
+    <text>Destroy target artifact or enchantment. You gain life equal to its converted mana cost.</text>
+    <flavorText>"The jeweler, the potter, the smith . . . They all imbue a bit of their souls into their creations. The kami destroy that crafted mortal shell and absorb the soul within."
+—Noboru, master kitemaker</flavorText>
+  </item>
+  <item>
+    <id>BOK0028</id>
+    <name>Terashi's Verdict</name>
+    <text>Destroy target attacking creature with power 3 or less.</text>
+    <flavorText>It was as though the sky opened its eyes and found what it saw displeasing.</flavorText>
+  </item>
+  <item>
+    <id>BOK0029</id>
+    <name>Ward of Piety</name>
+    <text>Enchant creature
+{1}{W}: The next 1 damage that would be dealt to enchanted creature this turn is dealt to target creature or player instead.</text>
+    <flavorText>Reluctant to strike at the kami directly, some kitsune trained in more passive fighting techniques.</flavorText>
+  </item>
+  <item>
+    <id>BOK0030</id>
+    <name>Waxmane Baku</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Waxmane Baku.
+{1}, Remove X ki counters from Waxmane Baku: Tap X target creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0031</id>
+    <name>Yomiji, Who Bars the Way</name>
+    <text>Whenever a legendary permanent other than Yomiji, Who Bars the Way is put into a graveyard from the battlefield, return that card to its owner's hand.</text>
+    <flavorText>"As I died, I rejoiced. I would see my family again. But then I woke up back on the battlefield. Back in Kamigawa. Back in hell."
+—Kenzo the Hardhearted</flavorText>
+  </item>
+  <item>
+    <id>BOK0032</id>
+    <name>Callow Jushi</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Callow Jushi.
+At the beginning of the end step, if there are two or more ki counters on Callow Jushi, you may flip it.
+----
+Jaraku the Interloper
+Legendary Creature — Spirit
+3/4
+Remove a ki counter from Jaraku the Interloper: Counter target spell unless its controller pays {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0033</id>
+    <name>Chisei, Heart of Oceans</name>
+    <text>Flying
+At the beginning of your upkeep, sacrifice Chisei, Heart of Oceans unless you remove a counter from a permanent you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0034</id>
+    <name>Disrupting Shoal</name>
+    <text>You may exile a blue card with converted mana cost X from your hand rather than pay Disrupting Shoal's mana cost.
+Counter target spell if its converted mana cost is X.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0035</id>
+    <name>Floodbringer</name>
+    <text>Flying
+{2}, Return a land you control to its owner's hand: Tap target land.</text>
+    <flavorText>"Such a small thing, a drop of water . . . And yet enough of them together can flood a field, cleanse a mire, or choke a forest."</flavorText>
+  </item>
+  <item>
+    <id>BOK0036</id>
+    <name>Genju of the Falls</name>
+    <text>Enchant Island
+{2}: Enchanted Island becomes a 3/2 blue Spirit creature with flying until end of turn. It's still a land.
+When enchanted Island is put into a graveyard, you may return Genju of the Falls from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0037</id>
+    <name>Heed the Mists</name>
+    <text>Put the top card of your library into your graveyard, then draw cards equal to that card's converted mana cost.</text>
+    <flavorText>"Once, I looked to the mists for wisdom. Now I wish only for understanding."</flavorText>
+  </item>
+  <item>
+    <id>BOK0038</id>
+    <name>Higure, the Still Wind</name>
+    <text>Ninjutsu {2}{U}{U} ({2}{U}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Higure deals combat damage to a player, you may search your library for a Ninja card, reveal it, and put it into your hand. If you do, shuffle your library.
+{2}: Target Ninja creature is unblockable this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0039</id>
+    <name>Jetting Glasskite</name>
+    <text>Flying
+Whenever Jetting Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.</text>
+    <flavorText>The bolt struck with a flash and there was a terrible sound, as of glass shattering, but the creature was unharmed.</flavorText>
+  </item>
+  <item>
+    <id>BOK0040</id>
+    <name>Kaijin of the Vanishing Touch</name>
+    <text>Defender (This creature can't attack.)
+Whenever Kaijin of the Vanishing Touch blocks a creature, return that creature to its owner's hand at end of combat. (Return it only if it's on the battlefield.)</text>
+    <flavorText>When it's finished, all that's left of you is a ripple on a still pond.</flavorText>
+  </item>
+  <item>
+    <id>BOK0041</id>
+    <name>Kira, Great Glass-Spinner</name>
+    <text>Flying
+Creatures you control have "Whenever this creature becomes the target of a spell or ability for the first time in a turn, counter that spell or ability."</text>
+    <flavorText>Each spell is an intricate tapestry, and Kira is the great unraveler.</flavorText>
+  </item>
+  <item>
+    <id>BOK0042</id>
+    <name>Minamo Sightbender</name>
+    <text>{X}, {T}: Target creature with power X or less is unblockable this turn.</text>
+    <flavorText>Woven from threads of the spirit world, the mistcloak rendered its wearer invisible, but quickly fell to tatters.</flavorText>
+  </item>
+  <item>
+    <id>BOK0043</id>
+    <name>Minamo's Meddling</name>
+    <text>Counter target spell. That spell's controller reveals his or her hand, then discards each card with the same name as a card spliced onto that spell.</text>
+    <flavorText>Like storm water through the segments of bamboo, the spell followed the links of magic. Then it destroyed them.</flavorText>
+  </item>
+  <item>
+    <id>BOK0044</id>
+    <name>Mistblade Shinobi</name>
+    <text>Ninjutsu {U} ({U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Mistblade Shinobi deals combat damage to a player, you may return target creature that player controls to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0045</id>
+    <name>Ninja of the Deep Hours</name>
+    <text>Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Ninja of the Deep Hours deals combat damage to a player, you may draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0046</id>
+    <name>Patron of the Moon</name>
+    <text>Moonfolk offering (You may cast this card any time you could cast an instant by sacrificing a Moonfolk and paying the difference in mana costs between this and the sacrificed Moonfolk. Mana cost includes color.)
+Flying
+{1}: Put up to two land cards from your hand onto the battlefield tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0047</id>
+    <name>Phantom Wings</name>
+    <text>Enchant creature
+Enchanted creature has flying.
+Sacrifice Phantom Wings: Return enchanted creature to its owner's hand.</text>
+    <flavorText>Many kami could fly, which put some warriors at a distinct disadvantage. The mages of Minamo took it upon themselves to correct that imbalance.</flavorText>
+  </item>
+  <item>
+    <id>BOK0048</id>
+    <name>Quash</name>
+    <text>Counter target instant or sorcery spell. Search its controller's graveyard, hand, and library for all cards with the same name as that spell and exile them. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0049</id>
+    <name>Quillmane Baku</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Quillmane Baku.
+{1}, {T}, Remove X ki counters from Quillmane Baku: Return target creature with converted mana cost X or less to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0050</id>
+    <name>Reduce to Dreams</name>
+    <text>Return all artifacts and enchantments to their owners' hands.</text>
+    <flavorText>"This world is a dream. We cling to our toys like children, but sooner or later we must learn to live without them."
+—Sensei Hisoka</flavorText>
+  </item>
+  <item>
+    <id>BOK0051</id>
+    <name>Ribbons of the Reikai</name>
+    <text>Draw a card for each Spirit you control.</text>
+    <flavorText>"If wisdom is a river, then we cup our hands, reach in, and drink from it in sips. The kami, however, are like fish, swimming, breathing, surrounded in its presence."
+—Dosan the Falling Leaf</flavorText>
+  </item>
+  <item>
+    <id>BOK0052</id>
+    <name>Shimmering Glasskite</name>
+    <text>Flying
+Whenever Shimmering Glasskite becomes the target of a spell or ability for the first time in a turn, counter that spell or ability.</text>
+    <flavorText>A child's whisper could crack its shell, but not even an oni's scream could penetrate it.</flavorText>
+  </item>
+  <item>
+    <id>BOK0053</id>
+    <name>Soratami Mindsweeper</name>
+    <text>Flying
+{2}, Return a land you control to its owner's hand: Target player puts the top two cards of his or her library into his or her graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0054</id>
+    <name>Stream of Consciousness</name>
+    <text>Target player shuffles up to four target cards from his or her graveyard into his or her library.</text>
+    <flavorText>"All things return to their beginnings. The waters that spill across the Kamitaki Falls flow to sea, only to be returned to her as the rain that joins the mighty river."
+—Dosan the Falling Leaf</flavorText>
+  </item>
+  <item>
+    <id>BOK0055</id>
+    <name>Sway of the Stars</name>
+    <text>Each player shuffles his or her hand, graveyard, and permanents he or she owns into his or her library, then draws seven cards. Each player's life total becomes 7.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0056</id>
+    <name>Teardrop Kami</name>
+    <text>Sacrifice Teardrop Kami: You may tap or untap target creature.</text>
+    <flavorText>"Do not fall into the trap of thinking you understand the kami. Cannot a drop of water be dew on the meadow, a glacier's thaw, or the tear of a child?"
+—Sensei Hisoka</flavorText>
+  </item>
+  <item>
+    <id>BOK0057</id>
+    <name>Threads of Disloyalty</name>
+    <text>Enchant creature with converted mana cost 2 or less
+You control enchanted creature.</text>
+    <flavorText>"Over time, Konda grew ever more suspicious, fearing even his most loyal allies were being manipulated by unseen hands."
+—The History of Kamigawa</flavorText>
+  </item>
+  <item>
+    <id>BOK0058</id>
+    <name>Toils of Night and Day</name>
+    <text>You may tap or untap target permanent, then you may tap or untap another target permanent.</text>
+    <flavorText>"The war sent Kamigawa into turmoil. Here it was spring and there winter. For some, time stood still, while for others, moments flashed past like minnows in a pond."
+—Observations of the Kami War</flavorText>
+  </item>
+  <item>
+    <id>BOK0059</id>
+    <name>Tomorrow, Azami's Familiar</name>
+    <text>If you would draw a card, look at the top three cards of your library instead. Put one of those cards into your hand and the rest on the bottom of your library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0060</id>
+    <name>Veil of Secrecy</name>
+    <text>Target creature gains shroud until end of turn and is unblockable this turn.
+Splice onto Arcane—Return a blue creature you control to its owner's hand. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0061</id>
+    <name>Walker of Secret Ways</name>
+    <text>Ninjutsu {1}{U} ({1}{U}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Walker of Secret Ways deals combat damage to a player, look at that player's hand.
+{1}{U}: Return target Ninja you control to its owner's hand. Activate this ability only during your turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0062</id>
+    <name>Bile Urchin</name>
+    <text>Sacrifice Bile Urchin: Target player loses 1 life.</text>
+    <flavorText>"The two youths argued and tempers flared. One youth opened his mouth to utter a vile curse, but what he spat out instead was a kami of poison and filth."
+—Sensei Golden-Tail</flavorText>
+  </item>
+  <item>
+    <id>BOK0063</id>
+    <name>Blessing of Leeches</name>
+    <text>Flash
+Enchant creature
+At the beginning of your upkeep, you lose 1 life.
+{0}: Regenerate enchanted creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0064</id>
+    <name>Call for Blood</name>
+    <text>As an additional cost to cast Call for Blood, sacrifice a creature.
+Target creature gets -X/-X until end of turn, where X is the sacrificed creature's power.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0065</id>
+    <name>Crawling Filth</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Soulshift 5 (When this is put into a graveyard from the battlefield, you may return target Spirit card with converted mana cost 5 or less from your graveyard to your hand.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0066</id>
+    <name>Eradicate</name>
+    <text>Exile target nonblack creature. Search its controller's graveyard, hand, and library for all cards with the same name as that creature and exile them. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0067</id>
+    <name>Genju of the Fens</name>
+    <text>Enchant Swamp
+{2}: Until end of turn, enchanted Swamp becomes a 2/2 black Spirit creature with "{B}: This creature gets +1/+1 until end of turn." It's still a land.
+When enchanted Swamp is put into a graveyard, you may return Genju of the Fens from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0068</id>
+    <name>Goryo's Vengeance</name>
+    <text>Return target legendary creature card from your graveyard to the battlefield. That creature gains haste. Exile it at the beginning of the next end step.
+Splice onto Arcane {2}{B} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0069</id>
+    <name>Hero's Demise</name>
+    <text>Destroy target legendary creature.</text>
+    <flavorText>"What will it say on our graves, Lord Konda? Will it say we led our world to conquer immortal forces or that we were crushed by our own arrogance? At each defeat, I wonder."
+—Sensei Hisoka, letter to Lord Konda</flavorText>
+  </item>
+  <item>
+    <id>BOK0070</id>
+    <name>Hired Muscle</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Hired Muscle.
+At the beginning of the end step, if there are two or more ki counters on Hired Muscle, you may flip it.
+----
+Scarmaker
+Legendary Creature — Spirit
+4/4
+Remove a ki counter from Scarmaker: Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0071</id>
+    <name>Horobi's Whisper</name>
+    <text>If you control a Swamp, destroy target nonblack creature.
+Splice onto Arcane—Exile four cards from your graveyard. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0072</id>
+    <name>Ink-Eyes, Servant of Oni</name>
+    <text>Ninjutsu {3}{B}{B} ({3}{B}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Ink-Eyes, Servant of Oni deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.
+{1}{B}: Regenerate Ink-Eyes.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0073</id>
+    <name>Kyoki, Sanity's Eclipse</name>
+    <text>Whenever you cast a Spirit or Arcane spell, target opponent exiles a card from his or her hand.</text>
+    <flavorText>"Kyoki, Eater of Minds, Corrupter of Thoughts, Bringer of Madness, Lord of Fear. Return, by our blood, and walk again."
+—Ogre chant</flavorText>
+  </item>
+  <item>
+    <id>BOK0074</id>
+    <name>Mark of the Oni</name>
+    <text>Enchant creature
+You control enchanted creature.
+At the beginning of the end step, if you control no Demons, sacrifice Mark of the Oni.</text>
+    <flavorText>"As more oni walked Kamigawa, more darkness infested its inhabitants' souls."
+—The History of Kamigawa</flavorText>
+  </item>
+  <item>
+    <id>BOK0075</id>
+    <name>Nezumi Shadow-Watcher</name>
+    <text>Sacrifice Nezumi Shadow-Watcher: Destroy target Ninja.</text>
+    <flavorText>"The Okiba Gang Night-cursed thieves and assassins I've had enough of their meddling Triple the guard"
+—Marrow-Gnawer</flavorText>
+  </item>
+  <item>
+    <id>BOK0076</id>
+    <name>Ogre Marauder</name>
+    <text>Whenever Ogre Marauder attacks, it gains "Ogre Marauder can't be blocked" until end of turn unless defending player sacrifices a creature.</text>
+    <flavorText>Once freed, the oni demanded more and more sacrifices to appease them. The ogres happily obliged.</flavorText>
+  </item>
+  <item>
+    <id>BOK0077</id>
+    <name>Okiba-Gang Shinobi</name>
+    <text>Ninjutsu {3}{B} ({3}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Okiba-Gang Shinobi deals combat damage to a player, that player discards two cards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0078</id>
+    <name>Patron of the Nezumi</name>
+    <text>Rat offering (You may cast this card any time you could cast an instant by sacrificing a Rat and paying the difference in mana costs between this and the sacrificed Rat. Mana cost includes color.)
+Whenever a permanent is put into an opponent's graveyard, that player loses 1 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0079</id>
+    <name>Psychic Spear</name>
+    <text>Target player reveals his or her hand. You choose a Spirit or Arcane card from it. That player discards that card.</text>
+    <flavorText>"The wizards of Takenuma Swamp faced the horrors of humanity every day. It's no wonder they fared so well against the kami."
+—Observations of the Kami War</flavorText>
+  </item>
+  <item>
+    <id>BOK0080</id>
+    <name>Pus Kami</name>
+    <text>{B}, Sacrifice Pus Kami: Destroy target nonblack creature.
+Soulshift 6 (When this is put into a graveyard from the battlefield, you may return target Spirit card with converted mana cost 6 or less from your graveyard to your hand.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0081</id>
+    <name>Scourge of Numai</name>
+    <text>At the beginning of your upkeep, you lose 2 life if you don't control an Ogre.</text>
+    <flavorText>"Where a once-proud human city stood, only the ruins of Numai remain, deep amid rotting bamboo and plagued by oni."
+—The History of Kamigawa</flavorText>
+  </item>
+  <item>
+    <id>BOK0082</id>
+    <name>Shirei, Shizo's Caretaker</name>
+    <text>Whenever a creature with power 1 or less is put into your graveyard from the battlefield, you may return that card to the battlefield under your control at the beginning of the next end step if Shirei, Shizo's Caretaker is still on the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0083</id>
+    <name>Sickening Shoal</name>
+    <text>You may exile a black card with converted mana cost X from your hand rather than pay Sickening Shoal's mana cost.
+Target creature gets -X/-X until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0084</id>
+    <name>Skullmane Baku</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Skullmane Baku.
+{1}, {T}, Remove X ki counters from Skullmane Baku: Target creature gets -X/-X until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0085</id>
+    <name>Skullsnatcher</name>
+    <text>Ninjutsu {B} ({B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Skullsnatcher deals combat damage to a player, exile up to two target cards from that player's graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0086</id>
+    <name>Stir the Grave</name>
+    <text>Return target creature card with converted mana cost X or less from your graveyard to the battlefield.</text>
+    <flavorText>"Your lungs may not draw breath, but while your hands can grip a sword, you will be useful to me."
+—Nighteyes, nezumi necromancer</flavorText>
+  </item>
+  <item>
+    <id>BOK0087</id>
+    <name>Takenuma Bleeder</name>
+    <text>Whenever Takenuma Bleeder attacks or blocks, you lose 1 life if you don't control a Demon.</text>
+    <flavorText>"I prefer to weave my magic through oni blood, but yours will do in a pinch."</flavorText>
+  </item>
+  <item>
+    <id>BOK0088</id>
+    <name>Three Tragedies</name>
+    <text>Target player discards three cards.</text>
+    <flavorText>"As the kami passed over the village of Mita, the inhabitants relived their three most grievous tragedies. Some cried. Some raged. Some were driven to madness. But the next morning, none possessed the will to fight."
+—Observations of the Kami War</flavorText>
+  </item>
+  <item>
+    <id>BOK0089</id>
+    <name>Throat Slitter</name>
+    <text>Ninjutsu {2}{B} ({2}{B}, Return an unblocked attacker you control to hand: Put this card onto the battlefield from your hand tapped and attacking.)
+Whenever Throat Slitter deals combat damage to a player, destroy target nonblack creature that player controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0090</id>
+    <name>Toshiro Umezawa</name>
+    <text>Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)
+Whenever a creature an opponent controls is put into a graveyard from the battlefield, you may cast target instant card from your graveyard. If that card would be put into a graveyard this turn, exile it instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0091</id>
+    <name>Yukora, the Prisoner</name>
+    <text>When Yukora, the Prisoner leaves the battlefield, sacrifice all non-Ogre creatures you control.</text>
+    <flavorText>It took ninety-nine monks to weave the spell that trapped Yukora. Upon the death of the ninety-nine, the spell was broken, and the demon returned to the mortal world seeking vengeance for its imprisonment.</flavorText>
+  </item>
+  <item>
+    <id>BOK0092</id>
+    <name>Akki Blizzard-Herder</name>
+    <text>When Akki Blizzard-Herder is put into a graveyard from the battlefield, each player sacrifices a land.</text>
+    <flavorText>"It remains unclear whether the akki shamans could in fact create storms or simply predicted them."
+—The History of Kamigawa</flavorText>
+  </item>
+  <item>
+    <id>BOK0093</id>
+    <name>Akki Raider</name>
+    <text>Whenever a land is put into a graveyard from the battlefield, Akki Raider gets +1/+0 until end of turn.</text>
+    <flavorText>Akki were very territorial, attacking and destroying any settlements that came too close to their mountain homes. The more successful their raids, the bolder they became.</flavorText>
+  </item>
+  <item>
+    <id>BOK0094</id>
+    <name>Ashen Monstrosity</name>
+    <text>Haste
+Ashen Monstrosity attacks each turn if able.</text>
+    <flavorText>There was a dull thunder at the vanguard, then shocked cries in the midst of the column. Moments later, Takada, last of the rearguard, faced the kami alone.</flavorText>
+  </item>
+  <item>
+    <id>BOK0095</id>
+    <name>Aura Barbs</name>
+    <text>Each enchantment deals 2 damage to its controller, then each Aura attached to a creature deals 2 damage to the creature it's attached to.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0096</id>
+    <name>Blademane Baku</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Blademane Baku.
+{1}, Remove X ki counters from Blademane Baku: For each counter removed, Blademane Baku gets +2/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0097</id>
+    <name>Blazing Shoal</name>
+    <text>You may exile a red card with converted mana cost X from your hand rather than pay Blazing Shoal's mana cost.
+Target creature gets +X/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0098</id>
+    <name>Clash of Realities</name>
+    <text>All Spirits have "When this permanent enters the battlefield, you may have it deal 3 damage to target non-Spirit creature."
+Non-Spirit creatures have "When this creature enters the battlefield, you may have it deal 3 damage to target Spirit creature."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0099</id>
+    <name>Crack the Earth</name>
+    <text>Each player sacrifices a permanent.</text>
+    <flavorText>"As the war progressed, the destruction the kami caused became more widespread and less predictable."
+—Observations of the Kami War</flavorText>
+  </item>
+  <item>
+    <id>BOK0100</id>
+    <name>Cunning Bandit</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Cunning Bandit.
+At the beginning of the end step, if there are two or more ki counters on Cunning Bandit, you may flip it.
+----
+Azamuki, Treachery Incarnate
+Legendary Creature — Spirit
+5/2
+Remove a ki counter from Azamuki, Treachery Incarnate: Gain control of target creature until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0101</id>
+    <name>First Volley</name>
+    <text>First Volley deals 1 damage to target creature and 1 damage to that creature's controller.</text>
+    <flavorText>"We searched their bodies for signs of the blades that had killed them, but found nothing more than scorched flesh."
+—Tender-Hand, kitsune healer</flavorText>
+  </item>
+  <item>
+    <id>BOK0102</id>
+    <name>Flames of the Blood Hand</name>
+    <text>Flames of the Blood Hand deals 4 damage to target player. The damage can't be prevented. If that player would gain life this turn, that player gains no life instead.</text>
+    <flavorText>Many ogres extracted blood oaths from the oni they summoned. Others simply extracted blood.</flavorText>
+  </item>
+  <item>
+    <id>BOK0103</id>
+    <name>Frost Ogre</name>
+    <text>
+    </text>
+    <flavorText>Mountain ogres allowed blizzards to sheathe them in ice, both to reinforce their armor and to hide their pungent musk from potential prey.</flavorText>
+  </item>
+  <item>
+    <id>BOK0104</id>
+    <name>Frostling</name>
+    <text>Sacrifice Frostling: Frostling deals 1 damage to target creature.</text>
+    <flavorText>Its bite will take off more than a toe.</flavorText>
+  </item>
+  <item>
+    <id>BOK0105</id>
+    <name>Fumiko the Lowblood</name>
+    <text>Fumiko the Lowblood has bushido X, where X is the number of attacking creatures. (When this blocks or becomes blocked, it gets +X/+X until end of turn.)
+Creatures your opponents control attack each turn if able.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0106</id>
+    <name>Genju of the Spires</name>
+    <text>Enchant Mountain
+{2}: Enchanted Mountain becomes a 6/1 red Spirit creature until end of turn. It's still a land.
+When enchanted Mountain is put into a graveyard, you may return Genju of the Spires from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0107</id>
+    <name>Goblin Cohort</name>
+    <text>Goblin Cohort can't attack unless you've cast a creature spell this turn.</text>
+    <flavorText>Akki shells provided good protection when downhill charging became headlong tumbling.</flavorText>
+  </item>
+  <item>
+    <id>BOK0108</id>
+    <name>Heartless Hidetsugu</name>
+    <text>{T}: Heartless Hidetsugu deals damage to each player equal to half that player's life total, rounded down.</text>
+    <flavorText>Hidetsugu held over a dozen oni in blood oath. At his touch, rocks scorched. At his word, cities burned.</flavorText>
+  </item>
+  <item>
+    <id>BOK0109</id>
+    <name>In the Web of War</name>
+    <text>Whenever a creature enters the battlefield under your control, it gets +2/+0 and gains haste until end of turn.</text>
+    <flavorText>"In desperation, Konda sent warriors to parley with the ogre-magi. No one knows whether they were slaughtered at Shinka or if they even reached its bloodstained walls."
+—Observations of the Kami War</flavorText>
+  </item>
+  <item>
+    <id>BOK0110</id>
+    <name>Ire of Kaminari</name>
+    <text>Ire of Kaminari deals damage to target creature or player equal to the number of Arcane cards in your graveyard.</text>
+    <flavorText>"Thunder broke the brittle silence over the Araba. A surge of raw energy lifted the soldier's body into the air and briefly, in the heart of the flash, he saw the face of a god."
+—Great Battles of Kamigawa</flavorText>
+  </item>
+  <item>
+    <id>BOK0111</id>
+    <name>Ishi-Ishi, Akki Crackshot</name>
+    <text>Whenever an opponent casts a Spirit or Arcane spell, Ishi-Ishi, Akki Crackshot deals 2 damage to that player.</text>
+    <flavorText>"Here fell Ishi-Ishi, King of the Flaming Pebbles, Scourge of the Mountain Kami, Lover of Goats. May his shell never burn."
+—Cave inscription</flavorText>
+  </item>
+  <item>
+    <id>BOK0112</id>
+    <name>Kumano's Blessing</name>
+    <text>Flash
+Enchant creature
+If a creature dealt damage by enchanted creature this turn would be put into a graveyard, exile it instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0113</id>
+    <name>Mannichi, the Fevered Dream</name>
+    <text>{1}{R}: Switch each creature's power and toughness until end of turn.</text>
+    <flavorText>"Early in his reign, Konda fell ill. His head burned with fever, and he saw visions of his future. In them, he saw a spirit-child, and, in that child's eyes, a way to make his empire last forever."
+—The History of Kamigawa</flavorText>
+  </item>
+  <item>
+    <id>BOK0114</id>
+    <name>Ogre Recluse</name>
+    <text>Whenever a player casts a spell, tap Ogre Recluse.</text>
+    <flavorText>"Those ogres who did not embrace oni worship were cast out, cursed, and forced into hermitage, waiting for the day the oni would come for them."
+—The History of Kamigawa</flavorText>
+  </item>
+  <item>
+    <id>BOK0115</id>
+    <name>Overblaze</name>
+    <text>Each time target permanent would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.
+Splice onto Arcane {2}{R}{R} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0116</id>
+    <name>Patron of the Akki</name>
+    <text>Goblin offering (You may cast this card any time you could cast an instant by sacrificing a Goblin and paying the difference in mana costs between this and the sacrificed Goblin. Mana cost includes color.)
+Whenever Patron of the Akki attacks, creatures you control get +2/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0117</id>
+    <name>Ronin Cliffrider</name>
+    <text>Bushido 1 (When this blocks or becomes blocked, it gets +1/+1 until end of turn.)
+Whenever Ronin Cliffrider attacks, you may have it deal 1 damage to each creature defending player controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0118</id>
+    <name>Shinka Gatekeeper</name>
+    <text>Whenever Shinka Gatekeeper is dealt damage, it deals that much damage to you.</text>
+    <flavorText>"Understanding is not a virtue of the ogre. Do not seek to reason your way into Shinka Keep."
+—Kiku, Night's Flower</flavorText>
+  </item>
+  <item>
+    <id>BOK0119</id>
+    <name>Sowing Salt</name>
+    <text>Exile target nonbasic land. Search its controller's graveyard, hand, and library for all cards with the same name as that land and exile them. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0120</id>
+    <name>Torrent of Stone</name>
+    <text>Torrent of Stone deals 4 damage to target creature.
+Splice onto Arcane—Sacrifice two Mountains. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0121</id>
+    <name>Twist Allegiance</name>
+    <text>You and target opponent each gain control of all creatures the other controls until end of turn. Untap those creatures. Those creatures gain haste until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0122</id>
+    <name>Body of Jukai</name>
+    <text>Trample
+Soulshift 8 (When this is put into a graveyard from the battlefield, you may return target Spirit card with converted mana cost 8 or less from your graveyard to your hand.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0123</id>
+    <name>Budoka Pupil</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Budoka Pupil.
+At the beginning of the end step, if there are two or more ki counters on Budoka Pupil, you may flip it.
+----
+Ichiga, Who Topples Oaks
+Legendary Creature — Spirit
+4/3
+Trample
+Remove a ki counter from Ichiga, Who Topples Oaks: Target creature gets +2/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0124</id>
+    <name>Child of Thorns</name>
+    <text>Sacrifice Child of Thorns: Target creature gets +1/+1 until end of turn.</text>
+    <flavorText>"The soratami scoff at the perils of Jukai, calling the forest an ‘unruly garden.' Perhaps we should send them a rose such as this."
+—Dokai, Weaver of Life</flavorText>
+  </item>
+  <item>
+    <id>BOK0125</id>
+    <name>Enshrined Memories</name>
+    <text>Reveal the top X cards of your library. Put all creature cards revealed this way into your hand and the rest on the bottom of your library in any order.</text>
+    <flavorText>"The race is run in the mind before the first step is taken."
+—Dosan the Falling Leaf</flavorText>
+  </item>
+  <item>
+    <id>BOK0126</id>
+    <name>Forked-Branch Garami</name>
+    <text>Soulshift 4, soulshift 4 (When this is put into a graveyard from the battlefield, you may return up to two target Spirit cards with converted mana cost 4 or less from your graveyard to your hand.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0127</id>
+    <name>Genju of the Cedars</name>
+    <text>Enchant Forest
+{2}: Enchanted Forest becomes a 4/4 green Spirit creature until end of turn. It's still a land.
+When enchanted Forest is put into a graveyard, you may return Genju of the Cedars from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0128</id>
+    <name>Gnarled Mass</name>
+    <text>
+    </text>
+    <flavorText>"On the fifty-seventh day of the Battle of Silk, the bell again tolled in hopes of summoning mortal aid. This time, a new breed of kami rose to answer its call."
+—Great Battles of Kamigawa</flavorText>
+  </item>
+  <item>
+    <id>BOK0129</id>
+    <name>Harbinger of Spring</name>
+    <text>Protection from non-Spirit creatures
+Soulshift 4 (When this is put into a graveyard from the battlefield, you may return target Spirit card with converted mana cost 4 or less from your graveyard to your hand.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0130</id>
+    <name>Isao, Enlightened Bushi</name>
+    <text>Isao, Enlightened Bushi can't be countered.
+Bushido 2 (When this blocks or becomes blocked, it gets +2/+2 until end of turn.)
+{2}: Regenerate target Samurai.</text>
+    <flavorText>"I do not care if he claims no allegiance in this war. Find him, Takeno."
+—Lord Konda</flavorText>
+  </item>
+  <item>
+    <id>BOK0131</id>
+    <name>Iwamori of the Open Fist</name>
+    <text>Trample
+When Iwamori of the Open Fist enters the battlefield, each opponent may put a legendary creature card from his or her hand onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0132</id>
+    <name>Kodama of the Center Tree</name>
+    <text>Kodama of the Center Tree's power and toughness are each equal to the number of Spirits you control.
+Kodama of the Center Tree has soulshift X, where X is the number of Spirits you control. (When this is put into a graveyard from the battlefield, you may return target Spirit card with converted mana cost X or less from your graveyard to your hand.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0133</id>
+    <name>Lifegift</name>
+    <text>Whenever a land enters the battlefield, you may gain 1 life.</text>
+    <flavorText>"Walk the world and you'll find your soul; search your soul and you'll discover the world."
+—Diary of Azusa</flavorText>
+  </item>
+  <item>
+    <id>BOK0134</id>
+    <name>Lifespinner</name>
+    <text>{T}, Sacrifice three Spirits: Search your library for a legendary Spirit permanent card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>"The husk splits like a madman's smile
+And mystery steps forth."
+—Snow-Fur, kitsune poet</flavorText>
+  </item>
+  <item>
+    <id>BOK0135</id>
+    <name>Loam Dweller</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a land card from your hand onto the battlefield tapped.</text>
+    <flavorText>"You know its mood by the plants that spring up around it. When it is placid, fields of lilies flow in its wake; when it is angry, every stem has a thorn."
+—Isao, Enlightened Bushi</flavorText>
+  </item>
+  <item>
+    <id>BOK0136</id>
+    <name>Mark of Sakiko</name>
+    <text>Enchant creature
+Enchanted creature has "Whenever this creature deals combat damage to a player, add that much {G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0137</id>
+    <name>Matsu-Tribe Sniper</name>
+    <text>{T}: Matsu-Tribe Sniper deals 1 damage to target creature with flying.
+Whenever Matsu-Tribe Sniper deals damage to a creature, tap that creature and it doesn't untap during its controller's next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0138</id>
+    <name>Nourishing Shoal</name>
+    <text>You may exile a green card with converted mana cost X from your hand rather than pay Nourishing Shoal's mana cost.
+You gain X life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0139</id>
+    <name>Patron of the Orochi</name>
+    <text>Snake offering (You may cast this card any time you could cast an instant by sacrificing a Snake and paying the difference in mana costs between this and the sacrificed Snake. Mana cost includes color.)
+{T}: Untap all Forests and all green creatures. Activate this ability only once each turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0140</id>
+    <name>Petalmane Baku</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Petalmane Baku.
+{1}, Remove X ki counters from Petalmane Baku: Add X mana of any one color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0141</id>
+    <name>Roar of Jukai</name>
+    <text>If you control a Forest, each blocked creature gets +2/+2 until end of turn.
+Splice onto Arcane—An opponent gains 5 life. (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0142</id>
+    <name>Sakiko, Mother of Summer</name>
+    <text>Whenever a creature you control deals combat damage to a player, add that much {G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0143</id>
+    <name>Sakura-Tribe Springcaller</name>
+    <text>At the beginning of your upkeep, add {G} to your mana pool. Until end of turn, this mana doesn't empty from your mana pool as steps and phases end.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0144</id>
+    <name>Scaled Hulk</name>
+    <text>Whenever you cast a Spirit or Arcane spell, Scaled Hulk gets +2/+2 until end of turn.</text>
+    <flavorText>"Say, what rhymes with ‘run for your lives'?"
+—Ku-Ku, akki poet</flavorText>
+  </item>
+  <item>
+    <id>BOK0145</id>
+    <name>Shizuko, Caller of Autumn</name>
+    <text>At the beginning of each player's upkeep, that player adds {G}{G}{G} to his or her mana pool. Until end of turn, this mana doesn't empty from that player's mana pool as steps and phases end.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0146</id>
+    <name>Sosuke's Summons</name>
+    <text>Put two 1/1 green Snake creature tokens onto the battlefield.
+Whenever a nontoken Snake enters the battlefield under your control, you may return Sosuke's Summons from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0147</id>
+    <name>Splinter</name>
+    <text>Exile target artifact. Search its controller's graveyard, hand, and library for all cards with the same name as that artifact and exile them. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0148</id>
+    <name>Traproot Kami</name>
+    <text>Defender; reach (This creature can block creatures with flying.)
+Traproot Kami's toughness is equal to the number of Forests on the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0149</id>
+    <name>Unchecked Growth</name>
+    <text>Target creature gets +4/+4 until end of turn. If it's a Spirit, it gains trample until end of turn.</text>
+    <flavorText>"That energy was once granted to growing things. Now the kami keep it for themselves, releasing it in sudden floods that overwhelm flesh and foliage alike."
+—Sakiko, Mother of Summer</flavorText>
+  </item>
+  <item>
+    <id>BOK0150</id>
+    <name>Uproot</name>
+    <text>Put target land on top of its owner's library.</text>
+    <flavorText>"We arrived at the battlefield too late. Again. Another error on your part, and you will have to answer to me personally."
+—General Takeno, letter to the imperial mapmaker</flavorText>
+  </item>
+  <item>
+    <id>BOK0151</id>
+    <name>Vital Surge</name>
+    <text>You gain 3 life.
+Splice onto Arcane {1}{G} (As you cast an Arcane spell, you may reveal this card from your hand and pay its splice cost. If you do, add this card's effects to that spell.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0152</id>
+    <name>Genju of the Realm</name>
+    <text>Enchant land
+{2}: Enchanted land becomes a legendary 8/12 Spirit creature with trample until end of turn. It's still a land.
+When enchanted land is put into a graveyard, you may return Genju of the Realm from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0153</id>
+    <name>Baku Altar</name>
+    <text>Whenever you cast a Spirit or Arcane spell, you may put a ki counter on Baku Altar.
+{2}, {T}, Remove a ki counter from Baku Altar: Put a 1/1 colorless Spirit creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0154</id>
+    <name>Blinding Powder</name>
+    <text>Equipped creature has "Unattach Blinding Powder: Prevent all combat damage that would be dealt to this creature this turn."
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0155</id>
+    <name>Mirror Gallery</name>
+    <text>The "legend rule" doesn't apply.</text>
+    <flavorText>Only in mirrors do heroes find their equal.</flavorText>
+  </item>
+  <item>
+    <id>BOK0156</id>
+    <name>Neko-Te</name>
+    <text>Whenever equipped creature deals damage to a creature, tap that creature. That creature doesn't untap during its controller's untap step for as long as Neko-Te remains on the battlefield.
+Whenever equipped creature deals damage to a player, that player loses 1 life.
+Equip {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0157</id>
+    <name>Orb of Dreams</name>
+    <text>Permanents enter the battlefield tapped.</text>
+    <flavorText>"Behind the eyelids, a flickering flame.
+Beneath the dream, a flickering sorrow.
+Can peace find you in this sleep
+When all the world is tossed by war?"
+—Snow-Fur, kitsune poet</flavorText>
+  </item>
+  <item>
+    <id>BOK0158</id>
+    <name>Ornate Kanzashi</name>
+    <text>{2}, {T}: Target opponent exiles the top card of his or her library. You may play that card this turn.</text>
+    <flavorText>Masako was privy to a great many of Konda's deepest secrets, and her hair was always perfect.</flavorText>
+  </item>
+  <item>
+    <id>BOK0159</id>
+    <name>Ronin Warclub</name>
+    <text>Equipped creature gets +2/+1.
+Whenever a creature enters the battlefield under your control, attach Ronin Warclub to that creature.
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0160</id>
+    <name>Shuko</name>
+    <text>Equipped creature gets +1/+0.
+Equip {0} ({0}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>"One scratch on a wall meant safe passage, two that the target had already been raided, and three warned of a trap."
+—Weaponry of Kamigawa</flavorText>
+  </item>
+  <item>
+    <id>BOK0161</id>
+    <name>Shuriken</name>
+    <text>Equipped creature has "{T}, Unattach Shuriken: Shuriken deals 2 damage to target creature. That creature's controller gains control of Shuriken unless it was unattached from a Ninja."
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0162</id>
+    <name>Slumbering Tora</name>
+    <text>{2}, Discard a Spirit or Arcane card: Slumbering Tora becomes an X/X Cat artifact creature until end of turn, where X is the discarded card's converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0163</id>
+    <name>That Which Was Taken</name>
+    <text>{4}, {T}: Put a divinity counter on target permanent other than That Which Was Taken.
+Each permanent with a divinity counter on it is indestructible.</text>
+    <flavorText>"This god held prisoner in human hands has put all humanity in the hands of angry gods."
+—Masako the Humorless</flavorText>
+  </item>
+  <item>
+    <id>BOK0164</id>
+    <name>Umezawa's Jitte</name>
+    <text>Whenever equipped creature deals combat damage, put two charge counters on Umezawa's Jitte.
+Remove a charge counter from Umezawa's Jitte: Choose one —  Equipped creature gets +2/+2 until end of turn; or target creature gets -1/-1 until end of turn; or you gain 2 life.
+Equip {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>BOK0165</id>
+    <name>Gods' Eye, Gate to the Reikai</name>
+    <text>{T}: Add {1} to your mana pool.
+When Gods' Eye, Gate to the Reikai is put into a graveyard from the battlefield, put a 1/1 colorless Spirit creature token onto the battlefield.</text>
+    <flavorText>Listen at its walls and you will hear the whispers of gods.</flavorText>
+  </item>
+  <item>
+    <id>BOK0166</id>
+    <name>Tendo Ice Bridge</name>
+    <text>Tendo Ice Bridge enters the battlefield with a charge counter on it.
+{T}: Add {1} to your mana pool.
+{T}, Remove a charge counter from Tendo Ice Bridge: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

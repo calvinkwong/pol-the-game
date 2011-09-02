@@ -1,0 +1,1068 @@
+<cards name="Planeshift">
+  <item>
+    <id>PLS0001</id>
+    <name>Aura Blast</name>
+    <text>Destroy target enchantment.
+Draw a card.</text>
+    <flavorText>"None of your history books mention me?" laughed Daria. "They will now."</flavorText>
+  </item>
+  <item>
+    <id>PLS0002</id>
+    <name>Aurora Griffin</name>
+    <text>Flying
+{W}: Target permanent becomes white until end of turn.</text>
+    <flavorText>Though a fierce fighter, its true value is that it inspires beleaguered forces.</flavorText>
+  </item>
+  <item>
+    <id>PLS0003</id>
+    <name>Disciple of Kangee</name>
+    <text>{U}, {T}: Target creature gains flying and becomes blue until end of turn.</text>
+    <flavorText>When no birds are available, Kangee's disciples fill the sky with anything that‘s willing to fight.</flavorText>
+  </item>
+  <item>
+    <id>PLS0004</id>
+    <name>Dominaria's Judgment</name>
+    <text>Until end of turn, creatures you control gain protection from white if you control a Plains, from blue if you control an Island, from black if you control a Swamp, from red if you control a Mountain, and from green if you control a Forest.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0005</id>
+    <name>Guard Dogs</name>
+    <text>{2}{W}, {T}: Choose a permanent you control. Prevent all combat damage target creature would deal this turn if it shares a color with that permanent.</text>
+    <flavorText>"A good guard is alert. A great guard is also loyal."
+—Benalish kennelmaster</flavorText>
+  </item>
+  <item>
+    <id>PLS0006</id>
+    <name>Heroic Defiance</name>
+    <text>Enchant creature
+Enchanted creature gets +3/+3 unless it shares a color with the most common color among all permanents or a color tied for most common.</text>
+    <flavorText>"Wear courage as your armor. Wield honor as your blade."
+—Gerrard</flavorText>
+  </item>
+  <item>
+    <id>PLS0007</id>
+    <name>Hobble</name>
+    <text>Enchant creature
+When Hobble enters the battlefield, draw a card.
+Enchanted creature can't attack.
+Enchanted creature can't block if it's black.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0008</id>
+    <name>Honorable Scout</name>
+    <text>When Honorable Scout enters the battlefield, you gain 2 life for each black and/or red creature target opponent controls.</text>
+    <flavorText>"I've faced your kind before. This time I'm ready for you."</flavorText>
+  </item>
+  <item>
+    <id>PLS0009</id>
+    <name>Lashknife Barrier</name>
+    <text>When Lashknife Barrier enters the battlefield, draw a card.
+If a source would deal damage to a creature you control, it deals that much damage minus 1 to that creature instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0010</id>
+    <name>March of Souls</name>
+    <text>Destroy all creatures. They can't be regenerated. For each creature destroyed this way, its controller puts a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0011</id>
+    <name>Orim's Chant</name>
+    <text>Kicker {W} (You may pay an additional {W} as you cast this spell.)
+Target player can't cast spells this turn.
+If Orim's Chant was kicked, creatures can't attack this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0012</id>
+    <name>Planeswalker's Mirth</name>
+    <text>{3}{W}: Target opponent reveals a card at random from his or her hand. You gain life equal to that card's converted mana cost.</text>
+    <flavorText>"I enjoy a good joke as much as the next guy."
+—Commodore Guff</flavorText>
+  </item>
+  <item>
+    <id>PLS0013</id>
+    <name>Pollen Remedy</name>
+    <text>Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)
+Prevent the next 3 damage that would be dealt this turn to any number of target creatures and/or players, divided as you choose. If Pollen Remedy was kicked, prevent the next 6 damage this way instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0014</id>
+    <name>Samite Elder</name>
+    <text>{T}: Creatures you control gain protection from the colors of target permanent you control until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0015</id>
+    <name>Samite Pilgrim</name>
+    <text>Domain — {T}: Prevent the next X damage that would be dealt to target creature this turn, where X is the number of basic land types among lands you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0016</id>
+    <name>Sunscape Battlemage</name>
+    <text>Kicker {1}{G} and/or {2}{U} (You may pay an additional {1}{G} and/or {2}{U} as you cast this spell.)
+When Sunscape Battlemage enters the battlefield, if it was kicked with its {1}{G} kicker, destroy target creature with flying.
+When Sunscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, draw two cards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0017</id>
+    <name>Sunscape Familiar</name>
+    <text>Defender (This creature can't attack.)
+Green spells and blue spells you cast cost {1} less to cast.</text>
+    <flavorText>The spirits of fallen battlemages can serve their guilds as familiars by joining with any physical form.</flavorText>
+  </item>
+  <item>
+    <id>PLS0018</id>
+    <name>Surprise Deployment</name>
+    <text>Cast Surprise Deployment only during combat.
+You may put a nonwhite creature card from your hand onto the battlefield. At the beginning of the next end step, return that creature to your hand. (Return it only if it's on the battlefield.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0019</id>
+    <name>Voice of All</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+As Voice of All enters the battlefield, choose a color.
+Voice of All has protection from the chosen color. (It can't be blocked, targeted, dealt damage, or enchanted by anything of the chosen color.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0020</id>
+    <name>Allied Strategies</name>
+    <text>Domain — Target player draws a card for each basic land type among lands he or she controls.</text>
+    <flavorText>Each commander looked at the others and wondered who would be first to break the alliance.</flavorText>
+  </item>
+  <item>
+    <id>PLS0021</id>
+    <name>Arctic Merfolk</name>
+    <text>Kicker—Return a creature you control to its owner's hand. (You may return a creature you control to its owner's hand in addition to any other costs as you cast this spell.)
+If Arctic Merfolk was kicked, it enters the battlefield with a +1/+1 counter on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0022</id>
+    <name>Confound</name>
+    <text>Counter target spell that targets one or more creatures.
+
+Draw a card.</text>
+    <flavorText>"Did I know Szat would betray us?" Urza asked quizzically. "I was counting on it."</flavorText>
+  </item>
+  <item>
+    <id>PLS0023</id>
+    <name>Dralnu's Pet</name>
+    <text>Kicker—{2}{B}, Discard a creature card. (You may pay {2}{B} and discard a creature card in addition to any other costs as you cast this spell.)
+If Dralnu's Pet was kicked, it enters the battlefield with flying and with X +1/+1 counters on it, where X is the discarded card's converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0024</id>
+    <name>Ertai's Trickery</name>
+    <text>Counter target spell if it was kicked.</text>
+    <flavorText>"Don't worry, Gerrard," said Ertai. "I'm sure the crew will come to your rescue as quickly as they came to mine."</flavorText>
+  </item>
+  <item>
+    <id>PLS0025</id>
+    <name>Escape Routes</name>
+    <text>{2}{U}: Return target white or black creature you control to its owner's hand.</text>
+    <flavorText>"I'll get you to safety—or whatever passes for safety these days."
+—Urborg ferry pilot</flavorText>
+  </item>
+  <item>
+    <id>PLS0026</id>
+    <name>Gainsay</name>
+    <text>Counter target blue spell.</text>
+    <flavorText>"I'd be happy to stop contradicting you, Urza, just as soon as you start being right."
+—Bo Levar, planeswalker</flavorText>
+  </item>
+  <item>
+    <id>PLS0027</id>
+    <name>Hunting Drake</name>
+    <text>Flying
+When Hunting Drake enters the battlefield, put target red or green creature on top of its owner's library.</text>
+    <flavorText>Even the fiercest beast will flee when faced with the possibility of becoming dinner.</flavorText>
+  </item>
+  <item>
+    <id>PLS0028</id>
+    <name>Planar Overlay</name>
+    <text>Each player chooses a land he or she controls of each basic land type. Return those lands to their owners' hands.</text>
+    <flavorText>The Phyrexians don't want to conquer Dominaria. They want to remake it.</flavorText>
+  </item>
+  <item>
+    <id>PLS0029</id>
+    <name>Planeswalker's Mischief</name>
+    <text>{3}{U}: Target opponent reveals a card at random from his or her hand. If it's an instant or sorcery card, exile it. You may cast it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.) At the beginning of the next end step, if you haven't cast it, return it to its owner's hand. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0030</id>
+    <name>Rushing River</name>
+    <text>Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)
+Return target nonland permanent to its owner's hand. If Rushing River was kicked, return another target nonland permanent to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0031</id>
+    <name>Sea Snidd</name>
+    <text>{T}: Target land becomes the basic land type of your choice until end of turn.</text>
+    <flavorText>It always has the home-turf advantage.</flavorText>
+  </item>
+  <item>
+    <id>PLS0032</id>
+    <name>Shifting Sky</name>
+    <text>As Shifting Sky enters the battlefield, choose a color.
+All nonland permanents are the chosen color.</text>
+    <flavorText>Master the sky and you rule everything beneath it.
+—Metathran saying</flavorText>
+  </item>
+  <item>
+    <id>PLS0033</id>
+    <name>Sisay's Ingenuity</name>
+    <text>Enchant creature
+When Sisay's Ingenuity enters the battlefield, draw a card.
+Enchanted creature has "{2}{U}: Target creature becomes the color of your choice until end of turn."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0034</id>
+    <name>Sleeping Potion</name>
+    <text>Enchant creature
+When Sleeping Potion enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step.
+When enchanted creature becomes the target of a spell or ability, sacrifice Sleeping Potion.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0035</id>
+    <name>Stormscape Battlemage</name>
+    <text>Kicker {W} and/or {2}{B} (You may pay an additional {W} and/or {2}{B} as you cast this spell.)
+When Stormscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, you gain 3 life.
+When Stormscape Battlemage enters the battlefield, if it was kicked with its {2}{B} kicker, destroy target nonblack creature. That creature can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0036</id>
+    <name>Stormscape Familiar</name>
+    <text>Flying
+White spells and black spells you cast cost {1} less to cast.</text>
+    <flavorText>Each Stormscape apprentice must hand-raise and train an owl before attaining the rank of master.</flavorText>
+  </item>
+  <item>
+    <id>PLS0037</id>
+    <name>Sunken Hope</name>
+    <text>At the beginning of each player's upkeep, that player returns a creature he or she controls to its owner's hand.</text>
+    <flavorText>While Dominarians fought for their world, Rath stole it from under their feet.</flavorText>
+  </item>
+  <item>
+    <id>PLS0038</id>
+    <name>Waterspout Elemental</name>
+    <text>Kicker {U} (You may pay an additional {U} as you cast this spell.)
+Flying
+When Waterspout Elemental enters the battlefield, if it was kicked, return all other creatures to their owners' hands and you skip your next turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0039</id>
+    <name>Bog Down</name>
+    <text>Kicker—Sacrifice two lands. (You may sacrifice two lands in addition to any other costs as you cast this spell.)
+Target player discards two cards. If Bog Down was kicked, that player discards three cards instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0040</id>
+    <name>Dark Suspicions</name>
+    <text>At the beginning of each opponent's upkeep, that player loses X life, where X is the number of cards in that player's hand minus the number of cards in your hand.</text>
+    <flavorText>"After four thousand years, you learn to plan for betrayal."
+—Urza</flavorText>
+  </item>
+  <item>
+    <id>PLS0041</id>
+    <name>Death Bomb</name>
+    <text>As an additional cost to cast Death Bomb, sacrifice a creature.
+Destroy target nonblack creature. It can't be regenerated. Its controller loses 2 life.</text>
+    <flavorText>There's no higher honor in Phyrexia than dying for Yawgmoth's glorious vision.</flavorText>
+  </item>
+  <item>
+    <id>PLS0042</id>
+    <name>Diabolic Intent</name>
+    <text>As an additional cost to cast Diabolic Intent, sacrifice a creature.
+Search your library for a card and put that card into your hand. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0043</id>
+    <name>Exotic Disease</name>
+    <text>Domain — Target player loses X life and you gain X life, where X is the number of basic land types among lands you control.</text>
+    <flavorText>"Do not fear death. I shall release you from the eternal bonds and bring you glory."
+—Lord Dralnu</flavorText>
+  </item>
+  <item>
+    <id>PLS0044</id>
+    <name>Lord of the Undead</name>
+    <text>Other Zombie creatures get +1/+1.
+{1}{B}, {T}: Return target Zombie card from your graveyard to your hand.</text>
+    <flavorText>"I confer with Death itself. What could you possibly do to injure me?"
+—Lord Dralnu</flavorText>
+  </item>
+  <item>
+    <id>PLS0045</id>
+    <name>Maggot Carrier</name>
+    <text>When Maggot Carrier enters the battlefield, each player loses 1 life.</text>
+    <flavorText>"The mere sight of our undead allies sickens me. What unholy bargain have you struck?"
+—Grizzlegom, to Agnate</flavorText>
+  </item>
+  <item>
+    <id>PLS0046</id>
+    <name>Morgue Toad</name>
+    <text>Sacrifice Morgue Toad: Add {U}{R} to your mana pool.</text>
+    <flavorText>"The toads of Urborg aren't fast, powerful, or pleasant, but they have their uses."
+—Ertai</flavorText>
+  </item>
+  <item>
+    <id>PLS0047</id>
+    <name>Nightscape Battlemage</name>
+    <text>Kicker {2}{U} and/or {2}{R} (You may pay an additional {2}{U} and/or {2}{R} as you cast this spell.)
+When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{U} kicker, return up to two target nonblack creatures to their owners' hands.
+When Nightscape Battlemage enters the battlefield, if it was kicked with its {2}{R} kicker, destroy target land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0048</id>
+    <name>Nightscape Familiar</name>
+    <text>Blue spells and red spells you cast cost {1} less to cast.
+{1}{B}: Regenerate Nightscape Familiar.</text>
+    <flavorText>Nightscape masters don't stop at raising the spirit of a fallen battlemage. They raise the flesh along with it.</flavorText>
+  </item>
+  <item>
+    <id>PLS0049</id>
+    <name>Noxious Vapors</name>
+    <text>Each player reveals his or her hand and chooses one card of each color from it, then discards all other nonland cards.</text>
+    <flavorText>Urborg would just as soon steal your memories as your life.</flavorText>
+  </item>
+  <item>
+    <id>PLS0050</id>
+    <name>Phyrexian Bloodstock</name>
+    <text>When Phyrexian Bloodstock leaves the battlefield, destroy target white creature. It can't be regenerated.</text>
+    <flavorText>It reeks of terror and chaos.</flavorText>
+  </item>
+  <item>
+    <id>PLS0051</id>
+    <name>Phyrexian Scuta</name>
+    <text>Kicker—Pay 3 life. (You may pay 3 life in addition to any other costs as you cast this spell.)
+If Phyrexian Scuta was kicked, it enters the battlefield with two +1/+1 counters on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0052</id>
+    <name>Planeswalker's Scorn</name>
+    <text>{3}{B}: Target opponent reveals a card at random from his or her hand. Target creature gets -X/-X until end of turn, where X is the revealed card's converted mana cost. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0053</id>
+    <name>Shriek of Dread</name>
+    <text>Target creature gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>When Crosis roared, the battle ended and the slaughter began.</flavorText>
+  </item>
+  <item>
+    <id>PLS0054</id>
+    <name>Sinister Strength</name>
+    <text>Enchant creature
+Enchanted creature gets +3/+1 and is black.</text>
+    <flavorText>"I bless the living with a song of death."
+—Lord Dralnu</flavorText>
+  </item>
+  <item>
+    <id>PLS0055</id>
+    <name>Slay</name>
+    <text>Destroy target green creature. It can't be regenerated.
+Draw a card.</text>
+    <flavorText>The elves had the edge in guile, skill, and valor. But in the end, only sheer numbers mattered.</flavorText>
+  </item>
+  <item>
+    <id>PLS0056</id>
+    <name>Volcano Imp</name>
+    <text>Flying
+
+{1}{R}: Volcano Imp gains first strike until end of turn.</text>
+    <flavorText>Its claws cut faster than a flame flickers.</flavorText>
+  </item>
+  <item>
+    <id>PLS0057</id>
+    <name>Warped Devotion</name>
+    <text>Whenever a permanent is returned to a player's hand, that player discards a card.</text>
+    <flavorText>"Before the glory of Yawgmoth, yes, even this makes sense."
+—Urza, to Gerrard</flavorText>
+  </item>
+  <item>
+    <id>PLS0058</id>
+    <name>Caldera Kavu</name>
+    <text>{1}{B}: Caldera Kavu gets +1/+1 until end of turn.
+{G}: Caldera Kavu becomes the color of your choice until end of turn.</text>
+    <flavorText>As powerful and malleable as the molten rock it calls home.</flavorText>
+  </item>
+  <item>
+    <id>PLS0059</id>
+    <name>Deadapult</name>
+    <text>{R}, Sacrifice a Zombie: Deadapult deals 2 damage to target creature or player.</text>
+    <flavorText>"Nothing ruins your day like a blazing zombie."
+—Tahngarth</flavorText>
+  </item>
+  <item>
+    <id>PLS0060</id>
+    <name>Flametongue Kavu</name>
+    <text>When Flametongue Kavu enters the battlefield, it deals 4 damage to target creature.</text>
+    <flavorText>"For dim-witted, thick-skulled genetic mutants, they have pretty good aim."
+—Sisay</flavorText>
+  </item>
+  <item>
+    <id>PLS0061</id>
+    <name>Goblin Game</name>
+    <text>Each player hides at least one item, then all players reveal them simultaneously. Each player loses life equal to the number of items he or she revealed. The player who revealed the fewest items then loses half his or her life, rounded up. If two or more players are tied for fewest, each loses half his or her life, rounded up.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0062</id>
+    <name>Implode</name>
+    <text>Destroy target land.
+
+Draw a card.</text>
+    <flavorText>To save Dominaria, nine planeswalkers sought the annihilation of Phyrexia itself.</flavorText>
+  </item>
+  <item>
+    <id>PLS0063</id>
+    <name>Insolence</name>
+    <text>Enchant creature
+Whenever enchanted creature becomes tapped, Insolence deals 2 damage to that creature's controller.</text>
+    <flavorText>"Sacrificing mortal dragons to satisfy your immortal hunger ends here."
+—Darigaaz, to Rith</flavorText>
+  </item>
+  <item>
+    <id>PLS0064</id>
+    <name>Kavu Recluse</name>
+    <text>{T}: Target land becomes a Forest until end of turn.</text>
+    <flavorText>Few ever see this particular breed of kavu, which hides in forests of its own making.</flavorText>
+  </item>
+  <item>
+    <id>PLS0065</id>
+    <name>Keldon Mantle</name>
+    <text>Enchant creature
+{B}: Regenerate enchanted creature.
+{R}: Enchanted creature gets +1/+0 until end of turn.
+{G}: Enchanted creature gains trample until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0066</id>
+    <name>Magma Burst</name>
+    <text>Kicker—Sacrifice two lands. (You may sacrifice two lands in addition to any other costs as you cast this spell.)
+Magma Burst deals 3 damage to target creature or player. If Magma Burst was kicked, it deals 3 damage to another target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0067</id>
+    <name>Mire Kavu</name>
+    <text>Mire Kavu gets +1/+1 as long as you control a Swamp.</text>
+    <flavorText>"At this rate," said Sisay, "the next kavu we see will have wings."</flavorText>
+  </item>
+  <item>
+    <id>PLS0068</id>
+    <name>Mogg Jailer</name>
+    <text>Mogg Jailer can't attack if defending player controls an untapped creature with power 2 or less.</text>
+    <flavorText>Hey, wake up
+—Mogg secret password</flavorText>
+  </item>
+  <item>
+    <id>PLS0069</id>
+    <name>Mogg Sentry</name>
+    <text>Whenever an opponent casts a spell, Mogg Sentry gets +2/+2 until end of turn.</text>
+    <flavorText>"Nobody stands in one place better than a mogg."
+—Tahngarth</flavorText>
+  </item>
+  <item>
+    <id>PLS0070</id>
+    <name>Planeswalker's Fury</name>
+    <text>{3}{R}: Target opponent reveals a card at random from his or her hand. Planeswalker's Fury deals damage equal to that card's converted mana cost to that player. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0071</id>
+    <name>Singe</name>
+    <text>Singe deals 1 damage to target creature. That creature becomes black until end of turn.</text>
+    <flavorText>Burnt flesh. Blackened soul.</flavorText>
+  </item>
+  <item>
+    <id>PLS0072</id>
+    <name>Slingshot Goblin</name>
+    <text>{R}, {T}: Slingshot Goblin deals 2 damage to target blue creature.</text>
+    <flavorText>It's most effective when it doesn't eat the ammunition.</flavorText>
+  </item>
+  <item>
+    <id>PLS0073</id>
+    <name>Strafe</name>
+    <text>Strafe deals 3 damage to target nonred creature.</text>
+    <flavorText>"All right, let's light ‘em up"
+—Gerrard</flavorText>
+  </item>
+  <item>
+    <id>PLS0074</id>
+    <name>Tahngarth, Talruum Hero</name>
+    <text>Vigilance
+{1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0075</id>
+    <name>Tahngarth, Talruum Hero</name>
+    <text>Vigilance
+{1}{R}, {T}: Tahngarth, Talruum Hero deals damage equal to its power to target creature. That creature deals damage equal to its power to Tahngarth.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0076</id>
+    <name>Thunderscape Battlemage</name>
+    <text>Kicker {1}{B} and/or {G} (You may pay an additional {1}{B} and/or {G} as you cast this spell.)
+When Thunderscape Battlemage enters the battlefield, if it was kicked with its {1}{B} kicker, target player discards two cards.
+When Thunderscape Battlemage enters the battlefield, if it was kicked with its {G} kicker, destroy target enchantment.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0077</id>
+    <name>Thunderscape Familiar</name>
+    <text>First strike
+Black spells and green spells you cast cost {1} less to cast.</text>
+    <flavorText>Thunderscape masters release familiars to help guide their apprentices down the thunderscape path.</flavorText>
+  </item>
+  <item>
+    <id>PLS0078</id>
+    <name>Alpha Kavu</name>
+    <text>{1}{G}: Target Kavu creature gets -1/+1 until end of turn.</text>
+    <flavorText>Kavu leaders instinctively protect their herds from harm.</flavorText>
+  </item>
+  <item>
+    <id>PLS0079</id>
+    <name>Amphibious Kavu</name>
+    <text>Whenever Amphibious Kavu blocks or becomes blocked by one or more blue and/or black creatures, Amphibious Kavu gets +3/+3 until end of turn.</text>
+    <flavorText>Merfolk raided the shores untroubled for years . . . until the shores started fighting back.</flavorText>
+  </item>
+  <item>
+    <id>PLS0080</id>
+    <name>Falling Timber</name>
+    <text>Kicker—Sacrifice a land. (You may sacrifice a land in addition to any other costs as you cast this spell.)
+Prevent all combat damage target creature would deal this turn. If Falling Timber was kicked, prevent all combat damage another target creature would deal this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0081</id>
+    <name>Gaea's Herald</name>
+    <text>Creature spells can't be countered.</text>
+    <flavorText>"I bring word from Gaea. Fight on She will never allow her children to die alone."</flavorText>
+  </item>
+  <item>
+    <id>PLS0082</id>
+    <name>Gaea's Might</name>
+    <text>Domain — Target creature gets +1/+1 until end of turn for each basic land type among lands you control.</text>
+    <flavorText>With the Heart of Yavimaya aiding him, Multani didn't even strain at the load.</flavorText>
+  </item>
+  <item>
+    <id>PLS0083</id>
+    <name>Magnigoth Treefolk</name>
+    <text>Domain — For each basic land type among lands you control, Magnigoth Treefolk has landwalk of that type.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0084</id>
+    <name>Mirrorwood Treefolk</name>
+    <text>{2}{R}{W}: The next time damage would be dealt to Mirrorwood Treefolk this turn, that damage is dealt to target creature or player instead.</text>
+    <flavorText>It doesn't need a bite. The bark works just fine.</flavorText>
+  </item>
+  <item>
+    <id>PLS0085</id>
+    <name>Multani's Harmony</name>
+    <text>Enchant creature
+Enchanted creature has "{T}: Add one mana of any color to your mana pool."</text>
+    <flavorText>"Welcome to paradise."</flavorText>
+  </item>
+  <item>
+    <id>PLS0086</id>
+    <name>Nemata, Grove Guardian</name>
+    <text>{2}{G}: Put a 1/1 green Saproling creature token onto the battlefield.
+Sacrifice a Saproling: Saproling creatures get +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0087</id>
+    <name>Planeswalker's Favor</name>
+    <text>{3}{G}: Target opponent reveals a card at random from his or her hand. Target creature gets +X/+X until end of turn, where X is the revealed card's converted mana cost.</text>
+    <flavorText>Freyalise strengthens her faithful.</flavorText>
+  </item>
+  <item>
+    <id>PLS0088</id>
+    <name>Primal Growth</name>
+    <text>Kicker—Sacrifice a creature. (You may sacrifice a creature in addition to any other costs as you cast this spell.)
+Search your library for a basic land card, put that card onto the battlefield, then shuffle your library. If Primal Growth was kicked, instead search your library for two basic land cards, put them onto the battlefield, then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0089</id>
+    <name>Pygmy Kavu</name>
+    <text>When Pygmy Kavu enters the battlefield, draw a card for each black creature your opponents control.</text>
+    <flavorText>"We could learn a lot by watching the little ones," said Agnate.
+"Define ‘little,'" replied Grizzlegom.</flavorText>
+  </item>
+  <item>
+    <id>PLS0090</id>
+    <name>Quirion Dryad</name>
+    <text>Whenever you cast a white, blue, black, or red spell, put a +1/+1 counter on Quirion Dryad.</text>
+    <flavorText>"Never underestimate the ability of natural forces to adapt to unnatural influences."
+—Molimo, maro-sorcerer</flavorText>
+  </item>
+  <item>
+    <id>PLS0091</id>
+    <name>Quirion Explorer</name>
+    <text>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.</text>
+    <flavorText>Fight with a friend at your back, steel in your hands, and magic in your veins.
+—Quirion creed</flavorText>
+  </item>
+  <item>
+    <id>PLS0092</id>
+    <name>Root Greevil</name>
+    <text>{2}{G}, {T}, Sacrifice Root Greevil: Destroy all enchantments of the color of your choice.</text>
+    <flavorText>The root of all greevils.</flavorText>
+  </item>
+  <item>
+    <id>PLS0093</id>
+    <name>Skyshroud Blessing</name>
+    <text>Lands gain shroud until end of turn. (They can't be the targets of spells or abilities.)
+Draw a card.</text>
+    <flavorText>"Behold," said Freyalise to Eladamri. "Your Skyshroud home has followed you to Dominaria."</flavorText>
+  </item>
+  <item>
+    <id>PLS0094</id>
+    <name>Stone Kavu</name>
+    <text>{R}: Stone Kavu gets +1/+0 until end of turn.
+{W}: Stone Kavu gets +0/+1 until end of turn.</text>
+    <flavorText>To maintain its hide, it consumes a variety of rocks—not to mention a variety of Phyrexians.</flavorText>
+  </item>
+  <item>
+    <id>PLS0095</id>
+    <name>Thornscape Battlemage</name>
+    <text>Kicker {R} and/or {W} (You may pay an additional {R} and/or {W} as you cast this spell.)
+When Thornscape Battlemage enters the battlefield, if it was kicked with its {R} kicker, it deals 2 damage to target creature or player.
+When Thornscape Battlemage enters the battlefield, if it was kicked with its {W} kicker, destroy target artifact.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0096</id>
+    <name>Thornscape Familiar</name>
+    <text>Red spells and white spells you cast cost {1} less to cast.</text>
+    <flavorText>Blessed with many options, Thornscape masters favor scarabs as familiars.</flavorText>
+  </item>
+  <item>
+    <id>PLS0097</id>
+    <name>Ancient Spider</name>
+    <text>First strike; reach (This creature can block creatures with flying.)</text>
+    <flavorText>It outlived both king and castle.</flavorText>
+  </item>
+  <item>
+    <id>PLS0098</id>
+    <name>Cavern Harpy</name>
+    <text>Flying
+When Cavern Harpy enters the battlefield, return a blue or black creature you control to its owner's hand.
+Pay 1 life: Return Cavern Harpy to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0099</id>
+    <name>Cloud Cover</name>
+    <text>Whenever another permanent you control becomes the target of a spell or ability an opponent controls, you may return that permanent to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0100</id>
+    <name>Crosis's Charm</name>
+    <text>Choose one — Return target permanent to its owner's hand; or destroy target nonblack creature, and it can't be regenerated; or destroy target artifact.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0101</id>
+    <name>Darigaaz's Charm</name>
+    <text>Choose one — Return target creature card from your graveyard to your hand; or Darigaaz's Charm deals 3 damage to target creature or player; or target creature gets +3/+3 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0102</id>
+    <name>Daring Leap</name>
+    <text>Target creature gets +1/+1 and gains flying and first strike until end of turn.</text>
+    <flavorText>Most warriors think in only two dimensions. Agnate and his metathran brethren were trained to battle in three.</flavorText>
+  </item>
+  <item>
+    <id>PLS0103</id>
+    <name>Destructive Flow</name>
+    <text>At the beginning of each player's upkeep, that player sacrifices a nonbasic land.</text>
+    <flavorText>Stage two of the Phyrexian invasion included the complete alteration of Dominaria's landscape.</flavorText>
+  </item>
+  <item>
+    <id>PLS0104</id>
+    <name>Doomsday Specter</name>
+    <text>Flying
+When Doomsday Specter enters the battlefield, return a blue or black creature you control to its owner's hand.
+Whenever Doomsday Specter deals combat damage to a player, look at that player's hand and choose a card from it. The player discards that card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0105</id>
+    <name>Dralnu's Crusade</name>
+    <text>Goblin creatures get +1/+1.
+All Goblins are black and are Zombies in addition to their other creature types.</text>
+    <flavorText>"Don't you agree that mogg intellects are improved by zombification?"
+—Lord Dralnu</flavorText>
+  </item>
+  <item>
+    <id>PLS0106</id>
+    <name>Dromar's Charm</name>
+    <text>Choose one — You gain 5 life; or counter target spell; or target creature gets -2/-2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0107</id>
+    <name>Eladamri's Call</name>
+    <text>Search your library for a creature card, reveal that card, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>Tribal rivalries and petty disputes were laid aside at Eladamri's summons.</flavorText>
+  </item>
+  <item>
+    <id>PLS0108</id>
+    <name>Ertai, the Corrupted</name>
+    <text>{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.</text>
+    <flavorText>Altered by Phyrexian science, corrupted by black mana, and twisted by rage, Ertai still looked in the mirror and saw only glory.</flavorText>
+  </item>
+  <item>
+    <id>PLS0109</id>
+    <name>Ertai, the Corrupted</name>
+    <text>{U}, {T}, Sacrifice a creature or enchantment: Counter target spell.</text>
+    <flavorText>Altered by Phyrexian science, corrupted by black mana, and twisted by rage, Ertai still looked in the mirror and saw only glory.</flavorText>
+  </item>
+  <item>
+    <id>PLS0110</id>
+    <name>Fleetfoot Panther</name>
+    <text>Flash
+When Fleetfoot Panther enters the battlefield, return a green or white creature you control to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0111</id>
+    <name>Gerrard's Command</name>
+    <text>Untap target creature. It gets +3/+3 until end of turn.</text>
+    <flavorText>"Unless you like the idea of becoming some goblin's lunch, get up and move"</flavorText>
+  </item>
+  <item>
+    <id>PLS0112</id>
+    <name>Horned Kavu</name>
+    <text>When Horned Kavu enters the battlefield, return a red or green creature you control to its owner's hand.</text>
+    <flavorText>"That didn't happen naturally," said Multani. "Rath's overlay is interfering with the Æther itself."</flavorText>
+  </item>
+  <item>
+    <id>PLS0113</id>
+    <name>Hull Breach</name>
+    <text>Choose one — Destroy target artifact; or destroy target enchantment; or destroy target artifact and target enchantment.</text>
+    <flavorText>"Crovax knows we're coming now," said a grinning Sisay. "I just sent the Predator crashing into his stronghold."</flavorText>
+  </item>
+  <item>
+    <id>PLS0114</id>
+    <name>Keldon Twilight</name>
+    <text>At the beginning of each player's end step, if no creatures attacked this turn, that player sacrifices a creature he or she controlled since the beginning of the turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0115</id>
+    <name>Lava Zombie</name>
+    <text>When Lava Zombie enters the battlefield, return a black or red creature you control to its owner's hand.
+{2}: Lava Zombie gets +1/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0116</id>
+    <name>Malicious Advice</name>
+    <text>Tap X target artifacts, creatures, and/or lands. You lose X life.</text>
+    <flavorText>"Rule through fear, Darigaaz. Only if the dragons feel terror will they truly be your servants."
+—Tevesh Szat</flavorText>
+  </item>
+  <item>
+    <id>PLS0117</id>
+    <name>Marsh Crocodile</name>
+    <text>When Marsh Crocodile enters the battlefield, return a blue or black creature you control to its owner's hand.
+When Marsh Crocodile enters the battlefield, each player discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0118</id>
+    <name>Meddling Mage</name>
+    <text>As Meddling Mage enters the battlefield, name a nonland card.
+The named card can't be cast.</text>
+    <flavorText>Meddling mages chant so loudly that no one can get a spell in edgewise.</flavorText>
+  </item>
+  <item>
+    <id>PLS0119</id>
+    <name>Natural Emergence</name>
+    <text>When Natural Emergence enters the battlefield, return a red or green enchantment you control to its owner's hand.
+Lands you control are 2/2 creatures with first strike. They're still lands.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0120</id>
+    <name>Phyrexian Tyranny</name>
+    <text>Whenever a player draws a card, that player loses 2 life unless he or she pays {2}.</text>
+    <flavorText>"He is Yawgmoth's reward to me. I shall kill him a hundred times a day."
+—Crovax, to Ertai</flavorText>
+  </item>
+  <item>
+    <id>PLS0121</id>
+    <name>Questing Phelddagrif</name>
+    <text>{G}: Questing Phelddagrif gets +1/+1 until end of turn. Target opponent puts a 1/1 green Hippo creature token onto the battlefield.
+{W}: Questing Phelddagrif gains protection from black and from red until end of turn. Target opponent gains 2 life.
+{U}: Questing Phelddagrif gains flying until end of turn. Target opponent may draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0122</id>
+    <name>Radiant Kavu</name>
+    <text>{R}{G}{W}: Prevent all combat damage blue creatures and black creatures would deal this turn.</text>
+    <flavorText>When angered or frightened, it protects itself with a burst of blinding light.</flavorText>
+  </item>
+  <item>
+    <id>PLS0123</id>
+    <name>Razing Snidd</name>
+    <text>When Razing Snidd enters the battlefield, return a black or red creature you control to its owner's hand.
+When Razing Snidd enters the battlefield, each player sacrifices a land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0124</id>
+    <name>Rith's Charm</name>
+    <text>Choose one — Destroy target nonbasic land; or put three 1/1 green Saproling creature tokens onto the battlefield; or prevent all damage a source of your choice would deal this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0125</id>
+    <name>Sawtooth Loon</name>
+    <text>Flying
+When Sawtooth Loon enters the battlefield, return a white or blue creature you control to its owner's hand.
+When Sawtooth Loon enters the battlefield, draw two cards, then put two cards from your hand on the bottom of your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0126</id>
+    <name>Shivan Wurm</name>
+    <text>Trample
+When Shivan Wurm enters the battlefield, return a red or green creature you control to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0127</id>
+    <name>Silver Drake</name>
+    <text>Flying
+When Silver Drake enters the battlefield, return a white or blue creature you control to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0128</id>
+    <name>Sparkcaster</name>
+    <text>When Sparkcaster enters the battlefield, return a red or green creature you control to its owner's hand.
+When Sparkcaster enters the battlefield, it deals 1 damage to target player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0129</id>
+    <name>Steel Leaf Paladin</name>
+    <text>First strike
+When Steel Leaf Paladin enters the battlefield, return a green or white creature you control to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0130</id>
+    <name>Terminate</name>
+    <text>Destroy target creature. It can't be regenerated.</text>
+    <flavorText>Like his mother before him, Darigaaz gave his life defending Dominaria from the tyranny of self-styled "gods."</flavorText>
+  </item>
+  <item>
+    <id>PLS0131</id>
+    <name>Treva's Charm</name>
+    <text>Choose one — Destroy target enchantment; or exile target attacking creature; or draw a card, then discard a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0132</id>
+    <name>Urza's Guilt</name>
+    <text>Each player draws two cards, then discards three cards, then loses 4 life.</text>
+    <flavorText>Deep in Yawgmoth's realm, Urza stopped dead in his tracks and rubbed his soot-filled eyes. "Mishra?"</flavorText>
+  </item>
+  <item>
+    <id>PLS0133</id>
+    <name>Draco</name>
+    <text>Domain — Draco costs {2} less to cast for each basic land type among lands you control.
+Flying
+Domain — At the beginning of your upkeep, sacrifice Draco unless you pay {1}0. This cost is reduced by {2} for each basic land type among lands you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0134</id>
+    <name>Mana Cylix</name>
+    <text>{1}, {T}: Add one mana of any color to your mana pool.</text>
+    <flavorText>Overflowing with visions of the possible future, it lends power to those in the present.</flavorText>
+  </item>
+  <item>
+    <id>PLS0135</id>
+    <name>Skyship Weatherlight</name>
+    <text>When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library.
+{4}, {T}: Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0136</id>
+    <name>Skyship Weatherlight</name>
+    <text>When Skyship Weatherlight enters the battlefield, search your library for any number of artifact and/or creature cards and exile them. Then shuffle your library.
+{4}, {T}: Choose a card at random that was exiled with Skyship Weatherlight. Put that card into its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0137</id>
+    <name>Star Compass</name>
+    <text>Star Compass enters the battlefield tapped.
+{T}: Add to your mana pool one mana of any color a basic land you control could produce.</text>
+    <flavorText>It doesn't point north. It points home.</flavorText>
+  </item>
+  <item>
+    <id>PLS0138</id>
+    <name>Stratadon</name>
+    <text>Domain — Stratadon costs {1} less to cast for each basic land type among lands you control.
+Trample</text>
+    <flavorText>Designed like the gargadons of Keld—big and brutal.</flavorText>
+  </item>
+  <item>
+    <id>PLS0139</id>
+    <name>Crosis's Catacombs</name>
+    <text>When Crosis's Catacombs enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add {U}, {B}, or {R} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0140</id>
+    <name>Darigaaz's Caldera</name>
+    <text>When Darigaaz's Caldera enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add {B}, {R}, or {G} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0141</id>
+    <name>Dromar's Cavern</name>
+    <text>When Dromar's Cavern enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add {W}, {U}, or {B} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0142</id>
+    <name>Forsaken City</name>
+    <text>Forsaken City doesn't untap during your untap step.
+At the beginning of your upkeep, you may exile a card from your hand. If you do, untap Forsaken City.
+{T}: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0143</id>
+    <name>Meteor Crater</name>
+    <text>{T}: Choose a color of a permanent you control. Add one mana of that color to your mana pool.</text>
+    <flavorText>Legend has it that meteor craters are haunted by the ghosts of those who died on impact.</flavorText>
+  </item>
+  <item>
+    <id>PLS0144</id>
+    <name>Rith's Grove</name>
+    <text>When Rith's Grove enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add {R}, {G}, or {W} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0145</id>
+    <name>Terminal Moraine</name>
+    <text>{T}: Add {1} to your mana pool.
+{2}, {T}, Sacrifice Terminal Moraine: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PLS0146</id>
+    <name>Treva's Ruins</name>
+    <text>When Treva's Ruins enters the battlefield, sacrifice it unless you return a non-Lair land you control to its owner's hand.
+{T}: Add {G}, {W}, or {U} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

@@ -1,0 +1,1050 @@
+<cards name="Judgment">
+  <item>
+    <id>JUD0001</id>
+    <name>Ancestor's Chosen</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)
+When Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.</text>
+    <flavorText>Empowered by generations of strength.</flavorText>
+  </item>
+  <item>
+    <id>JUD0002</id>
+    <name>Aven Warcraft</name>
+    <text>Creatures you control get +0/+2 until end of turn.
+Threshold — If seven or more cards are in your graveyard, creatures you control also gain protection from the color of your choice until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0003</id>
+    <name>Battle Screech</name>
+    <text>Put two 1/1 white Bird creature tokens with flying onto the battlefield.
+Flashback—Tap three untapped white creatures you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0004</id>
+    <name>Battlewise Aven</name>
+    <text>Flying
+Threshold — As long as seven or more cards are in your graveyard, Battlewise Aven gets +1/+1 and has first strike.</text>
+    <flavorText>Experience is a good teacher, not a kind one.</flavorText>
+  </item>
+  <item>
+    <id>JUD0005</id>
+    <name>Benevolent Bodyguard</name>
+    <text>Sacrifice Benevolent Bodyguard: Target creature you control gains protection from the color of your choice until end of turn.</text>
+    <flavorText>"My destiny is to save others so their destinies may be achieved."</flavorText>
+  </item>
+  <item>
+    <id>JUD0006</id>
+    <name>Border Patrol</name>
+    <text>Vigilance</text>
+    <flavorText>"We have been victims of treachery, of the Cabal, and of our own ambitions. No more."
+—Commander Eesha</flavorText>
+  </item>
+  <item>
+    <id>JUD0007</id>
+    <name>Cagemail</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+2 and can't attack.</text>
+    <flavorText>"Power often costs too high a price."
+—Commander Eesha</flavorText>
+  </item>
+  <item>
+    <id>JUD0008</id>
+    <name>Chastise</name>
+    <text>Destroy target attacking creature. You gain life equal to its power.</text>
+    <flavorText>"Why do we pray to the Ancestor? Because She listens."
+—Mystic elder</flavorText>
+  </item>
+  <item>
+    <id>JUD0009</id>
+    <name>Commander Eesha</name>
+    <text>Flying, protection from creatures</text>
+    <flavorText>"War glides on the simplest updrafts while peace struggles against hurricane winds. It is the way of the world. It must change."</flavorText>
+  </item>
+  <item>
+    <id>JUD0010</id>
+    <name>Funeral Pyre</name>
+    <text>Exile target card from a graveyard. Its owner puts a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    <flavorText>"Raze the body. Raise the soul."
+—Mystic elder</flavorText>
+  </item>
+  <item>
+    <id>JUD0011</id>
+    <name>Glory</name>
+    <text>Flying
+{2}{W}: Creatures you control gain protection from the color of your choice until end of turn. Activate this ability only if Glory is in your graveyard.</text>
+    <flavorText>"Glory was gone; Glory was everywhere."
+—Scroll of Beginnings</flavorText>
+  </item>
+  <item>
+    <id>JUD0012</id>
+    <name>Golden Wish</name>
+    <text>You may choose an artifact or enchantment card you own from outside the game, reveal that card, and put it into your hand. Exile Golden Wish.</text>
+    <flavorText>She wished for nobility, but not for a nation to honor it.</flavorText>
+  </item>
+  <item>
+    <id>JUD0013</id>
+    <name>Guided Strike</name>
+    <text>Target creature gets +1/+0 and gains first strike until end of turn.
+
+Draw a card.</text>
+    <flavorText>"May the Ancestor strengthen my hand and guide my blade."
+—Nomad war prayer</flavorText>
+  </item>
+  <item>
+    <id>JUD0014</id>
+    <name>Lead Astray</name>
+    <text>Tap up to two target creatures.</text>
+    <flavorText>"Never underestimate our enemy's strength, brutality, . . . or stupidity."
+—Commander Eesha</flavorText>
+  </item>
+  <item>
+    <id>JUD0015</id>
+    <name>Nomad Mythmaker</name>
+    <text>{W}, {T}: Put target Aura card from a graveyard onto the battlefield under your control attached to a creature you control.</text>
+    <flavorText>Nomads weave tales thicker than tapestries.</flavorText>
+  </item>
+  <item>
+    <id>JUD0016</id>
+    <name>Phantom Flock</name>
+    <text>Flying
+Phantom Flock enters the battlefield with three +1/+1 counters on it.
+If damage would be dealt to Phantom Flock, prevent that damage. Remove a +1/+1 counter from Phantom Flock.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0017</id>
+    <name>Phantom Nomad</name>
+    <text>Phantom Nomad enters the battlefield with two +1/+1 counters on it.
+If damage would be dealt to Phantom Nomad, prevent that damage. Remove a +1/+1 counter from Phantom Nomad.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0018</id>
+    <name>Prismatic Strands</name>
+    <text>Prevent all damage that sources of the color of your choice would deal this turn.
+Flashback—Tap an untapped white creature you control. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0019</id>
+    <name>Pulsemage Advocate</name>
+    <text>{T}: Return three target cards from an opponent's graveyard to his or her hand. Return target creature card from your graveyard to the battlefield.</text>
+    <flavorText>"Our unity revives our hopes."</flavorText>
+  </item>
+  <item>
+    <id>JUD0020</id>
+    <name>Ray of Revelation</name>
+    <text>Destroy target enchantment.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>Webs of illusion unravel in the light of truth.</flavorText>
+  </item>
+  <item>
+    <id>JUD0021</id>
+    <name>Selfless Exorcist</name>
+    <text>{T}: Exile target creature card from a graveyard. That card deals damage equal to its power to Selfless Exorcist.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0022</id>
+    <name>Shieldmage Advocate</name>
+    <text>{T}: Return target card from an opponent's graveyard to his or her hand. Prevent all damage that would be dealt to target creature or player this turn by a source of your choice.</text>
+    <flavorText>"Our unity conquers all fears."</flavorText>
+  </item>
+  <item>
+    <id>JUD0023</id>
+    <name>Silver Seraph</name>
+    <text>Flying
+Threshold — Other creatures you control get +2/+2 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>A symbol of hope for hopeless times.</flavorText>
+  </item>
+  <item>
+    <id>JUD0024</id>
+    <name>Solitary Confinement</name>
+    <text>At the beginning of your upkeep, sacrifice Solitary Confinement unless you discard a card.
+Skip your draw step.
+You have shroud. (You can't be the target of spells or abilities.)
+Prevent all damage that would be dealt to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0025</id>
+    <name>Soulcatchers' Aerie</name>
+    <text>Whenever a Bird is put into your graveyard from the battlefield, put a feather counter on Soulcatchers' Aerie.
+Bird creatures get +1/+1 for each feather counter on Soulcatchers' Aerie.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0026</id>
+    <name>Spirit Cairn</name>
+    <text>Whenever a player discards a card, you may pay {W}. If you do, put a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    <flavorText>It marks the border between here and hereafter.</flavorText>
+  </item>
+  <item>
+    <id>JUD0027</id>
+    <name>Spurnmage Advocate</name>
+    <text>{T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target attacking creature.</text>
+    <flavorText>"Our unity humbles our foes."</flavorText>
+  </item>
+  <item>
+    <id>JUD0028</id>
+    <name>Suntail Hawk</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>"Our forebears once flew like this—carefree, needing nothing but a warm nest and a full belly. Our intellect may be more burden than blessing."
+—Commander Eesha</flavorText>
+  </item>
+  <item>
+    <id>JUD0029</id>
+    <name>Test of Endurance</name>
+    <text>At the beginning of your upkeep, if you have 50 or more life, you win the game.</text>
+    <flavorText>"If we have learned nothing else, we have learned to survive."
+—Mystic elder</flavorText>
+  </item>
+  <item>
+    <id>JUD0030</id>
+    <name>Trained Pronghorn</name>
+    <text>Discard a card: Prevent all damage that would be dealt to Trained Pronghorn this turn.</text>
+    <flavorText>"The desert asked the Ancestor for children, and the antelope were born."
+—Nomad myth</flavorText>
+  </item>
+  <item>
+    <id>JUD0031</id>
+    <name>Unquestioned Authority</name>
+    <text>Enchant creature
+When Unquestioned Authority enters the battlefield, draw a card.
+Enchanted creature has protection from creatures.</text>
+    <flavorText>"Only the Ancestor should be revered."
+—Mystic heretic</flavorText>
+  </item>
+  <item>
+    <id>JUD0032</id>
+    <name>Valor</name>
+    <text>First strike
+As long as Valor is in your graveyard and you control a Plains, creatures you control have first strike.</text>
+    <flavorText>"The cracks widened, the shell crumbled, and Valor spread throughout the land."
+—Scroll of Beginnings</flavorText>
+  </item>
+  <item>
+    <id>JUD0033</id>
+    <name>Vigilant Sentry</name>
+    <text>Threshold — As long as seven or more cards are in your graveyard, Vigilant Sentry gets +1/+1 and has "{T}: Target attacking or blocking creature gets +3/+3 until end of turn."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0034</id>
+    <name>Aven Fogbringer</name>
+    <text>Flying
+When Aven Fogbringer enters the battlefield, return target land to its owner's hand.</text>
+    <flavorText>"I cover the land with blankets and it sleeps."</flavorText>
+  </item>
+  <item>
+    <id>JUD0035</id>
+    <name>Cephalid Constable</name>
+    <text>Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owners' hands.</text>
+    <flavorText>Cephalids don't police people. They police loyalties.</flavorText>
+  </item>
+  <item>
+    <id>JUD0036</id>
+    <name>Cephalid Inkshrouder</name>
+    <text>Discard a card: Cephalid Inkshrouder gains shroud until end of turn and is unblockable this turn. (A permanent with shroud can't be the target of spells or abilities.)</text>
+    <flavorText>Cephalids shrink from the harsh glare of scrutiny.</flavorText>
+  </item>
+  <item>
+    <id>JUD0037</id>
+    <name>Cunning Wish</name>
+    <text>You may choose an instant card you own from outside the game, reveal that card, and put it into your hand. Exile Cunning Wish.</text>
+    <flavorText>He wished for knowledge, but not for the will to apply it.</flavorText>
+  </item>
+  <item>
+    <id>JUD0038</id>
+    <name>Defy Gravity</name>
+    <text>Target creature gains flying until end of turn.
+Flashback {U} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>Magical or not, it's still a cloud.</flavorText>
+  </item>
+  <item>
+    <id>JUD0039</id>
+    <name>Envelop</name>
+    <text>Counter target sorcery spell.</text>
+    <flavorText>"What you made will be unmade. What you learned will be unlearned. And when you're done, you will be undone."
+—Ambassador Laquatus</flavorText>
+  </item>
+  <item>
+    <id>JUD0040</id>
+    <name>Flash of Insight</name>
+    <text>Look at the top X cards of your library. Put one of them into your hand and the rest on the bottom of your library.
+Flashback—{1}{U}, Exile X blue cards from your graveyard. (You may cast this card from your graveyard for its flashback cost, then exile it. You can't exile Flash of Insight to pay for its own flashback cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0041</id>
+    <name>Grip of Amnesia</name>
+    <text>Counter target spell unless its controller exiles all cards from his or her graveyard.
+Draw a card.</text>
+    <flavorText>"Would you abandon your past to save your future?"
+—Ambassador Laquatus</flavorText>
+  </item>
+  <item>
+    <id>JUD0042</id>
+    <name>Hapless Researcher</name>
+    <text>Sacrifice Hapless Researcher: Draw a card, then discard a card.</text>
+    <flavorText>Scholars possess such lofty knowledge that it shouldn't be surprising when they fall.</flavorText>
+  </item>
+  <item>
+    <id>JUD0043</id>
+    <name>Keep Watch</name>
+    <text>Draw a card for each attacking creature.</text>
+    <flavorText>"I see their moral dilemmas. I see their raw courage. I see their self-sacrifice. I see our victory."</flavorText>
+  </item>
+  <item>
+    <id>JUD0044</id>
+    <name>Laquatus's Disdain</name>
+    <text>Counter target spell cast from a graveyard.
+Draw a card.</text>
+    <flavorText>"The first time was amusing, but now you're getting tiresome."</flavorText>
+  </item>
+  <item>
+    <id>JUD0045</id>
+    <name>Lost in Thought</name>
+    <text>Enchant creature
+Enchanted creature can't attack or block and its activated abilities can't be activated. Its controller may exile three cards from his or her graveyard for that player to ignore this effect until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0046</id>
+    <name>Mental Note</name>
+    <text>Put the top two cards of your library into your graveyard.
+
+Draw a card.</text>
+    <flavorText>Some minds are more open than others.</flavorText>
+  </item>
+  <item>
+    <id>JUD0047</id>
+    <name>Mirror Wall</name>
+    <text>Defender (This creature can't attack.)
+{W}: Mirror Wall can attack this turn as though it didn't have defender.</text>
+    <flavorText>"Breaking it would be about four hundred years bad luck."
+—Nomad sentry</flavorText>
+  </item>
+  <item>
+    <id>JUD0048</id>
+    <name>Mist of Stagnation</name>
+    <text>Permanents don't untap during their controllers' untap steps.
+At the beginning of each player's upkeep, that player chooses a permanent for each card in his or her graveyard, then untaps those permanents.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0049</id>
+    <name>Quiet Speculation</name>
+    <text>Search target player's library for up to three cards with flashback and put them into that player's graveyard. Then the player shuffles his or her library.</text>
+    <flavorText>"The best foresight is hindsight."
+—Empress Llawan</flavorText>
+  </item>
+  <item>
+    <id>JUD0050</id>
+    <name>Scalpelexis</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Scalpelexis deals combat damage to a player, that player exiles the top four cards of his or her library. If two or more of those cards have the same name, repeat this process.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0051</id>
+    <name>Spelljack</name>
+    <text>Counter target spell. If that spell is countered this way, exile it instead of putting it into its owner's graveyard. You may play it without paying its mana cost for as long as it remains exiled. (If it has X in its mana cost, X is 0.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0052</id>
+    <name>Telekinetic Bonds</name>
+    <text>Whenever a player discards a card, you may pay {1}{U}. If you do, you may tap or untap target permanent.</text>
+    <flavorText>"Nature's been fired. The oceans are under new management."
+—Ambassador Laquatus</flavorText>
+  </item>
+  <item>
+    <id>JUD0053</id>
+    <name>Web of Inertia</name>
+    <text>At the beginning of each opponent's combat, that player may exile a card from his or her graveyard. If the player doesn't, creatures he or she controls can't attack you this turn.</text>
+    <flavorText>Cephalids specialize in lose-lose situations.</flavorText>
+  </item>
+  <item>
+    <id>JUD0054</id>
+    <name>Wonder</name>
+    <text>Flying
+As long as Wonder is in your graveyard and you control an Island, creatures you control have flying.</text>
+    <flavorText>"The awestruck birds gazed at Wonder. Slowly, timidly, they rose into the air."
+—Scroll of Beginnings</flavorText>
+  </item>
+  <item>
+    <id>JUD0055</id>
+    <name>Wormfang Behemoth</name>
+    <text>When Wormfang Behemoth enters the battlefield, exile all cards from your hand.
+When Wormfang Behemoth leaves the battlefield, return the exiled cards to their owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0056</id>
+    <name>Wormfang Crab</name>
+    <text>Wormfang Crab is unblockable.
+When Wormfang Crab enters the battlefield, an opponent chooses a permanent you control other than Wormfang Crab and exiles it.
+When Wormfang Crab leaves the battlefield, return the exiled card to the battlefield under its owner's control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0057</id>
+    <name>Wormfang Drake</name>
+    <text>Flying
+When Wormfang Drake enters the battlefield, sacrifice it unless you exile a creature you control other than Wormfang Drake.
+When Wormfang Drake leaves the battlefield, return the exiled card to the battlefield under its owner's control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0058</id>
+    <name>Wormfang Manta</name>
+    <text>Flying
+When Wormfang Manta enters the battlefield, you skip your next turn.
+When Wormfang Manta leaves the battlefield, you take an extra turn after this one.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0059</id>
+    <name>Wormfang Newt</name>
+    <text>When Wormfang Newt enters the battlefield, exile a land you control.
+When Wormfang Newt leaves the battlefield, return the exiled card to the battlefield under its owner's control.</text>
+    <flavorText>Spawned by mages emulating the insane.</flavorText>
+  </item>
+  <item>
+    <id>JUD0060</id>
+    <name>Wormfang Turtle</name>
+    <text>When Wormfang Turtle enters the battlefield, exile a land you control.
+When Wormfang Turtle leaves the battlefield, return the exiled card to the battlefield under its owner's control.</text>
+    <flavorText>Chainer's admirers keep his dreams alive.</flavorText>
+  </item>
+  <item>
+    <id>JUD0061</id>
+    <name>Balthor the Defiled</name>
+    <text>Minion creatures get +1/+1.
+{B}{B}{B}, Exile Balthor the Defiled: Each player returns all black and all red creature cards from his or her graveyard to the battlefield.</text>
+    <flavorText>He remembers enough of his life to weep for what he has lost.</flavorText>
+  </item>
+  <item>
+    <id>JUD0062</id>
+    <name>Cabal Therapy</name>
+    <text>Name a nonland card. Target player reveals his or her hand and discards all cards with that name.
+Flashback—Sacrifice a creature. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0063</id>
+    <name>Cabal Trainee</name>
+    <text>Sacrifice Cabal Trainee: Target creature gets -2/-0 until end of turn.</text>
+    <flavorText>"Ah, a faceshredder. Very rare. Nearly unstoppable. Good luck"
+—Cabal instructor</flavorText>
+  </item>
+  <item>
+    <id>JUD0064</id>
+    <name>Death Wish</name>
+    <text>You may choose a card you own from outside the game and put it into your hand. You lose half your life, rounded up. Exile Death Wish.</text>
+    <flavorText>He wished for power, but not for the longevity to abuse it.</flavorText>
+  </item>
+  <item>
+    <id>JUD0065</id>
+    <name>Earsplitting Rats</name>
+    <text>When Earsplitting Rats enters the battlefield, each player discards a card.
+Discard a card: Regenerate Earsplitting Rats.</text>
+    <flavorText>Rats come in one amount: too many.</flavorText>
+  </item>
+  <item>
+    <id>JUD0066</id>
+    <name>Filth</name>
+    <text>Swampwalk
+As long as Filth is in your graveyard and you control a Swamp, creatures you control have swampwalk.</text>
+    <flavorText>"As the portal closed, Filth oozed through. The stench of evil followed it in."
+—Scroll of Beginnings</flavorText>
+  </item>
+  <item>
+    <id>JUD0067</id>
+    <name>Grave Consequences</name>
+    <text>Each player may exile any number of cards from his or her graveyard. Then each player loses 1 life for each card in his or her graveyard.
+Draw a card.</text>
+    <flavorText>"You call that a nightmare?"
+—Braids, dementia summoner</flavorText>
+  </item>
+  <item>
+    <id>JUD0068</id>
+    <name>Guiltfeeder</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever Guiltfeeder attacks and isn't blocked, defending player loses 1 life for each card in his or her graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0069</id>
+    <name>Masked Gorgon</name>
+    <text>Green creatures and white creatures have protection from Gorgons.
+Threshold — Masked Gorgon has protection from green and from white as long as seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0070</id>
+    <name>Morality Shift</name>
+    <text>Exchange your graveyard and library. Then shuffle your library.</text>
+    <flavorText>The mind sings, though at times it sings a dirge.</flavorText>
+  </item>
+  <item>
+    <id>JUD0071</id>
+    <name>Rats' Feast</name>
+    <text>Exile X target cards from a single graveyard.</text>
+    <flavorText>"That does it—I quit"
+—Cabal grave robber</flavorText>
+  </item>
+  <item>
+    <id>JUD0072</id>
+    <name>Stitch Together</name>
+    <text>Return target creature card from your graveyard to your hand.
+Threshold — Return that card from your graveyard to the battlefield instead if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0073</id>
+    <name>Sutured Ghoul</name>
+    <text>Trample
+As Sutured Ghoul enters the battlefield, exile any number of creature cards from your graveyard.
+Sutured Ghoul's power is equal to the total power of the exiled cards and its toughness is equal to their total toughness.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0074</id>
+    <name>Toxic Stench</name>
+    <text>Target nonblack creature gets -1/-1 until end of turn.
+Threshold — If seven or more cards are in your graveyard, instead destroy that creature. It can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0075</id>
+    <name>Treacherous Vampire</name>
+    <text>Flying
+Whenever Treacherous Vampire attacks or blocks, sacrifice it unless you exile a card from your graveyard.
+Threshold — As long as seven or more cards are in your graveyard, Treacherous Vampire gets +2/+2 and has "When Treacherous Vampire is put into a graveyard from the battlefield, you lose 6 life."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0076</id>
+    <name>Treacherous Werewolf</name>
+    <text>Threshold — As long as seven or more cards are in your graveyard, Treacherous Werewolf gets +2/+2 and has "When Treacherous Werewolf is put into a graveyard from the battlefield, you lose 4 life."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0077</id>
+    <name>Anger</name>
+    <text>Haste
+As long as Anger is in your graveyard and you control a Mountain, creatures you control have haste.</text>
+    <flavorText>"For its time as a mortal, Anger chose a shell of boiling rock."
+—Scroll of Beginnings</flavorText>
+  </item>
+  <item>
+    <id>JUD0078</id>
+    <name>Arcane Teachings</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +2/+2 and has "{T}: This creature deals 1 damage to target creature or player."</text>
+    <flavorText>Dwarves may teach at the speed of stone, but their results are solid.</flavorText>
+  </item>
+  <item>
+    <id>JUD0079</id>
+    <name>Barbarian Bully</name>
+    <text>Discard a card at random: Barbarian Bully gets +2/+2 until end of turn unless a player has Barbarian Bully deal 4 damage to him or her. Activate this ability only once each turn.</text>
+    <flavorText>"Out of my way"</flavorText>
+  </item>
+  <item>
+    <id>JUD0080</id>
+    <name>Book Burning</name>
+    <text>Any player may have Book Burning deal 6 damage to him or her. If no one does, put the top six cards of target player's library into his or her graveyard.</text>
+    <flavorText>The wizard's spellbook was full of burning questions.</flavorText>
+  </item>
+  <item>
+    <id>JUD0081</id>
+    <name>Breaking Point</name>
+    <text>Any player may have Breaking Point deal 6 damage to him or her. If no one does, destroy all creatures and they can't be regenerated.</text>
+    <flavorText>"Enough"</flavorText>
+  </item>
+  <item>
+    <id>JUD0082</id>
+    <name>Browbeat</name>
+    <text>Any player may have Browbeat deal 5 damage to him or her. If no one does, target player draws three cards.</text>
+    <flavorText>"Even the threat of power has power."
+—Jeska, warrior adept</flavorText>
+  </item>
+  <item>
+    <id>JUD0083</id>
+    <name>Burning Wish</name>
+    <text>You may choose a sorcery card you own from outside the game, reveal that card, and put it into your hand. Exile Burning Wish.</text>
+    <flavorText>She wished for a weapon, but not for the skill to wield it.</flavorText>
+  </item>
+  <item>
+    <id>JUD0084</id>
+    <name>Dwarven Bloodboiler</name>
+    <text>Tap an untapped Dwarf you control: Target creature gets +2/+0 until end of turn.</text>
+    <flavorText>His battle cry unleashes an avalanche of dwarves.</flavorText>
+  </item>
+  <item>
+    <id>JUD0085</id>
+    <name>Dwarven Driller</name>
+    <text>{T}: Destroy target land unless its controller has Dwarven Driller deal 2 damage to him or her.</text>
+    <flavorText>"Drill the planet, it's no trouble:
+Mining granite, making rubble."
+—Dwarven drilling song</flavorText>
+  </item>
+  <item>
+    <id>JUD0086</id>
+    <name>Dwarven Scorcher</name>
+    <text>Sacrifice Dwarven Scorcher: Dwarven Scorcher deals 1 damage to target creature unless that creature's controller has Dwarven Scorcher deal 2 damage to him or her.</text>
+    <flavorText>Barbarians invented the blaze of glory. Dwarves perfected it.</flavorText>
+  </item>
+  <item>
+    <id>JUD0087</id>
+    <name>Ember Shot</name>
+    <text>Ember Shot deals 3 damage to target creature or player.
+
+Draw a card.</text>
+    <flavorText>Dwarves bring poor coal to market, use good coal in their homes, and throw their best coal away.</flavorText>
+  </item>
+  <item>
+    <id>JUD0088</id>
+    <name>Firecat Blitz</name>
+    <text>Put X 1/1 red Elemental Cat creature tokens with haste onto the battlefield. Exile them at the beginning of the next end step.
+Flashback—{R}{R}, Sacrifice X Mountains. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0089</id>
+    <name>Flaring Pain</name>
+    <text>Damage can't be prevented this turn.
+Flashback {R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>"I don't rub salt in wounds. I use sulfur."
+—Matoc, lavamancer</flavorText>
+  </item>
+  <item>
+    <id>JUD0090</id>
+    <name>Fledgling Dragon</name>
+    <text>Flying
+Threshold — As long as seven or more cards are in your graveyard, Fledgling Dragon gets +3/+3 and has "{R}: Fledgling Dragon gets +1/+0 until end of turn."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0091</id>
+    <name>Goretusk Firebeast</name>
+    <text>When Goretusk Firebeast enters the battlefield, it deals 4 damage to target player.</text>
+    <flavorText>As a youth, Kamahl took one for a pet. His hair has yet to grow back.</flavorText>
+  </item>
+  <item>
+    <id>JUD0092</id>
+    <name>Infectious Rage</name>
+    <text>Enchant creature
+Enchanted creature gets +2/-1.
+When enchanted creature is put into a graveyard, choose a creature at random Infectious Rage can enchant. Return Infectious Rage to the battlefield attached to that creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0093</id>
+    <name>Jeska, Warrior Adept</name>
+    <text>First strike, haste
+{T}: Jeska, Warrior Adept deals 1 damage to target creature or player.</text>
+    <flavorText>"My brother and I both come from Balthor's forge. Kamahl has a temper of fire. I have a temper of steel."</flavorText>
+  </item>
+  <item>
+    <id>JUD0094</id>
+    <name>Lava Dart</name>
+    <text>Lava Dart deals 1 damage to target creature or player.
+Flashback—Sacrifice a Mountain. (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0095</id>
+    <name>Liberated Dwarf</name>
+    <text>{R}, Sacrifice Liberated Dwarf: Target green creature gets +1/+0 and gains first strike until end of turn.</text>
+    <flavorText>Freed from their chains, these dwarves are bound only by honor.</flavorText>
+  </item>
+  <item>
+    <id>JUD0096</id>
+    <name>Lightning Surge</name>
+    <text>Lightning Surge deals 4 damage to target creature or player.
+Threshold — If seven or more cards are in your graveyard, instead Lightning Surge deals 6 damage to that creature or player and the damage can't be prevented.
+Flashback {5}{R}{R} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0097</id>
+    <name>Planar Chaos</name>
+    <text>At the beginning of your upkeep, flip a coin. If you lose the flip, sacrifice Planar Chaos.
+Whenever a player casts a spell, that player flips a coin. If he or she loses the flip, counter that spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0098</id>
+    <name>Shaman's Trance</name>
+    <text>Until end of turn, other players can't play cards from their graveyards, and you may play cards from other players' graveyards as though they were in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0099</id>
+    <name>Soulgorger Orgg</name>
+    <text>Trample
+When Soulgorger Orgg enters the battlefield, you lose all but 1 life.
+When Soulgorger Orgg leaves the battlefield, you gain life equal to the life you lost when it entered the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0100</id>
+    <name>Spellgorger Barbarian</name>
+    <text>When Spellgorger Barbarian enters the battlefield, discard a card at random.
+When Spellgorger Barbarian leaves the battlefield, draw a card.</text>
+    <flavorText>The epidemic insanity had a lasting effect on certain barbarians—but no one noticed.</flavorText>
+  </item>
+  <item>
+    <id>JUD0101</id>
+    <name>Swelter</name>
+    <text>Swelter deals 2 damage to each of two target creatures.</text>
+    <flavorText>No circle has a beginning, but many have foreseeable ends.</flavorText>
+  </item>
+  <item>
+    <id>JUD0102</id>
+    <name>Swirling Sandstorm</name>
+    <text>Threshold — Swirling Sandstorm deals 5 damage to each creature without flying if seven or more cards are in your graveyard.</text>
+    <flavorText>As dust swept out, vultures swept in.</flavorText>
+  </item>
+  <item>
+    <id>JUD0103</id>
+    <name>Worldgorger Dragon</name>
+    <text>Flying, trample
+When Worldgorger Dragon enters the battlefield, exile all other permanents you control.
+When Worldgorger Dragon leaves the battlefield, return the exiled cards to the battlefield under their owners' control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0104</id>
+    <name>Anurid Barkripper</name>
+    <text>Threshold — Anurid Barkripper gets +2/+2 as long as seven or more cards are in your graveyard.</text>
+    <flavorText>When it croaks, so do you.</flavorText>
+  </item>
+  <item>
+    <id>JUD0105</id>
+    <name>Anurid Swarmsnapper</name>
+    <text>Reach (This creature can block creatures with flying.)
+{1}{G}: Anurid Swarmsnapper can block an additional creature this turn.</text>
+    <flavorText>Anurids have the problem of airborne invaders licked.</flavorText>
+  </item>
+  <item>
+    <id>JUD0106</id>
+    <name>Battlefield Scrounger</name>
+    <text>Threshold — Put three cards from your graveyard on the bottom of your library: Battlefield Scrounger gets +3/+3 until end of turn. Activate this ability only once each turn, and only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0107</id>
+    <name>Brawn</name>
+    <text>Trample
+As long as Brawn is in your graveyard and you control a Forest, creatures you control have trample.</text>
+    <flavorText>"‘I have arrived,' bellowed Brawn, and the plane shuddered."
+—Scroll of Beginnings</flavorText>
+  </item>
+  <item>
+    <id>JUD0108</id>
+    <name>Canopy Claws</name>
+    <text>Target creature loses flying until end of turn.
+Flashback {G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0109</id>
+    <name>Centaur Rootcaster</name>
+    <text>Whenever Centaur Rootcaster deals combat damage to a player, you may search your library for a basic land card and put that card onto the battlefield tapped. If you do, shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0110</id>
+    <name>Crush of Wurms</name>
+    <text>Put three 6/6 green Wurm creature tokens onto the battlefield.
+Flashback {9}{G}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0111</id>
+    <name>Elephant Guide</name>
+    <text>Enchant creature
+Enchanted creature gets +3/+3.
+When enchanted creature is put into a graveyard, put a 3/3 green Elephant creature token onto the battlefield.</text>
+    <flavorText>Nature's strength outlives the strong.</flavorText>
+  </item>
+  <item>
+    <id>JUD0112</id>
+    <name>Epic Struggle</name>
+    <text>At the beginning of your upkeep, if you control twenty or more creatures, you win the game.</text>
+    <flavorText>"If our foes will not listen to words, perhaps hooves and claws will make them take notice."
+—Seton, centaur druid</flavorText>
+  </item>
+  <item>
+    <id>JUD0113</id>
+    <name>Erhnam Djinn</name>
+    <text>At the beginning of your upkeep, target non-Wall creature an opponent controls gains forestwalk until your next upkeep.</text>
+    <flavorText>He provides a safe path to nowhere.</flavorText>
+  </item>
+  <item>
+    <id>JUD0114</id>
+    <name>Exoskeletal Armor</name>
+    <text>Enchant creature
+Enchanted creature gets +X/+X, where X is the number of creature cards in all graveyards.</text>
+    <flavorText>"We use only what we need—but in times of strife, our need becomes great."
+—Centaur warrior</flavorText>
+  </item>
+  <item>
+    <id>JUD0115</id>
+    <name>Folk Medicine</name>
+    <text>You gain 1 life for each creature you control.
+Flashback {1}{W} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>Sometimes the healers need healing.</flavorText>
+  </item>
+  <item>
+    <id>JUD0116</id>
+    <name>Forcemage Advocate</name>
+    <text>{T}: Return target card from an opponent's graveyard to his or her hand. Put a +1/+1 counter on target creature.</text>
+    <flavorText>"Our unity renews our strength."</flavorText>
+  </item>
+  <item>
+    <id>JUD0117</id>
+    <name>Genesis</name>
+    <text>At the beginning of your upkeep, if Genesis is in your graveyard, you may pay {2}{G}. If you do, return target creature card from your graveyard to your hand.</text>
+    <flavorText>"First through the Riftstone was Genesis—and the world was lifeless no more."
+—Scroll of Beginnings</flavorText>
+  </item>
+  <item>
+    <id>JUD0118</id>
+    <name>Giant Warthog</name>
+    <text>Trample</text>
+    <flavorText>"When the Ancestor saw the cruelty her human children were capable of, Her fury shook the world. From this outburst sprang the warthogs."
+—Nomad myth</flavorText>
+  </item>
+  <item>
+    <id>JUD0119</id>
+    <name>Grizzly Fate</name>
+    <text>Put two 2/2 green Bear creature tokens onto the battlefield.
+Threshold — Put four 2/2 green Bear creature tokens onto the battlefield instead if seven or more cards are in your graveyard.
+Flashback {5}{G}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0120</id>
+    <name>Harvester Druid</name>
+    <text>{T}: Add to your mana pool one mana of any color that a land you control could produce.</text>
+    <flavorText>"In the end, the same soil lies atop the field, within the mountain, and under the sea."</flavorText>
+  </item>
+  <item>
+    <id>JUD0121</id>
+    <name>Ironshell Beetle</name>
+    <text>When Ironshell Beetle enters the battlefield, put a +1/+1 counter on target creature.</text>
+    <flavorText>"Why waste time creating weapons? Nature provides us with all we need."
+—Centaur warrior</flavorText>
+  </item>
+  <item>
+    <id>JUD0122</id>
+    <name>Krosan Reclamation</name>
+    <text>Target player shuffles up to two target cards from his or her graveyard into his or her library.
+Flashback {1}{G} (You may cast this card from your graveyard for its flashback cost. Then exile it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0123</id>
+    <name>Krosan Wayfarer</name>
+    <text>Sacrifice Krosan Wayfarer: You may put a land card from your hand onto the battlefield.</text>
+    <flavorText>"The Krosan Forest lives, and druids are its seeds."
+—Seton, centaur druid</flavorText>
+  </item>
+  <item>
+    <id>JUD0124</id>
+    <name>Living Wish</name>
+    <text>You may choose a creature or land card you own from outside the game, reveal that card, and put it into your hand. Exile Living Wish.</text>
+    <flavorText>He wished for growth, but not for a way to control it.</flavorText>
+  </item>
+  <item>
+    <id>JUD0125</id>
+    <name>Nantuko Tracer</name>
+    <text>When Nantuko Tracer enters the battlefield, you may put target card from a graveyard on the bottom of its owner's library.</text>
+    <flavorText>Your past is a map to where you will go.
+—Nantuko teaching</flavorText>
+  </item>
+  <item>
+    <id>JUD0126</id>
+    <name>Nullmage Advocate</name>
+    <text>{T}: Return two target cards from an opponent's graveyard to his or her hand. Destroy target artifact or enchantment.</text>
+    <flavorText>"Our unity unmasks your deceit."</flavorText>
+  </item>
+  <item>
+    <id>JUD0127</id>
+    <name>Phantom Centaur</name>
+    <text>Protection from black
+Phantom Centaur enters the battlefield with three +1/+1 counters on it.
+If damage would be dealt to Phantom Centaur, prevent that damage. Remove a +1/+1 counter from Phantom Centaur.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0128</id>
+    <name>Phantom Nantuko</name>
+    <text>Trample
+Phantom Nantuko enters the battlefield with two +1/+1 counters on it.
+If damage would be dealt to Phantom Nantuko, prevent that damage. Remove a +1/+1 counter from Phantom Nantuko.
+{T}: Put a +1/+1 counter on Phantom Nantuko.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0129</id>
+    <name>Phantom Tiger</name>
+    <text>Phantom Tiger enters the battlefield with two +1/+1 counters on it.
+If damage would be dealt to Phantom Tiger, prevent that damage. Remove a +1/+1 counter from Phantom Tiger.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0130</id>
+    <name>Seedtime</name>
+    <text>Cast Seedtime only during your turn.
+Take an extra turn after this one if an opponent cast a blue spell this turn.</text>
+    <flavorText>The hippo grows wings to fight the condor.
+—Nantuko teaching</flavorText>
+  </item>
+  <item>
+    <id>JUD0131</id>
+    <name>Serene Sunset</name>
+    <text>Prevent all combat damage X target creatures would deal this turn.</text>
+    <flavorText>The armies paused, silent, as the warriors reflected on the sunsets of their youth.</flavorText>
+  </item>
+  <item>
+    <id>JUD0132</id>
+    <name>Sudden Strength</name>
+    <text>Target creature gets +3/+3 until end of turn.
+
+Draw a card.</text>
+    <flavorText>The Mirari's magic transformed the Krosan Forest—and its inhabitants.</flavorText>
+  </item>
+  <item>
+    <id>JUD0133</id>
+    <name>Sylvan Safekeeper</name>
+    <text>Sacrifice a land: Target creature you control gains shroud until end of turn. (It can't be the target of spells or abilities.)</text>
+    <flavorText>"How could someone so small cause so much trouble?"
+—Nomad sentry</flavorText>
+  </item>
+  <item>
+    <id>JUD0134</id>
+    <name>Thriss, Nantuko Primus</name>
+    <text>{G}, {T}: Target creature gets +5/+5 until end of turn.</text>
+    <flavorText>"When you live for others, you live for yourself."</flavorText>
+  </item>
+  <item>
+    <id>JUD0135</id>
+    <name>Tunneler Wurm</name>
+    <text>Discard a card: Regenerate Tunneler Wurm.</text>
+    <flavorText>If an anurid's lucky, it'll find a warm tunnel for bedtime. If a wurm's lucky, it'll find a warm anurid for breakfast.</flavorText>
+  </item>
+  <item>
+    <id>JUD0136</id>
+    <name>Venomous Vines</name>
+    <text>Destroy target enchanted permanent.</text>
+    <flavorText>"True strength comes from within. The false promise of unnatural power only incurs Krosa's wrath."
+—Seton, centaur druid</flavorText>
+  </item>
+  <item>
+    <id>JUD0137</id>
+    <name>Anurid Brushhopper</name>
+    <text>Discard two cards: Exile Anurid Brushhopper. Return it to the battlefield under its owner's control at the beginning of the next end step.</text>
+    <flavorText>It's so tough it can frighten itself into hiding.</flavorText>
+  </item>
+  <item>
+    <id>JUD0138</id>
+    <name>Hunting Grounds</name>
+    <text>Threshold — As long as seven or more cards are in your graveyard, Hunting Grounds has "Whenever an opponent casts a spell, you may put a creature card from your hand onto the battlefield."</text>
+    <flavorText>In the heavy hush of Krosa, drawing on mana is like ringing a dinner bell.</flavorText>
+  </item>
+  <item>
+    <id>JUD0139</id>
+    <name>Mirari's Wake</name>
+    <text>Creatures you control get +1/+1.
+
+Whenever you tap a land for mana, add one mana to your mana pool of any type that land produced.</text>
+    <flavorText>The land drank power from the Mirari as though it had thirsted forever.</flavorText>
+  </item>
+  <item>
+    <id>JUD0140</id>
+    <name>Phantom Nishoba</name>
+    <text>Trample
+Phantom Nishoba enters the battlefield with seven +1/+1 counters on it.
+Whenever Phantom Nishoba deals damage, you gain that much life.
+If damage would be dealt to Phantom Nishoba, prevent that damage. Remove a +1/+1 counter from Phantom Nishoba.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0141</id>
+    <name>Krosan Verge</name>
+    <text>Krosan Verge enters the battlefield tapped.
+{T}: Add {1} to your mana pool.
+{2}, {T}, Sacrifice Krosan Verge: Search your library for a Forest card and a Plains card and put them onto the battlefield tapped. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0142</id>
+    <name>Nantuko Monastery</name>
+    <text>{T}: Add {1} to your mana pool.
+Threshold — {G}{W}: Nantuko Monastery becomes a 4/4 green and white Insect Monk creature with first strike until end of turn. It's still a land. Activate this ability only if seven or more cards are in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>JUD0143</id>
+    <name>Riftstone Portal</name>
+    <text>{T}: Add {1} to your mana pool.
+
+As long as Riftstone Portal is in your graveyard, lands you control have "{T}: Add {G} or {W} to your mana pool."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

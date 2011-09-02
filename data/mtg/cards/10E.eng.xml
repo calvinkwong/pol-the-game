@@ -1,0 +1,2621 @@
+<cards name="Tenth Edition">
+  <item>
+    <id>10E0001</id>
+    <name>Ancestor's Chosen</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)
+When Ancestor's Chosen enters the battlefield, you gain 1 life for each card in your graveyard.</text>
+    <flavorText>"The will of all, by my hand done."</flavorText>
+  </item>
+  <item>
+    <id>10E0002</id>
+    <name>Angel of Mercy</name>
+    <text>Flying
+When Angel of Mercy enters the battlefield, you gain 3 life.</text>
+    <flavorText>Every tear shed is a drop of immortality.</flavorText>
+  </item>
+  <item>
+    <id>10E0003</id>
+    <name>Angelic Blessing</name>
+    <text>Target creature gets +3/+3 and gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>Only the warrior who can admit mortal weakness will be bolstered by immortal strength.</flavorText>
+  </item>
+  <item>
+    <id>10E0004</id>
+    <name>Angelic Chorus</name>
+    <text>Whenever a creature enters the battlefield under your control, you gain life equal to its toughness.</text>
+    <flavorText>The harmony of the glorious is a dirge to the wicked.</flavorText>
+  </item>
+  <item>
+    <id>10E0005</id>
+    <name>Angelic Wall</name>
+    <text>Defender, flying (This creature can't attack, and it can block creatures with flying.)</text>
+    <flavorText>"The Ancestor protects us in ways we can't begin to comprehend."
+—Mystic elder</flavorText>
+  </item>
+  <item>
+    <id>10E0006</id>
+    <name>Aura of Silence</name>
+    <text>Artifact and enchantment spells your opponents cast cost {2} more to cast.
+Sacrifice Aura of Silence: Destroy target artifact or enchantment.</text>
+    <flavorText>Not all silences are easily broken.</flavorText>
+  </item>
+  <item>
+    <id>10E0007</id>
+    <name>Aven Cloudchaser</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Aven Cloudchaser enters the battlefield, destroy target enchantment.</text>
+    <flavorText>"At the Reapportionment, Eagle begged to be human. The Ancestor granted half that prayer."
+—Nomad myth</flavorText>
+  </item>
+  <item>
+    <id>10E0008</id>
+    <name>Ballista Squad</name>
+    <text>{X}{W}, {T}: Ballista Squad deals X damage to target attacking or blocking creature.</text>
+    <flavorText>The perfect antidote for a tightly packed formation.</flavorText>
+  </item>
+  <item>
+    <id>10E0009</id>
+    <name>Bandage</name>
+    <text>Prevent the next 1 damage that would be dealt to target creature or player this turn.
+Draw a card.</text>
+    <flavorText>Life is measured in inches. To a healer, every one of those inches is precious.</flavorText>
+  </item>
+  <item>
+    <id>10E0010</id>
+    <name>Beacon of Immortality</name>
+    <text>Double target player's life total. Shuffle Beacon of Immortality into its owner's library.</text>
+    <flavorText>The cave floods with light. A thousand rays shine forth and meld into one.</flavorText>
+  </item>
+  <item>
+    <id>10E0011</id>
+    <name>Benalish Knight</name>
+    <text>Flash (You may cast this spell any time you could cast an instant.)
+First strike (This creature deals combat damage before creatures without first strike.)</text>
+    <flavorText>"We called them ‘armored lightning.'"
+—Gerrard of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>10E0012</id>
+    <name>Cho-Manno, Revolutionary</name>
+    <text>Prevent all damage that would be dealt to Cho-Manno, Revolutionary.</text>
+    <flavorText>"Mercadia's masks can no longer hide the truth. Our day has come at last."</flavorText>
+  </item>
+  <item>
+    <id>10E0013</id>
+    <name>Condemn</name>
+    <text>Put target attacking creature on the bottom of its owner's library. Its controller gains life equal to its toughness.</text>
+    <flavorText>"No doubt the arbiters would put you away, after all the documents are signed. But I will have justice now"
+—Alovnek, Boros guildmage</flavorText>
+  </item>
+  <item>
+    <id>10E0014</id>
+    <name>Demystify</name>
+    <text>Destroy target enchantment.</text>
+    <flavorText>"Illusion is a crutch for those with no grounding in reality."
+—Cho-Manno</flavorText>
+  </item>
+  <item>
+    <id>10E0015</id>
+    <name>Field Marshal</name>
+    <text>Other Soldier creatures get +1/+1 and have first strike. (They deal combat damage before creatures without first strike.)</text>
+    <flavorText>He is the only one who sees the patterns in the overlapping maps and conflicting reports.</flavorText>
+  </item>
+  <item>
+    <id>10E0016</id>
+    <name>Ghost Warden</name>
+    <text>{T}: Target creature gets +1/+1 until end of turn.</text>
+    <flavorText>"I thought of fate as an iron lattice, intricate but rigidly unchangeable. That was until some force bent fate's bars to spare my life."
+—Ilromov, traveling storyteller</flavorText>
+  </item>
+  <item>
+    <id>10E0017</id>
+    <name>Glorious Anthem</name>
+    <text>Creatures you control get +1/+1.</text>
+    <flavorText>Once heard, the battle song of an angel becomes part of the listener forever.</flavorText>
+  </item>
+  <item>
+    <id>10E0018</id>
+    <name>Hail of Arrows</name>
+    <text>Hail of Arrows deals X damage divided as you choose among any number of target attacking creatures.</text>
+    <flavorText>"Do not let a single shaft loose until my word. And when I give that word, do not leave a single shaft in Eiganjo."
+—General Takeno</flavorText>
+  </item>
+  <item>
+    <id>10E0019</id>
+    <name>Heart of Light</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Prevent all damage that would be dealt to and dealt by enchanted creature.</text>
+    <flavorText>For those who reach enlightenment, violence is an unnecessary distraction.</flavorText>
+  </item>
+  <item>
+    <id>10E0020</id>
+    <name>High Ground</name>
+    <text>Each creature you control can block an additional creature.</text>
+    <flavorText>In war, as in society, position is everything.</flavorText>
+  </item>
+  <item>
+    <id>10E0021</id>
+    <name>Holy Day</name>
+    <text>Prevent all combat damage that would be dealt this turn.</text>
+    <flavorText>"Today there is feasting and peace across our land, but the war has not ended. Tuck away your bloodlust. You'll need it tomorrow."
+—Karrim, Samite healer</flavorText>
+  </item>
+  <item>
+    <id>10E0022</id>
+    <name>Holy Strength</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+2.</text>
+    <flavorText>"May angels fly at your back. May your blade cleave the darkness."
+—War blessing of Serra</flavorText>
+  </item>
+  <item>
+    <id>10E0023</id>
+    <name>Honor Guard</name>
+    <text>{W}: Honor Guard gets +0/+1 until end of turn.</text>
+    <flavorText>The strength of one. The courage of ten.</flavorText>
+  </item>
+  <item>
+    <id>10E0024</id>
+    <name>Icatian Priest</name>
+    <text>{1}{W}{W}: Target creature gets +1/+1 until end of turn.</text>
+    <flavorText>Grelden knelt and felt the cool, dry hand of the priest on his brow. Hours later, when his wits returned, he was covered in his enemies' blood on the field of victory.</flavorText>
+  </item>
+  <item>
+    <id>10E0025</id>
+    <name>Kjeldoran Royal Guard</name>
+    <text>{T}: All combat damage that would be dealt to you by unblocked creatures this turn is dealt to Kjeldoran Royal Guard instead.</text>
+    <flavorText>Upon the frozen tundra stand the Kjeldoran Royal Guard, pikes raised, with the king's oath upon their lips.</flavorText>
+  </item>
+  <item>
+    <id>10E0026</id>
+    <name>Loxodon Mystic</name>
+    <text>{W}, {T}: Tap target creature.</text>
+    <flavorText>Elder mystics take their vow of silence so seriously that they impose it on any who enter their presence.</flavorText>
+  </item>
+  <item>
+    <id>10E0027</id>
+    <name>Loyal Sentry</name>
+    <text>When Loyal Sentry blocks a creature, destroy that creature and Loyal Sentry.</text>
+    <flavorText>"My cause is simple: To stop you, at any cost, from ever seeing the inside of this keep."</flavorText>
+  </item>
+  <item>
+    <id>10E0028</id>
+    <name>Luminesce</name>
+    <text>Prevent all damage that black sources and red sources would deal this turn.</text>
+    <flavorText>"The White Shield is not the burnished metal you lash to your forearm but the conviction that burns in your chest."
+—Lucilde Fiksdotter,
+leader of the Order of the White Shield</flavorText>
+  </item>
+  <item>
+    <id>10E0029</id>
+    <name>Mobilization</name>
+    <text>Soldier creatures have vigilance. (Attacking doesn't cause them to tap.)
+{2}{W}: Put a 1/1 white Soldier creature token onto the battlefield.</text>
+    <flavorText>Wars are won with strength, valor, and numbers—especially numbers.</flavorText>
+  </item>
+  <item>
+    <id>10E0030</id>
+    <name>Nomad Mythmaker</name>
+    <text>{W}, {T}: Put target Aura card from a graveyard onto the battlefield under your control attached to a creature you control.</text>
+    <flavorText>On the wild steppes, history vanishes in the dust. Only the mythmakers remain to say what was, and is, and will be.</flavorText>
+  </item>
+  <item>
+    <id>10E0031</id>
+    <name>Pacifism</name>
+    <text>Enchant creature
+Enchanted creature can't attack or block.</text>
+    <flavorText>For the first time in his life, Grakk felt a little warm and fuzzy inside.</flavorText>
+  </item>
+  <item>
+    <id>10E0032</id>
+    <name>Paladin en-Vec</name>
+    <text>First strike, protection from black and from red (This creature deals combat damage before creatures without first strike. It can't be blocked, targeted, dealt damage, or enchanted by anything black or red.)</text>
+    <flavorText>"I do not consider myself a hero. I know only what the Vec teach: justice must always be served and corruption must always be opposed."</flavorText>
+  </item>
+  <item>
+    <id>10E0033</id>
+    <name>Pariah</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+All damage that would be dealt to you is dealt to enchanted creature instead.</text>
+    <flavorText>"Why would I consider penance for my actions when I have so many subjects willing to do it for me?"
+—Lord Konda</flavorText>
+  </item>
+  <item>
+    <id>10E0034</id>
+    <name>Reviving Dose</name>
+    <text>You gain 3 life.
+Draw a card.</text>
+    <flavorText>Samite healers never mix their pungent elixir with sweetener or tea. The threat of a second dose is enough to get most warriors back on their feet.</flavorText>
+  </item>
+  <item>
+    <id>10E0035</id>
+    <name>Reya Dawnbringer</name>
+    <text>Flying
+At the beginning of your upkeep, you may return target creature card from your graveyard to the battlefield.</text>
+    <flavorText>"You have not died until I consent."</flavorText>
+  </item>
+  <item>
+    <id>10E0036</id>
+    <name>Righteousness</name>
+    <text>Target blocking creature gets +7/+7 until end of turn.</text>
+    <flavorText>Sometimes the greatest strength is the strength of conviction.</flavorText>
+  </item>
+  <item>
+    <id>10E0037</id>
+    <name>Rule of Law</name>
+    <text>Each player can't cast more than one spell each turn.</text>
+    <flavorText>Appointed by the kha himself, members of the tribunal ensure all disputes are settled with the utmost fairness.</flavorText>
+  </item>
+  <item>
+    <id>10E0038</id>
+    <name>Samite Healer</name>
+    <text>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>Healers ultimately acquire the divine gifts of spiritual and physical wholeness. The most devout are also granted the ability to pass physical wholeness on to others.</flavorText>
+  </item>
+  <item>
+    <id>10E0039</id>
+    <name>Serra Angel</name>
+    <text>Flying
+Vigilance (Attacking doesn't cause this creature to tap.)</text>
+    <flavorText>Her sword sings more beautifully than any choir.</flavorText>
+  </item>
+  <item>
+    <id>10E0040</id>
+    <name>Serra's Embrace</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+2 and has flying and vigilance.</text>
+    <flavorText>The touch of Serra's angels bears hopes aloft and empowers noble causes.</flavorText>
+  </item>
+  <item>
+    <id>10E0041</id>
+    <name>Skyhunter Patrol</name>
+    <text>Flying, first strike (This creature can't be blocked except by creatures with flying or reach, and it deals combat damage before creatures without first strike.)</text>
+    <flavorText>"We leonin have come to rule the plains by taking to the skies."
+—Raksha Golden Cub</flavorText>
+  </item>
+  <item>
+    <id>10E0042</id>
+    <name>Skyhunter Prowler</name>
+    <text>Flying, vigilance (This creature can't be blocked except by creatures with flying or reach, and attacking doesn't cause this creature to tap.)</text>
+    <flavorText>As tireless as her mount, a skyhunter's vigil is measured in days.</flavorText>
+  </item>
+  <item>
+    <id>10E0043</id>
+    <name>Skyhunter Skirmisher</name>
+    <text>Flying, double strike (This creature can't be blocked except by creatures with flying or reach, and it deals both first-strike and regular combat damage.)</text>
+    <flavorText>"Take the deadly grace and strength of the leonin, combined with a pteron mount capable of rending a foe in two and armed with notched steel. That is a skyhunter—and why Taj-Nar has never fallen."
+—Raksha Golden Cub</flavorText>
+  </item>
+  <item>
+    <id>10E0044</id>
+    <name>Soul Warden</name>
+    <text>Whenever another creature enters the battlefield, you gain 1 life.</text>
+    <flavorText>Count carefully the souls and see that none are lost.
+—Vec teaching</flavorText>
+  </item>
+  <item>
+    <id>10E0045</id>
+    <name>Spirit Link</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Whenever enchanted creature deals damage, you gain that much life.</text>
+    <flavorText>"We are all inextricably linked, souls woven in tapestry."</flavorText>
+  </item>
+  <item>
+    <id>10E0046</id>
+    <name>Spirit Weaver</name>
+    <text>{2}: Target green or blue creature gets +0/+1 until end of turn.</text>
+    <flavorText>"Let my hope be your shield."</flavorText>
+  </item>
+  <item>
+    <id>10E0047</id>
+    <name>Starlight Invoker</name>
+    <text>{7}{W}: You gain 5 life.</text>
+    <flavorText>"The constellations form a tapestry of light that traces my people's broken history. Day and night, I feel their glittering presence calling me to weave the pattern whole."</flavorText>
+  </item>
+  <item>
+    <id>10E0048</id>
+    <name>Steadfast Guard</name>
+    <text>Vigilance (Attacking doesn't cause this creature to tap.)</text>
+    <flavorText>"Best leave your tongue in its yap-hole, Mercadian scum, for your silvered words and golden bribes do not sparkle so brightly outside your city."</flavorText>
+  </item>
+  <item>
+    <id>10E0049</id>
+    <name>Story Circle</name>
+    <text>As Story Circle enters the battlefield, choose a color.
+{W}: The next time a source of your choice of the chosen color would deal damage to you this turn, prevent that damage.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0050</id>
+    <name>Suntail Hawk</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>Its eye the glaring sun, its cry the keening wind.</flavorText>
+  </item>
+  <item>
+    <id>10E0051</id>
+    <name>Tempest of Light</name>
+    <text>Destroy all enchantments.</text>
+    <flavorText>"Let everything return to its true nature, so that destiny may takes its course."</flavorText>
+  </item>
+  <item>
+    <id>10E0052</id>
+    <name>Treasure Hunter</name>
+    <text>When Treasure Hunter enters the battlefield, you may return target artifact card from your graveyard to your hand.</text>
+    <flavorText>"The treasures of the ancients belong in museums, not in the grubby hands of grave robbers."</flavorText>
+  </item>
+  <item>
+    <id>10E0053</id>
+    <name>True Believer</name>
+    <text>You have shroud. (You can't be the target of spells or abilities.)</text>
+    <flavorText>So great is his certainty that mere facts cannot shake it.</flavorText>
+  </item>
+  <item>
+    <id>10E0054</id>
+    <name>Tundra Wolves</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)</text>
+    <flavorText>"I heard their eerie howling, the wolves calling their kindred across the frozen plains."
+—Onean scout</flavorText>
+  </item>
+  <item>
+    <id>10E0055</id>
+    <name>Venerable Monk</name>
+    <text>When Venerable Monk enters the battlefield, you gain 2 life.</text>
+    <flavorText>Age wears the flesh but galvanizes the soul.</flavorText>
+  </item>
+  <item>
+    <id>10E0056</id>
+    <name>Voice of All</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+As Voice of All enters the battlefield, choose a color.
+Voice of All has protection from the chosen color. (It can't be blocked, targeted, dealt damage, or enchanted by anything of the chosen color.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0057</id>
+    <name>Wall of Swords</name>
+    <text>Defender, flying (This creature can't attack, and it can block creatures with flying.)</text>
+    <flavorText>The air hummed with the scissoring sound of uncounted blades that hovered in front of the invaders as though wielded by a phalanx of unseen hands.</flavorText>
+  </item>
+  <item>
+    <id>10E0058</id>
+    <name>Warrior's Honor</name>
+    <text>Creatures you control get +1/+1 until end of turn.</text>
+    <flavorText>"The day will come when the righteous warrior faces a battle she cannot win. She will greet that day as she has any other."
+—Asmira, holy avenger</flavorText>
+  </item>
+  <item>
+    <id>10E0059</id>
+    <name>Wild Griffin</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>"I abandoned my dream of a squadron of griffin-riders when the cost proved too high. Three trainers were eaten for every griffin broken to the bridle."
+—King Darien of Kjeldor</flavorText>
+  </item>
+  <item>
+    <id>10E0060</id>
+    <name>Windborn Muse</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.</text>
+    <flavorText>"Her voice is justice, clear and relentless."
+—Akroma, angelic avenger</flavorText>
+  </item>
+  <item>
+    <id>10E0061</id>
+    <name>Wrath of God</name>
+    <text>Destroy all creatures. They can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0062</id>
+    <name>Youthful Knight</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)</text>
+    <flavorText>Idealism fits him better than his armor.</flavorText>
+  </item>
+  <item>
+    <id>10E0063</id>
+    <name>Academy Researchers</name>
+    <text>When Academy Researchers enters the battlefield, you may put an Aura card from your hand onto the battlefield attached to Academy Researchers.</text>
+    <flavorText>They brandish their latest theories as warriors would wield weapons.</flavorText>
+  </item>
+  <item>
+    <id>10E0064</id>
+    <name>Air Elemental</name>
+    <text>Flying</text>
+    <flavorText>"The East Wind, an interloper in the dominions of Westerly Weather, is an impassive-faced tyrant with a sharp poniard held behind his back for a treacherous stab."
+—Joseph Conrad, The Mirror of the Sea</flavorText>
+  </item>
+  <item>
+    <id>10E0065</id>
+    <name>Ambassador Laquatus</name>
+    <text>{3}: Target player puts the top three cards of his or her library into his or her graveyard.</text>
+    <flavorText>"Life is a game. The only thing that matters is whether you're a pawn or a player."</flavorText>
+  </item>
+  <item>
+    <id>10E0066</id>
+    <name>Arcanis the Omnipotent</name>
+    <text>{T}: Draw three cards.
+{2}{U}{U}: Return Arcanis the Omnipotent to its owner's hand.</text>
+    <flavorText>"Do not concern yourself with my origin, my race, or my ancestry. Seek my record in the pits, and then make your wager."</flavorText>
+  </item>
+  <item>
+    <id>10E0067</id>
+    <name>Aura Graft</name>
+    <text>Gain control of target Aura that's attached to a permanent. Attach it to another permanent it can enchant.</text>
+    <flavorText>"It's not really stealing. It's more like extended borrowing."</flavorText>
+  </item>
+  <item>
+    <id>10E0068</id>
+    <name>Aven Fisher</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Aven Fisher is put into a graveyard from the battlefield, you may draw a card.</text>
+    <flavorText>The same spears that catch their food today will defend their homes tomorrow.</flavorText>
+  </item>
+  <item>
+    <id>10E0069</id>
+    <name>Aven Windreader</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{1}{U}: Target player reveals the top card of his or her library.</text>
+    <flavorText>"The tiniest ripple tells a story ten fathoms deep."</flavorText>
+  </item>
+  <item>
+    <id>10E0070</id>
+    <name>Boomerang</name>
+    <text>Return target permanent to its owner's hand.</text>
+    <flavorText>Early Jamuraan hunters devised a weapon that would return to its source. Tolarian Æthermancers developed a spell that skipped the weapon entirely.</flavorText>
+  </item>
+  <item>
+    <id>10E0071</id>
+    <name>Cancel</name>
+    <text>Counter target spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0072</id>
+    <name>Cephalid Constable</name>
+    <text>Whenever Cephalid Constable deals combat damage to a player, return up to that many target permanents that player controls to their owners' hands.</text>
+    <flavorText>Cephalids don't police people. They police loyalties.</flavorText>
+  </item>
+  <item>
+    <id>10E0073</id>
+    <name>Clone</name>
+    <text>You may have Clone enter the battlefield as a copy of any creature on the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0074</id>
+    <name>Cloud Elemental</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Cloud Elemental can block only creatures with flying.</text>
+    <flavorText>The soratami surround their sky-castles with living clouds that serve as both sword and shield.</flavorText>
+  </item>
+  <item>
+    <id>10E0075</id>
+    <name>Cloud Sprite</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Cloud Sprite can block only creatures with flying.</text>
+    <flavorText>The delicate sprites carry messages for Saprazzans, but they refuse to land in Mercadia City's filthy markets.</flavorText>
+  </item>
+  <item>
+    <id>10E0076</id>
+    <name>Counsel of the Soratami</name>
+    <text>Draw two cards.</text>
+    <flavorText>"Wisdom is not the counting of all the drops in a waterfall. Wisdom is learning why the water seeks the earth."</flavorText>
+  </item>
+  <item>
+    <id>10E0077</id>
+    <name>Crafty Pathmage</name>
+    <text>{T}: Target creature with power 2 or less is unblockable this turn.</text>
+    <flavorText>Follow the pathmage
+—Otarian expression meaning
+"escape quickly"</flavorText>
+  </item>
+  <item>
+    <id>10E0078</id>
+    <name>Dehydration</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature doesn't untap during its controller's untap step.</text>
+    <flavorText>The viashino used the spell to dry foods for crossing the Great Desert. The Suq'Ata later discovered its use in war.</flavorText>
+  </item>
+  <item>
+    <id>10E0079</id>
+    <name>Deluge</name>
+    <text>Tap all creatures without flying.</text>
+    <flavorText>"From the sea came all life, and to the sea it will return. The sooner the better."
+—Emperor Aboshan</flavorText>
+  </item>
+  <item>
+    <id>10E0080</id>
+    <name>Denizen of the Deep</name>
+    <text>When Denizen of the Deep enters the battlefield, return each other creature you control to its owner's hand.</text>
+    <flavorText>According to merfolk legend, a denizen of the deep swallows the horizon at the end of each day, bringing on the cold blanket of night.</flavorText>
+  </item>
+  <item>
+    <id>10E0081</id>
+    <name>Discombobulate</name>
+    <text>Counter target spell. Look at the top four cards of your library, then put them back in any order.</text>
+    <flavorText>"I said ‘pick his brain,' not ‘tear off his head.'"
+—Riptide Project researcher</flavorText>
+  </item>
+  <item>
+    <id>10E0082</id>
+    <name>Dreamborn Muse</name>
+    <text>At the beginning of each player's upkeep, that player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in his or her hand.</text>
+    <flavorText>"Her voice is insight, piercing and true."
+—Ixidor, reality sculptor</flavorText>
+  </item>
+  <item>
+    <id>10E0083</id>
+    <name>Evacuation</name>
+    <text>Return all creatures to their owners' hands.</text>
+    <flavorText>"Once I supply the breeze, you'll see your warriors for the smoke they truly are."
+—Alexi, zephyr mage</flavorText>
+  </item>
+  <item>
+    <id>10E0084</id>
+    <name>Flashfreeze</name>
+    <text>Counter target red or green spell.</text>
+    <flavorText>"Nature? Fire? Bah Both are chaotic and difficult to control. Ice is structured, latticed, light as a feather, massive as a glacier. In ice, there is power"
+—Heidar, Rimewind master</flavorText>
+  </item>
+  <item>
+    <id>10E0085</id>
+    <name>Fog Elemental</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+When Fog Elemental attacks or blocks, sacrifice it at end of combat.</text>
+    <flavorText>"It's the perfect sentry. Those who should pass can go right through it."
+—Teferi</flavorText>
+  </item>
+  <item>
+    <id>10E0086</id>
+    <name>Fugitive Wizard</name>
+    <text>
+    </text>
+    <flavorText>"The law has its place—as a footnote in my spellbook."
+—Siyani, fugitive mage</flavorText>
+  </item>
+  <item>
+    <id>10E0087</id>
+    <name>Horseshoe Crab</name>
+    <text>{U}: Untap Horseshoe Crab.</text>
+    <flavorText>"Hmm . . . It looks kinda like a bug. Let's crack it open an' see if it tastes like one"
+—Squee, goblin cabin hand</flavorText>
+  </item>
+  <item>
+    <id>10E0088</id>
+    <name>Hurkyl's Recall</name>
+    <text>Return all artifacts target player owns to his or her hand.</text>
+    <flavorText>Hurkyl's research at the College of Lat-Nam wasn't enough to stop the two brothers, but for centuries thereafter her spellcraft taught artificers restraint.</flavorText>
+  </item>
+  <item>
+    <id>10E0089</id>
+    <name>Lumengrid Warden</name>
+    <text>
+    </text>
+    <flavorText>The wardens keep watch over an endless sea of progress.</flavorText>
+  </item>
+  <item>
+    <id>10E0090</id>
+    <name>Mahamoti Djinn</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>Of royal blood among the spirits of the air, the Mahamoti djinn rides on the wings of the winds. As dangerous in the gambling hall as he is in battle, he is a master of trickery and misdirection.</flavorText>
+  </item>
+  <item>
+    <id>10E0091</id>
+    <name>March of the Machines</name>
+    <text>Each noncreature artifact is an artifact creature with power and toughness each equal to its converted mana cost. (Equipment that's a creature can't equip a creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0092</id>
+    <name>Merfolk Looter</name>
+    <text>{T}: Draw a card, then discard a card.</text>
+    <flavorText>It belongs to the merfolk now.
+—Shipwreck prayer</flavorText>
+  </item>
+  <item>
+    <id>10E0093</id>
+    <name>Mind Bend</name>
+    <text>Change the text of target permanent by replacing all instances of one color word with another or one basic land type with another. (For example, you may change "nonblack creature" to "nongreen creature" or "forestwalk" to "islandwalk." This effect lasts indefinitely.)</text>
+    <flavorText>"The world, I've come to realize, is a blank canvas on which to paint."
+—Ixidor, reality sculptor</flavorText>
+  </item>
+  <item>
+    <id>10E0094</id>
+    <name>Peek</name>
+    <text>Look at target player's hand.
+Draw a card.</text>
+    <flavorText>Sometimes you have to read between the minds.</flavorText>
+  </item>
+  <item>
+    <id>10E0095</id>
+    <name>Persuasion</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+You control enchanted creature.</text>
+    <flavorText>There's no telling what an accomplished mage might collect.</flavorText>
+  </item>
+  <item>
+    <id>10E0096</id>
+    <name>Phantom Warrior</name>
+    <text>Phantom Warrior is unblockable.</text>
+    <flavorText>"There are as many pillows of illusion as flakes in a snow-storm. We wake from one dream into another dream."
+—Ralph Waldo Emerson, "Illusions"</flavorText>
+  </item>
+  <item>
+    <id>10E0097</id>
+    <name>Plagiarize</name>
+    <text>Until end of turn, if target player would draw a card, instead that player skips that draw and you draw a card.</text>
+    <flavorText>"Are you thinking what I'm thinking?"</flavorText>
+  </item>
+  <item>
+    <id>10E0098</id>
+    <name>Puppeteer</name>
+    <text>{U}, {T}: You may tap or untap target creature.</text>
+    <flavorText>"That's the funny thing about free will. You don't feel any different without it."
+—Ambassador Laquatus</flavorText>
+  </item>
+  <item>
+    <id>10E0099</id>
+    <name>Reminisce</name>
+    <text>Target player shuffles his or her graveyard into his or her library.</text>
+    <flavorText>Leave the door to the past even slightly ajar and it could be blown off its hinges.</flavorText>
+  </item>
+  <item>
+    <id>10E0100</id>
+    <name>Remove Soul</name>
+    <text>Counter target creature spell.</text>
+    <flavorText>When your enemies are denied soldiers, they are denied victory.</flavorText>
+  </item>
+  <item>
+    <id>10E0101</id>
+    <name>Robe of Mirrors</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has shroud. (It can't be the target of spells or abilities.)</text>
+    <flavorText>"Some say you cannot hit what you cannot see. I prefer that you hit what I want you to see."
+—Arcanis the Omnipotent</flavorText>
+  </item>
+  <item>
+    <id>10E0102</id>
+    <name>Rootwater Commando</name>
+    <text>Islandwalk (This creature is unblockable as long as defending player controls an Island.)</text>
+    <flavorText>Rootwater merfolk are seldom seen these days, but elf corpses are as numerous as ever.</flavorText>
+  </item>
+  <item>
+    <id>10E0103</id>
+    <name>Rootwater Matriarch</name>
+    <text>{T}: Gain control of target creature for as long as that creature is enchanted.</text>
+    <flavorText>In the harsh depths of Rootwater, the charms of surface dwellers are quite useless . . . except as lures.</flavorText>
+  </item>
+  <item>
+    <id>10E0104</id>
+    <name>Sage Owl</name>
+    <text>Flying
+When Sage Owl enters the battlefield, look at the top four cards of your library, then put them back in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0105</id>
+    <name>Scalpelexis</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Scalpelexis deals combat damage to a player, that player exiles the top four cards of his or her library. If two or more of those cards have the same name, repeat this process.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0106</id>
+    <name>Sea Monster</name>
+    <text>Sea Monster can't attack unless defending player controls an Island.</text>
+    <flavorText>It's easy to believe the monster is a myth—until you feel three hundred thousand pounds of myth crashing down on your ship.</flavorText>
+  </item>
+  <item>
+    <id>10E0107</id>
+    <name>Shimmering Wings</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has flying. (It can't be blocked except by creatures with flying or reach.)
+{U}: Return Shimmering Wings to its owner's hand.</text>
+    <flavorText>"I leave words like ‘impossible' to the rabble. Whatever I imagine, I can create."
+—Ixidor, reality sculptor</flavorText>
+  </item>
+  <item>
+    <id>10E0108</id>
+    <name>Sift</name>
+    <text>Draw three cards, then discard a card.</text>
+    <flavorText>Dwell longest on the thoughts that shine brightest.</flavorText>
+  </item>
+  <item>
+    <id>10E0109</id>
+    <name>Sky Weaver</name>
+    <text>{2}: Target white or black creature gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>"Let my wisdom give you wings."</flavorText>
+  </item>
+  <item>
+    <id>10E0110</id>
+    <name>Snapping Drake</name>
+    <text>Flying</text>
+    <flavorText>The irritable drakes are solitary nesters. Even brooding females barely contain the urge to attack their own young.</flavorText>
+  </item>
+  <item>
+    <id>10E0111</id>
+    <name>Spiketail Hatchling</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Sacrifice Spiketail Hatchling: Counter target spell unless its controller pays {1}.</text>
+    <flavorText>It dodges waves of water to prepare for waves of magic.</flavorText>
+  </item>
+  <item>
+    <id>10E0112</id>
+    <name>Sunken Hope</name>
+    <text>At the beginning of each player's upkeep, that player returns a creature he or she controls to its owner's hand.</text>
+    <flavorText>"I don't concern myself with my enemy's hopes. Hopes follow the tides. They will retreat soon enough."
+—Ambassador Laquatus</flavorText>
+  </item>
+  <item>
+    <id>10E0113</id>
+    <name>Telepathy</name>
+    <text>Your opponents play with their hands revealed.</text>
+    <flavorText>"The question isn't whether I can read minds. It's whether I have yet to find a mind worth reading."
+—Ambassador Laquatus</flavorText>
+  </item>
+  <item>
+    <id>10E0114</id>
+    <name>Telling Time</name>
+    <text>Look at the top three cards of your library. Put one of those cards into your hand, one on top of your library, and one on the bottom of your library.</text>
+    <flavorText>Mastery is achieved when "telling time" becomes "telling time what to do."</flavorText>
+  </item>
+  <item>
+    <id>10E0115</id>
+    <name>Thieving Magpie</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever Thieving Magpie deals damage to an opponent, draw a card.</text>
+    <flavorText>Other birds collect twigs for their nests. Magpies collect jewels for theirs.</flavorText>
+  </item>
+  <item>
+    <id>10E0116</id>
+    <name>Tidings</name>
+    <text>Draw four cards.</text>
+    <flavorText>"Though the letter was many pages long, I could tell all I needed to know from one look at the messenger's face."
+—Barrin, master wizard</flavorText>
+  </item>
+  <item>
+    <id>10E0117</id>
+    <name>Time Stop</name>
+    <text>End the turn. (Exile all spells and abilities on the stack, including this card. The player whose turn it is discards down to his or her maximum hand size. Damage wears off, and "this turn" and "until end of turn" effects end.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0118</id>
+    <name>Time Stretch</name>
+    <text>Target player takes two extra turns after this one.</text>
+    <flavorText>There's lots of time like the present.</flavorText>
+  </item>
+  <item>
+    <id>10E0119</id>
+    <name>Traumatize</name>
+    <text>Target player puts the top half of his or her library, rounded down, into his or her graveyard.</text>
+    <flavorText>"The educated mind is heavy with lore and knowledge. It's also the most likely to collapse under its own weight."
+—Ambassador Laquatus</flavorText>
+  </item>
+  <item>
+    <id>10E0120</id>
+    <name>Twincast</name>
+    <text>Copy target instant or sorcery spell. You may choose new targets for the copy.</text>
+    <flavorText>Imitation is the most dangerous form of flattery.</flavorText>
+  </item>
+  <item>
+    <id>10E0121</id>
+    <name>Twitch</name>
+    <text>You may tap or untap target artifact, creature, or land.
+Draw a card.</text>
+    <flavorText>Battles are won in nuance.</flavorText>
+  </item>
+  <item>
+    <id>10E0122</id>
+    <name>Unsummon</name>
+    <text>Return target creature to its owner's hand.</text>
+    <flavorText>Tolarian apprentices learn to liberate Ætheric energy long before they are taught to bind it.</flavorText>
+  </item>
+  <item>
+    <id>10E0123</id>
+    <name>Vedalken Mastermind</name>
+    <text>{U}, {T}: Return target permanent you control to its owner's hand.</text>
+    <flavorText>The vedalken see other beings from a cold distance, as either experimental subjects or objects of study.</flavorText>
+  </item>
+  <item>
+    <id>10E0124</id>
+    <name>Wall of Air</name>
+    <text>Defender, flying (This creature can't attack, and it can block creatures with flying.)</text>
+    <flavorText>When no falcons fly, beware the sky.
+—Femeref aphorism</flavorText>
+  </item>
+  <item>
+    <id>10E0125</id>
+    <name>Afflict</name>
+    <text>Target creature gets -1/-1 until end of turn.
+Draw a card.</text>
+    <flavorText>One rarely notices a heartbeat, save when it is stolen.</flavorText>
+  </item>
+  <item>
+    <id>10E0126</id>
+    <name>Agonizing Memories</name>
+    <text>Look at target player's hand and choose two cards from it. Put them on top of that player's library in any order.</text>
+    <flavorText>In the aftermath of war, when the slaying is long done, the greatest miseries come home to roost.</flavorText>
+  </item>
+  <item>
+    <id>10E0127</id>
+    <name>Ascendant Evincar</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Other black creatures get +1/+1.
+Nonblack creatures get -1/-1.</text>
+    <flavorText>His soul snared by an angel's curse, Crovax twisted heroism into its purest shadow.</flavorText>
+  </item>
+  <item>
+    <id>10E0128</id>
+    <name>Assassinate</name>
+    <text>Destroy target tapped creature.</text>
+    <flavorText>"This is how wars are won—not with armies of soldiers but with a single knife blade, artfully placed."
+—Yurin, royal assassin</flavorText>
+  </item>
+  <item>
+    <id>10E0129</id>
+    <name>Beacon of Unrest</name>
+    <text>Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library.</text>
+    <flavorText>A vertical scream pierces the night air and echoes doom through the clouds.</flavorText>
+  </item>
+  <item>
+    <id>10E0130</id>
+    <name>Bog Wraith</name>
+    <text>Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)</text>
+    <flavorText>Knowing Takenuma Swamp to be dangerous, Hisata set wards to warn him of predators. He never imagined that his murderer would pass through them unhindered.</flavorText>
+  </item>
+  <item>
+    <id>10E0131</id>
+    <name>Consume Spirit</name>
+    <text>Spend only black mana on X.
+Consume Spirit deals X damage to target creature or player and you gain X life.</text>
+    <flavorText>"Your blood, your marrow, your spirit—all are mine."
+—Mayvar, minion of Geth</flavorText>
+  </item>
+  <item>
+    <id>10E0132</id>
+    <name>Contaminated Bond</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Whenever enchanted creature attacks or blocks, its controller loses 3 life.</text>
+    <flavorText>"My favorite curses are those that manifest slowly, blackening the soul in ways the victim cannot hope to understand."
+—Erissa, bog witch</flavorText>
+  </item>
+  <item>
+    <id>10E0133</id>
+    <name>Cruel Edict</name>
+    <text>Target opponent sacrifices a creature.</text>
+    <flavorText>"Choose your next words carefully. They will be your last."
+—Phage the Untouchable</flavorText>
+  </item>
+  <item>
+    <id>10E0134</id>
+    <name>Deathmark</name>
+    <text>Destroy target green or white creature.</text>
+    <flavorText>"I hope it's true that every snowflake is unique, because I never want to see one like this again. Now clean up that body."
+—Thangbrand Gyrdsson, Kjeldoran patrol</flavorText>
+  </item>
+  <item>
+    <id>10E0135</id>
+    <name>Diabolic Tutor</name>
+    <text>Search your library for a card and put that card into your hand. Then shuffle your library.</text>
+    <flavorText>The best ideas often come from the worst minds.</flavorText>
+  </item>
+  <item>
+    <id>10E0136</id>
+    <name>Distress</name>
+    <text>Target player reveals his or her hand. You choose a nonland card from it. That player discards that card.</text>
+    <flavorText>"They say the eyes are the windows to the soul. I like to break windows and take what's inside."
+—Braids, dementia summoner</flavorText>
+  </item>
+  <item>
+    <id>10E0137</id>
+    <name>Doomed Necromancer</name>
+    <text>{B}, {T}, Sacrifice Doomed Necromancer: Return target creature card from your graveyard to the battlefield.</text>
+    <flavorText>Many necromancers share the same last words—the ones that conclude the undeath ritual.</flavorText>
+  </item>
+  <item>
+    <id>10E0138</id>
+    <name>Dross Crocodile</name>
+    <text>
+    </text>
+    <flavorText>"As soon as it surfaced, we could all smell it. Its rancid breath reeked of half-digested carrion and its own rotting innards."
+—Dafri, Auriok champion</flavorText>
+  </item>
+  <item>
+    <id>10E0139</id>
+    <name>Drudge Skeletons</name>
+    <text>{B}: Regenerate Drudge Skeletons. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>"The dead make good soldiers. They can't disobey orders, never surrender, and don't stop fighting when a random body part falls off."
+—Nevinyrral, Necromancer's Handbook</flavorText>
+  </item>
+  <item>
+    <id>10E0140</id>
+    <name>Dusk Imp</name>
+    <text>Flying</text>
+    <flavorText>Imps are just intelligent enough to have an understanding of cruelty.</flavorText>
+  </item>
+  <item>
+    <id>10E0141</id>
+    <name>Essence Drain</name>
+    <text>Essence Drain deals 3 damage to target creature or player and you gain 3 life.</text>
+    <flavorText>"The elves are right: Death inevitably leads to life. But the truly powerful don't just experience this cycle. They control it."
+—Crovax, ascendant evincar</flavorText>
+  </item>
+  <item>
+    <id>10E0142</id>
+    <name>Fear</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature has fear. (It can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>"Even the bravest of warriors yet knows the dark clutch of fright upon his stalwart heart."
+—Lim-Dûl the Necromancer</flavorText>
+  </item>
+  <item>
+    <id>10E0143</id>
+    <name>Festering Goblin</name>
+    <text>When Festering Goblin is put into a graveyard from the battlefield, target creature gets -1/-1 until end of turn.</text>
+    <flavorText>In life, it was a fetid, disease-ridden thing. In death, not much changed.</flavorText>
+  </item>
+  <item>
+    <id>10E0144</id>
+    <name>Grave Pact</name>
+    <text>Whenever a creature you control is put into a graveyard from the battlefield, each other player sacrifices a creature.</text>
+    <flavorText>"The bonds of loyalty can tie one to the grave."
+—Crovax, ascendant evincar</flavorText>
+  </item>
+  <item>
+    <id>10E0145</id>
+    <name>Graveborn Muse</name>
+    <text>At the beginning of your upkeep, you draw X cards and you lose X life, where X is the number of Zombies you control.</text>
+    <flavorText>"Her voice is damnation, unyielding and certain."
+—Phage the Untouchable</flavorText>
+  </item>
+  <item>
+    <id>10E0146</id>
+    <name>Gravedigger</name>
+    <text>When Gravedigger enters the battlefield, you may return target creature card from your graveyard to your hand.</text>
+    <flavorText>A full coffin is like a full coffer—both are attractive to thieves.</flavorText>
+  </item>
+  <item>
+    <id>10E0147</id>
+    <name>Hate Weaver</name>
+    <text>{2}: Target blue or red creature gets +1/+0 until end of turn.</text>
+    <flavorText>"Let my hate fuel your fury."</flavorText>
+  </item>
+  <item>
+    <id>10E0148</id>
+    <name>Head Games</name>
+    <text>Target opponent puts the cards from his or her hand on top of his or her library. Search that player's library for that many cards. The player puts those cards into his or her hand, then shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0149</id>
+    <name>Hidden Horror</name>
+    <text>When Hidden Horror enters the battlefield, sacrifice it unless you discard a creature card.</text>
+    <flavorText>If the presence of evil were obvious, it wouldn't be nearly as dangerous.</flavorText>
+  </item>
+  <item>
+    <id>10E0150</id>
+    <name>Highway Robber</name>
+    <text>When Highway Robber enters the battlefield, target opponent loses 2 life and you gain 2 life.</text>
+    <flavorText>"Tonight, madam, it's your money and your life."</flavorText>
+  </item>
+  <item>
+    <id>10E0151</id>
+    <name>Hypnotic Specter</name>
+    <text>Flying
+Whenever Hypnotic Specter deals damage to an opponent, that player discards a card at random.</text>
+    <flavorText>Its victims are known by their eyes: shattered vessels leaking broken dreams.</flavorText>
+  </item>
+  <item>
+    <id>10E0152</id>
+    <name>Knight of Dusk</name>
+    <text>{B}{B}: Destroy target creature blocking Knight of Dusk.</text>
+    <flavorText>"Challenge me with your strongest. I will paint my sword with their blood."</flavorText>
+  </item>
+  <item>
+    <id>10E0153</id>
+    <name>Looming Shade</name>
+    <text>{B}: Looming Shade gets +1/+1 until end of turn.</text>
+    <flavorText>Its form never rests, propelled by some undetectable gale from beyond the gloom.</flavorText>
+  </item>
+  <item>
+    <id>10E0154</id>
+    <name>Lord of the Pit</name>
+    <text>Flying, trample
+At the beginning of your upkeep, sacrifice a creature other than Lord of the Pit. If you can't, Lord of the Pit deals 7 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0155</id>
+    <name>Lord of the Undead</name>
+    <text>Other Zombie creatures get +1/+1.
+{1}{B}, {T}: Return target Zombie card from your graveyard to your hand.</text>
+    <flavorText>"Do not weep at your defeat, my dear. In death, you will serve a greater purpose—mine."</flavorText>
+  </item>
+  <item>
+    <id>10E0156</id>
+    <name>Mass of Ghouls</name>
+    <text>
+    </text>
+    <flavorText>"An army has filled the valley, but it's not like any army I've ever seen. There are no tents, no fires, no horses . . . just a sea of bodies, writhing and moaning, as if a pestilent village were sent to invade us."
+—Onean scout</flavorText>
+  </item>
+  <item>
+    <id>10E0157</id>
+    <name>Megrim</name>
+    <text>Whenever an opponent discards a card, Megrim deals 2 damage to that player.</text>
+    <flavorText>"Pain is both a tool and a craft. Like any tool, it must be sharpened. Like any craft, it must be practiced."
+—Hooks, Cabal torturer</flavorText>
+  </item>
+  <item>
+    <id>10E0158</id>
+    <name>Midnight Ritual</name>
+    <text>Exile X target creature cards from your graveyard. For each creature card exiled this way, put a 2/2 black Zombie creature token onto the battlefield.</text>
+    <flavorText>Bury old friends deeply, lest they return bearing worms.</flavorText>
+  </item>
+  <item>
+    <id>10E0159</id>
+    <name>Mind Rot</name>
+    <text>Target player discards two cards.</text>
+    <flavorText>"The beauty of mental attacks is that your victims never remember them."
+—Volrath</flavorText>
+  </item>
+  <item>
+    <id>10E0160</id>
+    <name>Mortal Combat</name>
+    <text>At the beginning of your upkeep, if twenty or more creature cards are in your graveyard, you win the game.</text>
+    <flavorText>The crowd roared, the fighters bled, and the dead piled high in the pits. Only the Cabal could win.</flavorText>
+  </item>
+  <item>
+    <id>10E0161</id>
+    <name>Mortivore</name>
+    <text>Mortivore's power and toughness are each equal to the number of creature cards in all graveyards.
+{B}: Regenerate Mortivore. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>The light sigh of its breath whistles through its bones.</flavorText>
+  </item>
+  <item>
+    <id>10E0162</id>
+    <name>Nantuko Husk</name>
+    <text>Sacrifice a creature: Nantuko Husk gets +2/+2 until end of turn.</text>
+    <flavorText>The soul sheds light, and death is its shadow. When the light dims, life and death embrace.
+—Nantuko teaching</flavorText>
+  </item>
+  <item>
+    <id>10E0163</id>
+    <name>Nekrataal</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)
+When Nekrataal enters the battlefield, destroy target nonartifact, nonblack creature. That creature can't be regenerated.</text>
+    <flavorText>His victims don't have time to feel despair.</flavorText>
+  </item>
+  <item>
+    <id>10E0164</id>
+    <name>Nightmare</name>
+    <text>Flying
+Nightmare's power and toughness are each equal to the number of Swamps you control.</text>
+    <flavorText>The thunder of its hooves beats dreams into despair.</flavorText>
+  </item>
+  <item>
+    <id>10E0165</id>
+    <name>No Rest for the Wicked</name>
+    <text>Sacrifice No Rest for the Wicked: Return to your hand all creature cards in your graveyard that were put there from the battlefield this turn.</text>
+    <flavorText>"The soul? Here, we have no use for such frivolities."
+—Sitrik, birth priest</flavorText>
+  </item>
+  <item>
+    <id>10E0166</id>
+    <name>Phage the Untouchable</name>
+    <text>When Phage the Untouchable enters the battlefield, if you didn't cast it from your hand, you lose the game.
+Whenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated.
+Whenever Phage deals combat damage to a player, that player loses the game.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0167</id>
+    <name>Phyrexian Rager</name>
+    <text>When Phyrexian Rager enters the battlefield, you draw a card and you lose 1 life.</text>
+    <flavorText>It takes no prisoners, but it keeps the choicest bits for Phyrexia.</flavorText>
+  </item>
+  <item>
+    <id>10E0168</id>
+    <name>Plague Beetle</name>
+    <text>Swampwalk (This creature is unblockable as long as defending player controls a Swamp.)</text>
+    <flavorText>No one knows whether they were named for the disease they carry or for the speed at which they multiply.</flavorText>
+  </item>
+  <item>
+    <id>10E0169</id>
+    <name>Plague Wind</name>
+    <text>Destroy all creatures you don't control. They can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0170</id>
+    <name>Rain of Tears</name>
+    <text>Destroy target land.</text>
+    <flavorText>"When mortals die, they have family, friends, compatriots to mourn them. When the land dies, all else dies with it, and there is no one left to weep."
+—Jacinth, Skyshroud ranger</flavorText>
+  </item>
+  <item>
+    <id>10E0171</id>
+    <name>Ravenous Rats</name>
+    <text>When Ravenous Rats enters the battlefield, target opponent discards a card.</text>
+    <flavorText>Nothing is sacred to rats. Everything is simply another meal.</flavorText>
+  </item>
+  <item>
+    <id>10E0172</id>
+    <name>Recover</name>
+    <text>Return target creature card from your graveyard to your hand.
+Draw a card.</text>
+    <flavorText>As Barrin exhumed his daughter's body, he finally realized the full price of his faith in Urza.</flavorText>
+  </item>
+  <item>
+    <id>10E0173</id>
+    <name>Relentless Rats</name>
+    <text>Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.
+A deck can have any number of cards named Relentless Rats.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0174</id>
+    <name>Royal Assassin</name>
+    <text>{T}: Destroy target tapped creature.</text>
+    <flavorText>Trained in the arts of stealth, royal assassins choose their victims carefully, relying on timing and precision rather than brute force.</flavorText>
+  </item>
+  <item>
+    <id>10E0175</id>
+    <name>Scathe Zombies</name>
+    <text>
+    </text>
+    <flavorText>"They groaned, they stirred, they all uprose,
+Nor spake, nor moved their eyes;
+It had been strange, even in a dream,
+To have seen those dead men rise."
+—Samuel Taylor Coleridge,
+"The Rime of the Ancient Mariner"</flavorText>
+  </item>
+  <item>
+    <id>10E0176</id>
+    <name>Sengir Vampire</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Whenever a creature dealt damage by Sengir Vampire this turn is put into a graveyard, put a +1/+1 counter on Sengir Vampire.</text>
+    <flavorText>Empires rise and fall, but evil is eternal.</flavorText>
+  </item>
+  <item>
+    <id>10E0177</id>
+    <name>Severed Legion</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>No one in Aphetto answers a knock at the door after sundown.</flavorText>
+  </item>
+  <item>
+    <id>10E0178</id>
+    <name>Sleeper Agent</name>
+    <text>When Sleeper Agent enters the battlefield, target opponent gains control of it.
+At the beginning of your upkeep, Sleeper Agent deals 2 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0179</id>
+    <name>Soul Feast</name>
+    <text>Target player loses 4 life and you gain 4 life.</text>
+    <flavorText>"I smell the tang of a mortal's fresh blood. I hear it sliding wetly beneath its skin. My hunger cannot refuse the invitation."
+—Yuri, Sengir vampire</flavorText>
+  </item>
+  <item>
+    <id>10E0180</id>
+    <name>Spineless Thug</name>
+    <text>Spineless Thug can't block.</text>
+    <flavorText>What it lacks in backbone, it makes up for in cruelty.</flavorText>
+  </item>
+  <item>
+    <id>10E0181</id>
+    <name>Stronghold Discipline</name>
+    <text>Each player loses 1 life for each creature he or she controls.</text>
+    <flavorText>In Urborg, the instigators of each new rebellion are soaked in the blood of the last.</flavorText>
+  </item>
+  <item>
+    <id>10E0182</id>
+    <name>Terror</name>
+    <text>Destroy target nonartifact, nonblack creature. It can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0183</id>
+    <name>Thrull Surgeon</name>
+    <text>{1}{B}, Sacrifice Thrull Surgeon: Look at target player's hand and choose a card from it. That player discards that card. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>"Just take a little off the top."</flavorText>
+  </item>
+  <item>
+    <id>10E0184</id>
+    <name>Underworld Dreams</name>
+    <text>Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.</text>
+    <flavorText>"In the drowsy dark cave of the mind, dreams build their nest with fragments dropped from day's caravan."
+—Rabindranath Tagore</flavorText>
+  </item>
+  <item>
+    <id>10E0185</id>
+    <name>Unholy Strength</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+1.</text>
+    <flavorText>Such power grows the body as it shrinks the soul.</flavorText>
+  </item>
+  <item>
+    <id>10E0186</id>
+    <name>Vampire Bats</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0187</id>
+    <name>Anaba Bodyguard</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)</text>
+    <flavorText>"They who challenge a minotaur enjoy the taste of their own blood."
+—Mirri of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>10E0188</id>
+    <name>Arcane Teachings</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +2/+2 and has "{T}: This creature deals 1 damage to target creature or player."</text>
+    <flavorText>Not all knowledge is learned from parchment.</flavorText>
+  </item>
+  <item>
+    <id>10E0189</id>
+    <name>Beacon of Destruction</name>
+    <text>Beacon of Destruction deals 5 damage to target creature or player. Shuffle Beacon of Destruction into its owner's library.</text>
+    <flavorText>The Great Furnace's blessing is a spectacular sight, but the best view comes at a high cost.</flavorText>
+  </item>
+  <item>
+    <id>10E0190</id>
+    <name>Blaze</name>
+    <text>Blaze deals X damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0191</id>
+    <name>Bloodfire Colossus</name>
+    <text>{R}, Sacrifice Bloodfire Colossus: Bloodfire Colossus deals 6 damage to each creature and each player.</text>
+    <flavorText>It took all its strength to contain the fire within.</flavorText>
+  </item>
+  <item>
+    <id>10E0192</id>
+    <name>Bloodrock Cyclops</name>
+    <text>Bloodrock Cyclops attacks each turn if able.</text>
+    <flavorText>"There are only fifty words in the cyclops language, and ten of them mean ‘kill.'"
+—Ertai</flavorText>
+  </item>
+  <item>
+    <id>10E0193</id>
+    <name>Bogardan Firefiend</name>
+    <text>When Bogardan Firefiend is put into a graveyard from the battlefield, it deals 2 damage to target creature.</text>
+    <flavorText>"The next one who tells me to relax and curl up by a fire is dead."
+—Mirri of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>10E0194</id>
+    <name>Cone of Flame</name>
+    <text>Cone of Flame deals 1 damage to target creature or player, 2 damage to another target creature or player, and 3 damage to a third target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0195</id>
+    <name>Cryoclasm</name>
+    <text>Destroy target Plains or Island. Cryoclasm deals 3 damage to that land's controller.</text>
+    <flavorText>The people of Terisiare had come to live on frozen fields as though on solid ground. Nothing reminded them of the difference more clearly than the rifts brought on by the Thaw.</flavorText>
+  </item>
+  <item>
+    <id>10E0196</id>
+    <name>Demolish</name>
+    <text>Destroy target artifact or land.</text>
+    <flavorText>"Pound the steel until it fits.
+Doesn't work? Bash to bits."
+—Dwarven forging song</flavorText>
+  </item>
+  <item>
+    <id>10E0197</id>
+    <name>Dragon Roost</name>
+    <text>{5}{R}{R}: Put a 5/5 red Dragon creature token with flying onto the battlefield. (It can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>Dragons erupt from peaks of chaos and flow from rivers of molten rage.</flavorText>
+  </item>
+  <item>
+    <id>10E0198</id>
+    <name>Duct Crawler</name>
+    <text>{1}{R}: Target creature can't block Duct Crawler this turn.</text>
+    <flavorText>"Boss told us to try and train 'em. Trained it to attack—it ate Flugg. Trained it to run fast—it got away. Success"
+—Dlig, goblin spelunker</flavorText>
+  </item>
+  <item>
+    <id>10E0199</id>
+    <name>Earth Elemental</name>
+    <text>
+    </text>
+    <flavorText>Earth elementals have the eternal strength of stone and the endurance of mountains. Primordially connected to the land they inhabit, they take a long-term view of things, scorning the impetuous haste of short-lived mortal creatures.</flavorText>
+  </item>
+  <item>
+    <id>10E0200</id>
+    <name>Firebreathing</name>
+    <text>Enchant creature
+{R}: Enchanted creature gets +1/+0 until end of turn.</text>
+    <flavorText>"Cradle your rage close to your heart and nurture your grudge with hatred that you may unleash upon your foes a dragon's fury."
+—Tomor, dragonspeaker shaman</flavorText>
+  </item>
+  <item>
+    <id>10E0201</id>
+    <name>Fists of the Anvil</name>
+    <text>Target creature gets +4/+0 until end of turn.</text>
+    <flavorText>Gron's mind reeled with possibilities, most of which are best left unmentioned.</flavorText>
+  </item>
+  <item>
+    <id>10E0202</id>
+    <name>Flamewave Invoker</name>
+    <text>{7}{R}: Flamewave Invoker deals 5 damage to target player.</text>
+    <flavorText>Inside even the humblest goblin lurks the potential for far greater things—and far worse.</flavorText>
+  </item>
+  <item>
+    <id>10E0203</id>
+    <name>Flowstone Slide</name>
+    <text>All creatures get +X/-X until end of turn.</text>
+    <flavorText>"Like an avalanche. With teeth. That will chase you. Uphill."
+—Flint Foot, viashino runner</flavorText>
+  </item>
+  <item>
+    <id>10E0204</id>
+    <name>Furnace of Rath</name>
+    <text>If a source would deal damage to a creature or player, it deals double that damage to that creature or player instead.</text>
+    <flavorText>The furnace awaits the next master who would stoke the fires of apocalypse.</flavorText>
+  </item>
+  <item>
+    <id>10E0205</id>
+    <name>Furnace Whelp</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{R}: Furnace Whelp gets +1/+0 until end of turn.</text>
+    <flavorText>Baby dragons can't figure out humans—if they didn't want to be killed, why were they made of meat and treasure?</flavorText>
+  </item>
+  <item>
+    <id>10E0206</id>
+    <name>Goblin Elite Infantry</name>
+    <text>Whenever Goblin Elite Infantry blocks or becomes blocked, it gets -1/-1 until end of turn.</text>
+    <flavorText>They talk a good fight.</flavorText>
+  </item>
+  <item>
+    <id>10E0207</id>
+    <name>Goblin King</name>
+    <text>Other Goblin creatures get +1/+1 and have mountainwalk. (They're unblockable as long as defending player controls a Mountain.)</text>
+    <flavorText>To be king, Numsgil did in Blog, who did in Unkful, who did in Viddle, who did in Loll, who did in Alrok. . . .</flavorText>
+  </item>
+  <item>
+    <id>10E0208</id>
+    <name>Goblin Lore</name>
+    <text>Draw four cards, then discard three cards at random.</text>
+    <flavorText>"Now listen closely, my young gob. There are many ways to eat pimple bugs, but I say the best way is all smashed together between two slug chips."</flavorText>
+  </item>
+  <item>
+    <id>10E0209</id>
+    <name>Goblin Piker</name>
+    <text>
+    </text>
+    <flavorText>Once he'd worked out which end of the thing was sharp, he was promoted to guard duty.</flavorText>
+  </item>
+  <item>
+    <id>10E0210</id>
+    <name>Goblin Sky Raider</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>The goblin word for "flying" is more accurately translated as "falling slowly."</flavorText>
+  </item>
+  <item>
+    <id>10E0211</id>
+    <name>Guerrilla Tactics</name>
+    <text>Guerrilla Tactics deals 2 damage to target creature or player.
+When a spell or ability an opponent controls causes you to discard Guerrilla Tactics, Guerrilla Tactics deals 4 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0212</id>
+    <name>Hill Giant</name>
+    <text>
+    </text>
+    <flavorText>Fortunately, hill giants have large blind spots in which a human can easily hide. Unfortunately, these blind spots are beneath the bottoms of their feet.</flavorText>
+  </item>
+  <item>
+    <id>10E0213</id>
+    <name>Incinerate</name>
+    <text>Incinerate deals 3 damage to target creature or player. A creature dealt damage this way can't be regenerated this turn.</text>
+    <flavorText>"Yes, I think ‘toast' is an appropriate description."
+—Jaya Ballard, task mage</flavorText>
+  </item>
+  <item>
+    <id>10E0214</id>
+    <name>Kamahl, Pit Fighter</name>
+    <text>Haste (This creature can attack and {T} as soon as it comes under your control.)
+{T}: Kamahl, Pit Fighter deals 3 damage to target creature or player.</text>
+    <flavorText>In times when freedom seems lost, great souls arise to reclaim it.</flavorText>
+  </item>
+  <item>
+    <id>10E0215</id>
+    <name>Lava Axe</name>
+    <text>Lava Axe deals 5 damage to target player.</text>
+    <flavorText>"Catch"</flavorText>
+  </item>
+  <item>
+    <id>10E0216</id>
+    <name>Lavaborn Muse</name>
+    <text>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to him or her.</text>
+    <flavorText>"Her voice is disaster, painful and final."
+—Matoc, lavamancer</flavorText>
+  </item>
+  <item>
+    <id>10E0217</id>
+    <name>Lightning Elemental</name>
+    <text>Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+    <flavorText>"A flash of the lightning, a break of the wave,
+He passes from life to his rest in the grave."
+—William Knox, "Mortality"</flavorText>
+  </item>
+  <item>
+    <id>10E0218</id>
+    <name>Manabarbs</name>
+    <text>Whenever a player taps a land for mana, Manabarbs deals 1 damage to that player.</text>
+    <flavorText>"I don't know why people say a double-edged sword is bad. It's a sword. With two edges."
+—Kamahl, pit fighter</flavorText>
+  </item>
+  <item>
+    <id>10E0219</id>
+    <name>Mogg Fanatic</name>
+    <text>Sacrifice Mogg Fanatic: Mogg Fanatic deals 1 damage to target creature or player.</text>
+    <flavorText>"I got it I got it I—"</flavorText>
+  </item>
+  <item>
+    <id>10E0220</id>
+    <name>Orcish Artillery</name>
+    <text>{T}: Orcish Artillery deals 2 damage to target creature or player and 3 damage to you.</text>
+    <flavorText>"So they want to kill my men? Well two can play at that game."
+—General Khurzog</flavorText>
+  </item>
+  <item>
+    <id>10E0221</id>
+    <name>Prodigal Pyromancer</name>
+    <text>{T}: Prodigal Pyromancer deals 1 damage to target creature or player.</text>
+    <flavorText>"What am I looking at? Ashes, dead man."</flavorText>
+  </item>
+  <item>
+    <id>10E0222</id>
+    <name>Pyroclasm</name>
+    <text>Pyroclasm deals 2 damage to each creature.</text>
+    <flavorText>"When the air burns, only death breathes deep."
+—Bogardan mage</flavorText>
+  </item>
+  <item>
+    <id>10E0223</id>
+    <name>Rage Weaver</name>
+    <text>{2}: Target black or green creature gains haste until end of turn. (It can attack and {T} this turn.)</text>
+    <flavorText>"Let my passion spur your victory."</flavorText>
+  </item>
+  <item>
+    <id>10E0224</id>
+    <name>Raging Goblin</name>
+    <text>Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+    <flavorText>He raged at the world, at his family, at his life. But mostly he just raged.</flavorText>
+  </item>
+  <item>
+    <id>10E0225</id>
+    <name>Relentless Assault</name>
+    <text>Untap all creatures that attacked this turn. After this main phase, there is an additional combat phase followed by an additional main phase.</text>
+    <flavorText>"Mercy? Mercy is for the playground, not the battleground."</flavorText>
+  </item>
+  <item>
+    <id>10E0226</id>
+    <name>Rock Badger</name>
+    <text>Mountainwalk (This creature is unblockable as long as defending player controls a Mountain.)</text>
+    <flavorText>"As it charged our keep, I mistook it for a bear. After it tore through our ramparts and half the guard, I wished it had been a bear after all."
+—Ballista guard</flavorText>
+  </item>
+  <item>
+    <id>10E0227</id>
+    <name>Scoria Wurm</name>
+    <text>At the beginning of your upkeep, flip a coin. If you lose the flip, return Scoria Wurm to its owner's hand.</text>
+    <flavorText>Late at night, ululations echo from deep under Shiv, as the wurms sing of times older than humanity.</flavorText>
+  </item>
+  <item>
+    <id>10E0228</id>
+    <name>Seismic Assault</name>
+    <text>Discard a land card: Seismic Assault deals 2 damage to target creature or player.</text>
+    <flavorText>Earth arms itself with fire.</flavorText>
+  </item>
+  <item>
+    <id>10E0229</id>
+    <name>Shatterstorm</name>
+    <text>Destroy all artifacts. They can't be regenerated.</text>
+    <flavorText>From a marvel of magical mechanization to a smoking stack of scrap in one easy step.</flavorText>
+  </item>
+  <item>
+    <id>10E0230</id>
+    <name>Shivan Dragon</name>
+    <text>Flying
+{R}: Shivan Dragon gets +1/+0 until end of turn.</text>
+    <flavorText>The undisputed master of the mountains of Shiv.</flavorText>
+  </item>
+  <item>
+    <id>10E0231</id>
+    <name>Shivan Hellkite</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{1}{R}: Shivan Hellkite deals 1 damage to target creature or player.</text>
+    <flavorText>A dragon's scale can be carved into a mighty shield, provided you can procure a dragontooth to cut it.</flavorText>
+  </item>
+  <item>
+    <id>10E0232</id>
+    <name>Shock</name>
+    <text>Shock deals 2 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0233</id>
+    <name>Shunt</name>
+    <text>Change the target of target spell with a single target.</text>
+    <flavorText>Aranghil held her fury in her heart, hard and bright as a ruby. With its razor edge, she rewrote the laws of battle.</flavorText>
+  </item>
+  <item>
+    <id>10E0234</id>
+    <name>Siege-Gang Commander</name>
+    <text>When Siege-Gang Commander enters the battlefield, put three 1/1 red Goblin creature tokens onto the battlefield.
+{1}{R}, Sacrifice a Goblin: Siege-Gang Commander deals 2 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0235</id>
+    <name>Smash</name>
+    <text>Destroy target artifact.
+Draw a card.</text>
+    <flavorText>Ravnica's laws protect not its citizens but its industry. Aging equipment is destroyed rather than restored, to bring more money into the factories' coffers.</flavorText>
+  </item>
+  <item>
+    <id>10E0236</id>
+    <name>Soulblast</name>
+    <text>As an additional cost to cast Soulblast, sacrifice all creatures you control.
+Soulblast deals damage to target creature or player equal to the total power of the sacrificed creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0237</id>
+    <name>Spark Elemental</name>
+    <text>Trample, haste (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice Spark Elemental.</text>
+    <flavorText>Vulshok shamans could never keep them alive for more than a few seconds, yet those few seconds seemed to be enough.</flavorText>
+  </item>
+  <item>
+    <id>10E0238</id>
+    <name>Spitting Earth</name>
+    <text>Spitting Earth deals damage equal to the number of Mountains you control to target creature.</text>
+    <flavorText>"Within each of you is the strength of a landslide."
+—Kumano, to his pupils</flavorText>
+  </item>
+  <item>
+    <id>10E0239</id>
+    <name>Squee, Goblin Nabob</name>
+    <text>At the beginning of your upkeep, you may return Squee, Goblin Nabob from your graveyard to your hand.</text>
+    <flavorText>"Some goblins are expendable. Some are impossible to get rid of. But he's both—at the same time"
+—Starke</flavorText>
+  </item>
+  <item>
+    <id>10E0240</id>
+    <name>Stun</name>
+    <text>Target creature can't block this turn.
+Draw a card.</text>
+    <flavorText>"Fortunately, merfolk aren't used to opponents with feet."
+—Gerrard of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>10E0241</id>
+    <name>Sudden Impact</name>
+    <text>Sudden Impact deals damage equal to the number of cards in target player's hand to that player.</text>
+    <flavorText>"Some say it's better to think before you act. While those people are considering all the options, that's usually when I kill them."
+—Dravus, lava mage</flavorText>
+  </item>
+  <item>
+    <id>10E0242</id>
+    <name>Threaten</name>
+    <text>Untap target creature and gain control of it until end of turn. That creature gains haste until end of turn. (It can attack and {T} this turn.)</text>
+    <flavorText>Goblins' motivational techniques are crude, but effective.</flavorText>
+  </item>
+  <item>
+    <id>10E0243</id>
+    <name>Thundering Giant</name>
+    <text>Haste (This creature can attack and {T} as soon as it comes under your control.)</text>
+    <flavorText>The giant was felt a few seconds before he was seen.</flavorText>
+  </item>
+  <item>
+    <id>10E0244</id>
+    <name>Uncontrollable Anger</name>
+    <text>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +2/+2 and attacks each turn if able.</text>
+    <flavorText>A barbarian's heart pounds with the fury of a prisoner, threatening at any moment to break the bars of its cage.</flavorText>
+  </item>
+  <item>
+    <id>10E0245</id>
+    <name>Viashino Runner</name>
+    <text>Viashino Runner can't be blocked except by two or more creatures.</text>
+    <flavorText>"It moved this way, an' that way, an' then before I could stick it, it jumped over my head an' was gone."
+—Jula, goblin raider</flavorText>
+  </item>
+  <item>
+    <id>10E0246</id>
+    <name>Viashino Sandscout</name>
+    <text>Haste (This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, return Viashino Sandscout to its owner's hand. (Return it only if it's on the battlefield.)</text>
+    <flavorText>A viashino's overlapping scales form a buffer against Shiv's ash-flecked winds and a slippery target for goblin pikes.</flavorText>
+  </item>
+  <item>
+    <id>10E0247</id>
+    <name>Wall of Fire</name>
+    <text>Defender (This creature can't attack.)
+{R}: Wall of Fire gets +1/+0 until end of turn.</text>
+    <flavorText>The erupting flames work as both barrier and weapon.</flavorText>
+  </item>
+  <item>
+    <id>10E0248</id>
+    <name>Warp World</name>
+    <text>Each player shuffles all permanents he or she owns into his or her library, then reveals that many cards from the top of his or her library. Each player puts all artifact, creature, and land cards revealed this way onto the battlefield, then does the same for enchantment cards, then puts all cards revealed this way that weren't put onto the battlefield on the bottom of his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0249</id>
+    <name>Abundance</name>
+    <text>If you would draw a card, you may instead choose land or nonland and reveal cards from the top of your library until you reveal a card of the chosen kind. Put that card into your hand and put all other cards revealed this way on the bottom of your library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0250</id>
+    <name>Aggressive Urge</name>
+    <text>Target creature gets +1/+1 until end of turn.
+Draw a card.</text>
+    <flavorText>The power of the wild, concentrated in a single charge.</flavorText>
+  </item>
+  <item>
+    <id>10E0251</id>
+    <name>Avatar of Might</name>
+    <text>If an opponent controls at least four more creatures than you, Avatar of Might costs {6} less to cast.
+Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)</text>
+    <flavorText>In their most desperate hour, the elves of Llanowar had one song left to sing.</flavorText>
+  </item>
+  <item>
+    <id>10E0252</id>
+    <name>Birds of Paradise</name>
+    <text>Flying
+{T}: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0253</id>
+    <name>Blanchwood Armor</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +1/+1 for each Forest you control.</text>
+    <flavorText>"Before armor, there was bark. Before blades, there were thorns."
+—Molimo, maro-sorcerer</flavorText>
+  </item>
+  <item>
+    <id>10E0254</id>
+    <name>Canopy Spider</name>
+    <text>Reach (This creature can block creatures with flying.)</text>
+    <flavorText>It keeps the upper reaches of the forest free of every menace . . . except for the spider itself.</flavorText>
+  </item>
+  <item>
+    <id>10E0255</id>
+    <name>Civic Wayfinder</name>
+    <text>When Civic Wayfinder enters the battlefield, you may search your library for a basic land card, reveal it, and put it into your hand. If you do, shuffle your library.</text>
+    <flavorText>"These alleys are not safe. Come, I can guide you back to the market square."</flavorText>
+  </item>
+  <item>
+    <id>10E0256</id>
+    <name>Commune with Nature</name>
+    <text>Look at the top five cards of your library. You may reveal a creature card from among them and put it into your hand. Put the rest on the bottom of your library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0257</id>
+    <name>Craw Wurm</name>
+    <text>
+    </text>
+    <flavorText>The most terrifying thing about the craw wurm is probably the horrible crashing sound it makes as it speeds through the forest. This noise is so loud it echoes through the trees and seems to come from all directions at once.</flavorText>
+  </item>
+  <item>
+    <id>10E0258</id>
+    <name>Creeping Mold</name>
+    <text>Destroy target artifact, enchantment, or land.</text>
+    <flavorText>Mold crept over the walls and into every crevice until the gleaming white stone strained and burst.</flavorText>
+  </item>
+  <item>
+    <id>10E0259</id>
+    <name>Elven Riders</name>
+    <text>Elven Riders can't be blocked except by Walls and/or creatures with flying.</text>
+    <flavorText>"Wirewood cannot hide great size. Only with speed and skill can we survive here."</flavorText>
+  </item>
+  <item>
+    <id>10E0260</id>
+    <name>Elvish Berserker</name>
+    <text>Whenever Elvish Berserker becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</text>
+    <flavorText>Their fury scatters enemies like a pile of dry leaves.</flavorText>
+  </item>
+  <item>
+    <id>10E0261</id>
+    <name>Elvish Champion</name>
+    <text>Other Elf creatures get +1/+1 and have forestwalk. (They're unblockable as long as defending player controls a Forest.)</text>
+    <flavorText>"For what are leaves but countless blades
+To fight a countless foe on high."
+—Elvish hymn</flavorText>
+  </item>
+  <item>
+    <id>10E0262</id>
+    <name>Elvish Piper</name>
+    <text>{G}, {T}: You may put a creature card from your hand onto the battlefield.</text>
+    <flavorText>From Gaea grew the world, and the world was silent. From Gaea grew the world's elves, and the world was silent no more.
+—Elvish teaching</flavorText>
+  </item>
+  <item>
+    <id>10E0263</id>
+    <name>Enormous Baloth</name>
+    <text>
+    </text>
+    <flavorText>Its diet consists of fruits, plants, small woodland animals, large woodland animals, woodlands, fruit groves, fruit farmers, and small cities.</flavorText>
+  </item>
+  <item>
+    <id>10E0264</id>
+    <name>Femeref Archers</name>
+    <text>{T}: Femeref Archers deals 4 damage to target attacking creature with flying.</text>
+    <flavorText>"Bet you can't put it through the eye."
+"Left or right?"</flavorText>
+  </item>
+  <item>
+    <id>10E0265</id>
+    <name>Gaea's Herald</name>
+    <text>Creature spells can't be countered.</text>
+    <flavorText>"Gaea sings with the voice of nature rampant: a thousand howls, chitters, and cries, and none of them can be ignored."</flavorText>
+  </item>
+  <item>
+    <id>10E0266</id>
+    <name>Giant Growth</name>
+    <text>Target creature gets +3/+3 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0267</id>
+    <name>Giant Spider</name>
+    <text>Reach (This creature can block creatures with flying.)</text>
+    <flavorText>"When I trained under Multani, he bade me sit for hours watching Yavimaya's spiders. From them I learned stealth, patience, and the best way to snare a wind drake."
+—Mirri of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>10E0268</id>
+    <name>Grizzly Bears</name>
+    <text>
+    </text>
+    <flavorText>"We cannot forget that among all of Dominaria's wonders, a system of life exists, with prey and predators that will never fight wars nor vie for ancient power."
+—Jolrael, empress of beasts</flavorText>
+  </item>
+  <item>
+    <id>10E0269</id>
+    <name>Hunted Wumpus</name>
+    <text>When Hunted Wumpus enters the battlefield, each other player may put a creature card from his or her hand onto the battlefield.</text>
+    <flavorText>Just one can feed a dozen people for a month.</flavorText>
+  </item>
+  <item>
+    <id>10E0270</id>
+    <name>Hurricane</name>
+    <text>Hurricane deals X damage to each creature with flying and each player.</text>
+    <flavorText>"Don't envy the grandeur of drakes. Their impression of grace fades when the first gust sends them crashing into one another."
+—Molimo, maro-sorcerer</flavorText>
+  </item>
+  <item>
+    <id>10E0271</id>
+    <name>Joiner Adept</name>
+    <text>Lands you control have "{T}: Add one mana of any color to your mana pool."</text>
+    <flavorText>A talented apprentice makes all things. The master makes all things possible.</flavorText>
+  </item>
+  <item>
+    <id>10E0272</id>
+    <name>Karplusan Strider</name>
+    <text>Karplusan Strider can't be the target of blue or black spells.</text>
+    <flavorText>The strider's long, loping gait is an adaptation that allows it to move quickly in deep snow.</flavorText>
+  </item>
+  <item>
+    <id>10E0273</id>
+    <name>Kavu Climber</name>
+    <text>When Kavu Climber enters the battlefield, draw a card.</text>
+    <flavorText>"There was a crack of branches, a rustle of leaves, then a tremendous roar. Our party had no chance as death descended from above."
+—Taseen, elvish bard</flavorText>
+  </item>
+  <item>
+    <id>10E0274</id>
+    <name>Llanowar Elves</name>
+    <text>{T}: Add {G} to your mana pool.</text>
+    <flavorText>One bone broken for every twig snapped underfoot.
+—Llanowar penalty for trespassing</flavorText>
+  </item>
+  <item>
+    <id>10E0275</id>
+    <name>Llanowar Sentinel</name>
+    <text>When Llanowar Sentinel enters the battlefield, you may pay {1}{G}. If you do, search your library for a card named Llanowar Sentinel and put that card onto the battlefield. Then shuffle your library.</text>
+    <flavorText>"The forest has as many eyes as leaves."
+—Mirri of the Weatherlight</flavorText>
+  </item>
+  <item>
+    <id>10E0276</id>
+    <name>Lure</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+All creatures able to block enchanted creature do so.</text>
+    <flavorText>Her true theft was to steal the soldiers away from their posts.</flavorText>
+  </item>
+  <item>
+    <id>10E0277</id>
+    <name>Might of Oaks</name>
+    <text>Target creature gets +7/+7 until end of turn.</text>
+    <flavorText>"Guess where I'm gonna plant this"</flavorText>
+  </item>
+  <item>
+    <id>10E0278</id>
+    <name>Might Weaver</name>
+    <text>{2}: Target red or white creature gains trample until end of turn. (If the creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)</text>
+    <flavorText>"Let my strength harden your resolve."</flavorText>
+  </item>
+  <item>
+    <id>10E0279</id>
+    <name>Mirri, Cat Warrior</name>
+    <text>First strike, forestwalk, vigilance (This creature deals combat damage before creatures without first strike, it's unblockable as long as defending player controls a Forest, and attacking doesn't cause this creature to tap.)</text>
+    <flavorText>"Full of beauty and grace, with a predator's instincts . . . Although she wanders, I have always thought Mirri belongs in Llanowar most of all."
+—Rofellos, Llanowar emissary</flavorText>
+  </item>
+  <item>
+    <id>10E0280</id>
+    <name>Molimo, Maro-Sorcerer</name>
+    <text>Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Molimo, Maro-Sorcerer's power and toughness are each equal to the number of lands you control.</text>
+    <flavorText>"My mind is the spread of the canopy. My heart is the embrace of the roots. I am deathless Llanowar, its fury and its peace."</flavorText>
+  </item>
+  <item>
+    <id>10E0281</id>
+    <name>Natural Spring</name>
+    <text>Target player gains 8 life.</text>
+    <flavorText>"Jewels cannot be eaten nor gold drunk. What civilization trades, nature simply provides."
+—Molimo, maro-sorcerer</flavorText>
+  </item>
+  <item>
+    <id>10E0282</id>
+    <name>Naturalize</name>
+    <text>Destroy target artifact or enchantment.</text>
+    <flavorText>"Well, it also makes a very nice flower pot. . . ."
+—Arcum Dagsson, Soldevi machinist</flavorText>
+  </item>
+  <item>
+    <id>10E0283</id>
+    <name>Overgrowth</name>
+    <text>Enchant land (Target a land as you cast this. This card enters the battlefield attached to that land.)
+Whenever enchanted land is tapped for mana, its controller adds {G}{G} to his or her mana pool (in addition to the mana the land produces).</text>
+    <flavorText>"Let the forest spread From salt, stone, and fen, let the new trees rise."
+—Molimo, maro-sorcerer</flavorText>
+  </item>
+  <item>
+    <id>10E0284</id>
+    <name>Overrun</name>
+    <text>Creatures you control get +3/+3 and gain trample until end of turn. (If a creature you control would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)</text>
+    <flavorText>Nature doesn't walk.</flavorText>
+  </item>
+  <item>
+    <id>10E0285</id>
+    <name>Pincher Beetles</name>
+    <text>Shroud (This creature can't be the target of spells or abilities.)</text>
+    <flavorText>"No fair Since when does a bug get ta munch on me?"
+—Squee, goblin cabin hand</flavorText>
+  </item>
+  <item>
+    <id>10E0286</id>
+    <name>Primal Rage</name>
+    <text>Creatures you control have trample. (If a creature you control would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)</text>
+    <flavorText>Ferocity and cunning accounted for half the victory. Gravity accounted for the rest.</flavorText>
+  </item>
+  <item>
+    <id>10E0287</id>
+    <name>Quirion Dryad</name>
+    <text>Whenever you cast a white, blue, black, or red spell, put a +1/+1 counter on Quirion Dryad.</text>
+    <flavorText>"Never underestimate the ability of natural forces to adapt to unnatural influences."
+—Molimo, maro-sorcerer</flavorText>
+  </item>
+  <item>
+    <id>10E0288</id>
+    <name>Rampant Growth</name>
+    <text>Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</text>
+    <flavorText>Nature grows solutions to her problems.</flavorText>
+  </item>
+  <item>
+    <id>10E0289</id>
+    <name>Recollect</name>
+    <text>Return target card from your graveyard to your hand.</text>
+    <flavorText>"The bones of the past will tell their tales—if you know how to speak their language."
+—Savra</flavorText>
+  </item>
+  <item>
+    <id>10E0290</id>
+    <name>Regeneration</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+{G}: Regenerate enchanted creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>"A touch of vine sap in the blood, and the flesh knits as quickly as new roots twining."
+—Freyalise</flavorText>
+  </item>
+  <item>
+    <id>10E0291</id>
+    <name>Rhox</name>
+    <text>You may have Rhox assign its combat damage as though it weren't blocked.
+{2}{G}: Regenerate Rhox. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>It's as solid as the club in its hand—and about as subtle.</flavorText>
+  </item>
+  <item>
+    <id>10E0292</id>
+    <name>Root Maze</name>
+    <text>Artifacts and lands enter the battlefield tapped.</text>
+    <flavorText>Pause for the briefest of moments to consider the whorl of brambles, the tangled twist of bark, and the maze has already won.</flavorText>
+  </item>
+  <item>
+    <id>10E0293</id>
+    <name>Rootwalla</name>
+    <text>{1}{G}: Rootwalla gets +2/+2 until end of turn. Activate this ability only once each turn.</text>
+    <flavorText>If you try to sneak up on a rootwalla, you'll suddenly find yourself dealing with twice the lizard.</flavorText>
+  </item>
+  <item>
+    <id>10E0294</id>
+    <name>Rushwood Dryad</name>
+    <text>Forestwalk (This creature is unblockable as long as defending player controls a Forest.)</text>
+    <flavorText>To a dryad, every tree in the forest is both a doorway and a window.</flavorText>
+  </item>
+  <item>
+    <id>10E0295</id>
+    <name>Scion of the Wild</name>
+    <text>Scion of the Wild's power and toughness are each equal to the number of creatures you control.</text>
+    <flavorText>It has a hundred thousand extinctions to avenge.</flavorText>
+  </item>
+  <item>
+    <id>10E0296</id>
+    <name>Seedborn Muse</name>
+    <text>Untap all permanents you control during each other player's untap step.</text>
+    <flavorText>"Her voice is the wilderness, savage and pure."
+—Kamahl, druid acolyte</flavorText>
+  </item>
+  <item>
+    <id>10E0297</id>
+    <name>Skyshroud Ranger</name>
+    <text>{T}: You may put a land card from your hand onto the battlefield. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>Not even the elves truly know the Skyshroud Forest. The rangers are merely the best equipped to handle its uncertainty.</flavorText>
+  </item>
+  <item>
+    <id>10E0298</id>
+    <name>Spined Wurm</name>
+    <text>
+    </text>
+    <flavorText>Its spines act like the teeth of a saw, scoring distinctive marks in the vegetation of its territory.</flavorText>
+  </item>
+  <item>
+    <id>10E0299</id>
+    <name>Stalking Tiger</name>
+    <text>Stalking Tiger can't be blocked by more than one creature.</text>
+    <flavorText>In the Jamuraan jungles, there is often no separating beauty from danger.</flavorText>
+  </item>
+  <item>
+    <id>10E0300</id>
+    <name>Stampeding Wildebeests</name>
+    <text>Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+At the beginning of your upkeep, return a green creature you control to its owner's hand.</text>
+    <flavorText>The most violent and destructive storms in Femeref occur on cloudless days.</flavorText>
+  </item>
+  <item>
+    <id>10E0301</id>
+    <name>Sylvan Basilisk</name>
+    <text>Whenever Sylvan Basilisk becomes blocked by a creature, destroy that creature.</text>
+    <flavorText>"We're not sure what one looks like, so to be safe, nobody look at anything until we're out of here."
+—Parbold Drix, veteran explorer</flavorText>
+  </item>
+  <item>
+    <id>10E0302</id>
+    <name>Sylvan Scrying</name>
+    <text>Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>One glimpse of an elf's home lasts her weeks away in the wild.</flavorText>
+  </item>
+  <item>
+    <id>10E0303</id>
+    <name>Tangle Spider</name>
+    <text>Flash (You may cast this spell any time you could cast an instant.)
+Reach (This creature can block creatures with flying.)</text>
+    <flavorText>Only rumors have ever escaped its web.</flavorText>
+  </item>
+  <item>
+    <id>10E0304</id>
+    <name>Treetop Bracers</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Enchanted creature gets +1/+1 and can't be blocked except by creatures with flying.</text>
+    <flavorText>Gravity is truly what you make of it.</flavorText>
+  </item>
+  <item>
+    <id>10E0305</id>
+    <name>Troll Ascetic</name>
+    <text>Troll Ascetic can't be the target of spells or abilities your opponents control.
+{1}{G}: Regenerate Troll Ascetic. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>It's no coincidence that the oldest trolls are also the angriest.</flavorText>
+  </item>
+  <item>
+    <id>10E0306</id>
+    <name>Upwelling</name>
+    <text>Mana pools don't empty as steps and phases end.</text>
+    <flavorText>Freyalise promised a dawn that would never end, a day of limitless life. As many dread her promise as revere it.</flavorText>
+  </item>
+  <item>
+    <id>10E0307</id>
+    <name>Verdant Force</name>
+    <text>At the beginning of each upkeep, put a 1/1 green Saproling creature token onto the battlefield.</text>
+    <flavorText>Left to itself, nature overflows any container, overthrows any restriction, and overreaches any boundary.</flavorText>
+  </item>
+  <item>
+    <id>10E0308</id>
+    <name>Viridian Shaman</name>
+    <text>When Viridian Shaman enters the battlefield, destroy target artifact.</text>
+    <flavorText>She stands as a living symbol of the natural world and an enemy of the forces that threaten it.</flavorText>
+  </item>
+  <item>
+    <id>10E0309</id>
+    <name>Wall of Wood</name>
+    <text>Defender (This creature can't attack.)</text>
+    <flavorText>Orcish lumberjacks spent the night sharpening their blades and resting for a day of labor. They awoke to find that the forest had been making its own preparations.</flavorText>
+  </item>
+  <item>
+    <id>10E0310</id>
+    <name>Yavimaya Enchantress</name>
+    <text>Yavimaya Enchantress gets +1/+1 for each enchantment on the battlefield.</text>
+    <flavorText>Her roots connect her to the forest's wishes.</flavorText>
+  </item>
+  <item>
+    <id>10E0311</id>
+    <name>Angel's Feather</name>
+    <text>Whenever a player casts a white spell, you may gain 1 life.</text>
+    <flavorText>If taken, it cuts the hand that clutches it. If given, it heals the hand that holds it.</flavorText>
+  </item>
+  <item>
+    <id>10E0312</id>
+    <name>Bottle Gnomes</name>
+    <text>Sacrifice Bottle Gnomes: You gain 3 life.</text>
+    <flavorText>Reinforcements . . . or refreshments?</flavorText>
+  </item>
+  <item>
+    <id>10E0313</id>
+    <name>Chimeric Staff</name>
+    <text>{X}: Chimeric Staff becomes an X/X Construct artifact creature until end of turn.</text>
+    <flavorText>The staff unraveled in a chaotic chorus of clanging, becoming an improbable beast of hissing blades.</flavorText>
+  </item>
+  <item>
+    <id>10E0314</id>
+    <name>Chromatic Star</name>
+    <text>{1}, {T}, Sacrifice Chromatic Star: Add one mana of any color to your mana pool.
+When Chromatic Star is put into a graveyard from the battlefield, draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0315</id>
+    <name>Citanul Flute</name>
+    <text>{X}, {T}: Search your library for a creature card with converted mana cost X or less, reveal it, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>Each note of the flute mimics the call of a different beast.</flavorText>
+  </item>
+  <item>
+    <id>10E0316</id>
+    <name>Coat of Arms</name>
+    <text>Each creature gets +1/+1 for each other creature on the battlefield that shares at least one creature type with it. (For example, if two Goblin Warriors and a Goblin Shaman are on the battlefield, each gets +2/+2.)</text>
+    <flavorText>"Hup, two, three, four,
+Dunno how to count no more."</flavorText>
+  </item>
+  <item>
+    <id>10E0317</id>
+    <name>Colossus of Sardia</name>
+    <text>Trample (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)
+Colossus of Sardia doesn't untap during your untap step.
+{9}: Untap Colossus of Sardia. Activate this ability only during your upkeep.</text>
+    <flavorText>Buried under a thin layer of dirt, it was known for centuries as Mount Sardia.</flavorText>
+  </item>
+  <item>
+    <id>10E0318</id>
+    <name>Composite Golem</name>
+    <text>Sacrifice Composite Golem: Add {W}{U}{B}{R}{G} to your mana pool.</text>
+    <flavorText>An artificer's experiment in cross-material engineering found its own purpose as an interpreter between cultures.</flavorText>
+  </item>
+  <item>
+    <id>10E0319</id>
+    <name>Crucible of Worlds</name>
+    <text>You may play land cards from your graveyard.</text>
+    <flavorText>Amidst the darkest ashes grow the strongest seeds.</flavorText>
+  </item>
+  <item>
+    <id>10E0320</id>
+    <name>Demon's Horn</name>
+    <text>Whenever a player casts a black spell, you may gain 1 life.</text>
+    <flavorText>Its curve mimics the twists of life and death.</flavorText>
+  </item>
+  <item>
+    <id>10E0321</id>
+    <name>Doubling Cube</name>
+    <text>{3}, {T}: Double the amount of each type of mana in your mana pool.</text>
+    <flavorText>The cube's surface is pockmarked with jagged runes that seem to shift when unobserved.</flavorText>
+  </item>
+  <item>
+    <id>10E0322</id>
+    <name>Dragon's Claw</name>
+    <text>Whenever a player casts a red spell, you may gain 1 life.</text>
+    <flavorText>Though no longer attached to the hand, it still holds its adversary in its grasp.</flavorText>
+  </item>
+  <item>
+    <id>10E0323</id>
+    <name>Fountain of Youth</name>
+    <text>{2}, {T}: You gain 1 life.</text>
+    <flavorText>Some say the fountain's waters are the first rains that fell over Dominaria.</flavorText>
+  </item>
+  <item>
+    <id>10E0324</id>
+    <name>The Hive</name>
+    <text>{5}, {T}: Put a 1/1 colorless Insect artifact creature token with flying named Wasp onto the battlefield. (It can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>"Their buzzing makes my bones hum from a mile away."
+—Galenti, treasure hunter</flavorText>
+  </item>
+  <item>
+    <id>10E0325</id>
+    <name>Howling Mine</name>
+    <text>At the beginning of each player's draw step, if Howling Mine is untapped, that player draws an additional card.</text>
+    <flavorText>Legend has it that the mine howls out the last words of those who died inside.</flavorText>
+  </item>
+  <item>
+    <id>10E0326</id>
+    <name>Icy Manipulator</name>
+    <text>{1}, {T}: Tap target artifact, creature, or land.</text>
+    <flavorText>In fire there is the spark of chaos and destruction, the seed of life. In ice there is perfect tranquility, perfect order, and the silence of death.</flavorText>
+  </item>
+  <item>
+    <id>10E0327</id>
+    <name>Jayemdae Tome</name>
+    <text>{4}, {T}: Draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0328</id>
+    <name>Juggernaut</name>
+    <text>Juggernaut attacks each turn if able.
+Juggernaut can't be blocked by Walls.</text>
+    <flavorText>Built with neither a way to steer nor a way to stop, the juggernauts were simply aimed at an enemy's best defenses and told to charge.</flavorText>
+  </item>
+  <item>
+    <id>10E0329</id>
+    <name>Kraken's Eye</name>
+    <text>Whenever a player casts a blue spell, you may gain 1 life.</text>
+    <flavorText>Bright as a mirror, dark as the sea.</flavorText>
+  </item>
+  <item>
+    <id>10E0330</id>
+    <name>Legacy Weapon</name>
+    <text>{W}{U}{B}{R}{G}: Exile target permanent.
+If Legacy Weapon would be put into a graveyard from anywhere, reveal Legacy Weapon and shuffle it into its owner's library instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0331</id>
+    <name>Leonin Scimitar</name>
+    <text>Equipped creature gets +1/+1.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>"Every scratch tells a story, and every notch has a name. Four generations have held this blade. You shall not disappoint them."
+—Initiation of Laena, skyhunter</flavorText>
+  </item>
+  <item>
+    <id>10E0332</id>
+    <name>Loxodon Warhammer</name>
+    <text>Equipped creature gets +3/+0 and has trample and lifelink. (If the creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker. Damage dealt by the creature also causes its controller to gain that much life.)
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0333</id>
+    <name>Mantis Engine</name>
+    <text>{2}: Mantis Engine gains flying until end of turn. (It can't be blocked except by creatures with flying or reach.)
+{2}: Mantis Engine gains first strike until end of turn. (It deals combat damage before creatures without first strike.)</text>
+    <flavorText>"It's a clever design. You should look closely at its gearing after it swallows your head."
+—Jhoira, master artificer</flavorText>
+  </item>
+  <item>
+    <id>10E0334</id>
+    <name>Millstone</name>
+    <text>{2}, {T}: Target player puts the top two cards of his or her library into his or her graveyard.</text>
+    <flavorText>More than one mage has been driven insane by the sound of the millstone relentlessly grinding away.</flavorText>
+  </item>
+  <item>
+    <id>10E0335</id>
+    <name>Mind Stone</name>
+    <text>{T}: Add {1} to your mana pool.
+{1}, {T}, Sacrifice Mind Stone: Draw a card.</text>
+    <flavorText>"Not by age but by capacity is wisdom gained."
+—Titus Maccius Plautus, Trinummus</flavorText>
+  </item>
+  <item>
+    <id>10E0336</id>
+    <name>Ornithopter</name>
+    <text>Flying</text>
+    <flavorText>"It has been my honor to improve on the Thran's original design. Perhaps history will remember me in some small part for my work."
+—Urza, in his apprenticeship</flavorText>
+  </item>
+  <item>
+    <id>10E0337</id>
+    <name>Phyrexian Vault</name>
+    <text>{2}, {T}, Sacrifice a creature: Draw a card.</text>
+    <flavorText>"The secrets of Phyrexia are expensive. You will pay in brass and bone, steel and sinew."
+—Kaervek</flavorText>
+  </item>
+  <item>
+    <id>10E0338</id>
+    <name>Pithing Needle</name>
+    <text>As Pithing Needle enters the battlefield, name a card.
+Activated abilities of sources with the chosen name can't be activated unless they're mana abilities.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0339</id>
+    <name>Platinum Angel</name>
+    <text>Flying
+You can't lose the game and your opponents can't win the game.</text>
+    <flavorText>In its heart lies the secret of immortality.</flavorText>
+  </item>
+  <item>
+    <id>10E0340</id>
+    <name>Razormane Masticore</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)
+At the beginning of your upkeep, sacrifice Razormane Masticore unless you discard a card.
+At the beginning of your draw step, you may have Razormane Masticore deal 3 damage to target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0341</id>
+    <name>Rod of Ruin</name>
+    <text>{3}, {T}: Rod of Ruin deals 1 damage to target creature or player.</text>
+    <flavorText>The rod is a relic from ancient times . . . cruel, vicious, mean-spirited times.</flavorText>
+  </item>
+  <item>
+    <id>10E0342</id>
+    <name>Sculpting Steel</name>
+    <text>You may have Sculpting Steel enter the battlefield as a copy of any artifact on the battlefield.</text>
+    <flavorText>An artificer once dropped one in a vault full of coins. She has yet to find it.</flavorText>
+  </item>
+  <item>
+    <id>10E0343</id>
+    <name>Spellbook</name>
+    <text>You have no maximum hand size.</text>
+    <flavorText>"Everything the wise woman learned she wrote in a book, and when the pages were black with ink, she took white ink and began again."
+—Karn, silver golem</flavorText>
+  </item>
+  <item>
+    <id>10E0344</id>
+    <name>Steel Golem</name>
+    <text>You can't cast creature spells.</text>
+    <flavorText>"Once you create perfection, what else is there to make?"
+—Arcum Dagsson, Soldevi machinist</flavorText>
+  </item>
+  <item>
+    <id>10E0345</id>
+    <name>Whispersilk Cloak</name>
+    <text>Equipped creature is unblockable.
+Equipped creature has shroud. (It can't be the target of spells or abilities.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>Such cloaks are in high demand both by assassins and by those who fear them.</flavorText>
+  </item>
+  <item>
+    <id>10E0346</id>
+    <name>Wurm's Tooth</name>
+    <text>Whenever a player casts a green spell, you may gain 1 life.</text>
+    <flavorText>A wurm knows nothing of deception. If it opens its mouth, it plans to eat you.</flavorText>
+  </item>
+  <item>
+    <id>10E0347</id>
+    <name>Adarkar Wastes</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {W} or {U} to your mana pool. Adarkar Wastes deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0348</id>
+    <name>Battlefield Forge</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {R} or {W} to your mana pool. Battlefield Forge deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0349</id>
+    <name>Brushland</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {G} or {W} to your mana pool. Brushland deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0350</id>
+    <name>Caves of Koilos</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {W} or {B} to your mana pool. Caves of Koilos deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0351</id>
+    <name>Faerie Conclave</name>
+    <text>Faerie Conclave enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+{1}{U}: Faerie Conclave becomes a 2/1 blue Faerie creature with flying until end of turn. It's still a land. (It can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0352</id>
+    <name>Forbidding Watchtower</name>
+    <text>Forbidding Watchtower enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+{1}{W}: Forbidding Watchtower becomes a 1/5 white Soldier creature until end of turn. It's still a land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0353</id>
+    <name>Ghitu Encampment</name>
+    <text>Ghitu Encampment enters the battlefield tapped.
+{T}: Add {R} to your mana pool.
+{1}{R}: Ghitu Encampment becomes a 2/1 red Warrior creature with first strike until end of turn. It's still a land. (It deals combat damage before creatures without first strike.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0354</id>
+    <name>Karplusan Forest</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {R} or {G} to your mana pool. Karplusan Forest deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0355</id>
+    <name>Llanowar Wastes</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {B} or {G} to your mana pool. Llanowar Wastes deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0356</id>
+    <name>Quicksand</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}, Sacrifice Quicksand: Target attacking creature without flying gets -1/-2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0357</id>
+    <name>Shivan Reef</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {U} or {R} to your mana pool. Shivan Reef deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0358</id>
+    <name>Spawning Pool</name>
+    <text>Spawning Pool enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+{1}{B}: Spawning Pool becomes a 1/1 black Skeleton creature with "{B}: Regenerate this creature" until end of turn. It's still a land. (If it regenerates, the next time it would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0359</id>
+    <name>Sulfurous Springs</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {B} or {R} to your mana pool. Sulfurous Springs deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0360</id>
+    <name>Terramorphic Expanse</name>
+    <text>{T}, Sacrifice Terramorphic Expanse: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</text>
+    <flavorText>Take two steps north into the unsettled future, south into the unquiet past, east into the present day, or west into the great unknown.</flavorText>
+  </item>
+  <item>
+    <id>10E0361</id>
+    <name>Treetop Village</name>
+    <text>Treetop Village enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{1}{G}: Treetop Village becomes a 3/3 green Ape creature with trample until end of turn. It's still a land. (If it would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0362</id>
+    <name>Underground River</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {U} or {B} to your mana pool. Underground River deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0363</id>
+    <name>Yavimaya Coast</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Add {G} or {U} to your mana pool. Yavimaya Coast deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0364</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0365</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0366</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0367</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0368</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0369</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0370</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0371</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0372</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0373</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0374</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0375</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0376</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0377</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0378</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0379</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0380</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0381</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0382</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>10E0383</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

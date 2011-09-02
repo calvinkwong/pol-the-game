@@ -1,0 +1,1211 @@
+<cards name="Guildpact">
+  <item>
+    <id>GPT0001</id>
+    <name>Absolver Thrull</name>
+    <text>Haunt (When this card is put into a graveyard from the battlefield, exile it haunting target creature.)
+When Absolver Thrull enters the battlefield or the creature it haunts is put into a graveyard, destroy target enchantment.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0002</id>
+    <name>Belfry Spirit</name>
+    <text>Flying
+Haunt (When this card is put into a graveyard from the battlefield, exile it haunting target creature.)
+When Belfry Spirit enters the battlefield or the creature it haunts is put into a graveyard, put two 1/1 black Bat creature tokens with flying onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0003</id>
+    <name>Benediction of Moons</name>
+    <text>You gain 1 life for each player.
+Haunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)
+When the creature Benediction of Moons haunts is put into a graveyard, you gain 1 life for each player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0004</id>
+    <name>Droning Bureaucrats</name>
+    <text>{X}, {T}: Each creature with converted mana cost X can't attack or block this turn.</text>
+    <flavorText>" . . . and you must also apply for an application license, file documents 136(iv) and 22-C and -D in triplicate, pay all requisite fees, request a . . ."</flavorText>
+  </item>
+  <item>
+    <id>GPT0005</id>
+    <name>Ghost Warden</name>
+    <text>{T}: Target creature gets +1/+1 until end of turn.</text>
+    <flavorText>"I thought of fate as an iron lattice, intricate but rigidly unchangeable. That was until some force bent fate's bars to spare my life."
+—Ilromov, traveling storyteller</flavorText>
+  </item>
+  <item>
+    <id>GPT0006</id>
+    <name>Ghostway</name>
+    <text>Exile each creature you control. Return those creatures to the battlefield under their owners' control at the beginning of the next end step.</text>
+    <flavorText>"I watched its blade swing through me, but I was hollow, empty. I saw its face contort in rage but could not hear it snarl."
+—Klattic, Boros legionnaire</flavorText>
+  </item>
+  <item>
+    <id>GPT0007</id>
+    <name>Graven Dominator</name>
+    <text>Flying
+Haunt (When this card is put into a graveyard from the battlefield, exile it haunting target creature.)
+When Graven Dominator enters the battlefield or the creature it haunts is put into a graveyard, each other creature becomes 1/1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0008</id>
+    <name>Guardian's Magemark</name>
+    <text>Flash
+Enchant creature
+Creatures you control that are enchanted get +1/+1.</text>
+    <flavorText>The soldier moved with fluid poise, his awareness extending far beyond five senses.</flavorText>
+  </item>
+  <item>
+    <id>GPT0009</id>
+    <name>Harrier Griffin</name>
+    <text>Flying
+At the beginning of your upkeep, tap target creature.</text>
+    <flavorText>Moon Market merchants sell a bottled scent to cutpurses and other criminals. Those doused in the liquid become "griffin bait."</flavorText>
+  </item>
+  <item>
+    <id>GPT0010</id>
+    <name>Leyline of the Meek</name>
+    <text>If Leyline of the Meek is in your opening hand, you may begin the game with it on the battlefield.
+Creature tokens get +1/+1.</text>
+    <flavorText>Where strength and humility converge.</flavorText>
+  </item>
+  <item>
+    <id>GPT0011</id>
+    <name>Lionheart Maverick</name>
+    <text>Vigilance
+{4}{W}: Lionheart Maverick gets +1/+2 until end of turn.</text>
+    <flavorText>"Your signet is no symbol of power. It marks only your need for numbers to aid you. What do you do, guild-rat, now that you face my blade alone?"</flavorText>
+  </item>
+  <item>
+    <id>GPT0012</id>
+    <name>Martyred Rusalka</name>
+    <text>{W}, Sacrifice a creature: Target creature can't attack this turn.</text>
+    <flavorText>Rakdos cultists hanged her for sport in the township square. Her ghost now stands vigil at what has become known as the Tree of Weeping.</flavorText>
+  </item>
+  <item>
+    <id>GPT0013</id>
+    <name>Order of the Stars</name>
+    <text>Defender (This creature can't attack.)
+As Order of the Stars enters the battlefield, choose a color.
+Order of the Stars has protection from the chosen color.</text>
+    <flavorText>As stoic as the marble halls, as unblinking as the stars upon their shields.</flavorText>
+  </item>
+  <item>
+    <id>GPT0014</id>
+    <name>Shadow Lance</name>
+    <text>Enchant creature
+Enchanted creature has first strike.
+{1}{B}: Enchanted creature gets +2/+2 until end of turn.</text>
+    <flavorText>Shadow lances are crafted from harvested souls. The more wicked the sinner, the keener the blade.</flavorText>
+  </item>
+  <item>
+    <id>GPT0015</id>
+    <name>Shrieking Grotesque</name>
+    <text>Flying
+When Shrieking Grotesque enters the battlefield, if {B} was spent to cast Shrieking Grotesque, target player discards a card.</text>
+    <flavorText>Orzhov mage-sculptors bring their stone to life before they carve it. The shrieking begins as soon as the mouths are formed.</flavorText>
+  </item>
+  <item>
+    <id>GPT0016</id>
+    <name>Sinstriker's Will</name>
+    <text>Enchant creature
+Enchanted creature has "{T}: This creature deals damage equal to its power to target attacking or blocking creature."</text>
+    <flavorText>"Steel rusts. Arrows break. But righteousness is always strong, always sharp."</flavorText>
+  </item>
+  <item>
+    <id>GPT0017</id>
+    <name>Skyrider Trainee</name>
+    <text>Skyrider Trainee has flying as long as it's enchanted.</text>
+    <flavorText>"Of course I plan on going up. Kang here is the most trusted 'fin on the squad. Afraid? Me? No, I'm just . . . waiting for the right wind conditions."</flavorText>
+  </item>
+  <item>
+    <id>GPT0018</id>
+    <name>Spelltithe Enforcer</name>
+    <text>Whenever an opponent casts a spell, that player sacrifices a permanent unless he or she pays {1}.</text>
+    <flavorText>His assistants calculate the amount of the tribute. He measures out the punishment for delinquency.</flavorText>
+  </item>
+  <item>
+    <id>GPT0019</id>
+    <name>Storm Herd</name>
+    <text>Put X 1/1 white Pegasus creature tokens with flying onto the battlefield, where X is your life total.</text>
+    <flavorText>"When you hear thunder on a cloudless day, take cover and brace for the coming of the storm herd."
+—Skotov, Tin Street basket vendor</flavorText>
+  </item>
+  <item>
+    <id>GPT0020</id>
+    <name>To Arms!</name>
+    <text>Untap all creatures you control.
+Draw a card.</text>
+    <flavorText>"The call came, spell-borne through mortar and stone to the ear of every soldier. The call came, and the advantage was ours."
+—Lodusz, captain of the watch</flavorText>
+  </item>
+  <item>
+    <id>GPT0021</id>
+    <name>Withstand</name>
+    <text>Prevent the next 3 damage that would be dealt to target creature or player this turn.
+Draw a card.</text>
+    <flavorText>"Defense is as much a part of war as offense, the shield as important a tool as the sword."
+—Alovnek, Boros guildmage</flavorText>
+  </item>
+  <item>
+    <id>GPT0022</id>
+    <name>Ætherplasm</name>
+    <text>Whenever Ætherplasm blocks a creature, you may return Ætherplasm to its owner's hand. If you do, you may put a creature card from your hand onto the battlefield blocking that creature.</text>
+    <flavorText>Its fickle form holds hints of a thousand former identities.</flavorText>
+  </item>
+  <item>
+    <id>GPT0023</id>
+    <name>Crystal Seer</name>
+    <text>When Crystal Seer enters the battlefield, look at the top four cards of your library, then put them back in any order.
+{4}{U}: Return Crystal Seer to its owner's hand.</text>
+    <flavorText>"Surprise is a useless, untidy emotion—the plaything of goblins and fools."</flavorText>
+  </item>
+  <item>
+    <id>GPT0024</id>
+    <name>Drowned Rusalka</name>
+    <text>{U}, Sacrifice a creature: Discard a card, then draw a card.</text>
+    <flavorText>Lurking below the current, she thirsts until others come to drink.</flavorText>
+  </item>
+  <item>
+    <id>GPT0025</id>
+    <name>Frazzle</name>
+    <text>Counter target nonblue spell.</text>
+    <flavorText>The chant was interrupted, the components cooked, and Zok worried that it was his brain he smelled smoking.</flavorText>
+  </item>
+  <item>
+    <id>GPT0026</id>
+    <name>Gigadrowse</name>
+    <text>Replicate {U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Tap target permanent.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0027</id>
+    <name>Hatching Plans</name>
+    <text>When Hatching Plans is put into a graveyard from the battlefield, draw three cards.</text>
+    <flavorText>So wondrous to behold, so delicate and finely crafted—and yet, such a pleasure to smash.</flavorText>
+  </item>
+  <item>
+    <id>GPT0028</id>
+    <name>Infiltrator's Magemark</name>
+    <text>Enchant creature
+Creatures you control that are enchanted get +1/+1 and can't be blocked except by creatures with defender.</text>
+    <flavorText>"In secrecy is strength. None can oppose one who cannot be found."
+—Szadek</flavorText>
+  </item>
+  <item>
+    <id>GPT0029</id>
+    <name>Leyline of Singularity</name>
+    <text>If Leyline of Singularity is in your opening hand, you may begin the game with it on the battlefield.
+All nonland permanents are legendary.</text>
+    <flavorText>Where renown and solitude converge.</flavorText>
+  </item>
+  <item>
+    <id>GPT0030</id>
+    <name>Mimeofacture</name>
+    <text>Replicate {3}{U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Choose target permanent an opponent controls. Search that player's library for a card with the same name and put it onto the battlefield under your control. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0031</id>
+    <name>Quicken</name>
+    <text>The next sorcery card you cast this turn can be cast as though it had flash.
+Draw a card.</text>
+    <flavorText>A skilled Izzet chronarch can carry out an epic vendetta between the fall of one hourglass grain and the next.</flavorText>
+  </item>
+  <item>
+    <id>GPT0032</id>
+    <name>Repeal</name>
+    <text>Return target nonland permanent with converted mana cost X to its owner's hand.
+Draw a card.</text>
+    <flavorText>"Your deed cannot be undone. You, however, can be."
+—Agosto, Azorius imperator</flavorText>
+  </item>
+  <item>
+    <id>GPT0033</id>
+    <name>Runeboggle</name>
+    <text>Counter target spell unless its controller pays {1}.
+Draw a card.</text>
+    <flavorText>"Ever try to count hyperactive schoolchildren while someone shouts random numbers in your ear? It's like that."
+—Geetra, frustrated mage</flavorText>
+  </item>
+  <item>
+    <id>GPT0034</id>
+    <name>Sky Swallower</name>
+    <text>Flying
+When Sky Swallower enters the battlefield, target opponent gains control of all other permanents you control.</text>
+    <flavorText>Would you trade the world for such a pet?</flavorText>
+  </item>
+  <item>
+    <id>GPT0035</id>
+    <name>Steamcore Weird</name>
+    <text>When Steamcore Weird enters the battlefield, if {R} was spent to cast Steamcore Weird, it deals 2 damage to target creature or player.</text>
+    <flavorText>Like many Izzet creations, weirds are based on wild contradictions yet somehow manage to work.</flavorText>
+  </item>
+  <item>
+    <id>GPT0036</id>
+    <name>Stratozeppelid</name>
+    <text>Flying
+Stratozeppelid can block only creatures with flying.</text>
+    <flavorText>The "Days of Darkness" mark the stratozeppelids' annual migration, when for five days they blot out the sun and trumpet their passing.</flavorText>
+  </item>
+  <item>
+    <id>GPT0037</id>
+    <name>Thunderheads</name>
+    <text>Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost.)
+Put a 3/3 blue Weird creature token with defender and flying onto the battlefield. Exile it at the beginning of the next end step.</text>
+    <flavorText>The clouds grew thick, and then they grew teeth.</flavorText>
+  </item>
+  <item>
+    <id>GPT0038</id>
+    <name>Torch Drake</name>
+    <text>Flying
+{1}{R}: Torch Drake gets +1/+0 until end of turn.</text>
+    <flavorText>"Drakes? Bah Things that breathe don't interest me. It breathes fire, you say? Well, that's a different story"
+—Zataz, Izzet clockwork artificer</flavorText>
+  </item>
+  <item>
+    <id>GPT0039</id>
+    <name>Train of Thought</name>
+    <text>Replicate {1}{U} (When you cast this spell, copy it for each time you paid its replicate cost.)
+Draw a card.</text>
+    <flavorText>"But then . . . oh, but . . . which means . . . which would lead to . . . exactly"</flavorText>
+  </item>
+  <item>
+    <id>GPT0040</id>
+    <name>Vacuumelt</name>
+    <text>Replicate {2}{U} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Return target creature to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0041</id>
+    <name>Vedalken Plotter</name>
+    <text>When Vedalken Plotter enters the battlefield, exchange control of target land you control and target land an opponent controls.</text>
+    <flavorText>"Fair? At what point in our negotiations did you convince yourself my goal was to be fair?"</flavorText>
+  </item>
+  <item>
+    <id>GPT0042</id>
+    <name>Vertigo Spawn</name>
+    <text>Defender (This creature can't attack.)
+Whenever Vertigo Spawn blocks a creature, tap that creature. That creature doesn't untap during its controller's next untap step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0043</id>
+    <name>Abyssal Nocturnus</name>
+    <text>Whenever an opponent discards a card, Abyssal Nocturnus gets +2/+2 and gains fear until end of turn. (It can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>"I fear to keep an open mind, for there are those who would use it as a door to my soul."
+—Voka Schlak,
+Mauzam Asylum inmate, diary</flavorText>
+  </item>
+  <item>
+    <id>GPT0044</id>
+    <name>Caustic Rain</name>
+    <text>Exile target land.</text>
+    <flavorText>"Looking out the great windows of Vitu-Ghazi at the foundry stacks belching their smoke to the sky, I wonder when the sky will take its vengeance."
+—Heruj, Selesnya initiate</flavorText>
+  </item>
+  <item>
+    <id>GPT0045</id>
+    <name>Cremate</name>
+    <text>Exile target card from a graveyard.
+Draw a card.</text>
+    <flavorText>Cremation of the dead is not a religious ritual in Ravnica. It's a business designed to keep the Golgari from growing in numbers.</flavorText>
+  </item>
+  <item>
+    <id>GPT0046</id>
+    <name>Cry of Contrition</name>
+    <text>Target player discards a card.
+Haunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)
+When the creature Cry of Contrition haunts is put into a graveyard, target player discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0047</id>
+    <name>Cryptwailing</name>
+    <text>{1}, Exile two creature cards from your graveyard: Target player discards a card. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>"Piece the tragic notes together and is it not a melody?"
+—Teysa</flavorText>
+  </item>
+  <item>
+    <id>GPT0048</id>
+    <name>Daggerclaw Imp</name>
+    <text>Flying
+Daggerclaw Imp can't block.</text>
+    <flavorText>The Simic use the claws as scalpels, while the Rakdos use them for tattooing and torture. The Gruul use them to pick their teeth after lunching on the rest of the carcass.</flavorText>
+  </item>
+  <item>
+    <id>GPT0049</id>
+    <name>Douse in Gloom</name>
+    <text>Douse in Gloom deals 2 damage to target creature and you gain 2 life.</text>
+    <flavorText>Orzhov prisoners are steeped in a blackened brew that robs their souls of strength. Patriarchs drink that brew to extend their own lives.</flavorText>
+  </item>
+  <item>
+    <id>GPT0050</id>
+    <name>Exhumer Thrull</name>
+    <text>Haunt (When this card is put into a graveyard from the battlefield, exile it haunting target creature.)
+When Exhumer Thrull enters the battlefield or the creature it haunts is put into a graveyard, return target creature card from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0051</id>
+    <name>Hissing Miasma</name>
+    <text>Whenever a creature attacks you, its controller loses 1 life.</text>
+    <flavorText>All that remains when the fog finishes are neat piles of polished bones, like acid-etched glass. Orzhov servants collect them to make altar chimes.</flavorText>
+  </item>
+  <item>
+    <id>GPT0052</id>
+    <name>Leyline of the Void</name>
+    <text>If Leyline of the Void is in your opening hand, you may begin the game with it on the battlefield.
+If a card would be put into an opponent's graveyard from anywhere, exile it instead.</text>
+    <flavorText>Where treachery and oblivion converge.</flavorText>
+  </item>
+  <item>
+    <id>GPT0053</id>
+    <name>Necromancer's Magemark</name>
+    <text>Enchant creature
+Creatures you control that are enchanted get +1/+1.
+If a creature you control that's enchanted would be put into a graveyard, return it to its owner's hand instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0054</id>
+    <name>Orzhov Euthanist</name>
+    <text>Haunt (When this card is put into a graveyard from the battlefield, exile it haunting target creature.)
+When Orzhov Euthanist enters the battlefield or the creature it haunts is put into a graveyard, destroy target creature that was dealt damage this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0055</id>
+    <name>Ostiary Thrull</name>
+    <text>{W}, {T}: Tap target creature.</text>
+    <flavorText>Orzhov churches don't pass the plate for collection. They charge for admission.</flavorText>
+  </item>
+  <item>
+    <id>GPT0056</id>
+    <name>Plagued Rusalka</name>
+    <text>{B}, Sacrifice a creature: Target creature gets -1/-1 until end of turn.</text>
+    <flavorText>"Look at her, once filled with innocence. Death has a way of wringing away such . . . deficiencies."
+—Savra</flavorText>
+  </item>
+  <item>
+    <id>GPT0057</id>
+    <name>Poisonbelly Ogre</name>
+    <text>Whenever another creature enters the battlefield, its controller loses 1 life.</text>
+    <flavorText>Some claim it's a failed Simic experiment, others say a Golgari creation. Both guilds deny all responsibility, while secretly studying its strange virulence.</flavorText>
+  </item>
+  <item>
+    <id>GPT0058</id>
+    <name>Restless Bones</name>
+    <text>{3}{B}, {T}: Target creature gains swampwalk until end of turn.
+{1}{B}: Regenerate Restless Bones.</text>
+    <flavorText>"We mourn our dead. We shroud our dead. We bury our dead. Too often, it seems, we must kill our dead again."
+—Grazda, veteran armorer</flavorText>
+  </item>
+  <item>
+    <id>GPT0059</id>
+    <name>Revenant Patriarch</name>
+    <text>When Revenant Patriarch enters the battlefield, if {W} was spent to cast Revenant Patriarch, target player skips his or her next combat phase.
+Revenant Patriarch can't block.</text>
+    <flavorText>"The Golgari raise the bodies of their dead to serve. We raise the spirits of our dead to lead."</flavorText>
+  </item>
+  <item>
+    <id>GPT0060</id>
+    <name>Sanguine Praetor</name>
+    <text>{B}, Sacrifice a creature: Destroy each creature with the same converted mana cost as the sacrificed creature.</text>
+    <flavorText>"Our fealty to guilds dooms us. The old gods shall resurface. Our skins will wave upon the guild-masts over emptied streets, and our bones will clatter in the wind."
+—Ilromov, traveling storyteller</flavorText>
+  </item>
+  <item>
+    <id>GPT0061</id>
+    <name>Seize the Soul</name>
+    <text>Destroy target nonwhite, nonblack creature. Put a 1/1 white Spirit creature token with flying onto the battlefield.
+Haunt (When this spell card is put into a graveyard after resolving, exile it haunting target creature.)
+When the creature Seize the Soul haunts is put into a graveyard, destroy target nonwhite, nonblack creature. Put a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0062</id>
+    <name>Skeletal Vampire</name>
+    <text>Flying
+When Skeletal Vampire enters the battlefield, put two 1/1 black Bat creature tokens with flying onto the battlefield.
+{3}{B}{B}, Sacrifice a Bat: Put two 1/1 black Bat creature tokens with flying onto the battlefield.
+Sacrifice a Bat: Regenerate Skeletal Vampire.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0063</id>
+    <name>Smogsteed Rider</name>
+    <text>Whenever Smogsteed Rider attacks, each other attacking creature gains fear until end of turn. (They can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>"An entire order of mages who draw their power from Ravnica's smog? Yet another indicator of our world's decay."
+—Dravash, dowsing shaman</flavorText>
+  </item>
+  <item>
+    <id>GPT0064</id>
+    <name>Bloodscale Prowler</name>
+    <text>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)</text>
+    <flavorText>It tracks its victims by the scent of their breath, preferring to dine on those who recently ate well.</flavorText>
+  </item>
+  <item>
+    <id>GPT0065</id>
+    <name>Fencer's Magemark</name>
+    <text>Enchant creature
+Creatures you control that are enchanted get +1/+1 and have first strike.</text>
+    <flavorText>"The first blow is the most important. It often negates the need for a second."
+—Agrus Kos</flavorText>
+  </item>
+  <item>
+    <id>GPT0066</id>
+    <name>Ghor-Clan Bloodscale</name>
+    <text>First strike
+{3}{G}: Ghor-Clan Bloodscale gets +2/+2 until end of turn. Activate this ability only once each turn.</text>
+    <flavorText>At mealtimes, the Gruul customarily omit such niceties as using forks or killing the entrée.</flavorText>
+  </item>
+  <item>
+    <id>GPT0067</id>
+    <name>Hypervolt Grasp</name>
+    <text>Enchant creature
+Enchanted creature has "{T}: This creature deals 1 damage to target creature or player."
+{1}{U}: Return Hypervolt Grasp to its owner's hand.</text>
+    <flavorText>Zap on. Zap off.</flavorText>
+  </item>
+  <item>
+    <id>GPT0068</id>
+    <name>Leyline of Lightning</name>
+    <text>If Leyline of Lightning is in your opening hand, you may begin the game with it on the battlefield.
+Whenever you cast a spell, you may pay {1}. If you do, Leyline of Lightning deals 1 damage to target player.</text>
+    <flavorText>Where storm and spellcraft converge.</flavorText>
+  </item>
+  <item>
+    <id>GPT0069</id>
+    <name>Living Inferno</name>
+    <text>{T}: Living Inferno deals damage equal to its power divided as you choose among any number of target creatures. Each of those creatures deals damage equal to its power to Living Inferno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0070</id>
+    <name>Ogre Savant</name>
+    <text>When Ogre Savant enters the battlefield, if {U} was spent to cast Ogre Savant, return target creature to its owner's hand.</text>
+    <flavorText>He's an oxymoron.</flavorText>
+  </item>
+  <item>
+    <id>GPT0071</id>
+    <name>Parallectric Feedback</name>
+    <text>Parallectric Feedback deals damage to target spell's controller equal to that spell's converted mana cost.</text>
+    <flavorText>"You can't have so many people living so close together, all practicing so much magic, and not expect some feedback."</flavorText>
+  </item>
+  <item>
+    <id>GPT0072</id>
+    <name>Pyromatics</name>
+    <text>Replicate {1}{R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Pyromatics deals 1 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0073</id>
+    <name>Rabble-Rouser</name>
+    <text>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+{R}, {T}: Attacking creatures get +X/+0 until end of turn, where X is Rabble-Rouser's power.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0074</id>
+    <name>Scorched Rusalka</name>
+    <text>{R}, Sacrifice a creature: Scorched Rusalka deals 1 damage to target player.</text>
+    <flavorText>Each small blaze she sets jogs her memory, letting her piece together the mystery of her own fiery end.</flavorText>
+  </item>
+  <item>
+    <id>GPT0075</id>
+    <name>Shattering Spree</name>
+    <text>Replicate {R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Destroy target artifact.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0076</id>
+    <name>Siege of Towers</name>
+    <text>Replicate {1}{R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Target Mountain becomes a 3/1 creature. It's still a land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0077</id>
+    <name>Skarrgan Firebird</name>
+    <text>Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)
+Flying
+{R}{R}{R}: Return Skarrgan Firebird from your graveyard to your hand. Activate this ability only if an opponent was dealt damage this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0078</id>
+    <name>Tin Street Hooligan</name>
+    <text>When Tin Street Hooligan enters the battlefield, if {G} was spent to cast Tin Street Hooligan, destroy target artifact.</text>
+    <flavorText>"Rauck-Chauv's like a holiday Only it isn't on the calendars, and instead of dancing you knock people flat, and instead of giving gifts you break stuff."</flavorText>
+  </item>
+  <item>
+    <id>GPT0079</id>
+    <name>Battering Wurm</name>
+    <text>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Creatures with power less than Battering Wurm's power can't block it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0080</id>
+    <name>Beastmaster's Magemark</name>
+    <text>Enchant creature
+Creatures you control that are enchanted get +1/+1.
+Whenever a creature you control that's enchanted becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0081</id>
+    <name>Bioplasm</name>
+    <text>Whenever Bioplasm attacks, exile the top card of your library. If it's a creature card, Bioplasm gets +X/+Y until end of turn, where X is the exiled creature card's power and Y is its toughness.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0082</id>
+    <name>Crash Landing</name>
+    <text>Target creature with flying loses flying until end of turn. Crash Landing deals damage to that creature equal to the number of Forests you control.</text>
+    <flavorText>"The other guilds think they're untouchable. It's time we brought them back down to earth."
+—Ghut Rak, Gruul guildmage</flavorText>
+  </item>
+  <item>
+    <id>GPT0083</id>
+    <name>Dryad Sophisticate</name>
+    <text>Nonbasic landwalk</text>
+    <flavorText>From Tin Street to the Outcast Mansions, she walks unbidden and unbound, her graceful silence never shaken by the riot of city life around her.</flavorText>
+  </item>
+  <item>
+    <id>GPT0084</id>
+    <name>Earth Surge</name>
+    <text>Each land gets +2/+2 as long as it's a creature.</text>
+    <flavorText>"Some gardeners sing to plants. I tell them stories—stories of how they once ruled the world, of the mortals who destroyed their kind, and of revenge."
+—Bougrat, druid of the Cult of Yore</flavorText>
+  </item>
+  <item>
+    <id>GPT0085</id>
+    <name>Gatherer of Graces</name>
+    <text>Gatherer of Graces gets +1/+1 for each Aura attached to it.
+Sacrifice an Aura: Regenerate Gatherer of Graces.</text>
+    <flavorText>"Garb is for common folk. I prefer to wear insight and zeal, ambition and flame."</flavorText>
+  </item>
+  <item>
+    <id>GPT0086</id>
+    <name>Ghor-Clan Savage</name>
+    <text>Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)</text>
+    <flavorText>The snap of sinew. The crunch of bone. A cry for mercy. These are the music of the Gruul.</flavorText>
+  </item>
+  <item>
+    <id>GPT0087</id>
+    <name>Gristleback</name>
+    <text>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Sacrifice Gristleback: You gain life equal to Gristleback's power.</text>
+    <flavorText>Loyal in battle, hearty in stew.</flavorText>
+  </item>
+  <item>
+    <id>GPT0088</id>
+    <name>Gruul Nodorog</name>
+    <text>{R}: Gruul Nodorog can't be blocked this turn except by two or more creatures.</text>
+    <flavorText>Petting the nodorog
+—Gruul expression meaning
+"making a really big mistake"</flavorText>
+  </item>
+  <item>
+    <id>GPT0089</id>
+    <name>Gruul Scrapper</name>
+    <text>When Gruul Scrapper enters the battlefield, if {R} was spent to cast Gruul Scrapper, it gains haste until end of turn.</text>
+    <flavorText>The Gruul aren't satisfied with just smashing things. They continue smashing other things with the things they just smashed.</flavorText>
+  </item>
+  <item>
+    <id>GPT0090</id>
+    <name>Leyline of Lifeforce</name>
+    <text>If Leyline of Lifeforce is in your opening hand, you may begin the game with it on the battlefield.
+Creature spells can't be countered.</text>
+    <flavorText>Where sovereignty and flesh converge.</flavorText>
+  </item>
+  <item>
+    <id>GPT0091</id>
+    <name>Petrified Wood-Kin</name>
+    <text>Petrified Wood-Kin can't be countered.
+Bloodthirst X (This creature enters the battlefield with X +1/+1 counters on it, where X is the damage dealt to your opponents this turn.)
+Protection from instants</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0092</id>
+    <name>Predatory Focus</name>
+    <text>You may have creatures you control assign their combat damage this turn as though they weren't blocked.</text>
+    <flavorText>Instinct blood-tinted his world until he could see only one thing clearly: his prey.</flavorText>
+  </item>
+  <item>
+    <id>GPT0093</id>
+    <name>Primeval Light</name>
+    <text>Destroy all enchantments target player controls.</text>
+    <flavorText>"Look to the old tomes, those bound in hides and written in yarberry ink. They hold the spells that can free us of the clutter of modern magecraft."
+—Dravash, dowsing shaman</flavorText>
+  </item>
+  <item>
+    <id>GPT0094</id>
+    <name>Silhana Ledgewalker</name>
+    <text>Silhana Ledgewalker can't be blocked except by creatures with flying.
+Silhana Ledgewalker can't be the target of spells or abilities your opponents control.</text>
+    <flavorText>Street folk call them "spire mice," but behind the mockery is an unspoken envy of the ledgewalkers' skill at avoiding harm.</flavorText>
+  </item>
+  <item>
+    <id>GPT0095</id>
+    <name>Silhana Starfletcher</name>
+    <text>Reach (This creature can block creatures with flying.)
+As Silhana Starfletcher enters the battlefield, choose a color.
+{T}: Add one mana of the chosen color to your mana pool.</text>
+    <flavorText>In light he finds both gift and weapon.</flavorText>
+  </item>
+  <item>
+    <id>GPT0096</id>
+    <name>Skarrgan Pit-Skulk</name>
+    <text>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+Creatures with power less than Skarrgan Pit-Skulk's power can't block it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0097</id>
+    <name>Starved Rusalka</name>
+    <text>{G}, Sacrifice a creature: You gain 1 life.</text>
+    <flavorText>"No more wretched fate is there than to waste away. If you are slain, your ghost may at least avenge itself upon your killer. But what release is there for one slain by Time?"
+—Ilromov, traveling storyteller</flavorText>
+  </item>
+  <item>
+    <id>GPT0098</id>
+    <name>Wildsize</name>
+    <text>Target creature gets +2/+2 and gains trample until end of turn.
+Draw a card.</text>
+    <flavorText>Two times the size, four times the smell.</flavorText>
+  </item>
+  <item>
+    <id>GPT0099</id>
+    <name>Wurmweaver Coil</name>
+    <text>Enchant green creature
+Enchanted creature gets +6/+6.
+{G}{G}{G}, Sacrifice Wurmweaver Coil: Put a 6/6 green Wurm creature token onto the battlefield.</text>
+    <flavorText>Some use magic to spy through walls. Others use it to crush them.</flavorText>
+  </item>
+  <item>
+    <id>GPT0100</id>
+    <name>Agent of Masks</name>
+    <text>At the beginning of your upkeep, each opponent loses 1 life. You gain life equal to the life lost this way.</text>
+    <flavorText>"You say that I am two-faced? Enough with the flattery. We have business to conduct."</flavorText>
+  </item>
+  <item>
+    <id>GPT0101</id>
+    <name>Angel of Despair</name>
+    <text>Flying
+When Angel of Despair enters the battlefield, destroy target permanent.</text>
+    <flavorText>"I feel in them a sense of duty and commitment, yet I can feel nothing else. It is as if their duty is to an empty void."
+—Razia</flavorText>
+  </item>
+  <item>
+    <id>GPT0102</id>
+    <name>Blind Hunter</name>
+    <text>Flying
+Haunt (When this card is put into a graveyard from the battlefield, exile it haunting target creature.)
+When Blind Hunter enters the battlefield or the creature it haunts is put into a graveyard, target player loses 2 life and you gain 2 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0103</id>
+    <name>Borborygmos</name>
+    <text>Trample
+Whenever Borborygmos deals combat damage to a player, put a +1/+1 counter on each creature you control.</text>
+    <flavorText>"It's easy to see why those Gruul dirtbags follow him—the only orders he gives are ‘Crush them' and ‘We eat'"
+—Teysa</flavorText>
+  </item>
+  <item>
+    <id>GPT0104</id>
+    <name>Burning-Tree Bloodscale</name>
+    <text>Bloodthirst 1 (If an opponent was dealt damage this turn, this creature enters the battlefield with a +1/+1 counter on it.)
+{2}{R}: Target creature can't block Burning-Tree Bloodscale this turn.
+{2}{G}: Target creature blocks Burning-Tree Bloodscale this turn if able.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0105</id>
+    <name>Burning-Tree Shaman</name>
+    <text>Whenever a player activates an ability that isn't a mana ability, Burning-Tree Shaman deals 1 damage to that player.</text>
+    <flavorText>Gruul shamans are bent on punishing the civilized. Any act more complex than rubbing sticks together or eating with utensils is met with the stinging burn of their magic.</flavorText>
+  </item>
+  <item>
+    <id>GPT0106</id>
+    <name>Castigate</name>
+    <text>Target opponent reveals his or her hand. You choose a nonland card from it and exile that card.</text>
+    <flavorText>"We have no need for military might. We wield two of the sharpest swords ever forged: Faith in our left hand, Wealth in our right."
+—Vuliev of the Ghost Council</flavorText>
+  </item>
+  <item>
+    <id>GPT0107</id>
+    <name>Cerebral Vortex</name>
+    <text>Target player draws two cards, then Cerebral Vortex deals damage to that player equal to the number of cards he or she has drawn this turn.</text>
+    <flavorText>Izzet brains and Izzet boilers: contents under pressure.</flavorText>
+  </item>
+  <item>
+    <id>GPT0108</id>
+    <name>Conjurer's Ban</name>
+    <text>Name a card. Until your next turn, the named card can't be played.
+Draw a card.</text>
+    <flavorText>Orzhov faithful file past to have their minds purged of "impure" desires. There, the guiltwardens eliminate any thoughts of hope or self-sufficiency.</flavorText>
+  </item>
+  <item>
+    <id>GPT0109</id>
+    <name>Culling Sun</name>
+    <text>Destroy each creature with converted mana cost 3 or less.</text>
+    <flavorText>"Who truly runs this city? Look to the sky on hallowed days, and see whose sigil is stamped clearly onto the heavens."
+—Vuliev of the Ghost Council</flavorText>
+  </item>
+  <item>
+    <id>GPT0110</id>
+    <name>Dune-Brood Nephilim</name>
+    <text>Whenever Dune-Brood Nephilim deals combat damage to a player, put a 1/1 colorless Sand creature token onto the battlefield for each land you control.</text>
+    <flavorText>When it awoke, it spawned nameless thousands to herald its arrival.</flavorText>
+  </item>
+  <item>
+    <id>GPT0111</id>
+    <name>Electrolyze</name>
+    <text>Electrolyze deals 2 damage divided as you choose among one or two target creatures and/or players.
+Draw a card.</text>
+    <flavorText>The Izzet learn something from every lesson they teach.</flavorText>
+  </item>
+  <item>
+    <id>GPT0112</id>
+    <name>Feral Animist</name>
+    <text>{3}: Feral Animist gets +X/+0 until end of turn, where X is its power.</text>
+    <flavorText>He chanted over a pot of boiling blood and honey. His brain buzzed like a nest of hornets, and his muscles rippled with the might of the bear.</flavorText>
+  </item>
+  <item>
+    <id>GPT0113</id>
+    <name>Gelectrode</name>
+    <text>{T}: Gelectrode deals 1 damage to target creature or player.
+Whenever you cast an instant or sorcery spell, you may untap Gelectrode.</text>
+    <flavorText>"Diametrically opposing energies in self-sealed plasmodermic bubbles make great pets"
+—Trivaz, Izzet mage</flavorText>
+  </item>
+  <item>
+    <id>GPT0114</id>
+    <name>Ghost Council of Orzhova</name>
+    <text>When Ghost Council of Orzhova enters the battlefield, target opponent loses 1 life and you gain 1 life.
+{1}, Sacrifice a creature: Exile Ghost Council of Orzhova. Return it to the battlefield under its owner's control at the beginning of the next end step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0115</id>
+    <name>Glint-Eye Nephilim</name>
+    <text>Whenever Glint-Eye Nephilim deals combat damage to a player, draw that many cards.
+{1}, Discard a card: Glint-Eye Nephilim gets +1/+1 until end of turn.</text>
+    <flavorText>When it awoke, it shook the plane with the thunder of its craving.</flavorText>
+  </item>
+  <item>
+    <id>GPT0116</id>
+    <name>Goblin Flectomancer</name>
+    <text>Sacrifice Goblin Flectomancer: You may change the targets of target instant or sorcery spell.</text>
+    <flavorText>Rerouting magic through a goblin's brain is the surest way to throw it wildly off course.</flavorText>
+  </item>
+  <item>
+    <id>GPT0117</id>
+    <name>Ink-Treader Nephilim</name>
+    <text>Whenever a player casts an instant or sorcery spell, if Ink-Treader Nephilim is the only target of that spell, copy the spell for each other creature that spell could target. Each copy targets a different one of those creatures.</text>
+    <flavorText>When it awoke, the mirrors of the world reflected only darkness.</flavorText>
+  </item>
+  <item>
+    <id>GPT0118</id>
+    <name>Invoke the Firemind</name>
+    <text>Choose one — Draw X cards; or Invoke the Firemind deals X damage to target creature or player.</text>
+    <flavorText>To those in tune with the Firemind, there is no difference between knowledge and flame.</flavorText>
+  </item>
+  <item>
+    <id>GPT0119</id>
+    <name>Izzet Chronarch</name>
+    <text>When Izzet Chronarch enters the battlefield, return target instant or sorcery card from your graveyard to your hand.</text>
+    <flavorText>He ensures not only whether but also when and where the lightning strikes twice.</flavorText>
+  </item>
+  <item>
+    <id>GPT0120</id>
+    <name>Killer Instinct</name>
+    <text>At the beginning of your upkeep, reveal the top card of your library. If it's a creature card, put it onto the battlefield. That creature gains haste until end of turn. Sacrifice it at the beginning of the next end step.</text>
+    <flavorText>"Take the bridge, men Victory Victory is ou— Retreat RETREAT"</flavorText>
+  </item>
+  <item>
+    <id>GPT0121</id>
+    <name>Leap of Flame</name>
+    <text>Replicate {U}{R} (When you cast this spell, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)
+Target creature gets +1/+0 and gains flying and first strike until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0122</id>
+    <name>Mortify</name>
+    <text>Destroy target creature or enchantment.</text>
+    <flavorText>The eyes let flow with tears, then blood, then the very soul—the whole wrung inside out, dripping down into the blackened puddle of the past.</flavorText>
+  </item>
+  <item>
+    <id>GPT0123</id>
+    <name>Niv-Mizzet, the Firemind</name>
+    <text>Flying
+Whenever you draw a card, Niv-Mizzet, the Firemind deals 1 damage to target creature or player.
+{T}: Draw a card.</text>
+    <flavorText>"(Z–&gt;)90º – (E–N²W)90ºt = 1"</flavorText>
+  </item>
+  <item>
+    <id>GPT0124</id>
+    <name>Orzhov Pontiff</name>
+    <text>Haunt (When this card is put into a graveyard from the battlefield, exile it haunting target creature.)
+When Orzhov Pontiff enters the battlefield or the creature it haunts is put into a graveyard, choose one — creatures you control get +1/+1 until end of turn; or creatures you don't control get -1/-1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0125</id>
+    <name>Pillory of the Sleepless</name>
+    <text>Enchant creature
+Enchanted creature can't attack or block.
+Enchanted creature has "At the beginning of your upkeep, you lose 1 life."</text>
+    <flavorText>Which is worse—the sleep which never ends or that which never comes?</flavorText>
+  </item>
+  <item>
+    <id>GPT0126</id>
+    <name>Rumbling Slum</name>
+    <text>At the beginning of your upkeep, Rumbling Slum deals 1 damage to each player.</text>
+    <flavorText>The Orzhov contract the Izzet to animate slum districts and banish them to the wastes. The Gruul adopt them and send them back to the city for vengeance.</flavorText>
+  </item>
+  <item>
+    <id>GPT0127</id>
+    <name>Savage Twister</name>
+    <text>Savage Twister deals X damage to each creature.</text>
+    <flavorText>"Nature is the ultimate mindless destroyer, capable of power and ferocity no army can match, and the Gruul follow its example."
+—Trigori, Azorius senator</flavorText>
+  </item>
+  <item>
+    <id>GPT0128</id>
+    <name>Scab-Clan Mauler</name>
+    <text>Bloodthirst 2 (If an opponent was dealt damage this turn, this creature enters the battlefield with two +1/+1 counters on it.)
+Trample</text>
+    <flavorText>They inflict pain to forget their own and break foes to feel whole.</flavorText>
+  </item>
+  <item>
+    <id>GPT0129</id>
+    <name>Schismotivate</name>
+    <text>Target creature gets +4/+0 until end of turn. Another target creature gets -4/-0 until end of turn.</text>
+    <flavorText>"I ran the experiment through the brain of a schizophrenic lab-goblin. My burners' flames fell asleep while the beakers jumped about and shattered. Success"
+—Myznar, Izzet psychomancer</flavorText>
+  </item>
+  <item>
+    <id>GPT0130</id>
+    <name>Skarrgan Skybreaker</name>
+    <text>Bloodthirst 3 (If an opponent was dealt damage this turn, this creature enters the battlefield with three +1/+1 counters on it.)
+{1}, Sacrifice Skarrgan Skybreaker: Skarrgan Skybreaker deals damage equal to its power to target creature or player.</text>
+    <flavorText>"The sky isn't falling—it's being thrown at us"
+—Otak, Tin Street shopkeep</flavorText>
+  </item>
+  <item>
+    <id>GPT0131</id>
+    <name>Souls of the Faultless</name>
+    <text>Defender (This creature can't attack.)
+Whenever Souls of the Faultless is dealt combat damage, you gain that much life and attacking player loses that much life.</text>
+    <flavorText>"More horrible than their empty forms are their noble eyes. I dare not strike."
+—Klattic, Boros legionnaire</flavorText>
+  </item>
+  <item>
+    <id>GPT0132</id>
+    <name>Stitch in Time</name>
+    <text>Flip a coin. If you win the flip, take an extra turn after this one.</text>
+    <flavorText>Quyzl was told by his mentor to "make more time" for his studies.</flavorText>
+  </item>
+  <item>
+    <id>GPT0133</id>
+    <name>Streetbreaker Wurm</name>
+    <text>
+    </text>
+    <flavorText>The Orzhov run a construction unit whose only business is rebuilding the wreckage left in the wake of wurms. When business is slow, they pay Golgari carnomancers to lure the wurms to the surface.</flavorText>
+  </item>
+  <item>
+    <id>GPT0134</id>
+    <name>Teysa, Orzhov Scion</name>
+    <text>Sacrifice three white creatures: Exile target creature.
+Whenever another black creature you control is put into a graveyard from the battlefield, put a 1/1 white Spirit creature token with flying onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0135</id>
+    <name>Tibor and Lumia</name>
+    <text>Whenever you cast a blue spell, target creature gains flying until end of turn.
+Whenever you cast a red spell, Tibor and Lumia deals 1 damage to each creature without flying.</text>
+    <flavorText>Tracing the horizon in a dance of wind and fire.</flavorText>
+  </item>
+  <item>
+    <id>GPT0136</id>
+    <name>Ulasht, the Hate Seed</name>
+    <text>Ulasht, the Hate Seed enters the battlefield with a +1/+1 counter on it for each other red creature you control and a +1/+1 counter on it for each other green creature you control.
+{1}, Remove a +1/+1 counter from Ulasht: Choose one — Ulasht deals 1 damage to target creature; or put a 1/1 green Saproling creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0137</id>
+    <name>Wee Dragonauts</name>
+    <text>Flying
+Whenever you cast an instant or sorcery spell, Wee Dragonauts gets +2/+0 until end of turn.</text>
+    <flavorText>"The blazekite is a simple concept, really—just a vehicular application of dragscoop ionics and electropropulsion magnetronics."
+—Juzba, Izzet tinker</flavorText>
+  </item>
+  <item>
+    <id>GPT0138</id>
+    <name>Witch-Maw Nephilim</name>
+    <text>Whenever you cast a spell, you may put two +1/+1 counters on Witch-Maw Nephilim.
+Whenever Witch-Maw Nephilim attacks, it gains trample until end of turn if its power is 10 or greater.</text>
+    <flavorText>When it awoke, it shattered the hillsides to make way for its passage.</flavorText>
+  </item>
+  <item>
+    <id>GPT0139</id>
+    <name>Wreak Havoc</name>
+    <text>Wreak Havoc can't be countered by spells or abilities.
+Destroy target artifact or land.</text>
+    <flavorText>"Crush them"
+—Borborygmos</flavorText>
+  </item>
+  <item>
+    <id>GPT0140</id>
+    <name>Yore-Tiller Nephilim</name>
+    <text>Whenever Yore-Tiller Nephilim attacks, return target creature card from your graveyard to the battlefield tapped and attacking.</text>
+    <flavorText>When it awoke, the worms of the earth hissed in a chorus of beckoning.</flavorText>
+  </item>
+  <item>
+    <id>GPT0141</id>
+    <name>Debtors' Knell</name>
+    <text>({WB} can be paid with either {W} or {B}.)
+At the beginning of your upkeep, put target creature card from a graveyard onto the battlefield under your control.</text>
+    <flavorText>One moment, conscious only of a sense of repose. The next moment, hearing the trudge of his own footsteps. He sighed and squinted into the glare ahead.</flavorText>
+  </item>
+  <item>
+    <id>GPT0142</id>
+    <name>Djinn Illuminatus</name>
+    <text>({UR} can be paid with either {U} or {R}.)
+Flying
+Each instant and sorcery spell you cast has replicate. The replicate cost is equal to its mana cost. (When you cast it, copy it for each time you paid its replicate cost. You may choose new targets for the copies.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0143</id>
+    <name>Giant Solifuge</name>
+    <text>({RG} can be paid with either {R} or {G}.)
+Trample; haste; shroud (This permanent can't be the target of spells or abilities.)</text>
+    <flavorText>"We respect all lifeforms, but this one we respect from a distance."
+—Mandor, Selesnya ranger</flavorText>
+  </item>
+  <item>
+    <id>GPT0144</id>
+    <name>Gruul Guildmage</name>
+    <text>({RG} can be paid with either {R} or {G}.)
+{3}{R}, Sacrifice a land: Gruul Guildmage deals 2 damage to target player.
+{3}{G}: Target creature gets +2/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0145</id>
+    <name>Izzet Guildmage</name>
+    <text>({UR} can be paid with either {U} or {R}.)
+{2}{U}: Copy target instant spell you control with converted mana cost 2 or less. You may choose new targets for the copy.
+{2}{R}: Copy target sorcery spell you control with converted mana cost 2 or less. You may choose new targets for the copy.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0146</id>
+    <name>Mourning Thrull</name>
+    <text>({WB} can be paid with either {W} or {B}.)
+Flying
+Whenever Mourning Thrull deals damage, you gain that much life.</text>
+    <flavorText>During their ascent to spirithood, patriarchs of Orzhova shed both flesh and emotion. This earthly slag is collected and formed into thrulls.</flavorText>
+  </item>
+  <item>
+    <id>GPT0147</id>
+    <name>Orzhov Guildmage</name>
+    <text>({WB} can be paid with either {W} or {B}.)
+{2}{W}: Target player gains 1 life.
+{2}{B}: Each player loses 1 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0148</id>
+    <name>Petrahydrox</name>
+    <text>({UR} can be paid with either {U} or {R}.)
+When Petrahydrox becomes the target of a spell or ability, return Petrahydrox to its owner's hand.</text>
+    <flavorText>It departs through the streets' fissures with a sound like gravel pouring into a pond.</flavorText>
+  </item>
+  <item>
+    <id>GPT0149</id>
+    <name>Wild Cantor</name>
+    <text>({RG} can be paid with either {R} or {G}.)
+Sacrifice Wild Cantor: Add one mana of any color to your mana pool.</text>
+    <flavorText>They are the voice of the wild, crying out with nature's fury and bringing forth its primeval might.</flavorText>
+  </item>
+  <item>
+    <id>GPT0150</id>
+    <name>Gruul Signet</name>
+    <text>{1}, {T}: Add {R}{G} to your mana pool.</text>
+    <flavorText>Gruul territorial markings need not be legible. The blood, snot, and muck used to smear them are unmistakably Gruul.</flavorText>
+  </item>
+  <item>
+    <id>GPT0151</id>
+    <name>Gruul War Plow</name>
+    <text>Creatures you control have trample.
+{1}{R}{G}: Gruul War Plow becomes a 4/4 Juggernaut artifact creature until end of turn.</text>
+    <flavorText>"Steering apparatus? What for? Rip it out, sharpen it, and lash it to the front"
+—Ktank, Gruul plowmaster</flavorText>
+  </item>
+  <item>
+    <id>GPT0152</id>
+    <name>Izzet Signet</name>
+    <text>{1}, {T}: Add {U}{R} to your mana pool.</text>
+    <flavorText>The Izzet signet is redesigned often, each time becoming closer to a vanity portrait of Niv-Mizzet.</flavorText>
+  </item>
+  <item>
+    <id>GPT0153</id>
+    <name>Mizzium Transreliquat</name>
+    <text>{3}: Mizzium Transreliquat becomes a copy of target artifact until end of turn.
+{1}{U}{R}: Mizzium Transreliquat becomes a copy of target artifact and gains this ability.</text>
+    <flavorText>"What is it? Um . . . what do you want it to be?"
+—Juzba, Izzet tinker</flavorText>
+  </item>
+  <item>
+    <id>GPT0154</id>
+    <name>Moratorium Stone</name>
+    <text>{2}, {T}: Exile target card from a graveyard.
+{2}{W}{B}, {T}, Sacrifice Moratorium Stone: Exile target nonland card from a graveyard, all other cards from graveyards with the same name as that card, and all permanents with that name.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0155</id>
+    <name>Orzhov Signet</name>
+    <text>{1}, {T}: Add {W}{B} to your mana pool.</text>
+    <flavorText>The form of the sigil is just as important as the sigil itself. If it's carried on a medallion, its bearer is a master. If it's tattooed on the body, its bearer is a slave.</flavorText>
+  </item>
+  <item>
+    <id>GPT0156</id>
+    <name>Sword of the Paruns</name>
+    <text>As long as equipped creature is tapped, tapped creatures you control get +2/+0.
+As long as equipped creature is untapped, untapped creatures you control get +0/+2.
+{3}: You may tap or untap equipped creature.
+Equip {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0157</id>
+    <name>Godless Shrine</name>
+    <text>({T}: Add {W} or {B} to your mana pool.)
+As Godless Shrine enters the battlefield, you may pay 2 life. If you don't, Godless Shrine enters the battlefield tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0158</id>
+    <name>Gruul Turf</name>
+    <text>Gruul Turf enters the battlefield tapped.
+When Gruul Turf enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {R}{G} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0159</id>
+    <name>Izzet Boilerworks</name>
+    <text>Izzet Boilerworks enters the battlefield tapped.
+When Izzet Boilerworks enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {U}{R} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0160</id>
+    <name>Nivix, Aerie of the Firemind</name>
+    <text>{T}: Add {1} to your mana pool.
+{2}{U}{R}, {T}: Exile the top card of your library. Until your next turn, you may cast that card if it's an instant or sorcery.</text>
+    <flavorText>Niv-Mizzet's genius and vanity reverberate throughout the mirrored halls of Nivix.</flavorText>
+  </item>
+  <item>
+    <id>GPT0161</id>
+    <name>Orzhov Basilica</name>
+    <text>Orzhov Basilica enters the battlefield tapped.
+When Orzhov Basilica enters the battlefield, return a land you control to its owner's hand.
+{T}: Add {W}{B} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0162</id>
+    <name>Orzhova, the Church of Deals</name>
+    <text>{T}: Add {1} to your mana pool.
+{3}{W}{B}, {T}: Target player loses 1 life and you gain 1 life.</text>
+    <flavorText>Unlike most churches, at Orzhova it's best to pray before you arrive.</flavorText>
+  </item>
+  <item>
+    <id>GPT0163</id>
+    <name>Skarrg, the Rage Pits</name>
+    <text>{T}: Add {1} to your mana pool.
+{R}{G}, {T}: Target creature gets +1/+1 and gains trample until end of turn.</text>
+    <flavorText>"This palace will be our fire-spit, and roasted prince our victory meal. Send in the torch-pigs"
+—Ghut Rak, Gruul guildmage</flavorText>
+  </item>
+  <item>
+    <id>GPT0164</id>
+    <name>Steam Vents</name>
+    <text>({T}: Add {U} or {R} to your mana pool.)
+As Steam Vents enters the battlefield, you may pay 2 life. If you don't, Steam Vents enters the battlefield tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>GPT0165</id>
+    <name>Stomping Ground</name>
+    <text>({T}: Add {R} or {G} to your mana pool.)
+As Stomping Ground enters the battlefield, you may pay 2 life. If you don't, Stomping Ground enters the battlefield tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

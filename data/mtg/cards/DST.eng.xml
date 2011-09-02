@@ -1,0 +1,1175 @@
+<cards name="Darksteel">
+  <item>
+    <id>DST0001</id>
+    <name>Auriok Glaivemaster</name>
+    <text>As long as Auriok Glaivemaster is equipped, it gets +1/+1 and has first strike.</text>
+    <flavorText>"Give me a bit of steel and I'll deliver it into the hearts of my enemies."</flavorText>
+  </item>
+  <item>
+    <id>DST0002</id>
+    <name>Echoing Calm</name>
+    <text>Destroy target enchantment and all other enchantments with the same name as that enchantment.</text>
+    <flavorText>A single light unleashes a hail of cleansing.</flavorText>
+  </item>
+  <item>
+    <id>DST0003</id>
+    <name>Emissary of Hope</name>
+    <text>Flying
+Whenever Emissary of Hope deals combat damage to a player, you gain 1 life for each artifact that player controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0004</id>
+    <name>Hallow</name>
+    <text>Prevent all damage target spell would deal this turn. You gain life equal to the damage prevented this way.</text>
+    <flavorText>"Bend with the storm, then reply in kind."</flavorText>
+  </item>
+  <item>
+    <id>DST0005</id>
+    <name>Leonin Battlemage</name>
+    <text>{T}: Target creature gets +1/+1 until end of turn.
+Whenever you cast a spell, you may untap Leonin Battlemage.</text>
+    <flavorText>The strongest of the pride are measured not by the steel in their hands but by the steel in their souls.</flavorText>
+  </item>
+  <item>
+    <id>DST0006</id>
+    <name>Leonin Shikari</name>
+    <text>You may activate equip abilities any time you could cast an instant.</text>
+    <flavorText>Her instinct is as sharp as her blade.</flavorText>
+  </item>
+  <item>
+    <id>DST0007</id>
+    <name>Loxodon Mystic</name>
+    <text>{W}, {T}: Tap target creature.</text>
+    <flavorText>As the nim storm across the plains, a lone priest stands in their path. At his silent gesture, the battle line breaks, and the tide turns.</flavorText>
+  </item>
+  <item>
+    <id>DST0008</id>
+    <name>Metal Fatigue</name>
+    <text>Tap all artifacts.</text>
+    <flavorText>The Auriok have fought the metal hordes for so long now that knowing how to cripple them has become an instinct.</flavorText>
+  </item>
+  <item>
+    <id>DST0009</id>
+    <name>Pristine Angel</name>
+    <text>Flying
+As long as Pristine Angel is untapped, it has protection from artifacts and from all colors.
+Whenever you cast a spell, you may untap Pristine Angel.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0010</id>
+    <name>Pteron Ghost</name>
+    <text>Flying
+Sacrifice Pteron Ghost: Regenerate target artifact.</text>
+    <flavorText>Defending to the death isn't always enough.</flavorText>
+  </item>
+  <item>
+    <id>DST0011</id>
+    <name>Pulse of the Fields</name>
+    <text>You gain 4 life. Then if an opponent has more life than you, return Pulse of the Fields to its owner's hand.</text>
+    <flavorText>Before religion or civilization, there was order.</flavorText>
+  </item>
+  <item>
+    <id>DST0012</id>
+    <name>Purge</name>
+    <text>Destroy target artifact creature or black creature. It can't be regenerated.</text>
+    <flavorText>For the first and last time, the horrific creature experienced terror.</flavorText>
+  </item>
+  <item>
+    <id>DST0013</id>
+    <name>Ritual of Restoration</name>
+    <text>Return target artifact card from your graveyard to your hand.</text>
+    <flavorText>Leonin raising ceremonies take place at the white sun's dawn, the rebirth of artifacts mirroring the birth of a new day.</flavorText>
+  </item>
+  <item>
+    <id>DST0014</id>
+    <name>Soulscour</name>
+    <text>Destroy all nonartifact permanents.</text>
+    <flavorText>"I have seen the end of times, a future in which all our kind are torn from this world."
+—Ushanti, leonin shaman</flavorText>
+  </item>
+  <item>
+    <id>DST0015</id>
+    <name>Steelshaper Apprentice</name>
+    <text>{W}, {T}, Return Steelshaper Apprentice to its owner's hand: Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>Theirs is a craft brought about by necessity, now raised to the level of art.</flavorText>
+  </item>
+  <item>
+    <id>DST0016</id>
+    <name>Stir the Pride</name>
+    <text>Choose one — Creatures you control get +2/+2 until end of turn; or until end of turn, creatures you control gain "Whenever this creature deals damage, you gain that much life."
+Entwine {1}{W} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0017</id>
+    <name>Test of Faith</name>
+    <text>Prevent the next 3 damage that would be dealt to target creature this turn, and put a +1/+1 counter on that creature for each 1 damage prevented this way.</text>
+    <flavorText>Those who survive the test bear a mark of power anyone can recognize.</flavorText>
+  </item>
+  <item>
+    <id>DST0018</id>
+    <name>Turn the Tables</name>
+    <text>All combat damage that would be dealt to you this turn is dealt to target attacking creature instead.</text>
+    <flavorText>"Your arrogance is my best weapon."</flavorText>
+  </item>
+  <item>
+    <id>DST0019</id>
+    <name>Carry Away</name>
+    <text>Enchant Equipment
+When Carry Away enters the battlefield, unattach enchanted Equipment.
+You control enchanted Equipment.</text>
+    <flavorText>Stealing goblin weapons would be easier if the goblins were smart enough to let go.</flavorText>
+  </item>
+  <item>
+    <id>DST0020</id>
+    <name>Chromescale Drake</name>
+    <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+When Chromescale Drake enters the battlefield, reveal the top three cards of your library. Put all artifact cards revealed this way into your hand and the rest into your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0021</id>
+    <name>Echoing Truth</name>
+    <text>Return target nonland permanent and all other permanents with the same name as that permanent to their owners' hands.</text>
+    <flavorText>A single lie unleashes a tide of disbelief.</flavorText>
+  </item>
+  <item>
+    <id>DST0022</id>
+    <name>Hoverguard Observer</name>
+    <text>Flying
+Hoverguard Observer can block only creatures with flying.</text>
+    <flavorText>It could be made to run silently, but its low hum reminds the Neurok that they are always watched.</flavorText>
+  </item>
+  <item>
+    <id>DST0023</id>
+    <name>Last Word</name>
+    <text>Last Word can't be countered by spells or abilities.
+Counter target spell.</text>
+    <flavorText>"Someday, someone will best me. But it won't be today, and it won't be you."</flavorText>
+  </item>
+  <item>
+    <id>DST0024</id>
+    <name>Machinate</name>
+    <text>Look at the top X cards of your library, where X is the number of artifacts you control. Put one of those cards into your hand and the rest on the bottom of your library in any order.</text>
+    <flavorText>As long as there are questions to be asked, the vedalken will ask them.</flavorText>
+  </item>
+  <item>
+    <id>DST0025</id>
+    <name>Magnetic Flux</name>
+    <text>Artifact creatures you control gain flying until end of turn.</text>
+    <flavorText>After the researcher's astonishing success, his assistants spent six hours finding a way to return the specimens safely to the ground.</flavorText>
+  </item>
+  <item>
+    <id>DST0026</id>
+    <name>Neurok Prodigy</name>
+    <text>Flying
+Discard an artifact card: Return Neurok Prodigy to its owner's hand.</text>
+    <flavorText>"Why should I be bound by rules when I can see so far beyond them?"</flavorText>
+  </item>
+  <item>
+    <id>DST0027</id>
+    <name>Neurok Transmuter</name>
+    <text>{U}: Target creature becomes an artifact in addition to its other types until end of turn.
+{U}: Until end of turn, target artifact creature becomes blue and isn't an artifact.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0028</id>
+    <name>Psychic Overload</name>
+    <text>Enchant permanent
+When Psychic Overload enters the battlefield, tap enchanted permanent.
+Enchanted permanent doesn't untap during its controller's untap step.
+Enchanted permanent has "Discard two artifact cards: Untap this permanent."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0029</id>
+    <name>Pulse of the Grid</name>
+    <text>Draw two cards, then discard a card. Then if an opponent has more cards in hand than you, return Pulse of the Grid to its owner's hand.</text>
+    <flavorText>Before labs or lectures, there was insight.</flavorText>
+  </item>
+  <item>
+    <id>DST0030</id>
+    <name>Quicksilver Behemoth</name>
+    <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+When Quicksilver Behemoth attacks or blocks, return it to its owner's hand at end of combat. (Return it only if it's on the battlefield.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0031</id>
+    <name>Reshape</name>
+    <text>As an additional cost to cast Reshape, sacrifice an artifact.
+Search your library for an artifact card with converted mana cost X or less and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>"Today's paperweight, tomorrow's leveler."
+—Bruenna, Neurok leader</flavorText>
+  </item>
+  <item>
+    <id>DST0032</id>
+    <name>Retract</name>
+    <text>Return all artifacts you control to their owner's hand.</text>
+    <flavorText>"Secrets are meant to remain secret."
+—Memnarch</flavorText>
+  </item>
+  <item>
+    <id>DST0033</id>
+    <name>Second Sight</name>
+    <text>Choose one — Look at the top five cards of target opponent's library, then put them back in any order; or look at the top five cards of your library, then put them back in any order.
+Entwine {U} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0034</id>
+    <name>Synod Artificer</name>
+    <text>{X}, {T}: Tap X target noncreature artifacts.
+{X}, {T}: Untap X target noncreature artifacts.</text>
+    <flavorText>Memnarch shared a touch of his power with the vedalken in return for their service. It is a debt he intends to collect.</flavorText>
+  </item>
+  <item>
+    <id>DST0035</id>
+    <name>Vedalken Engineer</name>
+    <text>{T}: Add two mana of any one color to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.</text>
+    <flavorText>Art is unknown to the vedalken—for them, all creations must serve a purpose.</flavorText>
+  </item>
+  <item>
+    <id>DST0036</id>
+    <name>Vex</name>
+    <text>Counter target spell. That spell's controller may draw a card.</text>
+    <flavorText>"The druids would be better off if they spent more time in the lab and less time watching trees grow."
+—Pontifex, elder researcher</flavorText>
+  </item>
+  <item>
+    <id>DST0037</id>
+    <name>Æther Snap</name>
+    <text>Remove all counters from all permanents and exile all tokens.</text>
+    <flavorText>"May you wake to find you were only ever a dream."
+—Mephidross curse</flavorText>
+  </item>
+  <item>
+    <id>DST0038</id>
+    <name>Burden of Greed</name>
+    <text>Target player loses 1 life for each tapped artifact he or she controls.</text>
+    <flavorText>"The one who dies with the most toys is still dead."
+—Geth, keeper of the Vault</flavorText>
+  </item>
+  <item>
+    <id>DST0039</id>
+    <name>Chittering Rats</name>
+    <text>When Chittering Rats enters the battlefield, target opponent puts a card from his or her hand on top of his or her library.</text>
+    <flavorText>Bottom feeders sometimes rise to the top.</flavorText>
+  </item>
+  <item>
+    <id>DST0040</id>
+    <name>Death Cloud</name>
+    <text>Each player loses X life, then discards X cards, then sacrifices X creatures, then sacrifices X lands.</text>
+    <flavorText>The swarm's million wings stir the foulest of breezes.</flavorText>
+  </item>
+  <item>
+    <id>DST0041</id>
+    <name>Echoing Decay</name>
+    <text>Target creature and all other creatures with the same name as that creature get -2/-2 until end of turn.</text>
+    <flavorText>A single fear unleashes a torrent of nightmares.</flavorText>
+  </item>
+  <item>
+    <id>DST0042</id>
+    <name>Emissary of Despair</name>
+    <text>Flying
+Whenever Emissary of Despair deals combat damage to a player, that player loses 1 life for each artifact he or she controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0043</id>
+    <name>Essence Drain</name>
+    <text>Essence Drain deals 3 damage to target creature or player and you gain 3 life.</text>
+    <flavorText>Mephidross claims all life within it. What cannot be twisted is absorbed.</flavorText>
+  </item>
+  <item>
+    <id>DST0044</id>
+    <name>Greater Harvester</name>
+    <text>At the beginning of your upkeep, sacrifice a permanent.
+Whenever Greater Harvester deals combat damage to a player, that player sacrifices two permanents.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0045</id>
+    <name>Grimclaw Bats</name>
+    <text>Flying
+{B}, Pay 1 life: Grimclaw Bats gets +1/+1 until end of turn.</text>
+    <flavorText>Even on a world of metal, there are those who thirst for blood.</flavorText>
+  </item>
+  <item>
+    <id>DST0046</id>
+    <name>Hunger of the Nim</name>
+    <text>Target creature gets +1/+0 until end of turn for each artifact you control.</text>
+    <flavorText>Their pain is so great, they can't help but share it with others.</flavorText>
+  </item>
+  <item>
+    <id>DST0047</id>
+    <name>Mephitic Ooze</name>
+    <text>Mephitic Ooze gets +1/+0 for each artifact you control.
+Whenever Mephitic Ooze deals combat damage to a creature, destroy that creature. The creature can't be regenerated.</text>
+    <flavorText>In Mephidross, refuse doesn't last long—it's all scavenged, reanimated, or consumed.</flavorText>
+  </item>
+  <item>
+    <id>DST0048</id>
+    <name>Murderous Spoils</name>
+    <text>Destroy target nonblack creature. It can't be regenerated. You gain control of all Equipment that was attached to it. (This effect lasts indefinitely.)</text>
+    <flavorText>Scavengers are always the first to pay their respects.</flavorText>
+  </item>
+  <item>
+    <id>DST0049</id>
+    <name>Nim Abomination</name>
+    <text>At the beginning of your end step, if Nim Abomination is untapped, you lose 3 life.</text>
+    <flavorText>It is one of the oldest nim, steeped so long in the Dross that it has lost all vestiges of humanity.</flavorText>
+  </item>
+  <item>
+    <id>DST0050</id>
+    <name>Pulse of the Dross</name>
+    <text>Target player reveals three cards from his or her hand and you choose one of them. That player discards that card. Then if that player has more cards in hand than you, return Pulse of the Dross to its owner's hand.</text>
+    <flavorText>Before tyrants or torturers, there was evil.</flavorText>
+  </item>
+  <item>
+    <id>DST0051</id>
+    <name>Scavenging Scarab</name>
+    <text>Scavenging Scarab can't block.</text>
+    <flavorText>The beetles feed not on the flesh of corpses but on the metal, grinding out the iron and steel to add to their own bulky shells.</flavorText>
+  </item>
+  <item>
+    <id>DST0052</id>
+    <name>Screams from Within</name>
+    <text>Enchant creature
+Enchanted creature gets -1/-1.
+When enchanted creature is put into a graveyard, return Screams from Within from your graveyard to the battlefield.</text>
+    <flavorText>There's no escaping an enemy that lives inside your head.</flavorText>
+  </item>
+  <item>
+    <id>DST0053</id>
+    <name>Scrounge</name>
+    <text>Target opponent chooses an artifact card in his or her graveyard. Put that card onto the battlefield under your control.</text>
+    <flavorText>When leonin settlers abandon their homes to the nim, items of value are often left behind.</flavorText>
+  </item>
+  <item>
+    <id>DST0054</id>
+    <name>Shriveling Rot</name>
+    <text>Choose one — Until end of turn, whenever a creature is dealt damage, destroy it; or until end of turn, whenever a creature is put into a graveyard from the battlefield, that creature's controller loses life equal to its toughness.
+Entwine {2}{B} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0055</id>
+    <name>Barbed Lightning</name>
+    <text>Choose one — Barbed Lightning deals 3 damage to target creature; or Barbed Lightning deals 3 damage to target player.
+Entwine {2} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>Every creature on Mirrodin is a lightning rod.</flavorText>
+  </item>
+  <item>
+    <id>DST0056</id>
+    <name>Crazed Goblin</name>
+    <text>Crazed Goblin attacks each turn if able.</text>
+    <flavorText>Because fighting is easier than figuring out what else to do.</flavorText>
+  </item>
+  <item>
+    <id>DST0057</id>
+    <name>Dismantle</name>
+    <text>Destroy target artifact. If that artifact had counters on it, put that many +1/+1 counters or charge counters on an artifact you control.</text>
+    <flavorText>"If only the living were so easily salvaged."
+—Memnarch</flavorText>
+  </item>
+  <item>
+    <id>DST0058</id>
+    <name>Drooling Ogre</name>
+    <text>Whenever a player casts an artifact spell, that player gains control of Drooling Ogre. (This effect lasts indefinitely.)</text>
+    <flavorText>"Is it the stomping kind or the munching kind?"
+—Slobad, goblin tinkerer</flavorText>
+  </item>
+  <item>
+    <id>DST0059</id>
+    <name>Echoing Ruin</name>
+    <text>Destroy target artifact and all other artifacts with the same name as that artifact.</text>
+    <flavorText>A single misstep unleashes an avalanche of ruin.</flavorText>
+  </item>
+  <item>
+    <id>DST0060</id>
+    <name>Fireball</name>
+    <text>Fireball deals X damage divided evenly, rounded down, among any number of target creatures and/or players.
+Fireball costs {1} more to cast for each target beyond the first.</text>
+    <flavorText>The spell fell upon the crowd like a dragon, ancient and full of death.</flavorText>
+  </item>
+  <item>
+    <id>DST0061</id>
+    <name>Flamebreak</name>
+    <text>Flamebreak deals 3 damage to each creature without flying and each player. Creatures dealt damage this way can't be regenerated this turn.</text>
+    <flavorText>"Now I'm thirsty."
+—Korva, Vulshok battlemaster</flavorText>
+  </item>
+  <item>
+    <id>DST0062</id>
+    <name>Furnace Dragon</name>
+    <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying
+When Furnace Dragon enters the battlefield, if you cast it from your hand, exile all artifacts.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0063</id>
+    <name>Goblin Archaeologist</name>
+    <text>{R}, {T}: Flip a coin. If you win the flip, destroy target artifact and untap Goblin Archaeologist. If you lose the flip, sacrifice Goblin Archaeologist.</text>
+    <flavorText>Always easily impressed, Durg was about to be blown away.</flavorText>
+  </item>
+  <item>
+    <id>DST0064</id>
+    <name>Inflame</name>
+    <text>Inflame deals 2 damage to each creature dealt damage this turn.</text>
+    <flavorText>A Vulshok weapon strikes with the fire of the forge that made it.</flavorText>
+  </item>
+  <item>
+    <id>DST0065</id>
+    <name>Krark-Clan Stoker</name>
+    <text>{T}, Sacrifice an artifact: Add {R}{R} to your mana pool.</text>
+    <flavorText>Fallen enemies are fed to the scavengers. Fallen friends are thrown into the Great Furnace, their souls returned to the Great Mother.</flavorText>
+  </item>
+  <item>
+    <id>DST0066</id>
+    <name>Pulse of the Forge</name>
+    <text>Pulse of the Forge deals 4 damage to target player. Then if that player has more life than you, return Pulse of the Forge to its owner's hand.</text>
+    <flavorText>Before wars or weapons, there was anger.</flavorText>
+  </item>
+  <item>
+    <id>DST0067</id>
+    <name>Savage Beating</name>
+    <text>Cast Savage Beating only during your turn and only during combat.
+Choose one — Creatures you control gain double strike until end of turn; or untap all creatures you control and after this phase, there is an additional combat phase.
+Entwine {1}{R} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0068</id>
+    <name>Shunt</name>
+    <text>Change the target of target spell with a single target.</text>
+    <flavorText>"You might want to work on your aim."</flavorText>
+  </item>
+  <item>
+    <id>DST0069</id>
+    <name>Slobad, Goblin Tinkerer</name>
+    <text>Sacrifice an artifact: Target artifact is indestructible this turn. ("Destroy" effects and lethal damage don't destroy that artifact.)</text>
+    <flavorText>"I used to joke that he had been exiled for being too smart. Now I know why he never laughed."
+—Glissa Sunseeker</flavorText>
+  </item>
+  <item>
+    <id>DST0070</id>
+    <name>Tears of Rage</name>
+    <text>Cast Tears of Rage only during the declare attackers step.
+Attacking creatures you control get +X/+0 until end of turn, where X is the number of attacking creatures. Sacrifice those creatures at the beginning of the next end step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0071</id>
+    <name>Unforge</name>
+    <text>Destroy target Equipment. If that Equipment was attached to a creature, Unforge deals 2 damage to that creature.</text>
+    <flavorText>Compared to the fire of the forge, the strength of steel is nothing.</flavorText>
+  </item>
+  <item>
+    <id>DST0072</id>
+    <name>Vulshok War Boar</name>
+    <text>When Vulshok War Boar enters the battlefield, sacrifice it unless you sacrifice an artifact.</text>
+    <flavorText>It must eat its weight in metal daily, or its furnacelike belly will consume itself for lack of fuel.</flavorText>
+  </item>
+  <item>
+    <id>DST0073</id>
+    <name>Ageless Entity</name>
+    <text>Whenever you gain life, put that many +1/+1 counters on Ageless Entity.</text>
+    <flavorText>Tel-Jilad's sworn protectors are the trolls, yet more fearsome protectors were created by the Tangle itself.</flavorText>
+  </item>
+  <item>
+    <id>DST0074</id>
+    <name>Echoing Courage</name>
+    <text>Target creature and all other creatures with the same name as that creature get +2/+2 until end of turn.</text>
+    <flavorText>A single seed unleashes a flurry of growth.</flavorText>
+  </item>
+  <item>
+    <id>DST0075</id>
+    <name>Fangren Firstborn</name>
+    <text>Whenever Fangren Firstborn attacks, put a +1/+1 counter on each attacking creature.</text>
+    <flavorText>In the Tangle, bad is often followed by worse.</flavorText>
+  </item>
+  <item>
+    <id>DST0076</id>
+    <name>Infested Roothold</name>
+    <text>Defender (This creature can't attack.)
+Protection from artifacts
+Whenever an opponent casts an artifact spell, you may put a 1/1 green Insect creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0077</id>
+    <name>Karstoderm</name>
+    <text>Karstoderm enters the battlefield with five +1/+1 counters on it.
+Whenever an artifact enters the battlefield, remove a +1/+1 counter from Karstoderm.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0078</id>
+    <name>Nourish</name>
+    <text>You gain 6 life.</text>
+    <flavorText>Gelfruit grows abundantly wherever Sylvok druids live, as if the Tangle knows that humans are not as hardy as the beasts or as nimble as the elves.</flavorText>
+  </item>
+  <item>
+    <id>DST0079</id>
+    <name>Oxidize</name>
+    <text>Destroy target artifact. It can't be regenerated.</text>
+    <flavorText>"Ashes to ashes, rust to rust."
+—Viridian shaman</flavorText>
+  </item>
+  <item>
+    <id>DST0080</id>
+    <name>Pulse of the Tangle</name>
+    <text>Put a 3/3 green Beast creature token onto the battlefield. Then if an opponent controls more creatures than you, return Pulse of the Tangle to its owner's hand.</text>
+    <flavorText>Before predators or prey, there was life.</flavorText>
+  </item>
+  <item>
+    <id>DST0081</id>
+    <name>Reap and Sow</name>
+    <text>Choose one — Destroy target land; or search your library for a land card, put that card onto the battlefield, then shuffle your library.
+Entwine {1}{G} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0082</id>
+    <name>Rebuking Ceremony</name>
+    <text>Put two target artifacts on top of their owners' libraries.</text>
+    <flavorText>From the Radix at the hub of the Tangle all the way out to the Edges of Forgetting, a Viridian elf's life is built around the temporary.</flavorText>
+  </item>
+  <item>
+    <id>DST0083</id>
+    <name>Roaring Slagwurm</name>
+    <text>Whenever Roaring Slagwurm attacks, tap all artifacts.</text>
+    <flavorText>Wurms compete for nesting grounds near the Radix. The young who hatch closest have the best chance for survival.</flavorText>
+  </item>
+  <item>
+    <id>DST0084</id>
+    <name>Stand Together</name>
+    <text>Put two +1/+1 counters on target creature and two +1/+1 counters on another target creature.</text>
+    <flavorText>Strange times make for strange allies.</flavorText>
+  </item>
+  <item>
+    <id>DST0085</id>
+    <name>Tangle Spider</name>
+    <text>Flash (You may cast this spell any time you could cast an instant.)
+Reach (This creature can block creatures with flying.)</text>
+    <flavorText>They're considered good luck by the elves they don't eat.</flavorText>
+  </item>
+  <item>
+    <id>DST0086</id>
+    <name>Tanglewalker</name>
+    <text>Each creature you control is unblockable as long as defending player controls an artifact land.</text>
+    <flavorText>In bringing life to Mirrodin, Memnarch was more successful than he knew—for Mirrodin began to take on a life of its own.</flavorText>
+  </item>
+  <item>
+    <id>DST0087</id>
+    <name>Tel-Jilad Outrider</name>
+    <text>Protection from artifacts</text>
+    <flavorText>"When the levelers come again, we shall be ready for them."</flavorText>
+  </item>
+  <item>
+    <id>DST0088</id>
+    <name>Tel-Jilad Wolf</name>
+    <text>Whenever Tel-Jilad Wolf becomes blocked by an artifact creature, Tel-Jilad Wolf gets +3/+3 until end of turn.</text>
+    <flavorText>Thanks to the wolves, Tel-Jilad is the one area of Mirrodin the myr don't see often.</flavorText>
+  </item>
+  <item>
+    <id>DST0089</id>
+    <name>Viridian Acolyte</name>
+    <text>{1}, {T}: Add one mana of any color to your mana pool.</text>
+    <flavorText>"We have no sun to guide our dead, so I tend the prismatic flames of the spirit fires that show the souls their way. When I die, I hope there is one left to guide my spirit home."</flavorText>
+  </item>
+  <item>
+    <id>DST0090</id>
+    <name>Viridian Zealot</name>
+    <text>{1}{G}, Sacrifice Viridian Zealot: Destroy target artifact or enchantment.</text>
+    <flavorText>"I will fight only the way nature intended—and nature intended us to win."</flavorText>
+  </item>
+  <item>
+    <id>DST0091</id>
+    <name>Æther Vial</name>
+    <text>At the beginning of your upkeep, you may put a charge counter on Æther Vial.
+{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0092</id>
+    <name>Angel's Feather</name>
+    <text>Whenever a player casts a white spell, you may gain 1 life.</text>
+    <flavorText>If taken, it cuts the hand that clutches it. If given, it heals the hand that holds it.</flavorText>
+  </item>
+  <item>
+    <id>DST0093</id>
+    <name>Arcane Spyglass</name>
+    <text>{2}, {T}, Sacrifice a land: Draw a card and put a charge counter on Arcane Spyglass.
+Remove three charge counters from Arcane Spyglass: Draw a card.</text>
+    <flavorText>It breaches not physical distances but temporal ones.</flavorText>
+  </item>
+  <item>
+    <id>DST0094</id>
+    <name>Arcbound Bruiser</name>
+    <text>Modular 3 (This enters the battlefield with three +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>Break in case of emergency.</flavorText>
+  </item>
+  <item>
+    <id>DST0095</id>
+    <name>Arcbound Crusher</name>
+    <text>Trample
+Whenever another artifact enters the battlefield, put a +1/+1 counter on Arcbound Crusher.
+Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0096</id>
+    <name>Arcbound Fiend</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+At the beginning of your upkeep, you may move a +1/+1 counter from target creature onto Arcbound Fiend.
+Modular 3 (This enters the battlefield with three +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0097</id>
+    <name>Arcbound Hybrid</name>
+    <text>Haste
+Modular 2 (This enters the battlefield with two +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0098</id>
+    <name>Arcbound Lancer</name>
+    <text>First strike
+Modular 4 (This enters the battlefield with four +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0099</id>
+    <name>Arcbound Overseer</name>
+    <text>At the beginning of your upkeep, put a +1/+1 counter on each creature with modular you control.
+Modular 6 (This enters the battlefield with six +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0100</id>
+    <name>Arcbound Ravager</name>
+    <text>Sacrifice an artifact: Put a +1/+1 counter on Arcbound Ravager.
+Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0101</id>
+    <name>Arcbound Reclaimer</name>
+    <text>Remove a +1/+1 counter from Arcbound Reclaimer: Put target artifact card from your graveyard on top of your library.
+Modular 2 (This enters the battlefield with two +1/+1 counters on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0102</id>
+    <name>Arcbound Slith</name>
+    <text>Whenever Arcbound Slith deals combat damage to a player, put a +1/+1 counter on it.
+Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0103</id>
+    <name>Arcbound Stinger</name>
+    <text>Flying
+Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0104</id>
+    <name>Arcbound Worker</name>
+    <text>Modular 1 (This enters the battlefield with a +1/+1 counter on it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>The parts are as strong as the whole.</flavorText>
+  </item>
+  <item>
+    <id>DST0105</id>
+    <name>Auriok Siege Sled</name>
+    <text>{1}: Target artifact creature blocks Auriok Siege Sled this turn if able.
+{1}: Target artifact creature can't block Auriok Siege Sled this turn.</text>
+    <flavorText>Everything in its path is either pushed aside or ground under.</flavorText>
+  </item>
+  <item>
+    <id>DST0106</id>
+    <name>Chimeric Egg</name>
+    <text>Whenever an opponent casts a nonartifact spell, put a charge counter on Chimeric Egg.
+Remove three charge counters from Chimeric Egg: Chimeric Egg becomes a 6/6 Construct artifact creature with trample until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0107</id>
+    <name>Coretapper</name>
+    <text>{T}: Put a charge counter on target artifact.
+Sacrifice Coretapper: Put two charge counters on target artifact.</text>
+    <flavorText>It converts the faintest surges of power from Mirrodin's core into usable energy, providing endless power for Memnarch's creations on the surface.</flavorText>
+  </item>
+  <item>
+    <id>DST0108</id>
+    <name>Darksteel Brute</name>
+    <text>Darksteel Brute is indestructible. ("Destroy" effects and lethal damage don't destroy it.)
+{3}: Darksteel Brute becomes a 2/2 Beast artifact creature until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0109</id>
+    <name>Darksteel Colossus</name>
+    <text>Trample
+Darksteel Colossus is indestructible.
+If Darksteel Colossus would be put into a graveyard from anywhere, reveal Darksteel Colossus and shuffle it into its owner's library instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0110</id>
+    <name>Darksteel Forge</name>
+    <text>Artifacts you control are indestructible. ("Destroy" effects and lethal damage don't destroy them.)</text>
+    <flavorText>"Did it have this shape upon Mirrodin's creation, or did some inconceivable force shape the unshapable?"
+—Pontifex, elder researcher</flavorText>
+  </item>
+  <item>
+    <id>DST0111</id>
+    <name>Darksteel Gargoyle</name>
+    <text>Flying
+Darksteel Gargoyle is indestructible. ("Destroy" effects and lethal damage don't destroy it.)</text>
+    <flavorText>The ultimate treasure is one that guards itself.</flavorText>
+  </item>
+  <item>
+    <id>DST0112</id>
+    <name>Darksteel Ingot</name>
+    <text>Darksteel Ingot is indestructible. ("Destroy" effects and lethal damage don't destroy it.)
+{T}: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0113</id>
+    <name>Darksteel Pendant</name>
+    <text>Darksteel Pendant is indestructible. ("Destroy" effects and lethal damage don't destroy it.)
+{1}, {T}: Look at the top card of your library. You may put that card on the bottom of your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0114</id>
+    <name>Darksteel Reactor</name>
+    <text>Darksteel Reactor is indestructible. ("Destroy" effects and lethal damage don't destroy it.)
+At the beginning of your upkeep, you may put a charge counter on Darksteel Reactor.
+When Darksteel Reactor has twenty or more charge counters on it, you win the game.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0115</id>
+    <name>Death-Mask Duplicant</name>
+    <text>Imprint — {1}: Exile target creature card from your graveyard.
+As long as a card exiled with Death-Mask Duplicant has flying, Death-Mask Duplicant has flying. The same is true for fear, first strike, double strike, haste, landwalk, protection, and trample.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0116</id>
+    <name>Demon's Horn</name>
+    <text>Whenever a player casts a black spell, you may gain 1 life.</text>
+    <flavorText>Its curve mimics the twists of life and death.</flavorText>
+  </item>
+  <item>
+    <id>DST0117</id>
+    <name>Dragon's Claw</name>
+    <text>Whenever a player casts a red spell, you may gain 1 life.</text>
+    <flavorText>Though no longer attached to the hand, it still holds its adversary in its grasp.</flavorText>
+  </item>
+  <item>
+    <id>DST0118</id>
+    <name>Drill-Skimmer</name>
+    <text>Flying
+Drill-Skimmer has shroud as long as you control another artifact creature. (It can't be the target of spells or abilities.)</text>
+    <flavorText>In close proximity, their magnetic energies merge and form a field of protection.</flavorText>
+  </item>
+  <item>
+    <id>DST0119</id>
+    <name>Dross Golem</name>
+    <text>Affinity for Swamps (This spell costs {1} less to cast for each Swamp you control.)
+Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>The longer it skulks through the corrosive gases of Mephidross, the more it adopts their thirst for death.</flavorText>
+  </item>
+  <item>
+    <id>DST0120</id>
+    <name>Eater of Days</name>
+    <text>Flying, trample
+When Eater of Days enters the battlefield, you skip your next two turns.</text>
+    <flavorText>When Mirrodin's varied civilizations developed ways to fight the levelers, Memnarch upped the stakes.</flavorText>
+  </item>
+  <item>
+    <id>DST0121</id>
+    <name>Gemini Engine</name>
+    <text>Whenever Gemini Engine attacks, put a colorless Construct artifact creature token named Twin onto the battlefield attacking. Its power is equal to Gemini Engine's power and its toughness is equal to Gemini Engine's toughness. Sacrifice the token at end of combat.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0122</id>
+    <name>Genesis Chamber</name>
+    <text>Whenever a nontoken creature enters the battlefield, if Genesis Chamber is untapped, that creature's controller puts a 1/1 colorless Myr artifact creature token onto the battlefield.</text>
+    <flavorText>"As the experimental population grows, so do the number of myr. It's a perfect equilibrium."
+—Memnarch</flavorText>
+  </item>
+  <item>
+    <id>DST0123</id>
+    <name>Geth's Grimoire</name>
+    <text>Whenever an opponent discards a card, you may draw a card.</text>
+    <flavorText>The book shrieks horribly until its cover is opened, granting the spirit inside a moment's rest from the painful stirrings of the book's contents.</flavorText>
+  </item>
+  <item>
+    <id>DST0124</id>
+    <name>Heartseeker</name>
+    <text>Equipped creature gets +2/+1 and has "{T}, Unattach Heartseeker: Destroy target creature."
+Equip {5} ({5}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0125</id>
+    <name>Juggernaut</name>
+    <text>Juggernaut attacks each turn if able.
+Juggernaut can't be blocked by Walls.</text>
+    <flavorText>The goblins built it far larger than the cave opening, but to their glee, it smashed into the mountainside, ripping itself a new exit.</flavorText>
+  </item>
+  <item>
+    <id>DST0126</id>
+    <name>Kraken's Eye</name>
+    <text>Whenever a player casts a blue spell, you may gain 1 life.</text>
+    <flavorText>Bright as a mirror, dark as the sea.</flavorText>
+  </item>
+  <item>
+    <id>DST0127</id>
+    <name>Leonin Bola</name>
+    <text>Equipped creature has "{T}, Unattach Leonin Bola: Tap target creature."
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0128</id>
+    <name>Lich's Tomb</name>
+    <text>You don't lose the game for having 0 or less life.
+Whenever you lose life, sacrifice a permanent for each 1 life you lost. (Damage causes loss of life.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0129</id>
+    <name>Memnarch</name>
+    <text>{1}{U}{U}: Target permanent becomes an artifact in addition to its other types. (This effect lasts indefinitely.)
+{3}{U}: Gain control of target artifact. (This effect lasts indefinitely.)</text>
+    <flavorText>In the blur between metal and flesh, Memnarch found madness.</flavorText>
+  </item>
+  <item>
+    <id>DST0130</id>
+    <name>Mycosynth Lattice</name>
+    <text>All permanents are artifacts in addition to their other types.
+All cards that aren't on the battlefield, spells, and permanents are colorless.
+Players may spend mana as though it were mana of any color.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0131</id>
+    <name>Myr Landshaper</name>
+    <text>{T}: Target land becomes an artifact in addition to its other types until end of turn.</text>
+    <flavorText>One thing the myr can't do is enjoy the scenery.</flavorText>
+  </item>
+  <item>
+    <id>DST0132</id>
+    <name>Myr Matrix</name>
+    <text>Myr Matrix is indestructible. ("Destroy" effects and lethal damage don't destroy it.)
+Myr creatures get +1/+1.
+{5}: Put a 1/1 colorless Myr artifact creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0133</id>
+    <name>Myr Moonvessel</name>
+    <text>When Myr Moonvessel is put into a graveyard from the battlefield, add {1} to your mana pool.</text>
+    <flavorText>Memnarch created the myr with three qualities in mind: dependability, controllability, and disposability.</flavorText>
+  </item>
+  <item>
+    <id>DST0134</id>
+    <name>Nemesis Mask</name>
+    <text>All creatures able to block equipped creature do so.
+Equip {3} ({3}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0135</id>
+    <name>Oxidda Golem</name>
+    <text>Affinity for Mountains (This spell costs {1} less to cast for each Mountain you control.)
+Haste</text>
+    <flavorText>The longer it patrols the smoldering crags of the Oxidda Chain, the more it adopts their fiery temper.</flavorText>
+  </item>
+  <item>
+    <id>DST0136</id>
+    <name>Panoptic Mirror</name>
+    <text>Imprint — {X}, {T}: You may exile an instant or sorcery card with converted mana cost X from your hand.
+At the beginning of your upkeep, you may copy a card exiled with Panoptic Mirror. If you do, you may cast the copy without paying its mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0137</id>
+    <name>Razor Golem</name>
+    <text>Affinity for Plains (This spell costs {1} less to cast for each Plains you control.)
+Vigilance</text>
+    <flavorText>The longer it stands among the deadly blades of the Razor Fields, the more it adopts their harsh exterior.</flavorText>
+  </item>
+  <item>
+    <id>DST0138</id>
+    <name>Serum Powder</name>
+    <text>{T}: Add {1} to your mana pool.
+Any time you could mulligan and Serum Powder is in your hand, you may exile all the cards from your hand, then draw that many cards. (You can do this in addition to taking mulligans.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0139</id>
+    <name>Shield of Kaldra</name>
+    <text>Equipment named Sword of Kaldra, Shield of Kaldra, and Helm of Kaldra are indestructible.
+Equipped creature is indestructible. ("Destroy" effects and lethal damage don't destroy it.)
+Equip {4}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0140</id>
+    <name>Skullclamp</name>
+    <text>Equipped creature gets +1/-1.
+When equipped creature is put into a graveyard, draw two cards.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0141</id>
+    <name>Spawning Pit</name>
+    <text>Sacrifice a creature: Put a charge counter on Spawning Pit.
+{1}, Remove two charge counters from Spawning Pit: Put a 2/2 colorless Spawn artifact creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0142</id>
+    <name>Specter's Shroud</name>
+    <text>Equipped creature gets +1/+0.
+Whenever equipped creature deals combat damage to a player, that player discards a card.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0143</id>
+    <name>Spellbinder</name>
+    <text>Imprint — When Spellbinder enters the battlefield, you may exile an instant card from your hand.
+Whenever equipped creature deals combat damage to a player, you may copy the exiled card. If you do, you may cast the copy without paying its mana cost.
+Equip {4}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0144</id>
+    <name>Spincrusher</name>
+    <text>Whenever Spincrusher blocks, put a +1/+1 counter on it.
+Remove a +1/+1 counter from Spincrusher: Spincrusher is unblockable this turn.</text>
+    <flavorText>It rolls with the punches.</flavorText>
+  </item>
+  <item>
+    <id>DST0145</id>
+    <name>Spire Golem</name>
+    <text>Affinity for Islands (This spell costs {1} less to cast for each Island you control.)
+Flying</text>
+    <flavorText>The longer it soars above the shimmering swirls of the Quicksilver Sea, the more it adopts their unpredictability.</flavorText>
+  </item>
+  <item>
+    <id>DST0146</id>
+    <name>Sundering Titan</name>
+    <text>When Sundering Titan enters the battlefield or leaves the battlefield, choose a land of each basic land type, then destroy those lands.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0147</id>
+    <name>Surestrike Trident</name>
+    <text>Equipped creature has first strike and "{T}, Unattach Surestrike Trident: This creature deals damage equal to its power to target player."
+Equip {4} ({4}: Attach to target creature you control. Equip only as a sorcery. This card enters the battlefield unattached and stays on the battlefield if the creature leaves.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0148</id>
+    <name>Sword of Fire and Ice</name>
+    <text>Equipped creature gets +2/+2 and has protection from red and from blue.
+Whenever equipped creature deals combat damage to a player, Sword of Fire and Ice deals 2 damage to target creature or player and you draw a card.
+Equip {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0149</id>
+    <name>Sword of Light and Shadow</name>
+    <text>Equipped creature gets +2/+2 and has protection from white and from black.
+Whenever equipped creature deals combat damage to a player, you gain 3 life and you may return up to one target creature card from your graveyard to your hand.
+Equip {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0150</id>
+    <name>Talon of Pain</name>
+    <text>Whenever a source you control other than Talon of Pain deals damage to an opponent, put a charge counter on Talon of Pain.
+{X}, {T}, Remove X charge counters from Talon of Pain: Talon of Pain deals X damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0151</id>
+    <name>Tangle Golem</name>
+    <text>Affinity for Forests (This spell costs {1} less to cast for each Forest you control.)</text>
+    <flavorText>The longer it weaves through the twisted vines of the Tangle, the more it adopts their hidden strength.</flavorText>
+  </item>
+  <item>
+    <id>DST0152</id>
+    <name>Thought Dissector</name>
+    <text>{X}, {T}: Target opponent reveals cards from the top of his or her library until an artifact card or X cards are revealed, whichever comes first. If an artifact card is revealed this way, put it onto the battlefield under your control and sacrifice Thought Dissector. Put the rest of the revealed cards into that player's graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0153</id>
+    <name>Thunderstaff</name>
+    <text>If Thunderstaff is untapped and a creature would deal combat damage to you, prevent 1 of that damage.
+{2}, {T}: Attacking creatures get +1/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0154</id>
+    <name>Trinisphere</name>
+    <text>As long as Trinisphere is untapped, each spell that would cost less than three mana to cast costs three mana to cast. (Additional mana in the cost may be paid with any color of mana or colorless mana. For example, a spell that would cost {1}{B} to cast costs {2}{B} to cast instead.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0155</id>
+    <name>Ur-Golem's Eye</name>
+    <text>{T}: Add {2} to your mana pool.</text>
+    <flavorText>It still stares accusingly at Memnarch, though millennia have passed since he separated the eye from its body.</flavorText>
+  </item>
+  <item>
+    <id>DST0156</id>
+    <name>Voltaic Construct</name>
+    <text>{2}: Untap target artifact creature.</text>
+    <flavorText>The undead may outlast the living, but those who have never lived outlast them both.</flavorText>
+  </item>
+  <item>
+    <id>DST0157</id>
+    <name>Vulshok Morningstar</name>
+    <text>Equipped creature gets +2/+2.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0158</id>
+    <name>Wand of the Elements</name>
+    <text>{T}, Sacrifice an Island: Put a 2/2 blue Elemental creature token with flying onto the battlefield.
+{T}, Sacrifice a Mountain: Put a 3/3 red Elemental creature token onto the battlefield.</text>
+    <flavorText>It gives legs to the earth and wings to the sky.</flavorText>
+  </item>
+  <item>
+    <id>DST0159</id>
+    <name>Well of Lost Dreams</name>
+    <text>Whenever you gain life, you may pay {X}, where X is less than or equal to the amount of life you gained. If you do, draw X cards.</text>
+    <flavorText>Some say the knowledge lost during the Ritual of Rebuking is returned through the well's waters.</flavorText>
+  </item>
+  <item>
+    <id>DST0160</id>
+    <name>Whispersilk Cloak</name>
+    <text>Equipped creature is unblockable.
+Equipped creature has shroud. (It can't be the target of spells or abilities.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0161</id>
+    <name>Wirefly Hive</name>
+    <text>{3}, {T}: Flip a coin. If you win the flip, put a 2/2 colorless Insect artifact creature token with flying named Wirefly onto the battlefield. If you lose the flip, destroy all permanents named Wirefly.</text>
+    <flavorText>"The lifespan of a wirefly can be precisely described as ‘short.'"
+—Bruenna, Neurok leader</flavorText>
+  </item>
+  <item>
+    <id>DST0162</id>
+    <name>Wurm's Tooth</name>
+    <text>Whenever a player casts a green spell, you may gain 1 life.</text>
+    <flavorText>A wurm knows nothing of deception. If it opens its mouth, it plans to eat you.</flavorText>
+  </item>
+  <item>
+    <id>DST0163</id>
+    <name>Blinkmoth Nexus</name>
+    <text>{T}: Add {1} to your mana pool.
+{1}: Blinkmoth Nexus becomes a 1/1 Blinkmoth artifact creature with flying until end of turn. It's still a land.
+{1}, {T}: Target Blinkmoth creature gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>DST0164</id>
+    <name>Darksteel Citadel</name>
+    <text>Darksteel Citadel is indestructible. ("Destroy" effects and lethal damage don't destroy it.)
+{T}: Add {1} to your mana pool.</text>
+    <flavorText>Panopticon, forge of the Darksteel Eye, home of Mirrodin's keeper.</flavorText>
+  </item>
+  <item>
+    <id>DST0165</id>
+    <name>Mirrodin's Core</name>
+    <text>{T}: Add {1} to your mana pool.
+{T}: Put a charge counter on Mirrodin's Core.
+{T}, Remove a charge counter from Mirrodin's Core: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

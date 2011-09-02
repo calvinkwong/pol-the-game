@@ -1,0 +1,2196 @@
+<cards name="Legends">
+  <item>
+    <id>LEG0001</id>
+    <name>Abomination</name>
+    <text>Whenever Abomination blocks or becomes blocked by a green or white creature, destroy that creature at end of combat.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0002</id>
+    <name>Acid Rain</name>
+    <text>Destroy all Forests.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0003</id>
+    <name>Active Volcano</name>
+    <text>Choose one — Destroy target blue permanent; or return target Island to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0004</id>
+    <name>Adun Oakenshield</name>
+    <text>{B}{R}{G}, {T}: Return target creature card from your graveyard to your hand.</text>
+    <flavorText>". . . And at his passing, the bodies of the world's great warriors shall rise from their graves and follow him to battle."The Anvilonian Grimoire</flavorText>
+  </item>
+  <item>
+    <id>LEG0005</id>
+    <name>Adventurers' Guildhouse</name>
+    <text>Green legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0006</id>
+    <name>Ærathi Berserker</name>
+    <text>Rampage 3 (Whenever this creature becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>Ærathi children who show promise are left to survive for a year in the wilderness. Those who return are shown the way of the Berserker</flavorText>
+  </item>
+  <item>
+    <id>LEG0007</id>
+    <name>Aisling Leprechaun</name>
+    <text>Whenever Aisling Leprechaun blocks or becomes blocked by a creature, that creature becomes green. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0008</id>
+    <name>Akron Legionnaire</name>
+    <text>Except for creatures named Akron Legionnaire and artifact creatures, creatures you control can't attack.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0009</id>
+    <name>Al-abara's Carpet</name>
+    <text>{5}, {T}: Prevent all damage that would be dealt to you this turn by attacking creatures without flying.</text>
+    <flavorText>Al-abara simply laughed and lifted one finger, and the carpet carried her high out of our reach.</flavorText>
+  </item>
+  <item>
+    <id>LEG0010</id>
+    <name>Alabaster Potion</name>
+    <text>Choose one — Target player gains X life; or prevent the next X damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>"Healing is a matter of time, but it is sometimes also a matter of opportunity."D'Avenant proverb</flavorText>
+  </item>
+  <item>
+    <id>LEG0011</id>
+    <name>Alchor's Tomb</name>
+    <text>{2}, {T}: Target permanent you control becomes the color of your choice. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0012</id>
+    <name>All Hallow's Eve</name>
+    <text>Exile All Hallow's Eve with two scream counters on it.
+At the beginning of your upkeep, if All Hallow's Eve is exiled with a scream counter on it, remove a scream counter from it. If there are no more scream counters on it, put it into your graveyard and each player returns all creature cards from his or her graveyard to the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0013</id>
+    <name>Amrou Kithkin</name>
+    <text>Amrou Kithkin can't be blocked by creatures with power 3 or greater.</text>
+    <flavorText>Quick and agile, Amrou Kithkin can usually escape from even the most fearsome opponents.</flavorText>
+  </item>
+  <item>
+    <id>LEG0014</id>
+    <name>Angelic Voices</name>
+    <text>Creatures you control get +1/+1 as long as you control no nonartifact, nonwhite creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0015</id>
+    <name>Angus Mackenzie</name>
+    <text>{G}{W}{U}, {T}: Prevent all combat damage that would be dealt this turn. Activate this ability only before the combat damage step.</text>
+    <flavorText>"Battles no longer served a purpose in Karakas."Angus Mackenzie, Diary</flavorText>
+  </item>
+  <item>
+    <id>LEG0016</id>
+    <name>Anti-Magic Aura</name>
+    <text>Enchant creature
+Enchanted creature can't be the target of spells and can't be enchanted. This effect doesn't remove Anti-Magic Aura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0017</id>
+    <name>Arboria</name>
+    <text>Creatures can't attack a player unless that player cast a spell or put a nontoken permanent onto the battlefield during his or her last turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0018</id>
+    <name>Arcades Sabboth</name>
+    <text>Flying
+At the beginning of your upkeep, sacrifice Arcades Sabboth unless you pay {G}{W}{U}.
+Each untapped creature you control gets +0/+2 as long as it's not attacking.
+{W}: Arcades Sabboth gets +0/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0019</id>
+    <name>Arena of the Ancients</name>
+    <text>Legendary creatures don't untap during their controllers' untap steps.
+When Arena of the Ancients enters the battlefield, tap all legendary creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0020</id>
+    <name>Avoid Fate</name>
+    <text>Counter target instant or Aura spell that targets a permanent you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0021</id>
+    <name>Axelrod Gunnarson</name>
+    <text>Trample
+Whenever a creature dealt damage by Axelrod Gunnarson this turn is put into a graveyard, you gain 1 life and Axelrod deals 1 damage to target player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0022</id>
+    <name>Ayesha Tanaka</name>
+    <text>Banding (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)
+{T}: Counter target activated ability from an artifact source unless that ability's controller pays {W}. (Mana abilities can't be targeted.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0023</id>
+    <name>Azure Drake</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)</text>
+    <flavorText>The Azure Drake would be more powerful were it not so easily distracted.</flavorText>
+  </item>
+  <item>
+    <id>LEG0024</id>
+    <name>Backdraft</name>
+    <text>Choose a player who cast one or more sorcery spells this turn. Backdraft deals damage to that player equal to half the damage dealt by one of those sorcery spells this turn, rounded down.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0025</id>
+    <name>Backfire</name>
+    <text>Enchant creature
+Whenever enchanted creature deals damage to you, Backfire deals that much damage to that creature's controller.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0026</id>
+    <name>Barbary Apes</name>
+    <text>
+    </text>
+    <flavorText>Unpredictable in the extreme, these carnivorous apes will prey even upon their own kind.</flavorText>
+  </item>
+  <item>
+    <id>LEG0027</id>
+    <name>Barktooth Warbeard</name>
+    <text>
+    </text>
+    <flavorText>He is devious and cunning, in both appearance and deed. Beware the Warbeard, for this brute bites as well as he barks</flavorText>
+  </item>
+  <item>
+    <id>LEG0028</id>
+    <name>Bartel Runeaxe</name>
+    <text>Vigilance
+Bartel Runeaxe can't be the target of Aura spells.</text>
+    <flavorText>Thundering down from Hammerheim, no foe could slow Bartel's charge.</flavorText>
+  </item>
+  <item>
+    <id>LEG0029</id>
+    <name>Beasts of Bogardan</name>
+    <text>Protection from red
+Beasts of Bogardan gets +1/+1 as long as an opponent controls a white permanent.</text>
+    <flavorText>Bogardan is a land as volatile as the creatures who live there.</flavorText>
+  </item>
+  <item>
+    <id>LEG0030</id>
+    <name>Black Mana Battery</name>
+    <text>{2}, {T}: Put a charge counter on Black Mana Battery.
+
+{T}, Remove any number of charge counters from Black Mana Battery: Add {B} to your mana pool, then add an additional {B} to your mana pool for each charge counter removed this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0031</id>
+    <name>Blazing Effigy</name>
+    <text>When Blazing Effigy is put into a graveyard from the battlefield, Blazing Effigy deals X damage to target creature, where X is 3 plus the amount of damage dealt to Blazing Effigy this turn by other sources named Blazing Effigy.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0032</id>
+    <name>Blight</name>
+    <text>Enchant land
+When enchanted land becomes tapped, destroy it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0033</id>
+    <name>Blood Lust</name>
+    <text>If target creature has toughness 5 or greater, it gets +4/-4 until end of turn. Otherwise, it gets +4/-X until end of turn, where X is its toughness minus 1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0034</id>
+    <name>Blue Mana Battery</name>
+    <text>{2}, {T}: Put a charge counter on Blue Mana Battery.
+
+{T}, Remove any number of charge counters from Blue Mana Battery: Add {U} to your mana pool, then add an additional {U} to your mana pool for each charge counter removed this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0035</id>
+    <name>Boomerang</name>
+    <text>Return target permanent to its owner's hand.</text>
+    <flavorText>"O call back yesterday, bid time return."William Shakespeare, King Richard the Second</flavorText>
+  </item>
+  <item>
+    <id>LEG0036</id>
+    <name>Boris Devilboon</name>
+    <text>{2}{B}{R}, {T}: Put a 1/1 black and red Demon creature token named Minor Demon onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0037</id>
+    <name>Brine Hag</name>
+    <text>When Brine Hag is put into a graveyard from the battlefield, all creatures that dealt damage to it this turn become 0/2. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0038</id>
+    <name>Bronze Horse</name>
+    <text>Trample
+If you control another creature, prevent all damage that would be dealt to Bronze Horse by spells that target it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0039</id>
+    <name>Carrion Ants</name>
+    <text>{1}: Carrion Ants gets +1/+1 until end of turn.</text>
+    <flavorText>"‘War is no picnic,' my father liked to say. But the Ants seemed to disagree."General Chanek Valteroth</flavorText>
+  </item>
+  <item>
+    <id>LEG0040</id>
+    <name>Cat Warriors</name>
+    <text>Forestwalk</text>
+    <flavorText>These stealthy felines have survived so many battles that some believe they must possess many lives.</flavorText>
+  </item>
+  <item>
+    <id>LEG0041</id>
+    <name>Cathedral of Serra</name>
+    <text>White legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0042</id>
+    <name>Caverns of Despair</name>
+    <text>No more than two creatures can attack each combat.
+No more than two creatures can block each combat.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0043</id>
+    <name>Chain Lightning</name>
+    <text>Chain Lightning deals 3 damage to target creature or player. Then that player or that creature's controller may pay {R}{R}. If the player does, he or she may copy this spell and may choose a new target for that copy.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0044</id>
+    <name>Chains of Mephistopheles</name>
+    <text>If a player would draw a card except the first one he or she draws in his or her draw step each turn, that player discards a card instead. If the player discards a card this way, he or she draws a card. If the player doesn't discard a card this way, he or she puts the top card of his or her library into his or her graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0045</id>
+    <name>Chromium</name>
+    <text>Flying
+Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)
+At the beginning of your upkeep, sacrifice Chromium unless you pay {W}{U}{B}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0046</id>
+    <name>Cleanse</name>
+    <text>Destroy all black creatures.</text>
+    <flavorText>The clouds broke and the sun's rays burst forth; each foul beast in its turn faltered, and was gone.</flavorText>
+  </item>
+  <item>
+    <id>LEG0047</id>
+    <name>Clergy of the Holy Nimbus</name>
+    <text>If Clergy of the Holy Nimbus would be destroyed, regenerate it.
+{1}: Clergy of the Holy Nimbus can't be regenerated this turn. Only any opponent may activate this ability.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0048</id>
+    <name>Cocoon</name>
+    <text>Enchant creature you control
+Enchanted creature doesn't untap during your untap step if Cocoon has a pupa counter on it.
+When Cocoon enters the battlefield, tap enchanted creature and put three pupa counters on Cocoon.
+At the beginning of your upkeep, remove a pupa counter from Cocoon. If you can't, sacrifice it and enchanted creature gets +1/+1 and gains flying. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0049</id>
+    <name>Concordant Crossroads</name>
+    <text>All creatures have haste.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0050</id>
+    <name>Cosmic Horror</name>
+    <text>First strike
+At the beginning of your upkeep, destroy Cosmic Horror unless you pay {3}{B}{B}{B}. If Cosmic Horror is destroyed this way, it deals 7 damage to you.</text>
+    <flavorText>"Then flashed the living lightning from her eyes,/ And screams of horror rend th' affrighted skies."
+—Alexander Pope, The Rape of the Lock</flavorText>
+  </item>
+  <item>
+    <id>LEG0051</id>
+    <name>Craw Giant</name>
+    <text>Trample
+Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>Harthag gave a jolly laugh as he surveyed the army before him. "Ho ho ho Midgets You think you can stand in my way?"</flavorText>
+  </item>
+  <item>
+    <id>LEG0052</id>
+    <name>Crevasse</name>
+    <text>Creatures with mountainwalk can be blocked as though they didn't have mountainwalk.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0053</id>
+    <name>Crimson Kobolds</name>
+    <text>Crimson Kobolds is red.</text>
+    <flavorText>"Kobolds are harmless."
+—Bearand the Bold, epitaph</flavorText>
+  </item>
+  <item>
+    <id>LEG0054</id>
+    <name>Crimson Manticore</name>
+    <text>Flying
+{R}, {T}: Crimson Manticore deals 1 damage to target attacking or blocking creature.</text>
+    <flavorText>Noted neither for their good looks nor their charm, Crimson Manticores can be fearsome allies. As dinner companions, however, they are best left alone.</flavorText>
+  </item>
+  <item>
+    <id>LEG0055</id>
+    <name>Crookshank Kobolds</name>
+    <text>Crookshank Kobolds is red.</text>
+    <flavorText>The Crookshank military boasts a standing army of nearly twenty-four million, give or take twenty-two million.</flavorText>
+  </item>
+  <item>
+    <id>LEG0056</id>
+    <name>Cyclopean Mummy</name>
+    <text>When Cyclopean Mummy is put into a graveyard from the battlefield, exile Cyclopean Mummy.</text>
+    <flavorText>The ritual of plucking out an eye to gain future sight is but a curse that enables the living to see their own deaths.</flavorText>
+  </item>
+  <item>
+    <id>LEG0057</id>
+    <name>Dakkon Blackblade</name>
+    <text>Dakkon Blackblade's power and toughness are each equal to the number of lands you control.</text>
+    <flavorText>"My power is as vast as the plains, my strength is that of mountains. Each wave that crashes upon the shore thunders like blood in my veins."Memoirs</flavorText>
+  </item>
+  <item>
+    <id>LEG0058</id>
+    <name>Darkness</name>
+    <text>Prevent all combat damage that would be dealt this turn.</text>
+    <flavorText>"If I must die, I will encounter darkness as a bride,/ And hug it in my arms."William Shakespeare, Measure for Measure</flavorText>
+  </item>
+  <item>
+    <id>LEG0059</id>
+    <name>D'Avenant Archer</name>
+    <text>{T}: D'Avenant Archer deals 1 damage to target attacking or blocking creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0060</id>
+    <name>Deadfall</name>
+    <text>Creatures with forestwalk can be blocked as though they didn't have forestwalk.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0061</id>
+    <name>Demonic Torment</name>
+    <text>Enchant creature
+Enchanted creature can't attack.
+Prevent all combat damage that would be dealt by enchanted creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0062</id>
+    <name>Devouring Deep</name>
+    <text>Islandwalk</text>
+    <flavorText>"Full fathom five thy father lies;/ Of his bones are coral made;/ Those are pearls that were his eyes;/ Nothing of him that doth fade,/ But doth suffer a sea-change/ Into something rich and strange."William Shakespeare, The Tempest</flavorText>
+  </item>
+  <item>
+    <id>LEG0063</id>
+    <name>Disharmony</name>
+    <text>Cast Disharmony only during combat before blockers are declared.
+Untap target attacking creature and remove it from combat. Gain control of that creature until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0064</id>
+    <name>Divine Intervention</name>
+    <text>Divine Intervention enters the battlefield with two intervention counters on it.
+At the beginning of your upkeep, remove an intervention counter from Divine Intervention.
+When you remove the last intervention counter from Divine Intervention, the game is a draw.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0065</id>
+    <name>Divine Offering</name>
+    <text>Destroy target artifact. You gain life equal to its converted mana cost.</text>
+    <flavorText>D'Haren stared at the twisted lump of metal that had been a prized artifact. The fight was getting ugly.</flavorText>
+  </item>
+  <item>
+    <id>LEG0066</id>
+    <name>Divine Transformation</name>
+    <text>Enchant creature
+Enchanted creature gets +3/+3.</text>
+    <flavorText>Glory surged through her and radiance surrounded her. All things were possible with the blessing of the Divine.</flavorText>
+  </item>
+  <item>
+    <id>LEG0067</id>
+    <name>Dream Coat</name>
+    <text>Enchant creature
+{0}: Enchanted creature becomes the color or colors of your choice. Activate this ability only once each turn.</text>
+    <flavorText>"Adopt the character of the twisting octopus, which takes on the appearance of the nearby rock. Now follow in this direction, now turn a different hue."Theognis, Elegies 1, 215</flavorText>
+  </item>
+  <item>
+    <id>LEG0068</id>
+    <name>Durkwood Boars</name>
+    <text>
+    </text>
+    <flavorText>"And the unclean spirits went out, and entered the swine; and the herd ran violently . . ."Mark 5:13</flavorText>
+  </item>
+  <item>
+    <id>LEG0069</id>
+    <name>Dwarven Song</name>
+    <text>Any number of target creatures become red until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0070</id>
+    <name>Elder Land Wurm</name>
+    <text>Defender, trample
+When Elder Land Wurm blocks, it loses defender.</text>
+    <flavorText>Sometimes it's best to let sleeping dragons lie.</flavorText>
+  </item>
+  <item>
+    <id>LEG0071</id>
+    <name>Elder Spawn</name>
+    <text>At the beginning of your upkeep, unless you sacrifice an Island, sacrifice Elder Spawn and it deals 6 damage to you.
+Elder Spawn can't be blocked by red creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0072</id>
+    <name>Elven Riders</name>
+    <text>Elven Riders can't be blocked except by Walls and/or creatures with flying.</text>
+    <flavorText>"Sometimes it is better to be swift of foot than strong of swordarm."Eleven Proverb</flavorText>
+  </item>
+  <item>
+    <id>LEG0073</id>
+    <name>Emerald Dragonfly</name>
+    <text>Flying
+{G}{G}: Emerald Dragonfly gains first strike until end of turn.</text>
+    <flavorText>"Flittering, wheeling,/ darting in to strike, and then/ gone just as you blink."
+—"Dragonfly Haiku," poet unkown</flavorText>
+  </item>
+  <item>
+    <id>LEG0074</id>
+    <name>Enchanted Being</name>
+    <text>Prevent all combat damage that would be dealt to Enchanted Being by enchanted creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0075</id>
+    <name>Enchantment Alteration</name>
+    <text>Attach target Aura attached to a creature or land to another permanent of that type.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0076</id>
+    <name>Energy Tap</name>
+    <text>Tap target untapped creature you control. If you do, add {X} to your mana pool, where X is that creature's converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0077</id>
+    <name>Equinox</name>
+    <text>Enchant land
+Enchanted land has "{T}: Counter target spell if it would destroy a land you control."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0078</id>
+    <name>Eternal Warrior</name>
+    <text>Enchant creature
+Enchanted creature has vigilance.</text>
+    <flavorText>Warriors of the Tsunami-nito School spend years in training to master the way of effortless effort.</flavorText>
+  </item>
+  <item>
+    <id>LEG0079</id>
+    <name>Eureka</name>
+    <text>Starting with you, each player may put a permanent card from his or her hand onto the battlefield. Repeat this process until no one puts a card onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0080</id>
+    <name>Evil Eye of Orms-by-Gore</name>
+    <text>Non-Eye creatures you control can't attack.
+Evil Eye of Orms-by-Gore can't be blocked except by Walls.</text>
+    <flavorText>"The highway of fear is the shortest route to defeat."</flavorText>
+  </item>
+  <item>
+    <id>LEG0081</id>
+    <name>Fallen Angel</name>
+    <text>Flying
+Sacrifice a creature: Fallen Angel gets +2/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0082</id>
+    <name>Falling Star</name>
+    <text>Flip Falling Star onto the playing area from a height of at least one foot. Falling Star deals 3 damage to each creature it lands on. Tap all creatures dealt damage by Falling Star. If Falling Star doesn't turn completely over at least once during the flip, it has no effect.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0083</id>
+    <name>Feint</name>
+    <text>Tap all creatures blocking target attacking creature. Prevent all combat damage that would be dealt this turn by that creature and each creature blocking it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0084</id>
+    <name>Field of Dreams</name>
+    <text>Players play with the top card of their libraries revealed.</text>
+    <flavorText>Some people say that the world is round, and if you travel far enough you'll come to the other side, where everything is upside down.</flavorText>
+  </item>
+  <item>
+    <id>LEG0085</id>
+    <name>Fire Sprites</name>
+    <text>Flying
+{G}, {T}: Add {R} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0086</id>
+    <name>Firestorm Phoenix</name>
+    <text>Flying
+If Firestorm Phoenix would be put into a graveyard from the battlefield, return Firestorm Phoenix to its owner's hand instead. Until that player's next turn, that player plays with that card revealed in his or her hand and can't play it.</text>
+    <flavorText>"The bird of wonder dies, the maiden phoenix,/ Her ashes new-create another heir/ As great in admiration as herself."William Shakespeare, King Henry the Eighth.</flavorText>
+  </item>
+  <item>
+    <id>LEG0087</id>
+    <name>Flash Counter</name>
+    <text>Counter target instant spell.</text>
+    <flavorText>"She grinned at me—a wicked grin. ‘I hope you weren't relying too heavily on that, my dear.'"Medryn Silverwand, Diary</flavorText>
+  </item>
+  <item>
+    <id>LEG0088</id>
+    <name>Flash Flood</name>
+    <text>Choose one — Destroy target red permanent; or return target Mountain to its owner's hand.</text>
+    <flavorText>Many people say that no power can bring the mountains low. Many people are fools.</flavorText>
+  </item>
+  <item>
+    <id>LEG0089</id>
+    <name>Floral Spuzzem</name>
+    <text>Whenever Floral Spuzzem attacks and isn't blocked, you may destroy target artifact defending player controls. If you do, Floral Spuzzem assigns no combat damage this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0090</id>
+    <name>Force Spike</name>
+    <text>Counter target spell unless its controller pays {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0091</id>
+    <name>Forethought Amulet</name>
+    <text>At the beginning of your upkeep, sacrifice Forethought Amulet unless you pay {3}.
+If an instant or sorcery source would deal 3 or more damage to you, it deals 2 damage to you instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0092</id>
+    <name>Fortified Area</name>
+    <text>Wall creatures you control get +1/+0 and have banding. (Any creatures with banding, and up to one without, can attack in a band. Bands are blocked as a group. If any creatures with banding you control are blocking or being blocked by a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0093</id>
+    <name>Frost Giant</name>
+    <text>Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>The Frost Giants have been out in the cold a long, long time, but they have their rage to keep them warm.</flavorText>
+  </item>
+  <item>
+    <id>LEG0094</id>
+    <name>Gabriel Angelfire</name>
+    <text>At the beginning of your upkeep, choose flying, first strike, trample, or rampage 3. Gabriel Angelfire gains that ability until your next upkeep. (Whenever a creature with rampage 3 becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0095</id>
+    <name>Gaseous Form</name>
+    <text>Enchant creature
+Prevent all combat damage that would be dealt to and dealt by enchanted creature.</text>
+    <flavorText>". . . And gives to airy nothing/ A local habitation and a name."William Shakespeare, A Midsummer-Night's Dream</flavorText>
+  </item>
+  <item>
+    <id>LEG0096</id>
+    <name>Gauntlets of Chaos</name>
+    <text>{5}, Sacrifice Gauntlets of Chaos: Exchange control of target artifact, creature, or land you control and target permanent an opponent controls that shares one of those types with it. If those permanents are exchanged this way, destroy all Auras attached to them.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0097</id>
+    <name>Ghosts of the Damned</name>
+    <text>{T}: Target creature gets -1/-0 until end of turn.</text>
+    <flavorText>The voices of the dead ring in the heart long after they have faded from the ears.</flavorText>
+  </item>
+  <item>
+    <id>LEG0098</id>
+    <name>Giant Slug</name>
+    <text>{5}: At the beginning of your next upkeep, choose a basic land type. Giant Slug gains landwalk of the chosen type until the end of that turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0099</id>
+    <name>Giant Strength</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+2.</text>
+    <flavorText>"O it is excellent/ To have a giant's strength, but it is tyrannous/ To use it like a giant."William Shakespeare, Measure for Measure</flavorText>
+  </item>
+  <item>
+    <id>LEG0100</id>
+    <name>Giant Turtle</name>
+    <text>Giant Turtle can't attack if it attacked during your last turn.</text>
+    <flavorText>"The turtle lives 'twixt plated decks/ Which practically conceal its sex./ I think it clever of the turtle/ In such a fix to be so fertile."Ogden Nash, "The Turtle"</flavorText>
+  </item>
+  <item>
+    <id>LEG0101</id>
+    <name>Glyph of Delusion</name>
+    <text>Put X glyph counters on target creature that target Wall blocked this turn, where X is the power of that blocked creature. The creature gains "This creature doesn't untap during your untap step if it has a glyph counter on it" and "At the beginning of your upkeep, remove a glyph counter from this creature."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0102</id>
+    <name>Glyph of Destruction</name>
+    <text>Target blocking Wall you control gets +10/+0 until end of combat. Prevent all damage that would be dealt to it this turn. Destroy it at the beginning of the next end step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0103</id>
+    <name>Glyph of Doom</name>
+    <text>At end of combat, destroy all creatures that were blocked by target Wall this turn.</text>
+    <flavorText>"He knows he has a short span of life, that the day will come when he must pass through the wall of oblivion . . ."William Faulkner</flavorText>
+  </item>
+  <item>
+    <id>LEG0104</id>
+    <name>Glyph of Life</name>
+    <text>Until end of turn, whenever an attacking creature deals damage to target Wall creature, you gain that much life.</text>
+    <flavorText>Any wall can be battered down, but at what cost?</flavorText>
+  </item>
+  <item>
+    <id>LEG0105</id>
+    <name>Glyph of Reincarnation</name>
+    <text>Cast Glyph of Reincarnation only during the end of combat step.
+Destroy all creatures that were blocked by target Wall this turn. They can't be regenerated. For each creature put into a graveyard this way, choose a creature card from the graveyard of that creature's controller and return that card to the battlefield under its owner's control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0106</id>
+    <name>Gosta Dirk</name>
+    <text>First strike
+Creatures with islandwalk can be blocked as though they didn't have islandwalk.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0107</id>
+    <name>Gravity Sphere</name>
+    <text>All creatures lose flying.</text>
+    <flavorText>On the morning of the Battle of Gal-Shan, the Sorcerer's cry rang out: "Let no bird fly, let no creature take wing, let all the battle join as one."</flavorText>
+  </item>
+  <item>
+    <id>LEG0108</id>
+    <name>Great Defender</name>
+    <text>Target creature gets +0/+X until end of turn, where X is its converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0109</id>
+    <name>Great Wall</name>
+    <text>Creatures with plainswalk can be blocked as though they didn't have plainswalk.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0110</id>
+    <name>Greater Realm of Preservation</name>
+    <text>{1}{W}: The next time a black or red source of your choice would deal damage to you this turn, prevent that damage.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0111</id>
+    <name>Greed</name>
+    <text>{B}, Pay 2 life: Draw a card.</text>
+    <flavorText>"There is no calamity greater than lavish desires./ There is no greater guilt than discontentment./ And there is no greater disaster than greed."Tao Tê Ching 46</flavorText>
+  </item>
+  <item>
+    <id>LEG0112</id>
+    <name>Green Mana Battery</name>
+    <text>{2}, {T}: Put a charge counter on Green Mana Battery.
+
+{T}, Remove any number of charge counters from Green Mana Battery: Add {G} to your mana pool, then add an additional {G} to your mana pool for each charge counter removed this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0113</id>
+    <name>Gwendlyn Di Corci</name>
+    <text>{T}: Target player discards a card at random. Activate this ability only during your turn.</text>
+    <flavorText>Urborg became the final resting place of many swordsmen of renown, their steel outmatched by the wiles of Gwendlyn.</flavorText>
+  </item>
+  <item>
+    <id>LEG0114</id>
+    <name>Halfdane</name>
+    <text>At the beginning of your upkeep, Halfdane's power and toughness become equal to the power and toughness of target creature other than Halfdane until the end of your next upkeep.</text>
+    <flavorText>Hail from Tolaria the ever changing 'Dane.</flavorText>
+  </item>
+  <item>
+    <id>LEG0115</id>
+    <name>Hammerheim</name>
+    <text>{T}: Add {R} to your mana pool.
+
+{T}: Target creature loses all landwalk abilities until end of turn.</text>
+    <flavorText>"‘Tis distance lends enchantment to the view,/ And robes the mountain in its azure hue."Thomas Campbell, "Pleasures of Hope"</flavorText>
+  </item>
+  <item>
+    <id>LEG0116</id>
+    <name>Hazezon Tamar</name>
+    <text>When Hazezon Tamar enters the battlefield, put X 1/1 Sand Warrior creature tokens that are red, green, and white onto the battlefield at the beginning of your next upkeep, where X is the number of lands you control at that time.
+When Hazezon leaves the battlefield, exile all Sand Warriors.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0117</id>
+    <name>Headless Horseman</name>
+    <text>
+    </text>
+    <flavorText>". . . The ghost rides forth to the scene of battle in nightly quest of his head . . . he sometimes passes along the Hollow, like a midnight blast . . ."Washington Irving, The Legend of Sleepy Hollow</flavorText>
+  </item>
+  <item>
+    <id>LEG0118</id>
+    <name>Heaven's Gate</name>
+    <text>Any number of target creatures become white until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0119</id>
+    <name>Hell Swarm</name>
+    <text>All creatures get -1/-0 until end of turn.</text>
+    <flavorText>The brightness of day turned in an instant to dusk as the swarm descended upon the battlefield.</flavorText>
+  </item>
+  <item>
+    <id>LEG0120</id>
+    <name>Hellfire</name>
+    <text>Destroy all nonblack creatures. Hellfire deals X plus 3 damage to you, where X is the number of creatures put into all graveyards this way.</text>
+    <flavorText>"High on a throne of royal state . . . insatiate to pursue vain war with heav'n."John Milton, Paradise Lost</flavorText>
+  </item>
+  <item>
+    <id>LEG0121</id>
+    <name>Hell's Caretaker</name>
+    <text>{T}, Sacrifice a creature: Return target creature card from your graveyard to the battlefield. Activate this ability only during your upkeep.</text>
+    <flavorText>You might leave here, Chenndra, should another take your place . . . .</flavorText>
+  </item>
+  <item>
+    <id>LEG0122</id>
+    <name>Holy Day</name>
+    <text>Prevent all combat damage that would be dealt this turn.</text>
+    <flavorText>"The day of spirits; my soul's clam retreat/ Which none disturb"Henry Vaughan, "Silex Scintillans"</flavorText>
+  </item>
+  <item>
+    <id>LEG0123</id>
+    <name>Horn of Deafening</name>
+    <text>{2}, {T}: Prevent all combat damage that would be dealt by target creature this turn.</text>
+    <flavorText>"A blast, an echo . . . then silence."</flavorText>
+  </item>
+  <item>
+    <id>LEG0124</id>
+    <name>Hornet Cobra</name>
+    <text>First strike</text>
+    <flavorText>"Then inch by inch out of the grass rose up the head and spread hood of Nag, the big black cobra, and he was five feet long from tongue to tail."Rudyard Kipling, The Jungle Books</flavorText>
+  </item>
+  <item>
+    <id>LEG0125</id>
+    <name>Horror of Horrors</name>
+    <text>Sacrifice a Swamp: Regenerate target black creature. (The next time that creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>"And a horror of outer darkness after,/
+And dust returneth to dust again."Adam Lindsay Gordon, The Swimmer</flavorText>
+  </item>
+  <item>
+    <id>LEG0126</id>
+    <name>Hunding Gjornersen</name>
+    <text>Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>"You would never guess, at the terrifying sight of the man, that Hunding was as charming a companion as one could wish for."</flavorText>
+  </item>
+  <item>
+    <id>LEG0127</id>
+    <name>Hyperion Blacksmith</name>
+    <text>{T}: You may tap or untap target artifact an opponent controls.</text>
+    <flavorText>"The smith a mighty man is he/ With large and sinewy hands./ And the muscles of his brawny arms/ Are strong as iron bands."Henry Wadsworth Longfellow, The Village Blacksmith</flavorText>
+  </item>
+  <item>
+    <id>LEG0128</id>
+    <name>Ichneumon Druid</name>
+    <text>Whenever an opponent casts an instant spell other than the first instant spell that player casts each turn, Ichneumon Druid deals 4 damage to him or her.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0129</id>
+    <name>Immolation</name>
+    <text>Enchant creature
+Enchanted creature gets +2/-2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0130</id>
+    <name>Imprison</name>
+    <text>Enchant creature
+Whenever a player activates an ability of enchanted creature with {T} in its activation cost that isn't a mana ability, you may pay {1}. If you do, counter that ability. If you don't, destroy Imprison.
+Whenever enchanted creature attacks or blocks, you may pay {1}. If you do, tap the creature and remove it from combat. Creatures it was blocking that had become blocked by only that creature this combat become unblocked. If you don't pay {1}, destroy Imprison.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0131</id>
+    <name>In the Eye of Chaos</name>
+    <text>Whenever a player casts an instant spell, counter it unless that player pays {X}, where X is its converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0132</id>
+    <name>Indestructible Aura</name>
+    <text>Prevent all damage that would be dealt to target creature this turn.</text>
+    <flavorText>Theodar strode the battle lines, snatching swords with his bare hands and casting them aside until all cowered before him.</flavorText>
+  </item>
+  <item>
+    <id>LEG0133</id>
+    <name>Infernal Medusa</name>
+    <text>Whenever Infernal Medusa blocks a creature, destroy that creature at end of combat.
+Whenever Infernal Medusa becomes blocked by a non-Wall creature, destroy that creature at end of combat.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0134</id>
+    <name>Infinite Authority</name>
+    <text>Enchant creature
+Whenever enchanted creature blocks or becomes blocked by a creature with toughness 3 or less, destroy the other creature at end of combat. At the beginning of the next end step, if that creature was put into a graveyard this way, put a +1/+1 counter on the first creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0135</id>
+    <name>Invoke Prejudice</name>
+    <text>Whenever an opponent casts a creature spell that doesn't share a color with a creature you control, counter that spell unless its controller pays {X}, where X is its converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0136</id>
+    <name>Ivory Guardians</name>
+    <text>Protection from red
+Creatures named Ivory Guardians get +1/+1 as long as an opponent controls a nontoken red permanent.</text>
+    <flavorText>The elite guard of the Mesa High Priests, the Ivory Guardians, were created to protect the innocent and faithful. Some say their actions are above the law.</flavorText>
+  </item>
+  <item>
+    <id>LEG0137</id>
+    <name>Jacques le Vert</name>
+    <text>Green creatures you control get +0/+2.</text>
+    <flavorText>Abandoning his sword to return to the lush forest of Pendelhaven, Jacques le Vert devoted his life to protecting the creatures of his homeland.</flavorText>
+  </item>
+  <item>
+    <id>LEG0138</id>
+    <name>Jasmine Boreal</name>
+    <text>
+    </text>
+    <flavorText>"Peace must prevail, even if the wicked must die."</flavorText>
+  </item>
+  <item>
+    <id>LEG0139</id>
+    <name>Jedit Ojanen</name>
+    <text>
+    </text>
+    <flavorText>Mightiest of the Cat Warriors, Jedit Ojanen forsook the forests of his tribe and took service with the Robaran Mercenaries, rising through their ranks to lead them in the battle for Efrava.</flavorText>
+  </item>
+  <item>
+    <id>LEG0140</id>
+    <name>Jerrard of the Closed Fist</name>
+    <text>
+    </text>
+    <flavorText>Once, the order of the Closed Fist reached throughout the Kb'Briann Highlands. Now, Jerrard alone remains to uphold their standard.</flavorText>
+  </item>
+  <item>
+    <id>LEG0141</id>
+    <name>Johan</name>
+    <text>At the beginning of combat on your turn, you may have Johan gain "Johan can't attack" until end of combat. If you do, attacking doesn't cause creatures you control to tap this combat if Johan is untapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0142</id>
+    <name>Jovial Evil</name>
+    <text>Jovial Evil deals X damage to target opponent, where X is twice the number of white creatures that player controls.</text>
+    <flavorText>"Today, for a lark, let's visit the plains. I'm sure we'll find something to entertain us."</flavorText>
+  </item>
+  <item>
+    <id>LEG0143</id>
+    <name>Juxtapose</name>
+    <text>You and target player exchange control of the creature you each control with the highest converted mana cost. Then exchange control of artifacts the same way. If two or more permanents a player controls are tied for highest cost, their controller chooses one of them.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0144</id>
+    <name>Karakas</name>
+    <text>{T}: Add {W} to your mana pool.
+{T}: Return target legendary creature to its owner's hand.</text>
+    <flavorText>"To make a prairie it takes a clover and one bee,/ One clover, and a bee,/ And revery."Emily Dickinson</flavorText>
+  </item>
+  <item>
+    <id>LEG0145</id>
+    <name>Kasimir the Lone Wolf</name>
+    <text>
+    </text>
+    <flavorText>Popular indeed is the tale of how Kasimir was once a Holy man who renounced his order to take up the sword. But this tale is no more likely than any other.</flavorText>
+  </item>
+  <item>
+    <id>LEG0146</id>
+    <name>Keepers of the Faith</name>
+    <text>
+    </text>
+    <flavorText>And then the Archangel Anthius spoke to them, saying, "Fear shall be vanquished—by the Sword of Faith."</flavorText>
+  </item>
+  <item>
+    <id>LEG0147</id>
+    <name>Kei Takahashi</name>
+    <text>{T}: Prevent the next 2 damage that would be dealt to target creature this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0148</id>
+    <name>Killer Bees</name>
+    <text>Flying
+{G}: Killer Bees gets +1/+1 until end of turn.</text>
+    <flavorText>The communal mind produces a savage strategy, yet no one could predict that this vicious crossbreed would unravel the secret of steel.</flavorText>
+  </item>
+  <item>
+    <id>LEG0149</id>
+    <name>Kismet</name>
+    <text>Artifacts, creatures, and lands your opponents control enter the battlefield tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0150</id>
+    <name>Knowledge Vault</name>
+    <text>{2}, {T}: Exile the top card of your library face down.
+{0}: Sacrifice Knowledge Vault. If you do, discard your hand, then put all cards exiled with Knowledge Vault into their owner's hand.
+When Knowledge Vault leaves the battlefield, put all cards exiled with Knowledge Vault into their owner's graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0151</id>
+    <name>Kobold Drill Sergeant</name>
+    <text>Other Kobold creatures you control get +0/+1 and have trample.</text>
+    <flavorText>"Joining this army is easy, boy. Just survive your first battle."</flavorText>
+  </item>
+  <item>
+    <id>LEG0152</id>
+    <name>Kobold Overlord</name>
+    <text>First strike
+Other Kobold creatures you control have first strike.</text>
+    <flavorText>"One for all, all for one; we strike first, and then you're done"Oath of the Kobold Musketeers</flavorText>
+  </item>
+  <item>
+    <id>LEG0153</id>
+    <name>Kobold Taskmaster</name>
+    <text>Other Kobold creatures you control get +1/+0.</text>
+    <flavorText>The Taskmaster knows that there is no cure for the common Kobold.</flavorText>
+  </item>
+  <item>
+    <id>LEG0154</id>
+    <name>Kobolds of Kher Keep</name>
+    <text>Kobolds of Kher Keep is red.</text>
+    <flavorText>Kher Keep is unique among fortresses: impervious to aerial assault but defenseless from the ground.</flavorText>
+  </item>
+  <item>
+    <id>LEG0155</id>
+    <name>Kry Shield</name>
+    <text>{2}, {T}: Prevent all damage that would be dealt this turn by target creature you control. That creature gets +0/+X until end of turn, where X is its converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0156</id>
+    <name>Lady Caleria</name>
+    <text>{T}: Lady Caleria deals 3 damage to target attacking or blocking creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0157</id>
+    <name>Lady Evangela</name>
+    <text>{W}{B}, {T}: Prevent all combat damage that would be dealt by target creature this turn.</text>
+    <flavorText>"When milady was young, the sight of a rainbow would fill her soul with peace. As she grew, she learned to share her rapture with others."Lady Gabriella</flavorText>
+  </item>
+  <item>
+    <id>LEG0158</id>
+    <name>Lady Orca</name>
+    <text>
+    </text>
+    <flavorText>"I do not remember what he said to her. I remember her fiery eyes, fixed upon him for an instant. I remember a flash, and the hot breath of sudden flames made me turn away. When I looked again, Angus was gone."A Wayfarer, on meeting Lady Orca</flavorText>
+  </item>
+  <item>
+    <id>LEG0159</id>
+    <name>Land Equilibrium</name>
+    <text>If an opponent who controls at least as many lands as you do would put a land onto the battlefield, that player instead puts that land onto the battlefield then sacrifices a land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0160</id>
+    <name>Land Tax</name>
+    <text>At the beginning of your upkeep, if an opponent controls more lands than you, you may search your library for up to three basic land cards, reveal them, and put them into your hand. If you do, shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0161</id>
+    <name>Land's Edge</name>
+    <text>Discard a card: If the discarded card is a land card, Land's Edge deals 2 damage to target player. Any player may activate this ability.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0162</id>
+    <name>Lesser Werewolf</name>
+    <text>{B}: If Lesser Werewolf's power is 1 or more, it gets -1/-0 until end of turn and put a -0/-1 counter on target creature blocking or blocked by Lesser Werewolf. Activate this ability only during the declare blockers step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0163</id>
+    <name>Life Chisel</name>
+    <text>Sacrifice a creature: You gain life equal to the sacrificed creature's toughness. Activate this ability only during your upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0164</id>
+    <name>Life Matrix</name>
+    <text>{4}, {T}: Put a matrix counter on target creature and that creature gains "Remove a matrix counter from this creature: Regenerate this creature." Activate this ability only during your upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0165</id>
+    <name>Lifeblood</name>
+    <text>Whenever a Mountain an opponent controls becomes tapped, you gain 1 life.</text>
+    <flavorText>"Foolish wizard As you tap the power of your lofty keep, so grows my strength."Malvern Xelionos, Letters</flavorText>
+  </item>
+  <item>
+    <id>LEG0166</id>
+    <name>Living Plane</name>
+    <text>All lands are 1/1 creatures that are still lands.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0167</id>
+    <name>Livonya Silone</name>
+    <text>First strike, legendary landwalk</text>
+    <flavorText>Livonya's own nature is a matter of mystery. Nothing is known for sure, merely rumors of unearthly stealth, and unholy alliances.</flavorText>
+  </item>
+  <item>
+    <id>LEG0168</id>
+    <name>Lord Magnus</name>
+    <text>First strike
+Creatures with plainswalk can be blocked as though they didn't have plainswalk.
+Creatures with forestwalk can be blocked as though they didn't have forestwalk.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0169</id>
+    <name>Lost Soul</name>
+    <text>Swampwalk</text>
+    <flavorText>She walks in the twilight, her steps make no sound,/ Her feet leave no tracks on the dew-covered ground./ Her hand gently beckons, she whispers your name—/ But those who go with her are never the same.</flavorText>
+  </item>
+  <item>
+    <id>LEG0170</id>
+    <name>Mana Drain</name>
+    <text>Counter target spell. At the beginning of your next main phase, add {X} to your mana pool, where X is that spell's converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0171</id>
+    <name>Mana Matrix</name>
+    <text>Instant and enchantment spells you cast cost up to {2} less to cast.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0172</id>
+    <name>Marble Priest</name>
+    <text>All Walls able to block Marble Priest do so.
+Prevent all combat damage that would be dealt to Marble Priest by Walls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0173</id>
+    <name>Marhault Elsdragon</name>
+    <text>Rampage 1 (Whenever this creature becomes blocked, it gets +1/+1 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>Marhault follows a strict philosophy, never letting emotions cloud his thoughts. No chance observer could imagine the rage in his heart.</flavorText>
+  </item>
+  <item>
+    <id>LEG0174</id>
+    <name>Master of the Hunt</name>
+    <text>{2}{G}{G}: Put a 1/1 green Wolf creature token named Wolves of the Hunt onto the battlefield. It has "bands with other creatures named Wolves of the Hunt." (Any creatures named Wolves of the Hunt can attack in a band as long as at least one has "bands with other creatures named Wolves of the Hunt." Bands are blocked as a group. If at least two creatures named Wolves of the Hunt you control, one of which has "bands with other creatures named Wolves of the Hunt," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0175</id>
+    <name>Mirror Universe</name>
+    <text>{T}, Sacrifice Mirror Universe: Exchange life totals with target opponent. Activate this ability only during your upkeep.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0176</id>
+    <name>Moat</name>
+    <text>Creatures without flying can't attack.</text>
+    <flavorText>The purpose of any moat is to impede attack. Some are filled with water, some with thistles. Some are filled with things best left unseen.</flavorText>
+  </item>
+  <item>
+    <id>LEG0177</id>
+    <name>Mold Demon</name>
+    <text>When Mold Demon enters the battlefield, sacrifice it unless you sacrifice two Swamps.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0178</id>
+    <name>Moss Monster</name>
+    <text>
+    </text>
+    <flavorText>After the battle, an eerie silence gripped the forest. The losers' remains were lightly dusted with green.</flavorText>
+  </item>
+  <item>
+    <id>LEG0179</id>
+    <name>Mountain Stronghold</name>
+    <text>Red legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0180</id>
+    <name>Mountain Yeti</name>
+    <text>Mountainwalk, protection from white</text>
+    <flavorText>The Yeti's single greatest asset is its unnerving ability to blend in with its surroundings.</flavorText>
+  </item>
+  <item>
+    <id>LEG0181</id>
+    <name>Nebuchadnezzar</name>
+    <text>{X}, {T}: Name a card. Target opponent reveals X cards at random from his or her hand. Then that player discards all cards with that name revealed this way. Activate this ability only during your turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0182</id>
+    <name>Nether Void</name>
+    <text>Whenever a player casts a spell, counter it unless its controller pays {3}.</text>
+    <flavorText>These days, some wizards are finding that they have a little too much spell left at the end of their mana.</flavorText>
+  </item>
+  <item>
+    <id>LEG0183</id>
+    <name>Nicol Bolas</name>
+    <text>Flying
+At the beginning of your upkeep, sacrifice Nicol Bolas unless you pay {U}{B}{R}.
+Whenever Nicol Bolas deals damage to an opponent, that player discards his or her hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0184</id>
+    <name>North Star</name>
+    <text>{4}, {T}: For one spell this turn, you may spend mana as though it were mana of any color to pay that spell's mana cost. (Additional costs are still paid normally.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0185</id>
+    <name>Nova Pentacle</name>
+    <text>{3}, {T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to target creature of an opponent's choice instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0186</id>
+    <name>Osai Vultures</name>
+    <text>Flying
+At the beginning of each end step, if a creature was put into a graveyard from the battlefield this turn, put a carrion counter on Osai Vultures.
+Remove two carrion counters from Osai Vultures: Osai Vultures gets +1/+1 until end of turn.</text>
+    <flavorText>A sign of battle, the Vultures circle and wait for the victorious to depart.</flavorText>
+  </item>
+  <item>
+    <id>LEG0187</id>
+    <name>Palladia-Mors</name>
+    <text>Flying, trample
+At the beginning of your upkeep, sacrifice Palladia-Mors unless you pay {R}{G}{W}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0188</id>
+    <name>Part Water</name>
+    <text>X target creatures gain islandwalk until end of turn.</text>
+    <flavorText>". . . and the waters were a wall unto them on their right hand, and on their left."Exodus, 14:22</flavorText>
+  </item>
+  <item>
+    <id>LEG0189</id>
+    <name>Pavel Maliki</name>
+    <text>{B}{R}: Pavel Maliki gets +1/+0 until end of turn.</text>
+    <flavorText>We all know the legend: Pavel wanders the realms, helping those in greatest need. But is this a measure of his generosity, or of his obligation to atone?</flavorText>
+  </item>
+  <item>
+    <id>LEG0190</id>
+    <name>Pendelhaven</name>
+    <text>{T}: Add {G} to your mana pool.
+{T}: Target 1/1 creature gets +1/+2 until end of turn.</text>
+    <flavorText>"This is the forest primeval. The murmuring pines and the hemlocks . . . / Stand like Druids of old."Henry Wadsworth
+Longfellow, "Evangeline"</flavorText>
+  </item>
+  <item>
+    <id>LEG0191</id>
+    <name>Petra Sphinx</name>
+    <text>{T}: Target player names a card, then reveals the top card of his or her library. If that card is the named card, that player puts it into his or her hand. If it isn't, the player puts it into his or her graveyard.</text>
+    <flavorText>What walks on four legs in the morning, two legs in the afternoon, and three legs in the evening?</flavorText>
+  </item>
+  <item>
+    <id>LEG0192</id>
+    <name>Pit Scorpion</name>
+    <text>Whenever Pit Scorpion deals damage to a player, that player gets a poison counter. (A player with ten or more poison counters loses the game.)</text>
+    <flavorText>Sometimes the smallest nuisance can be the greatest pain.</flavorText>
+  </item>
+  <item>
+    <id>LEG0193</id>
+    <name>Pixie Queen</name>
+    <text>Flying
+{G}{G}{G}, {T}: Target creature gains flying until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0194</id>
+    <name>Planar Gate</name>
+    <text>Creature spells you cast cost up to {2} less to cast.</text>
+    <flavorText>Nireya reached through the Gate, sensing the energies trapped beyond.</flavorText>
+  </item>
+  <item>
+    <id>LEG0195</id>
+    <name>Pradesh Gypsies</name>
+    <text>{1}{G}, {T}: Target creature gets -2/-0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0196</id>
+    <name>Presence of the Master</name>
+    <text>Whenever a player casts an enchantment spell, counter it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0197</id>
+    <name>Primordial Ooze</name>
+    <text>Primordial Ooze attacks each turn if able.
+At the beginning of your upkeep, put a +1/+1 counter on Primordial Ooze. Then you may pay {X}, where X is the number of +1/+1 counters on it. If you don't, tap Primordial Ooze and it deals X damage to you.</text>
+    <flavorText>The thick, moving mass from the beginning of evolution swallows and digests the animate and inanimate as it unthinkingly strives to continue its existence.</flavorText>
+  </item>
+  <item>
+    <id>LEG0198</id>
+    <name>Princess Lucrezia</name>
+    <text>{T}: Add {U} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0199</id>
+    <name>Psionic Entity</name>
+    <text>{T}: Psionic Entity deals 2 damage to target creature or player and 3 damage to itself.</text>
+    <flavorText>Creatures of the Æther are notorious for neglecting their own well-being.</flavorText>
+  </item>
+  <item>
+    <id>LEG0200</id>
+    <name>Psychic Purge</name>
+    <text>Psychic Purge deals 1 damage to target creature or player.
+When a spell or ability an opponent controls causes you to discard Psychic Purge, that player loses 5 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0201</id>
+    <name>Puppet Master</name>
+    <text>Enchant creature
+When enchanted creature is put into a graveyard, return that card to its owner's hand. If that card is returned to its owner's hand this way, you may pay {U}{U}{U}. If you do, return Puppet Master from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0202</id>
+    <name>Pyrotechnics</name>
+    <text>Pyrotechnics deals 4 damage divided as you choose among any number of target creatures and/or players.</text>
+    <flavorText>"Hi ni ya Behold the man of flint, that's me Four lightnings zigzag from me, strike and return."
+—Navajo war chant</flavorText>
+  </item>
+  <item>
+    <id>LEG0203</id>
+    <name>Quagmire</name>
+    <text>Creatures with swampwalk can be blocked as though they didn't have swampwalk.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0204</id>
+    <name>Quarum Trench Gnomes</name>
+    <text>{T}: If target Plains is tapped for mana, it produces colorless mana instead of white mana. (This effect lasts indefinitely.)</text>
+    <flavorText>"O Great Captain, all is lost. They tunneled, they burrowed, they trenched. They sapped the strength of our defenses."Sorgus, Chronicles of the Quarum Plains</flavorText>
+  </item>
+  <item>
+    <id>LEG0205</id>
+    <name>Rabid Wombat</name>
+    <text>Vigilance
+Rabid Wombat gets +2/+2 for each Aura attached to it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0206</id>
+    <name>Radjan Spirit</name>
+    <text>{T}: Target creature loses flying until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0207</id>
+    <name>Raging Bull</name>
+    <text>
+    </text>
+    <flavorText>"Sometimes the bulls win, and sometimes the bears win. But the bulls have more fun."Anonymous</flavorText>
+  </item>
+  <item>
+    <id>LEG0208</id>
+    <name>Ragnar</name>
+    <text>{G}{W}{U}, {T}: Regenerate target creature.</text>
+    <flavorText>"On the field of honor, a soldier need have no fear."</flavorText>
+  </item>
+  <item>
+    <id>LEG0209</id>
+    <name>Ramirez DePietro</name>
+    <text>First strike</text>
+    <flavorText>Ramirez DePietro is a most flamboyant pirate. Be careful not to believe his tall tales, especially when you ask his age.</flavorText>
+  </item>
+  <item>
+    <id>LEG0210</id>
+    <name>Ramses Overdark</name>
+    <text>{T}: Destroy target enchanted creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0211</id>
+    <name>Rapid Fire</name>
+    <text>Cast Rapid Fire only before blockers are declared.
+Target creature gains first strike until end of turn. If it doesn't have rampage, that creature gains rampage 2 until end of turn. (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0212</id>
+    <name>Rasputin Dreamweaver</name>
+    <text>Rasputin Dreamweaver enters the battlefield with seven dream counters on it.
+Remove a dream counter from Rasputin: Add {1} to your mana pool.
+Remove a dream counter from Rasputin: Prevent the next 1 damage that would be dealt to Rasputin this turn.
+At the beginning of your upkeep, if Rasputin started the turn untapped, put a dream counter on it.
+Rasputin can't have more than seven dream counters on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0213</id>
+    <name>Rebirth</name>
+    <text>Remove Rebirth from your deck before playing if you're not playing for ante.
+
+Each player may put the top card of his or her library into the ante. If a player does, his or her life total becomes 20.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0214</id>
+    <name>Recall</name>
+    <text>Discard X cards, then return a card from your graveyard to your hand for each card discarded this way. Exile Recall.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0215</id>
+    <name>Red Mana Battery</name>
+    <text>{2}, {T}: Put a charge counter on Red Mana Battery.
+
+{T}, Remove any number of charge counters from Red Mana Battery: Add {R} to your mana pool, then add an additional {R} to your mana pool for each charge counter removed this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0216</id>
+    <name>Reincarnation</name>
+    <text>Choose target creature. When that creature is put into a graveyard this turn, return a creature card from that graveyard to the battlefield under the control of that creature's owner.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0217</id>
+    <name>Relic Barrier</name>
+    <text>{T}: Tap target artifact.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0218</id>
+    <name>Relic Bind</name>
+    <text>Enchant artifact an opponent controls
+Whenever enchanted artifact becomes tapped, choose one — Relic Bind deals 1 damage to target player; or target player gains 1 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0219</id>
+    <name>Remove Enchantments</name>
+    <text>Return to your hand all enchantments you both own and control, all Auras you own attached to permanents you control, and all Auras you own attached to attacking creatures your opponents control. Then destroy all other enchantments you control, all other Auras attached to permanents you control, and all other Auras attached to attacking creatures your opponents control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0220</id>
+    <name>Remove Soul</name>
+    <text>Counter target creature spell.</text>
+    <flavorText>Nethya stiffened suddenly, head cocked as if straining to hear some distant sound, then felt lifeless to the ground.</flavorText>
+  </item>
+  <item>
+    <id>LEG0221</id>
+    <name>Reset</name>
+    <text>Cast Reset only during an opponent's turn after his or her upkeep step.
+Untap all lands you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0222</id>
+    <name>Revelation</name>
+    <text>All players play with their hands revealed.</text>
+    <flavorText>"Many are in high place, and of renown: but mysteries are revealed unto the meek."Ecclesiastes 3:19</flavorText>
+  </item>
+  <item>
+    <id>LEG0223</id>
+    <name>Reverberation</name>
+    <text>All damage that would be dealt this turn by target sorcery spell is dealt to that spell's controller instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0224</id>
+    <name>Righteous Avengers</name>
+    <text>Plainswalk</text>
+    <flavorText>Few can withstand the wrath of the righteous.</flavorText>
+  </item>
+  <item>
+    <id>LEG0225</id>
+    <name>Ring of Immortals</name>
+    <text>{3}, {T}: Counter target instant or Aura spell that targets a permanent you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0226</id>
+    <name>Riven Turnbull</name>
+    <text>{T}: Add {B} to your mana pool.</text>
+    <flavorText>"Political violence is a perfectly legitimate answer to the persecution handed down by dignitaries of the state."</flavorText>
+  </item>
+  <item>
+    <id>LEG0227</id>
+    <name>Rohgahh of Kher Keep</name>
+    <text>At the beginning of your upkeep, you may pay {R}{R}{R}. If you don't, tap Rohgahh of Kher Keep and all creatures named Kobolds of Kher Keep, then an opponent gains control of them.
+Creatures you control named Kobolds of Kher Keep get +2/+2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0228</id>
+    <name>Rubinia Soulsinger</name>
+    <text>You may choose not to untap Rubinia Soulsinger during your untap step.
+{T}: Gain control of target creature for as long as you control Rubinia and Rubinia remains tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0229</id>
+    <name>Rust</name>
+    <text>Counter target activated ability from an artifact source. (Mana abilities can't be targeted.)</text>
+    <flavorText>"How dull it is to pause, to make an end,/ To rust unburnished, not to shine in use,/ As though to breathe were life"Alfred, Lord Tennyson, "Ulysses"</flavorText>
+  </item>
+  <item>
+    <id>LEG0230</id>
+    <name>Sea Kings' Blessing</name>
+    <text>Any number of target creatures become blue until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0231</id>
+    <name>Seafarer's Quay</name>
+    <text>Blue legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0232</id>
+    <name>Seeker</name>
+    <text>Enchant creature
+Enchanted creature can't be blocked except by artifact creatures and/or white creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0233</id>
+    <name>Segovian Leviathan</name>
+    <text>Islandwalk</text>
+    <flavorText>"Leviathan, too Can you catch him with a fish-hook/ or run a line round his tongue?"Job 40:25</flavorText>
+  </item>
+  <item>
+    <id>LEG0234</id>
+    <name>Sentinel</name>
+    <text>{0}: Sentinel's toughness becomes 1 plus the power of target creature blocking or blocked by Sentinel. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0235</id>
+    <name>Serpent Generator</name>
+    <text>{4}, {T}: Put a 1/1 colorless Snake artifact creature token onto the battlefield. This creature has "Whenever this creature deals damage to a player, that player gets a poison counter." (A player with ten or more poison counters loses the game.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0236</id>
+    <name>Shelkin Brownie</name>
+    <text>{T}: Target creature loses all "bands with other" abilities until end of turn.</text>
+    <flavorText>Leave a bowl of milk on your doorstep each night for the brownies, or they'll cause you no end of mischief.</flavorText>
+  </item>
+  <item>
+    <id>LEG0237</id>
+    <name>Shield Wall</name>
+    <text>Creatures you control get +0/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0238</id>
+    <name>Shimian Night Stalker</name>
+    <text>{B}, {T}: All damage that would be dealt to you this turn by target attacking creature is dealt to Shimian Night Stalker instead.</text>
+    <flavorText>"‘Tis now the very witching time of night,/ When churchyards yawn and hell itself breathes out/ Contagion to this world."William Shakespeare, Hamlet</flavorText>
+  </item>
+  <item>
+    <id>LEG0239</id>
+    <name>Silhouette</name>
+    <text>Prevent all damage that would be dealt to target creature this turn by spells or abilities that target it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0240</id>
+    <name>Sir Shandlar of Eberyn</name>
+    <text>
+    </text>
+    <flavorText>"Remember Sir Shandlar Remember and stand firm"rallying cry of the Eberyn militia</flavorText>
+  </item>
+  <item>
+    <id>LEG0241</id>
+    <name>Sivitri Scarzam</name>
+    <text>
+    </text>
+    <flavorText>Even the brave have cause to tremble at the sight of Sivitri Scarzam. Who else has tamed Scarzam's Dragon?</flavorText>
+  </item>
+  <item>
+    <id>LEG0242</id>
+    <name>Sol'kanar the Swamp King</name>
+    <text>Swampwalk
+Whenever a player casts a black spell, you gain 1 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0243</id>
+    <name>Spectral Cloak</name>
+    <text>Enchant creature
+Enchanted creature has shroud as long as it's untapped. (It can't be the target of spells or abilities.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0244</id>
+    <name>Spinal Villain</name>
+    <text>{T}: Destroy target blue creature.</text>
+    <flavorText>"Striking silent as a dream,/ Cutting short the strangled scream . . ."Tobrian, "Watchdragon"</flavorText>
+  </item>
+  <item>
+    <id>LEG0245</id>
+    <name>Spirit Link</name>
+    <text>Enchant creature (Target a creature as you cast this. This card enters the battlefield attached to that creature.)
+Whenever enchanted creature deals damage, you gain that much life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0246</id>
+    <name>Spirit Shackle</name>
+    <text>Enchant creature
+Whenever enchanted creature becomes tapped, put a -0/-2 counter on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0247</id>
+    <name>Spiritual Sanctuary</name>
+    <text>At the beginning of each player's upkeep, if that player controls a Plains, he or she gains 1 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0248</id>
+    <name>Stangg</name>
+    <text>When Stangg enters the battlefield, put a legendary 3/4 red and green Human Warrior creature token named Stangg Twin onto the battlefield. When Stangg leaves the battlefield, exile that token. When that token leaves the battlefield, sacrifice Stangg.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0249</id>
+    <name>Storm Seeker</name>
+    <text>Storm Seeker deals damage equal to the number of cards in target player's hand to that player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0250</id>
+    <name>Storm World</name>
+    <text>At the beginning of each player's upkeep, Storm World deals X damage to that player, where X is 4 minus the number of cards in his or her hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0251</id>
+    <name>Subdue</name>
+    <text>Prevent all combat damage that would be dealt by target creature this turn. That creature gets +0/+X until end of turn, where X is its converted mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0252</id>
+    <name>Sunastian Falconer</name>
+    <text>{T}: Add {2} to your mana pool.</text>
+    <flavorText>Sunastian has roots in both sorcery and swordplay; he has learned never to depend too heavily on the latter.</flavorText>
+  </item>
+  <item>
+    <id>LEG0253</id>
+    <name>Sword of the Ages</name>
+    <text>Sword of the Ages enters the battlefield tapped.
+{T}, Exile Sword of the Ages and any number of creatures you control: Sword of the Ages deals X damage to target creature or player, where X is the total power of the creatures exiled this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0254</id>
+    <name>Sylvan Library</name>
+    <text>At the beginning of your draw step, you may draw two additional cards. If you do, choose two cards in your hand drawn this turn. For each of those cards, pay 4 life or put the card on top of your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0255</id>
+    <name>Sylvan Paradise</name>
+    <text>Any number of target creatures become green until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0256</id>
+    <name>Syphon Soul</name>
+    <text>Syphon Soul deals 2 damage to each other player. You gain life equal to the damage dealt this way.</text>
+    <flavorText>"Her lips suck forth; see, where it flies"
+—Christopher Marlowe, The Tragical History of Doctor Faustus</flavorText>
+  </item>
+  <item>
+    <id>LEG0257</id>
+    <name>Takklemaggot</name>
+    <text>Enchant creature
+At the beginning of the upkeep of enchanted creature's controller, put a -0/-1 counter on that creature.
+When enchanted creature is put into a graveyard, that creature's controller chooses a creature that Takklemaggot could enchant. If he or she does, return Takklemaggot to the battlefield under your control attached to that creature. If he or she doesn't, return Takklemaggot to the battlefield under your control as a non-Aura enchantment. It loses "enchant creature" and gains "At the beginning of that player's upkeep, Takklemaggot deals 1 damage to him or her."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0258</id>
+    <name>Telekinesis</name>
+    <text>Tap target creature. Prevent all combat damage that would be dealt by that creature this turn. It doesn't untap during its controller's next two untap steps.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0259</id>
+    <name>Teleport</name>
+    <text>Cast Teleport only after attackers are declared and before blockers are declared.
+Target creature is unblockable this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0260</id>
+    <name>Tempest Efreet</name>
+    <text>Remove Tempest Efreet from your deck before playing if you're not playing for ante.
+{T}, Sacrifice Tempest Efreet: Target opponent may pay 10 life. If that player doesn't, he or she reveals a card at random from his or her hand. Exchange ownership of the revealed card and Tempest Efreet. Put the revealed card into your hand and Tempest Efreet from anywhere into that player's graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0261</id>
+    <name>Tetsuo Umezawa</name>
+    <text>Tetsuo Umezawa can't be the target of Aura spells.
+{U}{B}{B}{R}, {T}: Destroy target tapped or blocking creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0262</id>
+    <name>The Abyss</name>
+    <text>At the beginning of each player's upkeep, destroy target nonartifact creature that player controls of his or her choice. It can't be regenerated.</text>
+    <flavorText>"An immense river of oblivion is sweeping us away into a nameless abyss."Ernest Renan, Souvenirs d'Enfance et de Jeunesse</flavorText>
+  </item>
+  <item>
+    <id>LEG0263</id>
+    <name>The Brute</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+0.
+{R}{R}{R}: Regenerate enchanted creature.</text>
+    <flavorText>"Union may be strength, but it is mere blind brute strength unless wisely directed."Samuel Butler</flavorText>
+  </item>
+  <item>
+    <id>LEG0264</id>
+    <name>The Lady of the Mountain</name>
+    <text>
+    </text>
+    <flavorText>Her given name has been lost in the mists of time. Legend says that her silent vigil will one day be ended by the one who, pure of heart and spirit, calls out that name again.</flavorText>
+  </item>
+  <item>
+    <id>LEG0265</id>
+    <name>The Tabernacle at Pendrell Vale</name>
+    <text>All creatures have "At the beginning of your upkeep, destroy this creature unless you pay {1}."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0266</id>
+    <name>The Wretched</name>
+    <text>At end of combat, gain control of all creatures blocking The Wretched for as long as you control The Wretched.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0267</id>
+    <name>Thunder Spirit</name>
+    <text>Flying, first strike</text>
+    <flavorText>"It was full of fire and smoke and light and . . . it drove between us and the Efrafans like a thousand thunderstorms with lightning."Richard Adams, Watership Down</flavorText>
+  </item>
+  <item>
+    <id>LEG0268</id>
+    <name>Time Elemental</name>
+    <text>When Time Elemental attacks or blocks, at end of combat, sacrifice it and it deals 5 damage to you.
+{2}{U}{U}, {T}: Return target permanent that isn't enchanted to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0269</id>
+    <name>Tobias Andrion</name>
+    <text>
+    </text>
+    <flavorText>Administrator of the military state of Sheoltun, Tobias is the military right arm of the empire and the figurehead of its freedom.</flavorText>
+  </item>
+  <item>
+    <id>LEG0270</id>
+    <name>Tolaria</name>
+    <text>{T}: Add {U} to your mana pool.
+{T}: Target creature loses banding and all "bands with other" abilities until end of turn. Activate this ability only during any upkeep step.</text>
+    <flavorText>"Fairest Isle, all isles excelling,/ Seat of pleasures, and of loves . . ."John Dryden</flavorText>
+  </item>
+  <item>
+    <id>LEG0271</id>
+    <name>Tor Wauki</name>
+    <text>{T}: Tor Wauki deals 2 damage to target attacking or blocking creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0272</id>
+    <name>Torsten Von Ursus</name>
+    <text>
+    </text>
+    <flavorText>"How can you accuse me of evil? Though these deeds be unsavory, no one will argue: good shall follow from them."</flavorText>
+  </item>
+  <item>
+    <id>LEG0273</id>
+    <name>Touch of Darkness</name>
+    <text>Any number of target creatures become black until end of turn.</text>
+    <flavorText>"Black spirits and white, red spirits and gray,/ Mingle, mingle, mingle, you that mingle may."Thomas Middleton, The Witch</flavorText>
+  </item>
+  <item>
+    <id>LEG0274</id>
+    <name>Transmutation</name>
+    <text>Switch target creature's power and toughness until end of turn.</text>
+    <flavorText>"You know what I was,/ You see what I am: change me, change me"
+—Randall</flavorText>
+  </item>
+  <item>
+    <id>LEG0275</id>
+    <name>Triassic Egg</name>
+    <text>{3}, {T}: Put a hatchling counter on Triassic Egg.
+Remove two hatchling counters from Triassic Egg, Sacrifice Triassic Egg: You may put a creature card from your hand or graveyard onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0276</id>
+    <name>Tuknir Deathlock</name>
+    <text>Flying
+{R}{G}, {T}: Target creature gets +2/+2 until end of turn.</text>
+    <flavorText>An explorer of the Æther, Tuknir often discovers himself in the most unusual physical realms.</flavorText>
+  </item>
+  <item>
+    <id>LEG0277</id>
+    <name>Tundra Wolves</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)</text>
+    <flavorText>I heard their eerie howling, the wolves calling their kindred across the frozen plains.</flavorText>
+  </item>
+  <item>
+    <id>LEG0278</id>
+    <name>Typhoon</name>
+    <text>Typhoon deals damage to each opponent equal to the number of Islands that player controls.</text>
+    <flavorText>Fierce winds ripped across the tropical landscape. What they did not destroy with their fiery breath was washed away by torrential rain.</flavorText>
+  </item>
+  <item>
+    <id>LEG0279</id>
+    <name>Undertow</name>
+    <text>Creatures with islandwalk can be blocked as though they didn't have islandwalk.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0280</id>
+    <name>Underworld Dreams</name>
+    <text>Whenever an opponent draws a card, Underworld Dreams deals 1 damage to him or her.</text>
+    <flavorText>"In the drowsy dark cave of the mind dreams build their nest with fragments dropped from day's caravan."Rabindranath Tagore</flavorText>
+  </item>
+  <item>
+    <id>LEG0281</id>
+    <name>Unholy Citadel</name>
+    <text>Black legendary creatures you control have "bands with other legendary creatures." (Any legendary creatures can attack in a band as long as at least one has "bands with other legendary creatures." Bands are blocked as a group. If at least two legendary creatures you control, one of which has "bands with other legendary creatures," are blocking or being blocked by the same creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by or is blocking.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0282</id>
+    <name>Untamed Wilds</name>
+    <text>Search your library for a basic land card and put that card onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0283</id>
+    <name>Urborg</name>
+    <text>{T}: Add {B} to your mana pool.
+
+{T}: Target creature loses first strike or swampwalk until end of turn.</text>
+    <flavorText>"Resignedly beneath the sky/The melancholy waters lie./So blend the turrets and shadows there/That all seem pendulous in air,/While from a proud tower in town/Death looks gigantically down."Edgar Allan Poe, "The City in the Sea"</flavorText>
+  </item>
+  <item>
+    <id>LEG0284</id>
+    <name>Ur-Drago</name>
+    <text>First strike
+Creatures with swampwalk can be blocked as though they didn't have swampwalk.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0285</id>
+    <name>Vaevictis Asmadi</name>
+    <text>Flying
+At the beginning of your upkeep, sacrifice Vaevictis Asmadi unless you pay {B}{R}{G}.
+{B}: Vaevictis Asmadi gets +1/+0 until end of turn.
+{R}: Vaevictis Asmadi gets +1/+0 until end of turn.
+{G}: Vaevictis Asmadi gets +1/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0286</id>
+    <name>Vampire Bats</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{B}: Vampire Bats gets +1/+0 until end of turn. Activate this ability no more than twice each turn.</text>
+    <flavorText>"For something is amiss or out of place/ When mice with wings can wear a human face."Theodore Roethke, "The Bat"</flavorText>
+  </item>
+  <item>
+    <id>LEG0287</id>
+    <name>Venarian Gold</name>
+    <text>Enchant creature
+Venarian Gold enters the battlefield with X sleep counters on it.
+When Venarian Gold enters the battlefield, tap enchanted creature.
+Enchanted creature doesn't untap during its controller's untap step if Venarian Gold has a sleep counter on it.
+At the beginning of the upkeep of enchanted creature's controller, remove a sleep counter from Venarian Gold.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0288</id>
+    <name>Visions</name>
+    <text>Look at the top five cards of target player's library. You may then have that player shuffle that library.</text>
+    <flavorText>"Visions of glory, spare my aching sight,/ Ye unborn ages, crowd not on my soul"
+—Thomas Gray, The Bard</flavorText>
+  </item>
+  <item>
+    <id>LEG0289</id>
+    <name>Voodoo Doll</name>
+    <text>At the beginning of your upkeep, put a pin counter on Voodoo Doll.
+At the beginning of your end step, if Voodoo Doll is untapped, it deals damage to you equal to the number of pin counters on it. If Voodoo Doll deals damage to you this way, destroy it.
+{X}{X}, {T}: Voodoo Doll deals X damage to target creature or player. X is the number of pin counters on Voodoo Doll.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0290</id>
+    <name>Walking Dead</name>
+    <text>{B}: Regenerate Walking Dead.</text>
+    <flavorText>The Walking Dead are the remains of freakish experiments by the Necromantic Lords.</flavorText>
+  </item>
+  <item>
+    <id>LEG0291</id>
+    <name>Wall of Caltrops</name>
+    <text>Defender (This creature can't attack.)
+Whenever Wall of Caltrops blocks a creature, if no non-Wall creatures are blocking that creature, Wall of Caltrops gains banding until end of turn. (If any creatures with banding you control are blocking a creature, you divide that creature's combat damage, not its controller, among any of the creatures it's being blocked by.)</text>
+    <flavorText>"Ow Ow ow ow Oooh, ow, OW"</flavorText>
+  </item>
+  <item>
+    <id>LEG0292</id>
+    <name>Wall of Dust</name>
+    <text>Defender (This creature can't attack.)
+Whenever Wall of Dust blocks a creature, that creature can't attack during its controller's next turn.</text>
+    <flavorText>An ever-moving swarm of dust engulfs and disorients anything that comes near.</flavorText>
+  </item>
+  <item>
+    <id>LEG0293</id>
+    <name>Wall of Earth</name>
+    <text>Defender (This creature can't attack.)</text>
+    <flavorText>The ground shuddered violently and the earth seemed to come to life. The elemental force contained in the vast wall of earth was trapped, bent to its controller's will.</flavorText>
+  </item>
+  <item>
+    <id>LEG0294</id>
+    <name>Wall of Heat</name>
+    <text>Defender (This creature can't attack.)</text>
+    <flavorText>At a distance, we mistook the sound for a waterfall . . .</flavorText>
+  </item>
+  <item>
+    <id>LEG0295</id>
+    <name>Wall of Light</name>
+    <text>Defender (This creature can't attack.)
+Protection from black</text>
+    <flavorText>As many attackers were dazzled by the wall's beauty as were halted by its force.</flavorText>
+  </item>
+  <item>
+    <id>LEG0296</id>
+    <name>Wall of Opposition</name>
+    <text>Defender (This creature can't attack.)
+{1}: Wall of Opposition gets +1/+0 until end of turn.</text>
+    <flavorText>Like so many obstacles in life, the Wall of Opposition is but an illusion, held fast by the focus and belief of the one who creates it.</flavorText>
+  </item>
+  <item>
+    <id>LEG0297</id>
+    <name>Wall of Putrid Flesh</name>
+    <text>Defender (This creature can't attack.)
+Protection from white
+Prevent all damage that would be dealt to Wall of Putrid Flesh by enchanted creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0298</id>
+    <name>Wall of Shadows</name>
+    <text>Defender (This creature can't attack.)
+Prevent all damage that would be dealt to Wall of Shadows by creatures it's blocking.
+Wall of Shadows can't be the target of spells that can target only Walls or of abilities that can target only Walls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0299</id>
+    <name>Wall of Tombstones</name>
+    <text>Defender (This creature can't attack.)
+At the beginning of your upkeep, Wall of Tombstones's toughness becomes 1 plus the number of creature cards in your graveyard. (This effect lasts indefinitely.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0300</id>
+    <name>Wall of Vapor</name>
+    <text>Defender (This creature can't attack.)
+Prevent all damage that would be dealt to Wall of Vapor by creatures it's blocking.</text>
+    <flavorText>"Walls of a castle are made out of stone,/ Walls of a house out of bricks or of wood./ My walls are made out of magic alone,/ Stronger than any that ever have stood."Chrysoberyl Earthsdaughter, Incantations</flavorText>
+  </item>
+  <item>
+    <id>LEG0301</id>
+    <name>Wall of Wonder</name>
+    <text>Defender (This creature can't attack.)
+{2}{U}{U}: Wall of Wonder gets +4/-4 until end of turn and can attack this turn as though it didn't have defender.</text>
+    <flavorText>So confusing is the Wall's appearance that few of is victims even see it move.</flavorText>
+  </item>
+  <item>
+    <id>LEG0302</id>
+    <name>Whirling Dervish</name>
+    <text>Protection from black
+At the beginning of each end step, if Whirling Dervish dealt damage to an opponent this turn, put a +1/+1 counter on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0303</id>
+    <name>White Mana Battery</name>
+    <text>{2}, {T}: Put a charge counter on White Mana Battery.
+
+{T}, Remove any number of charge counters from White Mana Battery: Add {W} to your mana pool, then add an additional {W} to your mana pool for each charge counter removed this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0304</id>
+    <name>Willow Satyr</name>
+    <text>You may choose not to untap Willow Satyr during your untap step.
+{T}: Gain control of target legendary creature for as long as you control Willow Satyr and Willow Satyr remains tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0305</id>
+    <name>Winds of Change</name>
+    <text>Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.</text>
+    <flavorText>"‘Tis the set of sails, and not the gales,/ Which tells us the way to go."Ella Wheeler Wilcox</flavorText>
+  </item>
+  <item>
+    <id>LEG0306</id>
+    <name>Winter Blast</name>
+    <text>Tap X target creatures. Winter Blast deals 2 damage to each of those creatures with flying.</text>
+    <flavorText>"Blow, winds, and crack your cheeks rage blow"William Shakespeare, King Lear</flavorText>
+  </item>
+  <item>
+    <id>LEG0307</id>
+    <name>Wolverine Pack</name>
+    <text>Rampage 2 (Whenever this creature becomes blocked, it gets +2/+2 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>"Give them great meals of beef and iron and steel, they will eat like wolves and fight like devils."William Shakespeare, King Henry V</flavorText>
+  </item>
+  <item>
+    <id>LEG0308</id>
+    <name>Wood Elemental</name>
+    <text>As Wood Elemental enters the battlefield, sacrifice any number of untapped Forests.
+Wood Elemental's power and toughness are each equal to the number of Forests sacrificed as it entered the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LEG0309</id>
+    <name>Xira Arien</name>
+    <text>Flying
+{B}{R}{G}, {T}: Target player draws a card.</text>
+    <flavorText>A regular guest at the Royal Masquerade, Arien is the envy of the Court. She appears in a new costume every hour.</flavorText>
+  </item>
+  <item>
+    <id>LEG0310</id>
+    <name>Zephyr Falcon</name>
+    <text>Flying, vigilance</text>
+    <flavorText>Although greatly prized among falconers, the Zephyr Falcon is capricious and not easily tamed.</flavorText>
+  </item>
+</cards>

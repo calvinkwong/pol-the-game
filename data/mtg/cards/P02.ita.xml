@@ -1,0 +1,1579 @@
+<cards name="Portal Second Age">
+  <item>
+    <id>P020001</id>
+    <name>Cacciatore Notturno Abissale</name>
+    <text>Ogniqualvolta il Cacciatore Notturno Abissale attacca e non viene bloccato, il giocatore in difesa scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020002</id>
+    <name>Elementale dell'Aria</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020003</id>
+    <name>Cavaliere Pesante Alaborn</name>
+    <text>Ogniqualvolta il Cavaliere Pesante Alaborn attacca, puoi TAPpare una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020004</id>
+    <name>Granatiere Alaborn</name>
+    <text>Cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020005</id>
+    <name>Moschettiere Alaborn</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020006</id>
+    <name>Fante Alaborn</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020007</id>
+    <name>Veterano Alaborn</name>
+    <text>{T}: Una creatura bersaglio prende +2/+2 fino alla fine del turno. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020008</id>
+    <name>Zelota Alaborn</name>
+    <text>Quando lo Zelota Alaborn blocca una creatura, distruggi quella creatura e lo Zelota Alaborn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020009</id>
+    <name>Profumo Invitante</name>
+    <text>Tutte le creature che possono bloccare la creatura bersaglio in questo turno devono farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020010</id>
+    <name>Profumo Invitante</name>
+    <text>Tutte le creature che possono bloccare la creatura bersaglio in questo turno devono farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020011</id>
+    <name>Desiderio Atavico</name>
+    <text>Peschi tre carte e perdi 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020012</id>
+    <name>Angelo della Furia</name>
+    <text>Volare
+Quando l'Angelo della Furia viene messo in un cimitero dal campo di battaglia, puoi rimescolarlo nel tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020013</id>
+    <name>Angelo della Misericordia</name>
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
+Quando l'Angelo della Misericordia entra nel campo di battaglia, guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020014</id>
+    <name>Benedizione Angelica</name>
+    <text>Una creatura bersaglio prende +3/+3 e ha volare fino alla fine del turno. (Non può essere bloccata tranne che da creature con volare o raggiungere.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020015</id>
+    <name>Benedizione Angelica</name>
+    <text>Una creatura bersaglio prende +3/+3 e ha volare fino alla fine del turno. (Non può essere bloccata tranne che da creature con volare o raggiungere.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020016</id>
+    <name>Muro Angelico</name>
+    <text>Difensore, volare (Questa creatura non può attaccare, e può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020017</id>
+    <name>Stregone Novizio</name>
+    <text>{T}: Lo Stregone Novizio infligge 1 danno a una creatura o a un giocatore bersaglio. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020018</id>
+    <name>Arcangelo</name>
+    <text>Volare, cautela (Questa creatura attacca senza TAPpare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020019</id>
+    <name>Arcangelo</name>
+    <text>Volare, cautela (Questa creatura attacca senza TAPpare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020020</id>
+    <name>Armageddon</name>
+    <text>Distruggi tutte le terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020021</id>
+    <name>Armageddon</name>
+    <text>Distruggi tutte le terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020022</id>
+    <name>Galeone Corazzato</name>
+    <text>Il Galeone Corazzato non può attaccare a meno che il giocatore in difesa controlli almeno un'Isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020023</id>
+    <name>Grifone Corazzato</name>
+    <text>Volare, cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020024</id>
+    <name>Wurm Dentelama</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020025</id>
+    <name>Transazione</name>
+    <text>L'avversario bersaglio pesca una carta. Tu guadagni 7 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020026</id>
+    <name>Cucciolo d'Orso</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020027</id>
+    <name>Puntura d'Ape</name>
+    <text>La Puntura d'Ape infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020028</id>
+    <name>Puntura d'Ape</name>
+    <text>La Puntura d'Ape infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020029</id>
+    <name>Fiammata</name>
+    <text>La Fiammata infligge X danni alla creatura o al giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020030</id>
+    <name>Fiammata</name>
+    <text>La Fiammata infligge X danni alla creatura o al giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020031</id>
+    <name>Fiammata</name>
+    <text>La Fiammata infligge X danni alla creatura o al giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020032</id>
+    <name>Urlo Raccapricciante</name>
+    <text>La creatura bersaglio prende +X/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020033</id>
+    <name>Alito di Vita</name>
+    <text>Rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020034</id>
+    <name>Alito di Vita</name>
+    <text>Rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020035</id>
+    <name>Drago di Zolfo</name>
+    <text>Volare, rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020036</id>
+    <name>Cacciatore Notturno Brutale</name>
+    <text>Quando il Cacciatore Notturno Brutale entra nel campo di battaglia, puoi far scartare una carta ad un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020037</id>
+    <name>Coro di Lamenti</name>
+    <text>Le creature che controlli prendono +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020038</id>
+    <name>Mago della Costa</name>
+    <text>{T}: I proprietari riprendono in mano il Mago della Costa e un'altra creatura bersaglio. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020039</id>
+    <name>Coercizione</name>
+    <text>L'avversario bersaglio rivela la sua mano. Tu scegli una carta da essa. Quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020040</id>
+    <name>Editto Crudele</name>
+    <text>L'avversario bersaglio sacrifica una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020041</id>
+    <name>Gigante Astuto</name>
+    <text>Se il Gigante Astuto non viene bloccato, puoi assegnare il suo danno da combattimento a una creatura controllata dal giocatore in difesa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020042</id>
+    <name>Pipistrello Dakmor</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020043</id>
+    <name>Peste di Dakmor</name>
+    <text>La Peste di Dakmor infligge 3 danni ad ogni creatura e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020044</id>
+    <name>Scorpione Dakmor</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020045</id>
+    <name>Incantatrice Dakmor</name>
+    <text>La forza della Incantatrice Dakmor è pari al numero di Paludi che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020046</id>
+    <name>Offerta Oscura</name>
+    <text>Distruggi una creatura non nera bersaglio. Guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020047</id>
+    <name>Wurm Spiramortale</name>
+    <text>Puoi decidere che il Wurm Spiramortale assegni il suo danno da combattimento come se non fosse stato bloccato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020048</id>
+    <name>Bosco Intricato</name>
+    <text>Lancia il Bosco Intricato soltanto durante la dichiarazione degli attaccanti e soltanto se sei stato attaccato in questa sottofase.
+Previeni tutto il danno che ti verrebbe inflitto in questo turno dalle creature attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020049</id>
+    <name>Bosco Intricato</name>
+    <text>Lancia il Bosco Intricato soltanto durante la dichiarazione degli attaccanti e soltanto se sei stato attaccato in questa sottofase.
+Previeni tutto il danno che ti verrebbe inflitto in questo turno dalle creature attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020050</id>
+    <name>Déjà Vu</name>
+    <text>Riprendi in mano dal tuo cimitero una carta stregoneria bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020051</id>
+    <name>Déjà Vu</name>
+    <text>Riprendi in mano dal tuo cimitero una carta stregoneria bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020052</id>
+    <name>Abitatore Profondo</name>
+    <text>Quando l'Abitatore Profondo entra nel campo di battaglia, fai tornare ogni altra creatura che controlli in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020053</id>
+    <name>Terremoto</name>
+    <text>Il Terremoto infligge X danni a ogni creatura senza volare e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020054</id>
+    <name>Terremoto</name>
+    <text>Il Terremoto infligge X danni a ogni creatura senza volare e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020055</id>
+    <name>Esaurimento</name>
+    <text>Le creature e le terre controllate da un avversario bersaglio non STAPpano durante il suo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020056</id>
+    <name>Esaurimento</name>
+    <text>Le creature e le terre controllate da un avversario bersaglio non STAPpano durante il suo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020057</id>
+    <name>Extinguish</name>
+    <text>Neutralizza una magia stregoneria bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020058</id>
+    <name>Occhio Spia</name>
+    <text>Guarda la prima carta del grimorio di un giocatore bersaglio. Puoi mettere quella carta nel suo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020059</id>
+    <name>Falsa Evocazione</name>
+    <text>Neutralizza una magia creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020060</id>
+    <name>Fiera di Trokin</name>
+    <text>Guadagni 2 punti vita per ogni creatura che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020061</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020062</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020063</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020064</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020065</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020066</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020067</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020068</id>
+    <name>Spirito Corrotto</name>
+    <text>Volare
+Quando lo Spirito Corrotto entra nel campo di battaglia, sacrifica una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020069</id>
+    <name>Cavalleggeri Goblin</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020070</id>
+    <name>Goblin Incendiario</name>
+    <text>Sacrifica il Goblin Incendiario: Il Goblin Incendiario infligge 1 danno a una creatura o a un giocatore bersaglio. Attiva questa abilità solo durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020071</id>
+    <name>Generale dei Goblin</name>
+    <text>Ogniquavolta il Generale dei Goblin attacca, le creature Goblin che controlli prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020072</id>
+    <name>Aliante Goblin</name>
+    <text>Volare
+L'Aliante Goblin non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020073</id>
+    <name>Tradizione Goblin</name>
+    <text>Pesca quattro carte, poi scarta tre carte a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020074</id>
+    <name>Matrona Goblin</name>
+    <text>Quando la Matrona Goblin entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Goblin, rivelare quella carta, e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020075</id>
+    <name>Goblin di Montagna</name>
+    <text>Passa-montagne</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020076</id>
+    <name>Picchiere Goblin</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020077</id>
+    <name>Predone Goblin</name>
+    <text>Il Predone Goblin non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020078</id>
+    <name>Grido di Battaglia dei Goblin</name>
+    <text>L'avversario bersaglio sceglie una creatura che controlla. Le altre creature che quel giocatore controlla, non possono bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020079</id>
+    <name>Offensiva dei Goblin</name>
+    <text>L'Offensiva dei Goblin infligge a un giocatore bersaglio un danno pari al numero di Goblin che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020080</id>
+    <name>Orso Dorato</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020081</id>
+    <name>Mano della Morte</name>
+    <text>Distruggi una creatura non nera bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020082</id>
+    <name>Mano della Morte</name>
+    <text>Distruggi una creatura non nera bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020083</id>
+    <name>Mano della Morte</name>
+    <text>Distruggi una creatura non nera bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020084</id>
+    <name>Armonia della Natura</name>
+    <text>TAPpa un qualsiasi numero di creature STAPpate che controlli. Guadagni 4 punti vita per ogni creatura TAPpata in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020085</id>
+    <name>Orrore Nascosto</name>
+    <text>Quando l'Orrore Nascosto entra nel campo di battaglia, sacrificalo a meno che tu scarti una carta creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020086</id>
+    <name>Uragano</name>
+    <text>L'Uragano infligge X danni a ogni creatura con volare e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020087</id>
+    <name>Uragano</name>
+    <text>L'Uragano infligge X danni a ogni creatura con volare e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020088</id>
+    <name>Bue Zoccolo di Ferro</name>
+    <text>Il Bue Zoccolo di Ferro non può essere bloccato da più di una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020089</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020090</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020091</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020092</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020093</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020094</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020095</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020096</id>
+    <name>Fulmine a Frammentazione</name>
+    <text>Il Fulmine a Frammentazione infligge 3 danni a una creatura bersaglio e 3 danni a un'altra creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020097</id>
+    <name>Giusto Destino</name>
+    <text>Lancia il Giusto Destino soltanto durante la dichiarazione degli attaccanti e soltanto se tu sei il giocatore in difesa.
+Distruggi una creatura attaccante bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020098</id>
+    <name>Bacio della Morte</name>
+    <text>Il Bacio della Morte infligge 4 danni ad un avversario bersaglio. Guadagni 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020099</id>
+    <name>Ascia di Lava</name>
+    <text>L'Ascia di Lava infligge 5 danni a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020100</id>
+    <name>Ascia di Lava</name>
+    <text>L'Ascia di Lava infligge 5 danni a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020101</id>
+    <name>Lupo Solitario</name>
+    <text>Puoi decidere che il Lupo Solitario assegni il proprio danno da combattimento come se non fosse stato bloccato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020102</id>
+    <name>Cacciatore Notturno in Agguato</name>
+    <text>Ogniqualvolta il Cacciatore Notturno in Agguato attacca, prende +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020103</id>
+    <name>Lince</name>
+    <text>Passa-foreste</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020104</id>
+    <name>Gigante di Magma</name>
+    <text>Quando il Gigante di Magma entra nel campo di battaglia, infligge 2 danni ad ogni creatura e ad ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020105</id>
+    <name>Cancrena della Mente</name>
+    <text>Il giocatore bersaglio scarta due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020106</id>
+    <name>Cancrena della Mente</name>
+    <text>Il giocatore bersaglio scarta due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020107</id>
+    <name>Spirito Gemente</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020108</id>
+    <name>Crescita Mostruosa</name>
+    <text>La creatura bersaglio prende +4/+4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020109</id>
+    <name>Crescita Mostruosa</name>
+    <text>La creatura bersaglio prende +4/+4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020110</id>
+    <name>Crescita Mostruosa</name>
+    <text>La creatura bersaglio prende +4/+4 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020111</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020112</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020113</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020114</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020115</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020116</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020117</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020118</id>
+    <name>Ratti Sudici</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020119</id>
+    <name>Ratti Sudici</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020120</id>
+    <name>Rifiuto Mistico</name>
+    <text>Neutralizza una magia creatura o stregoneria bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020121</id>
+    <name>Rifiuto Mistico</name>
+    <text>Neutralizza una magia creatura o stregoneria bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020122</id>
+    <name>Sorgente Naturale</name>
+    <text>Il giocatore bersaglio guadagna 8 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020123</id>
+    <name>Sorgente Naturale</name>
+    <text>Il giocatore bersaglio guadagna 8 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020124</id>
+    <name>Sapere della Natura</name>
+    <text>Passa in rassegna il tuo grimorio per una carta Foresta e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020125</id>
+    <name>Sapere della Natura</name>
+    <text>Passa in rassegna il tuo grimorio per una carta Foresta e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020126</id>
+    <name>Cacciatore Notturno Meccanico</name>
+    <text>La forza del Cacciatore Notturno Meccanico è pari al numero di carte creatura nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020127</id>
+    <name>Arcieri di Norwood</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020128</id>
+    <name>Sacerdotessa di Norwood</name>
+    <text>{T}: Puoi mettere una carta creatura verde dalla tua mano nel campo di battaglia. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020129</id>
+    <name>Ranger di Norwood</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020130</id>
+    <name>Cavalieri di Norwood</name>
+    <text>I Cavalieri di Norwood non possono essere bloccati da più di una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020131</id>
+    <name>Guerriero di Norwood</name>
+    <text>Ogniqualvolta il Guerriero di Norwood viene bloccato, prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020132</id>
+    <name>Gigante d'Ossidiana</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020133</id>
+    <name>Ogre Piromane</name>
+    <text>Quando l'Ogre Piromane entra nel campo di battaglia, distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020134</id>
+    <name>Ogre Berserk</name>
+    <text>Rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020135</id>
+    <name>Sorvegliante Ogre</name>
+    <text>Il Sorvegliante Ogre non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020136</id>
+    <name>Ogre Guerriero</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020137</id>
+    <name>Sentiero di Pace</name>
+    <text>Distruggi una creatura bersaglio. Il proprietario di quella creatura guadagna 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020138</id>
+    <name>Sentiero di Pace</name>
+    <text>Distruggi una creatura bersaglio. Il proprietario di quella creatura guadagna 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020139</id>
+    <name>Pirateria</name>
+    <text>Fino alla fine del turno, puoi TAPpare terre che non controlli per attingere mana. Spendi questo mana solo per lanciare magie.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020140</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020141</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020142</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020143</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020144</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020145</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020146</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020147</id>
+    <name>Wurm Corazzato</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020148</id>
+    <name>Cacciatore Notturno Predatore</name>
+    <text>Quando il Cacciatore Notturno Predatore entra nel campo di battaglia, puoi far sacrificare una creatura a un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020149</id>
+    <name>Cacciatore Notturno Strisciante</name>
+    <text>Il Cacciatore Notturno Strisciante non può essere bloccato, tranne che dalle creature nere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020150</id>
+    <name>Goblin Furioso</name>
+    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020151</id>
+    <name>Goblin Furioso</name>
+    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020152</id>
+    <name>Goblin Furioso</name>
+    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020153</id>
+    <name>Cacciatore Notturno Razziatore</name>
+    <text>Passa-paludi</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020154</id>
+    <name>Pioggia di Pugnali</name>
+    <text>Distruggi tutte le creature controllate da un avversario bersaglio. Perdi 2 punti vita per ogni creatura distrutta in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020155</id>
+    <name>Risveglio dei Morti</name>
+    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020156</id>
+    <name>Risveglio dei Morti</name>
+    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020157</id>
+    <name>Radunare le Truppe</name>
+    <text>Lancia Radunare le Truppe solo durante la dichiarazione degli attaccanti e solo se sei stato attaccato in questo turno.
+STAPpa tutte le creature che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020158</id>
+    <name>Ratti Famelici</name>
+    <text>Quando i Ratti Famelici entrano nel campo di battaglia, l'avversario bersaglio scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020159</id>
+    <name>Orso Artiglio Rasoio</name>
+    <text>Ogniqualvolta l'Orso Artiglio Rasoio viene bloccato, prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020160</id>
+    <name>Assalto Implacabile</name>
+    <text>STAPpa tutte le creature che hanno attaccato in questo turno. Dopo questa fase principale, c'è una fase di combattimento addizionale seguita da una fase principale aggiuntiva.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020161</id>
+    <name>Rimuovere</name>
+    <text>Gioca Rimuovere solo durante la dichiarazione degli attaccanti e solo se sei stato attaccato in questo turno.
+Il proprietario riprende in mano una creatura attaccante bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020162</id>
+    <name>Tocco di Rinnovamento</name>
+    <text>Rimescola nel tuo grimorio un qualsiasi numero di carte creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020163</id>
+    <name>Ritorno dei Cacciatori Notturni</name>
+    <text>Rimetti sul campo di battaglia tutte le carte permanente Cacciatore-Notturno dal tuo cimitero. Poi distruggi tutte le Paludi che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020164</id>
+    <name>Carica dei Giusti</name>
+    <text>Le creature che controlli prendono +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020165</id>
+    <name>Giusto Furore</name>
+    <text>Distruggi tutte le creature TAPpate. Guadagni 2 punti vita per ogni creatura distrutta in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020166</id>
+    <name>Orso di Fiume</name>
+    <text>Passa-isole</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020167</id>
+    <name>Ricupero</name>
+    <text>Metti una carta bersaglio dal tuo cimitero in cima al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020168</id>
+    <name>Draghetto Urlante *</name>
+    <text>Volare.
+Quando il Draghetto Urlante entra nel campo di battaglia, pesca una carta, poi scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020169</id>
+    <name>Draghetto Marino</name>
+    <text>Volare
+Quando il Draghetto Marino entra nel campo di battaglia, i proprietari riprendono in mano due terre bersaglio che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020170</id>
+    <name>Gioco di Prestigio</name>
+    <text>Guarda le prime due carte del tuo grimorio. Aggiungine una alla tua mano e metti l'altra in fondo al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020171</id>
+    <name>Fulmine Tellurico</name>
+    <text>Il Fulmine Tellurico infligge danno pari al numero di Montagne che controlli a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020172</id>
+    <name>Fulmine Tellurico</name>
+    <text>Il Fulmine Tellurico infligge danno pari al numero di Montagne che controlli a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020173</id>
+    <name>Catapulta a Vapore</name>
+    <text>{T}: Distruggi una creatura TAPpata bersaglio. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020174</id>
+    <name>Fregata a Vapore</name>
+    <text>La Fregata a Vapore non può attaccare a meno che il giocatore in difesa controlli un'Isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020175</id>
+    <name>Pioggia di Pietre</name>
+    <text>Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020176</id>
+    <name>Pioggia di Pietre</name>
+    <text>Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020177</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020178</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020179</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020180</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020181</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020182</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020183</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020184</id>
+    <name>Sciame di Ratti</name>
+    <text>La forza dello Sciame di Ratti è pari al numero di Ratti che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020185</id>
+    <name>Basilisco Silvano</name>
+    <text>Ogniqualvolta il Basilisco Silvano viene bloccato da una creatura, distruggi quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020186</id>
+    <name>Yeti Silvano</name>
+    <text>La forza dello Yeti Silvano è pari al numero di carte nella tua mano.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020187</id>
+    <name>Nave Volante Talas</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020188</id>
+    <name>Esploratrice Talas</name>
+    <text>Volare
+Quando l'Esploratrice Talas entra nel campo di battaglia, guarda la mano dell'avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020189</id>
+    <name>Mercante Talas</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020190</id>
+    <name>Ricercatore Talas</name>
+    <text>{T}: Pesca una carta. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020191</id>
+    <name>Esploratore Talas</name>
+    <text>Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020192</id>
+    <name>Guerriero Talas</name>
+    <text>Il Guerriero Talas non può essere bloccato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020193</id>
+    <name>Accolito del Tempio</name>
+    <text>Quando l'Accolito del Tempio entra nel campo di battaglia, guadagni 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020194</id>
+    <name>Anziano del Tempio</name>
+    <text>{T}: Guadagni 1 punto vita. Attiva questa abilità soltanto durante il tuo turno, prima che siano dichiarati gli attaccanti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020195</id>
+    <name>Manipolazione Temporale</name>
+    <text>Gioca un turno supplementare dopo questo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020196</id>
+    <name>Furto di Sogni</name>
+    <text>Pesca una carta per ogni creatura TAPpata controllata da un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020197</id>
+    <name>Furto di Sogni</name>
+    <text>Pesca una carta per ogni creatura TAPpata controllata da un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020198</id>
+    <name>Flutto di Marea</name>
+    <text>TAPpa fino a tre creature bersaglio senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020199</id>
+    <name>Flutto di Marea</name>
+    <text>TAPpa fino a tre creature bersaglio senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020200</id>
+    <name>Riflusso Temporale</name>
+    <text>Metti una creatura bersaglio in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020201</id>
+    <name>Riflusso Temporale</name>
+    <text>Metti una creatura bersaglio in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020202</id>
+    <name>Tocco di Genio</name>
+    <text>Pesca due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020203</id>
+    <name>Tocco di Genio</name>
+    <text>Pesca due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020204</id>
+    <name>Sentinella Cittadina</name>
+    <text>Ogniqualvolta la Sentinella Cittadina blocca, prende +0/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020205</id>
+    <name>Scimmia dei Boschi</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020206</id>
+    <name>Tremore</name>
+    <text>Il Tremore infligge 1 danno a ogni creatura senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020207</id>
+    <name>Guardia Scelta Trokin</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020208</id>
+    <name>Annullare</name>
+    <text>I proprietari riprendono in mano due creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020209</id>
+    <name>Natura Incontaminata</name>
+    <text>Passa in rassegna il tuo grimorio per una carta terra base e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020210</id>
+    <name>Natura Incontaminata</name>
+    <text>Passa in rassegna il tuo grimorio per una carta terra base e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020211</id>
+    <name>Spirito Vampiro</name>
+    <text>Volare
+Quando lo Spirito Vampiro entra nel campo di battaglia perdi 4 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020212</id>
+    <name>Vendetta</name>
+    <text>Distruggi una creatura TAPpata bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020213</id>
+    <name>Vendetta</name>
+    <text>Distruggi una creatura TAPpata bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020214</id>
+    <name>Martello Vulcanico</name>
+    <text>Il Martello Vulcanico infligge 3 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020215</id>
+    <name>Martello Vulcanico</name>
+    <text>Il Martello Vulcanico infligge 3 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020216</id>
+    <name>Milizia Volontaria</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020217</id>
+    <name>Resistenza del Guerriero</name>
+    <text>Lancia la Resistenza del Guerriero solo durante la dichiarazione degli attaccanti e solo se sei stato attaccato in questo turno.
+Le creature che controlli prendono +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020218</id>
+    <name>Grifone Selvaggio</name>
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020219</id>
+    <name>Bue Selvatico</name>
+    <text>Passa-paludi</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020220</id>
+    <name>Incendio Selvaggio</name>
+    <text>Ogni giocatore sacrifica quattro terre. L'Incendio Selvaggio infligge 4 danni ad ogni creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>P020221</id>
+    <name>Vela del Vento</name>
+    <text>Una o due creature bersaglio guadagnano volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

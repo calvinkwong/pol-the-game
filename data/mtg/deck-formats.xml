@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<formats>
+  <item code="T1">
+    <add type="set" code="{all}" />
+    <remove type="set" code="UNH" notes="Unhinged" />
+    <remove type="set" code="UGL" notes="Unglued" />
+    <remove type="card" code="ICE0008" notes="Amulet of Quoz" />
+    <remove type="card" code="3ED0060" notes="Demonic Attorney" />
+    <remove type="card" code="2ED0061" notes="Demonic Attorney" />
+    <remove type="card" code="LEB0061" notes="Demonic Attorney" />
+    <remove type="card" code="LEA0060" notes="Demonic Attorney" />
+    <remove type="card" code="3ED0043" notes="Contract from Below" />
+    <remove type="card" code="2ED0044" notes="Contract from Below" />
+    <remove type="card" code="LEB0044" notes="Contract from Below" />
+    <remove type="card" code="LEA0043" notes="Contract from Below" />
+    <remove type="card" code="4ED0316" notes="Tempest Efreet" />
+    <remove type="card" code="LEG0260" notes="Tempest Efreet" />
+    <remove type="card" code="HML0128" notes="Timmerian Fiends" />
+    <remove type="card" code="3ED0056" notes="Darkpact" />
+    <remove type="card" code="2ED0057" notes="Darkpact" />
+    <remove type="card" code="LEB0057" notes="Darkpact" />
+    <remove type="card" code="LEA0056" notes="Darkpact" />
+    <remove type="card" code="CHR0059" notes="Jeweled Bird" />
+    <remove type="card" code="ARN0049" notes="Jeweled Bird" />
+    <remove type="card" code="4ED0265" notes="Rebirth" />
+    <remove type="card" code="LEG0213" notes="Rebirth" />
+    <remove type="card" code="4ED0043" notes="Bronze Tablet" />
+    <remove type="card" code="ATQ0015" notes="Bronze Tablet" />
+    <remove type="card" code="2ED0032" notes="Bronze Tablet" />
+    <remove type="card" code="LEB0032" notes="Chaos Orb" />
+    <remove type="card" code="LEA0032" notes="Chaos Orb" />
+    <remove type="card" code="LEG0082" notes="Falling Star" />
+    <remove type="card" code="ARN0081" notes="Shahrazad" />
+    <cardLimit type="amount" value="1" code="USG0330" notes="Tolarian Academy" />
+    <cardLimit type="amount" value="1" code="3ED0245" notes="Sol Ring" />
+    <cardLimit type="amount" value="1" code="2ED0239" notes="Sol Ring" />
+    <cardLimit type="amount" value="1" code="LEB0239" notes="Sol Ring" />
+    <cardLimit type="amount" value="1" code="LEA0234" notes="Sol Ring" />
+    <cardLimit type="amount" value="1" code="4ED0022" notes="Balance" />
+    <cardLimit type="amount" value="1" code="3ED0014" notes="Balance" />
+    <cardLimit type="amount" value="1" code="2ED0011" notes="Balance" />
+    <cardLimit type="amount" value="1" code="LEB0011" notes="Balance" />
+    <cardLimit type="amount" value="1" code="LEA0011" notes="Balance" />
+    <cardLimit type="amount" value="1" code="FVE0001" notes="Balance" />
+    <cardLimit type="amount" value="1" code="INV0057" notes="Fact or Fiction" />
+    <cardLimit type="amount" value="1" code="ICE0070" notes="Demonic Consultation" />
+    <cardLimit type="amount" value="1" code="ME20214" notes="Mana Crypt" />
+    <cardLimit type="amount" value="1" code="JUD0083" notes="Burning Wish" />
+    <cardLimit type="amount" value="1" code="SCG0041" notes="Mind's Desire" />
+    <cardLimit type="amount" value="1" code="MIR0172" notes="Lion's Eye Diamond" />
+  </item>
+</formats>

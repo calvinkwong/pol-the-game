@@ -1,0 +1,1971 @@
+<cards name="Zendikar">
+  <item>
+    <id>ZEN0001</id>
+    <name>Armament Master</name>
+    <text>Other Kor creatures you control get +2/+2 for each Equipment attached to Armament Master.</text>
+    <flavorText>"We prepare for the known with daggers, rations, rope, and pitons. But we also prepare for the unknown with billycat tails, pikku roots, hedron chips . . ."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0002</id>
+    <name>Arrow Volley Trap</name>
+    <text>If four or more creatures are attacking, you may pay {1}{W} rather than pay Arrow Volley Trap's mana cost.
+Arrow Volley Trap deals 5 damage divided as you choose among any number of target attacking creatures.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0003</id>
+    <name>Bold Defense</name>
+    <text>Kicker {3}{W} (You may pay an additional {3}{W} as you cast this spell.)
+Creatures you control get +1/+1 until end of turn. If Bold Defense was kicked, instead creatures you control get +2/+2 and gain first strike until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0004</id>
+    <name>Brave the Elements</name>
+    <text>Choose a color. White creatures you control gain protection from the chosen color until end of turn.</text>
+    <flavorText>"Trust me, your lost fingers and toes are nothing compared to the lost treasures of Sejiri."
+—Zahr Gada, Halimar expedition leader</flavorText>
+  </item>
+  <item>
+    <id>ZEN0005</id>
+    <name>Caravan Hurda</name>
+    <text>Lifelink (Damage dealt by this creature also causes you to gain that much life.)</text>
+    <flavorText>"Not too bright, but good enough for the job required—carrying and walking in a straight line."
+—Bruse Tarl, Goma Fada nomad</flavorText>
+  </item>
+  <item>
+    <id>ZEN0006</id>
+    <name>Celestial Mantle</name>
+    <text>Enchant creature
+Enchanted creature gets +3/+3.
+Whenever enchanted creature deals combat damage to a player, double its controller's life total.</text>
+    <flavorText>Upon such armor, even a mountain would break.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0007</id>
+    <name>Cliff Threader</name>
+    <text>Mountainwalk</text>
+    <flavorText>"The crossing demands singular focus. Your life consists of these ropes, these hooks, and these rocky crags. Your past is miles below."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0008</id>
+    <name>Conqueror's Pledge</name>
+    <text>Kicker {6} (You may pay an additional {6} as you cast this spell.)
+Put six 1/1 white Kor Soldier creature tokens onto the battlefield. If Conqueror's Pledge was kicked, put twelve of those tokens onto the battlefield instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0009</id>
+    <name>Day of Judgment</name>
+    <text>Destroy all creatures.</text>
+    <flavorText>"I have seen planes leveled and all life rendered to dust. It brought no pleasure, even to a heart as dark as mine."
+—Sorin Markov</flavorText>
+  </item>
+  <item>
+    <id>ZEN0010</id>
+    <name>Devout Lightcaster</name>
+    <text>Protection from black
+When Devout Lightcaster enters the battlefield, exile target black permanent.</text>
+    <flavorText>"Goddess, grant us light to banish the world's shadows."
+—Prayer to Kamsa</flavorText>
+  </item>
+  <item>
+    <id>ZEN0011</id>
+    <name>Emeria Angel</name>
+    <text>Flying
+Landfall — Whenever a land enters the battlefield under your control, you may put a 1/1 white Bird creature token with flying onto the battlefield.</text>
+    <flavorText>When the earth shudders, the sky overflows.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0012</id>
+    <name>Felidar Sovereign</name>
+    <text>Vigilance, lifelink
+At the beginning of your upkeep, if you have 40 or more life, you win the game.</text>
+    <flavorText>"If survival is a game, I've seen the winner."
+—Hazir, Sejiri cartographer</flavorText>
+  </item>
+  <item>
+    <id>ZEN0013</id>
+    <name>Iona, Shield of Emeria</name>
+    <text>Flying
+As Iona, Shield of Emeria enters the battlefield, choose a color.
+Your opponents can't cast spells of the chosen color.</text>
+    <flavorText>No more shall the righteous cower before evil.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0014</id>
+    <name>Journey to Nowhere</name>
+    <text>When Journey to Nowhere enters the battlefield, exile target creature.
+When Journey to Nowhere leaves the battlefield, return the exiled card to the battlefield under its owner's control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0015</id>
+    <name>Kabira Evangel</name>
+    <text>Whenever Kabira Evangel or another Ally enters the battlefield under your control, you may choose a color. If you do, Allies you control gain protection from the chosen color until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0016</id>
+    <name>Kazandu Blademaster</name>
+    <text>First strike, vigilance
+Whenever Kazandu Blademaster or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Kazandu Blademaster.</text>
+    <flavorText>"If you hire a sell-sword, you'd better watch your back. Hire me, and I'll watch it for you."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0017</id>
+    <name>Kor Aeronaut</name>
+    <text>Kicker {1}{W} (You may pay an additional {1}{W} as you cast this spell.)
+Flying
+When Kor Aeronaut enters the battlefield, if it was kicked, target creature gains flying until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0018</id>
+    <name>Kor Cartographer</name>
+    <text>When Kor Cartographer enters the battlefield, you may search your library for a Plains card, put it onto the battlefield tapped, then shuffle your library.</text>
+    <flavorText>Kor have no concept of exploration. They return to homelands forgotten.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0019</id>
+    <name>Kor Duelist</name>
+    <text>As long as Kor Duelist is equipped, it has double strike. (It deals both first-strike and regular combat damage.)</text>
+    <flavorText>"Swords cannot reach far enough. Chains cannot strike hard enough. An eternal dilemma, but a simple one."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0020</id>
+    <name>Kor Hookmaster</name>
+    <text>When Kor Hookmaster enters the battlefield, tap target creature an opponent controls. That creature doesn't untap during its controller's next untap step.</text>
+    <flavorText>"For us, a rope represents the ties that bind the kor. For you, it's more literal."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0021</id>
+    <name>Kor Outfitter</name>
+    <text>When Kor Outfitter enters the battlefield, you may attach target Equipment you control to target creature you control.</text>
+    <flavorText>"We take only what we need to survive. Believe me, you will need this."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0022</id>
+    <name>Kor Sanctifiers</name>
+    <text>Kicker {W} (You may pay an additional {W} as you cast this spell.)
+When Kor Sanctifiers enters the battlefield, if it was kicked, destroy target artifact or enchantment.</text>
+    <flavorText>"Why keep such trinkets? They only add weight to your travels."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0023</id>
+    <name>Kor Skyfisher</name>
+    <text>Flying
+When Kor Skyfisher enters the battlefield, return a permanent you control to its owner's hand.</text>
+    <flavorText>"Sometimes I snare the unexpected, but I know its purpose will be revealed in time."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0024</id>
+    <name>Landbind Ritual</name>
+    <text>You gain 2 life for each Plains you control.</text>
+    <flavorText>"Honor this place, for our children's children will stand here and speak these same words again."
+—Ayli, Kamsa cleric</flavorText>
+  </item>
+  <item>
+    <id>ZEN0025</id>
+    <name>Luminarch Ascension</name>
+    <text>At the beginning of each opponent's end step, if you didn't lose life this turn, you may put a quest counter on Luminarch Ascension. (Damage causes loss of life.)
+{1}{W}: Put a 4/4 white Angel creature token with flying onto the battlefield. Activate this ability only if Luminarch Ascension has four or more quest counters on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0026</id>
+    <name>Makindi Shieldmate</name>
+    <text>Defender
+Whenever Makindi Shieldmate or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Makindi Shieldmate.</text>
+    <flavorText>The more who rely on him, the more resolute he becomes.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0027</id>
+    <name>Narrow Escape</name>
+    <text>Return target permanent you control to its owner's hand. You gain 4 life.</text>
+    <flavorText>"A good explorer has to be as slippery as a gomazoa, as tough as a scute bug, and luckier than a ten-fingered trapfinder."
+—Arhana, Kazandu trapfinder</flavorText>
+  </item>
+  <item>
+    <id>ZEN0028</id>
+    <name>Nimbus Wings</name>
+    <text>Enchant creature
+Enchanted creature gets +1/+2 and has flying.</text>
+    <flavorText>Explorers may find ways into the Sky Ruin, but they find its secrets well protected by shifting hedrons and Roil winds.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0029</id>
+    <name>Noble Vestige</name>
+    <text>Flying
+{T}: Prevent the next 1 damage that would be dealt to target player this turn.</text>
+    <flavorText>Most spirits are chained to this world by their despair, but he remains tethered by his hope for better days.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0030</id>
+    <name>Ondu Cleric</name>
+    <text>Whenever Ondu Cleric or another Ally enters the battlefield under your control, you may gain life equal to the number of Allies you control.</text>
+    <flavorText>A cleric's true balm is the confidence he inspires in his compatriots.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0031</id>
+    <name>Pillarfield Ox</name>
+    <text>
+    </text>
+    <flavorText>These stubborn and unpredictable oxen inspire the plains nomads' most colorful curses.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0032</id>
+    <name>Pitfall Trap</name>
+    <text>If exactly one creature is attacking, you may pay {W} rather than pay Pitfall Trap's mana cost.
+Destroy target attacking creature without flying.</text>
+    <flavorText>Each spike is poisoned—the trapmaker's idea of mercy.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0033</id>
+    <name>Quest for the Holy Relic</name>
+    <text>Whenever you cast a creature spell, you may put a quest counter on Quest for the Holy Relic.
+Remove five quest counters from Quest for the Holy Relic and sacrifice it: Search your library for an Equipment card, put it onto the battlefield, and attach it to a creature you control. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0034</id>
+    <name>Shepherd of the Lost</name>
+    <text>Flying, first strike, vigilance</text>
+    <flavorText>"Should you fall in the wilds, lift your voice to the Sky Realm. The one who answers will be your salvation."
+—Emeria's Creed</flavorText>
+  </item>
+  <item>
+    <id>ZEN0035</id>
+    <name>Shieldmate's Blessing</name>
+    <text>Prevent the next 3 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>"Even land dwellers may call for Emeria's grace in times of need."
+—Emeria's Creed</flavorText>
+  </item>
+  <item>
+    <id>ZEN0036</id>
+    <name>Steppe Lynx</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, Steppe Lynx gets +2/+2 until end of turn.</text>
+    <flavorText>Nothing quickens the predator's blood like the unfamiliar scents of new hunting grounds and the mewling cries of new prey.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0037</id>
+    <name>Sunspring Expedition</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Sunspring Expedition.
+Remove three quest counters from Sunspring Expedition and sacrifice it: You gain 8 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0038</id>
+    <name>Windborne Charge</name>
+    <text>Two target creatures you control each get +2/+2 and gain flying until end of turn.</text>
+    <flavorText>The merfolk call the sky goddess Emeria. The kor call her Kamsa. The two races agree on little except that she offers many blessings to the faithful.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0039</id>
+    <name>World Queller</name>
+    <text>At the beginning of your upkeep, you may choose a card type. If you do, each player sacrifices a permanent of that type.</text>
+    <flavorText>"Why fight the world when you know who will win?"
+—Nissa Revane</flavorText>
+  </item>
+  <item>
+    <id>ZEN0040</id>
+    <name>Æther Figment</name>
+    <text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Æther Figment is unblockable.
+If Æther Figment was kicked, it enters the battlefield with two +1/+1 counters on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0041</id>
+    <name>Archive Trap</name>
+    <text>If an opponent searched his or her library this turn, you may pay {0} rather than pay Archive Trap's mana cost.
+Target opponent puts the top thirteen cards of his or her library into his or her graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0042</id>
+    <name>Archmage Ascension</name>
+    <text>At the beginning of each end step, if you drew two or more cards this turn, you may put a quest counter on Archmage Ascension.
+As long as Archmage Ascension has six or more quest counters on it, if you would draw a card, you may instead search your library for a card, put that card into your hand, then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0043</id>
+    <name>Caller of Gales</name>
+    <text>{1}{U}, {T}: Target creature gains flying until end of turn.</text>
+    <flavorText>"Some merfolk choose to rest their fins in the water. I believe wisdom exists not only where we were born but where we were told not to go."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0044</id>
+    <name>Cancel</name>
+    <text>Counter target spell.</text>
+    <flavorText>Zendikar's volatile mana is the basis for many spectacular spells—and some equally astonishing failures.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0045</id>
+    <name>Cosi's Trickster</name>
+    <text>Whenever an opponent shuffles his or her library, you may put a +1/+1 counter on Cosi's Trickster.</text>
+    <flavorText>She watches the chaos created by the Roil, seeking strength in the patterns of anarchy.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0046</id>
+    <name>Gomazoa</name>
+    <text>Defender, flying
+{T}: Put Gomazoa and each creature it's blocking on top of their owners' libraries, then those players shuffle their libraries.</text>
+    <flavorText>To explorers, "point man" is a polite way of saying "gomazoa fodder."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0047</id>
+    <name>Hedron Crab</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, target player puts the top three cards of his or her library into his or her graveyard.</text>
+    <flavorText>Hedrons perplex minds both great and small.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0048</id>
+    <name>Into the Roil</name>
+    <text>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Return target nonland permanent to its owner's hand. If Into the Roil was kicked, draw a card.</text>
+    <flavorText>"Roil tide! Roil tide! Tie yourselves down!"</flavorText>
+  </item>
+  <item>
+    <id>ZEN0049</id>
+    <name>Ior Ruin Expedition</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Ior Ruin Expedition.
+Remove three quest counters from Ior Ruin Expedition and sacrifice it: Draw two cards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0050</id>
+    <name>Kraken Hatchling</name>
+    <text>
+    </text>
+    <flavorText>A spike and a maul are needed to crack their shells, but the taste is worth the effort.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0051</id>
+    <name>Lethargy Trap</name>
+    <text>If three or more creatures are attacking, you may pay {U} rather than pay Lethargy Trap's mana cost.
+Attacking creatures get -3/-0 until end of turn.</text>
+    <flavorText>Suddenly, Zurdi didn't care about treasure, glory, food . . . or the drakes circling above.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0052</id>
+    <name>Living Tsunami</name>
+    <text>Flying
+At the beginning of your upkeep, sacrifice Living Tsunami unless you return a land you control to its owner's hand.</text>
+    <flavorText>At low tide it slumbers. At high tide it devours.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0053</id>
+    <name>Lorthos, the Tidemaker</name>
+    <text>Whenever Lorthos, the Tidemaker attacks, you may pay {8}. If you do, tap up to eight target permanents. Those permanents don't untap during their controllers' next untap steps.</text>
+    <flavorText>When Lorthos emerges from his deepwater realm, the tides bow to his will and the coastline cowers in his presence.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0054</id>
+    <name>Lullmage Mentor</name>
+    <text>Whenever a spell or ability you control counters a spell, you may put a 1/1 blue Merfolk creature token onto the battlefield.
+Tap seven untapped Merfolk you control: Counter target spell.</text>
+    <flavorText>"Many voices are needed to quiet this land."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0055</id>
+    <name>Merfolk Seastalkers</name>
+    <text>Islandwalk
+{2}{U}: Tap target creature without flying.</text>
+    <flavorText>"Do they seek knowledge or wealth? Are they bandits or benefactors? It depends on who is chanting the tale."
+—Nikou, Joraga bard</flavorText>
+  </item>
+  <item>
+    <id>ZEN0056</id>
+    <name>Merfolk Wayfinder</name>
+    <text>Flying
+When Merfolk Wayfinder enters the battlefield, reveal the top three cards of your library. Put all Island cards revealed this way into your hand and the rest on the bottom of your library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0057</id>
+    <name>Mindbreak Trap</name>
+    <text>If an opponent cast three or more spells this turn, you may pay {0} rather than pay Mindbreak Trap's mana cost.
+Exile any number of target spells.</text>
+    <flavorText>"Life is a maze. This is one of its dead ends."
+—Noyan Dar, Tazeem lullmage</flavorText>
+  </item>
+  <item>
+    <id>ZEN0058</id>
+    <name>Paralyzing Grasp</name>
+    <text>Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.</text>
+    <flavorText>The Halimar Sea Caves are both the breeding ground of giant squids and the dumping ground of hardened criminals.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0059</id>
+    <name>Quest for Ancient Secrets</name>
+    <text>Whenever a card is put into your graveyard from anywhere, you may put a quest counter on Quest for Ancient Secrets.
+Remove five quest counters from Quest for Ancient Secrets and sacrifice it: Target player shuffles his or her graveyard into his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0060</id>
+    <name>Reckless Scholar</name>
+    <text>{T}: Target player draws a card, then discards a card.</text>
+    <flavorText>"Any good prospector must sift the gold from the sand."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0061</id>
+    <name>Rite of Replication</name>
+    <text>Kicker {5} (You may pay an additional {5} as you cast this spell.)
+Put a token onto the battlefield that's a copy of target creature. If Rite of Replication was kicked, put five of those tokens onto the battlefield instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0062</id>
+    <name>Roil Elemental</name>
+    <text>Flying
+Landfall — Whenever a land enters the battlefield under your control, you may gain control of target creature for as long as you control Roil Elemental.</text>
+    <flavorText>A vortex that devours everything—even the souls of the living.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0063</id>
+    <name>Sea Gate Loremaster</name>
+    <text>{T}: Draw a card for each Ally you control.</text>
+    <flavorText>"He's a living library. He remembers everything our band of explorers has seen, and we can use that to our advantage."
+—Zahr Gada, Halimar expedition leader</flavorText>
+  </item>
+  <item>
+    <id>ZEN0064</id>
+    <name>Seascape Aerialist</name>
+    <text>Whenever Seascape Aerialist or another Ally enters the battlefield under your control, you may have Ally creatures you control gain flying until end of turn.</text>
+    <flavorText>"The sky is like another sea. It teems with currents, life, and endless possibility."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0065</id>
+    <name>Shoal Serpent</name>
+    <text>Defender
+Landfall — Whenever a land enters the battlefield under your control, Shoal Serpent loses defender until end of turn.</text>
+    <flavorText>"It's like a reef that runs aground on ships."
+—Jaby, Silundi Sea nomad</flavorText>
+  </item>
+  <item>
+    <id>ZEN0066</id>
+    <name>Sky Ruin Drake</name>
+    <text>Flying</text>
+    <flavorText>"Hold up your spears. And try not to look like food."
+—Tarsa, Sea Gate sell-sword</flavorText>
+  </item>
+  <item>
+    <id>ZEN0067</id>
+    <name>Spell Pierce</name>
+    <text>Counter target noncreature spell unless its controller pays {2}.</text>
+    <flavorText>"There's a hole in your plan."
+—Noyan Dar, Tazeem lullmage</flavorText>
+  </item>
+  <item>
+    <id>ZEN0068</id>
+    <name>Sphinx of Jwar Isle</name>
+    <text>Flying, shroud
+You may look at the top card of your library. (You may do this at any time.)</text>
+    <flavorText>"Even if the sphinxes do know the location of every relic, getting one to talk is harder than just searching yourself."
+—Sachir, Akoum Expeditionary House</flavorText>
+  </item>
+  <item>
+    <id>ZEN0069</id>
+    <name>Sphinx of Lost Truths</name>
+    <text>Kicker {1}{U} (You may pay an additional {1}{U} as you cast this spell.)
+Flying
+When Sphinx of Lost Truths enters the battlefield, draw three cards. Then if it wasn't kicked, discard three cards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0070</id>
+    <name>Spreading Seas</name>
+    <text>Enchant land
+When Spreading Seas enters the battlefield, draw a card.
+Enchanted land is an Island.</text>
+    <flavorText>Most inhabitants of Zendikar have given up on the idea of an accurate map.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0071</id>
+    <name>Summoner's Bane</name>
+    <text>Counter target creature spell. Put a 2/2 blue Illusion creature token onto the battlefield.</text>
+    <flavorText>"I don't need to have the perfect plan. My foe just has to have an imperfect one."
+—Jace Beleren</flavorText>
+  </item>
+  <item>
+    <id>ZEN0072</id>
+    <name>Tempest Owl</name>
+    <text>Kicker {4}{U} (You may pay an additional {4}{U} as you cast this spell.)
+Flying
+When Tempest Owl enters the battlefield, if it was kicked, tap up to three target permanents.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0073</id>
+    <name>Trapfinder's Trick</name>
+    <text>Target player reveals his or her hand and discards all Trap cards.</text>
+    <flavorText>"At some point, every trapfinder will lose a hunk of flesh. It's just a question of how much—and whether it'll grow back."
+—Arhana, Kazandu trapfinder</flavorText>
+  </item>
+  <item>
+    <id>ZEN0074</id>
+    <name>Trapmaker's Snare</name>
+    <text>Search your library for a Trap card, reveal it, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>"Trapmaking is an art. The trap is a corporeal riddle, a battle of wits between its creator and whatever it lures inside."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0075</id>
+    <name>Umara Raptor</name>
+    <text>Flying
+Whenever Umara Raptor or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Umara Raptor.</text>
+    <flavorText>Messenger, weapon, friend.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0076</id>
+    <name>Welkin Tern</name>
+    <text>Flying
+Welkin Tern can block only creatures with flying.</text>
+    <flavorText>"The sky hedrons are covered with tern nests. It's as though the birds have given up on the land altogether."
+—Ilori, merfolk falconer</flavorText>
+  </item>
+  <item>
+    <id>ZEN0077</id>
+    <name>Whiplash Trap</name>
+    <text>If an opponent had two or more creatures enter the battlefield under his or her control this turn, you may pay {U} rather than pay Whiplash Trap's mana cost.
+Return two target creatures to their owners' hands.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0078</id>
+    <name>Windrider Eel</name>
+    <text>Flying
+Landfall — Whenever a land enters the battlefield under your control, Windrider Eel gets +2/+2 until end of turn.</text>
+    <flavorText>"The best spot to hook one is right behind the gills."
+—Rana Cloudwake, kor skyfisher</flavorText>
+  </item>
+  <item>
+    <id>ZEN0079</id>
+    <name>Bala Ged Thief</name>
+    <text>Whenever Bala Ged Thief or another Ally enters the battlefield under your control, target player reveals a number of cards from his or her hand equal to the number of Allies you control. You choose one of them. That player discards that card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0080</id>
+    <name>Blood Seeker</name>
+    <text>Whenever a creature enters the battlefield under an opponent's control, you may have that player lose 1 life.</text>
+    <flavorText>A drop now is all he needs to find you later.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0081</id>
+    <name>Blood Tribute</name>
+    <text>Kicker—Tap an untapped Vampire you control. (You may tap a Vampire you control in addition to any other costs as you cast this spell.)
+Target opponent loses half his or her life, rounded up. If Blood Tribute was kicked, you gain life equal to the life lost this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0082</id>
+    <name>Bloodchief Ascension</name>
+    <text>At the beginning of each end step, if an opponent lost 2 or more life this turn, you may put a quest counter on Bloodchief Ascension. (Damage causes loss of life.)
+Whenever a card is put into an opponent's graveyard from anywhere, if Bloodchief Ascension has three or more quest counters on it, you may have that player lose 2 life. If you do, you gain 2 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0083</id>
+    <name>Bloodghast</name>
+    <text>Bloodghast can't block.
+Bloodghast has haste as long as an opponent has 10 or less life.
+Landfall — Whenever a land enters the battlefield under your control, you may return Bloodghast from your graveyard to the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0084</id>
+    <name>Bog Tatters</name>
+    <text>Swampwalk</text>
+    <flavorText>A wraith is a tale of brutal slaying told anew whenever it finds a victim.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0085</id>
+    <name>Crypt Ripper</name>
+    <text>Haste
+{B}: Crypt Ripper gets +1/+1 until end of turn.</text>
+    <flavorText>The tender light of the living quickens the pulse of the dead.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0086</id>
+    <name>Desecrated Earth</name>
+    <text>Destroy target land. Its controller discards a card.</text>
+    <flavorText>"The land is swollen with mana, cursed relics, and secrets. If you puncture it, you never know what will burst out."
+—Javad Nasrin, Ondu relic hunter</flavorText>
+  </item>
+  <item>
+    <id>ZEN0087</id>
+    <name>Disfigure</name>
+    <text>Target creature gets -2/-2 until end of turn.</text>
+    <flavorText>"Brave scar or unfortunate tale? It all depends on your pain threshold."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0088</id>
+    <name>Feast of Blood</name>
+    <text>Cast Feast of Blood only if you control two or more Vampires.
+Destroy target creature. You gain 4 life.</text>
+    <flavorText>"The vampires of this world don't know the pleasures of hunger. They gorge themselves without savoring the kill."
+—Sorin Markov</flavorText>
+  </item>
+  <item>
+    <id>ZEN0089</id>
+    <name>Gatekeeper of Malakir</name>
+    <text>Kicker {B} (You may pay an additional {B} as you cast this spell.)
+When Gatekeeper of Malakir enters the battlefield, if it was kicked, target player sacrifices a creature.</text>
+    <flavorText>"You may enter the city—once the toll is paid."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0090</id>
+    <name>Giant Scorpion</name>
+    <text>Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)</text>
+    <flavorText>Its sting hurts, but death is strangely painless.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0091</id>
+    <name>Grim Discovery</name>
+    <text>Choose one or both — Return target creature card from your graveyard to your hand; and/or return target land card from your graveyard to your hand.</text>
+    <flavorText>Few among the living understand just how much of their world is shaped by the ruins of the dead.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0092</id>
+    <name>Guul Draz Specter</name>
+    <text>Flying
+Guul Draz Specter gets +3/+3 as long as an opponent has no cards in hand.
+Whenever Guul Draz Specter deals combat damage to a player, that player discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0093</id>
+    <name>Guul Draz Vampire</name>
+    <text>As long as an opponent has 10 or less life, Guul Draz Vampire gets +2/+1 and has intimidate. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)</text>
+    <flavorText>"A creature's bloodscent is a beacon that cannot be disguised."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0094</id>
+    <name>Hagra Crocodile</name>
+    <text>Hagra Crocodile can't block.
+Landfall — Whenever a land enters the battlefield under your control, Hagra Crocodile gets +2/+2 until end of turn.</text>
+    <flavorText>The creatures of Zendikar are opportunists, eating whatever is available to them. Like goblins. Or boats.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0095</id>
+    <name>Hagra Diabolist</name>
+    <text>Whenever Hagra Diabolist or another Ally enters the battlefield under your control, you may have target player lose life equal to the number of Allies you control.</text>
+    <flavorText>"When exploring the darkest regions, wickedness can be the best accomplice of all."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0096</id>
+    <name>Halo Hunter</name>
+    <text>Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+When Halo Hunter enters the battlefield, destroy target Angel.</text>
+    <flavorText>Hanging on the walls of his lair, the fallen halos cast his depravity in everlasting light.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0097</id>
+    <name>Heartstabber Mosquito</name>
+    <text>Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)
+Flying
+When Heartstabber Mosquito enters the battlefield, if it was kicked, destroy target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0098</id>
+    <name>Hideous End</name>
+    <text>Destroy target nonblack creature. Its controller loses 2 life.</text>
+    <flavorText>"A little dark magic won't stop me. The worse the curse, the better the prize."
+—Radavi, Joraga relic hunter, last words</flavorText>
+  </item>
+  <item>
+    <id>ZEN0099</id>
+    <name>Kalitas, Bloodchief of Ghet</name>
+    <text>{B}{B}{B}, {T}: Destroy target creature. If that creature is put into a graveyard this way, put a black Vampire creature token onto the battlefield. Its power is equal to that creature's power and its toughness is equal to that creature's toughness.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0100</id>
+    <name>Malakir Bloodwitch</name>
+    <text>Flying, protection from white
+When Malakir Bloodwitch enters the battlefield, each opponent loses life equal to the number of Vampires you control. You gain life equal to the life lost this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0101</id>
+    <name>Marsh Casualties</name>
+    <text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Creatures target player controls get -1/-1 until end of turn. If Marsh Casualties was kicked, those creatures get -2/-2 until end of turn instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0102</id>
+    <name>Mind Sludge</name>
+    <text>Target player discards a card for each Swamp you control.</text>
+    <flavorText>"Guard your thoughts. You never know who might wish to take them from you."
+—Kalitas, Bloodchief of Ghet</flavorText>
+  </item>
+  <item>
+    <id>ZEN0103</id>
+    <name>Mindless Null</name>
+    <text>Mindless Null can't block unless you control a Vampire.</text>
+    <flavorText>Only a bloodchief can create vampires. The rest sire nulls, who become mindless beasts in their former bodies.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0104</id>
+    <name>Mire Blight</name>
+    <text>Enchant creature
+When enchanted creature is dealt damage, destroy it.</text>
+    <flavorText>"Is there anything in Guul Draz that doesn't suck the life out of you?"
+—Tarsa, Sea Gate sell-sword</flavorText>
+  </item>
+  <item>
+    <id>ZEN0105</id>
+    <name>Needlebite Trap</name>
+    <text>If an opponent gained life this turn, you may pay {B} rather than pay Needlebite Trap's mana cost.
+Target player loses 5 life and you gain 5 life.</text>
+    <flavorText>The traps around the vampire city of Malakir hint at the thirst of its inhabitants.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0106</id>
+    <name>Nimana Sell-Sword</name>
+    <text>Whenever Nimana Sell-Sword or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Nimana Sell-Sword.</text>
+    <flavorText>"He asked if I had work for him. No wasn't the right answer."
+—Samila, Murasa Expeditionary House</flavorText>
+  </item>
+  <item>
+    <id>ZEN0107</id>
+    <name>Ob Nixilis, the Fallen</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may have target player lose 3 life. If you do, put three +1/+1 counters on Ob Nixilis, the Fallen.</text>
+    <flavorText>His spark lost, he plots revenge upon the plane whose corrupting mana fractured his soul.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0108</id>
+    <name>Quest for the Gravelord</name>
+    <text>Whenever a creature is put into a graveyard from the battlefield, you may put a quest counter on Quest for the Gravelord.
+Remove three quest counters from Quest for the Gravelord and sacrifice it: Put a 5/5 black Zombie Giant creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0109</id>
+    <name>Ravenous Trap</name>
+    <text>If an opponent had three or more cards put into his or her graveyard from anywhere this turn, you may pay {0} rather than pay Ravenous Trap's mana cost.
+Exile all cards from target player's graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0110</id>
+    <name>Sadistic Sacrament</name>
+    <text>Kicker {7} (You may pay an additional {7} as you cast this spell.)
+Search target player's library for up to three cards, exile them, then that player shuffles his or her library. If Sadistic Sacrament was kicked, instead search that player's library for up to fifteen cards, exile them, then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0111</id>
+    <name>Sorin Markov</name>
+    <text>+2: Sorin Markov deals 2 damage to target creature or player and you gain 2 life.
+-3: Target opponent's life total becomes 10.
+-7: You control target player's next turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0112</id>
+    <name>Soul Stair Expedition</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Soul Stair Expedition.
+Remove three quest counters from Soul Stair Expedition and sacrifice it: Return up to two target creature cards from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0113</id>
+    <name>Surrakar Marauder</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, Surrakar Marauder gains intimidate until end of turn. (It can't be blocked except by artifact creatures and/or creatures that share a color with it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0114</id>
+    <name>Vampire Hexmage</name>
+    <text>First strike
+Sacrifice Vampire Hexmage: Remove all counters from target permanent.</text>
+    <flavorText>When the blood hunt lost its thrill, she looked for less tangible means of domination.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0115</id>
+    <name>Vampire Lacerator</name>
+    <text>At the beginning of your upkeep, you lose 1 life unless an opponent has 10 or less life.</text>
+    <flavorText>The lacerators cut themselves before each hunt. They must feed before the sun rises or bleed to death.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0116</id>
+    <name>Vampire Nighthawk</name>
+    <text>Flying
+Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Lifelink (Damage dealt by this creature also causes you to gain that much life.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0117</id>
+    <name>Vampire's Bite</name>
+    <text>Kicker {2}{B} (You may pay an additional {2}{B} as you cast this spell.)
+Target creature gets +3/+0 until end of turn. If Vampire's Bite was kicked, that creature gains lifelink until end of turn. (Damage dealt by the creature also causes its controller to gain that much life.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0118</id>
+    <name>Bladetusk Boar</name>
+    <text>Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)</text>
+    <flavorText>Those who dare stand in its path are either brave or mindless. Or in the case of goblins, both.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0119</id>
+    <name>Burst Lightning</name>
+    <text>Kicker {4} (You may pay an additional {4} as you cast this spell.)
+Burst Lightning deals 2 damage to target creature or player. If Burst Lightning was kicked, it deals 4 damage to that creature or player instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0120</id>
+    <name>Chandra Ablaze</name>
+    <text>+1: Discard a card. If a red card is discarded this way, Chandra Ablaze deals 4 damage to target creature or player.
+-2: Each player discards his or her hand, then draws three cards.
+-7: Cast any number of red instant and/or sorcery cards from your graveyard without paying their mana costs.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0121</id>
+    <name>Demolish</name>
+    <text>Destroy target artifact or land.</text>
+    <flavorText>"This is why I hate settlements. They lull you into a false sense of security."
+—Yon Basrel, Oran-Rief survivalist</flavorText>
+  </item>
+  <item>
+    <id>ZEN0122</id>
+    <name>Electropotence</name>
+    <text>Whenever a creature enters the battlefield under your control, you may pay {2}{R}. If you do, that creature deals damage equal to its power to target creature or player.</text>
+    <flavorText>Where life and force collide.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0123</id>
+    <name>Elemental Appeal</name>
+    <text>Kicker {5} (You may pay an additional {5} as you cast this spell.)
+Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step. If Elemental Appeal was kicked, that creature gets +7/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0124</id>
+    <name>Geyser Glider</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, Geyser Glider gains flying until end of turn.</text>
+    <flavorText>"Quit pontificating, mage. The last thing we want to do is give it more hot air."
+—Tala Vertan, Makindi shieldmate</flavorText>
+  </item>
+  <item>
+    <id>ZEN0125</id>
+    <name>Goblin Bushwhacker</name>
+    <text>Kicker {R} (You may pay an additional {R} as you cast this spell.)
+When Goblin Bushwhacker enters the battlefield, if it was kicked, creatures you control get +1/+0 and gain haste until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0126</id>
+    <name>Goblin Guide</name>
+    <text>Haste
+Whenever Goblin Guide attacks, defending player reveals the top card of his or her library. If it's a land card, that player puts it into his or her hand.</text>
+    <flavorText>"I've been all over this world. I even remember some of those places."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0127</id>
+    <name>Goblin Ruinblaster</name>
+    <text>Kicker {R} (You may pay an additional {R} as you cast this spell.)
+Haste
+When Goblin Ruinblaster enters the battlefield, if it was kicked, destroy target nonbasic land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0128</id>
+    <name>Goblin Shortcutter</name>
+    <text>When Goblin Shortcutter enters the battlefield, target creature can't block this turn.</text>
+    <flavorText>"Goblins are cheap, but be careful. It's a lot easier to steal from a corpse than a customer."
+—Samila, Murasa Expeditionary House</flavorText>
+  </item>
+  <item>
+    <id>ZEN0129</id>
+    <name>Goblin War Paint</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+2 and has haste.</text>
+    <flavorText>War paint made from kolya fruit heightens senses and lessens fear. Unfortunately, fear is usually what keeps you alive.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0130</id>
+    <name>Hellfire Mongrel</name>
+    <text>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Hellfire Mongrel deals 2 damage to him or her.</text>
+    <flavorText>There is no fondness between the hound and its master. There is only a common appreciation of the hunt.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0131</id>
+    <name>Hellkite Charger</name>
+    <text>Flying, haste
+Whenever Hellkite Charger attacks, you may pay {5}{R}{R}. If you do, untap all attacking creatures and after this phase, there is an additional combat phase.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0132</id>
+    <name>Highland Berserker</name>
+    <text>Whenever Highland Berserker or another Ally enters the battlefield under your control, you may have Ally creatures you control gain first strike until end of turn.</text>
+    <flavorText>He gets paid by the axe.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0133</id>
+    <name>Inferno Trap</name>
+    <text>If you've been dealt damage by two or more creatures this turn, you may pay {R} rather than pay Inferno Trap's mana cost.
+Inferno Trap deals 4 damage to target creature.</text>
+    <flavorText>"Do you smell something burning?"</flavorText>
+  </item>
+  <item>
+    <id>ZEN0134</id>
+    <name>Kazuul Warlord</name>
+    <text>Whenever Kazuul Warlord or another Ally enters the battlefield under your control, you may put a +1/+1 counter on each Ally creature you control.</text>
+    <flavorText>On expeditions, minotaurs are worth their weight in gold. Fortunately for their paymasters, most minotaurs don't know how much they weigh.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0135</id>
+    <name>Lavaball Trap</name>
+    <text>If an opponent had two or more lands enter the battlefield under his or her control this turn, you may pay {3}{R}{R} rather than pay Lavaball Trap's mana cost.
+Destroy two target lands. Lavaball Trap deals 4 damage to each creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0136</id>
+    <name>Magma Rift</name>
+    <text>As an additional cost to cast Magma Rift, sacrifice a land.
+Magma Rift deals 5 damage to target creature.</text>
+    <flavorText>"Lighting a fire needs kindling and heat. You be the kindling. I'll bring the heat."
+—Chandra Nalaar</flavorText>
+  </item>
+  <item>
+    <id>ZEN0137</id>
+    <name>Mark of Mutiny</name>
+    <text>Gain control of target creature until end of turn. Put a +1/+1 counter on it and untap it. That creature gains haste until end of turn.</text>
+    <flavorText>The flame of anger is hard to douse once lit.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0138</id>
+    <name>Molten Ravager</name>
+    <text>{R}: Molten Ravager gets +1/+0 until end of turn.</text>
+    <flavorText>"Only the foolhardy would venture into the Akoum Mountains without a lullmage to tame the raging rocks and living fires."
+—Sachir, Akoum Expeditionary House</flavorText>
+  </item>
+  <item>
+    <id>ZEN0139</id>
+    <name>Murasa Pyromancer</name>
+    <text>Whenever Murasa Pyromancer or another Ally enters the battlefield under your control, you may have Murasa Pyromancer deal damage to target creature equal to the number of Allies you control.</text>
+    <flavorText>"Fire is my accomplice. For enough coin, it can be yours as well."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0140</id>
+    <name>Obsidian Fireheart</name>
+    <text>{1}{R}{R}: Put a blaze counter on target land without a blaze counter on it. For as long as that land has a blaze counter on it, it has "At the beginning of your upkeep, this land deals 1 damage to you." (The land continues to burn after Obsidian Fireheart has left the battlefield.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0141</id>
+    <name>Plated Geopede</name>
+    <text>First strike
+Landfall — Whenever a land enters the battlefield under your control, Plated Geopede gets +2/+2 until end of turn.</text>
+    <flavorText>"Kor armorers buy the scales and claws. Elf oracles buy the rest."
+—Nablus, North Hada trapper</flavorText>
+  </item>
+  <item>
+    <id>ZEN0142</id>
+    <name>Punishing Fire</name>
+    <text>Punishing Fire deals 2 damage to target creature or player.
+Whenever an opponent gains life, you may pay {R}. If you do, return Punishing Fire from your graveyard to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0143</id>
+    <name>Pyromancer Ascension</name>
+    <text>Whenever you cast an instant or sorcery spell that has the same name as a card in your graveyard, you may put a quest counter on Pyromancer Ascension.
+Whenever you cast an instant or sorcery spell while Pyromancer Ascension has two or more quest counters on it, you may copy that spell. You may choose new targets for the copy.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0144</id>
+    <name>Quest for Pure Flame</name>
+    <text>Whenever a source you control deals damage to an opponent, you may put a quest counter on Quest for Pure Flame.
+Remove four quest counters from Quest for Pure Flame and sacrifice it: If any source you control would deal damage to a creature or player this turn, it deals double that damage to that creature or player instead.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0145</id>
+    <name>Ruinous Minotaur</name>
+    <text>Whenever Ruinous Minotaur deals damage to an opponent, sacrifice a land.</text>
+    <flavorText>Not every intelligent being is interested in treasure and lost knowledge . . . or even the basics of speech.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0146</id>
+    <name>Runeflare Trap</name>
+    <text>If an opponent drew three or more cards this turn, you may pay {R} rather than pay Runeflare Trap's mana cost.
+Runeflare Trap deals damage to target player equal to the number of cards in that player's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0147</id>
+    <name>Seismic Shudder</name>
+    <text>Seismic Shudder deals 1 damage to each creature without flying.</text>
+    <flavorText>"The land here seems go out of its way to kill you."
+—Chandra Nalaar</flavorText>
+  </item>
+  <item>
+    <id>ZEN0148</id>
+    <name>Shatterskull Giant</name>
+    <text>
+    </text>
+    <flavorText>"Now I know why they call it Shatterskull Pass. Rocks fell all night like hammers smashing an anvil. It's no wonder the giants are angry all the time."
+—Mitra, Bala Ged missionary</flavorText>
+  </item>
+  <item>
+    <id>ZEN0149</id>
+    <name>Slaughter Cry</name>
+    <text>Target creature gets +3/+0 and gains first strike until end of turn.</text>
+    <flavorText>"Since when did ‘AIIIEEEE!' become a negotiation tactic?"
+—Nikou, Joraga bard</flavorText>
+  </item>
+  <item>
+    <id>ZEN0150</id>
+    <name>Spire Barrage</name>
+    <text>Spire Barrage deals damage to target creature or player equal to the number of Mountains you control.</text>
+    <flavorText>Goblin lessons include the 2,071 tips for survival. Frek only remembered 2,070.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0151</id>
+    <name>Torch Slinger</name>
+    <text>Kicker {1}{R} (You may pay an additional {1}{R} as you cast this spell.)
+When Torch Slinger enters the battlefield, if it was kicked, it deals 2 damage to target creature.</text>
+    <flavorText>Once thrown, twice burned.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0152</id>
+    <name>Tuktuk Grunts</name>
+    <text>Haste
+Whenever Tuktuk Grunts or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Tuktuk Grunts.</text>
+    <flavorText>Goblins are more aggressive with a crowd to cheer them on.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0153</id>
+    <name>Unstable Footing</name>
+    <text>Kicker {3}{R} (You may pay an additional {3}{R} as you cast this spell.)
+Damage can't be prevented this turn. If Unstable Footing was kicked, it deals 5 damage to target player.</text>
+    <flavorText>A long way down is shorter than you think.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0154</id>
+    <name>Warren Instigator</name>
+    <text>Double strike
+Whenever Warren Instigator deals damage to an opponent, you may put a Goblin creature card from your hand onto the battlefield.</text>
+    <flavorText>"Danger! Danger! Come out of the safety of your holes!"</flavorText>
+  </item>
+  <item>
+    <id>ZEN0155</id>
+    <name>Zektar Shrine Expedition</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Zektar Shrine Expedition.
+Remove three quest counters from Zektar Shrine Expedition and sacrifice it: Put a 7/1 red Elemental creature token with trample and haste onto the battlefield. Exile it at the beginning of the next end step.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0156</id>
+    <name>Baloth Cage Trap</name>
+    <text>If an opponent had an artifact enter the battlefield under his or her control this turn, you may pay {1}{G} rather than pay Baloth Cage Trap's mana cost.
+Put a 4/4 green Beast creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0157</id>
+    <name>Baloth Woodcrasher</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, Baloth Woodcrasher gets +4/+4 and gains trample until end of turn.</text>
+    <flavorText>Its insatiable hunger quickly depletes a region of prey. It must migrate from place to place to feed its massive bulk.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0158</id>
+    <name>Beast Hunt</name>
+    <text>Reveal the top three cards of your library. Put all creature cards revealed this way into your hand and the rest into your graveyard.</text>
+    <flavorText>"Surely we could tame something besides hurdas and pillarfield oxen!"
+—Sheyda, Ondu gamekeeper</flavorText>
+  </item>
+  <item>
+    <id>ZEN0159</id>
+    <name>Beastmaster Ascension</name>
+    <text>Whenever a creature you control attacks, you may put a quest counter on Beastmaster Ascension.
+As long as Beastmaster Ascension has seven or more quest counters on it, creatures you control get +5/+5.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0160</id>
+    <name>Cobra Trap</name>
+    <text>If a noncreature permanent under your control was destroyed this turn by a spell or ability an opponent controlled, you may pay {G} rather than pay Cobra Trap's mana cost.
+Put four 1/1 green Snake creature tokens onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0161</id>
+    <name>Frontier Guide</name>
+    <text>{3}{G}, {T}: Search your library for a basic land card and put it onto the battlefield tapped. Then shuffle your library.</text>
+    <flavorText>"The elders say Zendikar has no safe, peaceful places. How would they know? They've never looked."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0162</id>
+    <name>Gigantiform</name>
+    <text>Kicker {4}
+Enchant creature
+Enchanted creature is 8/8 and has trample.
+When Gigantiform enters the battlefield, if it was kicked, you may search your library for a card named Gigantiform, put it onto the battlefield, then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0163</id>
+    <name>Grazing Gladehart</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may gain 2 life.</text>
+    <flavorText>"Don't be fooled. If it were as docile as it looks, it would've died off long ago."
+—Yon Basrel, Oran-Rief survivalist</flavorText>
+  </item>
+  <item>
+    <id>ZEN0164</id>
+    <name>Greenweaver Druid</name>
+    <text>{T}: Add {G}{G} to your mana pool.</text>
+    <flavorText>The other tribes call them fanatics, but none deny that the Mul Daya elves have an iron-strong bond to some force greater than themselves.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0165</id>
+    <name>Harrow</name>
+    <text>As an additional cost to cast Harrow, sacrifice a land.
+Search your library for up to two basic land cards and put them onto the battlefield. Then shuffle your library.</text>
+    <flavorText>The Roil redraws the world as it passes, leaving only the hedrons unchanged.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0166</id>
+    <name>Joraga Bard</name>
+    <text>Whenever Joraga Bard or another Ally enters the battlefield under your control, you may have Ally creatures you control gain vigilance until end of turn.</text>
+    <flavorText>Adventuring bards recite Chanter's Epics, never-ending tales that keep their comrades' minds alert to danger.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0167</id>
+    <name>Khalni Heart Expedition</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may put a quest counter on Khalni Heart Expedition.
+Remove three quest counters from Khalni Heart Expedition and sacrifice it: Search your library for up to two basic land cards, put them onto the battlefield tapped, then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0168</id>
+    <name>Lotus Cobra</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, you may add one mana of any color to your mana pool.</text>
+    <flavorText>Its scales contain the essence of thousands of lotus blooms.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0169</id>
+    <name>Mold Shambler</name>
+    <text>Kicker {1}{G} (You may pay an additional {1}{G} as you cast this spell.)
+When Mold Shambler enters the battlefield, if it was kicked, destroy target noncreature permanent.</text>
+    <flavorText>When civilization encroaches on nature, Zendikar encroaches back.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0170</id>
+    <name>Nissa Revane</name>
+    <text>+1: Search your library for a card named Nissa's Chosen and put it onto the battlefield. Then shuffle your library.
++1: You gain 2 life for each Elf you control.
+-7: Search your library for any number of Elf creature cards and put them onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0171</id>
+    <name>Nissa's Chosen</name>
+    <text>If Nissa's Chosen would be put into a graveyard from the battlefield, put it on the bottom of its owner's library instead.</text>
+    <flavorText>"Nissa will save the elves, but only the ones who have proved their worth."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0172</id>
+    <name>Oracle of Mul Daya</name>
+    <text>You may play an additional land on each of your turns.
+Play with the top card of your library revealed.
+You may play the top card of your library if it's a land card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0173</id>
+    <name>Oran-Rief Recluse</name>
+    <text>Kicker {2}{G} (You may pay an additional {2}{G} as you cast this spell.)
+Reach (This creature can block creatures with flying.)
+When Oran-Rief Recluse enters the battlefield, if it was kicked, destroy target creature with flying.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0174</id>
+    <name>Oran-Rief Survivalist</name>
+    <text>Whenever Oran-Rief Survivalist or another Ally enters the battlefield under your control, you may put a +1/+1 counter on Oran-Rief Survivalist.</text>
+    <flavorText>"I'm strong enough to survive alone. I'm smart enough to want companions at my side."</flavorText>
+  </item>
+  <item>
+    <id>ZEN0175</id>
+    <name>Predatory Urge</name>
+    <text>Enchant creature
+Enchanted creature has "{T}: This creature deals damage equal to its power to target creature. That creature deals damage equal to its power to this creature."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0176</id>
+    <name>Primal Bellow</name>
+    <text>Target creature gets +1/+1 until end of turn for each Forest you control.</text>
+    <flavorText>"A might spell can be handy against baloths, giants, kraken, the Roil—or if you lose your bearings in the woods."
+—Chadir the Navigator</flavorText>
+  </item>
+  <item>
+    <id>ZEN0177</id>
+    <name>Quest for the Gemblades</name>
+    <text>Whenever a creature you control deals combat damage to a creature, you may put a quest counter on Quest for the Gemblades.
+Remove a quest counter from Quest for the Gemblades and sacrifice it: Put four +1/+1 counters on target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0178</id>
+    <name>Rampaging Baloths</name>
+    <text>Trample
+Landfall — Whenever a land enters the battlefield under your control, you may put a 4/4 green Beast creature token onto the battlefield.</text>
+    <flavorText>"When the land is angry, so are they."
+—Nissa Revane</flavorText>
+  </item>
+  <item>
+    <id>ZEN0179</id>
+    <name>Relic Crush</name>
+    <text>Destroy target artifact or enchantment and up to one other target artifact or enchantment.</text>
+    <flavorText>There are many ruins, but there used to be many more.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0180</id>
+    <name>River Boa</name>
+    <text>Islandwalk
+{G}: Regenerate River Boa.</text>
+    <flavorText>"Sheath your swords! Cudgels only. I see a new pair of waterproof trek boots slithering away."
+—Nablus, North Hada trapper</flavorText>
+  </item>
+  <item>
+    <id>ZEN0181</id>
+    <name>Savage Silhouette</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+2 and has "{1}{G}: Regenerate this creature."</text>
+    <flavorText>Some elves believe that their survival instincts are born of many cycles of reincarnation.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0182</id>
+    <name>Scute Mob</name>
+    <text>At the beginning of your upkeep, if you control five or more lands, put four +1/+1 counters on Scute Mob.</text>
+    <flavorText>"Survival rule 781: There are always more scute bugs."
+—Zurdi, goblin shortcutter</flavorText>
+  </item>
+  <item>
+    <id>ZEN0183</id>
+    <name>Scythe Tiger</name>
+    <text>Shroud (This creature can't be the target of spells or abilities.)
+When Scythe Tiger enters the battlefield, sacrifice it unless you sacrifice a land.</text>
+    <flavorText>Instead of adapting to its environment, it adapts its environment to itself.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0184</id>
+    <name>Summoning Trap</name>
+    <text>If a creature spell you cast this turn was countered by a spell or ability an opponent controlled, you may pay {0} rather than pay Summoning Trap's mana cost.
+Look at the top seven cards of your library. You may put a creature card from among them onto the battlefield. Put the rest on the bottom of your library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0185</id>
+    <name>Tajuru Archer</name>
+    <text>Whenever Tajuru Archer or another Ally enters the battlefield under your control, you may have Tajuru Archer deal damage to target creature with flying equal to the number of Allies you control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0186</id>
+    <name>Tanglesap</name>
+    <text>Prevent all combat damage that would be dealt this turn by creatures without trample.</text>
+    <flavorText>"The blood of the forest is beholden to no one."
+—Nissa Revane</flavorText>
+  </item>
+  <item>
+    <id>ZEN0187</id>
+    <name>Terra Stomper</name>
+    <text>Terra Stomper can't be countered.
+Trample</text>
+    <flavorText>Sometimes violent earthquakes, hurtling boulders, and unseasonable dust storms are wrongly attributed to the Roil.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0188</id>
+    <name>Territorial Baloth</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, Territorial Baloth gets +2/+2 until end of turn.</text>
+    <flavorText>Its territory is defined by wherever it is at the moment.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0189</id>
+    <name>Timbermaw Larva</name>
+    <text>Whenever Timbermaw Larva attacks, it gets +1/+1 until end of turn for each Forest you control.</text>
+    <flavorText>"You can't trust your eyes. A tree might look healthy, but its insides tell a different tale."
+—Zahr Gada, Halimar expedition leader</flavorText>
+  </item>
+  <item>
+    <id>ZEN0190</id>
+    <name>Turntimber Basilisk</name>
+    <text>Deathtouch (Creatures dealt damage by this creature are destroyed. You can divide this creature's combat damage among any of the creatures blocking or blocked by it.)
+Landfall — Whenever a land enters the battlefield under your control, you may have target creature block Turntimber Basilisk this turn if able.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0191</id>
+    <name>Turntimber Ranger</name>
+    <text>Whenever Turntimber Ranger or another Ally enters the battlefield under your control, you may put a 2/2 green Wolf creature token onto the battlefield. If you do, put a +1/+1 counter on Turntimber Ranger.</text>
+    <flavorText>The lone wolf dies alone.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0192</id>
+    <name>Vastwood Gorger</name>
+    <text>
+    </text>
+    <flavorText>"I've known true ferocity and power. Those brazen ‘planar-walkers' have no idea what wild really means."
+—Chadir the Navigator</flavorText>
+  </item>
+  <item>
+    <id>ZEN0193</id>
+    <name>Vines of Vastwood</name>
+    <text>Kicker {G} (You may pay an additional {G} as you cast this spell.)
+Target creature can't be the target of spells or abilities your opponents control this turn. If Vines of Vastwood was kicked, that creature gets +4/+4 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0194</id>
+    <name>Zendikar Farguide</name>
+    <text>Forestwalk</text>
+    <flavorText>Expeditions follow the paths it leaves in its wake.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0195</id>
+    <name>Adventuring Gear</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, equipped creature gets +2/+2 until end of turn.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>An explorer's essentials in a wild world.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0196</id>
+    <name>Blade of the Bloodchief</name>
+    <text>Whenever a creature is put into a graveyard from the battlefield, put a +1/+1 counter on equipped creature. If equipped creature is a Vampire, put two +1/+1 counters on it instead.
+Equip {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0197</id>
+    <name>Blazing Torch</name>
+    <text>Equipped creature can't be blocked by Vampires or Zombies.
+Equipped creature has "{T}, Sacrifice Blazing Torch: Blazing Torch deals 2 damage to target creature or player."
+Equip {1}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0198</id>
+    <name>Carnage Altar</name>
+    <text>{3}, Sacrifice a creature: Draw a card.</text>
+    <flavorText>"In these bloodstains I will find the fingerprints of our oppressors."
+—Anowon, the Ruin Sage</flavorText>
+  </item>
+  <item>
+    <id>ZEN0199</id>
+    <name>Eldrazi Monument</name>
+    <text>Creatures you control get +1/+1, have flying, and are indestructible.
+At the beginning of your upkeep, sacrifice a creature. If you can't, sacrifice Eldrazi Monument.</text>
+    <flavorText>"Gods don't die. They merely slumber."
+—Ayli, Kamsa cleric</flavorText>
+  </item>
+  <item>
+    <id>ZEN0200</id>
+    <name>Eternity Vessel</name>
+    <text>Eternity Vessel enters the battlefield with X charge counters on it, where X is your life total.
+Landfall — Whenever a land enters the battlefield under your control, you may have your life total become the number of charge counters on Eternity Vessel.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0201</id>
+    <name>Expedition Map</name>
+    <text>{2}, {T}, Sacrifice Expedition Map: Search your library for a land card, reveal it, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>"I use maps to find out where explorers have already been. Then I go the other way."
+—Javad Nasrin, Ondu relic hunter</flavorText>
+  </item>
+  <item>
+    <id>ZEN0202</id>
+    <name>Explorer's Scope</name>
+    <text>Whenever equipped creature attacks, look at the top card of your library. If it's a land card, you may put it onto the battlefield tapped.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0203</id>
+    <name>Grappling Hook</name>
+    <text>Equipped creature has double strike.
+Whenever equipped creature attacks, you may have target creature block it this turn if able.
+Equip {4}</text>
+    <flavorText>Part tool, part weapon, part of the kor.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0204</id>
+    <name>Hedron Scrabbler</name>
+    <text>Landfall — Whenever a land enters the battlefield under your control, Hedron Scrabbler gets +1/+1 until end of turn.</text>
+    <flavorText>"I don't care when the hedrons awoke. Why is the question that really matters."
+—Anowon, the Ruin Sage</flavorText>
+  </item>
+  <item>
+    <id>ZEN0205</id>
+    <name>Khalni Gem</name>
+    <text>When Khalni Gem enters the battlefield, return two lands you control to their owner's hand.
+{T}: Add two mana of any one color to your mana pool.</text>
+    <flavorText>A fragment of ancient power lost in the heart of Ora Ondar.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0206</id>
+    <name>Spidersilk Net</name>
+    <text>Equipped creature gets +0/+2 and has reach. (It can block creatures with flying.)
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0207</id>
+    <name>Stonework Puma</name>
+    <text>
+    </text>
+    <flavorText>"We suffer uneasy ground, unstable alliances, and unpredictable magic. Something you can truly trust is worth more than a chest of gold."
+—Nikou, Joraga bard</flavorText>
+  </item>
+  <item>
+    <id>ZEN0208</id>
+    <name>Trailblazer's Boots</name>
+    <text>Equipped creature has nonbasic landwalk. (It's unblockable as long as defending player controls a nonbasic land.)
+Equip {2}</text>
+    <flavorText>It's much easier to list the places they haven't been.</flavorText>
+  </item>
+  <item>
+    <id>ZEN0209</id>
+    <name>Trusty Machete</name>
+    <text>Equipped creature gets +2/+1.
+Equip {2}</text>
+    <flavorText>"Until this expedition is done, that blade is your guardian, your liberator, and your best friend all rolled into one."
+—Yon Basrel, Oran-Rief survivalist</flavorText>
+  </item>
+  <item>
+    <id>ZEN0210</id>
+    <name>Akoum Refuge</name>
+    <text>Akoum Refuge enters the battlefield tapped.
+When Akoum Refuge enters the battlefield, you gain 1 life.
+{T}: Add {B} or {R} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0211</id>
+    <name>Arid Mesa</name>
+    <text>{T}, Pay 1 life, Sacrifice Arid Mesa: Search your library for a Mountain or Plains card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0212</id>
+    <name>Crypt of Agadeem</name>
+    <text>Crypt of Agadeem enters the battlefield tapped.
+{T}: Add {B} to your mana pool.
+{2}, {T}: Add {B} to your mana pool for each black creature card in your graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0213</id>
+    <name>Emeria, the Sky Ruin</name>
+    <text>Emeria, the Sky Ruin enters the battlefield tapped.
+At the beginning of your upkeep, if you control seven or more Plains, you may return target creature card from your graveyard to the battlefield.
+{T}: Add {W} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0214</id>
+    <name>Graypelt Refuge</name>
+    <text>Graypelt Refuge enters the battlefield tapped.
+When Graypelt Refuge enters the battlefield, you gain 1 life.
+{T}: Add {G} or {W} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0215</id>
+    <name>Jwar Isle Refuge</name>
+    <text>Jwar Isle Refuge enters the battlefield tapped.
+When Jwar Isle Refuge enters the battlefield, you gain 1 life.
+{T}: Add {U} or {B} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0216</id>
+    <name>Kabira Crossroads</name>
+    <text>Kabira Crossroads enters the battlefield tapped.
+When Kabira Crossroads enters the battlefield, you gain 2 life.
+{T}: Add {W} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0217</id>
+    <name>Kazandu Refuge</name>
+    <text>Kazandu Refuge enters the battlefield tapped.
+When Kazandu Refuge enters the battlefield, you gain 1 life.
+{T}: Add {R} or {G} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0218</id>
+    <name>Magosi, the Waterveil</name>
+    <text>Magosi, the Waterveil enters the battlefield tapped.
+{T}: Add {U} to your mana pool.
+{U}, {T}: Put an eon counter on Magosi, the Waterveil. Skip your next turn.
+{T}, Remove an eon counter from Magosi, the Waterveil and return it to its owner's hand: Take an extra turn after this one.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0219</id>
+    <name>Marsh Flats</name>
+    <text>{T}, Pay 1 life, Sacrifice Marsh Flats: Search your library for a Plains or Swamp card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0220</id>
+    <name>Misty Rainforest</name>
+    <text>{T}, Pay 1 life, Sacrifice Misty Rainforest: Search your library for a Forest or Island card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0221</id>
+    <name>Oran-Rief, the Vastwood</name>
+    <text>Oran-Rief, the Vastwood enters the battlefield tapped.
+{T}: Add {G} to your mana pool.
+{T}: Put a +1/+1 counter on each green creature that entered the battlefield this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0222</id>
+    <name>Piranha Marsh</name>
+    <text>Piranha Marsh enters the battlefield tapped.
+When Piranha Marsh enters the battlefield, target player loses 1 life.
+{T}: Add {B} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0223</id>
+    <name>Scalding Tarn</name>
+    <text>{T}, Pay 1 life, Sacrifice Scalding Tarn: Search your library for an Island or Mountain card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0224</id>
+    <name>Sejiri Refuge</name>
+    <text>Sejiri Refuge enters the battlefield tapped.
+When Sejiri Refuge enters the battlefield, you gain 1 life.
+{T}: Add {W} or {U} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0225</id>
+    <name>Soaring Seacliff</name>
+    <text>Soaring Seacliff enters the battlefield tapped.
+When Soaring Seacliff enters the battlefield, target creature gains flying until end of turn.
+{T}: Add {U} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0226</id>
+    <name>Teetering Peaks</name>
+    <text>Teetering Peaks enters the battlefield tapped.
+When Teetering Peaks enters the battlefield, target creature gets +2/+0 until end of turn.
+{T}: Add {R} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0227</id>
+    <name>Turntimber Grove</name>
+    <text>Turntimber Grove enters the battlefield tapped.
+When Turntimber Grove enters the battlefield, target creature gets +1/+1 until end of turn.
+{T}: Add {G} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0228</id>
+    <name>Valakut, the Molten Pinnacle</name>
+    <text>Valakut, the Molten Pinnacle enters the battlefield tapped.
+Whenever a Mountain enters the battlefield under your control, if you control at least five other Mountains, you may have Valakut, the Molten Pinnacle deal 3 damage to target creature or player.
+{T}: Add {R} to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0229</id>
+    <name>Verdant Catacombs</name>
+    <text>{T}, Pay 1 life, Sacrifice Verdant Catacombs: Search your library for a Swamp or Forest card and put it onto the battlefield. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0230</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0231</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0232</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0233</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0234</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0235</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0236</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0237</id>
+    <name>Plains</name>
+    <text>W</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0238</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0239</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0240</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0241</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0242</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0243</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0244</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0245</id>
+    <name>Island</name>
+    <text>U</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0246</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0247</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0248</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0249</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0250</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0251</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0252</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0253</id>
+    <name>Swamp</name>
+    <text>B</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0254</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0255</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0256</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0257</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0258</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0259</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0260</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0261</id>
+    <name>Mountain</name>
+    <text>R</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0262</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0263</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0264</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0265</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0266</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0267</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0268</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>ZEN0269</id>
+    <name>Forest</name>
+    <text>G</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

@@ -1,0 +1,4845 @@
+<cards releaseDate="2005-10-07T00:00:00" code="RAV">
+  <item>
+    <id>RAV0001</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{5}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Jeff Miracola</artist>
+    <style>POST_8</style>
+    <imagePath>Auratouched Mage.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0002</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>POST_8</style>
+    <imagePath>Bathe in Light.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0003</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{W}</cost>
+    <type>CRE</type>
+    <characteristics>0/4</characteristics>
+    <artist>Nick Percival</artist>
+    <style>POST_8</style>
+    <imagePath>Benevolent Ancestor.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0004</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{6}{W}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>5/6</characteristics>
+    <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+    <style>POST_8</style>
+    <imagePath>Blazing Archon.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0005</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Wayne England</artist>
+    <style>POST_8</style>
+    <imagePath>Boros Fury-Shield.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0006</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>William Simpson</artist>
+    <style>POST_8</style>
+    <imagePath>Caregiver.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0007</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{6}{W}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Stephen Tappin</artist>
+    <style>POST_8</style>
+    <imagePath>Chant of Vitu-Ghazi.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0008</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{W}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Michael Sutfin</artist>
+    <style>POST_8</style>
+    <imagePath>Concerted Effort.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0009</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Terese Nielsen</artist>
+    <style>POST_8</style>
+    <imagePath>Conclave Equenaut.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0010</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/4</characteristics>
+    <artist>Wayne Reynolds</artist>
+    <style>POST_8</style>
+    <imagePath>Conclave Phalanx.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0011</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Shishizaru</artist>
+    <style>POST_8</style>
+    <imagePath>Conclave's Blessing.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0012</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Mark Poole</artist>
+    <style>POST_8</style>
+    <imagePath>Courier Hawk.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0013</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{W}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Pete Venters</artist>
+    <style>POST_8</style>
+    <imagePath>Devouring Light.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0014</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/2</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Divebomber Griffin.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0015</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/5</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>POST_8</style>
+    <imagePath>Dromad Purebred.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0016</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Chippy</artist>
+    <style>POST_8</style>
+    <imagePath>Faith's Fetters.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0017</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{X}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>POST_8</style>
+    <imagePath>Festival of the Guildpact.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0018</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>POST_8</style>
+    <imagePath>Flickerform.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0019</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Ralph Horsley</artist>
+    <style>POST_8</style>
+    <imagePath>Gate Hound.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0020</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{5}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>4/5</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Ghosts of the Innocent.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0021</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{W}{W}{W}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Randy Gallegos</artist>
+    <style>POST_8</style>
+    <imagePath>Hour of Reckoning.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0022</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>5/5</characteristics>
+    <artist>Mark Zug</artist>
+    <style>POST_8</style>
+    <imagePath>Hunted Lammasu.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0023</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Pat Lee</artist>
+    <style>POST_8</style>
+    <imagePath>Leave No Trace.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0024</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{W}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Michael Phillippi</artist>
+    <style>POST_8</style>
+    <imagePath>Light of Sanction.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0025</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/3</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>POST_8</style>
+    <imagePath>Loxodon Gatekeeper.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0026</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Dany Orizio</artist>
+    <style>POST_8</style>
+    <imagePath>Nightguard Patrol.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0027</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/4</characteristics>
+    <artist>Daren Bader</artist>
+    <style>POST_8</style>
+    <imagePath>Oathsworn Giant.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0028</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/3</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Sandsower.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0029</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Tim Hildebrandt</artist>
+    <style>POST_8</style>
+    <imagePath>Screeching Griffin.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0030</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jeff Miracola</artist>
+    <style>POST_8</style>
+    <imagePath>Seed Spark.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0031</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>POST_8</style>
+    <imagePath>Suppression Field.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0032</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{W}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Shishizaru</artist>
+    <style>POST_8</style>
+    <imagePath>Three Dreams.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0033</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Dave Allsop</artist>
+    <style>POST_8</style>
+    <imagePath>Twilight Drover.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0034</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Ralph Horsley</artist>
+    <style>POST_8</style>
+    <imagePath>Veteran Armorer.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0035</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Alan Pollack</artist>
+    <style>POST_8</style>
+    <imagePath>Votary of the Conclave.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0036</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Keith Garletts</artist>
+    <style>POST_8</style>
+    <imagePath>Wojek Apothecary.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0037</id>
+    <colors>
+      <color>W</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+    <style>POST_8</style>
+    <imagePath>Wojek Siren.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_W_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_W_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0038</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/5</characteristics>
+    <artist>Jim Nelson</artist>
+    <style>POST_8</style>
+    <imagePath>Belltower Sphinx.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0039</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>5/5</characteristics>
+    <artist>Jim Murray</artist>
+    <style>POST_8</style>
+    <imagePath>Cerulean Sphinx.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0040</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Michael Sutfin</artist>
+    <style>POST_8</style>
+    <imagePath>Compulsive Research.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0041</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dany Orizio</artist>
+    <style>POST_8</style>
+    <imagePath>Convolute.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0042</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Joel Thomas</artist>
+    <style>POST_8</style>
+    <imagePath>Copy Enchantment.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0043</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Dizzy Spell.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0044</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Darrell Riche</artist>
+    <style>POST_8</style>
+    <imagePath>Drake Familiar.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0045</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{U}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>POST_8</style>
+    <imagePath>Dream Leash.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0046</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}</cost>
+    <type>CRE</type>
+    <characteristics>0/5</characteristics>
+    <artist>Michael Phillippi</artist>
+    <style>POST_8</style>
+    <imagePath>Drift of Phantasms.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0047</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{5}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/3</characteristics>
+    <artist>Mark A. Nelson</artist>
+    <style>POST_8</style>
+    <imagePath>Ethereal Usher.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0048</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{5}{U}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Hideaki Takamura</artist>
+    <style>POST_8</style>
+    <imagePath>Eye of the Storm.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0049</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Glen Angus</artist>
+    <style>POST_8</style>
+    <imagePath>Flight of Fancy.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0050</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{5}{U}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dan Scott</artist>
+    <style>POST_8</style>
+    <imagePath>Flow of Ideas.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0051</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{U}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Glen Angus</artist>
+    <style>POST_8</style>
+    <imagePath>Followed Footsteps.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0052</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Chris Dien</artist>
+    <style>POST_8</style>
+    <imagePath>Grayscaled Gharial.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0053</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{6}{U}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>9/9</characteristics>
+    <artist>Cyril Van Der Haegen</artist>
+    <style>POST_8</style>
+    <imagePath>Grozoth.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0054</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{U}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>POST_8</style>
+    <imagePath>Halcyon Glaze.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0055</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>4/6</characteristics>
+    <artist>Justin Sweet</artist>
+    <style>POST_8</style>
+    <imagePath>Hunted Phantasm.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0056</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jim Murray</artist>
+    <style>POST_8</style>
+    <imagePath>Induce Paranoia.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0057</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Alan Pollack</artist>
+    <style>POST_8</style>
+    <imagePath>Lore Broker.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0058</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tsutomu Kawade</artist>
+    <style>POST_8</style>
+    <imagePath>Mark of Eviction.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0059</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Stephen Tappin</artist>
+    <style>POST_8</style>
+    <imagePath>Mnemonic Nexus.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0060</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{U}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Luca Zontini</artist>
+    <style>POST_8</style>
+    <imagePath>Muddle the Mixture.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0061</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Puddnhead</artist>
+    <style>POST_8</style>
+    <imagePath>Peel from Reality.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0062</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Quickchange.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0063</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark A. Nelson</artist>
+    <style>POST_8</style>
+    <imagePath>Remand.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0064</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{U}</cost>
+    <type>CRE</type>
+    <characteristics>3/2</characteristics>
+    <artist>Dave Dorman</artist>
+    <style>POST_8</style>
+    <imagePath>Snapping Drake.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0065</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Wayne England</artist>
+    <style>POST_8</style>
+    <imagePath>Spawnbroker.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0066</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{U}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark A. Nelson</artist>
+    <style>POST_8</style>
+    <imagePath>Stasis Cell.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0067</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Terese Nielsen</artist>
+    <style>POST_8</style>
+    <imagePath>Surveilling Sprite.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0068</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Glenn Fabry</artist>
+    <style>POST_8</style>
+    <imagePath>Tattered Drake.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0069</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{U}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Scott M. Fischer</artist>
+    <style>POST_8</style>
+    <imagePath>Telling Time.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0070</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Luca Zontini</artist>
+    <style>POST_8</style>
+    <imagePath>Terraformer.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0071</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{U}{U}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Tomas Giorello</artist>
+    <style>POST_8</style>
+    <imagePath>Tidewater Minion.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0072</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{5}{U}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dany Orizio</artist>
+    <style>POST_8</style>
+    <imagePath>Tunnel Vision.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0073</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{5}{U}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Dan Scott</artist>
+    <style>POST_8</style>
+    <imagePath>Vedalken Dismisser.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0074</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/4</characteristics>
+    <artist>Dan Scott</artist>
+    <style>POST_8</style>
+    <imagePath>Vedalken Entrancer.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0075</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{U}</cost>
+    <type>CRE</type>
+    <characteristics>1/3</characteristics>
+    <artist>Greg Staples</artist>
+    <style>POST_8</style>
+    <imagePath>Wizened Snitches.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0076</id>
+    <colors>
+      <color>U</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{5}{U}</cost>
+    <type>CRE</type>
+    <characteristics>0/6</characteristics>
+    <artist>Tomas Giorello</artist>
+    <style>POST_8</style>
+    <imagePath>Zephyr Spirit.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_U_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_U_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0077</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{B}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>POST_8</style>
+    <imagePath>Blood Funnel.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0078</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{B}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tomas Giorello</artist>
+    <style>POST_8</style>
+    <imagePath>Brainspoil.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0079</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>John Zeleznik</artist>
+    <style>POST_8</style>
+    <imagePath>Carrion Howler.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0080</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Glen Angus</artist>
+    <style>POST_8</style>
+    <imagePath>Clinging Darkness.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0081</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Ron Spears</artist>
+    <style>POST_8</style>
+    <imagePath>Dark Confidant.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0082</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Randy Gallegos</artist>
+    <style>POST_8</style>
+    <imagePath>Darkblast.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0083</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/3</characteristics>
+    <artist>John Zeleznik</artist>
+    <style>POST_8</style>
+    <imagePath>Dimir House Guard.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0084</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg Staples</artist>
+    <style>POST_8</style>
+    <imagePath>Dimir Machinations.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0085</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{X}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Chengo McFlingers</artist>
+    <style>POST_8</style>
+    <imagePath>Disembowel.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0086</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark A. Nelson</artist>
+    <style>POST_8</style>
+    <imagePath>Empty the Catacombs.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0087</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Golgari Thug.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0088</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>6/5</characteristics>
+    <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+    <style>POST_8</style>
+    <imagePath>Helldozer.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0089</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{B}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Michael Sutfin</artist>
+    <style>POST_8</style>
+    <imagePath>Hex.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0090</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>7/7</characteristics>
+    <artist>Paolo Parente</artist>
+    <style>POST_8</style>
+    <imagePath>Hunted Horror.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0091</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>rk post</artist>
+    <style>POST_8</style>
+    <imagePath>Infectious Host.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0092</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Robert Bliss</artist>
+    <style>POST_8</style>
+    <imagePath>Keening Banshee.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0093</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>POST_8</style>
+    <imagePath>Last Gasp.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0094</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{B}</cost>
+    <type>CRE</type>
+    <characteristics>3/2</characteristics>
+    <artist>Darrell Riche</artist>
+    <style>POST_8</style>
+    <imagePath>Mausoleum Turnkey.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0095</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Nick Percival</artist>
+    <style>POST_8</style>
+    <imagePath>Moonlight Bargain.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0096</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{B}</cost>
+    <type>CRE</type>
+    <characteristics>4/1</characteristics>
+    <artist>Dave Dorman</artist>
+    <style>POST_8</style>
+    <imagePath>Mortipede.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0097</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{B}{B}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Brandon Kitkouski</artist>
+    <style>POST_8</style>
+    <imagePath>Necromantic Thirst.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0098</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>rk post</artist>
+    <style>POST_8</style>
+    <imagePath>Necroplasm.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0099</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{5}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/4</characteristics>
+    <artist>Christopher Rush</artist>
+    <style>POST_8</style>
+    <imagePath>Netherborn Phalanx.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0100</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Chippy</artist>
+    <style>POST_8</style>
+    <imagePath>Nightmare Void.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0101</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spears</artist>
+    <style>POST_8</style>
+    <imagePath>Ribbons of Night.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0102</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Puddnhead</artist>
+    <style>POST_8</style>
+    <imagePath>Roofstalker Wight.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0103</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>3/1</characteristics>
+    <artist>Nick Percival</artist>
+    <style>POST_8</style>
+    <imagePath>Sadistic Augermage.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0104</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Joel Thomas</artist>
+    <style>POST_8</style>
+    <imagePath>Sewerdreg.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0105</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Hideaki Takamura</artist>
+    <style>POST_8</style>
+    <imagePath>Shred Memory.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0106</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{B}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jeremy Jarvis</artist>
+    <style>POST_8</style>
+    <imagePath>Sins of the Past.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0107</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>POST_8</style>
+    <imagePath>Stinkweed Imp.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0108</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{B}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dave Allsop</artist>
+    <style>POST_8</style>
+    <imagePath>Strands of Undeath.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0109</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Pete Venters</artist>
+    <style>POST_8</style>
+    <imagePath>Thoughtpicker Witch.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0110</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Dana Knutson</artist>
+    <style>POST_8</style>
+    <imagePath>Undercity Shade.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0111</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{B}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dan Scott</artist>
+    <style>POST_8</style>
+    <imagePath>Vigor Mortis.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0112</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>5/5</characteristics>
+    <artist>Wayne Reynolds</artist>
+    <style>POST_8</style>
+    <imagePath>Vindictive Mob.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0113</id>
+    <colors>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Daren Bader</artist>
+    <style>POST_8</style>
+    <imagePath>Woebringer Demon.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_B_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_B_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0114</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{R}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>POST_8</style>
+    <imagePath>Barbarian Riftcutter.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0115</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{R}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dave Dorman</artist>
+    <style>POST_8</style>
+    <imagePath>Blockbuster.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0116</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{R}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Breath of Fury.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0117</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Adam Rex</artist>
+    <style>POST_8</style>
+    <imagePath>Char.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0118</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Pat Lee</artist>
+    <style>POST_8</style>
+    <imagePath>Cleansing Beam.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0119</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Daren Bader</artist>
+    <style>POST_8</style>
+    <imagePath>Coalhauler Swine.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0120</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jeff Miracola</artist>
+    <style>POST_8</style>
+    <imagePath>Dogpile.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0121</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{6}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>7/7</characteristics>
+    <artist>Paolo Parente</artist>
+    <style>POST_8</style>
+    <imagePath>Excruciator.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0122</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Paolo Parente</artist>
+    <style>POST_8</style>
+    <imagePath>Fiery Conclusion.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0123</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dany Orizio</artist>
+    <style>POST_8</style>
+    <imagePath>Flame Fusillade.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0124</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{5}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Stephen Tappin</artist>
+    <style>POST_8</style>
+    <imagePath>Flash Conscription.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0125</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>POST_8</style>
+    <imagePath>Frenzied Goblin.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0126</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Michael Sutfin</artist>
+    <style>POST_8</style>
+    <imagePath>Galvanic Arc.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0127</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Paolo Parente</artist>
+    <style>POST_8</style>
+    <imagePath>Goblin Fire Fiend.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0128</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{R}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Glenn Fabry</artist>
+    <style>POST_8</style>
+    <imagePath>Goblin Spelunkers.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0129</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>3/4</characteristics>
+    <artist>Marcelo Vignali</artist>
+    <style>POST_8</style>
+    <imagePath>Greater Forgeling.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0130</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>5/4</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>POST_8</style>
+    <imagePath>Hammerfist Giant.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0131</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>6/6</characteristics>
+    <artist>Mark Zug</artist>
+    <style>POST_8</style>
+    <imagePath>Hunted Dragon.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0132</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Paolo Parente</artist>
+    <style>POST_8</style>
+    <imagePath>Incite Hysteria.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0133</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{R}</cost>
+    <type>CRE</type>
+    <characteristics>4/3</characteristics>
+    <artist>Glenn Fabry</artist>
+    <style>POST_8</style>
+    <imagePath>Indentured Oaf.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0134</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jim Nelson</artist>
+    <style>POST_8</style>
+    <imagePath>Instill Furor.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0135</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{R}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>POST_8</style>
+    <imagePath>Mindmoil.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0136</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}</cost>
+    <type>CRE</type>
+    <characteristics>*/*</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Molten Sentry.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0137</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{R}</cost>
+    <type>CRE</type>
+    <characteristics>4/1</characteristics>
+    <artist>Stephen Tappin</artist>
+    <style>POST_8</style>
+    <imagePath>Ordruun Commando.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0138</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tsutomu Kawade</artist>
+    <style>POST_8</style>
+    <imagePath>Rain of Embers.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0139</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Rush</artist>
+    <style>POST_8</style>
+    <imagePath>Reroute.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0140</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>POST_8</style>
+    <imagePath>Sabertooth Alley Cat.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0141</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{R}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>POST_8</style>
+    <imagePath>Seismic Spike.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0142</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Jeff Miracola</artist>
+    <style>POST_8</style>
+    <imagePath>Sell-Sword Brute.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0143</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Paolo Parente</artist>
+    <style>POST_8</style>
+    <imagePath>Smash.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0144</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Mark Poole</artist>
+    <style>POST_8</style>
+    <imagePath>Sparkmage Apprentice.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0145</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Jeff Miracola</artist>
+    <style>POST_8</style>
+    <imagePath>Stoneshaker Shaman.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0146</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{R}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Justin Sweet</artist>
+    <style>POST_8</style>
+    <imagePath>Surge of Zeal.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0147</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{R}</cost>
+    <type>CRE</type>
+    <characteristics>3/2</characteristics>
+    <artist>Paolo Parente</artist>
+    <style>POST_8</style>
+    <imagePath>Torpid Moloch.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0148</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{R}{R}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>POST_8</style>
+    <imagePath>Viashino Fangtail.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0149</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Glenn Fabry</artist>
+    <style>POST_8</style>
+    <imagePath>Viashino Slasher.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0150</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{5}{R}{R}{R}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spencer</artist>
+    <style>POST_8</style>
+    <imagePath>Warp World.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0151</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Alex Horley-Orlandelli</artist>
+    <style>POST_8</style>
+    <imagePath>War-Torch Goblin.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0152</id>
+    <colors>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{R}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Luca Zontini</artist>
+    <style>POST_8</style>
+    <imagePath>Wojek Embermage.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_R_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_R_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0153</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{G}</cost>
+    <type>CRE</type>
+    <characteristics>0/1</characteristics>
+    <artist>Marcelo Vignali</artist>
+    <style>POST_8</style>
+    <imagePath>Birds of Paradise.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0154</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Tomas Giorello</artist>
+    <style>POST_8</style>
+    <imagePath>Bramble Elemental.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0155</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/5</characteristics>
+    <artist>Jim Nelson</artist>
+    <style>POST_8</style>
+    <imagePath>Carven Caryatid.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0156</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{X}{G}{G}{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Heather Hudson</artist>
+    <style>POST_8</style>
+    <imagePath>Chord of Calling.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0157</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Cyril Van Der Haegen</artist>
+    <style>POST_8</style>
+    <imagePath>Civic Wayfinder.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0158</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Wayne Reynolds</artist>
+    <style>POST_8</style>
+    <imagePath>Doubling Season.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0159</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/4</characteristics>
+    <artist>Wayne Reynolds</artist>
+    <style>POST_8</style>
+    <imagePath>Dowsing Shaman.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0160</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{4}{G}{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Randy Gallegos</artist>
+    <style>POST_8</style>
+    <imagePath>Dryad's Caress.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0161</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Justin Sweet</artist>
+    <style>POST_8</style>
+    <imagePath>Elves of Deep Shadow.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0162</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Mark Tedin</artist>
+    <style>POST_8</style>
+    <imagePath>Elvish Skysweeper.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0163</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Martina Pilcerova</artist>
+    <style>POST_8</style>
+    <imagePath>Farseek.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0164</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Glen Angus</artist>
+    <style>POST_8</style>
+    <imagePath>Fists of Ironwood.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0165</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Brian Despain</artist>
+    <style>POST_8</style>
+    <imagePath>Gather Courage.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0166</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/3</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>POST_8</style>
+    <imagePath>Golgari Brownscale.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0167</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{G}</cost>
+    <type>CRE</type>
+    <characteristics>0/0</characteristics>
+    <artist>Greg Hildebrandt</artist>
+    <style>POST_8</style>
+    <imagePath>Golgari Grave-Troll.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0168</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{6}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>7/6</characteristics>
+    <artist>Alan Pollack</artist>
+    <style>POST_8</style>
+    <imagePath>Goliath Spider.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0169</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Chippy</artist>
+    <style>POST_8</style>
+    <imagePath>Greater Mossdog.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0170</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>8/4</characteristics>
+    <artist>Greg Staples</artist>
+    <style>POST_8</style>
+    <imagePath>Hunted Troll.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0171</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Terese Nielsen</artist>
+    <style>POST_8</style>
+    <imagePath>Ivy Dancer.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0172</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Terese Nielsen</artist>
+    <style>POST_8</style>
+    <imagePath>Life from the Loam.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0173</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Wayne England</artist>
+    <style>POST_8</style>
+    <imagePath>Moldervine Cloak.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0174</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/4</characteristics>
+    <artist>Stephen Tappin</artist>
+    <style>POST_8</style>
+    <imagePath>Nullmage Shepherd.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0175</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{5}{G}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Wayne Reynolds</artist>
+    <style>POST_8</style>
+    <imagePath>Overwhelm.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0176</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Chris Dien</artist>
+    <style>POST_8</style>
+    <imagePath>Perilous Forays.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0177</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>4/5</characteristics>
+    <artist>Justin Sweet</artist>
+    <style>POST_8</style>
+    <imagePath>Primordial Sage.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0178</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Pete Venters</artist>
+    <style>POST_8</style>
+    <imagePath>Recollect.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0179</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{G}{G}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ron Spencer</artist>
+    <style>POST_8</style>
+    <imagePath>Rolling Spoil.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0180</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Arnie Swekel</artist>
+    <style>POST_8</style>
+    <imagePath>Root-Kin Ally.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0181</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rob Alexander</artist>
+    <style>POST_8</style>
+    <imagePath>Scatter the Seeds.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0182</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>*/*</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Scion of the Wild.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0183</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{5}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>5/5</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>POST_8</style>
+    <imagePath>Siege Wurm.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0184</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>William Simpson</artist>
+    <style>POST_8</style>
+    <imagePath>Stone-Seeder Hierophant.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0185</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Shishizaru</artist>
+    <style>POST_8</style>
+    <imagePath>Sundering Vitae.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0186</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Greg Hildebrandt</artist>
+    <style>POST_8</style>
+    <imagePath>Transluminant.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0187</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/3</characteristics>
+    <artist>rk post</artist>
+    <style>POST_8</style>
+    <imagePath>Trophy Hunter.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0188</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Jim Murray</artist>
+    <style>POST_8</style>
+    <imagePath>Ursapine.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0189</id>
+    <colors>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{G}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Mark Tedin</artist>
+    <style>POST_8</style>
+    <imagePath>Vinelasher Kudzu.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_G_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_G_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0190</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}{W}</cost>
+    <type>LCR</type>
+    <characteristics>3/3</characteristics>
+    <artist>Donato Giancola</artist>
+    <style>POST_8</style>
+    <imagePath>Agrus Kos, Wojek Veteran.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0191</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{10}{G}{G}{G}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>9/14</characteristics>
+    <artist>Michael Phillippi</artist>
+    <style>POST_8</style>
+    <imagePath>Autochthon Wurm.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0192</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{B}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jim Nelson</artist>
+    <style>POST_8</style>
+    <imagePath>Bloodbond March.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0193</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{R}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Doug Chaffee</artist>
+    <style>POST_8</style>
+    <imagePath>Boros Swiftblade.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0194</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{X}{R}{R}{W}{W}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dave Dorman</artist>
+    <style>POST_8</style>
+    <imagePath>Brightflame.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0195</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{G}{G}{W}{W}</cost>
+    <type>LCR</type>
+    <characteristics>3/8</characteristics>
+    <artist>Brian Despain</artist>
+    <style>POST_8</style>
+    <imagePath>Chorus of the Conclave.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0196</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{U}{B}</cost>
+    <type>LCR</type>
+    <characteristics>2/3</characteristics>
+    <artist>Cyril Van Der Haegen</artist>
+    <style>POST_8</style>
+    <imagePath>Circu, Dimir Lobotomist.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0197</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{U}{U}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Pete Venters</artist>
+    <style>POST_8</style>
+    <imagePath>Clutch of the Undercity.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0198</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{G}{G}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Randy Gallegos</artist>
+    <style>POST_8</style>
+    <imagePath>Congregation at Dawn.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0199</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Paolo Parente</artist>
+    <style>POST_8</style>
+    <imagePath>Consult the Necrosages.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0200</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{B}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark Tedin</artist>
+    <style>POST_8</style>
+    <imagePath>Dark Heart of the Wood.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0201</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{U}{B}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Dimir Cutpurse.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0202</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{U}{B}</cost>
+    <type>CRE</type>
+    <characteristics>0/2</characteristics>
+    <artist>Jim Murray</artist>
+    <style>POST_8</style>
+    <imagePath>Dimir Doppelganger.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0203</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{U}{B}</cost>
+    <type>CRE</type>
+    <characteristics>1/3</characteristics>
+    <artist>Jim Nelson</artist>
+    <style>POST_8</style>
+    <imagePath>Dimir Infiltrator.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0204</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{B}{B}{G}</cost>
+    <type>CRE</type>
+    <characteristics>4/3</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Drooling Groodion.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0205</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{R}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>4/3</characteristics>
+    <artist>Matt Cavotta</artist>
+    <style>POST_8</style>
+    <imagePath>Firemane Angel.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0206</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{R}{R}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Arnie Swekel</artist>
+    <style>POST_8</style>
+    <imagePath>Flame-Kin Zealot.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0207</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{G}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+    <style>POST_8</style>
+    <imagePath>Glare of Subdual.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0208</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{U}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Brandon Kitkouski</artist>
+    <style>POST_8</style>
+    <imagePath>Glimpse the Unthinkable.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0209</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{B}{G}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Thomas M. Baxa</artist>
+    <style>POST_8</style>
+    <imagePath>Golgari Germination.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0210</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{B}{G}</cost>
+    <type>CRE</type>
+    <characteristics>5/4</characteristics>
+    <artist>Wayne England</artist>
+    <style>POST_8</style>
+    <imagePath>Golgari Rotwurm.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0211</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{B}{G}{G}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Pete Venters</artist>
+    <style>POST_8</style>
+    <imagePath>Grave-Shell Scarab.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0212</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{6}{G}{W}</cost>
+    <type>CRE</type>
+    <characteristics>4/7</characteristics>
+    <artist>Wayne Reynolds</artist>
+    <style>POST_8</style>
+    <imagePath>Guardian of Vitu-Ghazi.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0213</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{R}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Lightning Helix.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0214</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{G}{W}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Loxodon Hierarch.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0215</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{5}{U}{B}{B}</cost>
+    <type>CRE</type>
+    <characteristics>6/6</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Mindleech Mass.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0216</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{U}{B}</cost>
+    <type>CRE</type>
+    <characteristics>4/4</characteristics>
+    <artist>Dan Scott</artist>
+    <style>POST_8</style>
+    <imagePath>Moroii.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0217</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{U}{B}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tsutomu Kawade</artist>
+    <style>POST_8</style>
+    <imagePath>Perplex.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0218</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{G}{W}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Jim Murray</artist>
+    <style>POST_8</style>
+    <imagePath>Phytohydra.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0219</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{G}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Terese Nielsen</artist>
+    <style>POST_8</style>
+    <imagePath>Pollenbright Wings.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0220</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{X}{U}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Nick Percival</artist>
+    <style>POST_8</style>
+    <imagePath>Psychic Drain.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0221</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}{B}{G}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jim Nelson</artist>
+    <style>POST_8</style>
+    <imagePath>Putrefy.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0222</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dan Scott</artist>
+    <style>POST_8</style>
+    <imagePath>Rally the Righteous.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0223</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{R}{R}{W}{W}</cost>
+    <type>LCR</type>
+    <characteristics>6/3</characteristics>
+    <artist>Donato Giancola</artist>
+    <style>POST_8</style>
+    <imagePath>Razia, Boros Archangel.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0224</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{R}{W}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Shishizaru</artist>
+    <style>POST_8</style>
+    <imagePath>Razia's Purification.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0225</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{B}{G}</cost>
+    <type>LCR</type>
+    <characteristics>2/2</characteristics>
+    <artist>Scott M. Fischer</artist>
+    <style>POST_8</style>
+    <imagePath>Savra, Queen of the Golgari.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0226</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{1}{R}{W}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dave Dorman</artist>
+    <style>POST_8</style>
+    <imagePath>Searing Meditation.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0227</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}{W}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ralph Horsley</artist>
+    <style>POST_8</style>
+    <imagePath>Seeds of Strength.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0228</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{G}{W}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Rob Alexander</artist>
+    <style>POST_8</style>
+    <imagePath>Selesnya Evangel.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0229</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}{G}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/5</characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>POST_8</style>
+    <imagePath>Selesnya Sagittars.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0230</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{B}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/1</characteristics>
+    <artist>Joel Thomas</artist>
+    <style>POST_8</style>
+    <imagePath>Shambling Shell.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0231</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{B}{B}{G}{G}</cost>
+    <type>LCR</type>
+    <characteristics>7/5</characteristics>
+    <artist>Donato Giancola</artist>
+    <style>POST_8</style>
+    <imagePath>Sisters of Stone Death.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0232</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{R}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Jim Murray</artist>
+    <style>POST_8</style>
+    <imagePath>Skyknight Legionnaire.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0233</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}{R}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/4</characteristics>
+    <artist>Greg Staples</artist>
+    <style>POST_8</style>
+    <imagePath>Sunhome Enforcer.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0234</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{U}{U}{B}{B}</cost>
+    <type>LCR</type>
+    <characteristics>5/5</characteristics>
+    <artist>Donato Giancola</artist>
+    <style>POST_8</style>
+    <imagePath>Szadek, Lord of Secrets.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0235</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{R}{W}</cost>
+    <type>CRE</type>
+    <characteristics>2/1</characteristics>
+    <artist>Michael Sutfin</artist>
+    <style>POST_8</style>
+    <imagePath>Thundersong Trumpeter.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0236</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}{G}{W}</cost>
+    <type>LCR</type>
+    <characteristics>3/4</characteristics>
+    <artist>Donato Giancola</artist>
+    <style>POST_8</style>
+    <imagePath>Tolsimir Wolfblood.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0237</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}{U}{B}</cost>
+    <type>SOR</type>
+    <characteristics>
+    </characteristics>
+    <artist>Ralph Horsley</artist>
+    <style>POST_8</style>
+    <imagePath>Twisted Justice.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0238</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Greg Staples</artist>
+    <style>POST_8</style>
+    <imagePath>Vulturous Zombie.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0239</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{G}{W}</cost>
+    <type>CRE</type>
+    <characteristics>3/3</characteristics>
+    <artist>Kev Walker</artist>
+    <style>POST_8</style>
+    <imagePath>Watchwolf.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0240</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{B}{B}{G}</cost>
+    <type>CRE</type>
+    <characteristics>3/6</characteristics>
+    <artist>Greg Staples</artist>
+    <style>POST_8</style>
+    <imagePath>Woodwraith Corrupter.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0241</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{B}{G}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Pat Lee</artist>
+    <style>POST_8</style>
+    <imagePath>Woodwraith Strangler.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0242</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{RW}{RW}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Paolo Parente</artist>
+    <style>POST_8</style>
+    <imagePath>Boros Guildmage.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0243</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{RW}</cost>
+    <type>CRE</type>
+    <characteristics>1/1</characteristics>
+    <artist>Keith Garletts</artist>
+    <style>POST_8</style>
+    <imagePath>Boros Recruit.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0244</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}{GW}</cost>
+    <type>CRE</type>
+    <characteristics>3/1</characteristics>
+    <artist>Glenn Fabry</artist>
+    <style>POST_8</style>
+    <imagePath>Centaur Safeguard.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0245</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{UB}{UB}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Adam Rex</artist>
+    <style>POST_8</style>
+    <imagePath>Dimir Guildmage.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0246</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{3}{BG}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Stephen Tappin</artist>
+    <style>POST_8</style>
+    <imagePath>Gaze of the Gorgon.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0247</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}{BG}{BG}{BG}</cost>
+    <type>CRE</type>
+    <characteristics>6/6</characteristics>
+    <artist>Dave Allsop</artist>
+    <style>POST_8</style>
+    <imagePath>Gleancrawler.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0248</id>
+    <colors>
+      <color>B</color>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{BG}{BG}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+    <style>POST_8</style>
+    <imagePath>Golgari Guildmage.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0249</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}{UB}</cost>
+    <type>CRE</type>
+    <characteristics>1/2</characteristics>
+    <artist>Ron Spears</artist>
+    <style>POST_8</style>
+    <imagePath>Lurking Informant.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0250</id>
+    <colors>
+      <color>W</color>
+      <color>R</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{RW}{RW}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Zoltan Boros &amp; Gabor Szikszai</artist>
+    <style>POST_8</style>
+    <imagePath>Master Warcraft.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0251</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}{GW}{GW}{GW}</cost>
+    <type>ENC</type>
+    <characteristics>
+    </characteristics>
+    <artist>Wayne England</artist>
+    <style>POST_8</style>
+    <imagePath>Privileged Position.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0252</id>
+    <colors>
+      <color>W</color>
+      <color>G</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{GW}{GW}</cost>
+    <type>CRE</type>
+    <characteristics>2/2</characteristics>
+    <artist>Mark Zug</artist>
+    <style>POST_8</style>
+    <imagePath>Selesnya Guildmage.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0253</id>
+    <colors>
+      <color>U</color>
+      <color>B</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{UB}{UB}</cost>
+    <type>INS</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg Staples</artist>
+    <style>POST_8</style>
+    <imagePath>Shadow of Doubt.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_M_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_M_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0254</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Dan Scott</artist>
+    <style>POST_8</style>
+    <imagePath>Bloodletter Quill.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0255</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tim Hildebrandt</artist>
+    <style>POST_8</style>
+    <imagePath>Boros Signet.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0256</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{4}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Luca Zontini</artist>
+    <style>POST_8</style>
+    <imagePath>Bottled Cloister.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0257</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Heather Hudson</artist>
+    <style>POST_8</style>
+    <imagePath>Cloudstone Curio.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0258</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{2}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Jen Page</artist>
+    <style>POST_8</style>
+    <imagePath>Crown of Convergence.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0259</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{2}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Keith Garletts</artist>
+    <style>POST_8</style>
+    <imagePath>Cyclopean Snare.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0260</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tim Hildebrandt</artist>
+    <style>POST_8</style>
+    <imagePath>Dimir Signet.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0261</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{5}</cost>
+    <type>ARC</type>
+    <characteristics>6/2</characteristics>
+    <artist>Glen Angus</artist>
+    <style>POST_8</style>
+    <imagePath>Glass Golem.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0262</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg Hildebrandt</artist>
+    <style>POST_8</style>
+    <imagePath>Golgari Signet.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0263</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Alan Pollack</artist>
+    <style>POST_8</style>
+    <imagePath>Grifter's Blade.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0264</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{4}</cost>
+    <type>ARC</type>
+    <characteristics>0/6</characteristics>
+    <artist>Chippy</artist>
+    <style>POST_8</style>
+    <imagePath>Junktroller.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0265</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{6}</cost>
+    <type>ARC</type>
+    <characteristics>3/3</characteristics>
+    <artist>Carl Critchlow</artist>
+    <style>POST_8</style>
+    <imagePath>Leashling.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0266</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{9}</cost>
+    <type>ARC</type>
+    <characteristics>4/5</characteristics>
+    <artist>Glenn Fabry</artist>
+    <style>POST_8</style>
+    <imagePath>Nullstone Gargoyle.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0267</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{5}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Doug Chaffee</artist>
+    <style>POST_8</style>
+    <imagePath>Pariah's Shield.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0268</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Edward P. Beard, Jr.</artist>
+    <style>POST_8</style>
+    <imagePath>Peregrine Mask.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0269</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Mark Tedin</artist>
+    <style>POST_8</style>
+    <imagePath>Plague Boiler.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0270</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{2}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Greg Hildebrandt</artist>
+    <style>POST_8</style>
+    <imagePath>Selesnya Signet.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0271</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{3}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Martina Pilcerova</artist>
+    <style>POST_8</style>
+    <imagePath>Spectral Searchlight.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0272</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>{3}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Darrell Riche</artist>
+    <style>POST_8</style>
+    <imagePath>Sunforger.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0273</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>{1}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Luca Zontini</artist>
+    <style>POST_8</style>
+    <imagePath>Terrarion.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0274</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>{1}</cost>
+    <type>ART</type>
+    <characteristics>
+    </characteristics>
+    <artist>Tsutomu Kawade</artist>
+    <style>POST_8</style>
+    <imagePath>Voyager Staff.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0275</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>POST_8</style>
+    <imagePath>Boros Garrison.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0276</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>POST_8</style>
+    <imagePath>Dimir Aqueduct.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0277</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Martina Pilcerova</artist>
+    <style>POST_8</style>
+    <imagePath>Duskmantle, House of Shadow.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0278</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>POST_8</style>
+    <imagePath>Golgari Rot Farm.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0279</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rob Alexander</artist>
+    <style>POST_8</style>
+    <imagePath>Overgrown Tomb.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0280</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rob Alexander</artist>
+    <style>POST_8</style>
+    <imagePath>Sacred Foundry.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0281</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>John Avon</artist>
+    <style>POST_8</style>
+    <imagePath>Selesnya Sanctuary.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0282</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Martina Pilcerova</artist>
+    <style>POST_8</style>
+    <imagePath>Sunhome, Fortress of the Legion.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0283</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Martina Pilcerova</artist>
+    <style>POST_8</style>
+    <imagePath>Svogthos, the Restless Tomb.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0284</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rob Alexander</artist>
+    <style>POST_8</style>
+    <imagePath>Temple Garden.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0285</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>U</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Martina Pilcerova</artist>
+    <style>POST_8</style>
+    <imagePath>Vitu-Ghazi, the City-Tree.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0286</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>R</rarity>
+    <cost>
+    </cost>
+    <type>LND</type>
+    <characteristics>
+    </characteristics>
+    <artist>Rob Alexander</artist>
+    <style>POST_8</style>
+    <imagePath>Watery Grave.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_A_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_A_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0287</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Plains.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_PL_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_PL_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0288</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Plains.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_PL_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_PL_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0289</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Plains.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_PL_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_PL_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0290</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Plains.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_PL_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_PL_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0291</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Island.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_IS_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_IS_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0292</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Island.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_IS_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_IS_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0293</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Island.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_IS_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_IS_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0294</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Island.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_IS_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_IS_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0295</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Swamp.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_SW_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_SW_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0296</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Swamp.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_SW_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_SW_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0297</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Swamp.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_SW_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_SW_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0298</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Swamp.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_SW_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_SW_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0299</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Mountain.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_MO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_MO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0300</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Mountain.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_MO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_MO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0301</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Mountain.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_MO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_MO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0302</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Mountain.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_MO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_MO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0303</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Forest.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_FO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_FO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0304</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Forest.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_FO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_FO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0305</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Forest.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_FO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_FO_Small.png</bgimagepathSmall>
+  </item>
+  <item>
+    <id>RAV0306</id>
+    <colors>
+      <color>A</color>
+    </colors>
+    <rarity>C</rarity>
+    <cost>
+    </cost>
+    <type>BLA</type>
+    <characteristics>
+    </characteristics>
+    <artist>Christopher Moeller</artist>
+    <style>POST_8</style>
+    <imagePath>Forest.jpg</imagePath>
+    <bgimagepathLarge>bg_POST_8_FO_Large.png</bgimagepathLarge>
+    <bgimagepathSmall>bg_POST_8_FO_Small.png</bgimagepathSmall>
+  </item>
+</cards>

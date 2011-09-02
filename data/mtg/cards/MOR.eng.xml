@@ -1,0 +1,1095 @@
+<cards name="Morningtide">
+  <item>
+    <id>MOR0001</id>
+    <name>Ballyrush Banneret</name>
+    <text>Kithkin spells and Soldier spells you cast cost {1} less to cast.</text>
+    <flavorText>Only wool from the side of the springjack turned most often to the sun can be woven into kithkin battle standards. Jackherds record every movement of their woolly-jacks until shearing.</flavorText>
+  </item>
+  <item>
+    <id>MOR0002</id>
+    <name>Battletide Alchemist</name>
+    <text>If a source would deal damage to a player, you may prevent X of that damage, where X is the number of Clerics you control.</text>
+    <flavorText>"I do not heal. Healing means that the pain has already been felt. To stop suffering, one must prevent the world's wounds altogether."</flavorText>
+  </item>
+  <item>
+    <id>MOR0003</id>
+    <name>Burrenton Bombardier</name>
+    <text>Flying
+Reinforce 2—{2}{W} ({2}{W}, Discard this card: Put two +1/+1 counters on target creature.)</text>
+    <flavorText>The flasks provide ballast, a means of steering, and—with a little luck—a way to deliver ward-spells to cohorts below.</flavorText>
+  </item>
+  <item>
+    <id>MOR0004</id>
+    <name>Burrenton Shield-Bearers</name>
+    <text>Whenever Burrenton Shield-Bearers attacks, target creature gets +0/+3 until end of turn.</text>
+    <flavorText>Soul and bones, kithkin are woven into their clans. They fight fiercely and without self-interest.</flavorText>
+  </item>
+  <item>
+    <id>MOR0005</id>
+    <name>Cenn's Tactician</name>
+    <text>{W}, {T}: Put a +1/+1 counter on target Soldier creature.
+Each creature you control with a +1/+1 counter on it can block an additional creature.</text>
+    <flavorText>The choke point was the plan, but devoted camaraderie was always her strategy.</flavorText>
+  </item>
+  <item>
+    <id>MOR0006</id>
+    <name>Changeling Sentinel</name>
+    <text>Changeling (This card is every creature type at all times.)
+Vigilance</text>
+    <flavorText>There's nothing more unsettling than locking blades with something that looks just like you.</flavorText>
+  </item>
+  <item>
+    <id>MOR0007</id>
+    <name>Coordinated Barrage</name>
+    <text>Choose a creature type. Coordinated Barrage deals damage to target attacking or blocking creature equal to the number of permanents you control of the chosen type.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0008</id>
+    <name>Daily Regimen</name>
+    <text>Enchant creature
+{1}{W}: Put a +1/+1 counter on enchanted creature.</text>
+    <flavorText>What self-indulgence tears down, discipline builds up again.</flavorText>
+  </item>
+  <item>
+    <id>MOR0009</id>
+    <name>Feudkiller's Verdict</name>
+    <text>You gain 10 life. Then if you have more life than an opponent, put a 5/5 white Giant Warrior creature token onto the battlefield.</text>
+    <flavorText>"There are all kinds of strengths, but if you have strength of soul, the others will follow."
+—Galanda Feudkiller</flavorText>
+  </item>
+  <item>
+    <id>MOR0010</id>
+    <name>Forfend</name>
+    <text>Prevent all damage that would be dealt to creatures this turn.</text>
+    <flavorText>"Suddenly there stood a fortress protecting the clachan, its walls hewn of valor and mortared with honor."
+—Clachan Tales</flavorText>
+  </item>
+  <item>
+    <id>MOR0011</id>
+    <name>Graceful Reprieve</name>
+    <text>When target creature is put into a graveyard this turn, return that card to the battlefield under its owner's control.</text>
+    <flavorText>"In my moment of death, I had a vision of the world, dark and unwelcoming. I wanted to hide in the deepest meander, but the light pulled me back."</flavorText>
+  </item>
+  <item>
+    <id>MOR0012</id>
+    <name>Idyllic Tutor</name>
+    <text>Search your library for an enchantment card, reveal it, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>"If one's life is blessed, solutions to all life's problems will appear at the right moment."
+—The Book of Kith and Kin</flavorText>
+  </item>
+  <item>
+    <id>MOR0013</id>
+    <name>Indomitable Ancients</name>
+    <text>
+    </text>
+    <flavorText>"Odum and Broadbark were the only beings mighty enough to challenge the giant Moran the Destroyer. Their battle lasted a hundred dawns, until Moran became so exhausted that he fell into namesleep. He awoke as Moran the Gardener."
+—The Tale of Odum and Broadbark</flavorText>
+  </item>
+  <item>
+    <id>MOR0014</id>
+    <name>Kinsbaile Borderguard</name>
+    <text>Kinsbaile Borderguard enters the battlefield with a +1/+1 counter on it for each other Kithkin you control.
+When Kinsbaile Borderguard is put into a graveyard from the battlefield, put a 1/1 white Kithkin Soldier creature token onto the battlefield for each counter on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0015</id>
+    <name>Kinsbaile Cavalier</name>
+    <text>Knight creatures you control have double strike.</text>
+    <flavorText>Ambidexterity is common among kithkin. The thoughtweft links the minds of the left- and right-handed, giving each the knack of the other.</flavorText>
+  </item>
+  <item>
+    <id>MOR0016</id>
+    <name>Kithkin Zephyrnaut</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Kithkin Zephyrnaut, you may reveal it. If you do, Kithkin Zephyrnaut gets +2/+2 and gains flying and vigilance until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0017</id>
+    <name>Meadowboon</name>
+    <text>When Meadowboon leaves the battlefield, put a +1/+1 counter on each creature target player controls.
+Evoke {3}{W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0018</id>
+    <name>Mosquito Guard</name>
+    <text>First strike
+Reinforce 1—{1}{W} ({1}{W}, Discard this card: Put a +1/+1 counter on target creature.)</text>
+    <flavorText>His aim is as sure as a mosquito's sting, but with none of the warning.</flavorText>
+  </item>
+  <item>
+    <id>MOR0019</id>
+    <name>Order of the Golden Cricket</name>
+    <text>Whenever Order of the Golden Cricket attacks, you may pay {W}. If you do, it gains flying until end of turn.</text>
+    <flavorText>"Should you take it in mind to ride a springjack, remember: there are easier ways to fly, and harder ways to break your skull."
+—Lann of Cloverdell</flavorText>
+  </item>
+  <item>
+    <id>MOR0020</id>
+    <name>Preeminent Captain</name>
+    <text>First strike
+Whenever Preeminent Captain attacks, you may put a Soldier creature card from your hand onto the battlefield tapped and attacking.</text>
+    <flavorText>"If you need an example to lead others to the front lines, consider the precedent set."</flavorText>
+  </item>
+  <item>
+    <id>MOR0021</id>
+    <name>Redeem the Lost</name>
+    <text>Target creature you control gains protection from the color of your choice until end of turn. Clash with an opponent. If you win, return Redeem the Lost to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0022</id>
+    <name>Reveillark</name>
+    <text>Flying
+When Reveillark leaves the battlefield, return up to two target creature cards with power 2 or less from your graveyard to the battlefield.
+Evoke {5}{W} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0023</id>
+    <name>Shinewend</name>
+    <text>Flying
+Shinewend enters the battlefield with a +1/+1 counter on it.
+{1}{W}, Remove a +1/+1 counter from Shinewend: Destroy target enchantment.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0024</id>
+    <name>Stonehewer Giant</name>
+    <text>Vigilance
+{1}{W}, {T}: Search your library for an Equipment card and put it onto the battlefield. Attach it to a creature you control. Then shuffle your library.</text>
+    <flavorText>"No matter how strong, an unarmed fighter is no more than a fool."</flavorText>
+  </item>
+  <item>
+    <id>MOR0025</id>
+    <name>Stonybrook Schoolmaster</name>
+    <text>Whenever Stonybrook Schoolmaster becomes tapped, you may put a 1/1 blue Merfolk Wizard creature token onto the battlefield.</text>
+    <flavorText>Merrow schools rarely form by design. They come together naturally as eager learners surround the wisest teachers.</flavorText>
+  </item>
+  <item>
+    <id>MOR0026</id>
+    <name>Swell of Courage</name>
+    <text>Creatures you control get +2/+2 until end of turn.
+Reinforce X—{X}{W}{W} ({X}{W}{W}, Discard this card: Put X +1/+1 counters on target creature.)</text>
+    <flavorText>"Tideshaping is more than creating a few
+new puddles."</flavorText>
+  </item>
+  <item>
+    <id>MOR0027</id>
+    <name>Wandering Graybeard</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Wandering Graybeard, you may reveal it. If you do, you gain 4 life.</text>
+    <flavorText>His tales are as tall as he is, and only a giant's life is long enough to listen to them all.</flavorText>
+  </item>
+  <item>
+    <id>MOR0028</id>
+    <name>Weight of Conscience</name>
+    <text>Enchant creature
+Enchanted creature can't attack.
+Tap two untapped creatures you control that share a creature type: Exile enchanted creature.</text>
+    <flavorText>Sometimes the weight of the world on your shoulders is a literal one.</flavorText>
+  </item>
+  <item>
+    <id>MOR0029</id>
+    <name>Declaration of Naught</name>
+    <text>As Declaration of Naught enters the battlefield, name a card.
+{U}: Counter target spell with the chosen name.</text>
+    <flavorText>Every story, even a faerie tale, comes to an end.</flavorText>
+  </item>
+  <item>
+    <id>MOR0030</id>
+    <name>Dewdrop Spy</name>
+    <text>Flash
+Flying
+When Dewdrop Spy enters the battlefield, look at the top card of target player's library.</text>
+    <flavorText>Only in dew from Oona herself is there clarity enough to see a victim's mind.</flavorText>
+  </item>
+  <item>
+    <id>MOR0031</id>
+    <name>Disperse</name>
+    <text>Return target nonland permanent to its owner's hand.</text>
+    <flavorText>Gryffid scowled at the sky. A perfect day for the hunt tainted by clouds. He wished them gone. High above, the clouds looked down, scowled, and made a wish of their own.</flavorText>
+  </item>
+  <item>
+    <id>MOR0032</id>
+    <name>Distant Melody</name>
+    <text>Choose a creature type. Draw a card for each permanent you control of that type.</text>
+    <flavorText>Oona's song is like a twisted dinner chime. All the faeries return home, but it is Oona who feasts—on the stolen dreams and rumors they serve her.</flavorText>
+  </item>
+  <item>
+    <id>MOR0033</id>
+    <name>Fencer Clique</name>
+    <text>Flying
+{U}: Put Fencer Clique on top of its owner's library.</text>
+    <flavorText>You may as well try to swat a faerie
+—Flamekin expression meaning
+"that's impossible"</flavorText>
+  </item>
+  <item>
+    <id>MOR0034</id>
+    <name>Floodchaser</name>
+    <text>Floodchaser enters the battlefield with six +1/+1 counters on it.
+Floodchaser can't attack unless defending player controls an Island.
+{U}, Remove a +1/+1 counter from Floodchaser: Target land becomes an Island until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0035</id>
+    <name>Grimoire Thief</name>
+    <text>Whenever Grimoire Thief becomes tapped, exile the top three cards of target opponent's library face down.
+You may look at cards exiled with Grimoire Thief.
+{U}, Sacrifice Grimoire Thief: Turn all cards exiled with Grimoire Thief face up. Counter all spells with those names.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0036</id>
+    <name>Ink Dissolver</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Ink Dissolver, you may reveal it. If you do, each opponent puts the top three cards of his or her library into his or her graveyard.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0037</id>
+    <name>Inspired Sprite</name>
+    <text>Flash
+Flying
+Whenever you cast a Wizard spell, you may untap Inspired Sprite.
+{T}: Draw a card, then discard a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0038</id>
+    <name>Knowledge Exploitation</name>
+    <text>Prowl {3}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Search target opponent's library for an instant or sorcery card. You may cast that card without paying its mana cost. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0039</id>
+    <name>Latchkey Faerie</name>
+    <text>Flying
+Prowl {2}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Faerie or Rogue.)
+When Latchkey Faerie enters the battlefield, if its prowl cost was paid, draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0040</id>
+    <name>Merrow Witsniper</name>
+    <text>When Merrow Witsniper enters the battlefield, target player puts the top card of his or her library into his or her graveyard.</text>
+    <flavorText>"The world above the waterline must be monitored—and, when necessary, adjusted."</flavorText>
+  </item>
+  <item>
+    <id>MOR0041</id>
+    <name>Mind Spring</name>
+    <text>Draw X cards.</text>
+    <flavorText>Fragments of thought refract and multiply, surging in a geyser of dizzying insight.</flavorText>
+  </item>
+  <item>
+    <id>MOR0042</id>
+    <name>Mothdust Changeling</name>
+    <text>Changeling (This card is every creature type at all times.)
+Tap an untapped creature you control: Mothdust Changeling gains flying until end of turn.</text>
+    <flavorText>"Ever seen a changeling fly into a lantern?"
+—Calydd, kithkin farmer</flavorText>
+  </item>
+  <item>
+    <id>MOR0043</id>
+    <name>Negate</name>
+    <text>Counter target noncreature spell.</text>
+    <flavorText>Masters of the arcane savor a delicious irony. Their study of deep and complex arcana leads to such a simple end: the ability to say merely yes or no.</flavorText>
+  </item>
+  <item>
+    <id>MOR0044</id>
+    <name>Nevermaker</name>
+    <text>Flying
+When Nevermaker leaves the battlefield, put target nonland permanent on top of its owner's library.
+Evoke {3}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0045</id>
+    <name>Notorious Throng</name>
+    <text>Prowl {5}{U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Put X 1/1 black Faerie Rogue creature tokens with flying onto the battlefield, where X is the damage dealt to your opponents this turn. If Notorious Throng's prowl cost was paid, take an extra turn after this one.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0046</id>
+    <name>Research the Deep</name>
+    <text>Draw a card. Clash with an opponent. If you win, return Research the Deep to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0047</id>
+    <name>Sage of Fables</name>
+    <text>Each other Wizard creature you control enters the battlefield with an additional +1/+1 counter on it.
+{2}, Remove a +1/+1 counter from a creature you control: Draw a card.</text>
+    <flavorText>"There is no secret that cannot be sold."</flavorText>
+  </item>
+  <item>
+    <id>MOR0048</id>
+    <name>Sage's Dousing</name>
+    <text>Counter target spell unless its controller pays {3}. If you control a Wizard, draw a card.</text>
+    <flavorText>"Curse these merrows and their meddling Since coming near the river, I can't so much as sneeze without being soaked."
+—Ashling the Pilgrim</flavorText>
+  </item>
+  <item>
+    <id>MOR0049</id>
+    <name>Sigil Tracer</name>
+    <text>{1}{U}, Tap two untapped Wizards you control: Copy target instant or sorcery spell. You may choose new targets for the copy.</text>
+    <flavorText>"The reflection is true. It is you who are distorted and false."</flavorText>
+  </item>
+  <item>
+    <id>MOR0050</id>
+    <name>Slithermuse</name>
+    <text>When Slithermuse leaves the battlefield, choose an opponent. If that player has more cards in hand than you, draw cards equal to the difference.
+Evoke {3}{U} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0051</id>
+    <name>Stonybrook Banneret</name>
+    <text>Islandwalk
+Merfolk spells and Wizard spells you cast cost {1} less to cast.</text>
+    <flavorText>Made from trout scales and crawfish whiskers, merrows' shimmering banners flash in the water like lightning.</flavorText>
+  </item>
+  <item>
+    <id>MOR0052</id>
+    <name>Stream of Unconsciousness</name>
+    <text>Target creature gets -4/-0 until end of turn. If you control a Wizard, draw a card.</text>
+    <flavorText>Dreams are tempting because one is so powerful in them. Dreams are dangerous because that power is a lie.</flavorText>
+  </item>
+  <item>
+    <id>MOR0053</id>
+    <name>Supreme Exemplar</name>
+    <text>Flying
+Champion an Elemental (When this enters the battlefield, sacrifice it unless you exile another Elemental you control. When this leaves the battlefield, that card returns to the battlefield.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0054</id>
+    <name>Thieves' Fortune</name>
+    <text>Prowl {U} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Look at the top four cards of your library. Put one of them into your hand and the rest on the bottom of your library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0055</id>
+    <name>Vendilion Clique</name>
+    <text>Flash
+Flying
+When Vendilion Clique enters the battlefield, look at target player's hand. You may choose a nonland card from it. If you do, that player reveals the chosen card, puts it on the bottom of his or her library, then draws a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0056</id>
+    <name>Waterspout Weavers</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Waterspout Weavers, you may reveal it. If you do, each creature you control gains flying until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0057</id>
+    <name>Auntie's Snitch</name>
+    <text>Auntie's Snitch can't block.
+Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+Whenever a Goblin or Rogue you control deals combat damage to a player, if Auntie's Snitch is in your graveyard, you may return Auntie's Snitch to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0058</id>
+    <name>Bitterblossom</name>
+    <text>At the beginning of your upkeep, you lose 1 life and put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.</text>
+    <flavorText>In Lorwyn's brief evenings, the sun pauses at the horizon long enough for a certain species of violet to bloom with the fragrance of mischief.</flavorText>
+  </item>
+  <item>
+    <id>MOR0059</id>
+    <name>Blightsoil Druid</name>
+    <text>{T}, Pay 1 life: Add {G} to your mana pool.</text>
+    <flavorText>"See the beauty in death: the clean white bones lying in the fertile soil and the brightly colored moonglove sprouting from the fell earth."</flavorText>
+  </item>
+  <item>
+    <id>MOR0060</id>
+    <name>Earwig Squad</name>
+    <text>Prowl {2}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+When Earwig Squad enters the battlefield, if its prowl cost was paid, search target opponent's library for three cards and exile them. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0061</id>
+    <name>Fendeep Summoner</name>
+    <text>{T}: Up to two target Swamps each become 3/5 Treefolk Warrior creatures in addition to their other types until end of turn.</text>
+    <flavorText>"What is drowned is not forgotten. I will fulfill my oath. Come back to me, my brethren, as I have come back for you."</flavorText>
+  </item>
+  <item>
+    <id>MOR0062</id>
+    <name>Festercreep</name>
+    <text>Festercreep enters the battlefield with a +1/+1 counter on it.
+{1}{B}, Remove a +1/+1 counter from Festercreep: All other creatures get -1/-1 until end of turn.</text>
+    <flavorText>A single festercreep isn't alone. It's already an infestation.</flavorText>
+  </item>
+  <item>
+    <id>MOR0063</id>
+    <name>Final-Sting Faerie</name>
+    <text>Flying
+When Final-Sting Faerie enters the battlefield, destroy target creature that was dealt damage this turn.</text>
+    <flavorText>Many heroes' last sight is a grin at the other end of a rapier.</flavorText>
+  </item>
+  <item>
+    <id>MOR0064</id>
+    <name>Frogtosser Banneret</name>
+    <text>Haste
+Goblin spells and Rogue spells you cast cost {1} less to cast.</text>
+    <flavorText>The Frogtossers thread feathers, bones, and trophies from past raids into their standards, believing they fuel the warren with the anger of its victims.</flavorText>
+  </item>
+  <item>
+    <id>MOR0065</id>
+    <name>Maralen of the Mornsong</name>
+    <text>Players can't draw cards.
+At the beginning of each player's draw step, that player loses 3 life, searches his or her library for a card, puts it into his or her hand, then shuffles his or her library.</text>
+    <flavorText>Maralen sent Veesa, Endry, and Iliona—the Vendilion clique—on the gravest of tasks.</flavorText>
+  </item>
+  <item>
+    <id>MOR0066</id>
+    <name>Mind Shatter</name>
+    <text>Target player discards X cards at random.</text>
+    <flavorText>Dark thoughts hatch and twist within the mind, straining to take wing.</flavorText>
+  </item>
+  <item>
+    <id>MOR0067</id>
+    <name>Moonglove Changeling</name>
+    <text>Changeling (This card is every creature type at all times.)
+{B}: Moonglove Changeling gains deathtouch until end of turn. (Creatures dealt damage by this creature are destroyed. You can divide its combat damage among any of the creatures blocking or blocked by it.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0068</id>
+    <name>Morsel Theft</name>
+    <text>Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Target player loses 3 life and you gain 3 life. If Morsel Theft's prowl cost was paid, draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0069</id>
+    <name>Nightshade Schemers</name>
+    <text>Flying
+Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Nightshade Schemers, you may reveal it. If you do, each opponent loses 2 life.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0070</id>
+    <name>Noggin Whack</name>
+    <text>Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Rogue.)
+Target player reveals three cards from his or her hand. You choose two of them. That player discards those cards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0071</id>
+    <name>Offalsnout</name>
+    <text>Flash
+When Offalsnout leaves the battlefield, exile target card from a graveyard.
+Evoke {B} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0072</id>
+    <name>Oona's Blackguard</name>
+    <text>Flying
+Each other Rogue creature you control enters the battlefield with an additional +1/+1 counter on it.
+Whenever a creature you control with a +1/+1 counter on it deals combat damage to a player, that player discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0073</id>
+    <name>Pack's Disdain</name>
+    <text>Choose a creature type. Target creature gets -1/-1 until end of turn for each permanent of the chosen type you control.</text>
+    <flavorText>Like the sun to a flower, the adoring gaze of the tribe is sustenance to an elf. To be shunned is to wither.</flavorText>
+  </item>
+  <item>
+    <id>MOR0074</id>
+    <name>Prickly Boggart</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)</text>
+    <flavorText>"Even without the spines, who would dare to touch it?"
+—Desmera, perfect of Wren's Run</flavorText>
+  </item>
+  <item>
+    <id>MOR0075</id>
+    <name>Pulling Teeth</name>
+    <text>Clash with an opponent. If you win, target player discards two cards. Otherwise, that player discards a card. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0076</id>
+    <name>Revive the Fallen</name>
+    <text>Return target creature card from a graveyard to its owner's hand. Clash with an opponent. If you win, return Revive the Fallen to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0077</id>
+    <name>Scarblade Elite</name>
+    <text>{T}, Exile an Assassin card from your graveyard: Destroy target creature.</text>
+    <flavorText>"Rejoice, eyeblight. In your last hours above the earth, those who bury you will finally make you beautiful."</flavorText>
+  </item>
+  <item>
+    <id>MOR0078</id>
+    <name>Squeaking Pie Grubfellows</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Squeaking Pie Grubfellows, you may reveal it. If you do, each opponent discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0079</id>
+    <name>Stenchskipper</name>
+    <text>Flying
+At the beginning of the end step, if you control no Goblins, sacrifice Stenchskipper.</text>
+    <flavorText>"Many believe it to be the manifestation of all that is vile about the boggarts. I believe it should be avoided—from upwind, if possible."
+—Cenn Deagan</flavorText>
+  </item>
+  <item>
+    <id>MOR0080</id>
+    <name>Stinkdrinker Bandit</name>
+    <text>Prowl {1}{B} (You may cast this for its prowl cost if you dealt combat damage to a player this turn with a Goblin or Rogue.)
+Whenever a Rogue you control attacks and isn't blocked, it gets +2/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0081</id>
+    <name>Violet Pall</name>
+    <text>Destroy target nonblack creature. Put a 1/1 black Faerie Rogue creature token with flying onto the battlefield.</text>
+    <flavorText>A faerie is the offspring of Oona and mischief.</flavorText>
+  </item>
+  <item>
+    <id>MOR0082</id>
+    <name>Warren Weirding</name>
+    <text>Target player sacrifices a creature. If a Goblin is sacrificed this way, that player puts two 1/1 black Goblin Rogue creature tokens onto the battlefield, and those tokens gain haste until end of turn.</text>
+    <flavorText>"And that's when it was discovered that boggarts have just half a brain."
+—The Book of Other Folk</flavorText>
+  </item>
+  <item>
+    <id>MOR0083</id>
+    <name>Weed-Pruner Poplar</name>
+    <text>At the beginning of your upkeep, target creature other than Weed-Pruner Poplar gets -1/-1 until end of turn.</text>
+    <flavorText>"When Byoog reached down to pull up a bit of root for the stew, he didn't expect the root to pull back."
+—A tale of Auntie Wort</flavorText>
+  </item>
+  <item>
+    <id>MOR0084</id>
+    <name>Weirding Shaman</name>
+    <text>{3}{B}, Sacrifice a Goblin: Put two 1/1 black Goblin Rogue creature tokens onto the battlefield.</text>
+    <flavorText>All boggarts have an auntie, but they don't all have a mum.</flavorText>
+  </item>
+  <item>
+    <id>MOR0085</id>
+    <name>Boldwyr Heavyweights</name>
+    <text>Trample
+When Boldwyr Heavyweights enters the battlefield, each opponent may search his or her library for a creature card and put it onto the battlefield. Then each player who searched his or her library this way shuffles it.</text>
+    <flavorText>Even if giants bring nothing else on a journey, they bring attention.</flavorText>
+  </item>
+  <item>
+    <id>MOR0086</id>
+    <name>Boldwyr Intimidator</name>
+    <text>Cowards can't block Warriors.
+{R}: Target creature becomes a Coward until end of turn.
+{2}{R}: Target creature becomes a Warrior until end of turn.</text>
+    <flavorText>"Now everyone knows what you are."</flavorText>
+  </item>
+  <item>
+    <id>MOR0087</id>
+    <name>Borderland Behemoth</name>
+    <text>Trample
+Borderland Behemoth gets +4/+4 for each other Giant you control.</text>
+    <flavorText>Giants share nothing but their fury.</flavorText>
+  </item>
+  <item>
+    <id>MOR0088</id>
+    <name>Brighthearth Banneret</name>
+    <text>Elemental spells and Warrior spells you cast cost {1} less to cast.
+Reinforce 1—{1}{R} ({1}{R}, Discard this card: Put a +1/+1 counter on target creature.)</text>
+    <flavorText>The banner symbolizes the goodwill of the Brighthearth. Their emissaries bring the mastery of fire to other races.</flavorText>
+  </item>
+  <item>
+    <id>MOR0089</id>
+    <name>Countryside Crusher</name>
+    <text>At the beginning of your upkeep, reveal the top card of your library. If it's a land card, put it into your graveyard and repeat this process.
+Whenever a land card is put into your graveyard from anywhere, put a +1/+1 counter on Countryside Crusher.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0090</id>
+    <name>Fire Juggler</name>
+    <text>Whenever Fire Juggler becomes blocked, clash with an opponent. If you win, Fire Juggler deals 4 damage to each creature blocking it. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0091</id>
+    <name>Hostile Realm</name>
+    <text>Enchant land
+Enchanted land has "{T}: Target creature can't block this turn."</text>
+    <flavorText>Lorwyn's crust explodes with power when the greater elementals are born. The flamekin use the fallout as cover for forays into enemy territory.</flavorText>
+  </item>
+  <item>
+    <id>MOR0092</id>
+    <name>Kindled Fury</name>
+    <text>Target creature gets +1/+0 and gains first strike until end of turn. (It deals combat damage before creatures without first strike.)</text>
+    <flavorText>"All beings carry the fire inside them. The challenge is to unleash it before they dwindle into oblivion."
+—Illulia, flamekin soulstoke</flavorText>
+  </item>
+  <item>
+    <id>MOR0093</id>
+    <name>Lightning Crafter</name>
+    <text>Champion a Goblin or Shaman (When this enters the battlefield, sacrifice it unless you exile another Goblin or Shaman you control. When this leaves the battlefield, that card returns to the battlefield.)
+{T}: Lightning Crafter deals 3 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0094</id>
+    <name>Lunk Errant</name>
+    <text>Whenever Lunk Errant attacks alone, it gets +1/+1 and gains trample until end of turn.</text>
+    <flavorText>"One's plenty," observed the merrow.
+"Way too plenty," agreed the boggart.</flavorText>
+  </item>
+  <item>
+    <id>MOR0095</id>
+    <name>Mudbutton Clanger</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Mudbutton Clanger, you may reveal it. If you do, Mudbutton Clanger gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0096</id>
+    <name>Pyroclast Consul</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Pyroclast Consul, you may reveal it. If you do, Pyroclast Consul deals 2 damage to each creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0097</id>
+    <name>Rage Forger</name>
+    <text>When Rage Forger enters the battlefield, put a +1/+1 counter on each other Shaman creature you control.
+Whenever a creature you control with a +1/+1 counter on it attacks, you may have that creature deal 1 damage to target player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0098</id>
+    <name>Release the Ants</name>
+    <text>Release the Ants deals 1 damage to target creature or player. Clash with an opponent. If you win, return Release the Ants to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0099</id>
+    <name>Rivals' Duel</name>
+    <text>Choose two target creatures that share no creature types. Each of those creatures deals damage equal to its power to the other.</text>
+    <flavorText>They could agree on one thing only: one of them must die.</flavorText>
+  </item>
+  <item>
+    <id>MOR0100</id>
+    <name>Roar of the Crowd</name>
+    <text>Choose a creature type. Roar of the Crowd deals damage to target creature or player equal to the number of permanents you control of the chosen type.</text>
+    <flavorText>One voice is but a pebble to the rest of the world. A thousand voices at once is an avalanche.</flavorText>
+  </item>
+  <item>
+    <id>MOR0101</id>
+    <name>Seething Pathblazer</name>
+    <text>Sacrifice an Elemental: Seething Pathblazer gets +2/+0 and gains first strike until end of turn.</text>
+    <flavorText>"Flamekin death rites are elaborate and spectacular affairs. Their greatest fear is death in obscurity."
+—Tollek Worldwatcher, journal</flavorText>
+  </item>
+  <item>
+    <id>MOR0102</id>
+    <name>Sensation Gorger</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Sensation Gorger, you may reveal it. If you do, each player discards his or her hand and draws four cards.</text>
+    <flavorText>More, more, more</flavorText>
+  </item>
+  <item>
+    <id>MOR0103</id>
+    <name>Shard Volley</name>
+    <text>As an additional cost to cast Shard Volley, sacrifice a land.
+Shard Volley deals 3 damage to target creature or player.</text>
+    <flavorText>"Let the mountain's teeth pierce our oppressors."</flavorText>
+  </item>
+  <item>
+    <id>MOR0104</id>
+    <name>Shared Animosity</name>
+    <text>Whenever a creature you control attacks, it gets +1/+0 until end of turn for each other attacking creature that shares a creature type with it.</text>
+    <flavorText>"It is the nature of souls that they burn more brightly together than apart."
+—Vessifrus, flamekin demagogue</flavorText>
+  </item>
+  <item>
+    <id>MOR0105</id>
+    <name>Spitebellows</name>
+    <text>When Spitebellows leaves the battlefield, it deals 6 damage to target creature.
+Evoke {1}{R}{R} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</text>
+    <flavorText>Disaster stalks with gaping jaws across unready lands.</flavorText>
+  </item>
+  <item>
+    <id>MOR0106</id>
+    <name>Stingmoggie</name>
+    <text>Stingmoggie enters the battlefield with two +1/+1 counters on it.
+{3}{R}, Remove a +1/+1 counter from Stingmoggie: Destroy target artifact or land.</text>
+    <flavorText>A path vexed by the stingmoggie was probably the wrong path anyhow.</flavorText>
+  </item>
+  <item>
+    <id>MOR0107</id>
+    <name>Stomping Slabs</name>
+    <text>Reveal the top seven cards of your library, then put those cards on the bottom of your library in any order. If a card named Stomping Slabs was revealed this way, Stomping Slabs deals 7 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0108</id>
+    <name>Sunflare Shaman</name>
+    <text>{1}{R}, {T}: Sunflare Shaman deals X damage to target creature or player and X damage to itself, where X is the number of Elemental cards in your graveyard.</text>
+    <flavorText>A spark to light the guttered heart.</flavorText>
+  </item>
+  <item>
+    <id>MOR0109</id>
+    <name>Taurean Mauler</name>
+    <text>Changeling (This card is every creature type at all times.)
+Whenever an opponent casts a spell, you may put a +1/+1 counter on Taurean Mauler.</text>
+    <flavorText>The power of a waterfall. The fury of an avalanche. The intellect of a gale-force wind.</flavorText>
+  </item>
+  <item>
+    <id>MOR0110</id>
+    <name>Titan's Revenge</name>
+    <text>Titan's Revenge deals X damage to target creature or player. Clash with an opponent. If you win, return Titan's Revenge to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0111</id>
+    <name>Vengeful Firebrand</name>
+    <text>Vengeful Firebrand has haste as long as a Warrior card is in your graveyard.
+{R}: Vengeful Firebrand gets +1/+0 until end of turn.</text>
+    <flavorText>The flame of a warrior is never extinguished.</flavorText>
+  </item>
+  <item>
+    <id>MOR0112</id>
+    <name>War-Spike Changeling</name>
+    <text>Changeling (This card is every creature type at all times.)
+{R}: War-Spike Changeling gains first strike until end of turn.</text>
+    <flavorText>"Aren't there boggarts enough in Lorwyn? Couldn't it turn into a sheep? Or a sunflower?"
+—Olly of Goldmeadow</flavorText>
+  </item>
+  <item>
+    <id>MOR0113</id>
+    <name>Ambassador Oak</name>
+    <text>When Ambassador Oak enters the battlefield, put a 1/1 green Elf Warrior creature token onto the battlefield.</text>
+    <flavorText>Treefolk and elves share a common interest in the forests, but really the elves just feel at home with the view from above.</flavorText>
+  </item>
+  <item>
+    <id>MOR0114</id>
+    <name>Bosk Banneret</name>
+    <text>Treefolk spells and Shaman spells you cast cost {1} less to cast.</text>
+    <flavorText>Deep in a murmuring bosk, where the trees' memories span centuries, the simple banner of green and copper signifies an elder whose rings number more than a faerie's days.</flavorText>
+  </item>
+  <item>
+    <id>MOR0115</id>
+    <name>Bramblewood Paragon</name>
+    <text>Each other Warrior creature you control enters the battlefield with an additional +1/+1 counter on it.
+Each creature you control with a +1/+1 counter on it has trample.</text>
+    <flavorText>Those who seek to escape her blades succeed only in dying on their stomachs.</flavorText>
+  </item>
+  <item>
+    <id>MOR0116</id>
+    <name>Chameleon Colossus</name>
+    <text>Changeling (This card is every creature type at all times.)
+Protection from black
+{2}{G}{G}: Chameleon Colossus gets +X/+X until end of turn, where X is its power.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0117</id>
+    <name>Cream of the Crop</name>
+    <text>Whenever a creature enters the battlefield under your control, you may look at the top X cards of your library, where X is that creature's power. If you do, put one of those cards on top of your library and the rest on the bottom of your library in any order.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0118</id>
+    <name>Deglamer</name>
+    <text>Choose target artifact or enchantment. Its owner shuffles it into his or her library.</text>
+    <flavorText>The more pleasant an illusion's garb, the more indecent its form laid bare.</flavorText>
+  </item>
+  <item>
+    <id>MOR0119</id>
+    <name>Earthbrawn</name>
+    <text>Target creature gets +3/+3 until end of turn.
+Reinforce 1—{1}{G} ({1}{G}, Discard this card: Put a +1/+1 counter on target creature.)</text>
+    <flavorText>Gremil finally felt in touch with nature—and felt a need to share the experience with others.</flavorText>
+  </item>
+  <item>
+    <id>MOR0120</id>
+    <name>Elvish Warrior</name>
+    <text>
+    </text>
+    <flavorText>As graceful as a deer leaping a stream and as deadly as the wolf waiting in ambush on the other side, elvish warriors are the eyes of the forest as well as its unsheathed claws.</flavorText>
+  </item>
+  <item>
+    <id>MOR0121</id>
+    <name>Everbark Shaman</name>
+    <text>{T}, Exile a Treefolk card from your graveyard: Search your library for two Forest cards and put them onto the battlefield tapped. Then shuffle your library.</text>
+    <flavorText>"May you rise again, from seed to sapling to sentience."</flavorText>
+  </item>
+  <item>
+    <id>MOR0122</id>
+    <name>Fertilid</name>
+    <text>Fertilid enters the battlefield with two +1/+1 counters on it.
+{1}{G}, Remove a +1/+1 counter from Fertilid: Target player searches his or her library for a basic land card and puts it onto the battlefield tapped. Then that player shuffles his or her library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0123</id>
+    <name>Game-Trail Changeling</name>
+    <text>Changeling (This card is every creature type at all times.)
+Trample</text>
+    <flavorText>"I pity them, never knowing the pleasures of a single familiar form, but at least they find a noble shape at times."
+—Desmera, perfect of Wren's Run</flavorText>
+  </item>
+  <item>
+    <id>MOR0124</id>
+    <name>Gilt-Leaf Archdruid</name>
+    <text>Whenever you cast a Druid spell, you may draw a card.
+Tap seven untapped Druids you control: Gain control of all lands target player controls.</text>
+    <flavorText>"In our hands, the natural world finds more beauty than nature alone could ever provide."</flavorText>
+  </item>
+  <item>
+    <id>MOR0125</id>
+    <name>Greatbow Doyen</name>
+    <text>Other Archer creatures you control get +1/+1.
+Whenever an Archer you control deals damage to a creature, that Archer deals that much damage to that creature's controller.</text>
+    <flavorText>"My arrows will ever find you."</flavorText>
+  </item>
+  <item>
+    <id>MOR0126</id>
+    <name>Heritage Druid</name>
+    <text>Tap three untapped Elves you control: Add {G}{G}{G} to your mana pool.</text>
+    <flavorText>"Study the great spirits of our age and those of the past. Prune secrets from the branching traceries of our lineage."
+—Twila, Gilt-Leaf archdruid</flavorText>
+  </item>
+  <item>
+    <id>MOR0127</id>
+    <name>Hunting Triad</name>
+    <text>Put three 1/1 green Elf Warrior creature tokens onto the battlefield.
+Reinforce 3—{3}{G} ({3}{G}, Discard this card: Put three +1/+1 counters on target creature.)</text>
+    <flavorText>"Eyeblights are easy to track. Just follow the imperfections."</flavorText>
+  </item>
+  <item>
+    <id>MOR0128</id>
+    <name>Leaf-Crowned Elder</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Leaf-Crowned Elder, you may reveal it. If you do, you may play that card without paying its mana cost.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0129</id>
+    <name>Luminescent Rain</name>
+    <text>Choose a creature type. You gain 2 life for each permanent you control of that type.</text>
+    <flavorText>Storms in Lorwyn don't patter on village rooftops, but rather drench the clachan in rays of amber light.</flavorText>
+  </item>
+  <item>
+    <id>MOR0130</id>
+    <name>Lys Alana Bowmaster</name>
+    <text>Reach (This can block creatures with flying.)
+Whenever you cast an Elf spell, you may have Lys Alana Bowmaster deal 2 damage to target creature with flying.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0131</id>
+    <name>Orchard Warden</name>
+    <text>Whenever another Treefolk creature enters the battlefield under your control, you may gain life equal to that creature's toughness.</text>
+    <flavorText>"After the Rising, a treefolk's mind is as limber and green as its limbs, and is at its most receptive to our teachings."</flavorText>
+  </item>
+  <item>
+    <id>MOR0132</id>
+    <name>Reach of Branches</name>
+    <text>Put a 2/5 green Treefolk Shaman creature token onto the battlefield.
+Whenever a Forest enters the battlefield under your control, you may return Reach of Branches from your graveyard to your hand.</text>
+    <flavorText>Growth has no limits.</flavorText>
+  </item>
+  <item>
+    <id>MOR0133</id>
+    <name>Recross the Paths</name>
+    <text>Reveal cards from the top of your library until you reveal a land card. Put that card onto the battlefield and the rest on the bottom of your library in any order. Clash with an opponent. If you win, return Recross the Paths to its owner's hand. (Each clashing player reveals the top card of his or her library, then puts that card on the top or bottom. A player wins if his or her card had a higher converted mana cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0134</id>
+    <name>Reins of the Vinesteed</name>
+    <text>Enchant creature
+Enchanted creature gets +2/+2.
+When enchanted creature is put into a graveyard, you may return Reins of the Vinesteed from your graveyard to the battlefield attached to a creature that shares a creature type with that creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0135</id>
+    <name>Rhys the Exiled</name>
+    <text>Whenever Rhys the Exiled attacks, you gain 1 life for each Elf you control.
+{B}, Sacrifice an Elf: Regenerate Rhys the Exiled.</text>
+    <flavorText>Once a famed hunter and packmaster, now a renegade seeking his own path.</flavorText>
+  </item>
+  <item>
+    <id>MOR0136</id>
+    <name>Scapeshift</name>
+    <text>Sacrifice any number of lands. Search your library for that many land cards, put them onto the battlefield tapped, then shuffle your library.</text>
+    <flavorText>"Changes far greater than the turning of the leaves await us at season's end."
+—Colfenor, the Last Yew</flavorText>
+  </item>
+  <item>
+    <id>MOR0137</id>
+    <name>Unstoppable Ash</name>
+    <text>Trample
+Champion a Treefolk or Warrior (When this enters the battlefield, sacrifice it unless you exile another Treefolk or Warrior you control. When this leaves the battlefield, that card returns to the battlefield.)
+Whenever a creature you control becomes blocked, it gets +0/+5 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0138</id>
+    <name>Walker of the Grove</name>
+    <text>When Walker of the Grove leaves the battlefield, put a 4/4 green Elemental creature token onto the battlefield.
+Evoke {4}{G} (You may cast this spell for its evoke cost. If you do, it's sacrificed when it enters the battlefield.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0139</id>
+    <name>Winnower Patrol</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Winnower Patrol, you may reveal it. If you do, put a +1/+1 counter on Winnower Patrol.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0140</id>
+    <name>Wolf-Skull Shaman</name>
+    <text>Kinship — At the beginning of your upkeep, you may look at the top card of your library. If it shares a creature type with Wolf-Skull Shaman, you may reveal it. If you do, put a 2/2 green Wolf creature token onto the battlefield.</text>
+    <flavorText>A chorus of howls answers his call.</flavorText>
+  </item>
+  <item>
+    <id>MOR0141</id>
+    <name>Cloak and Dagger</name>
+    <text>Equipped creature gets +2/+0 and has shroud. (It can't be the target of spells or abilities.)
+Whenever a Rogue creature enters the battlefield, you may attach Cloak and Dagger to it.
+Equip {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0142</id>
+    <name>Diviner's Wand</name>
+    <text>Equipped creature has "Whenever you draw a card, this creature gets +1/+1 and gains flying until end of turn" and "{4}: Draw a card."
+Whenever a Wizard creature enters the battlefield, you may attach Diviner's Wand to it.
+Equip {3}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0143</id>
+    <name>Door of Destinies</name>
+    <text>As Door of Destinies enters the battlefield, choose a creature type.
+Whenever you cast a spell of the chosen type, put a charge counter on Door of Destinies.
+Creatures you control of the chosen type get +1/+1 for each charge counter on Door of Destinies.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0144</id>
+    <name>Obsidian Battle-Axe</name>
+    <text>Equipped creature gets +2/+1 and has haste.
+Whenever a Warrior creature enters the battlefield, you may attach Obsidian Battle-Axe to it.
+Equip {3}</text>
+    <flavorText>It's the flint that sparks a warrior's rage.</flavorText>
+  </item>
+  <item>
+    <id>MOR0145</id>
+    <name>Thornbite Staff</name>
+    <text>Equipped creature has "{2}, {T}: This creature deals 1 damage to target creature or player" and "Whenever a creature is put into a graveyard from the battlefield, untap this creature."
+Whenever a Shaman creature enters the battlefield, you may attach Thornbite Staff to it.
+Equip {4}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0146</id>
+    <name>Veteran's Armaments</name>
+    <text>Equipped creature has "Whenever this creature attacks or blocks, it gets +1/+1 until end of turn for each attacking creature."
+Whenever a Soldier creature enters the battlefield, you may attach Veteran's Armaments to it.
+Equip {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0147</id>
+    <name>Murmuring Bosk</name>
+    <text>({T}: Add {G} to your mana pool.)
+As Murmuring Bosk enters the battlefield, you may reveal a Treefolk card from your hand. If you don't, Murmuring Bosk enters the battlefield tapped.
+{T}: Add {W} or {B} to your mana pool. Murmuring Bosk deals 1 damage to you.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0148</id>
+    <name>Mutavault</name>
+    <text>{T}: Add {1} to your mana pool.
+{1}: Mutavault becomes a 2/2 creature with all creature types until end of turn. It's still a land.</text>
+    <flavorText>Some changelings born at Velis Vel never return, but their essence never leaves.</flavorText>
+  </item>
+  <item>
+    <id>MOR0149</id>
+    <name>Primal Beyond</name>
+    <text>As Primal Beyond enters the battlefield, you may reveal an Elemental card from your hand. If you don't, Primal Beyond enters the battlefield tapped.
+{T}: Add {1} to your mana pool.
+{T}: Add one mana of any color to your mana pool. Spend this mana only to cast Elemental spells or activate abilities of Elementals.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>MOR0150</id>
+    <name>Rustic Clachan</name>
+    <text>As Rustic Clachan enters the battlefield, you may reveal a Kithkin card from your hand. If you don't, Rustic Clachan enters the battlefield tapped.
+{T}: Add {W} to your mana pool.
+Reinforce 1—{1}{W} ({1}{W}, Discard this card: Put a +1/+1 counter on target creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

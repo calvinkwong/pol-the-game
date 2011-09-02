@@ -1,0 +1,1174 @@
+<cards name="Fifth Dawn">
+  <item>
+    <id>5DN0001</id>
+    <name>Abuna's Chant</name>
+    <text>Choose one — You gain 5 life; or prevent the next 5 damage that would be dealt to target creature this turn.
+Entwine {2} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0002</id>
+    <name>Armed Response</name>
+    <text>Armed Response deals damage to target attacking creature equal to the number of Equipment you control.</text>
+    <flavorText>Raksha watched as the goblins continued to pour onto the Razor Fields. "They just don't know when to stop, do they?"</flavorText>
+  </item>
+  <item>
+    <id>5DN0003</id>
+    <name>Auriok Champion</name>
+    <text>Protection from black and from red
+Whenever another creature enters the battlefield, you may gain 1 life.</text>
+    <flavorText>"Her will shall banish the shadows. Her might shall punish the lawless. Her beauty shall restore the light."
+—Ushanti, leonin seer</flavorText>
+  </item>
+  <item>
+    <id>5DN0004</id>
+    <name>Auriok Salvagers</name>
+    <text>{1}{W}: Return target artifact card with converted mana cost 1 or less from your graveyard to your hand.</text>
+    <flavorText>"Memnarch or the vedalken salvage most of the large machines, leaving us only scraps. Scraps are enough."</flavorText>
+  </item>
+  <item>
+    <id>5DN0005</id>
+    <name>Auriok Windwalker</name>
+    <text>Flying
+{T}: Attach target Equipment you control to target creature you control.</text>
+    <flavorText>Each generation, a handful of Auriok girls are allowed to visit the Cave of Light. They return riding the wind and brandishing steel.</flavorText>
+  </item>
+  <item>
+    <id>5DN0006</id>
+    <name>Beacon of Immortality</name>
+    <text>Double target player's life total. Shuffle Beacon of Immortality into its owner's library.</text>
+    <flavorText>The cave floods with light. A thousand rays shine forth and meld into one.</flavorText>
+  </item>
+  <item>
+    <id>5DN0007</id>
+    <name>Bringer of the White Dawn</name>
+    <text>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the White Dawn's mana cost.
+Trample
+At the beginning of your upkeep, you may return target artifact card from your graveyard to the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0008</id>
+    <name>Circle of Protection: Artifacts</name>
+    <text>{2}: The next time an artifact source of your choice would deal damage to you this turn, prevent that damage.</text>
+    <flavorText>"Memnarch shall rage against us. We shall endure."</flavorText>
+  </item>
+  <item>
+    <id>5DN0009</id>
+    <name>Leonin Squire</name>
+    <text>When Leonin Squire enters the battlefield, return target artifact card with converted mana cost 1 or less from your graveyard to your hand.</text>
+    <flavorText>"I may be kha, but without my soldiers, my people, I am nothing."
+—Raksha Golden Cub</flavorText>
+  </item>
+  <item>
+    <id>5DN0010</id>
+    <name>Loxodon Anchorite</name>
+    <text>{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>The loxodon ascribe religious superiority to those born albino, believing them to be spiritually pure.</flavorText>
+  </item>
+  <item>
+    <id>5DN0011</id>
+    <name>Loxodon Stalwart</name>
+    <text>Vigilance
+{W}: Loxodon Stalwart gets +0/+1 until end of turn.</text>
+    <flavorText>Long ago, the Auriok attempted peace with the loxodons. The leonin attempted war. Neither succeeded.</flavorText>
+  </item>
+  <item>
+    <id>5DN0012</id>
+    <name>Raksha Golden Cub</name>
+    <text>Vigilance
+As long as Raksha Golden Cub is equipped, Cat creatures you control get +2/+2 and have double strike.</text>
+    <flavorText>Some believe that Raksha, youngest of the kha, is the reincarnation of Dakan, the first and mightiest of leonin leaders.</flavorText>
+  </item>
+  <item>
+    <id>5DN0013</id>
+    <name>Retaliate</name>
+    <text>Destroy all creatures that dealt damage to you this turn.</text>
+    <flavorText>The Auriok learned perseverance from their forebears. They learned justice from the leonin.</flavorText>
+  </item>
+  <item>
+    <id>5DN0014</id>
+    <name>Roar of Reclamation</name>
+    <text>Each player returns all artifact cards from his or her graveyard to the battlefield.</text>
+    <flavorText>"Yesterday's relics will determine the outcome of tomorrow's war."
+—Ushanti, leonin seer</flavorText>
+  </item>
+  <item>
+    <id>5DN0015</id>
+    <name>Skyhunter Prowler</name>
+    <text>Flying, vigilance (This creature can't be blocked except by creatures with flying or reach, and attacking doesn't cause this creature to tap.)</text>
+    <flavorText>"If what I have seen comes to pass, we will need our guardians more than ever."
+—Ushanti, leonin seer</flavorText>
+  </item>
+  <item>
+    <id>5DN0016</id>
+    <name>Skyhunter Skirmisher</name>
+    <text>Flying, double strike (This creature can't be blocked except by creatures with flying or reach, and it deals both first-strike and regular combat damage.)</text>
+    <flavorText>"Like dawn's first light, blind the unprepared and banish the shadows."
+—Skyhunter creed</flavorText>
+  </item>
+  <item>
+    <id>5DN0017</id>
+    <name>Stand Firm</name>
+    <text>Target creature gets +1/+1 until end of turn.
+Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0018</id>
+    <name>Stasis Cocoon</name>
+    <text>Enchant artifact
+Enchanted artifact's activated abilities can't be activated. If enchanted artifact is a creature, it can't attack or block.</text>
+    <flavorText>Though the grip of a golem is strong, the grip of Auriok magic is far stronger.</flavorText>
+  </item>
+  <item>
+    <id>5DN0019</id>
+    <name>Steelshaper's Gift</name>
+    <text>Search your library for an Equipment card, reveal that card, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>Some blades seek their own wielders.</flavorText>
+  </item>
+  <item>
+    <id>5DN0020</id>
+    <name>Vanquish</name>
+    <text>Destroy target blocking creature.</text>
+    <flavorText>"All beings have an inner light. Let me show you yours."
+—Ushanti, leonin seer</flavorText>
+  </item>
+  <item>
+    <id>5DN0021</id>
+    <name>Acquire</name>
+    <text>Search target opponent's library for an artifact card and put that card onto the battlefield under your control. Then that player shuffles his or her library.</text>
+    <flavorText>Sometimes "innovation" means "stealing another's secret before anyone else can."</flavorText>
+  </item>
+  <item>
+    <id>5DN0022</id>
+    <name>Advanced Hoverguard</name>
+    <text>Flying
+{U}: Advanced Hoverguard gains shroud until end of turn. (It can't be the target of spells or abilities.)</text>
+    <flavorText>"They are like their vedalken masters: untouchable, aloof, and omnipresent."
+—Bruenna, Neurok leader</flavorText>
+  </item>
+  <item>
+    <id>5DN0023</id>
+    <name>Artificer's Intuition</name>
+    <text>{U}, Discard an artifact card: Search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0024</id>
+    <name>Beacon of Tomorrows</name>
+    <text>Target player takes an extra turn after this one. Shuffle Beacon of Tomorrows into its owner's library.</text>
+    <flavorText>To look into its light is to meet the gaze of history.</flavorText>
+  </item>
+  <item>
+    <id>5DN0025</id>
+    <name>Blinkmoth Infusion</name>
+    <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Untap all artifacts.</text>
+    <flavorText>Power begets power.</flavorText>
+  </item>
+  <item>
+    <id>5DN0026</id>
+    <name>Bringer of the Blue Dawn</name>
+    <text>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Blue Dawn's mana cost.
+Trample
+At the beginning of your upkeep, you may draw two cards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0027</id>
+    <name>Condescend</name>
+    <text>Counter target spell unless its controller pays {X}.
+Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0028</id>
+    <name>Disruption Aura</name>
+    <text>Enchant artifact
+Enchanted artifact has "At the beginning of your upkeep, sacrifice this artifact unless you pay its mana cost."</text>
+    <flavorText>Vedalken weapons sold to outsiders are as dependable as the vedalken themselves.</flavorText>
+  </item>
+  <item>
+    <id>5DN0029</id>
+    <name>Early Frost</name>
+    <text>Tap up to three target lands.</text>
+    <flavorText>Under its mists, the earth sleeps.</flavorText>
+  </item>
+  <item>
+    <id>5DN0030</id>
+    <name>Eyes of the Watcher</name>
+    <text>Whenever you cast an instant or sorcery spell, you may pay {1}. If you do, scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0031</id>
+    <name>Fold into Æther</name>
+    <text>Counter target spell. If that spell is countered this way, its controller may put a creature card from his or her hand onto the battlefield.</text>
+    <flavorText>Æther portals drift across Mirrodin's surface, dragging creatures across time and space.</flavorText>
+  </item>
+  <item>
+    <id>5DN0032</id>
+    <name>Hoverguard Sweepers</name>
+    <text>Flying
+When Hoverguard Sweepers enters the battlefield, you may return up to two target creatures to their owners' hands.</text>
+    <flavorText>They only appear in emergencies, and emergencies never last long.</flavorText>
+  </item>
+  <item>
+    <id>5DN0033</id>
+    <name>Into Thin Air</name>
+    <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Return target artifact to its owner's hand.</text>
+    <flavorText>"Perhaps I should take Mirrodin apart and begin again."
+—Memnarch</flavorText>
+  </item>
+  <item>
+    <id>5DN0034</id>
+    <name>Plasma Elemental</name>
+    <text>Plasma Elemental is unblockable.</text>
+    <flavorText>"I watched a ship sail right through it. I thought it was harmless . . . until I saw what it had done to the crew."
+—Bruenna, Neurok leader</flavorText>
+  </item>
+  <item>
+    <id>5DN0035</id>
+    <name>Qumulox</name>
+    <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Flying</text>
+    <flavorText>Even the clouds bend themselves to Memnarch's will, eager to swallow those who oppose him.</flavorText>
+  </item>
+  <item>
+    <id>5DN0036</id>
+    <name>Serum Visions</name>
+    <text>Draw a card.
+Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0037</id>
+    <name>Spectral Shift</name>
+    <text>Choose one — Change the text of target spell or permanent by replacing all instances of one basic land type with another; or change the text of target spell or permanent by replacing all instances of one color word with another. (These effects last indefinitely.)
+Entwine {2} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0038</id>
+    <name>Thought Courier</name>
+    <text>{T}: Draw a card, then discard a card.</text>
+    <flavorText>It is telling of the vedalkens' culture that they trust human couriers more than their own comrades.</flavorText>
+  </item>
+  <item>
+    <id>5DN0039</id>
+    <name>Trinket Mage</name>
+    <text>When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0040</id>
+    <name>Vedalken Mastermind</name>
+    <text>{U}, {T}: Return target permanent you control to its owner's hand.</text>
+    <flavorText>The vedalken see other beings from a cold distance, as either experimental subjects or objects of study.</flavorText>
+  </item>
+  <item>
+    <id>5DN0041</id>
+    <name>Beacon of Unrest</name>
+    <text>Put target artifact or creature card from a graveyard onto the battlefield under your control. Shuffle Beacon of Unrest into its owner's library.</text>
+    <flavorText>A vertical scream pierces the night air and echoes doom through the clouds.</flavorText>
+  </item>
+  <item>
+    <id>5DN0042</id>
+    <name>Blind Creeper</name>
+    <text>Whenever a player casts a spell, Blind Creeper gets -1/-1 until end of turn.</text>
+    <flavorText>It shuns everything except its next meal.</flavorText>
+  </item>
+  <item>
+    <id>5DN0043</id>
+    <name>Bringer of the Black Dawn</name>
+    <text>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Black Dawn's mana cost.
+Trample
+At the beginning of your upkeep, you may pay 2 life. If you do, search your library for a card, then shuffle your library and put that card on top of it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0044</id>
+    <name>Cackling Imp</name>
+    <text>Flying
+{T}: Target player loses 1 life.</text>
+    <flavorText>Its laughter drives needles through your mind.</flavorText>
+  </item>
+  <item>
+    <id>5DN0045</id>
+    <name>Desecration Elemental</name>
+    <text>Fear (This creature can't be blocked except by artifact creatures and/or black creatures.)
+Whenever a player casts a spell, sacrifice a creature.</text>
+    <flavorText>Its precious corpses dance like puppets to attract mindless nim prey.</flavorText>
+  </item>
+  <item>
+    <id>5DN0046</id>
+    <name>Devour in Shadow</name>
+    <text>Destroy target creature. It can't be regenerated. You lose life equal to that creature's toughness.</text>
+    <flavorText>"Feel the burn of the mists. Master them. They will devour your enemies."
+—Geth, keeper of the Vault</flavorText>
+  </item>
+  <item>
+    <id>5DN0047</id>
+    <name>Dross Crocodile</name>
+    <text>
+    </text>
+    <flavorText>The necrogen may have taken its sight, but it can still taste the fear of its prey.</flavorText>
+  </item>
+  <item>
+    <id>5DN0048</id>
+    <name>Ebon Drake</name>
+    <text>Flying
+Whenever a player casts a spell, you lose 1 life.</text>
+    <flavorText>The deadliest killers serve only those who are not afraid to die.</flavorText>
+  </item>
+  <item>
+    <id>5DN0049</id>
+    <name>Endless Whispers</name>
+    <text>Each creature has "When this creature is put into a graveyard, choose target opponent. That player returns this card from that graveyard to the battlefield under his or her control at the beginning of the next end step."</text>
+    <flavorText>Those who find death under the black sun's shadow cannot escape its pull.</flavorText>
+  </item>
+  <item>
+    <id>5DN0050</id>
+    <name>Fill with Fright</name>
+    <text>Target player discards two cards.
+Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0051</id>
+    <name>Fleshgrafter</name>
+    <text>Discard an artifact card: Fleshgrafter gets +2/+2 until end of turn.</text>
+    <flavorText>Necrogen enflames certain emotional centers in the Morioks' brains: hate, aggression, and especially greed.</flavorText>
+  </item>
+  <item>
+    <id>5DN0052</id>
+    <name>Lose Hope</name>
+    <text>Target creature gets -1/-1 until end of turn.
+Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0053</id>
+    <name>Mephidross Vampire</name>
+    <text>Flying
+Each creature you control is a Vampire in addition to its other creature types and has "Whenever this creature deals damage to a creature, put a +1/+1 counter on this creature."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0054</id>
+    <name>Moriok Rigger</name>
+    <text>Whenever an artifact is put into a graveyard from the battlefield, you may put a +1/+1 counter on Moriok Rigger.</text>
+    <flavorText>The Moriok scavenge for weapons, for armor, for food—and ultimately for their souls.</flavorText>
+  </item>
+  <item>
+    <id>5DN0055</id>
+    <name>Night's Whisper</name>
+    <text>You draw two cards and you lose 2 life.</text>
+    <flavorText>The Moriok call the black moon the Whisperer. At her apex, she whispers of power.</flavorText>
+  </item>
+  <item>
+    <id>5DN0056</id>
+    <name>Nim Grotesque</name>
+    <text>Nim Grotesque gets +1/+0 for each artifact you control.</text>
+    <flavorText>In the swirling mists, you could walk right up to one and not know until its teeth are in your throat.</flavorText>
+  </item>
+  <item>
+    <id>5DN0057</id>
+    <name>Plunge into Darkness</name>
+    <text>Choose one — Sacrifice any number of creatures, then you gain 3 life for each sacrificed creature; or pay X life, then look at the top X cards of your library, put one of those cards into your hand, and exile the rest.
+Entwine {B} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0058</id>
+    <name>Relentless Rats</name>
+    <text>Relentless Rats gets +1/+1 for each other creature on the battlefield named Relentless Rats.
+A deck can have any number of cards named Relentless Rats.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0059</id>
+    <name>Shattered Dreams</name>
+    <text>Target opponent reveals his or her hand. You choose an artifact card from it. That player discards that card.</text>
+    <flavorText>Victims are lucky if they remember ever having had what was lost.</flavorText>
+  </item>
+  <item>
+    <id>5DN0060</id>
+    <name>Vicious Betrayal</name>
+    <text>As an additional cost to cast Vicious Betrayal, sacrifice any number of creatures.
+Target creature gets +2/+2 until end of turn for each creature sacrificed this way.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0061</id>
+    <name>Beacon of Destruction</name>
+    <text>Beacon of Destruction deals 5 damage to target creature or player. Shuffle Beacon of Destruction into its owner's library.</text>
+    <flavorText>The Great Furnace's blessing is a spectacular sight, but the best view comes at a high cost.</flavorText>
+  </item>
+  <item>
+    <id>5DN0062</id>
+    <name>Bringer of the Red Dawn</name>
+    <text>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Red Dawn's mana cost.
+Trample
+At the beginning of your upkeep, you may untap target creature and gain control of it until end of turn. That creature gains haste until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0063</id>
+    <name>Cosmic Larva</name>
+    <text>Trample
+At the beginning of your upkeep, sacrifice Cosmic Larva unless you sacrifice two lands.</text>
+    <flavorText>For millennia they wandered from plane to plane, devouring all metal. Finally, their wanderings are over.</flavorText>
+  </item>
+  <item>
+    <id>5DN0064</id>
+    <name>Feedback Bolt</name>
+    <text>Feedback Bolt deals damage to target player equal to the number of artifacts you control.</text>
+    <flavorText>The path of least resistance is often through your enemies.</flavorText>
+  </item>
+  <item>
+    <id>5DN0065</id>
+    <name>Furnace Whelp</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{R}: Furnace Whelp gets +1/+0 until end of turn.</text>
+    <flavorText>Baby dragons can't figure out humans—if they didn't want to be killed, why were they made of meat and treasure?</flavorText>
+  </item>
+  <item>
+    <id>5DN0066</id>
+    <name>Goblin Brawler</name>
+    <text>First strike
+Goblin Brawler can't be equipped.</text>
+    <flavorText>Perhaps he shuns technology. Perhaps he appreciates nature. Perhaps he doesn't know the difference.</flavorText>
+  </item>
+  <item>
+    <id>5DN0067</id>
+    <name>Granulate</name>
+    <text>Destroy each nonland artifact with converted mana cost 4 or less.</text>
+    <flavorText>There aren't that many ways to destroy a solid steel weapon, but somehow the goblins keep finding new ones.</flavorText>
+  </item>
+  <item>
+    <id>5DN0068</id>
+    <name>Ion Storm</name>
+    <text>{1}{R}, Remove a +1/+1 counter or a charge counter from a permanent you control: Ion Storm deals 2 damage to target creature or player.</text>
+    <flavorText>When enough artifacts lie too long in the same place, their magical radiation weakens reality, opening rifts of unpredictable destructive power.</flavorText>
+  </item>
+  <item>
+    <id>5DN0069</id>
+    <name>Iron-Barb Hellion</name>
+    <text>Haste
+Iron-Barb Hellion can't block.</text>
+    <flavorText>When you feel a rumble in the ground, hold perfectly still. One sound will bring the hellion.</flavorText>
+  </item>
+  <item>
+    <id>5DN0070</id>
+    <name>Krark-Clan Engineers</name>
+    <text>{R}, Sacrifice two artifacts: Destroy target artifact.</text>
+    <flavorText>"Well, I jammed the whatsit into the whackdoodle, but I think I broke the thingamajigger."</flavorText>
+  </item>
+  <item>
+    <id>5DN0071</id>
+    <name>Krark-Clan Ogre</name>
+    <text>{R}, Sacrifice an artifact: Target creature can't block this turn.</text>
+    <flavorText>The Krark Clan believes it's caught an ogre. The ogre believes he's caught seven goblins.</flavorText>
+  </item>
+  <item>
+    <id>5DN0072</id>
+    <name>Magma Giant</name>
+    <text>When Magma Giant enters the battlefield, it deals 2 damage to each creature and each player.</text>
+    <flavorText>Its open mouth is a furnace blast that blisters the skin. Its smoking fists are meteors that split the earth.</flavorText>
+  </item>
+  <item>
+    <id>5DN0073</id>
+    <name>Magma Jet</name>
+    <text>Magma Jet deals 2 damage to target creature or player.
+Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0074</id>
+    <name>Magnetic Theft</name>
+    <text>Attach target Equipment to target creature. (Control of the Equipment doesn't change.)</text>
+    <flavorText>Among the Vulshok, the most prized blades are those that killed their original owners.</flavorText>
+  </item>
+  <item>
+    <id>5DN0075</id>
+    <name>Mana Geyser</name>
+    <text>Add {R} to your mana pool for each tapped land your opponents control.</text>
+    <flavorText>The Quicksilver Sea hissed and bubbled at the indignity. The Vulshok shaman just smiled.</flavorText>
+  </item>
+  <item>
+    <id>5DN0076</id>
+    <name>Rain of Rust</name>
+    <text>Choose one — Destroy target artifact; or destroy target land.
+Entwine {3}{R} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>On Mirrodin, mages who call upon the power of rust are shunned by their people and often turn mercenary to survive.</flavorText>
+  </item>
+  <item>
+    <id>5DN0077</id>
+    <name>Reversal of Fortune</name>
+    <text>Target opponent reveals his or her hand. You may copy an instant or sorcery card in it. If you do, you may cast the copy without paying its mana cost.</text>
+    <flavorText>"Why learn hundreds of spells when you can learn only one and use it to steal hundreds?"</flavorText>
+  </item>
+  <item>
+    <id>5DN0078</id>
+    <name>Screaming Fury</name>
+    <text>Target creature gets +5/+0 and gains haste until end of turn.</text>
+    <flavorText>He's got an axe to grind.</flavorText>
+  </item>
+  <item>
+    <id>5DN0079</id>
+    <name>Spark Elemental</name>
+    <text>Trample, haste (If this creature would deal enough damage to its blockers to destroy them, you may have it deal the rest of its damage to defending player or planeswalker. This creature can attack and {T} as soon as it comes under your control.)
+At the beginning of the end step, sacrifice Spark Elemental.</text>
+    <flavorText>Vulshok shamans summon spark elementals to burn paths through thick underbrush—or through goblin salvage squads.</flavorText>
+  </item>
+  <item>
+    <id>5DN0080</id>
+    <name>Vulshok Sorcerer</name>
+    <text>Haste
+{T}: Vulshok Sorcerer deals 1 damage to target creature or player.</text>
+    <flavorText>Vulshok sorcerers train by leaping into electrified storm clouds. Dead or alive, they come back down with smiles on their faces.</flavorText>
+  </item>
+  <item>
+    <id>5DN0081</id>
+    <name>All Suns' Dawn</name>
+    <text>For each color, return up to one target card of that color from your graveyard to your hand. Exile All Suns' Dawn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0082</id>
+    <name>Beacon of Creation</name>
+    <text>Put a 1/1 green Insect creature token onto the battlefield for each Forest you control. Shuffle Beacon of Creation into its owner's library.</text>
+    <flavorText>A chorus of life heralds the arrival of Mirrodin's final sun.</flavorText>
+  </item>
+  <item>
+    <id>5DN0083</id>
+    <name>Bringer of the Green Dawn</name>
+    <text>You may pay {W}{U}{B}{R}{G} rather than pay Bringer of the Green Dawn's mana cost.
+Trample
+At the beginning of your upkeep, you may put a 3/3 green Beast creature token onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0084</id>
+    <name>Channel the Suns</name>
+    <text>Add {W}{U}{B}{R}{G} to your mana pool.</text>
+    <flavorText>To some the birth of the fifth sun was a sign of doom. To others it was a sign of salvation. But to all it was a sign.</flavorText>
+  </item>
+  <item>
+    <id>5DN0085</id>
+    <name>Dawn's Reflection</name>
+    <text>Enchant land
+Whenever enchanted land is tapped for mana, its controller adds two mana in any combination of colors to his or her mana pool (in addition to the mana the land produces).</text>
+    <flavorText>Only Sylvok magic could truly capture the perfection of a Mirrodin sunrise.</flavorText>
+  </item>
+  <item>
+    <id>5DN0086</id>
+    <name>Eternal Witness</name>
+    <text>When Eternal Witness enters the battlefield, you may return target card from your graveyard to your hand.</text>
+    <flavorText>She remembers every word spoken, from the hero's oath to the baby's cry.</flavorText>
+  </item>
+  <item>
+    <id>5DN0087</id>
+    <name>Fangren Pathcutter</name>
+    <text>Whenever Fangren Pathcutter attacks, attacking creatures gain trample until end of turn.</text>
+    <flavorText>"Tracking a fangren pack is easy. Catching up to one is fatal."
+—Viridian scout</flavorText>
+  </item>
+  <item>
+    <id>5DN0088</id>
+    <name>Ferocious Charge</name>
+    <text>Target creature gets +4/+4 until end of turn.
+Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0089</id>
+    <name>Joiner Adept</name>
+    <text>Lands you control have "{T}: Add one mana of any color to your mana pool."</text>
+    <flavorText>A talented apprentice makes all things. The master makes all things possible.</flavorText>
+  </item>
+  <item>
+    <id>5DN0090</id>
+    <name>Ouphe Vandals</name>
+    <text>{G}, Sacrifice Ouphe Vandals: Counter target activated ability from an artifact source and destroy that artifact if it's on the battlefield. (Mana abilities can't be targeted.)</text>
+    <flavorText>The ouphes finally managed to still the clockwork monstrosity by catching themselves in its cogs.</flavorText>
+  </item>
+  <item>
+    <id>5DN0091</id>
+    <name>Rite of Passage</name>
+    <text>Whenever a creature you control is dealt damage, put a +1/+1 counter on it. (The damage is dealt before the counter is put on.)</text>
+    <flavorText>Every scar is a lesson, every battle a test of what you have learned.</flavorText>
+  </item>
+  <item>
+    <id>5DN0092</id>
+    <name>Rude Awakening</name>
+    <text>Choose one — Untap all lands you control; or until end of turn, lands you control become 2/2 creatures that are still lands.
+Entwine {2}{G} (Choose both if you pay the entwine cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0093</id>
+    <name>Sylvok Explorer</name>
+    <text>{T}: Add to your mana pool one mana of any color that a land an opponent controls could produce.</text>
+    <flavorText>Any creature on a druid's shoulder is his family, any land under his feet his home.</flavorText>
+  </item>
+  <item>
+    <id>5DN0094</id>
+    <name>Tangle Asp</name>
+    <text>Whenever Tangle Asp blocks or becomes blocked by a creature, destroy that creature at end of combat.</text>
+    <flavorText>"I have no fangs, yet I constantly bite. I have no scales, yet I slither through you. What am I?"
+—Riddle of the viper's venom</flavorText>
+  </item>
+  <item>
+    <id>5DN0095</id>
+    <name>Tel-Jilad Justice</name>
+    <text>Destroy target artifact.
+Scry 2. (To scry 2, look at the top two cards of your library, then put any number of them on the bottom of your library and the rest on top in any order.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0096</id>
+    <name>Tel-Jilad Lifebreather</name>
+    <text>{G}, {T}, Sacrifice a Forest: Regenerate target creature.</text>
+    <flavorText>"The Tangle loans you life. Spend it well."</flavorText>
+  </item>
+  <item>
+    <id>5DN0097</id>
+    <name>Tornado Elemental</name>
+    <text>When Tornado Elemental enters the battlefield, it deals 6 damage to each creature with flying.
+You may have Tornado Elemental assign its combat damage as though it weren't blocked.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0098</id>
+    <name>Tyrranax</name>
+    <text>{1}{G}: Tyrranax gets -1/+1 until end of turn.</text>
+    <flavorText>It outnumbers you one to many.</flavorText>
+  </item>
+  <item>
+    <id>5DN0099</id>
+    <name>Viridian Lorebearers</name>
+    <text>{3}{G}, {T}: Target creature gets +X/+X until end of turn, where X is the number of artifacts your opponents control.</text>
+    <flavorText>A small band of elves pledged many years ago to avoid the Edges of Forgetting. They have remained hidden until now.</flavorText>
+  </item>
+  <item>
+    <id>5DN0100</id>
+    <name>Viridian Scout</name>
+    <text>{2}{G}, Sacrifice Viridian Scout: Viridian Scout deals 2 damage to target creature with flying.</text>
+    <flavorText>They know a hoverguard's only blind spot is directly above it.</flavorText>
+  </item>
+  <item>
+    <id>5DN0101</id>
+    <name>Anodet Lurker</name>
+    <text>When Anodet Lurker is put into a graveyard from the battlefield, you gain 3 life.</text>
+    <flavorText>These machines build fearsome visages out of scrap metal to scare off predators who would otherwise be eager to consume them.</flavorText>
+  </item>
+  <item>
+    <id>5DN0102</id>
+    <name>Arachnoid</name>
+    <text>Reach (This creature can block creatures with flying.)</text>
+    <flavorText>It follows the green sun over Mirrodin's surface, spinning massive webs of whispersilk as it goes.</flavorText>
+  </item>
+  <item>
+    <id>5DN0103</id>
+    <name>Arcbound Wanderer</name>
+    <text>Modular—Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it. When it's put into a graveyard, you may put its +1/+1 counters on target artifact creature.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0104</id>
+    <name>Avarice Totem</name>
+    <text>{5}: Exchange control of Avarice Totem and target nonland permanent.</text>
+    <flavorText>Souls and steel, the essence of Mirrodin. Memnarch lacks one but has an abundance of the other.</flavorText>
+  </item>
+  <item>
+    <id>5DN0105</id>
+    <name>Baton of Courage</name>
+    <text>Flash
+Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+Remove a charge counter from Baton of Courage: Target creature gets +1/+1 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0106</id>
+    <name>Battered Golem</name>
+    <text>Battered Golem doesn't untap during your untap step.
+Whenever an artifact enters the battlefield, you may untap Battered Golem.</text>
+    <flavorText>A dent marks every year of service, and it has as much rust as glory.</flavorText>
+  </item>
+  <item>
+    <id>5DN0107</id>
+    <name>Blasting Station</name>
+    <text>{T}, Sacrifice a creature: Blasting Station deals 1 damage to target creature or player.
+Whenever a creature enters the battlefield, you may untap Blasting Station.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0108</id>
+    <name>Chimeric Coils</name>
+    <text>{X}{1}: Chimeric Coils becomes an X/X Construct artifact creature. Sacrifice it at the beginning of the next end step.</text>
+    <flavorText>The energy that infuses the rings with life also melts them away, leaving only useless puddles of slag.</flavorText>
+  </item>
+  <item>
+    <id>5DN0109</id>
+    <name>Clearwater Goblet</name>
+    <text>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+At the beginning of your upkeep, you may gain life equal to the number of charge counters on Clearwater Goblet.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0110</id>
+    <name>Clock of Omens</name>
+    <text>Tap two untapped artifacts you control: Untap target artifact.</text>
+    <flavorText>Those near the clock don't hear it anymore, but their every movement is in time with its ticking.</flavorText>
+  </item>
+  <item>
+    <id>5DN0111</id>
+    <name>Composite Golem</name>
+    <text>Sacrifice Composite Golem: Add {W}{U}{B}{R}{G} to your mana pool.</text>
+    <flavorText>It binds the five suns in human form.</flavorText>
+  </item>
+  <item>
+    <id>5DN0112</id>
+    <name>Conjurer's Bauble</name>
+    <text>{T}, Sacrifice Conjurer's Bauble: Put up to one target card from your graveyard on the bottom of your library. Draw a card.</text>
+    <flavorText>It is the moment of discovery, the triumph of the mind, the reimagining of past glory.</flavorText>
+  </item>
+  <item>
+    <id>5DN0113</id>
+    <name>Cranial Plating</name>
+    <text>Equipped creature gets +1/+0 for each artifact you control.
+{B}{B}: Attach Cranial Plating to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0114</id>
+    <name>Crucible of Worlds</name>
+    <text>You may play land cards from your graveyard.</text>
+    <flavorText>Amidst the darkest ashes grow the strongest seeds.</flavorText>
+  </item>
+  <item>
+    <id>5DN0115</id>
+    <name>Door to Nothingness</name>
+    <text>Door to Nothingness enters the battlefield tapped.
+{W}{W}{U}{U}{B}{B}{R}{R}{G}{G}, {T}, Sacrifice Door to Nothingness: Target player loses the game.</text>
+    <flavorText>"All memory of your existence will be wiped from reality. You will die, and no one will mourn."
+—Memnarch</flavorText>
+  </item>
+  <item>
+    <id>5DN0116</id>
+    <name>Doubling Cube</name>
+    <text>{3}, {T}: Double the amount of each type of mana in your mana pool.</text>
+    <flavorText>The cube's surface is pockmarked with jagged runes that seem to shift when unobserved.</flavorText>
+  </item>
+  <item>
+    <id>5DN0117</id>
+    <name>Energy Chamber</name>
+    <text>At the beginning of your upkeep, choose one — Put a +1/+1 counter on target artifact creature; or put a charge counter on target noncreature artifact.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0118</id>
+    <name>Engineered Explosives</name>
+    <text>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+{2}, Sacrifice Engineered Explosives: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Engineered Explosives.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0119</id>
+    <name>Ensouled Scimitar</name>
+    <text>{3}: Ensouled Scimitar becomes a 1/5 Spirit artifact creature with flying until end of turn. (Equipment that's a creature can't equip a creature.)
+Equipped creature gets +1/+5.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0120</id>
+    <name>Eon Hub</name>
+    <text>Players skip their upkeep steps.</text>
+    <flavorText>Its power source is time itself. It absorbs unused minutes and hours, bringing the end of existence always closer.</flavorText>
+  </item>
+  <item>
+    <id>5DN0121</id>
+    <name>Etched Oracle</name>
+    <text>Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+{1}, Remove four +1/+1 counters from Etched Oracle: Target player draws three cards.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0122</id>
+    <name>Ferropede</name>
+    <text>Ferropede is unblockable.
+Whenever Ferropede deals combat damage to a player, you may remove a counter from target permanent.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0123</id>
+    <name>Fist of Suns</name>
+    <text>You may pay {W}{U}{B}{R}{G} rather than pay the mana cost for spells that you cast.</text>
+    <flavorText>"It is all in my grasp. Every petty dream, every grand scheme, every soul, every fear. It all flows through me and from me."
+—Memnarch</flavorText>
+  </item>
+  <item>
+    <id>5DN0124</id>
+    <name>Gemstone Array</name>
+    <text>{2}: Put a charge counter on Gemstone Array.
+Remove a charge counter from Gemstone Array: Add one mana of any color to your mana pool.</text>
+    <flavorText>Outside, it reflects the suns' light. Inside, it harvests the suns' power.</flavorText>
+  </item>
+  <item>
+    <id>5DN0125</id>
+    <name>Goblin Cannon</name>
+    <text>{2}: Goblin Cannon deals 1 damage to target creature or player. Sacrifice Goblin Cannon.</text>
+    <flavorText>Goblin cannon crews are known not for their aim but for their ability to dive for cover.</flavorText>
+  </item>
+  <item>
+    <id>5DN0126</id>
+    <name>Grafted Wargear</name>
+    <text>Equipped creature gets +3/+2.
+Whenever Grafted Wargear becomes unattached from a permanent, sacrifice that permanent.
+Equip {0} ({0}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0127</id>
+    <name>Grinding Station</name>
+    <text>{T}, Sacrifice an artifact: Target player puts the top three cards of his or her library into his or her graveyard.
+Whenever an artifact enters the battlefield, you may untap Grinding Station.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0128</id>
+    <name>Guardian Idol</name>
+    <text>Guardian Idol enters the battlefield tapped.
+{T}: Add {1} to your mana pool.
+{2}: Guardian Idol becomes a 2/2 Golem artifact creature until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0129</id>
+    <name>Healer's Headdress</name>
+    <text>Equipped creature gets +0/+2 and has "{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn."
+{W}{W}: Attach Healer's Headdress to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0130</id>
+    <name>Heliophial</name>
+    <text>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+{2}, Sacrifice Heliophial: Heliophial deals damage to target creature or player equal to the number of charge counters on Heliophial.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0131</id>
+    <name>Helm of Kaldra</name>
+    <text>Equipped creature has first strike, trample, and haste.
+{1}: If you control Equipment named Helm of Kaldra, Sword of Kaldra, and Shield of Kaldra, put a legendary 4/4 colorless Avatar creature token named Kaldra onto the battlefield and attach those Equipment to it.
+Equip {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0132</id>
+    <name>Horned Helm</name>
+    <text>Equipped creature gets +1/+1 and has trample.
+{G}{G}: Attach Horned Helm to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0133</id>
+    <name>Infused Arrows</name>
+    <text>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+{T}, Remove X charge counters from Infused Arrows: Target creature gets -X/-X until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0134</id>
+    <name>Krark-Clan Ironworks</name>
+    <text>Sacrifice an artifact: Add {2} to your mana pool.</text>
+    <flavorText>All the junk, refuse, and offal of the Krark Clan is diligently collected, melted down, and made into more junk, refuse, and offal.</flavorText>
+  </item>
+  <item>
+    <id>5DN0135</id>
+    <name>Lantern of Insight</name>
+    <text>Each player plays with the top card of his or her library revealed.
+{T}, Sacrifice Lantern of Insight: Target player shuffles his or her library.</text>
+    <flavorText>Each eye sees a different possibility for tomorrow.</flavorText>
+  </item>
+  <item>
+    <id>5DN0136</id>
+    <name>Lunar Avenger</name>
+    <text>Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+Remove a +1/+1 counter from Lunar Avenger: Lunar Avenger gains your choice of flying, first strike, or haste until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0137</id>
+    <name>Mycosynth Golem</name>
+    <text>Affinity for artifacts (This spell costs {1} less to cast for each artifact you control.)
+Artifact creature spells you cast have affinity for artifacts. (They cost {1} less to cast for each artifact you control.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0138</id>
+    <name>Myr Quadropod</name>
+    <text>{3}: Switch Myr Quadropod's power and toughness until end of turn.</text>
+    <flavorText>Each myr was designed to fill a specific role. This one, for example, was designed to stomp on other myr.</flavorText>
+  </item>
+  <item>
+    <id>5DN0139</id>
+    <name>Myr Servitor</name>
+    <text>At the beginning of your upkeep, if Myr Servitor is on the battlefield, each player returns all cards named Myr Servitor from his or her graveyard to the battlefield.</text>
+    <flavorText>The Krark Clan enjoys pulling them apart just to watch them reassemble one another.</flavorText>
+  </item>
+  <item>
+    <id>5DN0140</id>
+    <name>Neurok Stealthsuit</name>
+    <text>Equipped creature has shroud. (It can't be the target of spells or abilities.)
+{U}{U}: Attach Neurok Stealthsuit to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0141</id>
+    <name>Opaline Bracers</name>
+    <text>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+Equipped creature gets +X/+X, where X is the number of charge counters on Opaline Bracers.
+Equip {2} ({2}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0142</id>
+    <name>Paradise Mantle</name>
+    <text>Equipped creature has "{T}: Add one mana of any color to your mana pool."
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0143</id>
+    <name>Pentad Prism</name>
+    <text>Sunburst (This enters the battlefield with a charge counter on it for each color of mana spent to cast it.)
+Remove a charge counter from Pentad Prism: Add one mana of any color to your mana pool.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0144</id>
+    <name>Possessed Portal</name>
+    <text>If a player would draw a card, that player skips that draw instead.
+At the beginning of each end step, each player sacrifices a permanent unless he or she discards a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0145</id>
+    <name>Razorgrass Screen</name>
+    <text>Defender (This creature can't attack.)
+Razorgrass Screen blocks each turn if able.</text>
+    <flavorText>Hand-stitched, and marked by the blood of the Auriok.</flavorText>
+  </item>
+  <item>
+    <id>5DN0146</id>
+    <name>Razormane Masticore</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)
+At the beginning of your upkeep, sacrifice Razormane Masticore unless you discard a card.
+At the beginning of your draw step, you may have Razormane Masticore deal 3 damage to target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0147</id>
+    <name>Relic Barrier</name>
+    <text>{T}: Tap target artifact.</text>
+    <flavorText>Its transmissions are the word of Memnarch. It speaks, and metal bows.</flavorText>
+  </item>
+  <item>
+    <id>5DN0148</id>
+    <name>Salvaging Station</name>
+    <text>{T}: Return target noncreature artifact card with converted mana cost 1 or less from your graveyard to the battlefield.
+Whenever a creature is put into a graveyard from the battlefield, you may untap Salvaging Station.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0149</id>
+    <name>Sawtooth Thresher</name>
+    <text>Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+Remove two +1/+1 counters from Sawtooth Thresher: Sawtooth Thresher gets +4/+4 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0150</id>
+    <name>Silent Arbiter</name>
+    <text>No more than one creature can attack each combat.
+No more than one creature can block each combat.</text>
+    <flavorText>Scholars say that arbiters exist on every world, created by an unknown hand to enforce justice.</flavorText>
+  </item>
+  <item>
+    <id>5DN0151</id>
+    <name>Skullcage</name>
+    <text>At the beginning of each opponent's upkeep, Skullcage deals 2 damage to that player unless he or she has exactly three or exactly four cards in hand.</text>
+    <flavorText>Only a focused mind can survive it.</flavorText>
+  </item>
+  <item>
+    <id>5DN0152</id>
+    <name>Skyreach Manta</name>
+    <text>Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+Flying</text>
+    <flavorText>As the dawns break, the manta soars.</flavorText>
+  </item>
+  <item>
+    <id>5DN0153</id>
+    <name>Solarion</name>
+    <text>Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+{T}: Double the number of +1/+1 counters on Solarion.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0154</id>
+    <name>Sparring Collar</name>
+    <text>Equipped creature has first strike.
+{R}{R}: Attach Sparring Collar to target creature you control.
+Equip {1} ({1}: Attach to target creature you control. Equip only as a sorcery.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0155</id>
+    <name>Spinal Parasite</name>
+    <text>Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+Remove two +1/+1 counters from Spinal Parasite: Remove a counter from target permanent.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0156</id>
+    <name>Staff of Domination</name>
+    <text>{1}: Untap Staff of Domination.
+{2}, {T}: You gain 1 life.
+{3}, {T}: Untap target creature.
+{4}, {T}: Tap target creature.
+{5}, {T}: Draw a card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0157</id>
+    <name>Summoner's Egg</name>
+    <text>Imprint — When Summoner's Egg enters the battlefield, you may exile a card from your hand face down.
+When Summoner's Egg is put into a graveyard from the battlefield, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0158</id>
+    <name>Summoning Station</name>
+    <text>{T}: Put a 2/2 colorless Pincher creature token onto the battlefield.
+Whenever an artifact is put into a graveyard from the battlefield, you may untap Summoning Station.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0159</id>
+    <name>Suncrusher</name>
+    <text>Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)
+{4}, {T}, Remove a +1/+1 counter from Suncrusher: Destroy target creature.
+{2}, Remove a +1/+1 counter from Suncrusher: Return Suncrusher to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0160</id>
+    <name>Suntouched Myr</name>
+    <text>Sunburst (This enters the battlefield with a +1/+1 counter on it for each color of mana spent to cast it.)</text>
+    <flavorText>As the fifth sun joins the other four, new abilities awaken in the creatures of Mirrodin.</flavorText>
+  </item>
+  <item>
+    <id>5DN0161</id>
+    <name>Synod Centurion</name>
+    <text>When you control no other artifacts, sacrifice Synod Centurion.</text>
+    <flavorText>"We order them to stand, they stand. We order them to wait, they wait. We order them to die, they die."
+—Pontifex, elder researcher</flavorText>
+  </item>
+  <item>
+    <id>5DN0162</id>
+    <name>Thermal Navigator</name>
+    <text>Sacrifice an artifact: Thermal Navigator gains flying until end of turn.</text>
+    <flavorText>It takes off with a roar of superheated wind, startling wild pterons as they survey the ground below.</flavorText>
+  </item>
+  <item>
+    <id>5DN0163</id>
+    <name>Vedalken Orrery</name>
+    <text>You may cast nonland cards as though they had flash.</text>
+    <flavorText>The model incorporated the fifth sun effortlessly, as if it had always known.</flavorText>
+  </item>
+  <item>
+    <id>5DN0164</id>
+    <name>Vedalken Shackles</name>
+    <text>You may choose not to untap Vedalken Shackles during your untap step.
+{2}, {T}: Gain control of target creature with power less than or equal to the number of Islands you control for as long as Vedalken Shackles remains tapped.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>5DN0165</id>
+    <name>Wayfarer's Bauble</name>
+    <text>{2}, {T}, Sacrifice Wayfarer's Bauble: Search your library for a basic land card and put that card onto the battlefield tapped. Then shuffle your library.</text>
+    <flavorText>It is the forest beyond the horizon, the mountain waiting to be climbed, the new land across the endless sea.</flavorText>
+  </item>
+</cards>

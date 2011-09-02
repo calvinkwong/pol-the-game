@@ -1,0 +1,1074 @@
+<cards name="Fortezza">
+  <item>
+    <id>STH0001</id>
+    <name>Tramutante Corrosivo</name>
+    <text>Tutti i Tramutanti hanno "{2}, Sacrifica questo permanente: Questo permanente infligge 2 danni a una creatura o a un giocatore bersaglio".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0002</id>
+    <name>Tumulto</name>
+    <text>{1}, Scarta una carta a caso: Metti un segnalino +1/+1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0003</id>
+    <name>Risveglio</name>
+    <text>All'inizio di ogni mantenimento, STAPpa tutte le creature e tutte le terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0004</id>
+    <name>Fasciatura</name>
+    <text>Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.; Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0005</id>
+    <name>Abisso senza Fondo</name>
+    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore scarta una carta a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0006</id>
+    <name>Arbusti della Morte</name>
+    <text>Riscatto {2}{B}{B}
+L'avversario bersaglio perde 2 punti vita. Tu guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0007</id>
+    <name>Scudiscio</name>
+    <text>{2}, {T}: Lo Scudiscio infligge 1 danno a una creatura bersaglio. Quella creatura attacca in questo turno se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0008</id>
+    <name>Germogliare</name>
+    <text>Ogniqualvolta un qualsiasi avversario gioca una terra, puoi mettere una carta terra dalla tua mano sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0009</id>
+    <name>Licide della Calma</name>
+    <text>{W}, {T}: Il Licide della Calma perde questa abilità e diventa un incantesimo Aura con incanta creatura. Assegnalo alla creatura bersaglio. Puoi pagare {W} per porre fine a questo effetto.
+La creatura incantata non può attaccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0010</id>
+    <name>Cannibalizzare</name>
+    <text>Scegli due creature bersaglio controllate dallo stesso giocatore. Esilia una di quelle creature e metti due segnalini +1/+1 sull'altra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0011</id>
+    <name>Carnasside</name>
+    <text>Travolgere
+{1}{G}: Rigenera il Carnasside.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0012</id>
+    <name>Cambio di Umore</name>
+    <text>Riscatto {3}
+La creatura bersaglio non può attaccare in questo turno. [Oracle 1999/05/01]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0013</id>
+    <name>Spirito delle Nubi</name>
+    <text>Volare
+Lo Spirito delle Nubi può bloccare soltanto creature con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0014</id>
+    <name>Nebbie Perenni</name>
+    <text>Riscatto - Sacrifica una terra.
+Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. [Oracle 1999/05/01]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0015</id>
+    <name>Contemplazione</name>
+    <text>Ogniqualvolta lanci una magia, guadagni 1 punto vita. [Oracle 1999/05/01]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0016</id>
+    <name>Disprezzo</name>
+    <text>Incanta creatura
+Ogniqualvolta la creatura incantata attacca, i proprietari riprendono in mano quella creatura e il Disprezzo alla fine del combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0017</id>
+    <name>Condanna</name>
+    <text>Incanta creatura
+La creatura incantata prende +1/+3.
+{W}: Il proprietario riprende in mano la Condanna.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0018</id>
+    <name>Licide delle Convulsioni</name>
+    <text>{R}, {T}: Il Licide delle Convulsioni perde questa abilità e diventa un incantesimo Aura con incanta creatura. Assegnalo alla creatura bersaglio. Puoi pagare {R} per porre fine a questo effetto.
+La creatura incantata non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0019</id>
+    <name>Licide della Corruzione</name>
+    <text>{B}, {T}: Il Licide della Corruzione perde questa abilità e diventa un incantesimo Aura con incanta creatura. Assegnalo alla creatura bersaglio. Puoi pagare {B} per porre fine a questo effetto.
+La creatura incantata ha paura. (Non può essere bloccata tranne che da creature nere e/o creature artefatto.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0020</id>
+    <name>Gigante Codardo</name>
+    <text>Il Gigante Codardo non può bloccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0021</id>
+    <name>Balestre in Agguato</name>
+    <text>Le creature che controlli guadagnano raggiungere fino alla fine del turno. (Possono bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0022</id>
+    <name>Crovax il Maledetto</name>
+    <text>Crovax il Maledetto entra nel campo di battaglia con quattro segnalini +1/+1.
+All'inizio del tuo mantenimento, puoi sacrificare una creatura. Se lo fai, metti un segnalino +1/+1 su Crovax il Maledetto. Se non lo fai, rimuovi un segnalino +1/+1 da Crovax il Maledetto.
+{B}: Crovax il Maledetto guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0023</id>
+    <name>Tramutante Cristallino</name>
+    <text>Tutti i Tramutanti hanno velo (Non possono essere bersaglio di magie o effetti.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0024</id>
+    <name>Trapper Dauthi</name>
+    <text>{T}: La creatura bersaglio guadagna ombra fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0025</id>
+    <name>Colpo Mortale</name>
+    <text>Distruggi una creatura TAPpata bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0026</id>
+    <name>Aule dei Sogni</name>
+    <text>Anziché pagare il costo di mana per una magia, il suo controllore può scartare una carta che condivida un colore con quella magia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0027</id>
+    <name>Predatore Onirico</name>
+    <text>Il Predatore Onirico non può essere bloccato fintanto che attacca da solo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0028</id>
+    <name>Parassita dei Condotti</name>
+    <text>{1}{R}: La creatura bersaglio non può bloccare il Parassita dei Condotti in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0029</id>
+    <name>Ombra delle Segrete</name>
+    <text>Volare
+{B}: L'Ombra delle Segrete prende +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0030</id>
+    <name>Rito Elfico</name>
+    <text>Distribuisci due segnalini +1/+1 su una o due creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0031</id>
+    <name>Armodonte in Estinzione</name>
+    <text>Quando controlli una creatura con costituzione pari o inferiore a 2, sacrifica l'Armodonte in Estinzione.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0032</id>
+    <name>Ponte Intrappolante</name>
+    <text>Le creature con forza superiore al numero di carte che hai in mano non possono attaccare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0033</id>
+    <name>Evacuazione</name>
+    <text>I proprietari riprendono in mano tutte le loro creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0034</id>
+    <name>Alimentare le Fiamme</name>
+    <text>Riscatto {3}
+L'Alimentare le Fiamme infligge X danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0035</id>
+    <name>Onda di Fiamme</name>
+    <text>L'Onda di Fiamme infligge 4 danni a un giocatore bersaglio e a ogni creatura che controlla.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0036</id>
+    <name>Scagliare</name>
+    <text>Come costo addizionale per lanciare Scagliare, sacrifica una creatura.
+Scagliare infligge danno pari alla forza della creatura sacrificata a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0037</id>
+    <name>Lama di Mutaroccia</name>
+    <text>Incanta creatura
+{R}: La creatura incantata prende +1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0038</id>
+    <name>Mutaroccia Infernale</name>
+    <text>Rapidità
+{0}: Il Mutaroccia Infernale prende +1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0039</id>
+    <name>Picchiatore di Mutaroccia</name>
+    <text>Travolgere
+{R}: Il Picchiatore di Mutaroccia prende +1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0040</id>
+    <name>Errante di Mutaroccia</name>
+    <text>{R}: L'Errante di Mutaroccia prende +1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0041</id>
+    <name>Demonietto Fetido</name>
+    <text>Volare (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.)
+Quando il Demonietto Fetido entranel campo di battaglia, perdi 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0042</id>
+    <name>Spirito della Fornace</name>
+    <text>Rapidità
+{R}: Lo Spirito della Fornace prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0043</id>
+    <name>Licide Planante</name>
+    <text>{U}, {T}: Il Licide Planante perde questa abilità e diventa un incantesimo Aura con incanta creatura. Assegnalo alla creatura bersaglio. Puoi pagare {U} per porre fine a questo effetto.
+La creatura incantata ha volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0044</id>
+    <name>Patto Sepolcrale</name>
+    <text>Ogniqualvolta una creatura che controlli viene messa in un cimitero dal campo di battaglia, ogni altro giocatore sacrifica una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0045</id>
+    <name>Pesce Martello</name>
+    <text>Il Pesce Martello non può attaccare a meno che il giocatore in difesa controlli un'Isola.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0046</id>
+    <name>Cuorpietra</name>
+    <text>Le abilità attivate delle creature costano {1} in meno per essere attivate. Questo effetto non può ridurre il costo in mana di una abilità a meno di {1} per essere attivata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0047</id>
+    <name>Calore della Battaglia</name>
+    <text>Ogniqualvolta una creatura blocca, il Calore della Battaglia infligge 1 danno al controllore di quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0048</id>
+    <name>Druido Eremita</name>
+    <text>{G}, {T}: Rivela le carte dalla cima del tuo grimorio fino a quando riveli una carta terra base. Aggiungi quella carta alla tua mano e metti nel tuo cimitero tutte le altre carte rivelate in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0049</id>
+    <name>Esitazione</name>
+    <text>Quando una magia viene lanciata, sacrifica l'Esitazione. Se lo fai, neutralizza quella magia. [Oracle 2000/10/24]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0050</id>
+    <name>Tramutante Ibernato</name>
+    <text>Tutti i Tramutanti hanno "Paga 2 punti vita: Il proprietario riprende in mano questo permanente".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0051</id>
+    <name>Ritirata Nascosta</name>
+    <text>Metti una carta dalla tua mano in cima al tuo grimorio: Previeni tutto il danno che verrebbe inflitto da una magia istantaneo o stregoneria bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0052</id>
+    <name>Guardia d'Onore</name>
+    <text>{W}: La Guardia d'Onore prende +0/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0053</id>
+    <name>Corno della Cupidigia</name>
+    <text>Ogniqualvolta un giocatore gioca una terra, quel giocatore pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0054</id>
+    <name>Sparacalabroni</name>
+    <text>{3}, {T}: Metti sul campo di battaglia una pedina creatura artefatto Insetto 1/1 incolore con volare e rapidità di nome Calabrone. All'inizio della sottofase finale, distruggi quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0055</id>
+    <name>Allarme Anti-intruso</name>
+    <text>Le creature non STAPpano durante lo STAP dei loro controllori.
+Ogniqualvolta una creatura entra nel campo di battaglia, STAPpa tutte le creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0056</id>
+    <name>Piani d'Invasione</name>
+    <text>Tutte le creature bloccano in ogni turno se possono farlo
+Il giocatore attaccante sceglie in che modo ogni creatura blocca in ogni turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0057</id>
+    <name>Anello Iettatore</name>
+    <text>Ogniqualvolta un permanente non pedina viene messo nel tuo cimitero dal campo di battaglia, l'Anello Iettatore ti infligge 1 danno.
+Sacrifica una creatura: Un avversario bersaglio guadagna il controllo dell'Anello Iettatore. (Questo effetto non ha termine)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0058</id>
+    <name>Ratti di Laboratorio</name>
+    <text>Riscatto {4}
+Metti sul campo di battaglia una pedina creatura Ratto 1/1 nera.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0059</id>
+    <name>Lancieri en-Kor</name>
+    <text>Travolgere
+{0}: Il prossimo punto danno che verrebbe inflitto ai Lancieri en-Kor in questo turno invece è inflitto a una creatura bersaglio che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0060</id>
+    <name>Balzo</name>
+    <text>La creatura bersaglio guadagna volare fino alla fine del turno.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0061</id>
+    <name>Basilisco dei Bassopiani</name>
+    <text>Ogniqualvolta il Basilisco dei Bassopiani infligge danno a una creatura, distruggi quella creatura alla fine del combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0062</id>
+    <name>Indebolimento Magico</name>
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {3}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0063</id>
+    <name>Maschera del Polimorfo</name>
+    <text>Come costo addizionale per lanciare la Maschera del Polimorfo, sacrifica una creatura.
+Passa in rassegna il tuo grimorio per una carta con lo stesso nome di una creatura non pedina bersaglio e metti sul campo di battaglia quella carta. Poi rimescola il tuo grimorio. [Oracle 2003/07/01]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0064</id>
+    <name>Emicrania</name>
+    <text>Ogniqualvolta un avversario scarta una carta, l'Emicrania infligge 2 danni a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0065</id>
+    <name>Giochi Mentali</name>
+    <text>Riscatto {2}{U}.
+TAPpa un artefatto, una creatura o una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0066</id>
+    <name>Scorticare la Mente</name>
+    <text>Riscatto {2}{B}{B}
+Il giocatore bersaglio scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0067</id>
+    <name>Distorcimente</name>
+    <text>Il Distorcimente entra nel campo di battagliacon tre segnalini +1/+1 su di esso.
+{2}{B}, Rimuovi un segnalino +1/+1 dal Distorcimente: Il giocatore bersaglio scarta una carta. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0068</id>
+    <name>Giustizia della Folla</name>
+    <text>La Giustizia della Folla infligge al giocatore bersaglio un danno pari al numero di creature che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0069</id>
+    <name>Mogg Bombardieri</name>
+    <text>Quando un'altra creatura entra nel campo di battaglia, sacrifica i Mogg Bombardieri. Se lo fai, essi infliggono 3 danni a un giocatore bersaglio. [Oracle 2001/08/24]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0070</id>
+    <name>Mogg Tirapiedi</name>
+    <text>I Mogg Tirapiedi non possono attaccare né bloccare da soli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0071</id>
+    <name>Infestazione di Mogg</name>
+    <text>Distruggi tutte le creature controllare da un giocatore bersaglio. Per ogni creatura che viene messa in un cimitero in questo modo, metti sul campo di battaglia due pedine creatura Goblin 1/1 rosse sotto il controllo di quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0072</id>
+    <name>Mogg Maniaco</name>
+    <text>Ogniqualvolta vengono inflitti danni al Mogg Maniaco, esso infligge altrettanti danni ad un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0073</id>
+    <name>Thrull dell'Obitorio</name>
+    <text>Sacrifica il Thrull dell'Obitorio: Metti nel tuo cimitero le prime tre carte del tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0074</id>
+    <name>Camera Mortuaria</name>
+    <text>Ogniqualvolta una creatura viene messa nel tuo cimitero dal campo di battaglia, metti quella creatura in cima al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0075</id>
+    <name>Mox di Diamante</name>
+    <text>Se la Mox di Diamante sta per entrare nel campo di battaglia, invece puoi scartare una carta terra. Se lo fai, metti sul campo di battaglia la Mox di Diamante. Se non lo fai, mettila nel cimitero del suo proprietario.; {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0076</id>
+    <name>Concime</name>
+    <text>Rivela le prime quattro carte del tuo grimorio. Aggiungi alla tua mano tutte le carte terra rivelate in questo modo e metti nel tuo cimitero tutte le altre carte rivelate in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0077</id>
+    <name>Nomadi en-Kor</name>
+    <text>{0}: Il prossimo punto danno che verrebbe inflitto ai Nomadi en-Kor in questo turno viene invece inflitto a una creatura bersaglio che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0078</id>
+    <name>Vegetazione Rigogliosa</name>
+    <text>Incanta terra
+Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo controllore aggiunge {G}{G} alla sua riserva di mana (in aggiunta al mana prodotto dalla terra).</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0079</id>
+    <name>Saracinesca</name>
+    <text>Ogniqualvolta una creatura entra nel campo di battaglia, se ci sono altre 2 o più creature sul campo di battaglia, esilia quella creatura. Rimetti quella creatura sul campo di battaglia sotto il controllo del suo proprietario quando la Saracinesca lascia il campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0080</id>
+    <name>Furia Primordiale</name>
+    <text>Le creature che controlli hanno travolgere. (Se una creatura che controlli sta per infliggere alle sue creature bloccanti danno da combattimento sufficiente a distruggerle, puoi farle infliggere il resto del suo danno al giocatore o al planeswalker in difesa.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0081</id>
+    <name>Provocazione</name>
+    <text>STAPpa una creatura bersaglio che non controlli. In questo turno quella creatura blocca se può farlo.
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0082</id>
+    <name>Ricerca del Sapere</name>
+    <text>Se stai per pescare una carta, puoi invece mettere un segnalino studio sulla Ricerca del Sapere.
+Rimuovi tre segnalini studio dalla Ricerca del Sapere, Sacrifica la Ricerca del Sapere: Pesca sette carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0083</id>
+    <name>Ratti Rabbiosi</name>
+    <text>{T}: Una creatura bersaglio che sta bloccando prende -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0084</id>
+    <name>Rovistare</name>
+    <text>Guarda le prime cinque carte del grimorio di un giocatore bersaglio. Metti un qualsiasi numero di quelle carte in fondo a quel grimorio in qualsiasi ordine e le altre in cima a quel grimorio in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0085</id>
+    <name>Rimbalzo</name>
+    <text>Cambia il bersaglio di una magia bersaglio che bersaglia solo un giocatore. Il nuovo bersaglio deve essere un giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0086</id>
+    <name>Redini del Potere</name>
+    <text>STAPpa tutte le creature che controlli e tutte le creature controllate da un avversario bersaglio. Tu e quell'avversario guadagnate ognuno il controllo di tutte le creature controllate dall'altro fino alla fine del turno. Quelle creature guadagnano rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0087</id>
+    <name>Redivivo</name>
+    <text>Volare
+La forza e la costituzione del Redivivo sono pari ciascuna al numero di carte creatura presenti nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0088</id>
+    <name>Pietre Rotolanti</name>
+    <text>Le creature Muro possono attaccare come se non avessero difensore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0089</id>
+    <name>Rovina</name>
+    <text>Distruggi tutte le terre non base.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0090</id>
+    <name>Terreno Consacrato</name>
+    <text>Ogniqualvolta una magia o un'abilità controllata da un avversario fa mettere nel tuo cimitero una terra dal campo di battaglia, rimetti quella carta sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0091</id>
+    <name>Benedizione Bianca</name>
+    <text>Incanta creatura
+La creatura incantata ha "{T}: La prossima volta che una fonte a tua scelta infliggerebbe danno ad una creatura bersaglio in questo turno, previeni quel danno".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0092</id>
+    <name>Capro Espiatorio</name>
+    <text>Come costo addizionale per lanciare il Capro Espiatorio, sacrifica una creatura.
+Il proprietario riprende in mano un qualsiasi numero di creature bersaglio che tu controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0093</id>
+    <name>Rabbia Ribollente</name>
+    <text>Riscatto {3}
+La creatura bersaglio prende +3/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0094</id>
+    <name>Guerriero Serpente</name>
+    <text>Quando il Guerriero Serpente entra nel campo di battaglia, perdi 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0095</id>
+    <name>Sciamano en-Kor</name>
+    <text>{0}: Il prossimo punto danno che verrebbe inflitto allo Sciamano en-Kor in questo turno viene inflitto invece ad una creatura bersaglio che controlli.
+{1}{W}: La prossima volta che una fonte a tua scelta infliggerebbe danno ad una creatura bersaglio in questo turno, quel danno viene inflitto invece allo Sciamano en-Kor.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0096</id>
+    <name>Fenice di Schegge</name>
+    <text>Volare (Questa creatura non può essere bloccata tranne che dalle creature con volare o con raggiungere.)
+Sacrifica la Fenice di Schegge: La Fenice di Schegge infligge 2 danni ad ogni creatura senza volare.
+{R}{R}{R}: Riprendi in mano la Fenice di Schegge dal tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0097</id>
+    <name>Muro Scorrevole</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Il Muro Scorrevole entra nel campo di battaglia con X segnalini +1/+1 su di sé.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0098</id>
+    <name>Shock</name>
+    <text>Lo Shock infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0099</id>
+    <name>Setacciare</name>
+    <text>Pesca tre carte, poi scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0100</id>
+    <name>Viverna d'Argento</name>
+    <text>Volare
+{U}: Cambia il bersaglio di una magia o abilità bersaglio che bersaglia solo la Viverna d'Argento. Il nuovo bersaglio deve essere una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0101</id>
+    <name>Scheletri Reietti</name>
+    <text>Gli Scheletri Reietti entrano nel campo di battaglia con un segnalino +1/+1.
+Paga {1} per ogni segnalino +1/+1 presente sugli Scheletri Reietti: Rigenera gli Scheletri Reietti. Quando rigenerano in questo modo, metti un segnalino +1/+1 sugli Scheletri Reietti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0102</id>
+    <name>Arciere di Cielsudario</name>
+    <text>{T}: La creatura bersaglio con volare prende -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0103</id>
+    <name>Falco di Cielsudario</name>
+    <text>Volare, cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0104</id>
+    <name>Truppe di Cielsudario</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0105</id>
+    <name>Regina dei Tramutanti</name>
+    <text>{2}: Metti sul campo di battaglia una pedina creatura Tramutante 1/1 incolore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0106</id>
+    <name>Castigo</name>
+    <text>Distruggi una creatura bloccata bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0107</id>
+    <name>Campione Soltari</name>
+    <text>Ombra
+Ogniqualvolta il Campione Soltari attacca, tutte le altre creature che controlli prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0108</id>
+    <name>Pungiglione Prolificatore</name>
+    <text>Il Pungiglione Prolificatore entra nel campo di battaglia con tre segnalini +1/+1.
+{2}, Rimuovi un segnalino +1/+1 dal Pungiglione Prolificatore: Metti un segnalino +1/+1 su una creatura bersaglio.
+{2}, Rimuovi un segnalino +1/+1 dal Pungiglione Prolificatore: Metti sul campo di battaglia una pedina creatura Pungiglione 1/1 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0109</id>
+    <name>Colonia di Pungiglioni</name>
+    <text>La Colonia di Pungiglioni entra nel campo di battaglia con quattro segnalini +1/+1.
+{2}, Rimuovi un segnalino +1/+1 dalla Colonia di Pungiglioni: Metti un segnalino +1/+1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0110</id>
+    <name>Pungiglione Nutrice</name>
+    <text>Il Pungiglione Nutrice entra nel campo di battaglia con due segnalini +1/+1.
+{2}, Rimuovi un segnalino +1/+1 dal Pungiglione Nutrice: Metti un segnalino +1/+1 su una creatura bersaglio.
+Rimuovi un segnalino +1/+1 dal Pungiglione Nutrice: Guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0111</id>
+    <name>Pungiglione Soldato</name>
+    <text>Il Pungiglione Soldato entra nel campo di battaglia con tre segnalini +1/+1.
+{2}, Rimuovi un segnalino +1/+1 dal Pungiglione Soldato: Metti un segnalino +1/+1 su una creatura bersaglio.
+Rimuovi un segnalino +1/+1 dal Pungiglione Soldato: Il Pungiglione Soldato prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0112</id>
+    <name>Pungiglione Operaio</name>
+    <text>Il Pungiglione Operaio entra nel campo di battaglia con due segnalini +1/+1.
+{2}, Rimuovi un segnalino +1/+1 dal Pungiglione Operaio: Metti un segnalino +1/+1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0113</id>
+    <name>Draghetto degli Spruzzi</name>
+    <text>Volare
+All'inizio del tuo mantenimento, sacrifica il Draghetto degli Spruzzi a meno che tu paghi {U}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0114</id>
+    <name>Tramutante Spinato</name>
+    <text>Ogniqualvolta un Tramutante viene bloccato, quel Tramutante prende +1/+1 fino alla fine del turno per ogni creatura che lo blocca.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0115</id>
+    <name>Wurm Spinato</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0116</id>
+    <name>Spirito en-Kor</name>
+    <text>Volare
+{0}: Il prossimo punto danno che verrebbe inflitto allo Spirito En-Kor in questo turno viene invece inflitto a una creatura bersaglio che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0117</id>
+    <name>Idra Sputatrice</name>
+    <text>L'Idra Sputatrice entra nel campo di battaglia con quattro segnalini +1/+1.
+{1}{R}, Rimuovi un segnalino +1/+1 dall'Idra Sputatrice: L'Idra Sputatrice infligge 1 danno a una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0118</id>
+    <name>Assassino della Fortezza</name>
+    <text>{T}, Sacrifica una creatura: Distruggi una creatura non nera bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0119</id>
+    <name>Sorvegliante della Fortezza</name>
+    <text>Le altre creature nere prendono -1/-1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0120</id>
+    <name>Spada del Prescelto</name>
+    <text>{T}: La creatura leggendaria bersaglio prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0121</id>
+    <name>Mitigare</name>
+    <text>Previeni i prossimi X danni che verrebbero inflitti ad una creatura bersaglio in questo turno. Per ogni punto danno prevenuto in questo modo, metti un segnalino +1/+1 su quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0122</id>
+    <name>Licide Istigatore</name>
+    <text>{G}, {T}: Il Licide Istigatore perde questa abilità e diventa una carta incantesimo Aura con incanta creatura. Assegnalo a una creatura bersaglio. Puoi pagare {G} per porre fine a questo effetto.
+Tutte le creature che possono bloccare la creatura incantata devono farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0123</id>
+    <name>Ingannatore Thalakos</name>
+    <text>Ombra
+Ogniqualvolta l'Ingannatore Thalakos attacca e non è bloccato, puoi sacrificarlo. Se lo fai, guadagni il controllo della creatura bersaglio. (Questo effetto non ha termine.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0124</id>
+    <name>Flutto di Marea</name>
+    <text>TAPpa fino a tre creature bersaglio senza volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0125</id>
+    <name>Guerriero delle Maree</name>
+    <text>{T}: La terra bersaglio diventa un'Isola fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0126</id>
+    <name>Tormento</name>
+    <text>Incanta creatura
+La creatura incantata prende -3/-0.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0127</id>
+    <name>Esistenza Tormentata</name>
+    <text>{B}, Scarta una carta creatura: Riprendi in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0128</id>
+    <name>Monaco Venerabile</name>
+    <text>Quando il Monaco Venerabile entra nel campo di battaglia, guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0129</id>
+    <name>Tocco Verdeggiante</name>
+    <text>Riscatto {3}
+La terra bersaglio diventa una creatura 2/2 che è ancora una terra. (Questo effetto non ha termine)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0130</id>
+    <name>Tramutante Commestibile</name>
+    <text>Tutti i Tramutanti hanno "{2}, Sacrifica questo permanente: Guadagni 4 punti vita."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0131</id>
+    <name>Giardini di Volrath</name>
+    <text>{2}, TAPpa una creatura STAPpata che controlli: Guadagni 2 punti vita. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0132</id>
+    <name>Laboratorio di Volrath</name>
+    <text>Mentre il Laboratorio di Volrath entra nel campo di battaglia, scegli un colore e un tipo di creatura.
+{5}, {T}: Metti sul campo di battaglia una pedina creatura 2/2 del colore e del tipo scelti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0133</id>
+    <name>Polimorfo di Volrath</name>
+    <text>Fintanto che la prima carta del tuo cimitero è una carta creatura, il Polimorfo di Volrath ha il testo completo di quella carta e ha il testo "{2}: Scarta una carta." (Il Polimorfo di Volrath ha nome, costo di mana, colore, tipi, abilità, forza, e costituzione di quella carta)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0134</id>
+    <name>Fortezza di Volrath</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+{1}{B}, {T}: Metti una carta creatura bersaglio dal tuo cimitero in cima al tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0135</id>
+    <name>Sogno Animato</name>
+    <text>Il Sogno Animato non può essere bloccato.
+Il Sogno Animato non STAPpa durante il tuo STAP se un avversario controlla due o più creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0136</id>
+    <name>Muro di Bocciuoli</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Quando il Muro di Bocciuoli entra nel campo di battaglia, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0137</id>
+    <name>Muro di Essenza</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Ogniqualvolta viene inflitto danno da combattimento al Muro di Essenza, tu guadagni altrettanti punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0138</id>
+    <name>Muro di Rasoi</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Attacco improvviso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0139</id>
+    <name>Muro di Anime</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Ogniqualvolta viene inflitto danno da combattimento al Muro di Anime, esso infligge un pari danno a un avversario bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0140</id>
+    <name>Muro di Lacrime</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+Ogniqualvolta il Muro di Lacrime blocca una creatura, il proprietario riprende in mano quella creatura alla fine del combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0141</id>
+    <name>Angelo Guerriero</name>
+    <text>Volare
+Ogniqualvolta questa creatura infligge danno, tu guadagni altrettanti punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0142</id>
+    <name>Guerriero en-Kor</name>
+    <text>{0}: Il prossimo punto danno che verrebbe inflitto al Guerriero en-Kor in questo turno viene invece inflitto a una creatura bersaglio che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>STH0143</id>
+    <name>Cavaliere Giovane</name>
+    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

@@ -1,0 +1,1066 @@
+<cards name="Profezia">
+  <item>
+    <id>PCY0001</id>
+    <name>Abolire</name>
+    <text>Puoi scartare una carta Pianura anziché pagare il costo di mana dell'Abolire.
+Distruggi un artefatto o un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0002</id>
+    <name>Frattura dell'Aura</name>
+    <text>Sacrifica una terra: Distruggi un incantesimo bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0003</id>
+    <name>Avatar della Speranza</name>
+    <text>Volare
+Se hai 3 punti vita o meno, l'Avatar della Speranza costa {6} in meno per essere lanciato.
+L'Avatar della Speranza può bloccare un qualsiasi numero di creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0004</id>
+    <name>Vento Benedetto</name>
+    <text>Il totale dei punti vita del giocatore bersaglio diventa 20.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0005</id>
+    <name>Convergenza Celeste</name>
+    <text>La Convergenza Celeste entra nel campo di battaglia con sette segnalini presagio su di essa.
+All'inizio del tuo mantenimento rimuovi un segnalino presagio dalla Convergenza Celeste. Se non ci sono segnalini presagio sulla Convergenza Celeste, il giocatore con il più alto numero di punti vita vince la partita. Se due o più giocatori condividono il più alto numero di punti vita, la partita è patta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0006</id>
+    <name>Grifone in Picchiata</name>
+    <text>Volare, cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0007</id>
+    <name>Intrappolatrice</name>
+    <text>Incanta creatura
+La creatura incantata può bloccare un qualsiasi numero di creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0008</id>
+    <name>Annientare</name>
+    <text>Esilia una creatura attaccante bersaglio a meno che il suo controllore paghi {X}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0009</id>
+    <name>Campo in Fiore</name>
+    <text>Incanta terra
+La terra incantata ha "{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura od a un giocatore bersaglio in questo turno.".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0010</id>
+    <name>Leone Scintillante</name>
+    <text>Previeni tutto il danno che verrebbe inflitto al Leone Scintillante.
+{3}: Fino alla fine del turno, il Leone Scintillante perde "Previeni tutto il danno che verrebbe inflitto al Leone Scintillante". Ogni giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0011</id>
+    <name>Lince Scintillante</name>
+    <text>Previeni tutto il danno che verrebbe inflitto alla Lince Scintillante.
+{2}: Fino alla fine del turno, la Lince Scintillante perde "Previeni tutto il danno che verrebbe inflitto alla Lince Scintillante". Ogni giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0012</id>
+    <name>Spirito Ingioiellato</name>
+    <text>Volare
+Sacrifica due terre: Lo Spirito Ingioiellato guadagna la protezione dagli artefatti o da un colore a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0013</id>
+    <name>Mageta il Leone</name>
+    <text>{2}{W}{W}, {T}, Scarta due carte: Distruggi tutte le creature tranne Mageta il Leone. Quelle creature non possono essere rigenerate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0014</id>
+    <name>Dono di Mageta</name>
+    <text>Lampo
+Incanta creatura
+La creatura incantata prende +1/+2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0015</id>
+    <name>Informatore Mercenario</name>
+    <text>L'Informatore Mercenario non può essere bersaglio di magie nere o abilità da fonti nere.
+{2}{W}: Metti un Mercenario bersaglio in fondo al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0016</id>
+    <name>Portatore di Mine</name>
+    <text>{T}, Sacrifica il Portatore di Mine: Distruggi una creatura attaccante bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0017</id>
+    <name>Colpo Riflesso</name>
+    <text>Tutto il danno da combattimento che una creatura bersaglio infliggerebbe questo turno viene invece inflitto al suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0018</id>
+    <name>Squadra dell'Adunata</name>
+    <text>Ogniqualvolta una o più creature ti attaccano, se la Squadra dell'Adunata è STAPpata, puoi STAPpare tutte le creature che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0019</id>
+    <name>Circolo Ristico</name>
+    <text>{1}: Qualsiasi giocatore può pagare {1}. Se nessun giocatore lo fa, la prossima volta che una fonte a tua scelta dovesse infliggerti danno in questo turno, previeni quel danno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0020</id>
+    <name>Scudo Ristico</name>
+    <text>Le creature che controlli prendono +0/+1 fino alla fine del turno. Esse prendono +0/+2 addizionale fino alla fine del turno a meno che un qualsiasi giocatore paghi {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0021</id>
+    <name>Santuario Sciamita</name>
+    <text>{2}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura bersaglio in questo turno. Qualsiasi giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0022</id>
+    <name>Preghiere di Protezione</name>
+    <text>Le terre base controllate da ogni giocatore hanno velo fintanto che quel giocatore controlla 3 o meno terre. (Non possono essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0023</id>
+    <name>Danzatrice dello Scudo</name>
+    <text>{2}{W}: La prossima volta che la creatura attaccante bersaglio dovesse infliggere danno alla Danzatrice dello Scudo in questo turno, quella creatura invece infligge quel danno a sé stessa.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0024</id>
+    <name>Incantatore dell'Anima</name>
+    <text>Ogniqualvolta l'Incantatore dell'Anima infligge danno da combattimento ad una creatura, tu guadagni 2 punti vita a meno che il controllore di quella creatura paghi {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0025</id>
+    <name>Danzatore della Spada</name>
+    <text>{W}{W}: La creatura attaccante bersaglio prende -1/-0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0026</id>
+    <name>Destriero di Trincea</name>
+    <text>Sacrifica una terra: Il Destriero di Trincea prende +0/+3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0027</id>
+    <name>Curatore Turbato</name>
+    <text>Sacrifica una terra: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0028</id>
+    <name>Alexi, Maga dello Zefiro</name>
+    <text>{X}{U}, {T}, Scarta due carte: I proprietari riprendono in mano X creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0029</id>
+    <name>Mantello di Alexi</name>
+    <text>Lampo;  Incanta creatura
+La creatura incantata ha velo (Non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0030</id>
+    <name>Avatar della Volontà</name>
+    <text>Volare
+Se un avversario non ha carte in mano, l'Avatar della Volontà costa {6} in meno per essere lanciato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0031</id>
+    <name>Cornartiglio della Costa</name>
+    <text>Sacrifica una terra: Il Cornartiglio della Costa guadagna volare fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0032</id>
+    <name>Vento del Diniego</name>
+    <text>Passa in rassegna il grimorio del giocatore bersaglio per un massimo di sette carte e esiliale. Poi quel giocatore rimescola il proprio grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0033</id>
+    <name>Scavo</name>
+    <text>{1}, Sacrifica una terra: Pesca una carta. Qualsiasi giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0034</id>
+    <name>Sbeffeggiare</name>
+    <text>Puoi scartare dalla tua mano una carta Isola e un'altra carta anziché pagare il costo di mana dello Sbeffeggiare.
+Neutralizza una magia bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0035</id>
+    <name>Calamaro del Golfo</name>
+    <text>Quando il Calamaro del Golfo entra nel campo di battaglia, TAPpa tutte le terre controllate da un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0036</id>
+    <name>Omuncolo Offuscato</name>
+    <text>L'Omuncolo Offuscato non può essere bloccato fintanto che il giocatore in difesa controlla una terra STAPpata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0037</id>
+    <name>Consapevolezza Acuita</name>
+    <text>Mentre la Consapevolezza Acuita entra nel campo di battaglia, scarta la tua mano.
+All'inizio della tua acquisizione, pesca una carta addizionale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0038</id>
+    <name>Vapori di Mana</name>
+    <text>Le terre controllate dal giocatore bersaglio non STAPpano durante il suo prossimo STAP.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0039</id>
+    <name>Sovraccarico</name>
+    <text>Ogniqualvolta un giocatore mette una creatura non pedina nel campo di battaglia, quel giocatore rimanda una terra che controlla in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0040</id>
+    <name>Furto Psichico</name>
+    <text>Il giocatore bersaglio rivela la sua mano. Tu scegli da essa una carta istantaneo o stregoneria e la esili. Puoi lanciare quella carta fintanto che resta esiliata. All'inizio della prossima sottofase finale, se non hai lanciato quella carta, rimandala in mano al proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0041</id>
+    <name>Muro di Mercurio</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+{4}: Il proprietario riprende in mano il Muro di Mercurio. Qualsiasi giocatore può attivare quest'abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0042</id>
+    <name>Ripensamento</name>
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {X}, dove X è il suo costo di mana convertito.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0043</id>
+    <name>Allagamento Ristico</name>
+    <text>{U}: TAPpa la creatura bersaglio a meno che il suo controllore paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0044</id>
+    <name>Divinazione Ristica</name>
+    <text>Pesca tre carte. Poi, se un qualsiasi giocatore paga {2}, scarta tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0045</id>
+    <name>Studio Ristico</name>
+    <text>Ogniqualvolta un avversario lancia una magia, puoi pescare una carta a meno che quel giocatore paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0046</id>
+    <name>Serpente Aliante</name>
+    <text>Volare
+{2}: Il Serpente Aliante perde volare fino alla fine del turno. Qualsiasi giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0047</id>
+    <name>Serpente Nascosto</name>
+    <text>Ogniqualvolta il Serpente Nascosto attacca, il giocatore in difesa può pagare {4}. Se non lo fa, il Serpente Nascosto non può essere bloccato in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0048</id>
+    <name>Draghetto Codapunta</name>
+    <text>Volare
+Sacrifica il Draghetto Codapunta: Neutralizza una magia bersaglio a meno che il suo controllore paghi {3}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0049</id>
+    <name>Cucciolo di Codapunta</name>
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
+Sacrifica il Cucciolo di Codapunta: Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0050</id>
+    <name>Aquila Scrutatempesta</name>
+    <text>Volare
+Sacrifica una terra: Il proprietario riprende in mano l'Aquila Scrutatempesta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0051</id>
+    <name>Campo Affondato</name>
+    <text>Incanta terra
+La terra incantata ha "{T}: Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0052</id>
+    <name>Spirito Vessatore</name>
+    <text>Volare
+All'inizio della tua sottofase finale, TAPpa tutte le terre che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0053</id>
+    <name>Esploravento</name>
+    <text>Volare
+Ogniqualvolta l'Esploravento attacca o blocca, il proprietario la riprende in mano alla fine del combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0054</id>
+    <name>Ritirata</name>
+    <text>Il proprietario riprende in mano una creatura bersaglio. Poi il proprietario riprende in mano un'altra creatura bersaglio, a meno che il suo controllore paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0055</id>
+    <name>Agente di Shauku</name>
+    <text>{1}{B}, Sacrifica una terra: Una creatura bersaglio prende +2/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0056</id>
+    <name>Avatar della Disperazione</name>
+    <text>Se ci sono dieci o più carte creatura in totale in tutti i cimiteri, l'Avatar della Disperazione costa {6} in meno per essere lanciato.
+Paura
+{T}: Distruggi una creatura bersaglio. Non può essere rigenerata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0057</id>
+    <name>Elementale della Palude</name>
+    <text>Protezione dal bianco
+All'inizio del tuo mantenimento, sacrifica l'Elementale della Palude a meno che tu sacrifichi una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0058</id>
+    <name>Aliante delle Paludi</name>
+    <text>Volare
+{T}, Sacrifica una terra: Passa in rassegna il tuo grimorio per una carta permanente Mercenario con costo di mana convertito non superiore a 2 e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0059</id>
+    <name>Apparizione Agghiacciante</name>
+    <text>{B}: Rigenera l'Apparizione Agghiacciante.
+Ogniqualvolta l'Apparizione Agghiacciante infligge danno da combattimento a un giocatore, quel giocatore scarta una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0060</id>
+    <name>Marionette della Bara</name>
+    <text>Sacrifica due terre : Rimetti sul campo di battaglia dal tuo cimitero le Marionette della Bara. Attiva quest'abilità solamente durante il tuo mantenimento, e solo se controlli almeno una Palude. [Oracle 2003/07/01]</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0061</id>
+    <name>Incantatore di Morte</name>
+    <text>Ogniqualvolta l'Incantatore di Morte infligge danno da combattimento a una creatura, il controllore di quella creatura perde 2 punti vita a meno che paghi {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0062</id>
+    <name>Depredare</name>
+    <text>Distruggi la terra bersaglio. Il controllore di quella terra perde 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0063</id>
+    <name>Gaudio dell'Annichilatore</name>
+    <text>{4}: Il proprietario riprende in mano una carta creatura bersaglio da un cimitero. Qualsiasi giocatore può attivare questa abilità, ma solo in ogni momento in cui potrebbe lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0064</id>
+    <name>Cacciatore degli Acquitrini</name>
+    <text>Il Cacciatore degli Acquitrini ha paura fintanto che non controlli terre STAPpate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0065</id>
+    <name>Flagellare</name>
+    <text>Il giocatore bersaglio scarta una carta a caso. Poi, quel giocatore scarta un'altra carta a caso, a meno che egli paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0066</id>
+    <name>Greel, Collezionista Mentale</name>
+    <text>{X}{B}, {T}, Scarta due carte: Il giocatore bersaglio scarta X carte a caso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0067</id>
+    <name>Carezza di Greel</name>
+    <text>Lampo
+Incanta creatura
+La creatura incantata prende -3/-0.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0068</id>
+    <name>Genesi Infernale</name>
+    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore mette nel suo cimitero la prima carta del suo grimorio. Poi, quel giocatore mette sul campo di battaglia X pedine creatura Servitore 1/1 nere, dove X è pari al costo di mana convertito di quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0069</id>
+    <name>Bruma di Nakaya</name>
+    <text>{B}: La Bruma di Nakaya prende +1/+1 fino alla fine del turno, a meno che un qualsiasi giocatore paghi {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0070</id>
+    <name>Campo Inquinato</name>
+    <text>Incanta terra
+La terra incantata ha "{T}: Questa terra infligge 1 danno a ogni creatura ed a ogni giocatore".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0071</id>
+    <name>Epidemia</name>
+    <text>Puoi scartare una carta Palude dalla tua mano anziché pagare il costo di mana dell'Epidemia.
+Scegli un tipo di creatura. Tutte le creature di quel tipo prendono -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0072</id>
+    <name>Rapace della Fossa</name>
+    <text>Volare, attacco improvviso
+All'inizio del tuo mantenimento, sacrifica il Rapace della Fossa a meno che tu paghi {2}{B}{B}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0073</id>
+    <name>Creatura Immonda della Peste</name>
+    <text>Ogniqualvolta la Creatura Immonda della Peste infligge danno da combattimento a una creatura, distruggi quella creatura a meno che il suo controllore paghi {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0074</id>
+    <name>Vento Pestilenziale</name>
+    <text>Distruggi tutte le creature che non controlli. Non possono essere rigenerate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0075</id>
+    <name>Informatore Ribelle</name>
+    <text>L'Informatore Ribelle non può essere bersaglio di magie bianche o abilità provenienti da fonti bianche.
+{3}: Metti un Ribelle bersaglio in fondo al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0076</id>
+    <name>Sifone Ristico</name>
+    <text>A meno che un giocatore bersaglio paghi {3}, quel giocatore perde 5 punti vita e tu guadagni 5 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0077</id>
+    <name>Tutore Ristico</name>
+    <text>A meno che un qualsiasi giocatore paghi {2}, passa in rassegna il tuo grimorio per una carta, metti quella carta nella tua mano, poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0078</id>
+    <name>Fili dell'Anima</name>
+    <text>Riprendi in mano due carte creatura bersaglio dal tuo cimitero a meno che un qualsiasi giocatore paghi {X}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0079</id>
+    <name>Rubare le Forze</name>
+    <text>Una creatura bersaglio prende +1/+1 fino alla fine del turno. Un'altra creatura bersaglio prende -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0080</id>
+    <name>Muro di Vipere</name>
+    <text>Difensore (Questa creatura non può attaccare.)
+{3}: Distruggi il Muro di Vipere e una creatura bersaglio che questo sta bloccando. Qualsiasi giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0081</id>
+    <name>Zombie Ricucito</name>
+    <text>All'inizio del tuo mantenimento, sacrifica lo Zombie Ricucito a meno che tu paghi {B}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0082</id>
+    <name>Avatar della Furia</name>
+    <text>Volare
+Se un avversario controlla 7 o più terre, l'Avatar della Furia costa {6} in meno per essere lanciato.
+{R}: L'Avatar della Furia prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0083</id>
+    <name>Campo Spinato</name>
+    <text>Incanta terra
+La terra incantata ha "{T}: Questa terra infligge 1 danno a una creatura o a un giocatore bersaglio."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0084</id>
+    <name>Lottatori Marchiati</name>
+    <text>I Lottatori Marchiati non possono attaccare se il giocatore in difesa controlla una terra STAPpata.
+I Lottatori Marchiati non possono bloccare se tu controlli una terra STAPpata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0085</id>
+    <name>Soppressione Brutale</name>
+    <text>Le abilità attivate dei Ribelli non pedina hanno un costo addizionale di "Sacrifica una terra" per essere attivate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0086</id>
+    <name>Cittadella del Dolore</name>
+    <text>All'inizio della sottofase finale di ogni giocatore, la Cittadella del Dolore infligge X danni a quel giocatore, dove X è pari al numero di terre STAPpate che quel giocatore controlla.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0087</id>
+    <name>Distruggere</name>
+    <text>Distruggi una terra bersaglio. Distruggere infligge 1 danno a ogni creatura e a ogni giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0088</id>
+    <name>Cavalcatori delle Faglie</name>
+    <text>Sacrifica una terra: I Cavalcatori delle Faglie prendono +2/+0 e attacco improvviso fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0089</id>
+    <name>Efreet Bizzoso</name>
+    <text>Ogniqualvolta l'Efreet Bizzoso attacca o blocca, lancia una moneta alla fine del combattimento. Se perdi il lancio, un avversario prende il controllo dell'Efreet Bizzoso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0090</id>
+    <name>Colpo di Fuoco</name>
+    <text>Puoi scartare una Montagna dalla tua mano anziché pagare il costo di mana del Colpo di Fuoco.
+Il Colpo di Fuoco infligge 3 danni divisi a tua scelta tra un qualsiasi numero di creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0091</id>
+    <name>Infervorare</name>
+    <text>L'Infervorare infligge 2 danni ad ogni creatura a cui è stato inflitto danno in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0092</id>
+    <name>Piromane di Keld</name>
+    <text>{1}, Sacrifica due terre: Distruggi una terra bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0093</id>
+    <name>Berserker di Keld</name>
+    <text>Ogniqualvolta il Berserker di Keld attacca, se non controlli terre STAPpate, prende +3/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0094</id>
+    <name>Bombardieri di Keld</name>
+    <text>Quando i Bombardieri di Keld entrano nel campo di battaglia, ogni giocatore sacrifica tutte le terre che controlla meno tre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0095</id>
+    <name>Latulla, Sovrintendente di Keld</name>
+    <text>{X}{R}, {T}, Scarta due carte: Latulla, Sovrintendente di Keld infligge X danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0096</id>
+    <name>Ordini di Latulla</name>
+    <text>Lampo
+Incanta creatura
+Ogniqualvolta la creatura incantata infligge danno da combattimento al giocatore in difesa, puoi distruggere un artefatto bersaglio controllato da quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0097</id>
+    <name>Gargadonte Minore</name>
+    <text>Ogniqualvolta il Gargadonte Minore attacca o blocca, sacrifica una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0098</id>
+    <name>Attacco di Panico</name>
+    <text>Fino a tre creature bersaglio non possono bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0099</id>
+    <name>Fulmine Ristico</name>
+    <text>Il Fulmine Ristico infligge 4 danni a una creatura o a un giocatore bersaglio a meno che il controllore di quella creatura o quel giocatore paghi {2}. Se lo fa, il Fulmine Ristico infligge 2 danni a quella creatura o a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0100</id>
+    <name>Rabbioso Crestato</name>
+    <text>{R}: Il Rabbioso Crestato prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0101</id>
+    <name>Felino delle Scorie</name>
+    <text>Il Felino delle Scorie prende +3/+3 fintanto che non controlli terre STAPpate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0102</id>
+    <name>Ricerca dei Sopravvissuti</name>
+    <text>Riordina a caso il tuo cimitero. Un avversario sceglie una carta a caso dal tuo cimitero. Se è una carta creatura, mettila sul campo di battaglia. Altrimenti, esiliala.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0103</id>
+    <name>Vento Bruciante</name>
+    <text>Il Vento Bruciante infligge 10 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0104</id>
+    <name>Rampinatore Uncinato</name>
+    <text>Il Rampinatore Uncinato prende +2/+1 fintanto che non controlli terre STAPpate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0105</id>
+    <name>Adunata di Maghi Specialisti</name>
+    <text>Quando non ci sono creature sul campo di battaglia, sacrifica l'Adunata di Maghi Specialisti.
+{2}: L'Adunata di Maghi Specialisti infligge 1 danno a una creatura bersaglio. Qualsiasi giocatore può attivare questa abilità, ma solo in un momento in cui potrebbe lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0106</id>
+    <name>Lottatori Veterani</name>
+    <text>I Lottatori Veterani non possono attaccare se il giocatore in difesa controlla una terra STAPpata.
+I Lottatori Veterani non possono bloccare se tu controlli una terra STAPpata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0107</id>
+    <name>Sergente Fustigatore</name>
+    <text>{R}: La creatura bersaglio guadagna rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0108</id>
+    <name>Minotauro di Zerapa</name>
+    <text>Attacco improvviso
+{2} : Il Minotauro di Zerapa perde attacco improvviso fino alla fine del turno. Qualsiasi giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0109</id>
+    <name>Avatar della Potenza</name>
+    <text>Se un avversario controlla almeno quattro creature in più di te, l'Avatar della Potenza costa {6} in meno per essere lanciato.
+Travolgere (Se questa creatura sta per infliggere alle sue creature bloccanti danno da combattimento sufficiente a distruggerle, puoi farle infliggere il resto del suo danno al giocatore in difesa.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0110</id>
+    <name>Strofe Tranquillizzanti</name>
+    <text>Distruggi tutti gli incantesimi che non controlli. Poi, se controlli una terra STAPpata, distruggi tutti gli incantesimi che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0111</id>
+    <name>Darba</name>
+    <text>All'inizio del tuo mantenimento, sacrifica il Darba a meno che tu paghi {G}{G}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0112</id>
+    <name>Duplice Natura</name>
+    <text>Ogniqualvolta una creatura non pedina entra nel campo di battaglia, il suo controllore mette sul campo di battaglia una pedina che è una copia di quella creatura.
+Ogniqualvolta una creatura non pedina lascia il campo di battaglia, esilia tutte le pedine con lo stesso nome di quella creatura.
+Quando la Duplice Natura lascia il campo di battaglia, esilia tutte le pedine messe sul campo di battaglia con la Duplice Natura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0113</id>
+    <name>Rinascita dell'Elefante</name>
+    <text>Ogni giocatore mette sul campo di battaglia una pedina creatura Elefante verde. Quelle creature hanno "La forza e la costituzione di questa creatura sono ciascuna pari al numero di carte creatura nel cimitero del suo controllore."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0114</id>
+    <name>Raccolto Dimenticato</name>
+    <text>All'inizio del tuo mantenimento, puoi esiliare una carta terra presente nel tuo cimitero. Se lo fai, metti un segnalino +1/+1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0115</id>
+    <name>Jolrael, Imperatrice delle Bestie</name>
+    <text>{2}{G}, {T}, Scarta due carte: Tutte le terre controllate da un giocatore bersaglio sono creature 3/3 fino alla fine del turno. Sono ancora terre.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0116</id>
+    <name>Intervento di Jolrael</name>
+    <text>Lampo
+Incanta creatura
+{1}{G}: Rigenera la creatura incantata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0117</id>
+    <name>Terreno Vivente</name>
+    <text>Incanta terra
+La terra incantata è una creatura Silvantropo 5/6 verde che è ancora una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0118</id>
+    <name>Boa di Palude</name>
+    <text>Passa-Paludi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0119</id>
+    <name>Wurm di Mungha</name>
+    <text>Non puoi STAPpare più di una terra durante il tuo STAP..</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0120</id>
+    <name>Dorso-di-Rasoio Pigmeo</name>
+    <text>Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0121</id>
+    <name>Ragno della Gabbia d'Ossa</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0122</id>
+    <name>Gabbia di Radici</name>
+    <text>I Mercenari non STAPpano durante lo STAP dei loro controllori.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0123</id>
+    <name>Strisciante delle Fessure</name>
+    <text>Quando lo Strisciante delle Fessure entra nel campo di battaglia, TAPpa tutte le terre che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0124</id>
+    <name>Ostacolare</name>
+    <text>Puoi scartare una carta Foresta anziché pagare il costo di mana dell'Ostacolare.
+Previeni tutto il danno da combattimento che verrebbe inflitto dalle creature non bloccate in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0125</id>
+    <name>Ragno Sputatore</name>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+Sacrifica una terra: Il Ragno Sputatore infligge 1 danno ad ogni creatura con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0126</id>
+    <name>Rana Spora</name>
+    <text>Sacrifica la Rana Spora: Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0127</id>
+    <name>Scoiattolo Litigioso</name>
+    <text>{1}{G}, Sacrifica una terra: Metti sul campo di battaglia due pedine creatura Scoiattolo 1/1 verdi.
+{1}{G}, Sacrifica una terra: Le creature Scoiattolo prendono +1/+1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0128</id>
+    <name>Bestia Mietitrice</name>
+    <text>Ogniqualvolta la Bestia Mietitrice viene bloccata, il giocatore in difesa sacrifica una terra.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0129</id>
+    <name>Prosperare</name>
+    <text>Metti un segnalino +1/+1 su ciascuna di X creature bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0130</id>
+    <name>Campo Rigoglioso</name>
+    <text>Incanta terra
+La terra incantata ha "{T}: La creatura bersaglio prende +1/+1 fino alla fine del turno."</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0131</id>
+    <name>Elefante di Vintara</name>
+    <text>Travolgere
+{3}: L'Elefante di Vintara perde travolgere fino alla fine del turno. Qualsiasi giocatore può attivare questa abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0132</id>
+    <name>Morsicatrice di Vintara</name>
+    <text>La Morsicatrice di Vintara ha velo fintanto che non controlli terre STAPpate. (Non può essere bersaglio di magie o abilità.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0133</id>
+    <name>Vento Rivitalizzante</name>
+    <text>Le creature che controlli prendono +7/+7 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0134</id>
+    <name>Potenza Selvaggia</name>
+    <text>La creatura bersaglio prende +1/+1 fino alla fine del turno. Quella creatura prende +4/+4 addizionale fino alla fine del turno a meno che un qualsiasi giocatore paghi {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0135</id>
+    <name>Tempesta di Ali</name>
+    <text>La Tempesta di Ali infligge a ogni giocatore un danno pari al doppio del numero di creature con volare controllate da quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0136</id>
+    <name>Idolo Chimerico</name>
+    <text>{0}: TAPpa tutte le terre che controlli. L'Idolo Chimerico diventa una creatura artefatto Tartaruga 3/3 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0137</id>
+    <name>Angelo di Rame</name>
+    <text>Volare
+{T}, Sacrifica X terre: Metti X segnalini +1/+1 sull'Angelo di Rame.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0138</id>
+    <name>Guerriero Fasullo</name>
+    <text>Il Guerriero Fasullo non può attaccare o bloccare a meno che tu TAPpi una creatura STAPpata che controlli e che non sia dichiarata come creatura attaccante o bloccante in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0139</id>
+    <name>Carro da Battaglia di Keld</name>
+    <text>Travolgere
+Il Carro da Battaglia di Keld non può bloccare.
+Quando il Carro da Battaglia di Keld attacca, sacrificalo alla fine del combattimento.
+TAPpa una creatura STAPpata che controlli: Il Carro da Battaglia di Keld prende +X/+0 fino alla fine del turno, dove X è la forza della creatura TAPpata in questo modo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0140</id>
+    <name>Pozzo della Scoperta</name>
+    <text>All'inizio della tua sottofase finale, se non controlli terre STAPpate, pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0141</id>
+    <name>Pozzo della Vita</name>
+    <text>All'inizio della tua sottofase finale, se non controlli terre STAPpate, guadagni 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0142</id>
+    <name>Caverna Ristica</name>
+    <text>{T}: Scegli un colore. Aggiungi un mana di quel colore alla tua riserva a meno che un qualsiasi giocatore paghi {1}. Attiva questa abilità solo quando potresti lanciare un istantaneo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>PCY0143</id>
+    <name>Mesa della Luna Invernale</name>
+    <text>La Mesa della Luna Invernale entra nel campo di battaglia TAPpata.
+{T}: Aggiungi {1} alla tua riserva di mana.
+{2}, {T}, Sacrifica la Mesa della Luna Invernale: TAPpa due terre bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

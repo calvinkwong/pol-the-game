@@ -1,0 +1,37 @@
+<?xml version="1.0" standalone="yes"?>
+<strings>
+  <SECTOR_MENU>
+    <ROTATE_ALL value="Stappa tutte le carte" />
+    <CHANGE_ALL_CHARACTERISTICS value="Modifica la caratteristiche di tutte le carte" />
+    <CREATE_PAWN value="Crea pedina..." />
+    <SHOW_X_RANDOM value="Rivela a caso X carte" />
+    <MOVE_X_RANDOM value="Sposta a caso X carte..." />
+    <MOVE_ALL_TO_TOP value="Sposta tutto in cima..." />
+    <MOVE_ALL_TO_BOTTOM value="Sposta tutto in fondo..." />
+    <SHUFFLE value="Mischia" />
+    <MOVE_TOP_TO_DEFAULT value="Pesca" />
+    <MOVE_X_TO_DEFAULT value="Pesca X carte" />
+    <WATCH_X_TOP value="Guarda le prime X carte" />
+    <SHOW_X_TOP value="Rivela le prime X carte" />
+    <WATCH_ALL value="Guarda tutto" />
+    <SHOW_ALL value="Rivela tutto" />
+    <KEEP_UNCOVERED_X value="Gioca con le prime X carte scoperte" />
+    <MOVE_X_TOP value="Sposta le prime X carte..." />
+  </SECTOR_MENU>
+  <CARD_MENU>
+    <ROTATE value="Tappa/Stappa" />
+    <REVERSE value="Ruota" />
+    <VISIBILITY_VISIBLE value="Rendi visibile" />
+    <VISIBILITY_PRIVATE value="Rendi privata" />
+    <VISIBILITY_HIDDEN value="Nascondi" />
+    <ADD_TOKEN value="Aggiungi segnalino" />
+    <SET_CHARACTERISTICS value="Modifica caratteristiche" />
+    <DUPLICATE value="Duplica" />
+    <MOVE_TO_TOP_SECTOR value="Sposta in cima..." />
+    <MOVE_TO_BOTTOM_SECTOR value="Sposta in fondo..." />
+    <SHOW value="Rivela" />
+  	<MOVE_TO_DEFAULT value="Metti sul campo di battaglia" />
+  	<MOVE_TO_DEFAULT_PRIVATE value="Metti sul campo di battaglia privata" />
+    <KEEP_ROTATED value="Non stappa normalmente" />
+  </CARD_MENU>    
+</strings>

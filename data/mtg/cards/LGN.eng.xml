@@ -1,0 +1,1040 @@
+<cards name="Legions">
+  <item>
+    <id>LGN0001</id>
+    <name>Akroma, Angel of Wrath</name>
+    <text>Flying, first strike, vigilance, trample, haste, protection from black and from red</text>
+    <flavorText>"No rest. No mercy. No matter what."</flavorText>
+  </item>
+  <item>
+    <id>LGN0002</id>
+    <name>Akroma's Devoted</name>
+    <text>Cleric creatures have vigilance.</text>
+    <flavorText>Akroma asked for only one thing from her troops: unwavering, unconditional loyalty.</flavorText>
+  </item>
+  <item>
+    <id>LGN0003</id>
+    <name>Aven Redeemer</name>
+    <text>Flying
+{T}: Prevent the next 2 damage that would be dealt to target creature or player this turn.</text>
+    <flavorText>Redeemers rise with the sun, and the spirits of the people rise with them.</flavorText>
+  </item>
+  <item>
+    <id>LGN0004</id>
+    <name>Aven Warhawk</name>
+    <text>Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Bird and/or Soldier card you reveal in your hand.)
+Flying</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0005</id>
+    <name>Beacon of Destiny</name>
+    <text>{T}: The next time a source of your choice would deal damage to you this turn, that damage is dealt to Beacon of Destiny instead.</text>
+    <flavorText>"We all borrowed life from the Ancestor to exist in this world. Today, I repay that debt."</flavorText>
+  </item>
+  <item>
+    <id>LGN0006</id>
+    <name>Celestial Gatekeeper</name>
+    <text>Flying
+When Celestial Gatekeeper is put into a graveyard from the battlefield, exile it, then return up to two target Bird and/or Cleric permanent cards from your graveyard to the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0007</id>
+    <name>Cloudreach Cavalry</name>
+    <text>As long as you control a Bird, Cloudreach Cavalry gets +2/+2 and has flying.</text>
+    <flavorText>"It's easy to lose sight of hope until you gaze out from my vantage point."</flavorText>
+  </item>
+  <item>
+    <id>LGN0008</id>
+    <name>Daru Mender</name>
+    <text>Morph {W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Daru Mender is turned face up, regenerate target creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0009</id>
+    <name>Daru Sanctifier</name>
+    <text>Morph {1}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Daru Sanctifier is turned face up, destroy target enchantment.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0010</id>
+    <name>Daru Stinger</name>
+    <text>Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Human and/or Soldier card you reveal in your hand.)
+{T}: Daru Stinger deals damage equal to the number of +1/+1 counters on it to target attacking or blocking creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0011</id>
+    <name>Defender of the Order</name>
+    <text>Morph {W}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Defender of the Order is turned face up, creatures you control get +0/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0012</id>
+    <name>Deftblade Elite</name>
+    <text>Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)
+{1}{W}: Prevent all combat damage that would be dealt to and dealt by Deftblade Elite this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0013</id>
+    <name>Essence Sliver</name>
+    <text>Whenever a Sliver deals damage, its controller gains that much life.</text>
+    <flavorText>The slivers would survive, even at the expense of every other creature on Otaria.</flavorText>
+  </item>
+  <item>
+    <id>LGN0014</id>
+    <name>Gempalm Avenger</name>
+    <text>Cycling {2}{W} ({2}{W}, Discard this card: Draw a card.)
+When you cycle Gempalm Avenger, Soldier creatures get +1/+1 and gain first strike until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0015</id>
+    <name>Glowrider</name>
+    <text>Noncreature spells cost {1} more to cast.</text>
+    <flavorText>"It is not yet time."</flavorText>
+  </item>
+  <item>
+    <id>LGN0016</id>
+    <name>Liege of the Axe</name>
+    <text>Vigilance
+Morph {1}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Liege of the Axe is turned face up, untap it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0017</id>
+    <name>Lowland Tracker</name>
+    <text>First strike
+Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)</text>
+    <flavorText>"I feed my hatred to the righteous and they join my crusade."
+—Akroma, angelic avenger</flavorText>
+  </item>
+  <item>
+    <id>LGN0018</id>
+    <name>Planar Guide</name>
+    <text>{3}{W}, Exile Planar Guide: Exile all creatures. At the beginning of the next end step, return those cards to the battlefield under their owners' control.</text>
+    <flavorText>"Every moment has its own savior."</flavorText>
+  </item>
+  <item>
+    <id>LGN0019</id>
+    <name>Plated Sliver</name>
+    <text>All Sliver creatures get +0/+1.</text>
+    <flavorText>Overcoming extinction has only made the slivers more determined to live.</flavorText>
+  </item>
+  <item>
+    <id>LGN0020</id>
+    <name>Starlight Invoker</name>
+    <text>{7}{W}: You gain 5 life.</text>
+    <flavorText>The Mirari glows in her eyes.</flavorText>
+  </item>
+  <item>
+    <id>LGN0021</id>
+    <name>Stoic Champion</name>
+    <text>Whenever a player cycles a card, Stoic Champion gets +2/+2 until end of turn.</text>
+    <flavorText>His outer calm belies his inner fury.</flavorText>
+  </item>
+  <item>
+    <id>LGN0022</id>
+    <name>Sunstrike Legionnaire</name>
+    <text>Sunstrike Legionnaire doesn't untap during your untap step.
+Whenever another creature enters the battlefield, untap Sunstrike Legionnaire.
+{T}: Tap target creature with converted mana cost 3 or less.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0023</id>
+    <name>Swooping Talon</name>
+    <text>Flying
+{1}: Swooping Talon loses flying until end of turn.
+Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0024</id>
+    <name>Wall of Hope</name>
+    <text>Defender (This creature can't attack.)
+Whenever Wall of Hope is dealt damage, you gain that much life.</text>
+    <flavorText>"What cage would you rather be inside of than out?"
+—Daru riddle</flavorText>
+  </item>
+  <item>
+    <id>LGN0025</id>
+    <name>Ward Sliver</name>
+    <text>As Ward Sliver enters the battlefield, choose a color.
+All Slivers have protection from the chosen color.</text>
+    <flavorText>The first wave of slivers perished from the Riptide wizards' magic. The second wave shrugged off their spells like water.</flavorText>
+  </item>
+  <item>
+    <id>LGN0026</id>
+    <name>Whipgrass Entangler</name>
+    <text>{1}{W}: Until end of turn, target creature gains "This creature can't attack or block unless its controller pays {1} for each Cleric on the battlefield."</text>
+    <flavorText>"Now that I have your attention, perhaps I can tell you of the Order."</flavorText>
+  </item>
+  <item>
+    <id>LGN0027</id>
+    <name>White Knight</name>
+    <text>First strike (This creature deals combat damage before creatures without first strike.)
+Protection from black (This creature can't be blocked, targeted, dealt damage, or enchanted by anything black.)</text>
+    <flavorText>In the wretched depths of the Grand Coliseum, his soul shines like a single torch blazing in the night.</flavorText>
+  </item>
+  <item>
+    <id>LGN0028</id>
+    <name>Windborn Muse</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+Creatures can't attack you unless their controller pays {2} for each creature he or she controls that's attacking you.</text>
+    <flavorText>"Her voice is justice, clear and relentless."
+—Akroma, angelic avenger</flavorText>
+  </item>
+  <item>
+    <id>LGN0029</id>
+    <name>Wingbeat Warrior</name>
+    <text>Flying
+Morph {2}{W} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Wingbeat Warrior is turned face up, target creature gains first strike until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0030</id>
+    <name>Aven Envoy</name>
+    <text>Flying</text>
+    <flavorText>Their grieving faces tell far more than a list of casualties ever could.</flavorText>
+  </item>
+  <item>
+    <id>LGN0031</id>
+    <name>Cephalid Pathmage</name>
+    <text>Cephalid Pathmage is unblockable.
+{T}, Sacrifice Cephalid Pathmage: Target creature is unblockable this turn.</text>
+    <flavorText>Pathmages can open doors that aren't even there.</flavorText>
+  </item>
+  <item>
+    <id>LGN0032</id>
+    <name>Chromeshell Crab</name>
+    <text>Morph {4}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Chromeshell Crab is turned face up, you may exchange control of target creature you control and target creature an opponent controls.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0033</id>
+    <name>Covert Operative</name>
+    <text>Covert Operative is unblockable.</text>
+    <flavorText>Some spies seek clarity. Others seek transparency.</flavorText>
+  </item>
+  <item>
+    <id>LGN0034</id>
+    <name>Crookclaw Elder</name>
+    <text>Flying
+Tap two untapped Birds you control: Draw a card.
+Tap two untapped Wizards you control: Target creature gains flying until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0035</id>
+    <name>Dermoplasm</name>
+    <text>Flying
+Morph {2}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Dermoplasm is turned face up, you may put a creature card with morph from your hand onto the battlefield face up. If you do, return Dermoplasm to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0036</id>
+    <name>Dreamborn Muse</name>
+    <text>At the beginning of each player's upkeep, that player puts the top X cards of his or her library into his or her graveyard, where X is the number of cards in his or her hand.</text>
+    <flavorText>"Her voice is insight, piercing and true."
+—Ixidor, reality sculptor</flavorText>
+  </item>
+  <item>
+    <id>LGN0037</id>
+    <name>Echo Tracer</name>
+    <text>Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Echo Tracer is turned face up, return target creature to its owner's hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0038</id>
+    <name>Fugitive Wizard</name>
+    <text>
+    </text>
+    <flavorText>Many wizards came to the Riptide Project hoping to return home with answers. Most, however, wouldn't return home at all.</flavorText>
+  </item>
+  <item>
+    <id>LGN0039</id>
+    <name>Gempalm Sorcerer</name>
+    <text>Cycling {2}{U} ({2}{U}, Discard this card: Draw a card.)
+When you cycle Gempalm Sorcerer, Wizard creatures gain flying until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0040</id>
+    <name>Glintwing Invoker</name>
+    <text>{7}{U}: Glintwing Invoker gets +3/+3 and gains flying until end of turn.</text>
+    <flavorText>The Mirari flares in his mind.</flavorText>
+  </item>
+  <item>
+    <id>LGN0041</id>
+    <name>Keeneye Aven</name>
+    <text>Flying
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>"I have no need of a map. The very continent itself guides my way."</flavorText>
+  </item>
+  <item>
+    <id>LGN0042</id>
+    <name>Keeper of the Nine Gales</name>
+    <text>Flying
+{T}, Tap two untapped Birds you control: Return target permanent to its owner's hand.</text>
+    <flavorText>"You cannot fight the storm."</flavorText>
+  </item>
+  <item>
+    <id>LGN0043</id>
+    <name>Master of the Veil</name>
+    <text>Morph {2}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Master of the Veil is turned face up, you may turn target creature with morph face down.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0044</id>
+    <name>Merchant of Secrets</name>
+    <text>When Merchant of Secrets enters the battlefield, draw a card.</text>
+    <flavorText>To scrape out a living in Aphetto, wizards are reduced to selling rumors, lies, forgeries, or—if they get desperate enough—the truth.</flavorText>
+  </item>
+  <item>
+    <id>LGN0045</id>
+    <name>Mistform Seaswift</name>
+    <text>Flying
+{1}: Mistform Seaswift becomes the creature type of your choice until end of turn.
+Morph {1}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0046</id>
+    <name>Mistform Sliver</name>
+    <text>All Slivers have "{1}: This permanent becomes the creature type of your choice in addition to its other types until end of turn."</text>
+    <flavorText>Taking the form of a junior researcher, the first sliver slipped out of Riptide.</flavorText>
+  </item>
+  <item>
+    <id>LGN0047</id>
+    <name>Mistform Ultimus</name>
+    <text>Mistform Ultimus is every creature type (even if this card isn't on the battlefield).</text>
+    <flavorText>It may wear your face, but its mind is its own.</flavorText>
+  </item>
+  <item>
+    <id>LGN0048</id>
+    <name>Mistform Wakecaster</name>
+    <text>Flying
+{1}: Mistform Wakecaster becomes the creature type of your choice until end of turn.
+{2}{U}{U}, {T}: Choose a creature type. Each creature you control becomes that type until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0049</id>
+    <name>Primoc Escapee</name>
+    <text>Flying
+Cycling {2} ({2}, Discard this card: Draw a card.)</text>
+    <flavorText>Though a completely artificial species, primocs are a natural fit for the skies of Otaria.</flavorText>
+  </item>
+  <item>
+    <id>LGN0050</id>
+    <name>Riptide Director</name>
+    <text>{2}{U}{U}, {T}: Draw a card for each Wizard you control.</text>
+    <flavorText>Those who lead others to wisdom become the wisest themselves.</flavorText>
+  </item>
+  <item>
+    <id>LGN0051</id>
+    <name>Riptide Mangler</name>
+    <text>{1}{U}: Change Riptide Mangler's power to target creature's power. (This effect lasts indefinitely.)</text>
+    <flavorText>It wants you to be its chum.</flavorText>
+  </item>
+  <item>
+    <id>LGN0052</id>
+    <name>Shifting Sliver</name>
+    <text>Slivers can't be blocked except by Slivers.</text>
+    <flavorText>Once the last few slivers the Riptide Project controlled were dead, there was nothing to keep the island from being completely overrun.</flavorText>
+  </item>
+  <item>
+    <id>LGN0053</id>
+    <name>Synapse Sliver</name>
+    <text>Whenever a Sliver deals combat damage to a player, its controller may draw a card.</text>
+    <flavorText>"Species XR17 feeds upon the mental energies of its victims. This explains why the goblins remain unaffected."
+—Riptide Project researcher</flavorText>
+  </item>
+  <item>
+    <id>LGN0054</id>
+    <name>Voidmage Apprentice</name>
+    <text>Morph {2}{U}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Voidmage Apprentice is turned face up, counter target spell.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0055</id>
+    <name>Wall of Deceit</name>
+    <text>Defender (This creature can't attack.)
+{3}: Turn Wall of Deceit face down.
+Morph {U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0056</id>
+    <name>Warped Researcher</name>
+    <text>Whenever a player cycles a card, Warped Researcher gains flying and shroud until end of turn. (It can't be the target of spells or abilities.)</text>
+    <flavorText>New insights yield new senses.</flavorText>
+  </item>
+  <item>
+    <id>LGN0057</id>
+    <name>Weaver of Lies</name>
+    <text>Morph {4}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Weaver of Lies is turned face up, turn any number of target creatures with morph other than Weaver of Lies face down.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0058</id>
+    <name>Willbender</name>
+    <text>Morph {1}{U} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Willbender is turned face up, change the target of target spell or ability with a single target.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0059</id>
+    <name>Aphetto Exterminator</name>
+    <text>Morph {3}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Aphetto Exterminator is turned face up, target creature gets -3/-3 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0060</id>
+    <name>Bane of the Living</name>
+    <text>Morph {X}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Bane of the Living is turned face up, all creatures get -X/-X until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0061</id>
+    <name>Blood Celebrant</name>
+    <text>{B}, Pay 1 life: Add one mana of any color to your mana pool.</text>
+    <flavorText>"Their blood is the nectar that nourishes the Cabal."
+—Phage the Untouchable</flavorText>
+  </item>
+  <item>
+    <id>LGN0062</id>
+    <name>Corpse Harvester</name>
+    <text>{1}{B}, {T}, Sacrifice a creature: Search your library for a Zombie card and a Swamp card, reveal them, and put them into your hand. Then shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0063</id>
+    <name>Crypt Sliver</name>
+    <text>All Slivers have "{T}: Regenerate target Sliver."</text>
+    <flavorText>"Death couldn't contain the slivers. What made us think we could?"
+—Riptide Project researcher</flavorText>
+  </item>
+  <item>
+    <id>LGN0064</id>
+    <name>Dark Supplicant</name>
+    <text>{T}, Sacrifice three Clerics: Search your graveyard, hand, and/or library for a card named Scion of Darkness and put it onto the battlefield. If you search your library this way, shuffle it.</text>
+    <flavorText>Cabal clerics serve two masters: their patriarch and their god.</flavorText>
+  </item>
+  <item>
+    <id>LGN0065</id>
+    <name>Deathmark Prelate</name>
+    <text>{2}{B}, {T}, Sacrifice a Zombie: Destroy target non-Zombie creature. It can't be regenerated. Activate this ability only any time you could cast a sorcery.</text>
+    <flavorText>Death is a secret he is willing to share.</flavorText>
+  </item>
+  <item>
+    <id>LGN0066</id>
+    <name>Drinker of Sorrow</name>
+    <text>Drinker of Sorrow can't block.
+Whenever Drinker of Sorrow deals combat damage, sacrifice a permanent.</text>
+    <flavorText>It strikes at your soul, heedless of your prayers.</flavorText>
+  </item>
+  <item>
+    <id>LGN0067</id>
+    <name>Dripping Dead</name>
+    <text>Dripping Dead can't block.
+Whenever Dripping Dead deals combat damage to a creature, destroy that creature. It can't be regenerated.</text>
+    <flavorText>It oozes death from every pore.</flavorText>
+  </item>
+  <item>
+    <id>LGN0068</id>
+    <name>Earthblighter</name>
+    <text>{2}{B}, {T}, Sacrifice a Goblin: Destroy target land.</text>
+    <flavorText>"A single dedicated mind can bring about the greatest destruction. That, or goblins—goblins work too."</flavorText>
+  </item>
+  <item>
+    <id>LGN0069</id>
+    <name>Embalmed Brawler</name>
+    <text>Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)
+Whenever Embalmed Brawler attacks or blocks, you lose 1 life for each +1/+1 counter on it.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0070</id>
+    <name>Gempalm Polluter</name>
+    <text>Cycling {B}{B} ({B}{B}, Discard this card: Draw a card.)
+When you cycle Gempalm Polluter, you may have target player lose life equal to the number of Zombies on the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0071</id>
+    <name>Ghastly Remains</name>
+    <text>Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)
+At the beginning of your upkeep, if Ghastly Remains is in your graveyard, you may pay {B}{B}{B}. If you do, return Ghastly Remains to your hand.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0072</id>
+    <name>Goblin Turncoat</name>
+    <text>Sacrifice a Goblin: Regenerate Goblin Turncoat.</text>
+    <flavorText>"Goblins won't betray their own kind for any price. They'll do it for a very specific price."
+—Phage the Untouchable</flavorText>
+  </item>
+  <item>
+    <id>LGN0073</id>
+    <name>Graveborn Muse</name>
+    <text>At the beginning of your upkeep, you draw X cards and you lose X life, where X is the number of Zombies you control.</text>
+    <flavorText>"Her voice is damnation, unyielding and certain."
+—Phage the Untouchable</flavorText>
+  </item>
+  <item>
+    <id>LGN0074</id>
+    <name>Havoc Demon</name>
+    <text>Flying
+When Havoc Demon is put into a graveyard from the battlefield, all creatures get -5/-5 until end of turn.</text>
+    <flavorText>A cry of pain as it enters this world. A chorus of screams as it leaves.</flavorText>
+  </item>
+  <item>
+    <id>LGN0075</id>
+    <name>Hollow Specter</name>
+    <text>Flying
+Whenever Hollow Specter deals combat damage to a player, you may pay {X}. If you do, that player reveals X cards from his or her hand and you choose one of them. That player discards that card.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0076</id>
+    <name>Infernal Caretaker</name>
+    <text>Morph {3}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Infernal Caretaker is turned face up, return all Zombie cards from all graveyards to their owners' hands.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0077</id>
+    <name>Noxious Ghoul</name>
+    <text>Whenever Noxious Ghoul or another Zombie enters the battlefield, all non-Zombie creatures get -1/-1 until end of turn.</text>
+    <flavorText>Plague and death wrapped in one convenient package.</flavorText>
+  </item>
+  <item>
+    <id>LGN0078</id>
+    <name>Phage the Untouchable</name>
+    <text>When Phage the Untouchable enters the battlefield, if you didn't cast it from your hand, you lose the game.
+Whenever Phage deals combat damage to a creature, destroy that creature. It can't be regenerated.
+Whenever Phage deals combat damage to a player, that player loses the game.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0079</id>
+    <name>Scion of Darkness</name>
+    <text>Trample
+Whenever Scion of Darkness deals combat damage to a player, you may put target creature card from that player's graveyard onto the battlefield under your control.
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0080</id>
+    <name>Skinthinner</name>
+    <text>Morph {3}{B}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Skinthinner is turned face up, destroy target nonblack creature. It can't be regenerated.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0081</id>
+    <name>Smokespew Invoker</name>
+    <text>{7}{B}: Target creature gets -3/-3 until end of turn.</text>
+    <flavorText>The Mirari festers in its flesh.</flavorText>
+  </item>
+  <item>
+    <id>LGN0082</id>
+    <name>Sootfeather Flock</name>
+    <text>Flying
+Morph {3}{B} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>They pick at the remains of the city's corpse.</flavorText>
+  </item>
+  <item>
+    <id>LGN0083</id>
+    <name>Spectral Sliver</name>
+    <text>All Sliver creatures have "{2}: This creature gets +1/+1 until end of turn."</text>
+    <flavorText>"Sure, I've seen agents of the Cabal here and there. Well, not here, and certainly not in any of the sliver labs. Oh dear, I've said too much."
+—Apprentice researcher</flavorText>
+  </item>
+  <item>
+    <id>LGN0084</id>
+    <name>Toxin Sliver</name>
+    <text>Whenever a Sliver deals combat damage to a creature, destroy that creature. It can't be regenerated.</text>
+    <flavorText>It doesn't need to use its venom—it just needs you to know it can.</flavorText>
+  </item>
+  <item>
+    <id>LGN0085</id>
+    <name>Vile Deacon</name>
+    <text>Whenever Vile Deacon attacks, it gets +X/+X until end of turn, where X is the number of Clerics on the battlefield.</text>
+    <flavorText>"The Cabal and the Order really aren't that different. After all, we are both empowered by faith."</flavorText>
+  </item>
+  <item>
+    <id>LGN0086</id>
+    <name>Withered Wretch</name>
+    <text>{1}: Exile target card from a graveyard.</text>
+    <flavorText>Once it consecrated the dead. Now it desecrates them.</flavorText>
+  </item>
+  <item>
+    <id>LGN0087</id>
+    <name>Zombie Brute</name>
+    <text>Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Zombie card you reveal in your hand.)
+Trample</text>
+    <flavorText>Measure its determination by the screams of its prey.</flavorText>
+  </item>
+  <item>
+    <id>LGN0088</id>
+    <name>Blade Sliver</name>
+    <text>All Sliver creatures get +1/+0.</text>
+    <flavorText>After breaking free from the Riptide Project, the slivers quickly adapted to life on Otaria—much to the dismay of life on Otaria.</flavorText>
+  </item>
+  <item>
+    <id>LGN0089</id>
+    <name>Bloodstoke Howler</name>
+    <text>Morph {6}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Bloodstoke Howler is turned face up, Beast creatures you control get +3/+0 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0090</id>
+    <name>Clickslither</name>
+    <text>Haste
+Sacrifice a Goblin: Clickslither gets +2/+2 and gains trample until end of turn.</text>
+    <flavorText>The least popular goblins get the outer caves.</flavorText>
+  </item>
+  <item>
+    <id>LGN0091</id>
+    <name>Crested Craghorn</name>
+    <text>Haste
+Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)</text>
+    <flavorText>"Craghorns experience a wide range of emotions: rage, fury, anger . . ."
+—Foothill guide</flavorText>
+  </item>
+  <item>
+    <id>LGN0092</id>
+    <name>Flamewave Invoker</name>
+    <text>{7}{R}: Flamewave Invoker deals 5 damage to target player.</text>
+    <flavorText>The Mirari burns in his heart.</flavorText>
+  </item>
+  <item>
+    <id>LGN0093</id>
+    <name>Frenetic Raptor</name>
+    <text>Beasts can't block.</text>
+    <flavorText>"How do you stop a raptor from charging? No, seriously Help"
+—Blarg, goblin jester</flavorText>
+  </item>
+  <item>
+    <id>LGN0094</id>
+    <name>Gempalm Incinerator</name>
+    <text>Cycling {1}{R} ({1}{R}, Discard this card: Draw a card.)
+When you cycle Gempalm Incinerator, you may have it deal X damage to target creature, where X is the number of Goblins on the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0095</id>
+    <name>Goblin Assassin</name>
+    <text>Whenever Goblin Assassin or another Goblin enters the battlefield, each player flips a coin. Each player whose coin comes up tails sacrifices a creature.</text>
+    <flavorText>The more victims he kills, the more likely he is to get the right one.</flavorText>
+  </item>
+  <item>
+    <id>LGN0096</id>
+    <name>Goblin Clearcutter</name>
+    <text>{T}, Sacrifice a Forest: Add three mana in any combination of {R} and/or {G} to your mana pool.</text>
+    <flavorText>"Did you know that wood burns even better than rocks?"
+—Toggo, goblin weaponsmith</flavorText>
+  </item>
+  <item>
+    <id>LGN0097</id>
+    <name>Goblin Dynamo</name>
+    <text>{T}: Goblin Dynamo deals 1 damage to target creature or player.
+{X}{R}, {T}, Sacrifice Goblin Dynamo: Goblin Dynamo deals X damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0098</id>
+    <name>Goblin Firebug</name>
+    <text>When Goblin Firebug leaves the battlefield, sacrifice a land.</text>
+    <flavorText>Most goblins leave behind a wake of destruction. A few goblins take one with them.</flavorText>
+  </item>
+  <item>
+    <id>LGN0099</id>
+    <name>Goblin Goon</name>
+    <text>Goblin Goon can't attack unless you control more creatures than defending player.
+Goblin Goon can't block unless you control more creatures than attacking player.</text>
+    <flavorText>Giant-sized body. Goblin-sized brain.</flavorText>
+  </item>
+  <item>
+    <id>LGN0100</id>
+    <name>Goblin Grappler</name>
+    <text>Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)</text>
+    <flavorText>Daru soldiers learned it's better to have a clean death from a sharp blade than to tangle with a goblin's rusted chains.</flavorText>
+  </item>
+  <item>
+    <id>LGN0101</id>
+    <name>Goblin Lookout</name>
+    <text>{T}, Sacrifice a Goblin: Goblin creatures get +2/+0 until end of turn.</text>
+    <flavorText>"Throw rocks at 'em Throw spears at 'em Throw Furt at 'em"</flavorText>
+  </item>
+  <item>
+    <id>LGN0102</id>
+    <name>Hunter Sliver</name>
+    <text>All Sliver creatures have provoke. (When a Sliver attacks, its controller may have target creature defending player controls untap and block it if able.)</text>
+    <flavorText>Once they get the scent, there is no escape.</flavorText>
+  </item>
+  <item>
+    <id>LGN0103</id>
+    <name>Imperial Hellkite</name>
+    <text>Flying
+Morph {6}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Imperial Hellkite is turned face up, you may search your library for a Dragon card, reveal it, and put it into your hand. If you do, shuffle your library.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0104</id>
+    <name>Kilnmouth Dragon</name>
+    <text>Amplify 3 (As this creature enters the battlefield, put three +1/+1 counters on it for each Dragon card you reveal in your hand.)
+Flying
+{T}: Kilnmouth Dragon deals damage equal to the number of +1/+1 counters on it to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0105</id>
+    <name>Lavaborn Muse</name>
+    <text>At the beginning of each opponent's upkeep, if that player has two or fewer cards in hand, Lavaborn Muse deals 3 damage to him or her.</text>
+    <flavorText>"Her voice is disaster, painful and final."
+—Matoc, lavamancer</flavorText>
+  </item>
+  <item>
+    <id>LGN0106</id>
+    <name>Macetail Hystrodon</name>
+    <text>First strike, haste
+Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    <flavorText>The goblins tracked the hystrodon with much stealth and cunning. Then they were eaten with much pain and yelling.</flavorText>
+  </item>
+  <item>
+    <id>LGN0107</id>
+    <name>Magma Sliver</name>
+    <text>All Slivers have "{T}: Target Sliver creature gets +X/+0 until end of turn, where X is the number of Slivers on the battlefield."</text>
+    <flavorText>As malleable as molten steel, but as dangerous as the finished blade.</flavorText>
+  </item>
+  <item>
+    <id>LGN0108</id>
+    <name>Ridgetop Raptor</name>
+    <text>Double strike (This creature deals both first-strike and regular combat damage.)</text>
+    <flavorText>"The Skirk Ridge has many wonderful things to discover—like escape routes."
+—Foothill guide</flavorText>
+  </item>
+  <item>
+    <id>LGN0109</id>
+    <name>Rockshard Elemental</name>
+    <text>Double strike (This creature deals both first-strike and regular combat damage.)
+Morph {4}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0110</id>
+    <name>Shaleskin Plower</name>
+    <text>Morph {4}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Shaleskin Plower is turned face up, destroy target land.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0111</id>
+    <name>Skirk Alarmist</name>
+    <text>Haste
+{T}: Turn target face-down creature you control face up. At the beginning of the next end step, sacrifice it.</text>
+    <flavorText>"I treat each day as your last."</flavorText>
+  </item>
+  <item>
+    <id>LGN0112</id>
+    <name>Skirk Drill Sergeant</name>
+    <text>Whenever Skirk Drill Sergeant or another Goblin is put into a graveyard from the battlefield, you may pay {2}{R}. If you do, reveal the top card of your library. If it's a Goblin permanent card, put it onto the battlefield. Otherwise, put it into your graveyard.</text>
+    <flavorText>"I order you to volunteer."</flavorText>
+  </item>
+  <item>
+    <id>LGN0113</id>
+    <name>Skirk Marauder</name>
+    <text>Morph {2}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Skirk Marauder is turned face up, it deals 2 damage to target creature or player.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0114</id>
+    <name>Skirk Outrider</name>
+    <text>As long as you control a Beast, Skirk Outrider gets +2/+2 and has trample.</text>
+    <flavorText>Once the goblins thought about it, they preferred being atop a slateback to being in front of, behind, or underneath one.</flavorText>
+  </item>
+  <item>
+    <id>LGN0115</id>
+    <name>Unstable Hulk</name>
+    <text>Morph {3}{R}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Unstable Hulk is turned face up, it gets +6/+6 and gains trample until end of turn. You skip your next turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0116</id>
+    <name>Warbreak Trumpeter</name>
+    <text>Morph {X}{X}{R} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Warbreak Trumpeter is turned face up, put X 1/1 red Goblin creature tokens onto the battlefield.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0117</id>
+    <name>Berserk Murlodont</name>
+    <text>Whenever a Beast becomes blocked, it gets +1/+1 until end of turn for each creature blocking it.</text>
+    <flavorText>"The harder we press forward, the harder Krosa pushes us back."
+—Aven scout</flavorText>
+  </item>
+  <item>
+    <id>LGN0118</id>
+    <name>Branchsnap Lorian</name>
+    <text>Trample
+Morph {G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>Lorians treat trees and prey the same way: by ripping them limb from limb.</flavorText>
+  </item>
+  <item>
+    <id>LGN0119</id>
+    <name>Brontotherium</name>
+    <text>Trample
+Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)</text>
+    <flavorText>Lucky victims get run over. Unlucky victims get run through.</flavorText>
+  </item>
+  <item>
+    <id>LGN0120</id>
+    <name>Brood Sliver</name>
+    <text>Whenever a Sliver deals combat damage to a player, its controller may put a 1/1 colorless Sliver creature token onto the battlefield.</text>
+    <flavorText>Within weeks, more slivers nested in Otaria than ever existed on Rath.</flavorText>
+  </item>
+  <item>
+    <id>LGN0121</id>
+    <name>Caller of the Claw</name>
+    <text>Flash
+When Caller of the Claw enters the battlefield, put a 2/2 green Bear creature token onto the battlefield for each nontoken creature put into your graveyard from the battlefield this turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0122</id>
+    <name>Canopy Crawler</name>
+    <text>Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Beast card you reveal in your hand.)
+{T}: Target creature gets +1/+1 until end of turn for each +1/+1 counter on Canopy Crawler.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0123</id>
+    <name>Defiant Elf</name>
+    <text>Trample</text>
+    <flavorText>"I lost one home when Yavimaya was destroyed. I will not lose another."</flavorText>
+  </item>
+  <item>
+    <id>LGN0124</id>
+    <name>Elvish Soultiller</name>
+    <text>When Elvish Soultiller is put into a graveyard from the battlefield, choose a creature type. Shuffle all creature cards of that type from your graveyard into your library.</text>
+    <flavorText>Mutated elves wondered if this was their final form, or if it was just another step.</flavorText>
+  </item>
+  <item>
+    <id>LGN0125</id>
+    <name>Enormous Baloth</name>
+    <text>
+    </text>
+    <flavorText>Its diet consists of fruits, plants, small woodland animals, large woodland animals, woodlands, fruit groves, fruit farmers, and small cities.</flavorText>
+  </item>
+  <item>
+    <id>LGN0126</id>
+    <name>Feral Throwback</name>
+    <text>Amplify 2 (As this creature enters the battlefield, put two +1/+1 counters on it for each Beast card you reveal in your hand.)
+Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0127</id>
+    <name>Gempalm Strider</name>
+    <text>Cycling {2}{G}{G} ({2}{G}{G}, Discard this card: Draw a card.)
+When you cycle Gempalm Strider, Elf creatures get +2/+2 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0128</id>
+    <name>Glowering Rogon</name>
+    <text>Amplify 1 (As this creature enters the battlefield, put a +1/+1 counter on it for each Beast card you reveal in your hand.)</text>
+    <flavorText>A herd of one.</flavorText>
+  </item>
+  <item>
+    <id>LGN0129</id>
+    <name>Hundroog</name>
+    <text>Cycling {3} ({3}, Discard this card: Draw a card.)</text>
+    <flavorText>"New links are being added to the food chain on a daily basis."
+—Riptide Project researcher</flavorText>
+  </item>
+  <item>
+    <id>LGN0130</id>
+    <name>Krosan Cloudscraper</name>
+    <text>At the beginning of your upkeep, sacrifice Krosan Cloudscraper unless you pay {G}{G}.
+Morph {7}{G}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0131</id>
+    <name>Krosan Vorine</name>
+    <text>Provoke (When this attacks, you may have target creature defending player controls untap and block it if able.)
+Krosan Vorine can't be blocked by more than one creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0132</id>
+    <name>Nantuko Vigilante</name>
+    <text>Morph {1}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Nantuko Vigilante is turned face up, destroy target artifact or enchantment.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0133</id>
+    <name>Needleshot Gourna</name>
+    <text>Reach (This creature can block creatures with flying.)</text>
+    <flavorText>The first aven scout squad returned from Krosa with disturbing stories. The second returned with disturbing casualties.</flavorText>
+  </item>
+  <item>
+    <id>LGN0134</id>
+    <name>Patron of the Wild</name>
+    <text>Morph {2}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Patron of the Wild is turned face up, target creature gets +3/+3 until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0135</id>
+    <name>Primal Whisperer</name>
+    <text>Primal Whisperer gets +2/+2 for each face-down creature on the battlefield.
+Morph {3}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0136</id>
+    <name>Quick Sliver</name>
+    <text>Flash
+Any player may play Sliver cards as though they had flash.</text>
+    <flavorText>The directors of the Riptide Project wanted instant results on the sliver experiments. They got their wish.</flavorText>
+  </item>
+  <item>
+    <id>LGN0137</id>
+    <name>Root Sliver</name>
+    <text>Root Sliver can't be countered.
+Sliver spells can't be countered by spells or abilities.</text>
+    <flavorText>"It would take another apocalypse to stop the slivers now."
+—Riptide Project researcher</flavorText>
+  </item>
+  <item>
+    <id>LGN0138</id>
+    <name>Seedborn Muse</name>
+    <text>Untap all permanents you control during each other player's untap step.</text>
+    <flavorText>"Her voice is wilderness, savage and pure."
+—Kamahl, druid acolyte</flavorText>
+  </item>
+  <item>
+    <id>LGN0139</id>
+    <name>Stonewood Invoker</name>
+    <text>{7}{G}: Stonewood Invoker gets +5/+5 until end of turn.</text>
+    <flavorText>The Mirari pulses in his veins.</flavorText>
+  </item>
+  <item>
+    <id>LGN0140</id>
+    <name>Timberwatch Elf</name>
+    <text>{T}: Target creature gets +X/+X until end of turn, where X is the number of Elves on the battlefield.</text>
+    <flavorText>Even through the Mirari's voice, the elves still hear the call of their kinship.</flavorText>
+  </item>
+  <item>
+    <id>LGN0141</id>
+    <name>Totem Speaker</name>
+    <text>Whenever a Beast enters the battlefield, you may gain 3 life.</text>
+    <flavorText>"Elves and beasts are tied together, and I am the knot that binds them."</flavorText>
+  </item>
+  <item>
+    <id>LGN0142</id>
+    <name>Tribal Forcemage</name>
+    <text>Morph {1}{G} (You may cast this face down as a 2/2 creature for {3}. Turn it face up any time for its morph cost.)
+When Tribal Forcemage is turned face up, creatures of the creature type of your choice get +2/+2 and gain trample until end of turn.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>LGN0143</id>
+    <name>Vexing Beetle</name>
+    <text>Vexing Beetle can't be countered.
+Vexing Beetle gets +3/+3 as long as no opponent controls a creature.</text>
+    <flavorText>As the Mirari's mutating effects grew out of control, centaurs and druids fled—but insects swarmed closer.</flavorText>
+  </item>
+  <item>
+    <id>LGN0144</id>
+    <name>Wirewood Channeler</name>
+    <text>{T}: Add X mana of any one color to your mana pool, where X is the number of Elves on the battlefield.</text>
+    <flavorText>"Your words are meaningless. The rustling of leaves is the only language that makes any sense."</flavorText>
+  </item>
+  <item>
+    <id>LGN0145</id>
+    <name>Wirewood Hivemaster</name>
+    <text>Whenever another nontoken Elf enters the battlefield, you may put a 1/1 green Insect creature token onto the battlefield.</text>
+    <flavorText>"Most insects have been drawn to the Mirari. But all that remain in Wirewood are under my care."</flavorText>
+  </item>
+</cards>
