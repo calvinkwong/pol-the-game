@@ -2,8 +2,8 @@
   <item>
     <id>NMS0001</id>
     <name>Intervento Angelico</name>
-    <text>Se controlli almeno una Pianura, puoi TAPpare una creatura STAPpata che controlli invece di pagare il costo di mana dell'Intervento Angelico.
-Lancia l'Intervento Angelico solo durante il combattimento.
+    <text>Se controlli almeno una Pianura, puoi TAPpare una creatura STAPpata che controlli invece di pagare il costo di mana dell'Intervento Angelico. 
+Lancia l'Intervento Angelico solo durante il combattimento. 
 Metti sul campo di battaglia una pedina creatura Angelo 4/4 bianca con volare. Esiliala all'inizio della sottofase di fine turno.</text>
     <flavorText>
     </flavorText>
@@ -18,7 +18,7 @@ Metti sul campo di battaglia una pedina creatura Angelo 4/4 bianca con volare. E
   <item>
     <id>NMS0003</id>
     <name>Angelo Accecante</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta l'Angelo Accecante infligge danno da combattimento a un giocatore, quel giocatore salta la sua prossima fase di combattimento.</text>
     <flavorText>
     </flavorText>
@@ -33,15 +33,15 @@ Ogniqualvolta l'Angelo Accecante infligge danno da combattimento a un giocatore,
   <item>
     <id>NMS0005</id>
     <name>Difensore en-Vec</name>
-    <text>Svanire 4
-Rimuovi un segnalino svanire dal Difensore en-Vec: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno.</text>
+    <text>Svanire 4 
+Rimuovi un segnalino svanire dal Difensore en-Vec: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>NMS0006</id>
     <name>Falco Audace</name>
-    <text>Volare
+    <text>Volare 
 {4}, {T}: Passa in rassegna il tuo grimorio per una carta permanente Ribelle con costo di mana convertito pari o inferiore a 3 e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -49,7 +49,7 @@ Rimuovi un segnalino svanire dal Difensore en-Vec: Previeni i prossimi 2 danni c
   <item>
     <id>NMS0007</id>
     <name>Avanguardia Audace</name>
-    <text>Quando l'Avanguardia Audace blocca, alla fine del combattimento, distruggi l'Avanguardia Audace e tutte le creature che ha bloccato in questo turno.
+    <text>Quando l'Avanguardia Audace blocca, alla fine del combattimento, distruggi l'Avanguardia Audace e tutte le creature che ha bloccato in questo turno. 
 {5}, {T}: Passa in rassegna il tuo grimorio per una carta permanente Ribelle con costo di mana convertito pari o inferiore a 4 e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -64,8 +64,8 @@ Rimuovi un segnalino svanire dal Difensore en-Vec: Previeni i prossimi 2 danni c
   <item>
     <id>NMS0009</id>
     <name>Pugnale a Frusta</name>
-    <text>Se controlli una Pianura, puoi TAPpare una creatura STAPpata che controlli anziché pagare il costo di mana del Pugnale a Frusta.
-Incanta creatura
+    <text>Se controlli una Pianura, puoi TAPpare una creatura STAPpata che controlli anziché pagare il costo di mana del Pugnale a Frusta. 
+Incanta creatura 
 La creatura incantata ha attacco improvviso.</text>
     <flavorText>
     </flavorText>
@@ -87,7 +87,8 @@ La creatura incantata ha attacco improvviso.</text>
   <item>
     <id>NMS0012</id>
     <name>Lin Sivvi, Eroina Audace</name>
-    <text>{X}, {T}: Passa in rassegna il tuo grimorio per una carta permanente Ribelle con un costo di mana convertito pari o inferiore a X e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.; {3}: Metti una carta Ribelle bersaglio dal tuo cimitero in fondo al tuo grimorio.</text>
+    <text>{X}, {T}: Passa in rassegna il tuo grimorio per una carta permanente Ribelle con un costo di mana convertito pari o inferiore a X e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.
+{3}: Metti una carta Ribelle bersaglio dal tuo cimitero in fondo al tuo grimorio.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -122,8 +123,8 @@ La creatura incantata ha attacco improvviso.</text>
   <item>
     <id>NMS0017</id>
     <name>Onda Parallattica</name>
-    <text>Svanire 5
-Rimuovi un segnalino svanire dall'Onda Parallattica: Esilia una creatura bersaglio.
+    <text>Svanire 5 
+Rimuovi un segnalino svanire dall'Onda Parallattica: Esilia una creatura bersaglio. 
 Quando l'Onda Parallattica lascia il campo di battaglia, ogni giocatore rimette sul campo di battaglia tutte le carte che possiede e che sono state esiliate dall'Onda Parallattica.</text>
     <flavorText>
     </flavorText>
@@ -152,7 +153,7 @@ Quando l'Onda Parallattica lascia il campo di battaglia, ogni giocatore rimette 
   <item>
     <id>NMS0021</id>
     <name>Stratagemma di Sivvi</name>
-    <text>Se un avversario controlla almeno una Montagna e tu controlli almeno una Pianura, puoi lanciare lo Stratagemma di Sivvi senza pagare il suo costo di mana.
+    <text>Se un avversario controlla almeno una Montagna e tu controlli almeno una Pianura, puoi lanciare lo Stratagemma di Sivvi senza pagare il suo costo di mana. 
 Previeni tutto il danno che verrebbe inflitto in questo turno alle creature che controlli.</text>
     <flavorText>
     </flavorText>
@@ -160,7 +161,7 @@ Previeni tutto il danno che verrebbe inflitto in questo turno alle creature che 
   <item>
     <id>NMS0022</id>
     <name>Coraggio di Sivvi</name>
-    <text>Se controlli una Pianura, puoi TAPpare una creatura STAPpata che controlli anziché pagare il costo di mana del Coraggio di Sivvi.
+    <text>Se controlli una Pianura, puoi TAPpare una creatura STAPpata che controlli anziché pagare il costo di mana del Coraggio di Sivvi. 
 Tutto il danno che verrebbe inflitto a una creatura bersaglio in questo turno viene invece inflitto a te.</text>
     <flavorText>
     </flavorText>
@@ -168,7 +169,7 @@ Tutto il danno che verrebbe inflitto a una creatura bersaglio in questo turno vi
   <item>
     <id>NMS0023</id>
     <name>Rifugio Spirituale</name>
-    <text>Le creature e le terre che controlli hanno velo. (Non possono essere bersaglio di magie o abilità.)
+    <text>Le creature e le terre che controlli hanno velo. (Non possono essere bersaglio di magie o abilità.) 
 Quando una creatura che controlli attacca, sacrifica il Rifugio Spirituale.</text>
     <flavorText>
     </flavorText>
@@ -196,16 +197,16 @@ Quando una creatura che controlli attacca, sacrifica il Rifugio Spirituale.</tex
   </item>
   <item>
     <id>NMS0027</id>
-    <name>Barriera Eterea</name>
-    <text>Ogniqualvolta un giocatore lancia una magia creatura, quel giocatore sacrifica un permanente a meno che paghi {1}.</text>
-    <flavorText>
-    </flavorText>
+    <name>Æther Barrier</name>
+    <text>Whenever a player casts a creature spell, that player sacrifices a permanent unless he or she pays {1}.</text>
+    <flavorText>"Creatures fade in and out of existence. It's an unfortunate side effect. The losses are tolerable."
+—Belbe</flavorText>
   </item>
   <item>
     <id>NMS0028</id>
     <name>Vescica Aereatoria</name>
-    <text>Incanta creatura
-La creatura incantata ha volare.
+    <text>Incanta creatura 
+La creatura incantata ha volare. 
 La creatura incantata può bloccare solo creature con volare.</text>
     <flavorText>
     </flavorText>
@@ -213,14 +214,14 @@ La creatura incantata può bloccare solo creature con volare.</text>
   <item>
     <id>NMS0029</id>
     <name>Nubimanta</name>
-    <text>Volare, Svanire 3.</text>
+    <text>Volare, Svanire 3. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>NMS0030</id>
     <name>Sbalordire</name>
-    <text>Puoi far riprendere in mano al proprietario un'Isola che tu controlli anziché pagare il costo di mana dello Sbalordire.
+    <text>Puoi far riprendere in mano al proprietario un'Isola che tu controlli anziché pagare il costo di mana dello Sbalordire. 
 Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}.</text>
     <flavorText>
     </flavorText>
@@ -235,7 +236,7 @@ Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}.</text>
   <item>
     <id>NMS0032</id>
     <name>Intrappolare</name>
-    <text>Puoi far riprendere in mano al proprietario due Isole che tu controlli anziché pagare il costo di mana dell'Intrappolare.
+    <text>Puoi far riprendere in mano al proprietario due Isole che tu controlli anziché pagare il costo di mana dell'Intrappolare. 
 TAPpa tutte le creature.</text>
     <flavorText>
     </flavorText>
@@ -250,8 +251,8 @@ TAPpa tutte le creature.</text>
   <item>
     <id>NMS0034</id>
     <name>Tritone Balzante</name>
-    <text>Svanire 4
-Rimuovi un segnalino svanire dal Tritone Balzante : TAPpa una creatura bersaglio.</text>
+    <text>Svanire 4 
+Rimuovi un segnalino svanire dal Tritone Balzante : TAPpa una creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -272,8 +273,8 @@ Rimuovi un segnalino svanire dal Tritone Balzante : TAPpa una creatura bersaglio
   <item>
     <id>NMS0037</id>
     <name>Marea Parallattica</name>
-    <text>Svanire 5
-Rimuovi un segnalino svanire dalla Marea Parallattica: Esilia una terra bersaglio.
+    <text>Svanire 5 
+Rimuovi un segnalino svanire dalla Marea Parallattica: Esilia una terra bersaglio. 
 Quando la Marea Parallattica lascia il campo di battaglia, ogni giocatore rimette sul campo di battaglia tutte le carte che possiede esiliate dalla Marea Parallattica.</text>
     <flavorText>
     </flavorText>
@@ -281,7 +282,7 @@ Quando la Marea Parallattica lascia il campo di battaglia, ogni giocatore rimett
   <item>
     <id>NMS0038</id>
     <name>Alta Marea</name>
-    <text>Le terre non STAPpano durante lo STAP dei loro controllori.
+    <text>Le terre non STAPpano durante lo STAP dei loro controllori. 
 All'inizio del mantenimento di ogni giocatore, quel giocatore STAPpa una terra che controlla.</text>
     <flavorText>
     </flavorText>
@@ -289,14 +290,14 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore STAPpa una terra c
   <item>
     <id>NMS0039</id>
     <name>Commando di Morteacque</name>
-    <text>Passa-Isole (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla un'Isola.)</text>
+    <text>Passa-Isole (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla un'Isola.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>NMS0040</id>
     <name>Ladro di Morteacque</name>
-    <text>{U}: Il Ladro di Morteacque guadagna volare fino alla fine del turno.
+    <text>{U}: Il Ladro di Morteacque guadagna volare fino alla fine del turno. 
 Ogniqualvolta il Ladro di Morteacque infligge danno da combattimento a un giocatore, puoi pagare {2}. Se lo fai, passa in rassegna il grimorio di quel giocatore per una carta e esiliala, poi quel giocatore rimescola il suo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -325,7 +326,7 @@ Ogniqualvolta il Ladro di Morteacque infligge danno da combattimento a un giocat
   <item>
     <id>NMS0044</id>
     <name>Omuncolo Furtivo</name>
-    <text>L'Omuncolo Furtivo non può bloccare né essere bloccato da creature con forza pari o superiore a 2.</text>
+    <text>L'Omuncolo Furtivo non può bloccare né essere bloccato da creature con forza pari o superiore a 2. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -346,7 +347,7 @@ Ogniqualvolta il Ladro di Morteacque infligge danno da combattimento a un giocat
   <item>
     <id>NMS0047</id>
     <name>Dirigibile della Fortezza</name>
-    <text>Volare
+    <text>Volare 
 Il Dirigibile della Fortezza può bloccare solo le creature con volare.</text>
     <flavorText>
     </flavorText>
@@ -354,7 +355,7 @@ Il Dirigibile della Fortezza può bloccare solo le creature con volare.</text>
   <item>
     <id>NMS0048</id>
     <name>Sommergere</name>
-    <text>Se un avversario controlla almeno una Foresta e tu controlli almeno un'Isola, puoi lanciare il Sommergere senza pagare il suo costo di mana.
+    <text>Se un avversario controlla almeno una Foresta e tu controlli almeno un'Isola, puoi lanciare il Sommergere senza pagare il suo costo di mana. 
 Metti una creatura bersaglio in cima al grimorio del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -369,7 +370,7 @@ Metti una creatura bersaglio in cima al grimorio del suo proprietario.</text>
   <item>
     <id>NMS0050</id>
     <name>Occhio Vagante</name>
-    <text>Volare
+    <text>Volare 
 Tutti i giocatori giocano con le loro mani scoperte.</text>
     <flavorText>
     </flavorText>
@@ -377,8 +378,8 @@ Tutti i giocatori giocano con le loro mani scoperte.</text>
   <item>
     <id>NMS0051</id>
     <name>Evincaro Dominante</name>
-    <text>Volare
-Le altre creature nere prendono +1/+1.
+    <text>Volare 
+Le altre creature nere prendono +1/+1. 
 Le creature non nere prendono -1/-1.</text>
     <flavorText>
     </flavorText>
@@ -386,8 +387,8 @@ Le creature non nere prendono -1/-1.</text>
   <item>
     <id>NMS0052</id>
     <name>Rapace del Campo di Battaglia</name>
-    <text>Volare
-Il Rapace del Campo di Battaglia può bloccare solo creature con volare.
+    <text>Volare 
+Il Rapace del Campo di Battaglia può bloccare solo creature con volare. 
 {1}{B}: Il Rapace del Campo di Battaglia prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -395,7 +396,7 @@ Il Rapace del Campo di Battaglia può bloccare solo creature con volare.
   <item>
     <id>NMS0053</id>
     <name>Rapace di Belbe</name>
-    <text>Volare
+    <text>Volare 
 Il Rapace di Belbe può bloccare solo creature con volare.</text>
     <flavorText>
     </flavorText>
@@ -403,7 +404,7 @@ Il Rapace di Belbe può bloccare solo creature con volare.</text>
   <item>
     <id>NMS0054</id>
     <name>Muro di Carogne</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {1}{B}: Rigenera il Muro di Carogne.</text>
     <flavorText>
     </flavorText>
@@ -411,7 +412,7 @@ Il Rapace di Belbe può bloccare solo creature con volare.</text>
   <item>
     <id>NMS0055</id>
     <name>Trionfo Oscuro</name>
-    <text>Se controlli una Palude, puoi sacrificare una creatura anziché pagare il costo di mana del Trionfo Oscuro.
+    <text>Se controlli una Palude, puoi sacrificare una creatura anziché pagare il costo di mana del Trionfo Oscuro. 
 Le creature che controlli prendono +2/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -419,7 +420,7 @@ Le creature che controlli prendono +2/+0 fino alla fine del turno.</text>
   <item>
     <id>NMS0056</id>
     <name>Offerta per la Fossa della Morte</name>
-    <text>Quando l'Offerta per la Fossa della Morte entra nel campo di battaglia, sacrifica tutte le creature che controlli.
+    <text>Quando l'Offerta per la Fossa della Morte entra nel campo di battaglia, sacrifica tutte le creature che controlli. 
 Le creature che controlli prendono +2/+2.</text>
     <flavorText>
     </flavorText>
@@ -434,8 +435,8 @@ Le creature che controlli prendono +2/+2.</text>
   <item>
     <id>NMS0058</id>
     <name>Strage</name>
-    <text>Se un avversario controlla una Pianura e tu controlli una Palude, puoi lanciare la Strage senza pagare il suo costo di mana.
-Tutte le creature prendono -2/-2 fino alla fine del turno. [Oracle 2003/07/01]</text>
+    <text>Se un avversario controlla una Pianura e tu controlli una Palude, puoi lanciare la Strage senza pagare il suo costo di mana. 
+Tutte le creature prendono -2/-2 fino alla fine del turno. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -449,8 +450,8 @@ Tutte le creature prendono -2/-2 fino alla fine del turno. [Oracle 2003/07/01]</
   <item>
     <id>NMS0060</id>
     <name>Spade Mentali</name>
-    <text>Se controlli una Palude, puoi sacrificare una creatura invece di pagare il costo di mana delle Spade Mentali.
-Ogni giocatore esilia due carte della propria mano. [Oracle 2003/07/01]</text>
+    <text>Se controlli una Palude, puoi sacrificare una creatura invece di pagare il costo di mana delle Spade Mentali. 
+Ogni giocatore esilia due carte della propria mano. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -464,9 +465,9 @@ Ogni giocatore esilia due carte della propria mano. [Oracle 2003/07/01]</text>
   <item>
     <id>NMS0062</id>
     <name>Pazzia Parallattica</name>
-    <text>Incanta creatura
-Svanire 1
-La creatura incantata prende +3/+2.
+    <text>Incanta creatura 
+Svanire 1 
+La creatura incantata prende +3/+2. 
 Quando la Pazzia Parallattica lascia il campo di battaglia, distruggi la creatura incantata. Quella creatura non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -474,8 +475,8 @@ Quando la Pazzia Parallattica lascia il campo di battaglia, distruggi la creatur
   <item>
     <id>NMS0063</id>
     <name>Connessione Parallattica</name>
-    <text>Svanire 5
-Rimuovi un segnalino svanire dalla Connessione Parallattica: L'avversario bersaglio esilia una carta dalla sua mano. Attiva questa abilità solo quando potresti lanciare una stregoneria.
+    <text>Svanire 5 
+Rimuovi un segnalino svanire dalla Connessione Parallattica: L'avversario bersaglio esilia una carta dalla sua mano. Attiva questa abilità solo quando potresti lanciare una stregoneria. 
 Quando la Connessione Parallattica lascia il campo di battaglia, ogni giocatore riprende in mano tutte le carte che possiede esiliate dalla Connessione Parallattica.</text>
     <flavorText>
     </flavorText>
@@ -490,7 +491,7 @@ Quando la Connessione Parallattica lascia il campo di battaglia, ogni giocatore 
   <item>
     <id>NMS0065</id>
     <name>Predatore di Phyrexia</name>
-    <text>Svanire 3
+    <text>Svanire 3 
 Rimuovi un segnalino svanire dal Predatore di Phyrexia: Il Predatore di Phyrexia prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -505,7 +506,7 @@ Rimuovi un segnalino svanire dal Predatore di Phyrexia: Il Predatore di Phyrexia
   <item>
     <id>NMS0067</id>
     <name>Assassina di Rath</name>
-    <text>{1}{B}{B}, {T}: Distruggi una creatura non nera TAPpata bersaglio.
+    <text>{1}{B}{B}, {T}: Distruggi una creatura non nera TAPpata bersaglio. 
 {3}, {T}: Passa in rassegna il tuo grimorio per una carta permanente Mercenario con costo di mana convertito pari o inferiore a 3 e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -513,7 +514,7 @@ Rimuovi un segnalino svanire dal Predatore di Phyrexia: Il Predatore di Phyrexia
   <item>
     <id>NMS0068</id>
     <name>Demone di Rath</name>
-    <text>Quando il Demone di Rath entra nel campo di battaglia, ogni giocatore perde 3 punti vita.
+    <text>Quando il Demone di Rath entra nel campo di battaglia, ogni giocatore perde 3 punti vita. 
 {3}, {T}: Passa in rassegna il tuo grimorio per una carta permanente Mercenario con costo di mana convertito pari o inferiore a 3 e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -521,7 +522,7 @@ Rimuovi un segnalino svanire dal Predatore di Phyrexia: Il Predatore di Phyrexia
   <item>
     <id>NMS0069</id>
     <name>Intimidatore di Rath</name>
-    <text>Paura
+    <text>Paura 
 {2}, {T}: Passa in rassegna il tuo grimorio per una carta permanente Mercenario con costo di mana convertito pari o inferiore a 2 e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -536,7 +537,7 @@ Rimuovi un segnalino svanire dal Predatore di Phyrexia: Il Predatore di Phyrexia
   <item>
     <id>NMS0071</id>
     <name>Thug Codardo</name>
-    <text>Il Thug Codardo non può bloccare.</text>
+    <text>Il Thug Codardo non può bloccare. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -550,14 +551,14 @@ Rimuovi un segnalino svanire dal Predatore di Phyrexia: Il Predatore di Phyrexia
   <item>
     <id>NMS0073</id>
     <name>Disciplina della Fortezza</name>
-    <text>Ogni giocatore perde 1 punto vita per ogni creatura che controlla.</text>
+    <text>Ogni giocatore perde 1 punto vita per ogni creatura che controlla. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>NMS0074</id>
     <name>Appetito Perverso</name>
-    <text>L'Appetito Perverso infligge 2 danni a una creatura bersaglio e tu guadagni 2 punti vita.</text>
+    <text>L'Appetito Perverso infligge 2 danni a una creatura bersaglio e tu guadagni 2 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -571,7 +572,7 @@ Rimuovi un segnalino svanire dal Predatore di Phyrexia: Il Predatore di Phyrexia
   <item>
     <id>NMS0076</id>
     <name>Idra Antica</name>
-    <text>Svanire 5
+    <text>Svanire 5 
 {1}, Rimuovi un segnalino svanire dall'Idra Antica: L'Idra Antica infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -579,7 +580,7 @@ Rimuovi un segnalino svanire dal Predatore di Phyrexia: Il Predatore di Phyrexia
   <item>
     <id>NMS0077</id>
     <name>Arci Mago</name>
-    <text>{2}{R}, {T}, Scarta una carta: L'Arci Mago infligge 2 danni suddivisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio.</text>
+    <text>{2}{R}, {T}, Scarta una carta: L'Arci Mago infligge 2 danni suddivisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -593,7 +594,7 @@ Rimuovi un segnalino svanire dal Predatore di Phyrexia: Il Predatore di Phyrexia
   <item>
     <id>NMS0079</id>
     <name>Carica dall'Alto</name>
-    <text>Puoi sacrificare una Montagna anziché pagare il costo di mana della Carica dall'Alto.
+    <text>Puoi sacrificare una Montagna anziché pagare il costo di mana della Carica dall'Alto. 
 La creatura bersaglio prende +X/+0 fino alla fine del turno, dove X è il numero di Montagne che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -622,7 +623,7 @@ La creatura bersaglio prende +X/+0 fino alla fine del turno, dove X è il numero
   <item>
     <id>NMS0083</id>
     <name>Valanga di Mutaroccia</name>
-    <text>Tutte le creature prendono +X/-X fino alla fine del turno.</text>
+    <text>Tutte le creature prendono +X/-X fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -643,7 +644,7 @@ La creatura bersaglio prende +X/+0 fino alla fine del turno, dove X è il numero
   <item>
     <id>NMS0086</id>
     <name>Muro di Mutaroccia</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {R}: Il Muro di Mutaroccia prende +1/-1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -658,7 +659,7 @@ La creatura bersaglio prende +X/+0 fino alla fine del turno, dove X è il numero
   <item>
     <id>NMS0088</id>
     <name>Macchinario di Laccolite</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta la creatura incantata diventa bloccata, puoi scegliere di farle infliggere un danno pari alla propria forza a una creatura bersaglio. Se lo fai, la prima creatura non infligge danno da combattimento in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -687,7 +688,7 @@ Ogniqualvolta la creatura incantata diventa bloccata, puoi scegliere di farle in
   <item>
     <id>NMS0092</id>
     <name>Nascondiglio del Mana</name>
-    <text>All'inizio della sottofase finale di ogni giocatore, metti un segnalino carica sul Nascondiglio del Mana per ogni terra STAPpata che quel giocatore controlla.
+    <text>All'inizio della sottofase finale di ogni giocatore, metti un segnalino carica sul Nascondiglio del Mana per ogni terra STAPpata che quel giocatore controlla. 
 Rimuovi un segnalino carica dal Nascondiglio del Mana : Aggiungi {1} alla tua riserva di mana. Qualsiasi giocatore può attivare questa abilità, ma solo durante il proprio turno prima della fase finale.</text>
     <flavorText>
     </flavorText>
@@ -695,23 +696,23 @@ Rimuovi un segnalino carica dal Nascondiglio del Mana : Aggiungi {1} alla tua ri
   <item>
     <id>NMS0093</id>
     <name>Allarme Mogg</name>
-    <text>Puoi sacrificare due Montagne invece di pagare il costo di mana dell'Allarme Mogg.
-Metti sul campo di battaglia due pedine creatura Goblin 1/1 rosse. [Oracle 2003/07/01]</text>
+    <text>Puoi sacrificare due Montagne invece di pagare il costo di mana dell'Allarme Mogg. 
+Metti sul campo di battaglia due pedine creatura Goblin 1/1 rosse. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>NMS0094</id>
     <name>Bottino Mogg</name>
-    <text>Se un avversario controlla almeno un'Isola e tu controlli almeno una Montagna, puoi lanciare il Bottino Mogg senza pagare il suo costo di mana.
-Distruggi un artefatto bersaglio. [Oracle 2003/07/01]</text>
+    <text>Se un avversario controlla almeno un'Isola e tu controlli almeno una Montagna, puoi lanciare il Bottino Mogg senza pagare il suo costo di mana. 
+Distruggi un artefatto bersaglio. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>NMS0095</id>
     <name>Mogg Servile</name>
-    <text>Il Mogg Servile non può attaccare a meno che tu controlli più creature del giocatore in difesa.
+    <text>Il Mogg Servile non può attaccare a meno che tu controlli più creature del giocatore in difesa. 
 Il Mogg Servile non può bloccare a meno che tu controlli più creature del giocatore attaccante.</text>
     <flavorText>
     </flavorText>
@@ -740,7 +741,7 @@ Il Mogg Servile non può bloccare a meno che tu controlli più creature del gioc
   <item>
     <id>NMS0099</id>
     <name>Mogg Strillante</name>
-    <text>Rapidità
+    <text>Rapidità 
 Quando il Mogg Strillante entra nel campo di battaglia, TAPpa tutte le altre creature.</text>
     <flavorText>
     </flavorText>
@@ -762,8 +763,8 @@ Quando il Mogg Strillante entra nel campo di battaglia, TAPpa tutte le altre cre
   <item>
     <id>NMS0102</id>
     <name>Blastoderma</name>
-    <text>Velo (Questo permanente non può essere bersaglio di magie o abilità.)
-Svanire 3</text>
+    <text>Velo (Questo permanente non può essere bersaglio di magie o abilità.) 
+Svanire 3 </text>
     <flavorText>
     </flavorText>
   </item>
@@ -777,7 +778,7 @@ Svanire 3</text>
   <item>
     <id>NMS0104</id>
     <name>Lembo di Nebbia</name>
-    <text>Lancia il Lembo di Nebbia solo durante la dichiarazione dei bloccanti.
+    <text>Lancia il Lembo di Nebbia solo durante la dichiarazione dei bloccanti. 
 Le creature attaccanti diventano bloccate. (Questa magia funziona anche sulle creature non bloccabili)</text>
     <flavorText>
     </flavorText>
@@ -799,7 +800,7 @@ Le creature attaccanti diventano bloccate. (Questa magia funziona anche sulle cr
   <item>
     <id>NMS0107</id>
     <name>Wurm Annidato</name>
-    <text>Travolgere
+    <text>Travolgere 
 Quando il Wurm Annidato entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per un massimo di 3 carte Wurm Annidato, rivelarle e aggiungerle alla tua mano. Se lo fai, rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -807,7 +808,7 @@ Quando il Wurm Annidato entra nel campo di battaglia, puoi passare in rassegna i
   <item>
     <id>NMS0108</id>
     <name>Terreno Gravato</name>
-    <text>Mentre il Terreno Gravato entra nel campo di battaglia, sacrifica tutte le terre che controlli.
+    <text>Mentre il Terreno Gravato entra nel campo di battaglia, sacrifica tutte le terre che controlli. 
 Le terre che controlli hanno "{T}: Aggiungi due mana di un qualsiasi colore alla tua riserva di mana."</text>
     <flavorText>
     </flavorText>
@@ -822,7 +823,7 @@ Le terre che controlli hanno "{T}: Aggiungi due mana di un qualsiasi colore alla
   <item>
     <id>NMS0110</id>
     <name>Pioggia Rinfrescante</name>
-    <text>Se un avversario controlla almeno una Palude e tu controlli almeno una Foresta, puoi lanciare la Pioggia Rinfrescante senza pagare il suo costo di mana.
+    <text>Se un avversario controlla almeno una Palude e tu controlli almeno una Foresta, puoi lanciare la Pioggia Rinfrescante senza pagare il suo costo di mana. 
 Il giocatore bersaglio guadagna 6 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -830,7 +831,7 @@ Il giocatore bersaglio guadagna 6 punti vita.</text>
   <item>
     <id>NMS0111</id>
     <name>Silenzio Reverenziale</name>
-    <text>Se controlli una Foresta, puoi fare guadagnare 6 punti vita a ogni altro giocatore anziché pagare il costo di mana del Silenzio Reverenziale.
+    <text>Se controlli una Foresta, puoi fare guadagnare 6 punti vita a ogni altro giocatore anziché pagare il costo di mana del Silenzio Reverenziale. 
 Distruggi tutti gli incantesimi.</text>
     <flavorText>
     </flavorText>
@@ -838,16 +839,16 @@ Distruggi tutti gli incantesimi.</text>
   <item>
     <id>NMS0112</id>
     <name>Rhox</name>
-    <text>Puoi fare assegnare dal Rhox il suo danno da combattimento come se non fosse bloccato.
-{2}{G}: Rigenera il Rhox. (La prossima volta che questa creatura sta per essere distrutta in questo turno, non viene distrutta. Invece TAPpala, rimuovi da essa tutto il danno e rimuovila dal combattimento.)</text>
+    <text>Puoi fare assegnare dal Rhox il suo danno da combattimento come se non fosse bloccato. 
+{2}{G}: Rigenera il Rhox. (La prossima volta che questa creatura sta per essere distrutta in questo turno, non viene distrutta. Invece TAPpala, rimuovi da essa tutto il danno e rimuovila dal combattimento.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>NMS0113</id>
     <name>Esplosione di Saprolingi</name>
-    <text>Svanire 7
-Rimuovi un segnalino svanire dall'Esplosione di Saprolingi: Metti sul campo di battaglia una pedina creatura Saprolingio verde. Essa ha "La forza e la costituzione di questa creatura sono pari ciascuna al numero di segnalini svanire presenti sull'Esplosione di Saprolingi".
+    <text>Svanire 7 
+Rimuovi un segnalino svanire dall'Esplosione di Saprolingi: Metti sul campo di battaglia una pedina creatura Saprolingio verde. Essa ha "La forza e la costituzione di questa creatura sono pari ciascuna al numero di segnalini svanire presenti sull'Esplosione di Saprolingi". 
 Quando l'Esplosione di Saprolingi lascia il campo di battaglia, distruggi tutte le pedine messe sul campo di battaglia dall'Esplosione di Saprolingi. Non possono essere rigenerate.</text>
     <flavorText>
     </flavorText>
@@ -869,7 +870,7 @@ Quando l'Esplosione di Saprolingi lascia il campo di battaglia, distruggi tutte 
   <item>
     <id>NMS0116</id>
     <name>Behemoth di Cielsudario</name>
-    <text>Svanire 2
+    <text>Svanire 2 
 Il Behemoth di Cielsudario entra nel campo di battaglia TAPpato.</text>
     <flavorText>
     </flavorText>
@@ -919,7 +920,7 @@ Il Behemoth di Cielsudario entra nel campo di battaglia TAPpato.</text>
   <item>
     <id>NMS0123</id>
     <name>Sostegni Arboricoli</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
 La creatura incantata prende +1/+1 e non può essere bloccata tranne che dalle creature con volare.</text>
     <flavorText>
     </flavorText>
@@ -934,7 +935,7 @@ La creatura incantata prende +1/+1 e non può essere bloccata tranne che dalle c
   <item>
     <id>NMS0125</id>
     <name>Squartalegno</name>
-    <text>Svanire 3
+    <text>Svanire 3 
 {1}, Rimuovi un segnalino svanire dallo Squartalegno: Distruggi un artefatto bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -949,7 +950,7 @@ La creatura incantata prende +1/+1 e non può essere bloccata tranne che dalle c
   <item>
     <id>NMS0127</id>
     <name>Portale di Belbe</name>
-    <text>Mentre il Portale di Belbe entra nel campo di battaglia, scegli un tipo di creatura.
+    <text>Mentre il Portale di Belbe entra nel campo di battaglia, scegli un tipo di creatura. 
 {3}, {T}: Puoi mettere una carta creatura del tipo scelto dalla tua mano sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -978,7 +979,7 @@ La creatura incantata prende +1/+1 e non può essere bloccata tranne che dalle c
   <item>
     <id>NMS0131</id>
     <name>Armatura di Mutaroccia</name>
-    <text>Puoi scegliere di non STAPpare l'Armatura di Mutaroccia durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare l'Armatura di Mutaroccia durante il tuo STAP. 
 {3}, {T}: La creatura bersaglio prende +1/-1 fintanto che l'Armatura di Mutaroccia resta TAPpata.</text>
     <flavorText>
     </flavorText>
@@ -1007,7 +1008,7 @@ La creatura incantata prende +1/+1 e non può essere bloccata tranne che dalle c
   <item>
     <id>NMS0135</id>
     <name>Predatrice, Nave Ammiraglia</name>
-    <text>{2}: Una creatura bersaglio guadagna volare fino alla fine del turno.
+    <text>{2}: Una creatura bersaglio guadagna volare fino alla fine del turno. 
 {5}, {T}: Distruggi una creatura bersaglio con volare.</text>
     <flavorText>
     </flavorText>
@@ -1022,7 +1023,7 @@ La creatura incantata prende +1/+1 e non può essere bloccata tranne che dalle c
   <item>
     <id>NMS0137</id>
     <name>Camera di Ringiovanimento</name>
-    <text>Svanire 2
+    <text>Svanire 2 
 {T}: Guadagni 2 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -1030,7 +1031,7 @@ La creatura incantata prende +1/+1 e non può essere bloccata tranne che dalle c
   <item>
     <id>NMS0138</id>
     <name>Golem Arrugginito</name>
-    <text>Svanire 5
+    <text>Svanire 5 
 La forza e la costituzione del Golem Arrugginito sono pari ciascuna al numero di segnalini svanire su di esso.</text>
     <flavorText>
     </flavorText>
@@ -1038,7 +1039,7 @@ La forza e la costituzione del Golem Arrugginito sono pari ciascuna al numero di
   <item>
     <id>NMS0139</id>
     <name>Cavo Intrappolante</name>
-    <text>Svanire 4
+    <text>Svanire 4 
 All'inizio del mantenimento di ogni giocatore, quel giocatore TAPpa un artefatto, una creatura o una terra STAPpata che controlla per ogni segnalino svanire presente sul Cavo Intrappolante.</text>
     <flavorText>
     </flavorText>
@@ -1053,7 +1054,7 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore TAPpa un artefatto
   <item>
     <id>NMS0141</id>
     <name>Rifugio Kor</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {1}{W}, {T}: Previeni tutto il danno da combattimento che verrebbe inflitto dalla creatura attaccante bersaglio in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -1061,7 +1062,7 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore TAPpa un artefatto
   <item>
     <id>NMS0142</id>
     <name>Confine di Rath</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {4}, {T}, Sacrifica una terra: Il Confine di Rath infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1069,7 +1070,7 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore TAPpa un artefatto
   <item>
     <id>NMS0143</id>
     <name>Generatore di Terreno</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {2}, {T}: Puoi mettere una carta terra base dalla tua mano sul campo di battaglia TAPpata.</text>
     <flavorText>
     </flavorText>

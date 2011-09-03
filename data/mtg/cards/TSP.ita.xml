@@ -9,14 +9,14 @@
   <item>
     <id>TSP0002</id>
     <name>Cercatori di Amrou</name>
-    <text>I Cercatori di Amrou non possono essere bloccati tranne che da creature artefatto e/o creature bianche.</text>
+    <text>I Cercatori di Amrou non possono essere bloccati tranne che da creature artefatto e/o creature bianche. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0003</id>
     <name>Grazia dell'Angelo</name>
-    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.) 
+    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.)  
 In questo turno, non puoi perdere la partita e i tuoi avversari non possono vincere la partita. Fino alla fine del turno, qualsiasi danno che ridurrebbe i tuoi punti vita a meno di 1 li riduce invece a 1.</text>
     <flavorText>
     </flavorText>
@@ -31,7 +31,7 @@ In questo turno, non puoi perdere la partita e i tuoi avversari non possono vinc
   <item>
     <id>TSP0005</id>
     <name>Raptor del Castello</name>
-    <text>Volare
+    <text>Volare 
 Fintanto che i Raptor del Castello sono STAPpati, prendono +0/+2.</text>
     <flavorText>
     </flavorText>
@@ -39,7 +39,7 @@ Fintanto che i Raptor del Castello sono STAPpati, prendono +0/+2.</text>
   <item>
     <id>TSP0006</id>
     <name>Capitano di Cavalleria</name>
-    <text>Aggirare
+    <text>Aggirare 
 Le altre creature che controlli con aggirare hanno aggirare. (Ogni istanza di aggirare si innesca separatamente.)</text>
     <flavorText>
     </flavorText>
@@ -47,9 +47,9 @@ Le altre creature che controlli con aggirare hanno aggirare. (Ogni istanza di ag
   <item>
     <id>TSP0007</id>
     <name>Crociato Celestiale</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.)
-Volare
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.) 
+Volare 
 Le altre creature bianche prendono +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -71,8 +71,8 @@ Le altre creature bianche prendono +1/+1.</text>
   <item>
     <id>TSP0010</id>
     <name>Gheppio Caccianubi</name>
-    <text>Volare
-Quando il Gheppio Caccianubi entra nel campo di battaglia, distruggi un incantesimo bersaglio.
+    <text>Volare 
+Quando il Gheppio Caccianubi entra nel campo di battaglia, distruggi un incantesimo bersaglio. 
 {W} : Un permanente bersaglio diventa bianco fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -80,7 +80,7 @@ Quando il Gheppio Caccianubi entra nel campo di battaglia, distruggi un incantes
   <item>
     <id>TSP0011</id>
     <name>Guaritrice D'Avenant</name>
-    <text>{T}: La Guaritrice D'Avenant infligge 1 danno a una creatura attaccante o bloccante bersaglio.
+    <text>{T}: La Guaritrice D'Avenant infligge 1 danno a una creatura attaccante o bloccante bersaglio. 
 {T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -88,8 +88,8 @@ Quando il Gheppio Caccianubi entra nel campo di battaglia, distruggi un incantes
   <item>
     <id>TSP0012</id>
     <name>Magia di Detenzione</name>
-    <text>Incanta creatura
-Le abilità attivate della creatura incantata non possono essere attivate.
+    <text>Incanta creatura 
+Le abilità attivate della creatura incantata non possono essere attivate. 
 {1}{W}: Assegna la Magia di Detenzione a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -97,7 +97,7 @@ Le abilità attivate della creatura incantata non possono essere attivate.
   <item>
     <id>TSP0013</id>
     <name>Adunanza Divina</name>
-    <text>Guadagni 2 punti vita per ogni creatura controllata da un giocatore bersaglio.
+    <text>Guadagni 2 punti vita per ogni creatura controllata da un giocatore bersaglio. 
 Sospendere 5-{1}{W} (Invece di lanciare questa carta dalla tua mano, puoi pagare {1}{W} e esiliarla con cinque segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lanciala senza pagare il suo costo di mana.)</text>
     <flavorText>
     </flavorText>
@@ -105,7 +105,7 @@ Sospendere 5-{1}{W} (Invece di lanciare questa carta dalla tua mano, puoi pagare
   <item>
     <id>TSP0014</id>
     <name>Falco Pellegrino dell'Imbrunire</name>
-    <text>Volare, protezione dal nero
+    <text>Volare, protezione dal nero 
 Sospendere 3-{1}{W} (Invece di lanciare questa carta dalla tua mano, puoi pagare {1}{W} e esiliarla con tre segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lanciala senza pagare il suo costo di mana. Ha rapidità.)</text>
     <flavorText>
     </flavorText>
@@ -120,15 +120,15 @@ Sospendere 3-{1}{W} (Invece di lanciare questa carta dalla tua mano, puoi pagare
   <item>
     <id>TSP0016</id>
     <name>Evangelizzare</name>
-    <text>Riscatto {2}{W}{W}
-Guadagni il controllo di una creatura bersaglio scelta da un avversario che la controlla.</text>
+    <text>Riscatto {2}{W}{W} 
+Guadagni il controllo di una creatura bersaglio scelta da un avversario che la controlla. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0017</id>
     <name>Spirito Guizzante</name>
-    <text>Volare
+    <text>Volare 
 {3}{W}: Esilia lo Spirito Guizzante, poi rimettilo nel campo di battaglia sotto il controllo del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -136,8 +136,8 @@ Guadagni il controllo di una creatura bersaglio scelta da un avversario che la c
   <item>
     <id>TSP0018</id>
     <name>Intercettatore di Foriys</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Difensore
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Difensore 
 L'Intercettatore di Foriys può bloccare una creatura addizionale.</text>
     <flavorText>
     </flavorText>
@@ -145,15 +145,15 @@ L'Intercettatore di Foriys può bloccare una creatura addizionale.</text>
   <item>
     <id>TSP0019</id>
     <name>Rafforzare</name>
-    <text>Scegli una - Le creature che controlli prendono +2/+0 fino alla fine del turno; oppure le creature che controlli prendono +0/+2 fino alla fine del turno.</text>
+    <text>Scegli una - Le creature che controlli prendono +2/+0 fino alla fine del turno; oppure le creature che controlli prendono +0/+2 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0020</id>
     <name>Sguardo della Giustizia</name>
-    <text>Come costo addizionale per lanciare lo Sguardo della Giustizia, TAPpa tre creature bianche STAPpate che controlli.
-Esilia una creatura bersaglio.
+    <text>Come costo addizionale per lanciare lo Sguardo della Giustizia, TAPpa tre creature bianche STAPpate che controlli. 
+Esilia una creatura bersaglio. 
 Flashback {5}{W}</text>
     <flavorText>
     </flavorText>
@@ -161,8 +161,8 @@ Flashback {5}{W}</text>
   <item>
     <id>TSP0021</id>
     <name>Guida dei Grifoni</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/+2 e ha volare.
+    <text>Incanta creatura 
+La creatura incantata prende +2/+2 e ha volare. 
 Quando la creatura incantata viene messa in un cimitero, metti sul campo di battaglia una pedina creatura Grifone 2/2 bianca con volare.</text>
     <flavorText>
     </flavorText>
@@ -170,8 +170,8 @@ Quando la creatura incantata viene messa in un cimitero, metti sul campo di batt
   <item>
     <id>TSP0022</id>
     <name>Cavaliere di Mantovento</name>
-    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.)
-Ogniqualvolta il Cavaliere di Mantovento attacca, puoi TAPpare una creatura bersaglio.
+    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.) 
+Ogniqualvolta il Cavaliere di Mantovento attacca, puoi TAPpare una creatura bersaglio. 
 Ogniqualvolta il Cavaliere di Mantovento viene bloccato, puoi STAPpare il Cavaliere di Mantovento e rimuoverlo dal combattimento.</text>
     <flavorText>
     </flavorText>
@@ -186,7 +186,7 @@ Ogniqualvolta il Cavaliere di Mantovento viene bloccato, puoi STAPpare il Cavali
   <item>
     <id>TSP0024</id>
     <name>Gigante d'Avorio</name>
-    <text>Quando il Gigante d'Avorio entra nel campo di battaglia, TAPpa tutte le creature non bianche.
+    <text>Quando il Gigante d'Avorio entra nel campo di battaglia, TAPpa tutte le creature non bianche. 
 Sospendere 5-{W} (Invece di lanciare questa carta dalla tua mano, puoi pagare {W} e esiliarla con cinque segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana. Ha rapidità.)</text>
     <flavorText>
     </flavorText>
@@ -194,7 +194,7 @@ Sospendere 5-{W} (Invece di lanciare questa carta dalla tua mano, puoi pagare {W
   <item>
     <id>TSP0025</id>
     <name>Dragoni di Jedit</name>
-    <text>Cautela
+    <text>Cautela 
 Quando i Dragoni di Jedit entrano nel campo di battaglia, guadagni 4 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -202,8 +202,8 @@ Quando i Dragoni di Jedit entrano nel campo di battaglia, guadagni 4 punti vita.
   <item>
     <id>TSP0026</id>
     <name>Cavaliere della Sacra Aureola</name>
-    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.)
-Se il Cavaliere della Sacra Aureola sta per essere distrutto, rigeneralo.
+    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.) 
+Se il Cavaliere della Sacra Aureola sta per essere distrutto, rigeneralo. 
 {2} : Il Cavaliere della Sacra Aureola non può essere rigenerato in questo turno. Solo gli avversari possono attivare questa abilità.</text>
     <flavorText>
     </flavorText>
@@ -211,7 +211,7 @@ Se il Cavaliere della Sacra Aureola sta per essere distrutto, rigeneralo.
   <item>
     <id>TSP0027</id>
     <name>Magus del Disco</name>
-    <text>Il Magus del Disco entra nel campo di battaglia TAPpato.
+    <text>Il Magus del Disco entra nel campo di battaglia TAPpato. 
 {1}, {T}: Distruggi tutti gli artefatti, le creature e gli incantesimi.</text>
     <flavorText>
     </flavorText>
@@ -226,7 +226,7 @@ Se il Cavaliere della Sacra Aureola sta per essere distrutto, rigeneralo.
   <item>
     <id>TSP0029</id>
     <name>Intermittenza Momentanea</name>
-    <text>Esilia una creatura bersaglio che controlli, poi rimettila sul campo di battaglia sotto il controllo del suo proprietario.
+    <text>Esilia una creatura bersaglio che controlli, poi rimettila sul campo di battaglia sotto il controllo del suo proprietario. 
 Flashback {3}{U} (Puoi lanciare questa carta dal tuo cimitero pagando il suo costo di flashback. Poi esiliala).</text>
     <flavorText>
     </flavorText>
@@ -241,7 +241,7 @@ Flashback {3}{U} (Puoi lanciare questa carta dal tuo cimitero pagando il suo cos
   <item>
     <id>TSP0031</id>
     <name>Apripista en-Kor</name>
-    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.)
+    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.) 
 {0}: Il prossimo punto danno che verrebbe inflitto all'Apripista en-Kor in questo turno viene invece inflitto a una creatura bersaglio che controlli.</text>
     <flavorText>
     </flavorText>
@@ -249,8 +249,8 @@ Flashback {3}{U} (Puoi lanciare questa carta dal tuo cimitero pagando il suo cos
   <item>
     <id>TSP0032</id>
     <name>Paladino Pentarca</name>
-    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.)
-Mentre il Paladino Pentarca entra nel campo di battaglia, scegli un colore.
+    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.) 
+Mentre il Paladino Pentarca entra nel campo di battaglia, scegli un colore. 
 {W}{W}, {T}: Distruggi un permanente bersaglio del colore scelto.</text>
     <flavorText>
     </flavorText>
@@ -258,18 +258,18 @@ Mentre il Paladino Pentarca entra nel campo di battaglia, scegli un colore.
   <item>
     <id>TSP0033</id>
     <name>Sigillo del Pentarca</name>
-    <text>Incanta creatura
-Mentre il Sigillo del Pentarca entra nel campo di battaglia, scegli un colore.
-Quando il Sigillo del Pentarca entra nel campo di battaglia, pesca una carta.
-La creatura incantata ha protezione dal colore scelto. Questo effetto non rimuove il Sigillo del Pentarca.</text>
+    <text>Incanta creatura 
+Mentre il Sigillo del Pentarca entra nel campo di battaglia, scegli un colore. 
+Quando il Sigillo del Pentarca entra nel campo di battaglia, pesca una carta. 
+La creatura incantata ha protezione dal colore scelto. Questo effetto non rimuove il Sigillo del Pentarca. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0034</id>
     <name>Pegaso Catafratto</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Volare
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Volare 
 Se una magia sta per infliggere danno a una creatura o a un giocatore, previeni 1 danno che quella magia sta per infliggere a quella creatura o a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -284,7 +284,7 @@ Se una magia sta per infliggere danno a una creatura o a un giocatore, previeni 
   <item>
     <id>TSP0036</id>
     <name>Tramutante Polmonare</name>
-    <text>Tutte le creature Tramutante hanno volare.
+    <text>Tutte le creature Tramutante hanno volare. 
 Tutti i Tramutanti hanno "Se questo permanente sta per essere messo in un cimitero, puoi invece metterlo in cima al grimorio del suo proprietario."</text>
     <flavorText>
     </flavorText>
@@ -299,8 +299,8 @@ Tutti i Tramutanti hanno "Se questo permanente sta per essere messo in un cimite
   <item>
     <id>TSP0038</id>
     <name>Ripristinare Equilibrio</name>
-    <text>Ripristinare Equilibrio è bianco.
-Sospendere 6-{W}
+    <text>Ripristinare Equilibrio è bianco. 
+Sospendere 6-{W} 
 Ogni giocatore sceglie un numero di terre che controlla pari al numero di terre controllate dal giocatore che ne controlla di meno, poi sacrifica le rimanenti. I giocatori scartano le carte e sacrificano le creature allo stesso modo.</text>
     <flavorText>
     </flavorText>
@@ -315,7 +315,7 @@ Ogni giocatore sceglie un numero di terre che controlla pari al numero di terre 
   <item>
     <id>TSP0040</id>
     <name>Vendicatrice di Serra</name>
-    <text>Non puoi lanciare la Vendicatrice di Serra durante il tuo primo, secondo o terzo turno della partita.
+    <text>Non puoi lanciare la Vendicatrice di Serra durante il tuo primo, secondo o terzo turno della partita. 
 Volare, cautela</text>
     <flavorText>
     </flavorText>
@@ -330,8 +330,8 @@ Volare, cautela</text>
   <item>
     <id>TSP0042</id>
     <name>Ciclo Spirituale</name>
-    <text>Incanta creatura che controlli
-Ogniqualvolta la creatura incantata infligge danno, tu guadagni altrettanti punti vita.
+    <text>Incanta creatura che controlli 
+Ogniqualvolta la creatura incantata infligge danno, tu guadagni altrettanti punti vita. 
 Quando il Ciclo Spirituale viene messo in un cimitero dal campo di battaglia, il proprietario riprende in mano il Ciclo Spirituale.</text>
     <flavorText>
     </flavorText>
@@ -339,9 +339,9 @@ Quando il Ciclo Spirituale viene messo in un cimitero dal campo di battaglia, il
   <item>
     <id>TSP0043</id>
     <name>Isolamento Temporale</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Incanta creatura
-La creatura incantata ha ombra. (Può bloccare o essere bloccato solo da creature con ombra.)
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Incanta creatura 
+La creatura incantata ha ombra. (Può bloccare o essere bloccato solo da creature con ombra.) 
 Previeni tutto il danno che verrebbe inflitto dalla creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -349,7 +349,7 @@ Previeni tutto il danno che verrebbe inflitto dalla creatura incantata.</text>
   <item>
     <id>TSP0044</id>
     <name>Tivadar di Thorn</name>
-    <text>Attacco improvviso, protezione dal rosso
+    <text>Attacco improvviso, protezione dal rosso 
 Quando Tivadar di Thorn entra nel campo di battaglia, distruggi un Goblin bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -364,7 +364,7 @@ Quando Tivadar di Thorn entra nel campo di battaglia, distruggi un Goblin bersag
   <item>
     <id>TSP0046</id>
     <name>Guardie del Corpo Navigate</name>
-    <text>Fintanto che le Guardie del Corpo Navigate sono STAPpate, tutto il danno da combattimento che ti verrebbe inflitto da creature non bloccate viene invece inflitto alle Guardie del Corpo Navigate.
+    <text>Fintanto che le Guardie del Corpo Navigate sono STAPpate, tutto il danno da combattimento che ti verrebbe inflitto da creature non bloccate viene invece inflitto alle Guardie del Corpo Navigate. 
 Metamorfosi {3}{W} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)</text>
     <flavorText>
     </flavorText>
@@ -372,7 +372,7 @@ Metamorfosi {3}{W} (Puoi lanciare questa carta a faccia in giù come una creatur
   <item>
     <id>TSP0047</id>
     <name>Zelota il-Vec</name>
-    <text>Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.)
+    <text>Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.) 
 Ogniqualvolta lo Zelota il-Vec attacca e non viene bloccato, puoi fargli infliggere 1 danno a una creatura bersaglio. Se lo fai, previeni tutto il danno da combattimento che lo Zelota il-Vec infliggerebbe in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -380,8 +380,8 @@ Ogniqualvolta lo Zelota il-Vec attacca e non viene bloccato, puoi fargli infligg
   <item>
     <id>TSP0048</id>
     <name>Visione Ancestrale</name>
-    <text>Visione Ancestrale è blu.
-Sospendere 4-{U}  (Invece di lanciare questa carta dalla tua mano, paga {U} e esiliala con quattro segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana.)
+    <text>Visione Ancestrale è blu. 
+Sospendere 4-{U}  (Invece di lanciare questa carta dalla tua mano, paga {U} e esiliala con quattro segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana.) 
 Un giocatore bersaglio pesca tre carte.</text>
     <flavorText>
     </flavorText>
@@ -389,7 +389,7 @@ Un giocatore bersaglio pesca tre carte.</text>
   <item>
     <id>TSP0049</id>
     <name>Disorientare</name>
-    <text>Una creatura bersaglio prende -3/-0 fino alla fine del turno.
+    <text>Una creatura bersaglio prende -3/-0 fino alla fine del turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -397,15 +397,15 @@ Pesca una carta.</text>
   <item>
     <id>TSP0050</id>
     <name>Elementale del Mare</name>
-    <text>Metamorfosi {5}{U}{U}
-Quando l'Elementale del Mare viene girata a faccia in su, ogni avversario salta il suo prossimo STAP.</text>
+    <text>Metamorfosi {5}{U}{U} 
+Quando l'Elementale del Mare viene girata a faccia in su, ogni avversario salta il suo prossimo STAP. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0051</id>
     <name>Eliminare</name>
-    <text>Neutralizza una magia bersaglio.</text>
+    <text>Neutralizza una magia bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -419,24 +419,24 @@ Quando l'Elementale del Mare viene girata a faccia in su, ogni avversario salta 
   <item>
     <id>TSP0053</id>
     <name>Accelerazione Oraria</name>
-    <text>Riscatto {3}
-Scegli un segnalino su un permanente o una carta sospesa bersaglio. Rimuovi quel segnalino da quel permanente o da quella carta o metti su di esso o essa un altro di quei segnalini.</text>
+    <text>Riscatto {3} 
+Scegli un segnalino su un permanente o una carta sospesa bersaglio. Rimuovi quel segnalino da quel permanente o da quella carta o metti su di esso o essa un altro di quei segnalini. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0054</id>
     <name>Imbrogliona Corallina</name>
-    <text>Metamorfosi {U}
-Quando l'Imbrogliona Corallina viene girata a faccia in su, puoi TAPpare o STAPpare un permanente bersaglio.</text>
+    <text>Metamorfosi {U} 
+Quando l'Imbrogliona Corallina viene girata a faccia in su, puoi TAPpare o STAPpare un permanente bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0055</id>
     <name>Trasmutatore Artiglio Curvo</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti giocare un istantaneo.)
-Volare
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti giocare un istantaneo.) 
+Volare 
 Quando il Trasmutatore Artiglio Curvo entra nel campo di battaglia, scambia forza e costituzione di una creatura bersaglio fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -444,8 +444,8 @@ Quando il Trasmutatore Artiglio Curvo entra nel campo di battaglia, scambia forz
   <item>
     <id>TSP0056</id>
     <name>Kraken delle Profondità</name>
-    <text>La Kraken delle Profondità non può essere bloccata.
-Sospendere 9-{2}{U}
+    <text>La Kraken delle Profondità non può essere bloccata. 
+Sospendere 9-{2}{U} 
 Ogniqualvolta un avversario lancia una magia, se la Kraken delle Profondità è sospesa, rimuovi un segnalino tempo da essa.</text>
     <flavorText>
     </flavorText>
@@ -453,8 +453,8 @@ Ogniqualvolta un avversario lancia una magia, se la Kraken delle Profondità è 
   <item>
     <id>TSP0057</id>
     <name>Buccina Risucchiante</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Volare
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Volare 
 Quando la Buccina Risucchiante entra nel campo di battaglia, neutralizza una magia bersaglio. Metti X segnalini +1/+1 sulla Buccina Risucchiante, dove X è pari al costo di mana convertito di quella magia.</text>
     <flavorText>
     </flavorText>
@@ -469,7 +469,7 @@ Quando la Buccina Risucchiante entra nel campo di battaglia, neutralizza una mag
   <item>
     <id>TSP0059</id>
     <name>Vagabondo il-Dal</name>
-    <text>Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.)
+    <text>Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.) 
 All'inizio del tuo mantenimento, sacrifica il Vagabondo il-Dal a meno che tu paghi {U}.</text>
     <flavorText>
     </flavorText>
@@ -477,7 +477,7 @@ All'inizio del tuo mantenimento, sacrifica il Vagabondo il-Dal a meno che tu pag
   <item>
     <id>TSP0060</id>
     <name>Effimero Errante</name>
-    <text>Volare
+    <text>Volare 
 Sospendere 4-{1}{U} (Invece di lanciare questa carta dalla tua mano, puoi pagare {1}{U} e esiliarla con quattro segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana. Ha rapidità.)</text>
     <flavorText>
     </flavorText>
@@ -485,8 +485,8 @@ Sospendere 4-{1}{U} (Invece di lanciare questa carta dalla tua mano, puoi pagare
   <item>
     <id>TSP0061</id>
     <name>Calappio d'Eternità</name>
-    <text>Incanta creatura
-Quando il Calappio d'Eternità entra nel campo di battaglia, pesca una carta.
+    <text>Incanta creatura 
+Quando il Calappio d'Eternità entra nel campo di battaglia, pesca una carta. 
 La creatura incantata non STAPpa durante lo STAP del proprio controllore.</text>
     <flavorText>
     </flavorText>
@@ -494,7 +494,7 @@ La creatura incantata non STAPpa durante lo STAP del proprio controllore.</text>
   <item>
     <id>TSP0062</id>
     <name>Veggente delle Profondità</name>
-    <text>Metamorfosi-Fai tornare due Isole che controlli in mano al loro proprietario. (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)
+    <text>Metamorfosi-Fai tornare due Isole che controlli in mano al loro proprietario. (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.) 
 Quando la Veggente delle Profondità viene girata a faccia in su, pesca due carte.</text>
     <flavorText>
     </flavorText>
@@ -502,8 +502,8 @@ Quando la Veggente delle Profondità viene girata a faccia in su, pesca due cart
   <item>
     <id>TSP0063</id>
     <name>Mawcor Implume</name>
-    <text>Volare
-{T}: La Mawcor Implume infligge 1 danno a una creatura o a un giocatore bersaglio.
+    <text>Volare 
+{T}: La Mawcor Implume infligge 1 danno a una creatura o a un giocatore bersaglio. 
 Metamorfosi {U}{U} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)</text>
     <flavorText>
     </flavorText>
@@ -511,8 +511,8 @@ Metamorfosi {U}{U} (Puoi lanciare questa carta a faccia in giù come una creatur
   <item>
     <id>TSP0064</id>
     <name>Dipartita dello Sciocco</name>
-    <text>Incanta creatura
-Quando la creatura incantata viene messa in un cimitero, rimetti quella carta nel campo di battaglia sotto il tuo controllo.
+    <text>Incanta creatura 
+Quando la creatura incantata viene messa in un cimitero, rimetti quella carta nel campo di battaglia sotto il tuo controllo. 
 Quando la Dipartita dello Sciocco viene messa in un cimitero dal campo di battaglia, fai tornare la Dipartita dello Sciocco in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -520,7 +520,7 @@ Quando la Dipartita dello Sciocco viene messa in un cimitero dal campo di battag
   <item>
     <id>TSP0065</id>
     <name>Ixidron</name>
-    <text>Mentre Ixidron entra nel campo di battaglia, gira a faccia in giù tutte le altre creature non pedina. Sono creature 2/2.
+    <text>Mentre Ixidron entra nel campo di battaglia, gira a faccia in giù tutte le altre creature non pedina. Sono creature 2/2. 
 La forza e la costituzione di Ixidron sono pari al numero di creature a faccia in giù sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -528,7 +528,7 @@ La forza e la costituzione di Ixidron sono pari al numero di creature a faccia i
   <item>
     <id>TSP0066</id>
     <name>Saccheggiatore il-Kor</name>
-    <text>Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.)
+    <text>Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.) 
 Ogniqualvolta il Saccheggiatore il-Kor infligge danno a un avversario, pesca una carta, poi scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -550,16 +550,16 @@ Ogniqualvolta il Saccheggiatore il-Kor infligge danno a un avversario, pesca una
   <item>
     <id>TSP0069</id>
     <name>Insegnamenti Mistici</name>
-    <text>Passa in rassegna il tuo grimorio per una carta istantaneo o una carta con lampo, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.
-Flashback {5}{B}</text>
+    <text>Passa in rassegna il tuo grimorio per una carta istantaneo o una carta con lampo, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio. 
+Flashback {5}{B} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0070</id>
     <name>Occhio d'Ofide</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Incanta creatura
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Incanta creatura 
 Ogniqualvolta la creatura incantata infligge danno a un avversario, puoi pescare una carta.</text>
     <flavorText>
     </flavorText>
@@ -567,7 +567,7 @@ Ogniqualvolta la creatura incantata infligge danno a un avversario, puoi pescare
   <item>
     <id>TSP0071</id>
     <name>Foschia Paradossale</name>
-    <text>Incanta giocatore
+    <text>Incanta giocatore 
 All'inizio del primo mantenimento del giocatore incantato in ogni turno, quel giocatore gioca un mantenimento addizionale dopo questa sottofase.</text>
     <flavorText>
     </flavorText>
@@ -582,8 +582,8 @@ All'inizio del primo mantenimento del giocatore incantato in ogni turno, quel gi
   <item>
     <id>TSP0073</id>
     <name>Nubimanta Alasquarciata</name>
-    <text>Volare
-Quando la Nubimanta Alasquarciata entra nel campo di battaglia, fai tornare un permanente bersaglio in mano al suo proprietario.
+    <text>Volare 
+Quando la Nubimanta Alasquarciata entra nel campo di battaglia, fai tornare un permanente bersaglio in mano al suo proprietario. 
 Sospendere 3-{1}{U} (Invece di lanciare questa carta dalla tua mano, puoi pagare {1}{U} e esiliarla con tre segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana. Ha rapidità.)</text>
     <flavorText>
     </flavorText>
@@ -612,8 +612,8 @@ Sospendere 3-{1}{U} (Invece di lanciare questa carta dalla tua mano, puoi pagare
   <item>
     <id>TSP0077</id>
     <name>Serpe della Scia</name>
-    <text>La Serpe della Scia non può attaccare a meno che il giocatore in difesa controlli un'Isola.
-Quando non controlli Isole, sacrifica la Serpe della Scia.
+    <text>La Serpe della Scia non può attaccare a meno che il giocatore in difesa controlli un'Isola. 
+Quando non controlli Isole, sacrifica la Serpe della Scia. 
 Metamorfosi {5}{U} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)</text>
     <flavorText>
     </flavorText>
@@ -621,7 +621,7 @@ Metamorfosi {5}{U} (Puoi lanciare questa carta a faccia in giù come una creatur
   <item>
     <id>TSP0078</id>
     <name>Recupero</name>
-    <text>Puoi esiliare una carta blu dalla tua mano anziché pagare il costo di mana del Recupero.
+    <text>Puoi esiliare una carta blu dalla tua mano anziché pagare il costo di mana del Recupero. 
 Fai tornare una creatura bersaglio in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -629,7 +629,7 @@ Fai tornare una creatura bersaglio in mano al suo proprietario.</text>
   <item>
     <id>TSP0079</id>
     <name>Vampata di Magia</name>
-    <text>Riscatto {3} (Puoi pagare {3} addizionale mentre lanci questa magia). Se lo fai, riprendi in mano questa carta quando si risolve.)
+    <text>Riscatto {3} (Puoi pagare {3} addizionale mentre lanci questa magia). Se lo fai, riprendi in mano questa carta quando si risolve.) 
 Neutralizza una magia bersaglio con costo di mana convertito pari a X.</text>
     <flavorText>
     </flavorText>
@@ -637,7 +637,7 @@ Neutralizza una magia bersaglio con costo di mana convertito pari a X.</text>
   <item>
     <id>TSP0080</id>
     <name>Draghettino Codapunta</name>
-    <text>Volare
+    <text>Volare 
 Sacrifica il Draghettino Codapunta: Neutralizza una magia bersaglio a meno che il suo controllore paghi {2}.</text>
     <flavorText>
     </flavorText>
@@ -645,8 +645,8 @@ Sacrifica il Draghettino Codapunta: Neutralizza una magia bersaglio a meno che i
   <item>
     <id>TSP0081</id>
     <name>Folletta Nobile</name>
-    <text>Volare
-Le altre creature con volare che controlli prendono +0/+1.
+    <text>Volare 
+Le altre creature con volare che controlli prendono +0/+1. 
 {T}: Le altre creature con volare che controlli prendono +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -654,8 +654,8 @@ Le altre creature con volare che controlli prendono +0/+1.
   <item>
     <id>TSP0082</id>
     <name>Genio Nubetempesta</name>
-    <text>Volare
- Il Genio Nubetempesta può bloccare solo creature con volare.
+    <text>Volare 
+ Il Genio Nubetempesta può bloccare solo creature con volare. 
 {R}{R}: Il Genio Nubetempesta prende +2/+0 fino alla fine del turno e ti infligge 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -663,8 +663,8 @@ Le altre creature con volare che controlli prendono +0/+1.
   <item>
     <id>TSP0083</id>
     <name>Teferi, Mago di Zhalfir</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Le carte creatura che possiedi che non sono sul campo di battaglia hanno lampo.
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Le carte creatura che possiedi che non sono sul campo di battaglia hanno lampo. 
 Ogni avversario può lanciare magie solo in ogni momento in cui potrebbe lanciare una stregoneria.</text>
     <flavorText>
     </flavorText>
@@ -686,7 +686,7 @@ Ogni avversario può lanciare magie solo in ogni momento in cui potrebbe lanciar
   <item>
     <id>TSP0086</id>
     <name>Pensarci Due Volte</name>
-    <text>Pesca una carta.
+    <text>Pesca una carta. 
 Flashback {2}{U} (Puoi lanciare questa carta dal tuo cimitero pagando il suo costo di flashback. Poi esiliala.)</text>
     <flavorText>
     </flavorText>
@@ -694,7 +694,7 @@ Flashback {2}{U} (Puoi lanciare questa carta dal tuo cimitero pagando il suo cos
   <item>
     <id>TSP0087</id>
     <name>Sentinella di Tolaria</name>
-    <text>Volare
+    <text>Volare 
 {U}, {T}, Scarta una carta: Il proprietario riprende in mano un permanente bersaglio che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -702,7 +702,7 @@ Flashback {2}{U} (Puoi lanciare questa carta dal tuo cimitero pagando il suo cos
   <item>
     <id>TSP0088</id>
     <name>Vincolo Ingannevole</name>
-    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.)
+    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.) 
 Neutralizza un'abilità attivata o innescata bersaglio. Se viene neutralizzata l'abilità di un permanente in questo modo, le abilità attivate di quel permanente non possono essere attivate in questo turno. (Le abilità di mana non possono essere scelte come bersaglio.)</text>
     <flavorText>
     </flavorText>
@@ -710,14 +710,14 @@ Neutralizza un'abilità attivata o innescata bersaglio. Se viene neutralizzata l
   <item>
     <id>TSP0089</id>
     <name>Verità o Menzogna</name>
-    <text>Rivela le prime cinque carte del tuo grimorio e separale in due pile. Un avversario sceglie una pila. Aggiungi alla tua mano una carta della pila scelta, poi metti tutte le altre carte rivelate in questo modo in fondo al tuo grimorio in qualsiasi ordine.</text>
+    <text>Rivela le prime cinque carte del tuo grimorio e separale in due pile. Un avversario sceglie una pila. Aggiungi alla tua mano una carta della pila scelta, poi metti tutte le altre carte rivelate in questo modo in fondo al tuo grimorio in qualsiasi ordine. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0090</id>
     <name>Polimorfo di Vesuva</name>
-    <text>Mentre il Polimorfo di Vesuva entra nel campo di battaglia o viene girato a faccia in su, puoi scegliere un'altra creatura sul campo di battaglia. Se lo fai, fino a che il Polimorfo di Vesuva non viene girato a faccia in giù, diventa una copia di quella creatura e ha "All'inizio del tuo mantenimento, puoi girare questa creatura a faccia in giù."
+    <text>Mentre il Polimorfo di Vesuva entra nel campo di battaglia o viene girato a faccia in su, puoi scegliere un'altra creatura sul campo di battaglia. Se lo fai, fino a che il Polimorfo di Vesuva non viene girato a faccia in giù, diventa una copia di quella creatura e ha "All'inizio del tuo mantenimento, puoi girare questa creatura a faccia in giù." 
 Metamorfosi  {1}{U}</text>
     <flavorText>
     </flavorText>
@@ -725,7 +725,7 @@ Metamorfosi  {1}{U}</text>
   <item>
     <id>TSP0091</id>
     <name>Camminatore delle Profondità Visceride</name>
-    <text>{U}: Il Camminatore delle Profondità Visceride prende +1/+0 fino alla fine del turno.
+    <text>{U}: Il Camminatore delle Profondità Visceride prende +1/+0 fino alla fine del turno. 
 Sospendere 4-{U} (Invece di lanciare questa carta dalla tua mano, puoi pagare {U} e esiliarla con quattro segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lanciala senza pagare il suo costo di mana. Ha rapidità.)</text>
     <flavorText>
     </flavorText>
@@ -733,8 +733,8 @@ Sospendere 4-{U} (Invece di lanciare questa carta dalla tua mano, puoi pagare {U
   <item>
     <id>TSP0092</id>
     <name>Svuotamagie Placatrice</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Quando la Svuotamagie Placatrice entra nel campo di battaglia, neutralizza un'abilità attivata bersaglio. (Le abilità di mana non possono essere scelte come bersaglio.)
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Quando la Svuotamagie Placatrice entra nel campo di battaglia, neutralizza un'abilità attivata bersaglio. (Le abilità di mana non possono essere scelte come bersaglio.) 
 Ogniqualvolta lanci una magia, puoi far tornare la Svuotamagie Placatrice in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -742,7 +742,7 @@ Ogniqualvolta lanci una magia, puoi far tornare la Svuotamagie Placatrice in man
   <item>
     <id>TSP0093</id>
     <name>Attraversare i Secoli</name>
-    <text>Riscatto-Sacrifica tre Isole. (Puoi sacrificare tre Isole oltre a qualsiasi altro costo quando lanci questa magia. Se lo fai, riprendi in mano questa carta quando si risolve.)
+    <text>Riscatto-Sacrifica tre Isole. (Puoi sacrificare tre Isole oltre a qualsiasi altro costo quando lanci questa magia. Se lo fai, riprendi in mano questa carta quando si risolve.) 
 Un giocatore bersaglio gioca un altro turno dopo questo.</text>
     <flavorText>
     </flavorText>
@@ -750,7 +750,7 @@ Un giocatore bersaglio gioca un altro turno dopo questo.</text>
   <item>
     <id>TSP0094</id>
     <name>Ripulire</name>
-    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.)
+    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.) 
 Il proprietario riprende in mano un permanente bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -772,15 +772,15 @@ Il proprietario riprende in mano un permanente bersaglio.</text>
   <item>
     <id>TSP0097</id>
     <name>Richiamo degli Inferi</name>
-    <text>Riprendi in mano una carta creatura nera bersaglio dal tuo cimitero.
-Follia {0}</text>
+    <text>Riprendi in mano una carta creatura nera bersaglio dal tuo cimitero. 
+Follia {0} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0098</id>
     <name>Cadavere Obeso</name>
-    <text>Paura
+    <text>Paura 
 Sospendere 5-{B} (Invece di lanciare questa carta dalla tua mano, puoi pagare {B} ed esiliarla con cinque segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana. Ha rapidità.)</text>
     <flavorText>
     </flavorText>
@@ -788,9 +788,9 @@ Sospendere 5-{B} (Invece di lanciare questa carta dalla tua mano, puoi pagare {B
   <item>
     <id>TSP0099</id>
     <name>Maledizione della Cabala</name>
-    <text>Un giocatore bersaglio sacrifica metà dei permanenti che controlla, arrotondati per difetto.
-Sospendere 2-{2}{B}{B}
-All'inizio del mantenimento di ogni giocatore, se la Maledizione della Cabala è sospesa, quel giocatore può sacrificare un permanente. Se lo fa, metti due segnalini tempo sulla Maledizione della Cabala.</text>
+    <text>Un giocatore bersaglio sacrifica metà dei permanenti che controlla, arrotondati per difetto. 
+Sospendere 2-{2}{B}{B} 
+All'inizio del mantenimento di ogni giocatore, se la Maledizione della Cabala è sospesa, quel giocatore può sacrificare un permanente. Se lo fa, metti due segnalini tempo sulla Maledizione della Cabala. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -804,16 +804,16 @@ All'inizio del mantenimento di ogni giocatore, se la Maledizione della Cabala è
   <item>
     <id>TSP0101</id>
     <name>Avvizzimento Oscuro</name>
-    <text>Distruggi una creatura bersaglio non nera.
-Follia {B}</text>
+    <text>Distruggi una creatura bersaglio non nera. 
+Follia {B} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0102</id>
     <name>Thallid Spora Mortale</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino spora sulla Thallid Spora Mortale.
-Rimuovi tre segnalini spora dalla Thallid Spora Mortale: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora sulla Thallid Spora Mortale. 
+Rimuovi tre segnalini spora dalla Thallid Spora Mortale: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde. 
 Sacrifica un Saprolingio: Una creatura bersaglio prende -1/-1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -821,7 +821,7 @@ Sacrifica un Saprolingio: Una creatura bersaglio prende -1/-1 fino alla fine del
   <item>
     <id>TSP0103</id>
     <name>Collusione Demoniaca</name>
-    <text>Riscatto-Scarta due carte. (Puoi scartare due carte oltre a qualsiasi altro costo quando lanci questa magia. Se lo fai, riprendi in mano questa carta quando si risolve.)
+    <text>Riscatto-Scarta due carte. (Puoi scartare due carte oltre a qualsiasi altro costo quando lanci questa magia. Se lo fai, riprendi in mano questa carta quando si risolve.) 
 Passa in rassegna il tuo grimorio per una carta e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -829,7 +829,7 @@ Passa in rassegna il tuo grimorio per una carta e aggiungila alla tua mano. Poi 
   <item>
     <id>TSP0104</id>
     <name>Ritorno Terrificante</name>
-    <text>Rimetti una carta creatura bersaglio dal tuo cimitero sul campo di battaglia.
+    <text>Rimetti una carta creatura bersaglio dal tuo cimitero sul campo di battaglia. 
 Flashback-Sacrifica tre creature. (Puoi lanciare questa carta dal tuo cimitero pagando il suo costo di flashback. Poi esiliala).</text>
     <flavorText>
     </flavorText>
@@ -837,7 +837,7 @@ Flashback-Sacrifica tre creature. (Puoi lanciare questa carta dal tuo cimitero p
   <item>
     <id>TSP0105</id>
     <name>Razziatori Facchini</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
 {B}: Rigenera i Razziatori Facchini.</text>
     <flavorText>
     </flavorText>
@@ -845,7 +845,7 @@ Flashback-Sacrifica tre creature. (Puoi lanciare questa carta dal tuo cimitero p
   <item>
     <id>TSP0106</id>
     <name>Endrek Sahr, Mastro Allevatore</name>
-    <text>Ogniqualvolta lanci una magia creatura, metti sul campo di battaglia X pedine creatura Thrull 1/1 nere, dove X è il costo di mana convertito di quella magia.
+    <text>Ogniqualvolta lanci una magia creatura, metti sul campo di battaglia X pedine creatura Thrull 1/1 nere, dove X è il costo di mana convertito di quella magia. 
 Quando controlli sette o più Thrull, sacrifica Endrek Sahr, Mastro Allevatore.</text>
     <flavorText>
     </flavorText>
@@ -853,7 +853,7 @@ Quando controlli sette o più Thrull, sacrifica Endrek Sahr, Mastro Allevatore.<
   <item>
     <id>TSP0107</id>
     <name>Occhio Malefico di Urborg</name>
-    <text>Le creature non Occhio che controlli non possono attaccare.
+    <text>Le creature non Occhio che controlli non possono attaccare. 
 Ogniqualvolta l'Occhio Malefico di Urborg viene bloccato da una creatura, distruggi quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -861,8 +861,8 @@ Ogniqualvolta l'Occhio Malefico di Urborg viene bloccato da una creatura, distru
   <item>
     <id>TSP0108</id>
     <name>Divoratore Senza Volto</name>
-    <text>Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.)
-Quando il Divoratore Senza Volto entra nel campo di battaglia, esilia un'altra creatura bersaglio con ombra.
+    <text>Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.) 
+Quando il Divoratore Senza Volto entra nel campo di battaglia, esilia un'altra creatura bersaglio con ombra. 
 Quando il Divoratore Senza Volto lascia il campo di battaglia, rimetti sul campo di battaglia la carta esiliata sotto il controllo del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -870,8 +870,8 @@ Quando il Divoratore Senza Volto lascia il campo di battaglia, rimetti sul campo
   <item>
     <id>TSP0109</id>
     <name>Ideale Fallito</name>
-    <text>Incanta creatura
-La creatura incantata ha volare e "Sacrifica una creatura: Questa creatura prende +2/+1 fino alla fine del turno."
+    <text>Incanta creatura 
+La creatura incantata ha volare e "Sacrifica una creatura: Questa creatura prende +2/+1 fino alla fine del turno." 
 Quando l'Ideale Fallito viene messo in un cimitero dal campo di battaglia, fai tornare l'Ideale Fallito in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -879,8 +879,8 @@ Quando l'Ideale Fallito viene messo in un cimitero dal campo di battaglia, fai t
   <item>
     <id>TSP0110</id>
     <name>Debolezza</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Incanta creatura
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Incanta creatura 
 La creatura incantata prende -2/-1.</text>
     <flavorText>
     </flavorText>
@@ -888,8 +888,8 @@ La creatura incantata prende -2/-1.</text>
   <item>
     <id>TSP0111</id>
     <name>Gorgone Eremita</name>
-    <text>Ogniqualvolta la Gorgone Eremita blocca o viene bloccata da una creatura non nera, distruggi quella creatura alla fine del combattimento.
-Follia {B}{B}</text>
+    <text>Ogniqualvolta la Gorgone Eremita blocca o viene bloccata da una creatura non nera, distruggi quella creatura alla fine del combattimento. 
+Follia {B}{B} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -903,16 +903,16 @@ Follia {B}{B}</text>
   <item>
     <id>TSP0113</id>
     <name>Vassallo dell'Abisso</name>
-    <text>Volare, travolgere
-All'inizio del tuo mantenimento, sacrifica una creatura diversa dal Vassallo dell'Abisso. Se non puoi farlo, il Vassallo dell'Abisso ti infligge 7 danni.
-Metamorfosi  {B}{B}{B}{B}</text>
+    <text>Volare, travolgere 
+All'inizio del tuo mantenimento, sacrifica una creatura diversa dal Vassallo dell'Abisso. Se non puoi farlo, il Vassallo dell'Abisso ti infligge 7 danni. 
+Metamorfosi  {B}{B}{B}{B} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0114</id>
     <name>Lim-Dûl il Necromante</name>
-    <text>Ogniqualvolta una creatura controllata da un avversario viene messa in un cimitero dal campo di battaglia, puoi pagare {1}{B}. Se lo fai, rimetti quella carta sul campo di battaglia sotto il tuo controllo. Se è una creatura, è uno Zombie in aggiunta ai propri altri tipi di creatura.
+    <text>Ogniqualvolta una creatura controllata da un avversario viene messa in un cimitero dal campo di battaglia, puoi pagare {1}{B}. Se lo fai, rimetti quella carta sul campo di battaglia sotto il tuo controllo. Se è una creatura, è uno Zombie in aggiunta ai propri altri tipi di creatura. 
 {1}{B}: Rigenera uno Zombie bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -920,8 +920,8 @@ Metamorfosi  {B}{B}{B}{B}</text>
   <item>
     <id>TSP0115</id>
     <name>Fine Vivente</name>
-    <text>Fine Vivente è nera.
-Sospendere 3-{2}{B}{B}
+    <text>Fine Vivente è nera. 
+Sospendere 3-{2}{B}{B} 
 Ogni giocatore esilia tutte le carte creatura dal proprio cimitero, poi sacrifica tutte le creature che controlla, poi mette nel campo di battaglia tutte le carte che ha esiliato in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -936,7 +936,7 @@ Ogni giocatore esilia tutte le carte creatura dal proprio cimitero, poi sacrific
   <item>
     <id>TSP0117</id>
     <name>Schiumatrice di Mana</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta la Schiumatrice di Mana infligge danno a un giocatore, TAPpa una terra bersaglio controllata da quel giocatore. Quella terra non STAPpa durante il prossimo STAP del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -951,7 +951,7 @@ Ogniqualvolta la Schiumatrice di Mana infligge danno a un giocatore, TAPpa una t
   <item>
     <id>TSP0119</id>
     <name>Pungimente</name>
-    <text>Un giocatore bersaglio scarta tre carte.
+    <text>Un giocatore bersaglio scarta tre carte. 
 Sospendere 4-{B} (Invece di lanciare questa carta dalla tua mano, puoi pagare {B} ed esiliarla con quattro segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana.)</text>
     <flavorText>
     </flavorText>
@@ -959,8 +959,8 @@ Sospendere 4-{B} (Invece di lanciare questa carta dalla tua mano, puoi pagare {B
   <item>
     <id>TSP0120</id>
     <name>Traditore Abissale</name>
-    <text>Rapidità
-Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.)
+    <text>Rapidità 
+Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.) 
 Ogniqualvolta un'altra creatura viene messa nel tuo cimitero dal campo di battaglia, puoi pagare {B}. Se lo fai, rimetti il Traditore Abissale nel campo di battaglia dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -968,8 +968,8 @@ Ogniqualvolta un'altra creatura viene messa nel tuo cimitero dal campo di battag
   <item>
     <id>TSP0121</id>
     <name>Assassina di Belladonna</name>
-    <text>Attacco improvviso
-Quando l'Assassina di Belladonna entra nel campo di battaglia, puoi rivelare X carte nere dalla tua mano. Se lo fai, una creatura bersaglio prende -X/-X fino alla fine del turno.
+    <text>Attacco improvviso 
+Quando l'Assassina di Belladonna entra nel campo di battaglia, puoi rivelare X carte nere dalla tua mano. Se lo fai, una creatura bersaglio prende -X/-X fino alla fine del turno. 
 Follia {1}{B} (Se scarti questa carta, puoi lanciarla pagando il suo costo di follia invece di metterla nel tuo cimitero.)</text>
     <flavorText>
     </flavorText>
@@ -977,7 +977,7 @@ Follia {1}{B} (Se scarti questa carta, puoi lanciarla pagando il suo costo di fo
   <item>
     <id>TSP0122</id>
     <name>Tisi</name>
-    <text>Distruggi una creatura bersaglio. Il suo controllore perde un ammontare di punti vita pari alla sua forza più la sua costituzione.
+    <text>Distruggi una creatura bersaglio. Il suo controllore perde un ammontare di punti vita pari alla sua forza più la sua costituzione. 
 Sospendere 5-{1}{B} (Invece di lanciare questa carta dalla tua mano, puoi pagare {1}{B} e esiliarla con cinque segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana.)</text>
     <flavorText>
     </flavorText>
@@ -1006,7 +1006,7 @@ Sospendere 5-{1}{B} (Invece di lanciare questa carta dalla tua mano, puoi pagare
   <item>
     <id>TSP0126</id>
     <name>Episodio Psicotico</name>
-    <text>Un giocatore bersaglio rivela la propria mano e la prima carta del proprio grimorio. Scegli una carta rivelata in questo modo. Quel giocatore mette la carta scelta in fondo al proprio grimorio.
+    <text>Un giocatore bersaglio rivela la propria mano e la prima carta del proprio grimorio. Scegli una carta rivelata in questo modo. Quel giocatore mette la carta scelta in fondo al proprio grimorio. 
 Follia {1}{B}</text>
     <flavorText>
     </flavorText>
@@ -1021,7 +1021,7 @@ Follia {1}{B}</text>
   <item>
     <id>TSP0128</id>
     <name>Nosferatu di Sengir</name>
-    <text>Volare
+    <text>Volare 
 {1}{B}, Esilia il Nosferatu di Sengir: Metti sul campo di battaglia una pedina creatura Pipistrello 1/2 nera con volare. Ha "{1}{B}, Sacrifica questa creatura: Rimetti sul campo di battaglia sotto il controllo del suo proprietario una carta esiliata di nome Nosferatu di Sengir."</text>
     <flavorText>
     </flavorText>
@@ -1036,7 +1036,7 @@ Follia {1}{B}</text>
   <item>
     <id>TSP0130</id>
     <name>Cavaliere Furtivo</name>
-    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.)
+    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.) 
 Quando il Cavaliere Furtivo diventa bersaglio di una magia o di un'abilità, sacrificalo.</text>
     <flavorText>
     </flavorText>
@@ -1051,7 +1051,7 @@ Quando il Cavaliere Furtivo diventa bersaglio di una magia o di un'abilità, sac
   <item>
     <id>TSP0132</id>
     <name>Fuliggine Soffocante</name>
-    <text>Distruggi una creatura bersaglio con costituzione pari o inferiore a 3.
+    <text>Distruggi una creatura bersaglio con costituzione pari o inferiore a 3. 
 Flashback {5}{R}</text>
     <flavorText>
     </flavorText>
@@ -1059,8 +1059,8 @@ Flashback {5}{R}</text>
   <item>
     <id>TSP0133</id>
     <name>Custode della Fortezza</name>
-    <text>Volare
-Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.)
+    <text>Volare 
+Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con ombra.) 
 {B}{B}: Le creature con ombra prendono +1/+0 fino alla fine del turno e le creature senza ombra prendono -1/-0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1068,7 +1068,7 @@ Ombra (Questa creatura può bloccare o essere bloccata soltanto da creature con 
   <item>
     <id>TSP0134</id>
     <name>Morte Improvvisa</name>
-    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.)
+    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.) 
 Una creatura bersaglio prende -4/-4 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1076,7 +1076,7 @@ Una creatura bersaglio prende -4/-4 fino alla fine del turno.</text>
   <item>
     <id>TSP0135</id>
     <name>Deperimento Improvviso</name>
-    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.)
+    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.) 
 Le creature controllate da un giocatore bersaglio diventano 0/2 e perdono tutte le abilità fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1084,14 +1084,14 @@ Le creature controllate da un giocatore bersaglio diventano 0/2 e perdono tutte 
   <item>
     <id>TSP0136</id>
     <name>Tentacoli della Corruzione</name>
-    <text>I Tentacoli della Corruzione infliggono X danni a una creatura bersaglio e tu guadagni X punti vita, dove X è pari al numero di Paludi che controlli.</text>
+    <text>I Tentacoli della Corruzione infliggono X danni a una creatura bersaglio e tu guadagni X punti vita, dove X è pari al numero di Paludi che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0137</id>
     <name>Morsa del Traditore</name>
-    <text>Una creatura bersaglio prende +1/+0, diventa nera, e guadagna ombra fino alla fine del turno. (Può bloccare o essere bloccata solo da creature con ombra.)
+    <text>Una creatura bersaglio prende +1/+0, diventa nera, e guadagna ombra fino alla fine del turno. (Può bloccare o essere bloccata solo da creature con ombra.) 
 Flashback {1}{B} (Puoi lanciare questa carta dal tuo cimitero pagando il suo costo di flashback. Poi esiliala).</text>
     <flavorText>
     </flavorText>
@@ -1106,7 +1106,7 @@ Flashback {1}{B} (Puoi lanciare questa carta dal tuo cimitero pagando il suo cos
   <item>
     <id>TSP0139</id>
     <name>Mago-Sifone di Urborg</name>
-    <text>{2}{B}, {T}, Scarta una carta: Ogni altro giocatore perde 2 punti vita. Guadagni tanti punti vita quanti sono i punti vita persi in questo modo.</text>
+    <text>{2}{B}, {T}, Scarta una carta: Ogni altro giocatore perde 2 punti vita. Guadagni tanti punti vita quanti sono i punti vita persi in questo modo. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1126,17 +1126,17 @@ Flashback {1}{B} (Puoi lanciare questa carta dal tuo cimitero pagando il suo cos
   </item>
   <item>
     <id>TSP0142</id>
-    <name>Muro di Fiamma Eterea</name>
-    <text>Difensore
-Il Muro di Fiamma Eterea può bloccare le creature con ombra come se non avessero ombra.
-{R}: Il Muro di Fiamma Eterea prende +1/+0 fino alla fine del turno.</text>
+    <name>Ætherflame Wall</name>
+    <text>Defender
+Ætherflame Wall can block creatures with shadow as though they didn't have shadow.
+{R}: Ætherflame Wall gets +1/+0 until end of turn.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0143</id>
     <name>Antico Rancore</name>
-    <text>Distruggi un artefatto bersaglio
+    <text>Distruggi un artefatto bersaglio 
 Flashback {G}</text>
     <flavorText>
     </flavorText>
@@ -1144,7 +1144,7 @@ Flashback {G}</text>
   <item>
     <id>TSP0144</id>
     <name>Squassatore Spinato</name>
-    <text>Travolgere, rapidità
+    <text>Travolgere, rapidità 
 Ogniqualvolta lo Squassatore Spinato infligge danno a un giocatore, quel giocatore scarta tutte le carte che ha in mano, poi ne pesca altrettante.</text>
     <flavorText>
     </flavorText>
@@ -1152,8 +1152,8 @@ Ogniqualvolta lo Squassatore Spinato infligge danno a un giocatore, quel giocato
   <item>
     <id>TSP0145</id>
     <name>Gargoyle di Basalto</name>
-    <text>Volare
-Eco {2}{R}
+    <text>Volare 
+Eco {2}{R} 
 {R}: Il Gargoyle di Basalto prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1161,7 +1161,7 @@ Eco {2}{R}
   <item>
     <id>TSP0146</id>
     <name>Ascari dalla Lama Rovente</name>
-    <text>Aggirare
+    <text>Aggirare 
 {2}: L'Ascari dalla Lama Rovente diventa incolore fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1169,8 +1169,8 @@ Eco {2}{R}
   <item>
     <id>TSP0147</id>
     <name>Nibbio Infernale di Bogardan</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Volare
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Volare 
 Quando il Nibbio Infernale di Bogardan entra nel campo di battaglia, infligge 5 danni suddivisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1178,7 +1178,7 @@ Quando il Nibbio Infernale di Bogardan entra nel campo di battaglia, infligge 5 
   <item>
     <id>TSP0148</id>
     <name>Furia di Bogardan</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
 Quando la Furia di Bogardan entra nel campo di battaglia, una creatura bersaglio prende +4/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1200,15 +1200,15 @@ Quando la Furia di Bogardan entra nel campo di battaglia, una creatura bersaglio
   <item>
     <id>TSP0151</id>
     <name>Conflagrazione</name>
-    <text>La Conflagrazione infligge X danni suddivisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio.
-Flashback-{R}{R}, Scarta X carte.</text>
+    <text>La Conflagrazione infligge X danni suddivisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio. 
+Flashback-{R}{R}, Scarta X carte. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0152</id>
     <name>Svuotare i Cunicoli</name>
-    <text>Metti sul campo di battaglia due pedine creatura Goblin 1/1 rosse.
+    <text>Metti sul campo di battaglia due pedine creatura Goblin 1/1 rosse. 
 Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in questo turno).</text>
     <flavorText>
     </flavorText>
@@ -1216,8 +1216,8 @@ Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in qu
   <item>
     <id>TSP0153</id>
     <name>Kavu Fauce Infuocata</name>
-    <text>Eco {5}{R}
-Quando il Kavu Fauce Infuocata entra nel campo di battaglia, infligge 2 danni a una creatura bersaglio.
+    <text>Eco {5}{R} 
+Quando il Kavu Fauce Infuocata entra nel campo di battaglia, infligge 2 danni a una creatura bersaglio. 
 Quando il Kavu Fauce Infuocata lascia il campo di battaglia, infligge 4 danni a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1239,8 +1239,8 @@ Quando il Kavu Fauce Infuocata lascia il campo di battaglia, infligge 4 danni a 
   <item>
     <id>TSP0156</id>
     <name>Ladra di Ventura</name>
-    <text>Qualsiasi danno che ridurrebbe i tuoi punti vita a meno di 1 li riduce invece a 1.
-Metamorfosi {R}{R}</text>
+    <text>Qualsiasi danno che ridurrebbe i tuoi punti vita a meno di 1 li riduce invece a 1. 
+Metamorfosi {R}{R} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1254,9 +1254,9 @@ Metamorfosi {R}{R}</text>
   <item>
     <id>TSP0158</id>
     <name>Soffio Infuocato Ghitu</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Incanta creatura
-{R}: La creatura incantata prende +1/+0 fino alla fine del turno.
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Incanta creatura 
+{R}: La creatura incantata prende +1/+0 fino alla fine del turno. 
 {R}: Fai tornare il Soffio Infuocato Ghitu in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -1271,7 +1271,7 @@ Incanta creatura
   <item>
     <id>TSP0160</id>
     <name>Mitraglia</name>
-    <text>La Mitraglia infligge 1 danno a una creatura o a un giocatore bersaglio.
+    <text>La Mitraglia infligge 1 danno a una creatura o a un giocatore bersaglio. 
 Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in questo turno. Puoi scegliere nuovi bersagli per le copie.)</text>
     <flavorText>
     </flavorText>
@@ -1279,7 +1279,7 @@ Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in qu
   <item>
     <id>TSP0161</id>
     <name>Gargadonte Maggiore</name>
-    <text>Sospendere 10-{R}
+    <text>Sospendere 10-{R} 
 Sacrifica un artefatto, una creatura o una terra: Rimuovi un segnalino tempo dal Gargadonte Maggiore. Attiva questa abilità solo se il Gargadonte Maggiore è sospeso.</text>
     <flavorText>
     </flavorText>
@@ -1287,7 +1287,7 @@ Sacrifica un artefatto, una creatura o una terra: Rimuovi un segnalino tempo dal
   <item>
     <id>TSP0162</id>
     <name>Fenditura nel Terreno</name>
-    <text>Una creatura bersaglio senza volare non può bloccare in questo turno.
+    <text>Una creatura bersaglio senza volare non può bloccare in questo turno. 
 Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in questo turno. Puoi scegliere nuovi bersagli per le copie.)</text>
     <flavorText>
     </flavorText>
@@ -1295,7 +1295,7 @@ Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in qu
   <item>
     <id>TSP0163</id>
     <name>Ib Mezzocuore, Stratega Goblin</name>
-    <text>Ogniqualvolta un altro Goblin che controlli viene bloccato, sacrificalo. Se lo fai, esso infligge 4 danni a ogni creatura che lo blocca.
+    <text>Ogniqualvolta un altro Goblin che controlli viene bloccato, sacrificalo. Se lo fai, esso infligge 4 danni a ogni creatura che lo blocca. 
 Sacrifica due Montagne: Metti sul campo di battaglia due pedine creatura Goblin 1/1 rosse.</text>
     <flavorText>
     </flavorText>
@@ -1303,7 +1303,7 @@ Sacrifica due Montagne: Metti sul campo di battaglia due pedine creatura Goblin 
   <item>
     <id>TSP0164</id>
     <name>Infiammare i Ricordi</name>
-    <text>Un giocatore bersaglio rivela una carta a caso dalla propria mano. Infiammare i Ricordi infligge a quel giocatore un ammontare di danni pari al costo di mana convertito di quella carta.
+    <text>Un giocatore bersaglio rivela una carta a caso dalla propria mano. Infiammare i Ricordi infligge a quel giocatore un ammontare di danni pari al costo di mana convertito di quella carta. 
 Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in questo turno. Puoi scegliere nuovi bersagli per le copie.)</text>
     <flavorText>
     </flavorText>
@@ -1311,7 +1311,7 @@ Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in qu
   <item>
     <id>TSP0165</id>
     <name>Cavalcapoiane dell'Artiglio di Ferro</name>
-    <text>I Cavalcapoiane dell'Artiglio di Ferro non possono bloccare creature con forza pari o superiore a 2.
+    <text>I Cavalcapoiane dell'Artiglio di Ferro non possono bloccare creature con forza pari o superiore a 2. 
 {R}: I Cavalcapoiane dell'Artiglio di Ferro guadagnano volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1319,16 +1319,16 @@ Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in qu
   <item>
     <id>TSP0166</id>
     <name>Jaya Ballard, Maga Specialista</name>
-    <text>{R}, {T}, Scarta una carta: Distruggi un permanente blu bersaglio.
-{1}{R}, {T}, Scarta una carta: Jaya Ballard, Maga Specialista infligge 3 danni a una creatura o a un giocatore bersaglio. Una creatura a cui sia stato inflitto danno in questo modo non può essere rigenerata in questo turno.
-{5}{R}{R}, {T}, Scarta una carta: Jaya Ballard infligge 6 danni a ogni creatura e a ogni giocatore.</text>
+    <text>{R}, {T}, Scarta una carta: Distruggi un permanente blu bersaglio. 
+{1}{R}, {T}, Scarta una carta: Jaya Ballard, Maga Specialista infligge 3 danni a una creatura o a un giocatore bersaglio. Una creatura a cui sia stato inflitto danno in questo modo non può essere rigenerata in questo turno. 
+{5}{R}{R}, {T}, Scarta una carta: Jaya Ballard infligge 6 danni a ogni creatura e a ogni giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0167</id>
     <name>Alabardiere di Keld</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Sospendere 4-{R} (Invece di lanciare questa carta dalla tua mano, puoi pagare {R} ed esiliarla con quattro segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana. Ha rapidità.)</text>
     <flavorText>
     </flavorText>
@@ -1336,7 +1336,7 @@ Sospendere 4-{R} (Invece di lanciare questa carta dalla tua mano, puoi pagare {R
   <item>
     <id>TSP0168</id>
     <name>Ascia Folgorante</name>
-    <text>Come costo addizionale per lanciare l'Ascia Folgorante, scarta una carta o paga {5}.
+    <text>Come costo addizionale per lanciare l'Ascia Folgorante, scarta una carta o paga {5}. 
 L'Ascia Folgorante infligge 5 danni a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1351,7 +1351,7 @@ L'Ascia Folgorante infligge 5 danni a una creatura bersaglio.</text>
   <item>
     <id>TSP0170</id>
     <name>Mogg Maresciallo di Guerra</name>
-    <text>Eco {1}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.)
+    <text>Eco {1}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.) 
 Quando il Mogg Maresciallo di Guerra entra nel campo di battaglia o viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura Goblin 1/1 rossa.</text>
     <flavorText>
     </flavorText>
@@ -1366,7 +1366,7 @@ Quando il Mogg Maresciallo di Guerra entra nel campo di battaglia o viene messo 
   <item>
     <id>TSP0172</id>
     <name>Cannoneggiamento degli Orchi</name>
-    <text>Il Cannoneggiamento degli Orchi infligge 2 danni a una creatura o a un giocatore bersaglio e 3 danni a te.
+    <text>Il Cannoneggiamento degli Orchi infligge 2 danni a una creatura o a un giocatore bersaglio e 3 danni a te. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1374,9 +1374,9 @@ Pesca una carta.</text>
   <item>
     <id>TSP0173</id>
     <name>Drago Pardico</name>
-    <text>Volare
-{R}: Il Drago Pardico prende +1/+0 fino alla fine del turno.
-Sospendere 2-{R}{R}
+    <text>Volare 
+{R}: Il Drago Pardico prende +1/+0 fino alla fine del turno. 
+Sospendere 2-{R}{R} 
 Ogniqualvolta un avversario lancia una magia, se il Drago Pardico è sospeso, quel giocatore può mettere un segnalino tempo sul Drago Pardico.</text>
     <flavorText>
     </flavorText>
@@ -1384,15 +1384,15 @@ Ogniqualvolta un avversario lancia una magia, se il Drago Pardico è sospeso, qu
   <item>
     <id>TSP0174</id>
     <name>Razziare</name>
-    <text>Distruggi un artefatto o una terra bersaglio.
-Sospendere 4-{1}{R} (Invece di lanciare questa carta dalla tua mano, puoi pagare {1}{R} e esiliarla con quattro segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana.)</text>
+    <text>Distruggi un artefatto o una terra bersaglio. 
+Sospendere 4-{1}{R} (Invece di lanciare questa carta dalla tua mano, puoi pagare {1}{R} e esiliarla con quattro segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0175</id>
     <name>Ripetere</name>
-    <text>Riscatto {3} (Puoi pagare {3} addizionale mentre lanci questa magia). Se lo fai, riprendi in mano questa carta quando si risolve.)
+    <text>Riscatto {3} (Puoi pagare {3} addizionale mentre lanci questa magia). Se lo fai, riprendi in mano questa carta quando si risolve.) 
 Copia una magia istantaneo o stregoneria bersaglio. Puoi scegliere nuovi bersagli per la copia.</text>
     <flavorText>
     </flavorText>
@@ -1400,7 +1400,7 @@ Copia una magia istantaneo o stregoneria bersaglio. Puoi scegliere nuovi bersagl
   <item>
     <id>TSP0176</id>
     <name>Saetta Squarciante</name>
-    <text>La Saetta Squarciante infligge 3 danni a una creatura o a un giocatore bersaglio.
+    <text>La Saetta Squarciante infligge 3 danni a una creatura o a un giocatore bersaglio. 
 Sospendere 1-{R} (Invece di lanciare questa carta dalla tua mano, puoi pagare {R} e esiliarla con un segnalino tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana.)</text>
     <flavorText>
     </flavorText>
@@ -1408,7 +1408,7 @@ Sospendere 1-{R} (Invece di lanciare questa carta dalla tua mano, puoi pagare {R
   <item>
     <id>TSP0177</id>
     <name>Tramutante del Falasco</name>
-    <text>Tutte le creature Tramutante hanno "Questa creatura prende +1/+1 fintanto che controlli una Palude".
+    <text>Tutte le creature Tramutante hanno "Questa creatura prende +1/+1 fintanto che controlli una Palude". 
 Tutti i Tramutanti hanno "{B}: Rigenera questo permanente."</text>
     <flavorText>
     </flavorText>
@@ -1416,7 +1416,7 @@ Tutti i Tramutanti hanno "{B}: Rigenera questo permanente."</text>
   <item>
     <id>TSP0178</id>
     <name>Errante Sotterranea</name>
-    <text>Eco {1}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.)
+    <text>Eco {1}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.) 
 Quando l'Errante Sotterranea entra nel campo di battaglia o lascia il campo di battaglia, infligge 1 danno a ogni creatura senza volare.</text>
     <flavorText>
     </flavorText>
@@ -1424,7 +1424,7 @@ Quando l'Errante Sotterranea entra nel campo di battaglia o lascia il campo di b
   <item>
     <id>TSP0179</id>
     <name>Shock Improvviso</name>
-    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.)
+    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.) 
 Lo Shock Improvviso infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1439,7 +1439,7 @@ Lo Shock Improvviso infligge 2 danni a una creatura o a un giocatore bersaglio.<
   <item>
     <id>TSP0181</id>
     <name>Demone Tettonico</name>
-    <text>Eco {4}{R}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che tu paghi il suo costo di eco.)
+    <text>Eco {4}{R}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che tu paghi il suo costo di eco.) 
 Il Demone Tettonico attacca ogni turno se può farlo.</text>
     <flavorText>
     </flavorText>
@@ -1447,7 +1447,7 @@ Il Demone Tettonico attacca ogni turno se può farlo.</text>
   <item>
     <id>TSP0182</id>
     <name>Goblin dalla Pelle Dura</name>
-    <text>Puoi pagare {0} anziché pagare il costo di eco per i permanenti che controlli.
+    <text>Puoi pagare {0} anziché pagare il costo di eco per i permanenti che controlli. 
 {R}: Il Goblin dalla Pelle Dura guadagna protezione dal rosso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1462,8 +1462,8 @@ Il Demone Tettonico attacca ogni turno se può farlo.</text>
   <item>
     <id>TSP0184</id>
     <name>Rabbia Imperitura</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/+2 e non può bloccare.
+    <text>Incanta creatura 
+La creatura incantata prende +2/+2 e non può bloccare. 
 Quando la Rabbia Imperitura viene messa in un cimitero dal campo di battaglia, fai tornare la Rabbia Imperitura in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -1471,7 +1471,7 @@ Quando la Rabbia Imperitura viene messa in un cimitero dal campo di battaglia, f
   <item>
     <id>TSP0185</id>
     <name>Esploralama Viashino</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
 Quando l'Esploralama Viashino entra nel campo di battaglia, una creatura bersaglio guadagna attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1479,7 +1479,7 @@ Quando l'Esploralama Viashino entra nel campo di battaglia, una creatura bersagl
   <item>
     <id>TSP0186</id>
     <name>Risveglio Vulcanico</name>
-    <text>Distruggi una terra bersaglio.
+    <text>Distruggi una terra bersaglio. 
 Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in questo turno. Puoi scegliere nuovi bersagli per le copie.)</text>
     <flavorText>
     </flavorText>
@@ -1487,8 +1487,8 @@ Tempesta (Quando lanci questa magia, copiala per ogni magia lanciata prima in qu
   <item>
     <id>TSP0187</id>
     <name>Ruota del Fato</name>
-    <text>Ruota del Fato è rossa.
-Sospendere 4-{1}{R} (Invece di lanciare questa carta dalla tua mano, paga {1}{R} e esiliala con quattro segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana.)
+    <text>Ruota del Fato è rossa. 
+Sospendere 4-{1}{R} (Invece di lanciare questa carta dalla tua mano, paga {1}{R} e esiliala con quattro segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana.) 
 Ogni giocatore scarta la propria mano, poi pesca sette carte.</text>
     <flavorText>
     </flavorText>
@@ -1496,17 +1496,17 @@ Ogni giocatore scarta la propria mano, poi pesca sette carte.</text>
   <item>
     <id>TSP0188</id>
     <name>Parola di Possesso</name>
-    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.)
+    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.) 
 STAPpa un permanente bersaglio e guadagnane il controllo fino alla fine del turno. Ha rapidità fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0189</id>
-    <name>Ragnatela Eterea</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
-Incanta creatura
-La creatura incantata prende +1/+1, ha raggiungere, e può bloccare le creature con ombra come se non avessero ombra.</text>
+    <name>Æther Web</name>
+    <text>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature gets +1/+1, has reach, and can block creatures with shadow as though they didn't have shadow. (Creatures with reach can block creatures with flying.)</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1520,8 +1520,8 @@ La creatura incantata prende +1/+1, ha raggiungere, e può bloccare le creature 
   <item>
     <id>TSP0191</id>
     <name>Aspetto della Mangusta</name>
-    <text>Incanta creatura
-La creatura incantata ha velo (Non può essere bersaglio di magie o abilità.)
+    <text>Incanta creatura 
+La creatura incantata ha velo (Non può essere bersaglio di magie o abilità.) 
 Quando l'Aspetto della Mangusta viene messo in un cimitero dal campo di battaglia, il proprietario riprende in mano l'Aspetto della Mangusta.</text>
     <flavorText>
     </flavorText>
@@ -1578,7 +1578,7 @@ Quando l'Aspetto della Mangusta viene messo in un cimitero dal campo di battagli
   <item>
     <id>TSP0199</id>
     <name>Wurm di Havenwood</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti giocare un istantaneo.)
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti giocare un istantaneo.) 
 Travolgere</text>
     <flavorText>
     </flavorText>
@@ -1593,8 +1593,8 @@ Travolgere</text>
   <item>
     <id>TSP0201</id>
     <name>Ipergenesi</name>
-    <text>Ipergenesi è verde.
-Sospendere 3-{1}{G}{G}
+    <text>Ipergenesi è verde. 
+Sospendere 3-{1}{G}{G} 
 A partire da te, ogni giocatore può mettere sul campo di battaglia una carta artefatto, creatura, incantesimo o terra dalla propria mano. Ripeti questo procedimento fino a che nessuno mette sul campo di battaglia una carta.</text>
     <flavorText>
     </flavorText>
@@ -1602,7 +1602,7 @@ A partire da te, ogni giocatore può mettere sul campo di battaglia una carta ar
   <item>
     <id>TSP0202</id>
     <name>Stretta di Krosa</name>
-    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.)
+    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.) 
 Distruggi un artefatto o un incantesimo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1645,7 +1645,7 @@ Distruggi un artefatto o un incantesimo bersaglio.</text>
   <item>
     <id>TSP0208</id>
     <name>Sciamano Nantuko</name>
-    <text>Quando lo Sciamano Nantuko entra nel campo di battaglia, se non controlli terre TAPpate, pesca una carta.
+    <text>Quando lo Sciamano Nantuko entra nel campo di battaglia, se non controlli terre TAPpate, pesca una carta. 
 Sospendere 1-{2}{G}{G} (Invece di lanciare questa carta dalla tua mano, puoi pagare {2}{G}{G} e esiliarla con un segnalino tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana. Ha rapidità.)</text>
     <flavorText>
     </flavorText>
@@ -1660,7 +1660,7 @@ Sospendere 1-{2}{G}{G} (Invece di lanciare questa carta dalla tua mano, puoi pag
   <item>
     <id>TSP0210</id>
     <name>Ragno della Penombra</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
 Quando il Ragno della Penombra viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura Ragno 2/4 nera con raggiungere.</text>
     <flavorText>
     </flavorText>
@@ -1668,7 +1668,7 @@ Quando il Ragno della Penombra viene messo in un cimitero dal campo di battaglia
   <item>
     <id>TSP0211</id>
     <name>Wurm Fantasma</name>
-    <text>Il Wurm Fantasma entra nel campo di battaglia con quattro segnalini +1/+1.
+    <text>Il Wurm Fantasma entra nel campo di battaglia con quattro segnalini +1/+1. 
 Se sta per essere inflitto danno al Wurm Fantasma, previeni quel danno. Rimuovi un segnalino +1/+1 dal Wurm Fantasma.</text>
     <flavorText>
     </flavorText>
@@ -1683,8 +1683,8 @@ Se sta per essere inflitto danno al Wurm Fantasma, previeni quel danno. Rimuovi 
   <item>
     <id>TSP0213</id>
     <name>Thallid Selvaggia</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino spora sulla Thallid Selvaggia.
-Rimuovi tre segnalini spora dalla Thallid Selvaggia: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora sulla Thallid Selvaggia. 
+Rimuovi tre segnalini spora dalla Thallid Selvaggia: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde. 
 Sacrifica un Saprolingio: Rigenera un Fungus bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1699,8 +1699,8 @@ Sacrifica un Saprolingio: Rigenera un Fungus bersaglio.</text>
   <item>
     <id>TSP0215</id>
     <name>Ranger di Scryb</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-Volare, protezione dal blu
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Volare, protezione dal blu 
 Fai tornare una Foresta che controlli in mano al suo proprietario: STAPpa una creatura bersaglio. Attiva questa abilità solo una volta per turno.</text>
     <flavorText>
     </flavorText>
@@ -1708,7 +1708,7 @@ Fai tornare una Foresta che controlli in mano al suo proprietario: STAPpa una cr
   <item>
     <id>TSP0216</id>
     <name>Ricerca di un Domani</name>
-    <text>Passa in rassegna il tuo grimorio per una carta terra base e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.
+    <text>Passa in rassegna il tuo grimorio per una carta terra base e mettila sul campo di battaglia. Poi rimescola il tuo grimorio. 
 Sospendere 2-{G} (Invece di lanciare questa carta dalla tua mano, puoi pagare {G} e esiliarla con due segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lancia la carta senza pagare il suo costo di mana.)</text>
     <flavorText>
     </flavorText>
@@ -1716,7 +1716,7 @@ Sospendere 2-{G} (Invece di lanciare questa carta dalla tua mano, puoi pagare {G
   <item>
     <id>TSP0217</id>
     <name>Forza Spettrale</name>
-    <text>Travolgere
+    <text>Travolgere 
 Ogniqualvolta la Forza Spettrale attacca, se il giocatore in difesa non controlla permanenti neri, essa non STAPpa durante il tuo prossimo STAP.</text>
     <flavorText>
     </flavorText>
@@ -1724,8 +1724,8 @@ Ogniqualvolta la Forza Spettrale attacca, se il giocatore in difesa non controll
   <item>
     <id>TSP0218</id>
     <name>Pungiglione Coltivatore</name>
-    <text>Il Pungiglione Coltivatore entra nel campo di battaglia con tre segnalini +1/+1.
-{2}, Rimuovi un segnalino +1/+1 dal Pungiglione Coltivatore: Metti un segnalino +1/+1 su una creatura bersaglio.
+    <text>Il Pungiglione Coltivatore entra nel campo di battaglia con tre segnalini +1/+1. 
+{2}, Rimuovi un segnalino +1/+1 dal Pungiglione Coltivatore: Metti un segnalino +1/+1 su una creatura bersaglio. 
 {2}, Rimuovi un segnalino +1/+1 dal Pungiglione Coltivatore: Una terra bersaglio diventa una creatura 2/2 che è ancora una terra. Metti un segnalino +1/+1 su di essa.</text>
     <flavorText>
     </flavorText>
@@ -1740,7 +1740,7 @@ Ogniqualvolta la Forza Spettrale attacca, se il giocatore in difesa non controll
   <item>
     <id>TSP0220</id>
     <name>Thallid Spargispore</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino spora su ogni Fungus che controlli.
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora su ogni Fungus che controlli. 
 Rimuovi tre segnalini spora dalla Thallid Spargispore: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.</text>
     <flavorText>
     </flavorText>
@@ -1762,7 +1762,7 @@ Rimuovi tre segnalini spora dalla Thallid Spargispore: Metti sul campo di battag
   <item>
     <id>TSP0223</id>
     <name>Evocazione di Boscopietra</name>
-    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.)
+    <text>Battibaleno (Fintanto che questa magia è in pila, i giocatori non possono lanciare magie o attivare abilità che non siano abilità di mana.) 
 Una creatura bersaglio prende +5/+5 e guadagna velo fino alla fine del turno. (Non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -1777,8 +1777,8 @@ Una creatura bersaglio prende +5/+5 e guadagna velo fino alla fine del turno. (N
   <item>
     <id>TSP0225</id>
     <name>Thallid Genitrice</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino spora sulla Thallid Genitrice.
-Rimuovi tre segnalini spora dalla Thallid Genitrice: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.
+    <text>All'inizio del tuo mantenimento, metti un segnalino spora sulla Thallid Genitrice. 
+Rimuovi tre segnalini spora dalla Thallid Genitrice: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde. 
 Sacrifica un Saprolingio: Una creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1786,8 +1786,8 @@ Sacrifica un Saprolingio: Una creatura bersaglio prende +1/+1 fino alla fine del
   <item>
     <id>TSP0226</id>
     <name>Thallid col Guscio</name>
-    <text>Difensore
-All'inizio del tuo mantenimento, metti un segnalino spora sulla Thallid col Guscio.
+    <text>Difensore 
+All'inizio del tuo mantenimento, metti un segnalino spora sulla Thallid col Guscio. 
 Rimuovi tre segnalini spora dalla Thallid col Guscio: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.</text>
     <flavorText>
     </flavorText>
@@ -1795,7 +1795,7 @@ Rimuovi tre segnalini spora dalla Thallid col Guscio: Metti sul campo di battagl
   <item>
     <id>TSP0227</id>
     <name>Thelon di Havenwood</name>
-    <text>Ogni creatura Fungus prende +1/+1 per ogni segnalino spora presente su di essa.
+    <text>Ogni creatura Fungus prende +1/+1 per ogni segnalino spora presente su di essa. 
 {B}{G}, Esilia una carta Fungus da un cimitero: Metti un segnalino spora su ogni Fungus sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -1803,8 +1803,8 @@ Rimuovi tre segnalini spora dalla Thallid col Guscio: Metti sul campo di battagl
   <item>
     <id>TSP0228</id>
     <name>Eremita Seguace di Thelon</name>
-    <text>Le creature Saprolingio prendono +1/+1.
-Metamorfosi {3}{G}{G} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)
+    <text>Le creature Saprolingio prendono +1/+1. 
+Metamorfosi {3}{G}{G} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.) 
 Quando l'Eremita Seguace di Thelon viene girato a faccia in su, metti sul campo di battaglia quattro pedine creatura Saprolingio 1/1 verdi.</text>
     <flavorText>
     </flavorText>
@@ -1812,7 +1812,7 @@ Quando l'Eremita Seguace di Thelon viene girato a faccia in su, metti sul campo 
   <item>
     <id>TSP0229</id>
     <name>Brivido della Caccia</name>
-    <text>Una creatura bersaglio prende +1/+2 fino alla fine del turno.
+    <text>Una creatura bersaglio prende +1/+2 fino alla fine del turno. 
 Flashback {W} (Puoi lanciare questa carta dal tuo cimitero pagando il suo costo di flashback. Poi esiliala.)</text>
     <flavorText>
     </flavorText>
@@ -1827,8 +1827,8 @@ Flashback {W} (Puoi lanciare questa carta dal tuo cimitero pagando il suo costo 
   <item>
     <id>TSP0231</id>
     <name>Api di Unyaro</name>
-    <text>Volare
-{G}: Le Api di Unyaro prendono +1/+1 fino alla fine del turno.
+    <text>Volare 
+{G}: Le Api di Unyaro prendono +1/+1 fino alla fine del turno. 
 {3}{G}, Sacrifica le Api di Unyaro: Le Api di Unyaro infliggono 2 danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1836,7 +1836,7 @@ Flashback {W} (Puoi lanciare questa carta dal tuo cimitero pagando il suo costo 
   <item>
     <id>TSP0232</id>
     <name>Abbraccio della Vegetazione</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +3/+3 e ha "All'inizio di ogni mantenimento, metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde."</text>
     <flavorText>
     </flavorText>
@@ -1844,7 +1844,7 @@ La creatura incantata prende +3/+3 e ha "All'inizio di ogni mantenimento, metti 
   <item>
     <id>TSP0233</id>
     <name>Driade di Vermibosco</name>
-    <text>{G}: La Driade di Vermibosco guadagna passaforeste fino alla fine del turno e ti infligge 1 danno.
+    <text>{G}: La Driade di Vermibosco guadagna passaforeste fino alla fine del turno e ti infligge 1 danno. 
 {B}: La Driade di Vermibosco guadagna passapaludi fino alla fine del turno e ti infligge 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -1852,7 +1852,7 @@ La creatura incantata prende +3/+3 e ha "All'inizio di ogni mantenimento, metti 
   <item>
     <id>TSP0234</id>
     <name>Convocawurm</name>
-    <text>Riscatto {2}{G} (Puoi pagare {2}{G} addizionale mentre lanci questa magia. Se lo fai, riprendi in mano questa carta quando si risolve.)
+    <text>Riscatto {2}{G} (Puoi pagare {2}{G} addizionale mentre lanci questa magia. Se lo fai, riprendi in mano questa carta quando si risolve.) 
 Metti sul campo di battaglia una pedina creatura Wurm X/X verde.</text>
     <flavorText>
     </flavorText>
@@ -1860,7 +1860,7 @@ Metti sul campo di battaglia una pedina creatura Wurm X/X verde.</text>
   <item>
     <id>TSP0235</id>
     <name>Driade di Yavimaya</name>
-    <text>Passa-Foreste
+    <text>Passa-Foreste 
 Quando la Driade di Yavimaya entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Foresta e metterla sul campo di battaglia TAPpata sotto il controllo di un giocatore bersaglio. Se lo fai, rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1875,7 +1875,7 @@ Quando la Driade di Yavimaya entra nel campo di battaglia, puoi passare in rasse
   <item>
     <id>TSP0237</id>
     <name>Dralnu, Signore dei Lich</name>
-    <text>Se sta per essere inflitto danno a Dralnu, sacrifica invece altrettanti permanenti.
+    <text>Se sta per essere inflitto danno a Dralnu, sacrifica invece altrettanti permanenti. 
 {T}: Una carta istantaneo o stregoneria bersaglio nel tuo cimitero ha flashback fino alla fine del turno. Il suo costo di flashback diventa pari al suo costo di mana quando la giochi. (Puoi lanciare quella carta dal tuo cimitero pagando il suo costo di flashback. Poi esiliala).</text>
     <flavorText>
     </flavorText>
@@ -1883,7 +1883,7 @@ Quando la Driade di Yavimaya entra nel campo di battaglia, puoi passare in rasse
   <item>
     <id>TSP0238</id>
     <name>Tramutante Scia Infuocata</name>
-    <text>Tutti le creature Tramutante hanno rapidità.
+    <text>Tutti le creature Tramutante hanno rapidità. 
 Tutti i Tramutanti hanno "{1}, Sacrifica questo permanente: Una creatura Tramutante bersaglio prende +2/+2 fino alla fine del turno."</text>
     <flavorText>
     </flavorText>
@@ -1905,8 +1905,8 @@ Tutti i Tramutanti hanno "{1}, Sacrifica questo permanente: Una creatura Tramuta
   <item>
     <id>TSP0241</id>
     <name>Ith, Sommo Arcanista</name>
-    <text>Cautela
-{T}: STAPpa una creatura attaccante bersaglio. Previeni tutto il danno da combattimento che verrebbe inflitto a e da quella creatura in questo turno.
+    <text>Cautela 
+{T}: STAPpa una creatura attaccante bersaglio. Previeni tutto il danno da combattimento che verrebbe inflitto a e da quella creatura in questo turno. 
 Sospendere 4-{W}{U}</text>
     <flavorText>
     </flavorText>
@@ -1942,7 +1942,7 @@ Sospendere 4-{W}{U}</text>
   <item>
     <id>TSP0246</id>
     <name>Discendente dell'Ur-Drago</name>
-    <text>Volare
+    <text>Volare 
 {2}: Passa in rassegna il tuo grimorio per una carta permanente Drago e mettila nel tuo cimitero. Se lo fai, il Discendente dell'Ur-Drago diventa una copia di quella carta fino alla fine del turno. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1950,7 +1950,7 @@ Sospendere 4-{W}{U}</text>
   <item>
     <id>TSP0247</id>
     <name>Asprociglio, Eroe di Krosa</name>
-    <text>Travolgere
+    <text>Travolgere 
 Ogniqualvolta una creatura con travolgere che controlli attacca, essa prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1958,15 +1958,15 @@ Ogniqualvolta una creatura con travolgere che controlli attacca, essa prende +2/
   <item>
     <id>TSP0248</id>
     <name>Addetto-al-Montaggio</name>
-    <text>{T}: La creatura Addetto-al-Montaggio bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <text>{T}: La creatura Addetto-al-Montaggio bersaglio prende +1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0249</id>
     <name>Moscerino d'Ottone</name>
-    <text>Volare
-Il Moscerino D'Ottone non STAPpa durante il tuo STAP.
+    <text>Volare 
+Il Moscerino D'Ottone non STAPpa durante il tuo STAP. 
 All'inizio del tuo mantenimento, puoi pagare {1}. Se lo fai, STAPpa il Moscerino d'Ottone.</text>
     <flavorText>
     </flavorText>
@@ -1981,7 +1981,7 @@ All'inizio del tuo mantenimento, puoi pagare {1}. Se lo fai, STAPpa il Moscerino
   <item>
     <id>TSP0251</id>
     <name>Stella Cromatica</name>
-    <text>{1}, {T}, Sacrifica la Stella Cromatica : Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.
+    <text>{1}, {T}, Sacrifica la Stella Cromatica : Aggiungi un mana di un qualsiasi colore alla tua riserva di mana. 
 Quando la Stella Cromatica viene messa in un cimitero dal campo di battaglia, pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1989,8 +1989,8 @@ Quando la Stella Cromatica viene messa in un cimitero dal campo di battaglia, pe
   <item>
     <id>TSP0252</id>
     <name>Totem dell'Atog Temporale</name>
-    <text>{T} : Aggiungi{U} alla tua riserva di mana.
-{1}{U} : Il Totem dell'Atog Temporale diventa una creatura artefatto Atog 1/2 blu fino alla fine del turno.
+    <text>{T} : Aggiungi{U} alla tua riserva di mana. 
+{1}{U} : Il Totem dell'Atog Temporale diventa una creatura artefatto Atog 1/2 blu fino alla fine del turno. 
 {0} : Il Totem dell'Atog Temporale prende +3/+3 fino alla fine del turno. Salta il tuo prossimo turno. Attiva questa abilità solo una volta per turno e solo se il Totem dell'Atog Temporale è una creatura.</text>
     <flavorText>
     </flavorText>
@@ -1998,8 +1998,8 @@ Quando la Stella Cromatica viene messa in un cimitero dal campo di battaglia, pe
   <item>
     <id>TSP0253</id>
     <name>Idra Meccanica</name>
-    <text>L'Idra Meccanica entra nel campo di battaglia con quattro segnalini +1/+1 su di essa.
-Ogniqualvolta l'Idra Meccanica attacca o blocca, rimuovi un segnalino +1/+1 da essa. Se lo fai, l'Idra Meccanica infligge 1 danno a una creatura o a un giocatore bersaglio.
+    <text>L'Idra Meccanica entra nel campo di battaglia con quattro segnalini +1/+1 su di essa. 
+Ogniqualvolta l'Idra Meccanica attacca o blocca, rimuovi un segnalino +1/+1 da essa. Se lo fai, l'Idra Meccanica infligge 1 danno a una creatura o a un giocatore bersaglio. 
 {T} : Metti un segnalino +1/+1 sull'Idra Meccanica.</text>
     <flavorText>
     </flavorText>
@@ -2007,8 +2007,8 @@ Ogniqualvolta l'Idra Meccanica attacca o blocca, rimuovi un segnalino +1/+1 da e
   <item>
     <id>TSP0254</id>
     <name>Totem di Foriys</name>
-    <text>{T}: Aggiungi {R} alla tua riserva di mana.
-{4}{R}: Il Totem di Foriys diventa una creatura artefatto Gigante 4/4 rossa con travolgere fino alla fine del turno.
+    <text>{T}: Aggiungi {R} alla tua riserva di mana. 
+{4}{R}: Il Totem di Foriys diventa una creatura artefatto Gigante 4/4 rossa con travolgere fino alla fine del turno. 
 Fintanto che il Totem di Foriys è una creatura, può bloccare una creatura addizionale.</text>
     <flavorText>
     </flavorText>
@@ -2016,8 +2016,8 @@ Fintanto che il Totem di Foriys è una creatura, può bloccare una creatura addi
   <item>
     <id>TSP0255</id>
     <name>Guanto del Potere</name>
-    <text>Mentre il Guanto del Potere entra nel campo di battaglia, scegli un colore.
-Le creature del colore scelto prendono +1/+1.
+    <text>Mentre il Guanto del Potere entra nel campo di battaglia, scegli un colore. 
+Le creature del colore scelto prendono +1/+1. 
 Ogniqualvolta una terra base viene TAPpata per attingere mana del colore scelto, il suo controllore aggiunge un mana di quel colore alla propria riserva di mana (in aggiunta al mana prodotto dalla terra).</text>
     <flavorText>
     </flavorText>
@@ -2046,7 +2046,7 @@ Ogniqualvolta una terra base viene TAPpata per attingere mana del colore scelto,
   <item>
     <id>TSP0259</id>
     <name>Fiore di Loto</name>
-    <text>Sospendere 3-{0} (Invece di lanciare questa carta dalla tua mano, paga {0} e esiliala con tre segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lanciala senza pagare il suo costo di mana.)
+    <text>Sospendere 3-{0} (Invece di lanciare questa carta dalla tua mano, paga {0} e esiliala con tre segnalini tempo su di essa. All'inizio del tuo mantenimento, rimuovi un segnalino tempo. Quando rimuovi l'ultimo, lanciala senza pagare il suo costo di mana.) 
 {T}, Sacrifica il Fiore di Loto: Aggiungi tre mana di qualsiasi singolo colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2054,8 +2054,8 @@ Ogniqualvolta una terra base viene TAPpata per attingere mana del colore scelto,
   <item>
     <id>TSP0260</id>
     <name>Piuma del Paradiso</name>
-    <text>Mentre la Piuma del Paradiso entra nel campo di battaglia, scegli un colore.
-Ogniqualvolta un giocatore lancia una magia del colore scelto, puoi guadagnare 1 punto vita.
+    <text>Mentre la Piuma del Paradiso entra nel campo di battaglia, scegli un colore. 
+Ogniqualvolta un giocatore lancia una magia del colore scelto, puoi guadagnare 1 punto vita. 
 {T}: Aggiungi un mana del colore scelto alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2063,8 +2063,8 @@ Ogniqualvolta un giocatore lancia una magia del colore scelto, puoi guadagnare 1
   <item>
     <id>TSP0261</id>
     <name>Totem di Phyrexia</name>
-    <text>{T}: Aggiungi {B} alla tua riserva di mana.
-{2}{B}: Il Totem di Phyrexia diventa una creatura artefatto Orrore 5/5 nera con travolgere fino alla fine del turno.
+    <text>{T}: Aggiungi {B} alla tua riserva di mana. 
+{2}{B}: Il Totem di Phyrexia diventa una creatura artefatto Orrore 5/5 nera con travolgere fino alla fine del turno. 
 Ogniqualvolta viene inflitto danno al Totem di Phyrexia, se è una creatura, sacrifica altrettanti permanenti.</text>
     <flavorText>
     </flavorText>
@@ -2072,7 +2072,7 @@ Ogniqualvolta viene inflitto danno al Totem di Phyrexia, se è una creatura, sac
   <item>
     <id>TSP0262</id>
     <name>Lente Prismatica</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {1}, {T}: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2080,7 +2080,7 @@ Ogniqualvolta viene inflitto danno al Totem di Phyrexia, se è una creatura, sac
   <item>
     <id>TSP0263</id>
     <name>Imperi di Sarpadia, Vol. VII</name>
-    <text>Mentre Imperi di Sarpadia, Vol. VII entra nel campo di battaglia, scegli Cittadino bianco, Camarid blu, Thrull nero, Goblin rosso o Saprolingio verde.
+    <text>Mentre Imperi di Sarpadia, Vol. VII entra nel campo di battaglia, scegli Cittadino bianco, Camarid blu, Thrull nero, Goblin rosso o Saprolingio verde. 
 {3}, {T}: Metti sul campo di battaglia una pedina creatura 1/1 del colore e del tipo scelti.</text>
     <flavorText>
     </flavorText>
@@ -2088,9 +2088,9 @@ Ogniqualvolta viene inflitto danno al Totem di Phyrexia, se è una creatura, sac
   <item>
     <id>TSP0264</id>
     <name>Bambola di Pezza</name>
-    <text>Mentre la Bambola di Pezza entra nel campo di battaglia, scegli un giocatore.
-La Bambola di Pezza è indistruttibile.
-Ogniqualvolta viene inflitto danno alla Bambola di Pezza, essa infligge altrettanti danni al giocatore scelto.
+    <text>Mentre la Bambola di Pezza entra nel campo di battaglia, scegli un giocatore. 
+La Bambola di Pezza è indistruttibile. 
+Ogniqualvolta viene inflitto danno alla Bambola di Pezza, essa infligge altrettanti danni al giocatore scelto. 
 {T}: La Bambola di Pezza infligge 1 danno a sé stessa.</text>
     <flavorText>
     </flavorText>
@@ -2098,7 +2098,7 @@ Ogniqualvolta viene inflitto danno alla Bambola di Pezza, essa infligge altretta
   <item>
     <id>TSP0265</id>
     <name>Totem del Tuono</name>
-    <text>{T}: Aggiungi {W} alla tua riserva di mana.
+    <text>{T}: Aggiungi {W} alla tua riserva di mana. 
 {1}{W}{W}: Il Totem del Tuono diventa una creatura artefatto Spirito 2/2 bianca con volare e attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2106,8 +2106,8 @@ Ogniqualvolta viene inflitto danno alla Bambola di Pezza, essa infligge altretta
   <item>
     <id>TSP0266</id>
     <name>Triskelavus</name>
-    <text>Volare
-Il Triskelavus entra nel campo di battaglia con tre segnalini +1/+1.
+    <text>Volare 
+Il Triskelavus entra nel campo di battaglia con tre segnalini +1/+1. 
 {1}, Rimuovi un segnalino +1/+1 dal Triskelavus: Metti sul campo di battaglia una pedina creatura artefatto Triskelavite 1/1 incolore con volare. Ha "Sacrifica questa creatura: Questa creatura infligge 1 danno a una creatura o a un giocatore bersaglio."</text>
     <flavorText>
     </flavorText>
@@ -2123,8 +2123,8 @@ Il Triskelavus entra nel campo di battaglia con tre segnalini +1/+1.
   <item>
     <id>TSP0268</id>
     <name>Totem di Seme del Vento</name>
-    <text>{T}: Aggiungi {G} alla tua riserva di mana.
-{2}{G}{G}{G}: Il Totem di Seme del Vento diventa una creatura artefatto Silvantropo 5/3 verde con travolgere fino alla fine del turno.
+    <text>{T}: Aggiungi {G} alla tua riserva di mana. 
+{2}{G}{G}{G}: Il Totem di Seme del Vento diventa una creatura artefatto Silvantropo 5/3 verde con travolgere fino alla fine del turno. 
 Quando il Totem di Seme del Vento viene messo in un cimitero dal campo di battaglia, se era una creatura, il proprietario lo riprende in mano.</text>
     <flavorText>
     </flavorText>
@@ -2132,7 +2132,7 @@ Quando il Totem di Seme del Vento viene messo in un cimitero dal campo di battag
   <item>
     <id>TSP0269</id>
     <name>Rovine dell'Accademia</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {1}{U}, {T}: Metti una carta artefatto bersaglio dal tuo cimitero in cima al tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -2140,16 +2140,17 @@ Quando il Totem di Seme del Vento viene messo in un cimitero dal campo di battag
   <item>
     <id>TSP0270</id>
     <name>Pozze Calciformi</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}, {T}: Metti un segnalino magazzino sulle Pozze Calciformi.; {1}, Rimuovi X segnalini magazzino dalle Pozze Calciformi: Aggiungi X mana in qualsiasi combinazione di {W} e/o {U} alla tua riserva di mana.</text>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Metti un segnalino magazzino sulle Pozze Calciformi.
+{1}, Rimuovi X segnalini magazzino dalle Pozze Calciformi: Aggiungi X mana in qualsiasi combinazione di {W} e/o {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0271</id>
     <name>Barriera Terrore delle Navi</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}, {T}: Metti un segnalino magazzino sulla Barriera Terrore delle Navi.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Metti un segnalino magazzino sulla Barriera Terrore delle Navi. 
 {1}, Rimuovi X segnalini magazzino dalla Barriera Terrore delle Navi: Aggiungi X mana in qualsiasi combinazione di {U} e/o {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2157,7 +2158,7 @@ Quando il Totem di Seme del Vento viene messo in un cimitero dal campo di battag
   <item>
     <id>TSP0272</id>
     <name>Lastricato di Trokair</name>
-    <text>{T}: Aggiungi {W} alla tua riserva di mana.
+    <text>{T}: Aggiungi {W} alla tua riserva di mana. 
 Quando il Lastricato di Trokair viene messo in un cimitero dal campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta Pianura e metterla nel campo di battaglia TAPpata. Se lo fai, rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -2165,8 +2166,8 @@ Quando il Lastricato di Trokair viene messo in un cimitero dal campo di battagli
   <item>
     <id>TSP0273</id>
     <name>Distese Fungine</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}, {T}: Metti un segnalino magazzino sulle Distese Fungine.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Metti un segnalino magazzino sulle Distese Fungine. 
 {1}, Rimuovi X segnalini magazzino dalle Distese Fungine: Aggiungi X mana in qualsiasi combinazione di {R} e/o {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2174,7 +2175,7 @@ Quando il Lastricato di Trokair viene messo in un cimitero dal campo di battagli
   <item>
     <id>TSP0274</id>
     <name>Caverne di Gemme</name>
-    <text>Se le Caverne di Gemme sono nella tua mano iniziale e non stai giocando per primo, puoi iniziare la partita mettendo nel campo di battaglia le Caverne di Gemme con un segnalino fortuna su di esse. Se lo fai, esilia una carta dalla tua mano.
+    <text>Se le Caverne di Gemme sono nella tua mano iniziale e non stai giocando per primo, puoi iniziare la partita mettendo nel campo di battaglia le Caverne di Gemme con un segnalino fortuna su di esse. Se lo fai, esilia una carta dalla tua mano. 
 {T}: Aggiungi {1} alla tua riserva di mana. Se le Caverne di Gemme hanno un segnalino fortuna, aggiungi invece un mana di qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2182,7 +2183,7 @@ Quando il Lastricato di Trokair viene messo in un cimitero dal campo di battagli
   <item>
     <id>TSP0275</id>
     <name>Roccaforte di Kher</name>
-    <text>{T} : Aggiungi {1} alla tua riserva di mana.
+    <text>{T} : Aggiungi {1} alla tua riserva di mana. 
 {1}{R}, {T} : Metti sul campo di battaglia una pedina creatura Coboldo 0/1 rossa con nome Coboldi della Roccaforte di Kher.</text>
     <flavorText>
     </flavorText>
@@ -2190,8 +2191,8 @@ Quando il Lastricato di Trokair viene messo in un cimitero dal campo di battagli
   <item>
     <id>TSP0276</id>
     <name>Cumulo di Scorie Fuso</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}, {T}: Metti un segnalino magazzino sul Cumulo di Scorie Fuso.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Metti un segnalino magazzino sul Cumulo di Scorie Fuso. 
 {1}, Rimuovi X segnalini magazzino dal Cumulo di Scorie Fuso: Aggiungi X mana in qualsiasi combinazione di {B} e/o {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2199,8 +2200,8 @@ Quando il Lastricato di Trokair viene messo in un cimitero dal campo di battagli
   <item>
     <id>TSP0277</id>
     <name>Steppa Salata</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}, {T}: Metti un segnalino magazzino sulla Steppa Salata.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Metti un segnalino magazzino sulla Steppa Salata. 
 {1}, Rimuovi X segnalini magazzino dalla Steppa Salata: Aggiungi X mana in qualsiasi combinazione di {G} e/o {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2208,7 +2209,7 @@ Quando il Lastricato di Trokair viene messo in un cimitero dal campo di battagli
   <item>
     <id>TSP0278</id>
     <name>Brulicampo</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Rigenera un Insetto, un Ratto, un Ragno, o uno Scoiattolo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2216,14 +2217,14 @@ Quando il Lastricato di Trokair viene messo in un cimitero dal campo di battagli
   <item>
     <id>TSP0279</id>
     <name>Distesa Terramorfica</name>
-    <text>{T}, Sacrifica la Distesa Terramorfica: Passa in rassegna il tuo grimorio per una carta terra base e mettila sul campo di battaglia TAPpata. Poi rimescola il tuo grimorio.</text>
+    <text>{T}, Sacrifica la Distesa Terramorfica: Passa in rassegna il tuo grimorio per una carta terra base e mettila sul campo di battaglia TAPpata. Poi rimescola il tuo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TSP0280</id>
     <name>Fabbrica di Urza</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {7}, {T}: Metti sul campo di battaglia una pedina creatura artefatto Addetto-al-Montaggio 2/2 incolore.</text>
     <flavorText>
     </flavorText>

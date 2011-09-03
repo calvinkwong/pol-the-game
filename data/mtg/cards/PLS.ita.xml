@@ -2,15 +2,15 @@
   <item>
     <id>PLS0001</id>
     <name>Esplosione d'Aura</name>
-    <text>Distruggi un incantesimo bersaglio.
-Pesca una carta.</text>
+    <text>Distruggi un incantesimo bersaglio. 
+Pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0002</id>
     <name>Grifone dell'Aurora</name>
-    <text>Volare
+    <text>Volare 
 {W}: Il permanente bersaglio diventa bianco fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -39,7 +39,7 @@ Pesca una carta.</text>
   <item>
     <id>PLS0006</id>
     <name>Sfida Eroica</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +3/+3 a meno che condivida un colore con il colore più comune o più comune a pari merito tra tutti i permanenti.</text>
     <flavorText>
     </flavorText>
@@ -47,9 +47,9 @@ La creatura incantata prende +3/+3 a meno che condivida un colore con il colore 
   <item>
     <id>PLS0007</id>
     <name>Zoppicare</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
-Quando lo Zoppicare entra nel campo di battaglia, pesca una carta.
-La creatura incantata non può attaccare.
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
+Quando lo Zoppicare entra nel campo di battaglia, pesca una carta. 
+La creatura incantata non può attaccare. 
 La creatura incantata non può bloccare se è nera.</text>
     <flavorText>
     </flavorText>
@@ -64,8 +64,8 @@ La creatura incantata non può bloccare se è nera.</text>
   <item>
     <id>PLS0009</id>
     <name>Barriera di Pugnali a Frusta</name>
-    <text>Quando la Barriera di Pugnali a Frusta entra nel campo di battaglia, pesca una carta.
-Se una fonte sta per infliggere danno ad una creatura che controlli, invece essa infligge quel danno meno 1 a quella creatura.</text>
+    <text>Quando la Barriera di Pugnali a Frusta entra nel campo di battaglia, pesca una carta. 
+Se una fonte sta per infliggere danno ad una creatura che controlli, invece essa infligge quel danno meno 1 a quella creatura. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -79,8 +79,8 @@ Se una fonte sta per infliggere danno ad una creatura che controlli, invece essa
   <item>
     <id>PLS0011</id>
     <name>Canto di Orim</name>
-    <text>Potenziamento {W}
-Il giocatore bersaglio non può lanciare magie in questo turno.
+    <text>Potenziamento {W} 
+Il giocatore bersaglio non può lanciare magie in questo turno. 
 Se è stato pagato il costo di potenziamento, le creature non possono attaccare in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -95,7 +95,7 @@ Se è stato pagato il costo di potenziamento, le creature non possono attaccare 
   <item>
     <id>PLS0013</id>
     <name>Rimedio Pollineo</name>
-    <text>Potenziamento-Sacrifica una terra.
+    <text>Potenziamento-Sacrifica una terra. 
 Previeni i prossimi 3 danni che verrebbero inflitti a un qualsiasi numero di creature e/o giocatori in questo turno, suddivisi a tua scelta. Se è stato pagato il costo di potenziamento, invece previeni in questo modo i prossimi 6 danni.</text>
     <flavorText>
     </flavorText>
@@ -117,8 +117,8 @@ Previeni i prossimi 3 danni che verrebbero inflitti a un qualsiasi numero di cre
   <item>
     <id>PLS0016</id>
     <name>Mago Combattente Soleologo</name>
-    <text>Potenziamento {1}{G} e/o {2}{U}
-Quando il Mago Combattente Soleologo entra NEL campo di battaglia, se è stato pagato il costo di potenziamento {1}{G}, distruggi una creatura bersaglio con volare.
+    <text>Potenziamento {1}{G} e/o {2}{U} 
+Quando il Mago Combattente Soleologo entra NEL campo di battaglia, se è stato pagato il costo di potenziamento {1}{G}, distruggi una creatura bersaglio con volare. 
 Quando il Mago Combattente Soleologo entra NEL campo di battaglia, se è stato pagato il costo di potenziamento {2}{U}, pesca due carte.</text>
     <flavorText>
     </flavorText>
@@ -126,7 +126,7 @@ Quando il Mago Combattente Soleologo entra NEL campo di battaglia, se è stato p
   <item>
     <id>PLS0017</id>
     <name>Famiglio Soleologo</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Le magie verdi e le magie blu che lanci costano {1} in meno per essere lanciate.</text>
     <flavorText>
     </flavorText>
@@ -134,7 +134,7 @@ Le magie verdi e le magie blu che lanci costano {1} in meno per essere lanciate.
   <item>
     <id>PLS0018</id>
     <name>Schieramento a Sorpresa</name>
-    <text>Lancia lo Schieramento a Sorpresa solo durante il combattimento.
+    <text>Lancia lo Schieramento a Sorpresa solo durante il combattimento. 
 Puoi mettere sul campo di battaglia una carta creatura non bianca dalla tua mano. All'inizio della tua prossima sottofase finale, riprendi in mano quella creatura. (Riprendila solo se è sul campo di battaglia.)</text>
     <flavorText>
     </flavorText>
@@ -142,8 +142,8 @@ Puoi mettere sul campo di battaglia una carta creatura non bianca dalla tua mano
   <item>
     <id>PLS0019</id>
     <name>Voce Omnia</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
-Mentre la Voce Omnia entra nel campo di battaglia, scegli un colore.
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) 
+Mentre la Voce Omnia entra nel campo di battaglia, scegli un colore. 
 La Voce Omnia ha protezione dal colore scelto. (Non può essere bloccata, bersagliata, non le può essere inflitto danno, né può essere incantata da nulla del colore scelto.)</text>
     <flavorText>
     </flavorText>
@@ -151,14 +151,14 @@ La Voce Omnia ha protezione dal colore scelto. (Non può essere bloccata, bersag
   <item>
     <id>PLS0020</id>
     <name>Strategie Alleate</name>
-    <text>Dominio - Il giocatore bersaglio pesca una carta per ogni tipo di terra base presente tra le terre che controlla.</text>
+    <text>Dominio - Il giocatore bersaglio pesca una carta per ogni tipo di terra base presente tra le terre che controlla. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0021</id>
     <name>Tritone Artico</name>
-    <text>Potenziamento - Il proprietario riprende in mano una creatura che tu controlli.
+    <text>Potenziamento - Il proprietario riprende in mano una creatura che tu controlli. 
 Se è stato pagato il costo di potenziamento, il Tritone Artico entra nel campo di battaglia con un segnalino +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -166,7 +166,7 @@ Se è stato pagato il costo di potenziamento, il Tritone Artico entra nel campo 
   <item>
     <id>PLS0022</id>
     <name>Stupire</name>
-    <text>Neutralizza una magia bersaglio che ha come bersaglio una o più creature.
+    <text>Neutralizza una magia bersaglio che ha come bersaglio una o più creature. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -174,7 +174,7 @@ Pesca una carta.</text>
   <item>
     <id>PLS0023</id>
     <name>Cucciolo di Dralnu</name>
-    <text>Potenziamento - {2}{B}, Scarta una carta creatura.
+    <text>Potenziamento - {2}{B}, Scarta una carta creatura. 
 Se è stato pagato il costo di potenziamento, il Cucciolo di Dralnu ha volare ed entra nel campo di battaglia con X segnalini +1/+1, dove X è il costo di mana convertito della carta scartata.</text>
     <flavorText>
     </flavorText>
@@ -203,7 +203,7 @@ Se è stato pagato il costo di potenziamento, il Cucciolo di Dralnu ha volare ed
   <item>
     <id>PLS0027</id>
     <name>Draghetto Cacciatore</name>
-    <text>Volare
+    <text>Volare 
 Quando il Draghetto Cacciatore entra nel campo di battaglia, metti una creatura bersaglio rossa o verde in cima al grimorio del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -225,7 +225,7 @@ Quando il Draghetto Cacciatore entra nel campo di battaglia, metti una creatura 
   <item>
     <id>PLS0030</id>
     <name>Fiume Impetuoso</name>
-    <text>Potenziamento-Sacrifica una terra.
+    <text>Potenziamento-Sacrifica una terra. 
 Il proprietario riprende in mano un permanente non terra bersaglio. Se è stato pagato il costo di potenziamento, il proprietario riprende in mano un altro permanente non terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -240,7 +240,7 @@ Il proprietario riprende in mano un permanente non terra bersaglio. Se è stato 
   <item>
     <id>PLS0032</id>
     <name>Cielo Cangiante</name>
-    <text>Mentre il Cielo Cangiante entra nel campo di battaglia, scegli un colore.
+    <text>Mentre il Cielo Cangiante entra nel campo di battaglia, scegli un colore. 
 Tutti i permanenti non terra sono del colore scelto.</text>
     <flavorText>
     </flavorText>
@@ -248,8 +248,8 @@ Tutti i permanenti non terra sono del colore scelto.</text>
   <item>
     <id>PLS0033</id>
     <name>Ingegno di Sisay</name>
-    <text>Incanta creatura
-Quando l'Ingegno di Sisay entra nel campo di battaglia, pesca una carta.
+    <text>Incanta creatura 
+Quando l'Ingegno di Sisay entra nel campo di battaglia, pesca una carta. 
 La creatura incantata ha "{2}{U}: La creatura bersaglio diventa di un colore a tua scelta fino alla fine del turno".</text>
     <flavorText>
     </flavorText>
@@ -257,9 +257,9 @@ La creatura incantata ha "{2}{U}: La creatura bersaglio diventa di un colore a t
   <item>
     <id>PLS0034</id>
     <name>Pozione Soporifera</name>
-    <text>Incanta creatura
-Quando la Pozione Soporifera entra nel campo di battaglia, TAPpa la creatura incantata.
-La creatura incantata non STAPpa durante lo STAP del proprio controllore.
+    <text>Incanta creatura 
+Quando la Pozione Soporifera entra nel campo di battaglia, TAPpa la creatura incantata. 
+La creatura incantata non STAPpa durante lo STAP del proprio controllore. 
 Quando la creatura incantata diventa bersaglio di una magia o di un'abilità, sacrifica la Pozione Soporifera.</text>
     <flavorText>
     </flavorText>
@@ -267,8 +267,8 @@ Quando la creatura incantata diventa bersaglio di una magia o di un'abilità, sa
   <item>
     <id>PLS0035</id>
     <name>Mago Combattente Tempestologo</name>
-    <text>Potenziamento {W} e/o {2}{B}
-Quando il Mago Combattente Tempestologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {W}, guadagni 3 punti vita.
+    <text>Potenziamento {W} e/o {2}{B} 
+Quando il Mago Combattente Tempestologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {W}, guadagni 3 punti vita. 
 Quando il Mago Combattente Tempestologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {2}{B}, distruggi una creatura non nera bersaglio. Quella creatura non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -276,7 +276,7 @@ Quando il Mago Combattente Tempestologo entra nel campo di battaglia, se è stat
   <item>
     <id>PLS0036</id>
     <name>Famiglio Tempestologo</name>
-    <text>Volare
+    <text>Volare 
 Le magie bianche e le magie nere che lanci costano {1} in meno per essere lanciate.</text>
     <flavorText>
     </flavorText>
@@ -284,15 +284,15 @@ Le magie bianche e le magie nere che lanci costano {1} in meno per essere lancia
   <item>
     <id>PLS0037</id>
     <name>Speranza Affondata</name>
-    <text>All'inizio del mantenimento di ogni giocatore, il proprietario riprende in mano una creatura controllata da quel giocatore.</text>
+    <text>All'inizio del mantenimento di ogni giocatore, il proprietario riprende in mano una creatura controllata da quel giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0038</id>
     <name>Elementale delle Trombe Marine</name>
-    <text>Potenziamento {U}
-Volare
+    <text>Potenziamento {U} 
+Volare 
 Quando l'Elementale delle Trombe Marine entra nel campo di battaglia, se è stato pagato il costo di potenziamento, i proprietari riprendono in mano tutte le altre creature e tu salti il tuo prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -300,8 +300,8 @@ Quando l'Elementale delle Trombe Marine entra nel campo di battaglia, se è stat
   <item>
     <id>PLS0039</id>
     <name>Duna Palustre</name>
-    <text>Potenziamento - Sacrifica due terre.
-Il giocatore bersaglio scarta due carte. Se è stato pagato il costo di potenziamento, quel giocatore scarta invece tre carte.</text>
+    <text>Potenziamento - Sacrifica due terre. 
+Il giocatore bersaglio scarta due carte. Se è stato pagato il costo di potenziamento, quel giocatore scarta invece tre carte. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -315,15 +315,15 @@ Il giocatore bersaglio scarta due carte. Se è stato pagato il costo di potenzia
   <item>
     <id>PLS0041</id>
     <name>Bomba della Morte</name>
-    <text>Come costo addizionale per lanciare la Bomba della Morte, sacrifica una creatura.
-Distruggi una creatura bersaglio non nera. Non può essere rigenerata. Il suo controllore perde 2 punti vita.</text>
+    <text>Come costo addizionale per lanciare la Bomba della Morte, sacrifica una creatura. 
+Distruggi una creatura bersaglio non nera. Non può essere rigenerata. Il suo controllore perde 2 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0042</id>
     <name>Intento Diabolico</name>
-    <text>Come costo addizionale per lanciare l'Intento Diabolico, sacrifica una creatura.
+    <text>Come costo addizionale per lanciare l'Intento Diabolico, sacrifica una creatura. 
 Passa in rassegna il tuo grimorio per una carta e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -331,15 +331,15 @@ Passa in rassegna il tuo grimorio per una carta e aggiungila alla tua mano. Poi 
   <item>
     <id>PLS0043</id>
     <name>Malattia Esotica</name>
-    <text>Dominio - Il giocatore bersaglio perde X punti vita e tu guadagni X punti vita, dove X è pari al numero di tipi di terra base presenti tra le terre che controlli.</text>
+    <text>Dominio - Il giocatore bersaglio perde X punti vita e tu guadagni X punti vita, dove X è pari al numero di tipi di terra base presenti tra le terre che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0044</id>
     <name>Signore dei Non Morti</name>
-    <text>Le altre creature Zombie prendono +1/+1.
-{1}{B}, {T}: Riprendi in mano una carta Zombie bersaglio dal tuo cimitero.</text>
+    <text>Le altre creature Zombie prendono +1/+1. 
+{1}{B}, {T}: Riprendi in mano una carta Zombie bersaglio dal tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -353,15 +353,15 @@ Passa in rassegna il tuo grimorio per una carta e aggiungila alla tua mano. Poi 
   <item>
     <id>PLS0046</id>
     <name>Rospo dell'Obitorio</name>
-    <text>Sacrifica il Rospo dell'Obitorio: Aggiungi {U}{R} alla tua riserva di mana.</text>
+    <text>Sacrifica il Rospo dell'Obitorio: Aggiungi {U}{R} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0047</id>
     <name>Mago Combattente Tenebrologo</name>
-    <text>Potenziamento {2}{U} e/o {2}{R}
-Quando il Mago Combattente Tenebrologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {2}{U}, i proprietari riprendono in mano fino a due creature non nere bersaglio.
+    <text>Potenziamento {2}{U} e/o {2}{R} 
+Quando il Mago Combattente Tenebrologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {2}{U}, i proprietari riprendono in mano fino a due creature non nere bersaglio. 
 Quando il Mago Combattente Tenebrologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {2}{R}, distruggi una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -369,7 +369,7 @@ Quando il Mago Combattente Tenebrologo entra nel campo di battaglia, se è stato
   <item>
     <id>PLS0048</id>
     <name>Famiglio Tenebrologo</name>
-    <text>Le magie blu e le magie rosse che lanci costano {1} in meno per essere lanciate.
+    <text>Le magie blu e le magie rosse che lanci costano {1} in meno per essere lanciate. 
 {1}{B}: Rigenera il Famiglio Tenebrologo.</text>
     <flavorText>
     </flavorText>
@@ -391,7 +391,7 @@ Quando il Mago Combattente Tenebrologo entra nel campo di battaglia, se è stato
   <item>
     <id>PLS0051</id>
     <name>Scuta di Phyrexia</name>
-    <text>Potenziamento-Paga 3 punti vita.
+    <text>Potenziamento-Paga 3 punti vita. 
 Se è stato pagato il costo di potenziamento, lo Scuta di Phyrexia entra nel campo di battaglia con due segnalini +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -413,7 +413,7 @@ Se è stato pagato il costo di potenziamento, lo Scuta di Phyrexia entra nel cam
   <item>
     <id>PLS0054</id>
     <name>Forza Sinistra</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +3/+1 ed è nera.</text>
     <flavorText>
     </flavorText>
@@ -421,15 +421,15 @@ La creatura incantata prende +3/+1 ed è nera.</text>
   <item>
     <id>PLS0055</id>
     <name>Massacrare</name>
-    <text>Distruggi una creatura verde bersaglio. Non può essere rigenerata.
-Pesca una carta.</text>
+    <text>Distruggi una creatura verde bersaglio. Non può essere rigenerata. 
+Pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0056</id>
     <name>Demonietto Vulcanico</name>
-    <text>Volare
+    <text>Volare 
 {1}{R}: Il Demonietto Vulcanico guadagna attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -437,14 +437,14 @@ Pesca una carta.</text>
   <item>
     <id>PLS0057</id>
     <name>Devozione Perversa</name>
-    <text>Ogniqualvolta un giocatore riprende in mano un permanente, quel giocatore scarta una carta.</text>
+    <text>Ogniqualvolta un giocatore riprende in mano un permanente, quel giocatore scarta una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0058</id>
     <name>Kavu del Condotto Vulcanico</name>
-    <text>{1}{B}: Il Kavu del Condotto Vulcanico prende +1/+1 fino alla fine del turno.
+    <text>{1}{B}: Il Kavu del Condotto Vulcanico prende +1/+1 fino alla fine del turno. 
 {G}: Il Kavu del Condotto Vulcanico diventa di un colore a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -473,7 +473,7 @@ Pesca una carta.</text>
   <item>
     <id>PLS0062</id>
     <name>Implodere</name>
-    <text>Distruggi una terra bersaglio.
+    <text>Distruggi una terra bersaglio. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -481,7 +481,7 @@ Pesca una carta.</text>
   <item>
     <id>PLS0063</id>
     <name>Insolenza</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta la creatura incantata diventa TAPpata, l'Insolenza infligge 2 danni al controllore di quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -496,9 +496,9 @@ Ogniqualvolta la creatura incantata diventa TAPpata, l'Insolenza infligge 2 dann
   <item>
     <id>PLS0065</id>
     <name>Mantello di Keld</name>
-    <text>Incanta creatura
-{B}: Rigenera la creatura incantata.
-{R}: La creatura incantata prende +1/+0 fino alla fine del turno.
+    <text>Incanta creatura 
+{B}: Rigenera la creatura incantata. 
+{R}: La creatura incantata prende +1/+0 fino alla fine del turno. 
 {G}: La creatura incantata guadagna travolgere fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -506,8 +506,8 @@ Ogniqualvolta la creatura incantata diventa TAPpata, l'Insolenza infligge 2 dann
   <item>
     <id>PLS0066</id>
     <name>Getto di Magma</name>
-    <text>Potenziamento - Sacrifica due terre.
-Il Getto di Magma infligge 3 danni a una creatura o a un giocatore bersaglio. Se è stato pagato il costo di potenziamento, il Getto di Magma infligge 3 danni a un'altra creatura o a un altro giocatore bersaglio. [Oracle 2003/07/01]</text>
+    <text>Potenziamento - Sacrifica due terre. 
+Il Getto di Magma infligge 3 danni a una creatura o a un giocatore bersaglio. Se è stato pagato il costo di potenziamento, il Getto di Magma infligge 3 danni a un'altra creatura o a un altro giocatore bersaglio. Oracle 2003/07/01 </text>
     <flavorText>
     </flavorText>
   </item>
@@ -563,7 +563,7 @@ Il Getto di Magma infligge 3 danni a una creatura o a un giocatore bersaglio. Se
   <item>
     <id>PLS0074</id>
     <name>Tahngarth, Eroe Talruum</name>
-    <text>Cautela
+    <text>Cautela 
 {1}{R}, {T}: Tahngarth, Eroe Talruum infligge un danno pari alla propria forza a una creatura bersaglio. Quella creatura infligge un danno pari alla propria forza a Tahngarth, Eroe Talruum.</text>
     <flavorText>
     </flavorText>
@@ -571,7 +571,7 @@ Il Getto di Magma infligge 3 danni a una creatura o a un giocatore bersaglio. Se
   <item>
     <id>PLS0075</id>
     <name>Tahngarth, Eroe Talruum</name>
-    <text>Cautela
+    <text>Cautela 
 {1}{R}, {T}: Tahngarth, Eroe Talruum infligge un danno pari alla propria forza a una creatura bersaglio. Quella creatura infligge un danno pari alla propria forza a Tahngarth, Eroe Talruum.</text>
     <flavorText>
     </flavorText>
@@ -579,8 +579,8 @@ Il Getto di Magma infligge 3 danni a una creatura o a un giocatore bersaglio. Se
   <item>
     <id>PLS0076</id>
     <name>Mago Combattente Tuonologo</name>
-    <text>Potenziamento {1}{B} e/o {G}
-Quando il Mago Combattente Tuonologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {1}{B}, il giocatore bersaglio scarta due carte.
+    <text>Potenziamento {1}{B} e/o {G} 
+Quando il Mago Combattente Tuonologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {1}{B}, il giocatore bersaglio scarta due carte. 
 Quando il Mago Combattente Tuonologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {G}, distruggi un incantesimo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -588,7 +588,7 @@ Quando il Mago Combattente Tuonologo entra nel campo di battaglia, se è stato p
   <item>
     <id>PLS0077</id>
     <name>Famiglio Tuonologo</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Le magie nere e le magie verdi che lanci costano {1} in meno per essere lanciate.</text>
     <flavorText>
     </flavorText>
@@ -596,21 +596,21 @@ Le magie nere e le magie verdi che lanci costano {1} in meno per essere lanciate
   <item>
     <id>PLS0078</id>
     <name>Kavu Alpha</name>
-    <text>{1}{G}: Una creatura Kavu bersaglio prende -1/+1 fino alla fine del turno.</text>
+    <text>{1}{G}: Una creatura Kavu bersaglio prende -1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0079</id>
     <name>Kavu Anfibio</name>
-    <text>Ogniqualvolta il Kavu Anfibio blocca o viene bloccato da una o più creature blu e/o nere, il Kavu Anfibio prende +3/+3 fino alla fine del turno.</text>
+    <text>Ogniqualvolta il Kavu Anfibio blocca o viene bloccato da una o più creature blu e/o nere, il Kavu Anfibio prende +3/+3 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0080</id>
     <name>Tronco Abbattuto</name>
-    <text>Potenziamento-Sacrifica una terra.
+    <text>Potenziamento-Sacrifica una terra. 
 Previeni tutto il danno da combattimento che una creatura bersaglio infliggerebbe in questo turno. Se è stato pagato il costo di potenziamento, previeni anche tutto il danno che un'altra creatura bersaglio infliggerebbe in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -618,14 +618,14 @@ Previeni tutto il danno da combattimento che una creatura bersaglio infliggerebb
   <item>
     <id>PLS0081</id>
     <name>Araldo di Gea</name>
-    <text>Le magie creatura non possono essere neutralizzate.</text>
+    <text>Le magie creatura non possono essere neutralizzate. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0082</id>
     <name>Potenza di Gaea</name>
-    <text>Dominio - La creatura bersaglio prende +1/+1 fino alla fine del turno per ogni tipo di terra base presente tra le terre che controlli.</text>
+    <text>Dominio - La creatura bersaglio prende +1/+1 fino alla fine del turno per ogni tipo di terra base presente tra le terre che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -646,7 +646,7 @@ Previeni tutto il danno da combattimento che una creatura bersaglio infliggerebb
   <item>
     <id>PLS0085</id>
     <name>Armonia di Multani</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha "{T}: Aggiungi un mana di un qualsiasi colore alla tua riserva".</text>
     <flavorText>
     </flavorText>
@@ -654,7 +654,7 @@ La creatura incantata ha "{T}: Aggiungi un mana di un qualsiasi colore alla tua 
   <item>
     <id>PLS0086</id>
     <name>Nemata, Guardiana del Boschetto</name>
-    <text>{2}{G}: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.
+    <text>{2}{G}: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde. 
 Sacrifica un Saprolingio: Le creature Saprolingio prendono +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -669,7 +669,7 @@ Sacrifica un Saprolingio: Le creature Saprolingio prendono +1/+1 fino alla fine 
   <item>
     <id>PLS0088</id>
     <name>Crescita Primordiale</name>
-    <text>Potenziamento-Sacrifica una creatura.
+    <text>Potenziamento-Sacrifica una creatura. 
 Passa in rassegna il tuo grimorio per una carta terra base, mettila sul campo di battaglia, poi rimescola il tuo grimorio. Se è stato pagato il costo di potenziamento, passa invece in rassegna il tuo grimorio per due carte terra base, mettile sul campo di battaglia, poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -705,7 +705,7 @@ Passa in rassegna il tuo grimorio per una carta terra base, mettila sul campo di
   <item>
     <id>PLS0093</id>
     <name>Benedizione di Cielsudario</name>
-    <text>Le terre guadagnano velo fino alla fine del turno. (Non possono essere bersaglio di magie o abilità.)
+    <text>Le terre guadagnano velo fino alla fine del turno. (Non possono essere bersaglio di magie o abilità.) 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -713,7 +713,7 @@ Pesca una carta.</text>
   <item>
     <id>PLS0094</id>
     <name>Kavu di Pietra</name>
-    <text>{R}: Il Kavu di Pietra prende +1/+0 fino alla fine del turno.
+    <text>{R}: Il Kavu di Pietra prende +1/+0 fino alla fine del turno. 
 {W}: Il Kavu di Pietra prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -721,8 +721,8 @@ Pesca una carta.</text>
   <item>
     <id>PLS0095</id>
     <name>Mago Combattente Spinologo</name>
-    <text>Potenziamento {R} e/o {W}
-Quando il Mago Combattente Spinologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {R}, il Mago Combattente Spinologo infligge 2 danni a una creatura o a un giocatore bersaglio.
+    <text>Potenziamento {R} e/o {W} 
+Quando il Mago Combattente Spinologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {R}, il Mago Combattente Spinologo infligge 2 danni a una creatura o a un giocatore bersaglio. 
 Quando il Mago Combattente Spinologo entra nel campo di battaglia, se è stato pagato il costo di potenziamento {W}, distruggi un artefatto bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -737,7 +737,7 @@ Quando il Mago Combattente Spinologo entra nel campo di battaglia, se è stato p
   <item>
     <id>PLS0097</id>
     <name>Ragno Antico</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
     <flavorText>
     </flavorText>
@@ -745,8 +745,8 @@ Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
   <item>
     <id>PLS0098</id>
     <name>Arpia della Caverna</name>
-    <text>Volare
-Quando l'Arpia della Caverna entra nel campo di battaglia, il proprietario riprende in mano una creatura blu o nera che tu controlli.
+    <text>Volare 
+Quando l'Arpia della Caverna entra nel campo di battaglia, il proprietario riprende in mano una creatura blu o nera che tu controlli. 
 Paga 1 punto vita: Il proprietario riprende in mano l'Arpia della Caverna.</text>
     <flavorText>
     </flavorText>
@@ -789,8 +789,8 @@ Paga 1 punto vita: Il proprietario riprende in mano l'Arpia della Caverna.</text
   <item>
     <id>PLS0104</id>
     <name>Spettro del Giudizio</name>
-    <text>Volare
-Quando lo Spettro del Giudizio entra nel campo di battaglia, il proprietario riprende in mano una creatura blu o nera che tu controlli.
+    <text>Volare 
+Quando lo Spettro del Giudizio entra nel campo di battaglia, il proprietario riprende in mano una creatura blu o nera che tu controlli. 
 Ogniqualvolta lo Spettro del Giudizio infligge danno da combattimento a un giocatore, guarda la mano di quel giocatore e scegli una carta da essa. Il giocatore scarta quella carta.</text>
     <flavorText>
     </flavorText>
@@ -798,7 +798,7 @@ Ogniqualvolta lo Spettro del Giudizio infligge danno da combattimento a un gioca
   <item>
     <id>PLS0105</id>
     <name>Crociata di Dralnu</name>
-    <text>Le creature Goblin prendono +1/+1.
+    <text>Le creature Goblin prendono +1/+1. 
 Tutti i Goblin sono neri e sono Zombie in aggiunta agli altri loro tipo di creatura.</text>
     <flavorText>
     </flavorText>
@@ -834,7 +834,7 @@ Tutti i Goblin sono neri e sono Zombie in aggiunta agli altri loro tipo di creat
   <item>
     <id>PLS0110</id>
     <name>Pantera Zampalesta</name>
-    <text>Lampo
+    <text>Lampo 
 Quando la Pantera Zampalesta entra nel campo di battaglia, il proprietario riprende in mano una creatura verde o bianca che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -870,7 +870,7 @@ Quando la Pantera Zampalesta entra nel campo di battaglia, il proprietario ripre
   <item>
     <id>PLS0115</id>
     <name>Zombie della Lava</name>
-    <text>Quando lo Zombie della Lava entra nel campo di battaglia, il proprietario riprende in mano una creatura nera o rossa che tu controlli.
+    <text>Quando lo Zombie della Lava entra nel campo di battaglia, il proprietario riprende in mano una creatura nera o rossa che tu controlli. 
 {2}: Lo Zombie della Lava prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -885,7 +885,7 @@ Quando la Pantera Zampalesta entra nel campo di battaglia, il proprietario ripre
   <item>
     <id>PLS0117</id>
     <name>Coccodrillo Palustre</name>
-    <text>Quando il Coccodrillo Palustre entra nel campo di battaglia, il proprietario riprende in mano una creatura blu o nera che tu controlli.
+    <text>Quando il Coccodrillo Palustre entra nel campo di battaglia, il proprietario riprende in mano una creatura blu o nera che tu controlli. 
 Quando il Coccodrillo Palustre entra nel campo di battaglia, ogni giocatore scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -893,7 +893,7 @@ Quando il Coccodrillo Palustre entra nel campo di battaglia, ogni giocatore scar
   <item>
     <id>PLS0118</id>
     <name>Mago Intrigante</name>
-    <text>Mentre il Mago Intrigante entra nel campo di battaglia, nomina una carta non terra.
+    <text>Mentre il Mago Intrigante entra nel campo di battaglia, nomina una carta non terra. 
 La carta nominata non può essere lanciata.</text>
     <flavorText>
     </flavorText>
@@ -901,7 +901,7 @@ La carta nominata non può essere lanciata.</text>
   <item>
     <id>PLS0119</id>
     <name>Fioritura Naturale</name>
-    <text>Quando la Fioritura Naturale entra nel campo di battaglia, il proprietario riprende in mano un incantesimo rosso o verde che tu controlli.
+    <text>Quando la Fioritura Naturale entra nel campo di battaglia, il proprietario riprende in mano un incantesimo rosso o verde che tu controlli. 
 Le terre che controlli sono creature 2/2 con attacco improvviso. Sono ancora terre.</text>
     <flavorText>
     </flavorText>
@@ -916,8 +916,8 @@ Le terre che controlli sono creature 2/2 con attacco improvviso. Sono ancora ter
   <item>
     <id>PLS0121</id>
     <name>Phelddagrif in Missione</name>
-    <text>{G}: Il Phelddagrif in Missione prende +1/+1 fino alla fine del turno. L'avversario bersaglio mette sul campo di battaglia una pedina creatura Ippopotamo 1/1 verde.
-{W}: Il Phelddagrif in Missione guadagna protezione dal nero e dal rosso fino alla fine del turno. L'avversario bersaglio guadagna 2 punti vita.
+    <text>{G}: Il Phelddagrif in Missione prende +1/+1 fino alla fine del turno. L'avversario bersaglio mette sul campo di battaglia una pedina creatura Ippopotamo 1/1 verde. 
+{W}: Il Phelddagrif in Missione guadagna protezione dal nero e dal rosso fino alla fine del turno. L'avversario bersaglio guadagna 2 punti vita. 
 {U}: Il Phelddagrif in Missione guadagna volare fino alla fine del turno. L'avversario bersaglio può pescare una carta.</text>
     <flavorText>
     </flavorText>
@@ -932,7 +932,7 @@ Le terre che controlli sono creature 2/2 con attacco improvviso. Sono ancora ter
   <item>
     <id>PLS0123</id>
     <name>Snidd Demolitore</name>
-    <text>Quando lo Snidd Demolitore entra nel campo di battaglia, il proprietario riprende in mano una creatura nera o rossa che tu controlli.
+    <text>Quando lo Snidd Demolitore entra nel campo di battaglia, il proprietario riprende in mano una creatura nera o rossa che tu controlli. 
 Quando lo Snidd Demolitore entra nel campo di battaglia, ogni giocatore sacrifica una terra.</text>
     <flavorText>
     </flavorText>
@@ -947,8 +947,8 @@ Quando lo Snidd Demolitore entra nel campo di battaglia, ogni giocatore sacrific
   <item>
     <id>PLS0125</id>
     <name>Strolaga dal Becco Seghettato</name>
-    <text>Volare
-Quando la Strolaga dal Becco Seghettato entra nel campo di battaglia, il proprietario riprende in mano una creatura bianca o blu che tu controlli.
+    <text>Volare 
+Quando la Strolaga dal Becco Seghettato entra nel campo di battaglia, il proprietario riprende in mano una creatura bianca o blu che tu controlli. 
 Quando la Strolaga dal Becco Seghettato entra nel campo di battaglia, pesca due carte, poi metti due carte dalla tua mano in fondo al tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -956,7 +956,7 @@ Quando la Strolaga dal Becco Seghettato entra nel campo di battaglia, pesca due 
   <item>
     <id>PLS0126</id>
     <name>Wurm di Shiv</name>
-    <text>Travolgere
+    <text>Travolgere 
 Quando il Wurm di Shiv entra nel campo di battaglia, il proprietario riprende in mano una creatura rossa o verde che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -964,7 +964,7 @@ Quando il Wurm di Shiv entra nel campo di battaglia, il proprietario riprende in
   <item>
     <id>PLS0127</id>
     <name>Draghetto d'Argento</name>
-    <text>Volare
+    <text>Volare 
 Quando il Draghetto d'Argento entra nel campo di battaglia, il proprietario riprende in mano una creatura bianca o blu che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -972,7 +972,7 @@ Quando il Draghetto d'Argento entra nel campo di battaglia, il proprietario ripr
   <item>
     <id>PLS0128</id>
     <name>Lanciascintille</name>
-    <text>Quando il Lanciascintille entra nel campo di battaglia, il proprietario riprende in mano una creatura rossa o verde che tu controlli.
+    <text>Quando il Lanciascintille entra nel campo di battaglia, il proprietario riprende in mano una creatura rossa o verde che tu controlli. 
 Quando il Lanciascintille entra nel campo di battaglia, infligge 1 danno a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -980,7 +980,7 @@ Quando il Lanciascintille entra nel campo di battaglia, infligge 1 danno a un gi
   <item>
     <id>PLS0129</id>
     <name>Paladino Foglia d'Acciaio</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Quando il Paladino Foglia d'Acciaio entra nel campo di battaglia, il proprietario riprende in mano una creatura verde o bianca che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -988,7 +988,7 @@ Quando il Paladino Foglia d'Acciaio entra nel campo di battaglia, il proprietari
   <item>
     <id>PLS0130</id>
     <name>Terminare</name>
-    <text>Distruggi una creatura bersaglio. Non può essere rigenerata.</text>
+    <text>Distruggi una creatura bersaglio. Non può essere rigenerata. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1009,8 +1009,8 @@ Quando il Paladino Foglia d'Acciaio entra nel campo di battaglia, il proprietari
   <item>
     <id>PLS0133</id>
     <name>Draco</name>
-    <text>Volare
-Dominio - Draco costa {2} in meno per ogni tipo di terra base presente tra le terre che controlli.
+    <text>Volare 
+Dominio - Draco costa {2} in meno per ogni tipo di terra base presente tra le terre che controlli. 
 Dominio - All'inizio del tuo mantenimento, sacrifica Draco a meno che tu paghi {10}. Questo costo viene ridotto di {2} per ogni tipo di terra base presente tra le terre che controlli.</text>
     <flavorText>
     </flavorText>
@@ -1025,7 +1025,7 @@ Dominio - All'inizio del tuo mantenimento, sacrifica Draco a meno che tu paghi {
   <item>
     <id>PLS0135</id>
     <name>Nave Volante Cavalcavento</name>
-    <text>Quando la Nave Volante Cavalcavento entra nel campo di battaglia, passa in rassegna il tuo grimorio per un qualsiasi numero di carte artefatto e/o creatura e esiliale. Poi rimescola il tuo grimorio.
+    <text>Quando la Nave Volante Cavalcavento entra nel campo di battaglia, passa in rassegna il tuo grimorio per un qualsiasi numero di carte artefatto e/o creatura e esiliale. Poi rimescola il tuo grimorio. 
 {4}, {T}: Scegli una carta a caso che era stata esiliata con la Nave Volante Cavalcavento. Aggiungila alla mano del proprietario.</text>
     <flavorText>
     </flavorText>
@@ -1033,7 +1033,7 @@ Dominio - All'inizio del tuo mantenimento, sacrifica Draco a meno che tu paghi {
   <item>
     <id>PLS0136</id>
     <name>Nave Volante Cavalcavento</name>
-    <text>Quando la Nave Volante Cavalcavento entra nel campo di battaglia, passa in rassegna il tuo grimorio per un qualsiasi numero di carte artefatto e/o creatura e esiliale. Poi rimescola il tuo grimorio.
+    <text>Quando la Nave Volante Cavalcavento entra nel campo di battaglia, passa in rassegna il tuo grimorio per un qualsiasi numero di carte artefatto e/o creatura e esiliale. Poi rimescola il tuo grimorio. 
 {4}, {T}: Scegli una carta a caso che era stata esiliata con la Nave Volante Cavalcavento. Aggiungila alla mano del proprietario.</text>
     <flavorText>
     </flavorText>
@@ -1041,7 +1041,7 @@ Dominio - All'inizio del tuo mantenimento, sacrifica Draco a meno che tu paghi {
   <item>
     <id>PLS0137</id>
     <name>Bussola Stellare</name>
-    <text>La Bussola Stellare entra nel campo di battaglia TAPpata.
+    <text>La Bussola Stellare entra nel campo di battaglia TAPpata. 
 {T}: Aggiungi alla tua riserva un mana di un qualsiasi colore che una terra base che controlli può produrre.</text>
     <flavorText>
     </flavorText>
@@ -1049,7 +1049,7 @@ Dominio - All'inizio del tuo mantenimento, sacrifica Draco a meno che tu paghi {
   <item>
     <id>PLS0138</id>
     <name>Stratadonte</name>
-    <text>Dominio - Lo Stratadonte costa {1} in meno per essere lanciato per ogni tipo di terra base presente tra le terre che controlli.
+    <text>Dominio - Lo Stratadonte costa {1} in meno per essere lanciato per ogni tipo di terra base presente tra le terre che controlli. 
 Travolgere</text>
     <flavorText>
     </flavorText>
@@ -1057,15 +1057,15 @@ Travolgere</text>
   <item>
     <id>PLS0139</id>
     <name>Catacombe di Crosis</name>
-    <text>Quando le Catacombe di Crosis entrano nel campo di battaglia, sacrificale a meno che il proprietario riprenda in mano una terra non Tana che tu controlli.
-{T} : Aggiungi {U}, {B} o {R} alla tua riserva di mana. [Oracle 2003/07/01]</text>
+    <text>Quando le Catacombe di Crosis entrano nel campo di battaglia, sacrificale a meno che il proprietario riprenda in mano una terra non Tana che tu controlli. 
+{T} : Aggiungi {U}, {B} o {R} alla tua riserva di mana. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PLS0140</id>
     <name>Calderone di Darigaaz</name>
-    <text>Quando il Calderone di Darigaaz entra nel campo di battaglia, sacrificalo a meno che il proprietario riprenda in mano una terra non Tana che tu controlli.
+    <text>Quando il Calderone di Darigaaz entra nel campo di battaglia, sacrificalo a meno che il proprietario riprenda in mano una terra non Tana che tu controlli. 
 {T}: Aggiungi {B}, {R} o {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1073,7 +1073,7 @@ Travolgere</text>
   <item>
     <id>PLS0141</id>
     <name>Caverna di Dromar</name>
-    <text>Quando la Caverna di Dromar entra nel campo di battaglia, sacrificala a meno che il proprietario riprenda in mano una terra non Tana che tu controlli.
+    <text>Quando la Caverna di Dromar entra nel campo di battaglia, sacrificala a meno che il proprietario riprenda in mano una terra non Tana che tu controlli. 
 {T}: Aggiungi {W}, {U}, o {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1081,8 +1081,8 @@ Travolgere</text>
   <item>
     <id>PLS0142</id>
     <name>Città Perduta</name>
-    <text>La Città Perduta non STAPpa durante il tuo STAP.
-All'inizio del tuo mantenimento, puoi esiliare una carta nella tua mano. Se lo fai, STAPpa la Città Perduta.
+    <text>La Città Perduta non STAPpa durante il tuo STAP. 
+All'inizio del tuo mantenimento, puoi esiliare una carta nella tua mano. Se lo fai, STAPpa la Città Perduta. 
 {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1097,7 +1097,7 @@ All'inizio del tuo mantenimento, puoi esiliare una carta nella tua mano. Se lo f
   <item>
     <id>PLS0144</id>
     <name>Boschetto di Rith</name>
-    <text>Quando il Boschetto di Rith entra nel campo di battaglia, sacrificalo a meno che il proprietario riprenda in mano una terra non Tana che tu controlli.
+    <text>Quando il Boschetto di Rith entra nel campo di battaglia, sacrificalo a meno che il proprietario riprenda in mano una terra non Tana che tu controlli. 
 {T}: Aggiungi {R}, {G} o {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1105,7 +1105,7 @@ All'inizio del tuo mantenimento, puoi esiliare una carta nella tua mano. Se lo f
   <item>
     <id>PLS0145</id>
     <name>Lembo di Morena</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {2}, {T}, Sacrifica il Lembo di Morena: Passa in rassegna il tuo grimorio per una carta terra base e mettila sul campo di battaglia TAPpata. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1113,7 +1113,7 @@ All'inizio del tuo mantenimento, puoi esiliare una carta nella tua mano. Se lo f
   <item>
     <id>PLS0146</id>
     <name>Rovine di Treva</name>
-    <text>Quando le Rovine di Treva entrano nel  campo di battaglia, sacrificale a meno che il proprietario riprenda in mano una terra non Tana che tu controlli.
+    <text>Quando le Rovine di Treva entrano nel  campo di battaglia, sacrificale a meno che il proprietario riprenda in mano una terra non Tana che tu controlli. 
 {T}: Aggiungi {G}, {W} o {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>

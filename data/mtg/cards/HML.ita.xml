@@ -22,11 +22,11 @@
   </item>
   <item>
     <id>HML0004</id>
-    <name>Tempesta dell'Etere</name>
-    <text>Le magie creatura non possono essere lanciate.
-Paga 4 punti vita: Distruggi la Tempesta dell'Etere. Non può essere rigenerata. Qualsiasi giocatore può attivare questa abilità.</text>
-    <flavorText>
-    </flavorText>
+    <name>Æther Storm</name>
+    <text>Creature spells can't be cast.
+Pay 4 life: Destroy Æther Storm. It can't be regenerated. Any player may activate this ability.</text>
+    <flavorText>"I do love the rain . . . but this storm feels somehow wrong, Taysir."
+—Daria</flavorText>
   </item>
   <item>
     <id>HML0005</id>
@@ -52,21 +52,21 @@ Paga 4 punti vita: Distruggi la Tempesta dell'Etere. Non può essere rigenerata.
   <item>
     <id>HML0008</id>
     <name>Banda di Assalitori</name>
-    <text>Attacco improvviso, rapidità</text>
+    <text>Attacco improvviso, rapidità </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0009</id>
     <name>Banda di Assalitori</name>
-    <text>Attacco improvviso, rapidità</text>
+    <text>Attacco improvviso, rapidità </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0010</id>
     <name>Antenato di Anaba</name>
-    <text>{T}: Un'altra creatura Minotauro bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <text>{T}: Un'altra creatura Minotauro bersaglio prende +1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -101,7 +101,7 @@ Paga 4 punti vita: Distruggi la Tempesta dell'Etere. Non può essere rigenerata.
   <item>
     <id>HML0015</id>
     <name>Animista di Anaba</name>
-    <text>Le creature Minotauro prendono +1/+0.</text>
+    <text>Le creature Minotauro prendono +1/+0. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -122,8 +122,8 @@ Paga 4 punti vita: Distruggi la Tempesta dell'Etere. Non può essere rigenerata.
   <item>
     <id>HML0018</id>
     <name>Comunità di An-Havva</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}, {T}: Aggiungi {G} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Aggiungi {G} alla tua riserva di mana. 
 {2}, {T}: Aggiungi {W} o {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -131,7 +131,7 @@ Paga 4 punti vita: Distruggi la Tempesta dell'Etere. Non può essere rigenerata.
   <item>
     <id>HML0019</id>
     <name>Rovine di An-Zerrin</name>
-    <text>Mentre le Rovine di An-Zerrin entrano nel campo di battaglia, scegli un tipo di creatura.
+    <text>Mentre le Rovine di An-Zerrin entrano nel campo di battaglia, scegli un tipo di creatura. 
 Le creature del tipo scelto non STAPpano durante lo STAP dei loro controllori.</text>
     <flavorText>
     </flavorText>
@@ -139,14 +139,14 @@ Le creature del tipo scelto non STAPpano durante lo STAP dei loro controllori.</
   <item>
     <id>HML0020</id>
     <name>Campanello dell'Apocalisse</name>
-    <text>{2},{T}, Sacrifica il Campanello dell'Apocalisse: Distruggi tutti i permanenti dell'espansione Origini che non sono pedine. Non possono essere rigenerati.</text>
+    <text>{2},{T}, Sacrifica il Campanello dell'Apocalisse: Distruggi tutti i permanenti dell'espansione Origini che non sono pedine. Non possono essere rigenerati. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0021</id>
     <name>Salice, Regina dell'Autunno</name>
-    <text>Velo
+    <text>Velo 
 {G}: Fino alla fine del turno Salice, Regina dell'Autunno può essere bersaglio di magie e abilità controllate dal giocatore bersaglio come se non avesse velo.</text>
     <flavorText>
     </flavorText>
@@ -154,8 +154,8 @@ Le creature del tipo scelto non STAPpano durante lo STAP dei loro controllori.</
   <item>
     <id>HML0022</id>
     <name>Abbazia di Aysen</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}, {T}: Aggiungi {W} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Aggiungi {W} alla tua riserva di mana. 
 {2}, {T}: Aggiungi {U} o {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -177,14 +177,14 @@ Le creature del tipo scelto non STAPpano durante lo STAP dei loro controllori.</
   <item>
     <id>HML0025</id>
     <name>Crociato di Aysen</name>
-    <text>La forza e la costituzione del Crociato di Aysen sono ciascuna pari a 2 più il numero di Soldati e di Guerrieri che controlli.</text>
+    <text>La forza e la costituzione del Crociato di Aysen sono ciascuna pari a 2 più il numero di Soldati e di Guerrieri che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0026</id>
     <name>Strade Maestre di Aysen</name>
-    <text>Le creature bianche hanno Passa-pianure.</text>
+    <text>Le creature bianche hanno Passa-pianure. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -198,24 +198,24 @@ Le creature del tipo scelto non STAPpano durante lo STAP dei loro controllori.</
   <item>
     <id>HML0028</id>
     <name>Barone Sengir</name>
-    <text>Volare
-Ogniqualvolta una creatura alla quale il Barone Sengir ha inflitto danno in questo turno viene messa in un cimitero, metti un segnalino +2/+2 sul Barone Sengir.
-{T}: Rigenera un altro Vampiro bersaglio.</text>
+    <text>Volare 
+Ogniqualvolta una creatura alla quale il Barone Sengir ha inflitto danno in questo turno viene messa in un cimitero, metti un segnalino +2/+2 sul Barone Sengir. 
+{T}: Rigenera un altro Vampiro bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0029</id>
     <name>Uomini Bestia</name>
-    <text>{W}: Gli Uomini Bestia guadagnano branco fino alla fine del turno.</text>
+    <text>{W}: Gli Uomini Bestia guadagnano branco fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0030</id>
     <name>Carrozza Nera</name>
-    <text>Travolgere
-La Carrozza Nera non STAPpa durante il tuo STAP.
+    <text>Travolgere 
+La Carrozza Nera non STAPpa durante il tuo STAP. 
 Sacrifica una creatura: STAPpa la Carrozza Nera. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -230,8 +230,8 @@ Sacrifica una creatura: STAPpa la Carrozza Nera. Attiva questa abilità solo dur
   <item>
     <id>HML0032</id>
     <name>Carapace</name>
-    <text>Incanta creatura
-La creatura incantata prende +0/+2.
+    <text>Incanta creatura 
+La creatura incantata prende +0/+2. 
 Sacrifica il Carapace: Rigenera la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -239,8 +239,8 @@ Sacrifica il Carapace: Rigenera la creatura incantata.</text>
   <item>
     <id>HML0033</id>
     <name>Carapace</name>
-    <text>Incanta creatura
-La creatura incantata prende +0/+2.
+    <text>Incanta creatura 
+La creatura incantata prende +0/+2. 
 Sacrifica il Carapace: Rigenera la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -248,16 +248,16 @@ Sacrifica il Carapace: Rigenera la creatura incantata.</text>
   <item>
     <id>HML0034</id>
     <name>Castello di Sengir</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}, {T}: Aggiungi {B} alla tua riserva di mana.
-{2}, {T}: Aggiungi {U} o {R} alla tua riserva di mana.</text>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Aggiungi {B} alla tua riserva di mana. 
+{2}, {T}: Aggiungi {U} o {R} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0035</id>
     <name>Cancello del Cimitero</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Protezione dal nero</text>
     <flavorText>
     </flavorText>
@@ -265,7 +265,7 @@ Protezione dal nero</text>
   <item>
     <id>HML0036</id>
     <name>Cancello del Cimitero</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Protezione dal nero</text>
     <flavorText>
     </flavorText>
@@ -294,9 +294,9 @@ Protezione dal nero</text>
   <item>
     <id>HML0040</id>
     <name>Destriero Meccanico</name>
-    <text>Il Destriero Meccanico entra nel campo di battaglia con quattro segnalini +1/+0.
-Il Destriero Meccanico non può essere bloccato dalle creature artefatto.
-Alla fine del combattimento, se il Destriero Meccanico ha attaccato o bloccato in questo combattimento, rimuovi un segnalino +1/+0 da esso.
+    <text>Il Destriero Meccanico entra nel campo di battaglia con quattro segnalini +1/+0. 
+Il Destriero Meccanico non può essere bloccato dalle creature artefatto. 
+Alla fine del combattimento, se il Destriero Meccanico ha attaccato o bloccato in questo combattimento, rimuovi un segnalino +1/+0 da esso. 
 {X}, {T}: Metti fino a X segnalini +1/+0 sul Destriero Meccanico. Questa abilità non può far sì che il numero complessivo di segnalini +1/+0 sul Destriero Meccanico sia superiore a quattro. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -304,9 +304,9 @@ Alla fine del combattimento, se il Destriero Meccanico ha attaccato o bloccato i
   <item>
     <id>HML0041</id>
     <name>Sciame Meccanico</name>
-    <text>Lo Sciame Meccanico entra nel campo di battaglia con quattro segnalini +1/+0.
-Lo Sciame Meccanico non può essere bloccato dai Muri.
-Alla fine del combattimento, se lo Sciame Meccanico ha attaccato o bloccato in questo combattimento, rimuovi un segnalino +1/+0 da esso.
+    <text>Lo Sciame Meccanico entra nel campo di battaglia con quattro segnalini +1/+0. 
+Lo Sciame Meccanico non può essere bloccato dai Muri. 
+Alla fine del combattimento, se lo Sciame Meccanico ha attaccato o bloccato in questo combattimento, rimuovi un segnalino +1/+0 da esso. 
 {X},  {T}: Metti fino a X segnalini +1/+0 sullo Sciame Meccanico.  Questa abilità non può far sì che il numero complessivo di segnalini +1/+0 sullo Sciame Meccanico sia superiore a quattro. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -314,16 +314,16 @@ Alla fine del combattimento, se lo Sciame Meccanico ha attaccato o bloccato in q
   <item>
     <id>HML0042</id>
     <name>Barriera Corallina</name>
-    <text>La Barriera Corallina entra nel campo di battaglia con quattro segnalini polipo su di essa.
-Sacrifica un'Isola : Metti due segnalini polipo sulla Barriera Corallina.
-{U}, TAPpa una creatura blu STAPpata che controlli, Rimuovi un segnalino polipo dalla Barriera Corallina : Metti un segnalino +0/+1 su una creatura bersaglio. [Oracle 2003/07/01]</text>
+    <text>La Barriera Corallina entra nel campo di battaglia con quattro segnalini polipo su di essa. 
+Sacrifica un'Isola : Metti due segnalini polipo sulla Barriera Corallina. 
+{U}, TAPpa una creatura blu STAPpata che controlli, Rimuovi un segnalino polipo dalla Barriera Corallina : Metti un segnalino +0/+1 su una creatura bersaglio. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0043</id>
     <name>Labirinto Oscuro</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {0}: In questo turno il Labirinto Oscuro può attaccare come se non avesse difensore. Esilialo all'inizio della prossima sottofase finale.</text>
     <flavorText>
     </flavorText>
@@ -331,7 +331,7 @@ Sacrifica un'Isola : Metti due segnalini polipo sulla Barriera Corallina.
   <item>
     <id>HML0044</id>
     <name>Labirinto Oscuro</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {0}: In questo turno il Labirinto Oscuro può attaccare come se non avesse difensore. Esilialo all'inizio della prossima sottofase finale.</text>
     <flavorText>
     </flavorText>
@@ -346,7 +346,7 @@ Sacrifica un'Isola : Metti due segnalini polipo sulla Barriera Corallina.
   <item>
     <id>HML0046</id>
     <name>Spiritisti</name>
-    <text>Protezione dal nero</text>
+    <text>Protezione dal nero </text>
     <flavorText>
     </flavorText>
   </item>
@@ -360,7 +360,7 @@ Sacrifica un'Isola : Metti due segnalini polipo sulla Barriera Corallina.
   <item>
     <id>HML0048</id>
     <name>Magia dei Maledetti</name>
-    <text>{B}, Esilia due carte creatura dal tuo cimitero: Metti sul campo di battaglia una pedina creatura Scheletro 1/1 nera. Essa ha "{B}: Rigenera questa creatura.".
+    <text>{B}, Esilia due carte creatura dal tuo cimitero: Metti sul campo di battaglia una pedina creatura Scheletro 1/1 nera. Essa ha "{B}: Rigenera questa creatura.". 
 Quando la Magia dei Maledetti lascia il campo di battaglia, distruggi tutte le pedine Scheletro. Non possono essere rigenerate.</text>
     <flavorText>
     </flavorText>
@@ -368,14 +368,14 @@ Quando la Magia dei Maledetti lascia il campo di battaglia, distruggi tutte le p
   <item>
     <id>HML0049</id>
     <name>Prosciugare</name>
-    <text>Il Prosciugare infligge 1 danno a ogni creatura e a ogni giocatore.</text>
+    <text>Il Prosciugare infligge 1 danno a ogni creatura e a ogni giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0050</id>
     <name>Prosciugare</name>
-    <text>Il Prosciugare infligge 1 danno a ogni creatura e a ogni giocatore.</text>
+    <text>Il Prosciugare infligge 1 danno a ogni creatura e a ogni giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -396,16 +396,14 @@ Quando la Magia dei Maledetti lascia il campo di battaglia, distruggi tutte le p
   <item>
     <id>HML0053</id>
     <name>Nano Mercante</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0054</id>
     <name>Nano Mercante</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -419,8 +417,8 @@ Quando la Magia dei Maledetti lascia il campo di battaglia, distruggi tutte le p
   <item>
     <id>HML0056</id>
     <name>Eron l'Implacabile</name>
-    <text>Rapidità
-{R}{R}{R}: Rigenera Eron l'Implacabile.</text>
+    <text>Rapidità 
+{R}{R}{R}: Rigenera Eron l'Implacabile. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -434,8 +432,8 @@ Quando la Magia dei Maledetti lascia il campo di battaglia, distruggi tutte le p
   <item>
     <id>HML0058</id>
     <name>Spiritello Nobile</name>
-    <text>Volare
-Le altre creature Spiritello che controlli prendono +0/+1.
+    <text>Volare 
+Le altre creature Spiritello che controlli prendono +0/+1. 
 {T}: Le altre creature Spiritello che controlli prendono +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -443,7 +441,7 @@ Le altre creature Spiritello che controlli prendono +0/+1.
   <item>
     <id>HML0059</id>
     <name>Festino dell'Unicorno</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +4/+0.</text>
     <flavorText>
     </flavorText>
@@ -451,7 +449,7 @@ La creatura incantata prende +4/+0.</text>
   <item>
     <id>HML0060</id>
     <name>Festino dell'Unicorno</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +4/+0.</text>
     <flavorText>
     </flavorText>
@@ -466,28 +464,28 @@ La creatura incantata prende +4/+0.</text>
   <item>
     <id>HML0062</id>
     <name>Popolo di An-Havva</name>
-    <text>Ogniqualvolta il Popolo di An-Havva blocca, prende +2/+0 fino alla fine del turno.</text>
+    <text>Ogniqualvolta il Popolo di An-Havva blocca, prende +2/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0063</id>
     <name>Popolo di An-Havva</name>
-    <text>Ogniqualvolta il Popolo di An-Havva blocca, prende +2/+0 fino alla fine del turno.</text>
+    <text>Ogniqualvolta il Popolo di An-Havva blocca, prende +2/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0064</id>
     <name>Oblio</name>
-    <text>Il giocatore bersaglio scarta due carte, poi pesca un numero di carte pari a quelle scartate in questo modo.</text>
+    <text>Il giocatore bersaglio scarta due carte, poi pesca un numero di carte pari a quelle scartate in questo modo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0065</id>
     <name>Marcia Funebre</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Quando la creatura incantata lascia il campo di battaglia, il suo controllore sacrifica una creatura.</text>
     <flavorText>
     </flavorText>
@@ -495,7 +493,7 @@ Quando la creatura incantata lascia il campo di battaglia, il suo controllore sa
   <item>
     <id>HML0066</id>
     <name>Segugi Spettrali</name>
-    <text>Cautela
+    <text>Cautela 
 Ogniqualvolta i Segugi Spettrali bloccano o sono bloccati da una creatura bianca, i Segugi Spettrali guadagnano attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -503,7 +501,7 @@ Ogniqualvolta i Segugi Spettrali bloccano o sono bloccati da una creatura bianca
   <item>
     <id>HML0067</id>
     <name>Albatro Gigante</name>
-    <text>Volare
+    <text>Volare 
 Quando l'Albatro Gigante viene messo in un cimitero dal campo di battaglia, puoi pagare {1}{U}. Se lo fai, per ogni creatura che ha inflitto danno all'Albatro Gigante in questo turno, distruggi quella creatura a meno che il suo controllore paghi 2 punti vita. Una creatura distrutta in questo modo non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -511,7 +509,7 @@ Quando l'Albatro Gigante viene messo in un cimitero dal campo di battaglia, puoi
   <item>
     <id>HML0068</id>
     <name>Albatro Gigante</name>
-    <text>Volare
+    <text>Volare 
 Quando l'Albatro Gigante viene messo in un cimitero dal campo di battaglia, puoi pagare {1}{U}. Se lo fai, per ogni creatura che ha inflitto danno all'Albatro Gigante in questo turno, distruggi quella creatura a meno che il suo controllore paghi 2 punti vita. Una creatura distrutta in questo modo non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -519,8 +517,8 @@ Quando l'Albatro Gigante viene messo in un cimitero dal campo di battaglia, puoi
   <item>
     <id>HML0069</id>
     <name>Ostrica Gigante</name>
-    <text>Puoi scegliere di non STAPpare l'Ostrica Gigante durante il tuo STAP.
-{T}: Fintanto che l'Ostrica Gigante rimane TAPpata, la creatura TAPpata bersaglio non STAPpa durante lo STAP del suo controllore e, all'inizio di ogni tua acquisizione, metti un segnalino -1/-1 su quella creatura. Quando l'Ostrica Gigante lascia il campo di battaglia o diventa STAPpata, rimuovi tutti i segnalini -1/-1 dalla creatura.</text>
+    <text>Puoi scegliere di non STAPpare l'Ostrica Gigante durante il tuo STAP. 
+{T}: Fintanto che l'Ostrica Gigante rimane TAPpata, la creatura TAPpata bersaglio non STAPpa durante lo STAP del suo controllore e, all'inizio di ogni tua acquisizione, metti un segnalino -1/-1 su quella creatura. Quando l'Ostrica Gigante lascia il campo di battaglia o diventa STAPpata, rimuovi tutti i segnalini -1/-1 dalla creatura. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -534,7 +532,7 @@ Quando l'Albatro Gigante viene messo in un cimitero dal campo di battaglia, puoi
   <item>
     <id>HML0071</id>
     <name>Lupo Mannaro Maggiore</name>
-    <text>Alla fine del combattimento, metti un segnalino -0/-2 su tutte le creature che hanno bloccato o sono state bloccate dal Lupo Mannaro Maggiore.</text>
+    <text>Alla fine del combattimento, metti un segnalino -0/-2 su tutte le creature che hanno bloccato o sono state bloccate dal Lupo Mannaro Maggiore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -548,15 +546,15 @@ Quando l'Albatro Gigante viene messo in un cimitero dal campo di battaglia, puoi
   <item>
     <id>HML0073</id>
     <name>Lapide</name>
-    <text>Esilia una carta bersaglio in un qualsiasi cimitero.
-Pesca una carta all'inizio del mantenimento del prossimo turno. [Oracle 1999/07/23]</text>
+    <text>Esilia una carta bersaglio in un qualsiasi cimitero. 
+Pesca una carta all'inizio del mantenimento del prossimo turno. Oracle 1999/07/23 </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0074</id>
     <name>Lupo da Battaglia</name>
-    <text>Attacco Improvviso
+    <text>Attacco Improvviso 
 {T}: Un creatura Nano bersaglio guadagna Attacco Improvviso e prende +2/+0 fino alla fine del turno. Quando quella creatura lascia il campo di battaglia in questo turno, sacrifica il Lupo da Battaglia. Attiva questa abilità solo durante il combattimento.</text>
     <flavorText>
     </flavorText>
@@ -592,8 +590,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno. [Oracle 1999/07/
   <item>
     <id>HML0079</id>
     <name>Maledizione dell'Artiglio di Ferro</name>
-    <text>Incanta creatura
-La creatura incantata prende -0/-1.
+    <text>Incanta creatura 
+La creatura incantata prende -0/-1. 
 La creatura incantata non può bloccare le creature con forza maggiore o uguale alla costituzione della creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -601,7 +599,7 @@ La creatura incantata non può bloccare le creature con forza maggiore o uguale 
   <item>
     <id>HML0080</id>
     <name>Iettatura</name>
-    <text>La terra bersaglio diventa un tipo di terra base a tua scelta fino alla fine del turno.
+    <text>La terra bersaglio diventa un tipo di terra base a tua scelta fino alla fine del turno. 
 Pesca una carta all'inizio del tuo prossimo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -616,7 +614,7 @@ Pesca una carta all'inizio del tuo prossimo mantenimento.</text>
   <item>
     <id>HML0082</id>
     <name>Furetti di Joven</name>
-    <text>Ogniqualvolta i Furetti di Joven attaccano, prendono +0/+2 fino alla fine del turno.
+    <text>Ogniqualvolta i Furetti di Joven attaccano, prendono +0/+2 fino alla fine del turno. 
 Alla fine del combattimento, TAPpa tutte le creature che hanno bloccato i Furetti di Joven in questo turno. Quelle creature Non STAPpano durante il prossimo STAP del loro controllore.</text>
     <flavorText>
     </flavorText>
@@ -631,7 +629,7 @@ Alla fine del combattimento, TAPpa tutte le creature che hanno bloccato i Furett
   <item>
     <id>HML0084</id>
     <name>Cascate di Koskun</name>
-    <text>All'inizio del tuo mantenimento, sacrifica le Cascate di Koskun a meno che tu TAPpi una creatura STAPpata che controlli.
+    <text>All'inizio del tuo mantenimento, sacrifica le Cascate di Koskun a meno che tu TAPpi una creatura STAPpata che controlli. 
 Le creature non possono attaccarti a meno che il loro controllore paghi {2} per ogni creatura che controlla e che ti attacca.</text>
     <flavorText>
     </flavorText>
@@ -639,8 +637,8 @@ Le creature non possono attaccarti a meno che il loro controllore paghi {2} per 
   <item>
     <id>HML0085</id>
     <name>Rocca di Koskun</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}, {T}: Aggiungi {R} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Aggiungi {R} alla tua riserva di mana. 
 {2}, {T}: Aggiungi {B} o {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -676,8 +674,8 @@ Le creature non possono attaccarti a meno che il loro controllore paghi {2} per 
   <item>
     <id>HML0090</id>
     <name>Finimenti dei Mammut</name>
-    <text>Incanta creatura
-La creatura bersaglio perde volare.
+    <text>Incanta creatura 
+La creatura bersaglio perde volare. 
 Ogniqualvolta la creatura incantata blocca o viene bloccata da una creatura, l'altra creatura guadagna attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -685,10 +683,10 @@ Ogniqualvolta la creatura incantata blocca o viene bloccata da una creatura, l'a
   <item>
     <id>HML0091</id>
     <name>Marjhan</name>
-    <text>Marjhan non STAPpa durante il tuo STAP.
-Marjhan non può attaccare a meno che il giocatore in difesa controlli almeno un'Isola.
-Quando non controlli Isole, sacrifica Marjhan.
-{U}{U}, Sacrifica una creatura: STAPpa Marjhan. Attiva questa abilità solo durante il tuo mantenimento.
+    <text>Marjhan non STAPpa durante il tuo STAP. 
+Marjhan non può attaccare a meno che il giocatore in difesa controlli almeno un'Isola. 
+Quando non controlli Isole, sacrifica Marjhan. 
+{U}{U}, Sacrifica una creatura: STAPpa Marjhan. Attiva questa abilità solo durante il tuo mantenimento. 
 {U}{U}: Marjhan prende -1/-0 fino alla fine del turno e infligge 1 danno alla creatura attaccante bersaglio senza volare.</text>
     <flavorText>
     </flavorText>
@@ -696,28 +694,28 @@ Quando non controlli Isole, sacrifica Marjhan.
   <item>
     <id>HML0092</id>
     <name>Vuoto di Memoria</name>
-    <text>Neutralizza una magia bersaglio. Se quella magia viene neutralizzata in questo modo, mettila in cima al grimorio del suo proprietario invece che nel cimitero di quel giocatore.</text>
+    <text>Neutralizza una magia bersaglio. Se quella magia viene neutralizzata in questo modo, mettila in cima al grimorio del suo proprietario invece che nel cimitero di quel giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0093</id>
     <name>Vuoto di Memoria</name>
-    <text>Neutralizza una magia bersaglio. Se quella magia viene neutralizzata in questo modo, mettila in cima al grimorio del suo proprietario invece che nel cimitero di quel giocatore.</text>
+    <text>Neutralizza una magia bersaglio. Se quella magia viene neutralizzata in questo modo, mettila in cima al grimorio del suo proprietario invece che nel cimitero di quel giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0094</id>
     <name>Pergamena dei Mercanti</name>
-    <text>Passa in rassegna il tuo grimorio per una carta istantaneo blu, rivela quella carta, e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <text>Passa in rassegna il tuo grimorio per una carta istantaneo blu, rivela quella carta, e aggiungila alla tua mano. Poi rimescola il tuo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0095</id>
     <name>Falcone delle Mese</name>
-    <text>Volare
+    <text>Volare 
 {1}{W}: Il Falcone delle Mese prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -725,7 +723,7 @@ Quando non controlli Isole, sacrifica Marjhan.
   <item>
     <id>HML0096</id>
     <name>Falcone delle Mese</name>
-    <text>Volare
+    <text>Volare 
 {1}{W}: Il Falcone delle Mese prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -747,8 +745,8 @@ Quando non controlli Isole, sacrifica Marjhan.
   <item>
     <id>HML0099</id>
     <name>Miniera degli Orchi</name>
-    <text>Incanta terra
-La Miniera degli Orchi entra nel campo di battaglia con tre segnalini minerale.
+    <text>Incanta terra 
+La Miniera degli Orchi entra nel campo di battaglia con tre segnalini minerale. 
 All'inizio del tuo mantenimento e ogniqualvolta la terra incantata diventa TAPpata, rimuovi un segnalino minerale dalla Miniera degli Orchi. Se non ci sono segnalini minerale sulla Miniera degli Orchi, distruggi quella terra e la Miniera degli Orchi infligge 2 danni al suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -763,7 +761,7 @@ All'inizio del tuo mantenimento e ogniqualvolta la terra incantata diventa TAPpa
   <item>
     <id>HML0101</id>
     <name>Profezia</name>
-    <text>Rivela la prima carta del grimorio di un avversario bersaglio. Se è una terra, guadagni 1 punto vita. Poi quel giocatore rimescola il proprio grimorio.
+    <text>Rivela la prima carta del grimorio di un avversario bersaglio. Se è una terra, guadagni 1 punto vita. Poi quel giocatore rimescola il proprio grimorio. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -771,7 +769,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>HML0102</id>
     <name>Rashka, la Carnefice</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
 Ogniqualvolta Rashka blocca una o più creature nere, prende +1/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -779,22 +777,22 @@ Ogniqualvolta Rashka blocca una o più creature nere, prende +1/+2 fino alla fin
   <item>
     <id>HML0103</id>
     <name>Pirati della Barriera</name>
-    <text>Ogniqualvolta i Pirati della Barriera infliggono danno ad un avversario, quel giocatore mette la prima carta del suo grimorio nel suo cimitero.</text>
+    <text>Ogniqualvolta i Pirati della Barriera infliggono danno ad un avversario, quel giocatore mette la prima carta del suo grimorio nel suo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0104</id>
     <name>Pirati della Barriera</name>
-    <text>Ogniqualvolta i Pirati della Barriera infliggono danno ad un avversario, quel giocatore mette la prima carta del suo grimorio nel suo cimitero.</text>
+    <text>Ogniqualvolta i Pirati della Barriera infliggono danno ad un avversario, quel giocatore mette la prima carta del suo grimorio nel suo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0105</id>
     <name>Rinnovamento</name>
-    <text>Come costo addizionale per lanciare il Rinnovamento, sacrifica una terra.
-Passa in rassegna il tuo grimorio per una carta terra base e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.
+    <text>Come costo addizionale per lanciare il Rinnovamento, sacrifica una terra. 
+Passa in rassegna il tuo grimorio per una carta terra base e mettila nel campo di battaglia. Poi rimescola il tuo grimorio. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -823,8 +821,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>HML0109</id>
     <name>Radici</name>
-    <text>Incanta creatura senza volare.
-Quando le Radici entrano nel campo di battaglia, TAPpa la creatura incantata.
+    <text>Incanta creatura senza volare. 
+Quando le Radici entrano nel campo di battaglia, TAPpa la creatura incantata. 
 La creatura incantata non STAPpa durante lo STAP del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -832,7 +830,7 @@ La creatura incantata non STAPpa durante lo STAP del suo controllore.</text>
   <item>
     <id>HML0110</id>
     <name>Roterotottero</name>
-    <text>Volare
+    <text>Volare 
 {2}: Il Roterotottero prende +1/+0 fino alla fine del turno. Attiva questa abilità non più di due volte per turno.</text>
     <flavorText>
     </flavorText>
@@ -875,7 +873,7 @@ La creatura incantata non STAPpa durante lo STAP del suo controllore.</text>
   <item>
     <id>HML0116</id>
     <name>Autocrate di Sengir</name>
-    <text>Quando l'Autocrate di Sengir entra nel campo di battaglia, metti sul campo di battaglia tre pedine creatura Servo 0/1 nere.
+    <text>Quando l'Autocrate di Sengir entra nel campo di battaglia, metti sul campo di battaglia tre pedine creatura Servo 0/1 nere. 
 Quando l'Autocrate di Sengir lascia il campo di battaglia, esilia tutte le pedine Servo.</text>
     <flavorText>
     </flavorText>
@@ -883,7 +881,7 @@ Quando l'Autocrate di Sengir lascia il campo di battaglia, esilia tutte le pedin
   <item>
     <id>HML0117</id>
     <name>Pipistrelli di Sengir</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta una creatura alla quale i Pipistrelli di Sengir hanno inflitto danno in questo turno viene messa in un cimitero, metti un segnalino +1/+1 sui Pipistrelli di Sengir.</text>
     <flavorText>
     </flavorText>
@@ -891,7 +889,7 @@ Ogniqualvolta una creatura alla quale i Pipistrelli di Sengir hanno inflitto dan
   <item>
     <id>HML0118</id>
     <name>Pipistrelli di Sengir</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta una creatura alla quale i Pipistrelli di Sengir hanno inflitto danno in questo turno viene messa in un cimitero, metti un segnalino +1/+1 sui Pipistrelli di Sengir.</text>
     <flavorText>
     </flavorText>
@@ -906,8 +904,8 @@ Ogniqualvolta una creatura alla quale i Pipistrelli di Sengir hanno inflitto dan
   <item>
     <id>HML0120</id>
     <name>Bestiario di Serra</name>
-    <text>Incanta creatura
-All'inizio del tuo mantenimento, sacrifica il Bestiario di Serra a meno che tu paghi {W}{W}.
+    <text>Incanta creatura 
+All'inizio del tuo mantenimento, sacrifica il Bestiario di Serra a meno che tu paghi {W}{W}. 
 La creatura incantata non può attaccare o bloccare e le sue abilità attivate con {T} nel loro costo non possono essere attivate.</text>
     <flavorText>
     </flavorText>
@@ -922,7 +920,7 @@ La creatura incantata non può attaccare o bloccare e le sue abilità attivate c
   <item>
     <id>HML0122</id>
     <name>Paladino di Serra</name>
-    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto ad una creatura o a un giocatore bersaglio in questo turno.
+    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto ad una creatura o a un giocatore bersaglio in questo turno. 
 {1}{W}{W}, {T}: Una creatura bersaglio guadagna cautela fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -930,8 +928,8 @@ La creatura incantata non può attaccare o bloccare e le sue abilità attivate c
   <item>
     <id>HML0123</id>
     <name>Frecce Dentellate</name>
-    <text>Le Frecce Dentellate entrano nel campo di battaglia con tre segnalini punta.
-All'inizio del tuo mantenimento, se non ci sono segnalini punta sulle Frecce Dentellate, sacrificale.
+    <text>Le Frecce Dentellate entrano nel campo di battaglia con tre segnalini punta. 
+All'inizio del tuo mantenimento, se non ci sono segnalini punta sulle Frecce Dentellate, sacrificale. 
 {T}, Rimuovi un segnalino punta dalle Frecce Dentellate: Metti un segnalino -1/-1 su una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -939,21 +937,21 @@ All'inizio del tuo mantenimento, se non ci sono segnalini punta sulle Frecce Den
   <item>
     <id>HML0124</id>
     <name>Rimpicciolire</name>
-    <text>La creatura bersaglio prende -5/-0 fino alla fine del turno.</text>
+    <text>La creatura bersaglio prende -5/-0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0125</id>
     <name>Rimpicciolire</name>
-    <text>La creatura bersaglio prende -5/-0 fino alla fine del turno.</text>
+    <text>La creatura bersaglio prende -5/-0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>HML0126</id>
     <name>Soraya, la Falconiera</name>
-    <text>Le creature Uccello prendono +1/+1.
+    <text>Le creature Uccello prendono +1/+1. 
 {1}{W}: La creatura Uccello bersaglio guadagna branco fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -968,7 +966,7 @@ All'inizio del tuo mantenimento, se non ci sono segnalini punta sulle Frecce Den
   <item>
     <id>HML0128</id>
     <name>Immondi di Timmerian</name>
-    <text>Rimuovi dal mazzo gli Immondi di Timmerian prima di giocare se non giochi per la posta.
+    <text>Rimuovi dal mazzo gli Immondi di Timmerian prima di giocare se non giochi per la posta. 
 {B}{B}{B}, Sacrifica gli Immondi di Timmerian: Il proprietario di un artefatto bersaglio può aggiungere alla posta la prima carta del suo grimorio. Se quel giocatore non lo fa, scambia la proprietà di quell'artefatto e degli Immondi di Timmerian. Metti la carta artefatto nel tuo cimitero e gli Immondi di Timmerian nel cimitero di quel giocatore da dovunque siano. Questo cambio di proprietà è permanente.</text>
     <flavorText>
     </flavorText>
@@ -976,7 +974,7 @@ All'inizio del tuo mantenimento, se non ci sono segnalini punta sulle Frecce Den
   <item>
     <id>HML0129</id>
     <name>Tortura</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {1}{B}: Metti un segnalino -1/-1 sulla creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -984,7 +982,7 @@ All'inizio del tuo mantenimento, se non ci sono segnalini punta sulle Frecce Den
   <item>
     <id>HML0130</id>
     <name>Tortura</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {1}{B}: Metti un segnalino -1/-1 sulla creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -992,7 +990,7 @@ All'inizio del tuo mantenimento, se non ci sono segnalini punta sulle Frecce Den
   <item>
     <id>HML0131</id>
     <name>Carovana dei Mercanti</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino valuta sulla Carovana dei Mercanti.
+    <text>All'inizio del tuo mantenimento, metti un segnalino valuta sulla Carovana dei Mercanti. 
 Rimuovi 2 segnalini valuta dalla Carovana dei Mercanti: STAPpa una terra base bersaglio. Attiva questa abilità solo durante il mantenimento di un avversario.</text>
     <flavorText>
     </flavorText>
@@ -1000,7 +998,7 @@ Rimuovi 2 segnalini valuta dalla Carovana dei Mercanti: STAPpa una terra base be
   <item>
     <id>HML0132</id>
     <name>Carovana dei Mercanti</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino valuta sulla Carovana dei Mercanti.
+    <text>All'inizio del tuo mantenimento, metti un segnalino valuta sulla Carovana dei Mercanti. 
 Rimuovi 2 segnalini valuta dalla Carovana dei Mercanti: STAPpa una terra base bersaglio. Attiva questa abilità solo durante il mantenimento di un avversario.</text>
     <flavorText>
     </flavorText>
@@ -1022,7 +1020,7 @@ Rimuovi 2 segnalini valuta dalla Carovana dei Mercanti: STAPpa una terra base be
   <item>
     <id>HML0135</id>
     <name>Muro di Alghe</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {U}{U}, {T}: Metti sul campo di battaglia una pedina creatura Muro Pianta 0/1 blu con difensore di nome Kelp.</text>
     <flavorText>
     </flavorText>
@@ -1044,7 +1042,7 @@ Rimuovi 2 segnalini valuta dalla Carovana dei Mercanti: STAPpa una terra base be
   <item>
     <id>HML0138</id>
     <name>Sacerdotessa del Salice</name>
-    <text>{T}: Puoi mettere sul campo di battaglia una carta permanente Spiritello dalla tua mano.
+    <text>{T}: Puoi mettere sul campo di battaglia una carta permanente Spiritello dalla tua mano. 
 {2}{G}: Una creatura verde bersaglio guadagna protezione dal nero fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1059,8 +1057,8 @@ Rimuovi 2 segnalini valuta dalla Carovana dei Mercanti: STAPpa una terra base be
   <item>
     <id>HML0140</id>
     <name>Scuola degli Stregoni</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}, {T}: Aggiungi {U} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}: Aggiungi {U} alla tua riserva di mana. 
 {2}, {T}: Aggiungi {W} o {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>

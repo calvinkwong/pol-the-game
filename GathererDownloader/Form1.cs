@@ -17,7 +17,6 @@ namespace ScaricaSpoilers
 	public partial class Form1 : Form
 	{
     private const string URL = @"http://gatherer.wizards.com/Pages/Search/Default.aspx?";
-    const string DB_CONNECTIONSTRING_ITA = @"Provider=Microsoft.Jet.OLEDB.4.0; Data Source=""Magic_Cards_2003.mdb""";
 
 		public Form1()
 		{
@@ -38,7 +37,7 @@ namespace ScaricaSpoilers
       foreach(XmlNode nodeSet in xSet.DocumentElement.SelectNodes("card_sets/item"))
       {
         string code = nodeSet.Attributes["code"].Value;
-        if(code == "MBS")
+        if(code == "M12")
         {
           XmlNode nodeSetLang = xSetLang.DocumentElement.SelectSingleNode(
             string.Format("card_sets_lang/item[@code='{0}' and @language='ENG']", code));
@@ -154,13 +153,14 @@ namespace ScaricaSpoilers
       foreach(XmlNode nodeSet in xSet.DocumentElement.SelectNodes("card_sets/item"))
       {
         string setCode = nodeSet.Attributes["code"].Value;
+
+        if(setCode != "M12")
+          continue;
+
         string setName = xSetLang.DocumentElement.SelectSingleNode("card_sets_lang/item[@code='" + setCode + "' and @language='ITA']/@name").InnerText;
         string cardsPath = "cards\\" + setCode + ".xml";
         string cardsEngPath = "cards\\" + setCode + ".eng.xml";
         string cardsItaPath = "cards\\" + setCode + ".ita.xml";
-
-        if(setCode != "MBS")
-          continue;
 
         XmlDocument xCards = new XmlDocument();
         xCards.Load(cardsPath);
@@ -272,6 +272,18 @@ namespace ScaricaSpoilers
       text = text.Replace("{B}", "{W}");
       text = text.Replace("{N}", "{B}");
       text = text.Replace("{L}", "{U}");
+
+      text = text.Replace("{B|N}", "{WB}");
+      text = text.Replace("{L|R}", "{UR}");
+      text = text.Replace("{N|V}", "{BG}");
+      text = text.Replace("{R|B}", "{RW}");
+      text = text.Replace("{V|L}", "{GU}");
+
+      text = text.Replace("{P|V}", "{GP}");
+      text = text.Replace("{P|B}", "{WP}");
+      text = text.Replace("{P|N}", "{BP}");
+      text = text.Replace("{P|L}", "{UP}");
+      text = text.Replace("{P|R}", "{RP}");
 
       return text;
     }

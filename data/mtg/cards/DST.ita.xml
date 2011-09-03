@@ -2,7 +2,7 @@
   <item>
     <id>DST0001</id>
     <name>Maestro del Gladio Auriok</name>
-    <text>Fintanto che il Maestro del Gladio Auriok è equipaggiato, prende +1/+1 e ha attacco improvviso.</text>
+    <text>Fintanto che il Maestro del Gladio Auriok è equipaggiato, prende +1/+1 e ha attacco improvviso. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -16,7 +16,7 @@
   <item>
     <id>DST0003</id>
     <name>Emissario della Speranza</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta l'Emissario della Speranza infligge danno da combattimento ad un giocatore, tu guadagni 1 punto vita per ogni artefatto controllato da quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -31,7 +31,7 @@ Ogniqualvolta l'Emissario della Speranza infligge danno da combattimento ad un g
   <item>
     <id>DST0005</id>
     <name>Mago Combattente Leonid</name>
-    <text>{T}: La creatura bersaglio prende +1/+1 fino alla fine del turno.
+    <text>{T}: La creatura bersaglio prende +1/+1 fino alla fine del turno. 
 Ogniqualvolta lanci una magia, puoi STAPpare il Mago Combattente Leonid</text>
     <flavorText>
     </flavorText>
@@ -46,7 +46,7 @@ Ogniqualvolta lanci una magia, puoi STAPpare il Mago Combattente Leonid</text>
   <item>
     <id>DST0007</id>
     <name>Mistico Lossodonte</name>
-    <text>{W}, {T}: TAPpa una creatura bersaglio.</text>
+    <text>{W}, {T}: TAPpa una creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -60,8 +60,8 @@ Ogniqualvolta lanci una magia, puoi STAPpare il Mago Combattente Leonid</text>
   <item>
     <id>DST0009</id>
     <name>Angelo Primigenio</name>
-    <text>Volare
-Fintanto che l'Angelo Primigenio è STAPpato, ha protezione dagli artefatti e da tutti i colori.
+    <text>Volare 
+Fintanto che l'Angelo Primigenio è STAPpato, ha protezione dagli artefatti e da tutti i colori. 
 Ogniqualvolta lanci una magia, puoi STAPpare l'Angelo Primigenio.</text>
     <flavorText>
     </flavorText>
@@ -69,7 +69,7 @@ Ogniqualvolta lanci una magia, puoi STAPpare l'Angelo Primigenio.</text>
   <item>
     <id>DST0010</id>
     <name>Pterofantasma</name>
-    <text>Volare
+    <text>Volare 
 Sacrifica lo Pterofantasma: Rigenera un artefatto bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -112,7 +112,7 @@ Sacrifica lo Pterofantasma: Rigenera un artefatto bersaglio.</text>
   <item>
     <id>DST0016</id>
     <name>Accendere l'Orgoglio</name>
-    <text>Scegli una - Le creature che controlli prendono +2/+2 fino alla fine del turno; oppure fino alla fine del turno, le creature che controlli guadagnano "Ogniqualvolta questa creatura infligge danno, tu guadagni altrettanti punti vita."
+    <text>Scegli una - Le creature che controlli prendono +2/+2 fino alla fine del turno; oppure fino alla fine del turno, le creature che controlli guadagnano "Ogniqualvolta questa creatura infligge danno, tu guadagni altrettanti punti vita." 
 Intrecciare {1}{W}</text>
     <flavorText>
     </flavorText>
@@ -134,8 +134,8 @@ Intrecciare {1}{W}</text>
   <item>
     <id>DST0019</id>
     <name>Portare Via</name>
-    <text>Incanta Equipaggiamento (Mentre lanci questa carta, bersaglia un equipaggiamento. Questa carta entra nel campo di battaglia assegnata a quell'equipaggiamento.)
-Quando Portare Via entra nel campo di battaglia, togli l'Equipaggiamento incantato.
+    <text>Incanta Equipaggiamento (Mentre lanci questa carta, bersaglia un equipaggiamento. Questa carta entra nel campo di battaglia assegnata a quell'equipaggiamento.) 
+Quando Portare Via entra nel campo di battaglia, togli l'Equipaggiamento incantato. 
 Tu controlli l'Equipaggiamento incantato.</text>
     <flavorText>
     </flavorText>
@@ -143,8 +143,8 @@ Tu controlli l'Equipaggiamento incantato.</text>
   <item>
     <id>DST0020</id>
     <name>Draghetto Scagliacromata</name>
-    <text>Affinità con gli artefatti (Lanciare questa magia costa {1} in meno per ogni artefatto che controlli.)
-Volare
+    <text>Affinità con gli artefatti (Lanciare questa magia costa {1} in meno per ogni artefatto che controlli.) 
+Volare 
 Quando il Draghetto Scagliacromata entra nel campo di battaglia, rivela le prime tre carte del tuo grimorio. Aggiungi alla tua mano tutte le carte artefatto rivelate in questo modo e metti le rimanenti nel tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -159,7 +159,7 @@ Quando il Draghetto Scagliacromata entra nel campo di battaglia, rivela le prime
   <item>
     <id>DST0022</id>
     <name>Osservatore Aerocustode</name>
-    <text>Volare
+    <text>Volare 
 L'Osservatore Aerocustode può bloccare soltanto le creature con volare.</text>
     <flavorText>
     </flavorText>
@@ -167,7 +167,7 @@ L'Osservatore Aerocustode può bloccare soltanto le creature con volare.</text>
   <item>
     <id>DST0023</id>
     <name>Ultime Parole</name>
-    <text>Le Ultime Parole non possono essere neutralizzate da magie o abilità.
+    <text>Le Ultime Parole non possono essere neutralizzate da magie o abilità. 
 Neutralizza la magia bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -189,7 +189,7 @@ Neutralizza la magia bersaglio.</text>
   <item>
     <id>DST0026</id>
     <name>Prodigio Neurok</name>
-    <text>Volare
+    <text>Volare 
 Scarta una carta artefatto: Il proprietario riprende in mano il Prodigio Neurok.</text>
     <flavorText>
     </flavorText>
@@ -197,7 +197,7 @@ Scarta una carta artefatto: Il proprietario riprende in mano il Prodigio Neurok.
   <item>
     <id>DST0027</id>
     <name>Trasmutatore Neurok</name>
-    <text>{U}: Una creatura bersaglio diventa un artefatto in aggiunta ai suoi altri tipi fino alla fine del turno.
+    <text>{U}: Una creatura bersaglio diventa un artefatto in aggiunta ai suoi altri tipi fino alla fine del turno. 
 {U}: Fino alla fine del turno, una creatura artefatto bersaglio diventa blu e non è un artefatto.</text>
     <flavorText>
     </flavorText>
@@ -205,9 +205,9 @@ Scarta una carta artefatto: Il proprietario riprende in mano il Prodigio Neurok.
   <item>
     <id>DST0028</id>
     <name>Sovraccarico Psichico</name>
-    <text>Incanta permanente
-Quando il Sovraccarico Psichico entra nel campo di battaglia, TAPpa il permanente incantato.
-Il permanente incantato non STAPpa durante lo STAP del suo controllore.
+    <text>Incanta permanente 
+Quando il Sovraccarico Psichico entra nel campo di battaglia, TAPpa il permanente incantato. 
+Il permanente incantato non STAPpa durante lo STAP del suo controllore. 
 Il permanente incantato ha "Scarta dalla tua mano due carte artefatto: STAPpa questo permanente."</text>
     <flavorText>
     </flavorText>
@@ -222,14 +222,15 @@ Il permanente incantato ha "Scarta dalla tua mano due carte artefatto: STAPpa qu
   <item>
     <id>DST0030</id>
     <name>Behemoth di Mercurio</name>
-    <text>Affinità con gli artefatti (Lanciare questa magia costa {1} in meno per ogni artefatto che controlli); Quando il Behemoth di Mercurio attacca o blocca, il proprietario lo riprende in mano alla fine del combattimento. (Ritorna in mano solo se è sul campo di battaglia.)</text>
+    <text>Affinità con gli artefatti (Lanciare questa magia costa {1} in meno per ogni artefatto che controlli)
+Quando il Behemoth di Mercurio attacca o blocca, il proprietario lo riprende in mano alla fine del combattimento. (Ritorna in mano solo se è sul campo di battaglia.)</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DST0031</id>
     <name>Rimodellare</name>
-    <text>Come costo addizionale per lanciare il Rimodellare, sacrifica un artefatto.
+    <text>Come costo addizionale per lanciare il Rimodellare, sacrifica un artefatto. 
 Passa in rassegna il tuo grimorio per una carta artefatto con costo di mana convertito pari o inferiore a X e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -244,7 +245,7 @@ Passa in rassegna il tuo grimorio per una carta artefatto con costo di mana conv
   <item>
     <id>DST0033</id>
     <name>Seconda Vista</name>
-    <text>Scegli una - Guarda le prime cinque carte del grimorio dell'avversario bersaglio, poi rimettile a posto in qualsiasi ordine; oppure guarda le prime cinque carte del tuo grimorio, poi rimettile a posto in qualsiasi ordine.
+    <text>Scegli una - Guarda le prime cinque carte del grimorio dell'avversario bersaglio, poi rimettile a posto in qualsiasi ordine; oppure guarda le prime cinque carte del tuo grimorio, poi rimettile a posto in qualsiasi ordine. 
 Intrecciare {U}</text>
     <flavorText>
     </flavorText>
@@ -252,7 +253,7 @@ Intrecciare {U}</text>
   <item>
     <id>DST0034</id>
     <name>Artefici del Sinodo</name>
-    <text>{X}, {T}: TAPpa X artefatti non creatura bersaglio.
+    <text>{X}, {T}: TAPpa X artefatti non creatura bersaglio. 
 {X}, {T}: STAPpa X artefatti non creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -273,10 +274,10 @@ Intrecciare {U}</text>
   </item>
   <item>
     <id>DST0037</id>
-    <name>Schianto Etereo</name>
-    <text>Rimuovi tutti i segnalini da tutti i permanenti e esilia tutte le pedine.</text>
-    <flavorText>
-    </flavorText>
+    <name>Æther Snap</name>
+    <text>Remove all counters from all permanents and exile all tokens.</text>
+    <flavorText>"May you wake to find you were only ever a dream."
+—Mephidross curse</flavorText>
   </item>
   <item>
     <id>DST0038</id>
@@ -309,7 +310,7 @@ Intrecciare {U}</text>
   <item>
     <id>DST0042</id>
     <name>Emissario della Disperazione</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta l'Emissario della Disperazione infligge danno da combattimento ad un giocatore, quel giocatore perde 1 punto vita per ogni artefatto che controlla.</text>
     <flavorText>
     </flavorText>
@@ -324,7 +325,7 @@ Ogniqualvolta l'Emissario della Disperazione infligge danno da combattimento ad 
   <item>
     <id>DST0044</id>
     <name>Il Grande Mietitore</name>
-    <text>All'inizio del tuo mantenimento, sacrifica un permanente.
+    <text>All'inizio del tuo mantenimento, sacrifica un permanente. 
 Ogniqualvolta Il Grande Mietitore infligge danno da combattimento ad un giocatore, quel giocatore sacrifica due permanenti.</text>
     <flavorText>
     </flavorText>
@@ -332,7 +333,7 @@ Ogniqualvolta Il Grande Mietitore infligge danno da combattimento ad un giocator
   <item>
     <id>DST0045</id>
     <name>Pipistrelli Tetrartiglio</name>
-    <text>Volare
+    <text>Volare 
 {B}, Paga 1 punto vita: I Pipistrelli Tetrartiglio prendono +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -347,7 +348,7 @@ Ogniqualvolta Il Grande Mietitore infligge danno da combattimento ad un giocator
   <item>
     <id>DST0047</id>
     <name>Melma Mefitica</name>
-    <text>La Melma Mefitica prende +1/+0 per ogni artefatto che controlli.
+    <text>La Melma Mefitica prende +1/+0 per ogni artefatto che controlli. 
 Ogniqualvolta la Melma Mefitica infligge danno da combattimento ad una creatura, distruggi quella creatura. Non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -383,8 +384,8 @@ Ogniqualvolta la Melma Mefitica infligge danno da combattimento ad una creatura,
   <item>
     <id>DST0052</id>
     <name>Urla Da Dentro</name>
-    <text>Incanta creatura
-La creatura incantata prende -1/-1.
+    <text>Incanta creatura 
+La creatura incantata prende -1/-1. 
 Quando la creatura incantata viene messa in un cimitero, rimetti sul campo di battaglia dal tuo cimitero le Urla Da Dentro.</text>
     <flavorText>
     </flavorText>
@@ -399,7 +400,7 @@ Quando la creatura incantata viene messa in un cimitero, rimetti sul campo di ba
   <item>
     <id>DST0054</id>
     <name>Putrefazione Avvizzente</name>
-    <text>Scegli una - Fino alla fine del turno, ogniqualvolta una creatura subisce danno, distruggila; oppure fino alla fine del turno, ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, il controllore di quella creatura perde un ammontare di punti vita pari alla sua costituzione.
+    <text>Scegli una - Fino alla fine del turno, ogniqualvolta una creatura subisce danno, distruggila; oppure fino alla fine del turno, ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, il controllore di quella creatura perde un ammontare di punti vita pari alla sua costituzione. 
 Intrecciare {2}{B}</text>
     <flavorText>
     </flavorText>
@@ -407,7 +408,7 @@ Intrecciare {2}{B}</text>
   <item>
     <id>DST0055</id>
     <name>Fulmine Spinato</name>
-    <text>Scegli una - Il Fulmine Spinato infligge 3 danni a una creatura bersaglio; oppure il Fulmine Spinato infligge 3 danni a un giocatore bersaglio.
+    <text>Scegli una - Il Fulmine Spinato infligge 3 danni a una creatura bersaglio; oppure il Fulmine Spinato infligge 3 danni a un giocatore bersaglio. 
 Intrecciare {2}</text>
     <flavorText>
     </flavorText>
@@ -443,7 +444,7 @@ Intrecciare {2}</text>
   <item>
     <id>DST0060</id>
     <name>Palla di Fuoco</name>
-    <text>La Palla di Fuoco infligge X danni suddivisi equamente, arrotondati per difetto, tra un qualsiasi numero di creature e/o giocatori bersaglio.
+    <text>La Palla di Fuoco infligge X danni suddivisi equamente, arrotondati per difetto, tra un qualsiasi numero di creature e/o giocatori bersaglio. 
 La Palla di Fuoco costa {1} in più per essere lanciata per ogni bersaglio oltre il primo.</text>
     <flavorText>
     </flavorText>
@@ -458,8 +459,8 @@ La Palla di Fuoco costa {1} in più per essere lanciata per ogni bersaglio oltre
   <item>
     <id>DST0062</id>
     <name>Drago della Fornace</name>
-    <text>Affinità con gli artefatti (Questa magia costa {1} in meno per essere lanciata per ogni artefatto che controlli.)
-Volare
+    <text>Affinità con gli artefatti (Questa magia costa {1} in meno per essere lanciata per ogni artefatto che controlli.) 
+Volare 
 Quando il Drago della Fornace entra nel campo di battaglia, se lo hai lanciato dalla tua mano, esilia tutti gli artefatti.</text>
     <flavorText>
     </flavorText>
@@ -474,7 +475,7 @@ Quando il Drago della Fornace entra nel campo di battaglia, se lo hai lanciato d
   <item>
     <id>DST0064</id>
     <name>Infervorare</name>
-    <text>L'Infervorare infligge 2 danni ad ogni creatura a cui è stato inflitto danno in questo turno.</text>
+    <text>L'Infervorare infligge 2 danni ad ogni creatura a cui è stato inflitto danno in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -495,8 +496,8 @@ Quando il Drago della Fornace entra nel campo di battaglia, se lo hai lanciato d
   <item>
     <id>DST0067</id>
     <name>Percosse Brutali</name>
-    <text>Lancia le Percosse Brutali solo durante il tuo turno e solo durante il combattimento.
-Scegli una - Le creature che controlli guadagnano doppio attacco fino alla fine del turno; oppure STAPpa tutte le creature che controlli e, dopo questa fase, ha luogo una fase di combattimento addizionale.
+    <text>Lancia le Percosse Brutali solo durante il tuo turno e solo durante il combattimento. 
+Scegli una - Le creature che controlli guadagnano doppio attacco fino alla fine del turno; oppure STAPpa tutte le creature che controlli e, dopo questa fase, ha luogo una fase di combattimento addizionale. 
 Intrecciare {1}{R}</text>
     <flavorText>
     </flavorText>
@@ -504,7 +505,7 @@ Intrecciare {1}{R}</text>
   <item>
     <id>DST0068</id>
     <name>Deviare</name>
-    <text>Cambia il bersaglio di una magia bersaglio che ha un singolo bersaglio.</text>
+    <text>Cambia il bersaglio di una magia bersaglio che ha un singolo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -518,7 +519,7 @@ Intrecciare {1}{R}</text>
   <item>
     <id>DST0070</id>
     <name>Lacrime di Rabbia</name>
-    <text>Lancia le Lacrime di Rabbia solo durante la dichiarazione degli attaccanti.
+    <text>Lancia le Lacrime di Rabbia solo durante la dichiarazione degli attaccanti. 
 Le creature attaccanti che controlli prendono +X/+0 fino alla fine del turno, dove X è il numero di creature attaccanti. Sacrifica quelle creature all'inizio della prossima sottofase finale.</text>
     <flavorText>
     </flavorText>
@@ -540,7 +541,7 @@ Le creature attaccanti che controlli prendono +X/+0 fino alla fine del turno, do
   <item>
     <id>DST0073</id>
     <name>Entità Eterna</name>
-    <text>Ogniqualvolta guadagni punti vita, metti sull'Entità Eterna altrettanti segnalini +1/+1.</text>
+    <text>Ogniqualvolta guadagni punti vita, metti sull'Entità Eterna altrettanti segnalini +1/+1. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -561,8 +562,8 @@ Le creature attaccanti che controlli prendono +X/+0 fino alla fine del turno, do
   <item>
     <id>DST0076</id>
     <name>Radici Infestate</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Protezione dagli artefatti
+    <text>Difensore (Questa creatura non può attaccare.) 
+Protezione dagli artefatti 
 Ogniqualvolta un avversario lancia una magia artefatto, puoi mettere sul campo di battaglia una pedina creatura Insetto 1/1 verde.</text>
     <flavorText>
     </flavorText>
@@ -570,7 +571,7 @@ Ogniqualvolta un avversario lancia una magia artefatto, puoi mettere sul campo d
   <item>
     <id>DST0077</id>
     <name>Carstoderma</name>
-    <text>Il Carstoderma entra nel campo di battaglia con cinque segnalini +1/+1 su di esso.
+    <text>Il Carstoderma entra nel campo di battaglia con cinque segnalini +1/+1 su di esso. 
 Ogniqualvolta un artefatto entra nel campo di battaglia, rimuovi un segnalino +1/+1 dal Carstoderma.</text>
     <flavorText>
     </flavorText>
@@ -599,7 +600,7 @@ Ogniqualvolta un artefatto entra nel campo di battaglia, rimuovi un segnalino +1
   <item>
     <id>DST0081</id>
     <name>Mieti e Semina</name>
-    <text>Scegli una - Distruggi una terra bersaglio; oppure passa in rassegna in tuo grimorio per una carta terra, mettila sul campo di battaglia, poi rimescola il tuo grimorio.
+    <text>Scegli una - Distruggi una terra bersaglio; oppure passa in rassegna in tuo grimorio per una carta terra, mettila sul campo di battaglia, poi rimescola il tuo grimorio. 
 Intrecciare {1}{G}</text>
     <flavorText>
     </flavorText>
@@ -628,7 +629,7 @@ Intrecciare {1}{G}</text>
   <item>
     <id>DST0085</id>
     <name>Ragno del Groviglio</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
 Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
     <flavorText>
     </flavorText>
@@ -670,9 +671,9 @@ Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
   </item>
   <item>
     <id>DST0091</id>
-    <name>Fiala Eterea</name>
-    <text>All'inizio del tuo mantenimento, puoi mettere un segnalino carica sulla Fiala Eterea.
-{T}: Puoi mettere sul campo di battaglia dalla tua mano una carta creatura con il costo di mana convertito pari al numero di segnalini carica presenti sulla Fiala Eterea.</text>
+    <name>Æther Vial</name>
+    <text>At the beginning of your upkeep, you may put a charge counter on Æther Vial.
+{T}: You may put a creature card with converted mana cost equal to the number of charge counters on Æther Vial from your hand onto the battlefield.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -686,7 +687,7 @@ Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
   <item>
     <id>DST0093</id>
     <name>Cannocchiale Arcano</name>
-    <text>{2}, {T}, Sacrifica una terra: Pesca una carta e metti un segnalino carica sul Cannocchiale Arcano.
+    <text>{2}, {T}, Sacrifica una terra: Pesca una carta e metti un segnalino carica sul Cannocchiale Arcano. 
 Rimuovi tre segnalini carica dal Cannocchiale Arcano: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -701,8 +702,8 @@ Rimuovi tre segnalini carica dal Cannocchiale Arcano: Pesca una carta.</text>
   <item>
     <id>DST0095</id>
     <name>Frantumatore Elettrofuso</name>
-    <text>Travolgere
-Ogniqualvolta un altro artefatto entra nel campo di battaglia, metti un segnalino +1/+1 sul Frantumatore Elettrofuso.
+    <text>Travolgere 
+Ogniqualvolta un altro artefatto entra nel campo di battaglia, metti un segnalino +1/+1 sul Frantumatore Elettrofuso. 
 Modulare 1 (Entra nel campo di battaglia con un segnalino +1/+1. Quando viene messo in un cimitero, puoi mettere i suoi segnalini +1/+1 su una creatura artefatto bersaglio.)</text>
     <flavorText>
     </flavorText>
@@ -710,8 +711,8 @@ Modulare 1 (Entra nel campo di battaglia con un segnalino +1/+1. Quando viene me
   <item>
     <id>DST0096</id>
     <name>Immondo Elettrofuso</name>
-    <text>Paura
-All'inizio del tuo mantenimento, puoi spostare un segnalino +1/+1 da una creatura bersaglio all'Immondo Elettrofuso.
+    <text>Paura 
+All'inizio del tuo mantenimento, puoi spostare un segnalino +1/+1 da una creatura bersaglio all'Immondo Elettrofuso. 
 Modulare 3 (Questa creatura entra nel campo di battaglia con tre segnalini +1/+1 su di essa. Quando viene messa in un cimitero, puoi mettere i suoi segnalini +1/+1 su una creatura artefatto bersaglio.)</text>
     <flavorText>
     </flavorText>
@@ -719,7 +720,7 @@ Modulare 3 (Questa creatura entra nel campo di battaglia con tre segnalini +1/+1
   <item>
     <id>DST0097</id>
     <name>Ibrido Elettrofuso</name>
-    <text>Rapidità
+    <text>Rapidità 
 Modulare 2 (Entra nel campo di battaglia con due segnalini +1/+1 su di essa. Quando viene messa in un cimitero, puoi mettere i suoi segnalini +1/+1 su una creatura artefatto bersaglio.)</text>
     <flavorText>
     </flavorText>
@@ -727,7 +728,7 @@ Modulare 2 (Entra nel campo di battaglia con due segnalini +1/+1 su di essa. Qua
   <item>
     <id>DST0098</id>
     <name>Lanciere Elettrofuso</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Modulare 4 (Entra nel campo di battaglia con quattro segnalini +1/+1 su di essa. Quando viene messa in un cimitero, puoi mettere i suoi segnalini +1/+1 su una creatura artefatto bersaglio.)</text>
     <flavorText>
     </flavorText>
@@ -735,7 +736,7 @@ Modulare 4 (Entra nel campo di battaglia con quattro segnalini +1/+1 su di essa.
   <item>
     <id>DST0099</id>
     <name>Sovrintendente Elettrofuso</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino +1/+1 su ogni creatura con modulare che controlli.
+    <text>All'inizio del tuo mantenimento, metti un segnalino +1/+1 su ogni creatura con modulare che controlli. 
 Modulare 6 (Entra nel campo di battaglia con sei segnalini +1/+1 su di essa. Quando viene messa in un cimitero, puoi mettere i suoi segnalini +1/+1 su una creatura artefatto bersaglio.)</text>
     <flavorText>
     </flavorText>
@@ -743,7 +744,7 @@ Modulare 6 (Entra nel campo di battaglia con sei segnalini +1/+1 su di essa. Qua
   <item>
     <id>DST0100</id>
     <name>Saccheggiatore Elettrofuso</name>
-    <text>Sacrifica un artefatto: Metti un segnalino +1/+1 sul Saccheggiatore Elettrofuso.
+    <text>Sacrifica un artefatto: Metti un segnalino +1/+1 sul Saccheggiatore Elettrofuso. 
 Modulare 1 (Entra nel campo di battaglia con un segnalino +1/+1 su di essa. Quando viene messa in un cimitero, puoi mettere i suoi segnalini +1/+1 su una creatura artefatto bersaglio.)</text>
     <flavorText>
     </flavorText>
@@ -751,7 +752,7 @@ Modulare 1 (Entra nel campo di battaglia con un segnalino +1/+1 su di essa. Quan
   <item>
     <id>DST0101</id>
     <name>Bonificatore Elettrofuso</name>
-    <text>Rimuovi un segnalino +1/+1 dal Bonificatore Elettrofuso: Metti una carta artefatto bersaglio dal tuo cimitero in cima al tuo grimorio.
+    <text>Rimuovi un segnalino +1/+1 dal Bonificatore Elettrofuso: Metti una carta artefatto bersaglio dal tuo cimitero in cima al tuo grimorio. 
 Modulare 2 (Entra nel campo di battaglia con due segnalini +1/+1 su di essa. Quando viene messa in un cimitero, puoi mettere i suoi segnalini +1/+1 su una creatura artefatto bersaglio.)</text>
     <flavorText>
     </flavorText>
@@ -759,7 +760,7 @@ Modulare 2 (Entra nel campo di battaglia con due segnalini +1/+1 su di essa. Qua
   <item>
     <id>DST0102</id>
     <name>Slith Elettrofuso</name>
-    <text>Ogniqualvolta lo Slith Elettrofuso infligge danno da combattimento ad un giocatore, metti un segnalino +1/+1 sullo Slith Elettrofuso.
+    <text>Ogniqualvolta lo Slith Elettrofuso infligge danno da combattimento ad un giocatore, metti un segnalino +1/+1 sullo Slith Elettrofuso. 
 Modulare 1 (Entra nel campo di battaglia con un segnalino +1/+1. Quando viene messa in un cimitero, puoi mettere i suoi segnalini +1/+1 su una creatura artefatto bersaglio.)</text>
     <flavorText>
     </flavorText>
@@ -767,7 +768,7 @@ Modulare 1 (Entra nel campo di battaglia con un segnalino +1/+1. Quando viene me
   <item>
     <id>DST0103</id>
     <name>Pungolatore Elettrofuso</name>
-    <text>Volare
+    <text>Volare 
 Modulare 1 (Entra nel campo di battaglia con un segnalino +1/+1 su di essa. Quando viene messa in un cimitero, puoi mettere i suoi segnalini +1/+1 su una creatura artefatto bersaglio.)</text>
     <flavorText>
     </flavorText>
@@ -782,15 +783,15 @@ Modulare 1 (Entra nel campo di battaglia con un segnalino +1/+1 su di essa. Quan
   <item>
     <id>DST0105</id>
     <name>Slitta da Assedio Auriok</name>
-    <text>{1}: La creatura artefatto bersaglio blocca la Slitta da Assedio Auriok in questo turno, se può farlo.
-{1}: La creatura artefatto bersaglio non può bloccare la Slitta da Assedio Auriok in questo turno.</text>
+    <text>{1}: La creatura artefatto bersaglio blocca la Slitta da Assedio Auriok in questo turno, se può farlo. 
+{1}: La creatura artefatto bersaglio non può bloccare la Slitta da Assedio Auriok in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DST0106</id>
     <name>Uovo Chimerico</name>
-    <text>Ogniqualvolta un avversario lancia una magia non artefatto, metti un segnalino carica sull'Uovo Chimerico.
+    <text>Ogniqualvolta un avversario lancia una magia non artefatto, metti un segnalino carica sull'Uovo Chimerico. 
 Rimuovi tre segnalini carica dall'Uovo Chimerico: Fino alla fine del turno, l'Uovo Chimerico diventa una creatura artefatto Costrutto 6/6 con travolgere.</text>
     <flavorText>
     </flavorText>
@@ -798,7 +799,7 @@ Rimuovi tre segnalini carica dall'Uovo Chimerico: Fino alla fine del turno, l'Uo
   <item>
     <id>DST0107</id>
     <name>Sugginucleo</name>
-    <text>{T}: Metti un segnalino carica su un artefatto bersaglio.
+    <text>{T}: Metti un segnalino carica su un artefatto bersaglio. 
 Sacrifica il Sugginucleo: Metti due segnalini carica su un artefatto bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -806,7 +807,7 @@ Sacrifica il Sugginucleo: Metti due segnalini carica su un artefatto bersaglio.<
   <item>
     <id>DST0108</id>
     <name>Bruto di Darksteel</name>
-    <text>Il Bruto di Darksteel è indistruttibile. (Gli effetti di "distruzione" e il danno letale non lo distruggono.)
+    <text>Il Bruto di Darksteel è indistruttibile. (Gli effetti di "distruzione" e il danno letale non lo distruggono.) 
 {3}: Il Bruto di Darksteel diventa una creatura artefatto Bestia 2/2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -814,9 +815,9 @@ Sacrifica il Sugginucleo: Metti due segnalini carica su un artefatto bersaglio.<
   <item>
     <id>DST0109</id>
     <name>Colosso di Darksteel</name>
-    <text>Travolgere
-Il Colosso di Darksteel è indistruttibile.
-Se il Colosso di Darksteel sta per essere messo in un cimitero da qualsiasi zona, invece rivela il Colosso di Darksteel e rimescolalo nel grimorio del suo proprietario.</text>
+    <text>Travolgere 
+Il Colosso di Darksteel è indistruttibile. 
+Se il Colosso di Darksteel sta per essere messo in un cimitero da qualsiasi zona, invece rivela il Colosso di Darksteel e rimescolalo nel grimorio del suo proprietario. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -830,7 +831,7 @@ Se il Colosso di Darksteel sta per essere messo in un cimitero da qualsiasi zona
   <item>
     <id>DST0111</id>
     <name>Gargoyle di Darksteel</name>
-    <text>Volare
+    <text>Volare 
 Il Gargoyle di Darksteel è indistruttibile.</text>
     <flavorText>
     </flavorText>
@@ -838,7 +839,7 @@ Il Gargoyle di Darksteel è indistruttibile.</text>
   <item>
     <id>DST0112</id>
     <name>Lingotto di Darksteel</name>
-    <text>Il Lingotto di Darksteel è indistruttibile.
+    <text>Il Lingotto di Darksteel è indistruttibile. 
 {T}: Aggiungi alla tua riserva un mana di un qualsiasi colore.</text>
     <flavorText>
     </flavorText>
@@ -846,7 +847,7 @@ Il Gargoyle di Darksteel è indistruttibile.</text>
   <item>
     <id>DST0113</id>
     <name>Ciondolo di Darksteel</name>
-    <text>Il Ciondolo di Darksteel è indistruttibile.
+    <text>Il Ciondolo di Darksteel è indistruttibile. 
 {1}, {T}: Guarda la prima carta del tuo grimorio. Puoi mettere quella carta in fondo al tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -854,8 +855,8 @@ Il Gargoyle di Darksteel è indistruttibile.</text>
   <item>
     <id>DST0114</id>
     <name>Reattore di Darksteel</name>
-    <text>Il Reattore di Darksteel è indistruttibile.
-All'inizio del tuo mantenimento puoi mettere un segnalino carica sul Reattore di Darksteel.
+    <text>Il Reattore di Darksteel è indistruttibile. 
+All'inizio del tuo mantenimento puoi mettere un segnalino carica sul Reattore di Darksteel. 
 Quando il Reattore di Darksteel ha venti o più segnalini carica, tu vinci la partita.</text>
     <flavorText>
     </flavorText>
@@ -863,7 +864,7 @@ Quando il Reattore di Darksteel ha venti o più segnalini carica, tu vinci la pa
   <item>
     <id>DST0115</id>
     <name>Replicatore Maschera di Morte</name>
-    <text>Imprimere - {1}: Esilia una carta creatura bersaglio presente nel tuo cimitero. (La carta esiliata viene impressa su questo artefatto.)
+    <text>Imprimere - {1}: Esilia una carta creatura bersaglio presente nel tuo cimitero. (La carta esiliata viene impressa su questo artefatto.) 
 Fintanto che una carta creatura impressa ha volare, il Replicatore Maschera di Morte ha volare. Lo stesso vale per paura, attacco improvviso, doppio attacco, rapidità, passa-terre, protezione e travolgere.</text>
     <flavorText>
     </flavorText>
@@ -878,14 +879,14 @@ Fintanto che una carta creatura impressa ha volare, il Replicatore Maschera di M
   <item>
     <id>DST0117</id>
     <name>Artiglio di Drago</name>
-    <text>Ogniqualvolta un giocatore lancia una magia rossa, puoi guadagnare 1 punto vita.</text>
+    <text>Ogniqualvolta un giocatore lancia una magia rossa, puoi guadagnare 1 punto vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DST0118</id>
     <name>Rincope Trapano</name>
-    <text>Volare
+    <text>Volare 
 Il Rincope Trapano ha velo fintanto che tu controlli un'altra creatura artefatto. (Non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -893,7 +894,7 @@ Il Rincope Trapano ha velo fintanto che tu controlli un'altra creatura artefatto
   <item>
     <id>DST0119</id>
     <name>Golem di Scorie</name>
-    <text>Affinità con le Paludi (Lanciare questa magia costa {1} in meno per ogni Palude che tu controlli.)
+    <text>Affinità con le Paludi (Lanciare questa magia costa {1} in meno per ogni Palude che tu controlli.) 
 Paura</text>
     <flavorText>
     </flavorText>
@@ -901,7 +902,7 @@ Paura</text>
   <item>
     <id>DST0120</id>
     <name>Divora Giorni</name>
-    <text>Volare, travolgere
+    <text>Volare, travolgere 
 Quando il Divora Giorni entra nel campo di battaglia, tu salti i tuoi prossimi due turni.</text>
     <flavorText>
     </flavorText>
@@ -930,7 +931,7 @@ Quando il Divora Giorni entra nel campo di battaglia, tu salti i tuoi prossimi d
   <item>
     <id>DST0124</id>
     <name>Cacciacuore</name>
-    <text>La creatura equipaggiata prende +2/+1 e ha "{T}, Togli il Cacciacuore : Distruggi una creatura bersaglio."
+    <text>La creatura equipaggiata prende +2/+1 e ha "{T}, Togli il Cacciacuore : Distruggi una creatura bersaglio." 
 Equipaggiare {5} ({5} : Assegnalo a una creatura bersaglio che controlli. Equipaggialo solo come una stregoneria. Questa carta entra nel campo di battaglia non assegnata e resta sul campo di battaglia se la creatura lo lascia.)</text>
     <flavorText>
     </flavorText>
@@ -938,7 +939,7 @@ Equipaggiare {5} ({5} : Assegnalo a una creatura bersaglio che controlli. Equipa
   <item>
     <id>DST0125</id>
     <name>Juggernaut</name>
-    <text>Il Juggernaut attacca ogni turno, se può farlo.
+    <text>Il Juggernaut attacca ogni turno, se può farlo. 
 Il Juggernaut non può essere bloccato dai Muri.</text>
     <flavorText>
     </flavorText>
@@ -946,14 +947,14 @@ Il Juggernaut non può essere bloccato dai Muri.</text>
   <item>
     <id>DST0126</id>
     <name>Occhio del Kraken</name>
-    <text>Ogniqualvolta un giocatore lancia una magia blu, puoi guadagnare 1 punto vita.</text>
+    <text>Ogniqualvolta un giocatore lancia una magia blu, puoi guadagnare 1 punto vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DST0127</id>
     <name>Bolas Leonid</name>
-    <text>La creatura equipaggiata ha "{T}, Togli le Bolas Leonid: TAPpa una creatura bersaglio."
+    <text>La creatura equipaggiata ha "{T}, Togli le Bolas Leonid: TAPpa una creatura bersaglio." 
 Equipaggiare {1}</text>
     <flavorText>
     </flavorText>
@@ -961,7 +962,7 @@ Equipaggiare {1}</text>
   <item>
     <id>DST0128</id>
     <name>Tomba del Lich</name>
-    <text>Non perdi la partita se hai zero o meno punti vita.
+    <text>Non perdi la partita se hai zero o meno punti vita. 
 Ogniqualvolta perdi punti vita, sacrifica un permanente per ogni punto vita che hai perso. (Il danno causa la perdita di punti vita.)</text>
     <flavorText>
     </flavorText>
@@ -969,7 +970,7 @@ Ogniqualvolta perdi punti vita, sacrifica un permanente per ogni punto vita che 
   <item>
     <id>DST0129</id>
     <name>Memnarch</name>
-    <text>{1}{U}{U} : Il permanente bersaglio diventa un artefatto in aggiunta ai propri altri tipi.
+    <text>4/5. {1}{U}{U} : Il permanente bersaglio diventa un artefatto in aggiunta ai propri altri tipi. 
 {3}{U} : Prendi il controllo di un artefatto bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -977,8 +978,8 @@ Ogniqualvolta perdi punti vita, sacrifica un permanente per ogni punto vita che 
   <item>
     <id>DST0130</id>
     <name>Traliccio di Micosinti</name>
-    <text>Tutti i permanenti sono artefatti in aggiunta ai loro altri tipi.
-Tutte le carte che non sono sul campo di battaglia, le magie, e i permanenti sono incolori.
+    <text>Tutti i permanenti sono artefatti in aggiunta ai loro altri tipi. 
+Tutte le carte che non sono sul campo di battaglia, le magie, e i permanenti sono incolori. 
 I giocatori possono spendere mana come se fosse mana di qualsiasi colore.</text>
     <flavorText>
     </flavorText>
@@ -993,8 +994,8 @@ I giocatori possono spendere mana come se fosse mana di qualsiasi colore.</text>
   <item>
     <id>DST0132</id>
     <name>Matrice di Myr</name>
-    <text>La Matrice di Myr è indistruttibile.
-Le creature Myr prendono +1/+1.
+    <text>La Matrice di Myr è indistruttibile. 
+Le creature Myr prendono +1/+1. 
 {5}: Metti sul campo di battaglia una pedina creatura artefatto Myr 1/1 incolore.</text>
     <flavorText>
     </flavorText>
@@ -1009,7 +1010,7 @@ Le creature Myr prendono +1/+1.
   <item>
     <id>DST0134</id>
     <name>Maschera della Nemesi</name>
-    <text>Tutte le creature che possono bloccare la creatura equipaggiata devono farlo.
+    <text>Tutte le creature che possono bloccare la creatura equipaggiata devono farlo. 
 Equipaggiare {3}</text>
     <flavorText>
     </flavorText>
@@ -1017,7 +1018,7 @@ Equipaggiare {3}</text>
   <item>
     <id>DST0135</id>
     <name>Golem di Oxidda</name>
-    <text>Affinità con le Montagne (Lanciare questa magia costa {1} in meno per ogni Montagna che tu controlli.)
+    <text>Affinità con le Montagne (Lanciare questa magia costa {1} in meno per ogni Montagna che tu controlli.) 
 Rapidità</text>
     <flavorText>
     </flavorText>
@@ -1025,7 +1026,7 @@ Rapidità</text>
   <item>
     <id>DST0136</id>
     <name>Specchio di Panoptic</name>
-    <text>Imprimere - {X}, {T}: Puoi esiliare dalla tua mano una carta istantaneo o stregoneria con costo di mana convertito pari a X.
+    <text>Imprimere - {X}, {T}: Puoi esiliare dalla tua mano una carta istantaneo o stregoneria con costo di mana convertito pari a X. 
 All'inizio del tuo mantenimento, puoi copiare una carta esiliata con lo Specchio di Panoptic. Se lo fai, puoi lanciare la copia senza pagare il suo costo di mana.</text>
     <flavorText>
     </flavorText>
@@ -1033,7 +1034,7 @@ All'inizio del tuo mantenimento, puoi copiare una carta esiliata con lo Specchio
   <item>
     <id>DST0137</id>
     <name>Golem Tagliente</name>
-    <text>Affinità con le Pianure (Lanciare questa magia costa {1} in meno per ogni Pianura che tu controlli.)
+    <text>Affinità con le Pianure (Lanciare questa magia costa {1} in meno per ogni Pianura che tu controlli.) 
 Cautela</text>
     <flavorText>
     </flavorText>
@@ -1041,7 +1042,7 @@ Cautela</text>
   <item>
     <id>DST0138</id>
     <name>Polvere di Siero</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 Quando potresti chiedere un mulligan e la Polvere di Siero è nella tua mano, puoi esiliare tutte le carte che hai in mano e poi pescarne altrettante. (Puoi farlo in aggiunta a chiedere dei mulligan.)</text>
     <flavorText>
     </flavorText>
@@ -1049,8 +1050,8 @@ Quando potresti chiedere un mulligan e la Polvere di Siero è nella tua mano, pu
   <item>
     <id>DST0139</id>
     <name>Scudo di Kaldra</name>
-    <text>Gli equipaggiamenti di nome Spada di Kaldra, Scudo di Kaldra, e Elmo di Kaldra sono indistruttibili.
-La creatura equipaggiata è indistruttibile.
+    <text>Gli equipaggiamenti di nome Spada di Kaldra, Scudo di Kaldra, e Elmo di Kaldra sono indistruttibili. 
+La creatura equipaggiata è indistruttibile. 
 Equipaggiare {4}</text>
     <flavorText>
     </flavorText>
@@ -1058,8 +1059,8 @@ Equipaggiare {4}</text>
   <item>
     <id>DST0140</id>
     <name>Morsa Cerebrale</name>
-    <text>La creatura equipaggiata prende +1/-1.
-Quando la creatura equipaggiata viene messa in un cimitero, pesca due carte.
+    <text>La creatura equipaggiata prende +1/-1. 
+Quando la creatura equipaggiata viene messa in un cimitero, pesca due carte. 
 Equipaggiare {1}</text>
     <flavorText>
     </flavorText>
@@ -1067,7 +1068,7 @@ Equipaggiare {1}</text>
   <item>
     <id>DST0141</id>
     <name>Pozza della Procreazione</name>
-    <text>Sacrifica una creatura: Metti un segnalino carica sulla Pozza della Procreazione.
+    <text>Sacrifica una creatura: Metti un segnalino carica sulla Pozza della Procreazione. 
 {1}, Rimuovi due segnalini carica dalla Pozza della Procreazione: Metti sul campo di battaglia una pedina creatura artefatto Progenie 2/2 incolore.</text>
     <flavorText>
     </flavorText>
@@ -1075,8 +1076,8 @@ Equipaggiare {1}</text>
   <item>
     <id>DST0142</id>
     <name>Manto dello Spettro</name>
-    <text>La creatura equipaggiata prende +1/+0.
-Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, quel giocatore scarta una carta.
+    <text>La creatura equipaggiata prende +1/+0. 
+Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, quel giocatore scarta una carta. 
 Equipaggiare {1}</text>
     <flavorText>
     </flavorText>
@@ -1084,8 +1085,8 @@ Equipaggiare {1}</text>
   <item>
     <id>DST0143</id>
     <name>Incantatore</name>
-    <text>Imprimere - Quando l'Incantatore entra nel campo di battaglia, puoi esiliare una carta istantaneo dalla tua mano.
-Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, puoi copiare la carta esiliata.. Se lo fai, puoi lanciare la copia senza pagare il suo costo di mana.
+    <text>Imprimere - Quando l'Incantatore entra nel campo di battaglia, puoi esiliare una carta istantaneo dalla tua mano. 
+Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, puoi copiare la carta esiliata.. Se lo fai, puoi lanciare la copia senza pagare il suo costo di mana. 
 Equipaggiare {4}</text>
     <flavorText>
     </flavorText>
@@ -1093,7 +1094,7 @@ Equipaggiare {4}</text>
   <item>
     <id>DST0144</id>
     <name>Roteaschiaccia</name>
-    <text>Ogniqualvolta il Roteaschiaccia blocca, metti un segnalino +1/+1 su di esso.
+    <text>Ogniqualvolta il Roteaschiaccia blocca, metti un segnalino +1/+1 su di esso. 
 Rimuovi un segnalino +1/+1 dal Roteaschiaccia: In questo turno il Roteaschiaccia non può essere bloccato.</text>
     <flavorText>
     </flavorText>
@@ -1101,7 +1102,7 @@ Rimuovi un segnalino +1/+1 dal Roteaschiaccia: In questo turno il Roteaschiaccia
   <item>
     <id>DST0145</id>
     <name>Golem delle Guglie</name>
-    <text>Affinità con le Isole (Lanciare questa magia costa {1} in meno per ogni Isola che tu controlli.)
+    <text>Affinità con le Isole (Lanciare questa magia costa {1} in meno per ogni Isola che tu controlli.) 
 Volare</text>
     <flavorText>
     </flavorText>
@@ -1116,7 +1117,7 @@ Volare</text>
   <item>
     <id>DST0147</id>
     <name>Tridente Colposicuro</name>
-    <text>La creatura equipaggiata ha attacco improvviso e "{T}, Togli il Tridente Colposicuro: Questa creatura infligge un ammontare di danni pari alla propria forza a un giocatore bersaglio."
+    <text>La creatura equipaggiata ha attacco improvviso e "{T}, Togli il Tridente Colposicuro: Questa creatura infligge un ammontare di danni pari alla propria forza a un giocatore bersaglio." 
 Equipaggiare {4} ({4}: Assegnalo a una creatura bersaglio che controlli. Equipaggialo solo come una stregoneria. Questa carta entra nel campo di battaglia non assegnata e resta sul campo di battaglia se la creatura lo lascia.)</text>
     <flavorText>
     </flavorText>
@@ -1124,8 +1125,8 @@ Equipaggiare {4} ({4}: Assegnalo a una creatura bersaglio che controlli. Equipag
   <item>
     <id>DST0148</id>
     <name>Spada di Fuoco e Ghiaccio</name>
-    <text>La creatura equipaggiata prende +2/+2 e ha protezione dal rosso e dal blu.
-Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, la Spada di Fuoco e Ghiaccio infligge 2 danni alla creatura o al giocatore bersaglio, e tu peschi una carta.
+    <text>La creatura equipaggiata prende +2/+2 e ha protezione dal rosso e dal blu. 
+Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, la Spada di Fuoco e Ghiaccio infligge 2 danni alla creatura o al giocatore bersaglio, e tu peschi una carta. 
 Equipaggiare {2}</text>
     <flavorText>
     </flavorText>
@@ -1133,8 +1134,8 @@ Equipaggiare {2}</text>
   <item>
     <id>DST0149</id>
     <name>Spada di Luce e Ombre</name>
-    <text>La creatura equipaggiata prende +2/+2 e ha protezione dal bianco e dal nero.
-Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, tu guadagni 3 punti vita e puoi riprendere in mano una carta creatura bersaglio dal tuo cimitero.
+    <text>La creatura equipaggiata prende +2/+2 e ha protezione dal bianco e dal nero. 
+Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, tu guadagni 3 punti vita e puoi riprendere in mano una carta creatura bersaglio dal tuo cimitero. 
 Equipaggiare {2}</text>
     <flavorText>
     </flavorText>
@@ -1142,7 +1143,7 @@ Equipaggiare {2}</text>
   <item>
     <id>DST0150</id>
     <name>Artiglio del Dolore</name>
-    <text>Ogniqualvolta una fonte che controlli diversa dall'Artiglio del Dolore infligge danno ad un avversario, metti un segnalino carica sull'Artiglio del Dolore.
+    <text>Ogniqualvolta una fonte che controlli diversa dall'Artiglio del Dolore infligge danno ad un avversario, metti un segnalino carica sull'Artiglio del Dolore. 
 {X}, {T}, Rimuovi X segnalini carica dall'Artiglio del Dolore: L'Artiglio del Dolore infligge X danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1164,7 +1165,7 @@ Equipaggiare {2}</text>
   <item>
     <id>DST0153</id>
     <name>Bastone delle Tempeste</name>
-    <text>Se il Bastone delle Tempeste è STAPpato e una creatura sta per infliggerti danno da combattimento, previeni 1 di quei danni.
+    <text>Se il Bastone delle Tempeste è STAPpato e una creatura sta per infliggerti danno da combattimento, previeni 1 di quei danni. 
 {2}, {T}: Le creature attaccanti prendono +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1193,7 +1194,7 @@ Equipaggiare {2}</text>
   <item>
     <id>DST0157</id>
     <name>Mazzafrusto Vulshok</name>
-    <text>La creatura equipaggiata prende +2/+2.
+    <text>La creatura equipaggiata prende +2/+2. 
 Equipaggiare {2}</text>
     <flavorText>
     </flavorText>
@@ -1201,7 +1202,7 @@ Equipaggiare {2}</text>
   <item>
     <id>DST0158</id>
     <name>Bacchetta degli Elementi</name>
-    <text>{T}, Sacrifica un'Isola: Metti sul campo di battaglia una pedina creatura Elementale 2/2 blu con volare.
+    <text>{T}, Sacrifica un'Isola: Metti sul campo di battaglia una pedina creatura Elementale 2/2 blu con volare. 
 {T}, Sacrifica una Montagna: Metti sul campo di battaglia una pedina creatura Elementale 3/3 rossa.</text>
     <flavorText>
     </flavorText>
@@ -1216,9 +1217,9 @@ Equipaggiare {2}</text>
   <item>
     <id>DST0160</id>
     <name>Manto Setabisbiglio</name>
-    <text>La creatura equipaggiata non può essere bloccata.
-La creatura equipaggiata ha velo. (Non può essere bersaglio di magie o abilità.)
-Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
+    <text>La creatura equipaggiata non può essere bloccata. 
+La creatura equipaggiata ha velo. (Non può essere bersaglio di magie o abilità.) 
+Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1239,8 +1240,8 @@ Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>DST0163</id>
     <name>Nexus dei Lampidotteri</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}: Il Nexus dei Lampidotteri diventa una creatura artefatto Lampidottero 1/1 con volare fino alla fine del turno. E' ancora una terra.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}: Il Nexus dei Lampidotteri diventa una creatura artefatto Lampidottero 1/1 con volare fino alla fine del turno. E' ancora una terra. 
 {1},{T}: La creatura Lampidottero bersaglio prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1248,7 +1249,7 @@ Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>DST0164</id>
     <name>Roccaforte di Darksteel</name>
-    <text>La Roccaforte di Darksteel è indistruttibile.
+    <text>La Roccaforte di Darksteel è indistruttibile. 
 {T}: Aggiungi {1} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1256,8 +1257,8 @@ Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>DST0165</id>
     <name>Nucleo di Mirrodin</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{T}: Metti un segnalino carica sul Nucleo di Mirrodin.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{T}: Metti un segnalino carica sul Nucleo di Mirrodin. 
 {T}, Rimuovi un segnalino carica dal Nucleo di Mirrodin: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>

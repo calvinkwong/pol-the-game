@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GathererDownloader", "GathererDownloader.csproj", "{9A0E6488-DC56-415B-9A15-27324D0B76A6}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug No Sign|Any CPU = Debug No Sign|Any CPU
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9A0E6488-DC56-415B-9A15-27324D0B76A6}.Debug No Sign|Any CPU.ActiveCfg = Debug No Sign|Any CPU
+		{9A0E6488-DC56-415B-9A15-27324D0B76A6}.Debug No Sign|Any CPU.Build.0 = Debug No Sign|Any CPU
+		{9A0E6488-DC56-415B-9A15-27324D0B76A6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9A0E6488-DC56-415B-9A15-27324D0B76A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9A0E6488-DC56-415B-9A15-27324D0B76A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9A0E6488-DC56-415B-9A15-27324D0B76A6}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

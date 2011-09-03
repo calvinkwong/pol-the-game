@@ -2,22 +2,22 @@
   <item>
     <id>DRK0001</id>
     <name>Amnesia</name>
-    <text>Il giocatore bersaglio rivela la propria mano e scarta tutte le carte che non sono terre.</text>
+    <text>Il giocatore bersaglio rivela la propria mano e scarta tutte le carte che non sono terre. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0002</id>
     <name>Folla Inferocita</name>
-    <text>Travolgere
-Fintanto che è il tuo turno, la forza e la costituzione della Folla Inferocita sono ciascuna pari a 2 più il numero di Paludi controllate da tutti i tuoi avversari. Fintanto che non è il tuo turno, la forza e la costituzione della Folla Inferocita sono ciascuna pari a 2.</text>
+    <text>Travolgere 
+Fintanto che è il tuo turno, la forza e la costituzione della Folla Inferocita sono ciascuna pari a 2 più il numero di Paludi controllate da tutti i tuoi avversari. Fintanto che non è il tuo turno, la forza e la costituzione della Folla Inferocita sono ciascuna pari a 2. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0003</id>
     <name>Apprendista Stregone</name>
-    <text>{U},{T}: Aggiungi {3} alla tua riserva di mana.</text>
+    <text>{U},{T}: Aggiungi {3} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -31,8 +31,8 @@ Fintanto che è il tuo turno, la forza e la costituzione della Folla Inferocita 
   <item>
     <id>DRK0005</id>
     <name>Fulmine Globulare</name>
-    <text>Travolgere (Se questa creatura sta per infliggere alle sue creature bloccanti danno sufficiente a distruggerle, puoi farle infliggere il resto del suo danno al giocatore in difesa o a un planeswalker.)
-Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.)
+    <text>Travolgere (Se questa creatura sta per infliggere alle sue creature bloccanti danno sufficiente a distruggerle, puoi farle infliggere il resto del suo danno al giocatore in difesa o a un planeswalker.) 
+Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.) 
 All'inizio della sottofase finale, sacrifica il Fulmine Globulare.</text>
     <flavorText>
     </flavorText>
@@ -54,7 +54,7 @@ All'inizio della sottofase finale, sacrifica il Fulmine Globulare.</text>
   <item>
     <id>DRK0008</id>
     <name>Luna Insanguinata</name>
-    <text>Le terre non base sono Montagne.</text>
+    <text>Le terre non base sono Montagne. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -68,14 +68,14 @@ All'inizio della sottofase finale, sacrifica il Fulmine Globulare.</text>
   <item>
     <id>DRK0010</id>
     <name>Demonietto delle Paludi</name>
-    <text>Volare (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.)</text>
+    <text>Volare (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0011</id>
     <name>Topi delle Paludi</name>
-    <text>I Topi delle Paludi non possono essere bloccati dai Muri.</text>
+    <text>I Topi delle Paludi non possono essere bloccati dai Muri. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -96,7 +96,7 @@ All'inizio della sottofase finale, sacrifica il Fulmine Globulare.</text>
   <item>
     <id>DRK0014</id>
     <name>Lavaggio del Cervello</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata non può attaccare a meno che il suo controllore paghi {3}.</text>
     <flavorText>
     </flavorText>
@@ -104,21 +104,21 @@ La creatura incantata non può attaccare a meno che il suo controllore paghi {3}
   <item>
     <id>DRK0015</id>
     <name>Fratellanza del Fuoco</name>
-    <text>{1}{R}{R}: La Fratellanza del Fuoco infligge 1 danno a una creatura o a un giocatore bersaglio e 1 danno a te.</text>
+    <text>{1}{R}{R}: La Fratellanza del Fuoco infligge 1 danno a una creatura o a un giocatore bersaglio e 1 danno a te. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0016</id>
     <name>Pianta Carnivora</name>
-    <text>Difensore</text>
+    <text>Difensore </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0017</id>
     <name>Popolo delle Caverne</name>
-    <text>Ogniqualvolta il Popolo delle Caverne attacca, prende +1/-2 fino alla fine del turno.
+    <text>Ogniqualvolta il Popolo delle Caverne attacca, prende +1/-2 fino alla fine del turno. 
 {1}{R}{R}, {T}: La creatura bersaglio guadagna passa-montagne fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -126,8 +126,8 @@ La creatura incantata non può attaccare a meno che il suo controllore paghi {3}
   <item>
     <id>DRK0018</id>
     <name>Città delle Ombre</name>
-    <text>{T}, Esilia una creatura che controlli : Metti un segnalino carica sulla Città delle Ombre.
-{T} : Aggiungi {X} alla tua riserva di mana, dove X è pari al numero di segnalini carica presenti sulla Città delle Ombre. [Oracle 2003/07/01]</text>
+    <text>{T}, Esilia una creatura che controlli : Metti un segnalino carica sulla Città delle Ombre. 
+{T} : Aggiungi {X} alla tua riserva di mana, dove X è pari al numero di segnalini carica presenti sulla Città delle Ombre. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -148,7 +148,7 @@ La creatura incantata non può attaccare a meno che il suo controllore paghi {3}
   <item>
     <id>DRK0021</id>
     <name>Maledici Artefatto</name>
-    <text>Incanta artefatto
+    <text>Incanta artefatto 
 All'inizio del mantenimento del controllore dell'artefatto incantato, il Maledici Artefatto infligge 2 danni a quel giocatore a meno che egli sacrifichi quell'artefatto.</text>
     <flavorText>
     </flavorText>
@@ -156,9 +156,9 @@ All'inizio del mantenimento del controllore dell'artefatto incantato, il Maledic
   <item>
     <id>DRK0022</id>
     <name>Danza della Creazione</name>
-    <text>Quando la Danza della Creazione entra nel campo di battaglia, metti sul campo di battaglia una pedina che è la copia di una creatura bersaglio che non sia una pedina.
-Quando la Danza della Creazione lascia il campo di battaglia, esilia la pedina creatura.
-Quando la pedina creatura lascia il campo di battaglia, sacrifica la Danza della Creazione.
+    <text>Quando la Danza della Creazione entra nel campo di battaglia, metti sul campo di battaglia una pedina che è la copia di una creatura bersaglio che non sia una pedina. 
+Quando la Danza della Creazione lascia il campo di battaglia, esilia la pedina creatura. 
+Quando la pedina creatura lascia il campo di battaglia, sacrifica la Danza della Creazione. 
 All'inizio del tuo mantenimento, sacrifica la Danza della Creazione a meno che tu paghi {U}{U}.</text>
     <flavorText>
     </flavorText>
@@ -187,14 +187,14 @@ All'inizio del tuo mantenimento, sacrifica la Danza della Creazione a meno che t
   <item>
     <id>DRK0026</id>
     <name>Macchina Diabolica</name>
-    <text>{3}: Rigenera la Macchina Diabolica.</text>
+    <text>{3}: Rigenera la Macchina Diabolica. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0027</id>
     <name>Zombi del Naufragio</name>
-    <text>{B}: Rigenera gli Zombi del Naufragio.</text>
+    <text>{B}: Rigenera gli Zombi del Naufragio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -215,7 +215,7 @@ All'inizio del tuo mantenimento, sacrifica la Danza della Creazione a meno che t
   <item>
     <id>DRK0030</id>
     <name>Anguilla Elettrica</name>
-    <text>Quando l'Anguilla Elettrica entra nel campo di battaglia, ti infligge 1 danno.
+    <text>Quando l'Anguilla Elettrica entra nel campo di battaglia, ti infligge 1 danno. 
 {R}{R}: L'Anguilla Elettrica prende +2/+0 fino alla fine del turno e ti infligge 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -230,7 +230,7 @@ All'inizio del tuo mantenimento, sacrifica la Danza della Creazione a meno che t
   <item>
     <id>DRK0032</id>
     <name>Erosione</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 All'inizio del mantenimento del controllore della terra incantata, distruggi quella terra a meno che quel giocatore paghi {1} o 1 punto vita.</text>
     <flavorText>
     </flavorText>
@@ -252,8 +252,8 @@ All'inizio del mantenimento del controllore della terra incantata, distruggi que
   <item>
     <id>DRK0035</id>
     <name>Digiuno</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino fame sul Digiuno. Poi distruggi il Digiuno se ha cinque o più segnalini fame.
-Se stai per iniziare la tua acquisizione, puoi invece saltare quella fase. Se lo fai, guadagni 2 punti vita.
+    <text>All'inizio del tuo mantenimento, metti un segnalino fame sul Digiuno. Poi distruggi il Digiuno se ha cinque o più segnalini fame. 
+Se stai per iniziare la tua acquisizione, puoi invece saltare quella fase. Se lo fai, guadagni 2 punti vita. 
 Quando peschi una carta, distruggi il Digiuno.</text>
     <flavorText>
     </flavorText>
@@ -261,14 +261,14 @@ Quando peschi una carta, distruggi il Digiuno.</text>
   <item>
     <id>DRK0036</id>
     <name>Pietra Fellwar</name>
-    <text>{T}: Aggiungi alla tua riserva di mana un mana di un qualsiasi colore che una terra controllata da un tuo avversario potrebbe produrre.</text>
+    <text>{T}: Aggiungi alla tua riserva di mana un mana di un qualsiasi colore che una terra controllata da un tuo avversario potrebbe produrre. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0037</id>
     <name>Giorno di Festa</name>
-    <text>Lancia il Giorno di Festa solo durante il mantenimento di un avversario.
+    <text>Lancia il Giorno di Festa solo durante il mantenimento di un avversario. 
 Le creature non possono attaccare in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -283,7 +283,7 @@ Le creature non possono attaccare in questo turno.</text>
   <item>
     <id>DRK0039</id>
     <name>Draghetto del Fuoco</name>
-    <text>Volare
+    <text>Volare 
 {R}: Il Draghetto del Fuoco prende +1/+0 fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
     <flavorText>
     </flavorText>
@@ -291,7 +291,7 @@ Le creature non possono attaccare in questo turno.</text>
   <item>
     <id>DRK0040</id>
     <name>Fenditura</name>
-    <text>Distruggi una terra o una creatura bersaglio. Non può essere rigenerata.</text>
+    <text>Distruggi una terra o una creatura bersaglio. Non può essere rigenerata. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -312,14 +312,14 @@ Le creature non possono attaccare in questo turno.</text>
   <item>
     <id>DRK0043</id>
     <name>Mostro di Frankenstein</name>
-    <text>Mentre il Mostro di Frankenstein entra nel campo di battaglia, esilia X carte creatura dal tuo cimitero. Se non puoi farlo, metti il Mostro di Frankenstein nel cimitero del suo proprietario anziché nel campo di battaglia. Per ogni carta creatura esiliata in questo modo, il Mostro di Frankenstein entra nel campo di battaglia con un segnalino +2/+0, +1/+1, o +0/+2.</text>
+    <text>Mentre il Mostro di Frankenstein entra nel campo di battaglia, esilia X carte creatura dal tuo cimitero. Se non puoi farlo, metti il Mostro di Frankenstein nel cimitero del suo proprietario anziché nel campo di battaglia. Per ogni carta creatura esiliata in questo modo, il Mostro di Frankenstein entra nel campo di battaglia con un segnalino +2/+0, +1/+1, o +0/+2. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0044</id>
     <name>Tocco di Gea</name>
-    <text>Puoi giocare una terra addizionale durante il tuo turno se quella terra è una Foresta base.
+    <text>Puoi giocare una terra addizionale durante il tuo turno se quella terra è una Foresta base. 
 Sacrifica il Tocco di Gea: Aggiungi {G}{G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -327,16 +327,16 @@ Sacrifica il Tocco di Gea: Aggiungi {G}{G} alla tua riserva di mana.</text>
   <item>
     <id>DRK0045</id>
     <name>Nave Fantasma</name>
-    <text>Volare
-{U}{U}{U}: Rigenera la Nave Fantasma.</text>
+    <text>Volare 
+{U}{U}{U}: Rigenera la Nave Fantasma. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0046</id>
     <name>Squalo Gigante</name>
-    <text>Lo Squalo Gigante non può attaccare a meno che il giocatore in difesa controlli un'Isola.
-Ogniqualvolta lo Squalo Gigante blocca o viene bloccato da una creatura alla quale sia già stato inflitto danno in questo turno, lo Squalo Gigante prende +2/+0 e guadagna travolgere fino alla fine del turno.
+    <text>Lo Squalo Gigante non può attaccare a meno che il giocatore in difesa controlli un'Isola. 
+Ogniqualvolta lo Squalo Gigante blocca o viene bloccato da una creatura alla quale sia già stato inflitto danno in questo turno, lo Squalo Gigante prende +2/+0 e guadagna travolgere fino alla fine del turno. 
 Quando non controlli Isole, sacrifica la Squalo Gigante.</text>
     <flavorText>
     </flavorText>
@@ -344,7 +344,7 @@ Quando non controlli Isole, sacrifica la Squalo Gigante.</text>
   <item>
     <id>DRK0047</id>
     <name>Caverne dei Goblin</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 Se la terra incantata è una Montagna base, le creature Goblin prendono +0/+2.</text>
     <flavorText>
     </flavorText>
@@ -359,16 +359,15 @@ Se la terra incantata è una Montagna base, le creature Goblin prendono +0/+2.</
   <item>
     <id>DRK0049</id>
     <name>Eroe Goblin</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0050</id>
     <name>Slitta da Roccia dei Goblin</name>
-    <text>Travolgere
-La Slitta da Roccia dei Goblin non STAPpa durante il tuo STAP se ha attaccato nel tuo turno precedente.
+    <text>Travolgere 
+La Slitta da Roccia dei Goblin non STAPpa durante il tuo STAP se ha attaccato nel tuo turno precedente. 
 La Slitta da Roccia dei Goblin non può attaccare a meno che il giocatore in difesa controlli una Montagna.</text>
     <flavorText>
     </flavorText>
@@ -376,8 +375,8 @@ La Slitta da Roccia dei Goblin non può attaccare a meno che il giocatore in dif
   <item>
     <id>DRK0051</id>
     <name>Sacrario dei Goblin</name>
-    <text>Incanta terra
-Se la terra incantata è una Montagna, le creature Goblin prendono +1/+0.
+    <text>Incanta terra 
+Se la terra incantata è una Montagna, le creature Goblin prendono +1/+0. 
 Quando il Sacrario dei Goblin lascia il campo di battaglia, infligge 1 danno ad ogni creatura Goblin.</text>
     <flavorText>
     </flavorText>
@@ -385,7 +384,7 @@ Quando il Sacrario dei Goblin lascia il campo di battaglia, infligge 1 danno ad 
   <item>
     <id>DRK0052</id>
     <name>Mago dei Goblin</name>
-    <text>{T}: Puoi mettere un carta permanente Goblin dalla tua mano nel campo di battaglia.
+    <text>{T}: Puoi mettere un carta permanente Goblin dalla tua mano nel campo di battaglia. 
 {R}: Un Goblin bersaglio guadagna protezione dal bianco fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -393,7 +392,7 @@ Quando il Sacrario dei Goblin lascia il campo di battaglia, infligge 1 danno ad 
   <item>
     <id>DRK0053</id>
     <name>Goblin delle Flarg</name>
-    <text>Passa-montagne
+    <text>Passa-montagne 
 Quando controlli un Nano, sacrifica i Goblin delle Flarg.</text>
     <flavorText>
     </flavorText>
@@ -401,7 +400,7 @@ Quando controlli un Nano, sacrifica i Goblin delle Flarg.</text>
   <item>
     <id>DRK0054</id>
     <name>Profanatori di Tombe</name>
-    <text>{B}, {T}: Esilia una carta artefatto bersaglio da un cimitero. Guadagni 2 punti vita.</text>
+    <text>{B}, {T}: Esilia una carta artefatto bersaglio da un cimitero. Guadagni 2 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -422,7 +421,7 @@ Quando controlli un Nano, sacrifica i Goblin delle Flarg.</text>
   <item>
     <id>DRK0057</id>
     <name>Inferno</name>
-    <text>L'Inferno infligge 6 danni a ogni creatura e a ogni giocatore.</text>
+    <text>L'Inferno infligge 6 danni a ogni creatura e a ogni giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -436,7 +435,7 @@ Quando controlli un Nano, sacrifica i Goblin delle Flarg.</text>
   <item>
     <id>DRK0059</id>
     <name>Cavalieri di Thorn</name>
-    <text>Protezione dal rosso, branco.</text>
+    <text>Protezione dal rosso, branco. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -450,9 +449,9 @@ Quando controlli un Nano, sacrifica i Goblin delle Flarg.</text>
   <item>
     <id>DRK0061</id>
     <name>Leviatano</name>
-    <text>Travolgere
-Il Leviatano entra nel campo di battaglia TAPpato e non STAPpa durante il tuo STAP.
-All'inizio del tuo mantenimento, puoi sacrificare due Isole. Se lo fai, STAPpa il Leviatano.
+    <text>Travolgere 
+Il Leviatano entra nel campo di battaglia TAPpato e non STAPpa durante il tuo STAP. 
+All'inizio del tuo mantenimento, puoi sacrificare due Isole. Se lo fai, STAPpa il Leviatano. 
 Il Leviatano non può attaccare a meno che non sacrifichi due Isole.</text>
     <flavorText>
     </flavorText>
@@ -467,22 +466,22 @@ Il Leviatano non può attaccare a meno che non sacrifichi due Isole.</text>
   <item>
     <id>DRK0063</id>
     <name>Predatore</name>
-    <text>Il Predatore non può essere bersaglio di magie a meno che abbia attaccato o bloccato in questo turno.</text>
+    <text>Il Predatore non può essere bersaglio di magie a meno che abbia attaccato o bloccato in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0064</id>
     <name>Contesa di Magia</name>
-    <text>Tu e l'avversario bersaglio lanciate una moneta ognuno. La Contesa di Magia infligge 1 danno a ogni giocatore a cui esce croce. Ripeti il procedimento fino a che entrambi i giocatori ottengono testa con lo stesso lancio.</text>
+    <text>Tu e l'avversario bersaglio lanciate una moneta ognuno. La Contesa di Magia infligge 1 danno a ogni giocatore a cui esce croce. Ripeti il procedimento fino a che entrambi i giocatori ottengono testa con lo stesso lancio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0065</id>
     <name>Vortice di Mana</name>
-    <text>Quando lanci il Vortice di Mana, puoi sacrificare una terra. Se non lo fai, neutralizza il Vortice del Mana.
-All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica una terra.
+    <text>Quando lanci il Vortice di Mana, puoi sacrificare una terra. Se non lo fai, neutralizza il Vortice del Mana. 
+All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica una terra. 
 Quando non ci sono più terre sul campo di battaglia, sacrifica il Vortice di Mana.</text>
     <flavorText>
     </flavorText>
@@ -553,15 +552,15 @@ Quando non ci sono più terre sul campo di battaglia, sacrifica il Vortice di Ma
   <item>
     <id>DRK0075</id>
     <name>Abitatori del Buio</name>
-    <text>Ogniqualvolta gli Abitatori del Buio attaccano e non vengono bloccati, prendono +2/+0 fino alla fine del combattimento.</text>
+    <text>Ogniqualvolta gli Abitatori del Buio attaccano e non vengono bloccati, prendono +2/+0 fino alla fine del combattimento. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0076</id>
     <name>Razza senza Nome</name>
-    <text>Travolgere
-Mentre la Razza senza Nome entra nel campo di battaglia, paga un qualsiasi ammontare di punti vita. L'ammontare che paghi non può essere maggiore del numero totale di permanenti non-pedina bianchi controllati dai tuoi avversari più il numero totale di carte bianche presenti nei loro cimiteri.
+    <text>Travolgere 
+Mentre la Razza senza Nome entra nel campo di battaglia, paga un qualsiasi ammontare di punti vita. L'ammontare che paghi non può essere maggiore del numero totale di permanenti non-pedina bianchi controllati dai tuoi avversari più il numero totale di carte bianche presenti nei loro cimiteri. 
 La forza e la costituzione della Razza senza Nome sono pari ciascuna ai punti vita pagati quando è entrata nel campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -569,7 +568,7 @@ La forza e la costituzione della Razza senza Nome sono pari ciascuna ai punti vi
   <item>
     <id>DRK0077</id>
     <name>Necropoli</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Esilia una carta creatura dal tuo cimitero: Metti X segnalini +0/+1 sulla Necropoli, dove X è pari al costo di mana convertito della carta esiliata.</text>
     <flavorText>
     </flavorText>
@@ -605,7 +604,7 @@ Esilia una carta creatura dal tuo cimitero: Metti X segnalini +0/+1 sulla Necrop
   <item>
     <id>DRK0082</id>
     <name>Predicatore</name>
-    <text>Puoi scegliere di non STAPpare il Predicatore durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare il Predicatore durante il tuo STAP. 
 {T}: Guadagni il controllo di una creatura bersaglio a scelta di un avversario che la controlla fintanto che il Predicatore rimane TAPpato.</text>
     <flavorText>
     </flavorText>
@@ -613,8 +612,8 @@ Esilia una carta creatura dal tuo cimitero: Metti X segnalini +0/+1 sulla Necrop
   <item>
     <id>DRK0083</id>
     <name>Allergia Psichica</name>
-    <text>Mentre l'Allergia Psichica entra nel campo di battaglia, scegli un colore.
-All'inizio del mantenimento di ogni avversario, l'Allergia Psichica infligge X danni a quel giocatore, dove X è pari al numero di permanenti non pedina del colore scelto che quel giocatore controlla.
+    <text>Mentre l'Allergia Psichica entra nel campo di battaglia, scegli un colore. 
+All'inizio del mantenimento di ogni avversario, l'Allergia Psichica infligge X danni a quel giocatore, dove X è pari al numero di permanenti non pedina del colore scelto che quel giocatore controlla. 
 All'inizio del tuo mantenimento, distruggi l'Allergia Psichica a meno che tu sacrifichi 2 Isole.</text>
     <flavorText>
     </flavorText>
@@ -622,7 +621,7 @@ All'inizio del tuo mantenimento, distruggi l'Allergia Psichica a meno che tu sac
   <item>
     <id>DRK0084</id>
     <name>L'Uomo di Stracci</name>
-    <text>{B}{B}{B}, {T}: L'avversario bersaglio rivela la propria mano e scarta una carta creatura a caso. Attiva questa abilità solo durante il tuo turno.</text>
+    <text>{B}{B}{B}, {T}: L'avversario bersaglio rivela la propria mano e scarta una carta creatura a caso. Attiva questa abilità solo durante il tuo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -650,7 +649,7 @@ All'inizio del tuo mantenimento, distruggi l'Allergia Psichica a meno che tu sac
   <item>
     <id>DRK0088</id>
     <name>Rifugio Sicuro</name>
-    <text>{2}, {T}: Esilia una creatura bersaglio che controlli.
+    <text>{2}, {T}: Esilia una creatura bersaglio che controlli. 
 All'inizio del tuo mantenimento, puoi sacrificare il Rifugio Sicuro. Se lo fai, rimetti sul campo di battaglia sotto il controllo dei loro proprietari tutte le carte esiliate con Rifugio Sicuro.</text>
     <flavorText>
     </flavorText>
@@ -672,7 +671,7 @@ All'inizio del tuo mantenimento, puoi sacrificare il Rifugio Sicuro. Se lo fai, 
   <item>
     <id>DRK0091</id>
     <name>Banditi di Scarwood</name>
-    <text>Passa-foreste
+    <text>Passa-foreste 
 {2}{G}, {T}: A meno che il controllore di un artefatto bersaglio paghi {2}, guadagni il controllo di quell'artefatto fintanto che i Banditi di Scarwood restano sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -688,7 +687,7 @@ All'inizio del tuo mantenimento, puoi sacrificare il Rifugio Sicuro. Se lo fai, 
   <item>
     <id>DRK0093</id>
     <name>Strega di Scarwood</name>
-    <text>{G}{G}{G}{G}, {T}: Una creatura bersaglio guadagna Passa-foreste fino alla fine del turno.
+    <text>{G}{G}{G}{G}, {T}: Una creatura bersaglio guadagna Passa-foreste fino alla fine del turno. 
 {T}: Una creatura bersaglio perde Passa-foreste fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -696,14 +695,14 @@ All'inizio del tuo mantenimento, puoi sacrificare il Rifugio Sicuro. Se lo fai, 
   <item>
     <id>DRK0094</id>
     <name>Reietti di Scarwood</name>
-    <text>{G}, {T}, Sacrifica i Reietti di Scarwood: Distruggi un artefatto bersaglio.</text>
+    <text>{G}, {T}, Sacrifica i Reietti di Scarwood: Distruggi un artefatto bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0095</id>
     <name>La Stagione della Strega</name>
-    <text>All'inizio del tuo mantenimento, sacrifica La Stagione della Strega a meno che tu paghi 2 punti vita.
+    <text>All'inizio del tuo mantenimento, sacrifica La Stagione della Strega a meno che tu paghi 2 punti vita. 
 All'inizio della sottofase finale, distruggi tutte le creature STAPpate che non hanno attaccato in questo turno, tranne le creature che non potevano attaccare.</text>
     <flavorText>
     </flavorText>
@@ -711,7 +710,7 @@ All'inizio della sottofase finale, distruggi tutte le creature STAPpate che non 
   <item>
     <id>DRK0096</id>
     <name>Sorellanza della Fiamma</name>
-    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -725,7 +724,7 @@ All'inizio della sottofase finale, distruggi tutte le creature STAPpate che non 
   <item>
     <id>DRK0098</id>
     <name>Sentiero del Dolore</name>
-    <text>{T}: Scegli due creature bloccanti bersaglio controllate da un avversario. Se ciascuna di quelle creature potrebbe bloccare tutte le creature che l'altra sta bloccando, rimuovile entrambe dal combattimento. Ciascuna di esse blocca tutte le creature che erano bloccate dall'altra.
+    <text>{T}: Scegli due creature bloccanti bersaglio controllate da un avversario. Se ciascuna di quelle creature potrebbe bloccare tutte le creature che l'altra sta bloccando, rimuovile entrambe dal combattimento. Ciascuna di esse blocca tutte le creature che erano bloccate dall'altra. 
 Ogniqualvolta il Sentiero del Dolore diventa TAPpato, infligge 2 danni a te e ad ogni creatura che controlli.</text>
     <flavorText>
     </flavorText>
@@ -762,16 +761,16 @@ Ogniqualvolta il Sentiero del Dolore diventa TAPpato, infligge 2 danni a te e ad
   <item>
     <id>DRK0103</id>
     <name>Città Sommersa</name>
-    <text>All'inizio del tuo mantenimento, sacrifica la Città Sommersa a meno che tu paghi {U}{U}.
-Le creature blu prendono +1/+1.</text>
+    <text>All'inizio del tuo mantenimento, sacrifica la Città Sommersa a meno che tu paghi {U}{U}. 
+Le creature blu prendono +1/+1. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0104</id>
     <name>Alga Imprigionante</name>
-    <text>Incanta creatura
-Quando l'Alga Imprigionante entra nel campo di battaglia, TAPpa la creatura incantata.
+    <text>Incanta creatura 
+Quando l'Alga Imprigionante entra nel campo di battaglia, TAPpa la creatura incantata. 
 La creatura incantata non STAPpa durante lo STAP del suo controllore se ha attaccato nell'ultimo turno del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -814,14 +813,14 @@ La creatura incantata non STAPpa durante lo STAP del suo controllore se ha attac
   <item>
     <id>DRK0110</id>
     <name>Zio Istvan</name>
-    <text>Previeni tutto il danno che verrebbe inflitto allo Zio Istvan dalle creature.</text>
+    <text>Previeni tutto il danno che verrebbe inflitto allo Zio Istvan dalle creature. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0111</id>
     <name>Veleno</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta la creatura incantata blocca o viene bloccata da una creatura non Muro, distruggi l'altra creatura alla fine del combattimento.</text>
     <flavorText>
     </flavorText>
@@ -857,7 +856,7 @@ Ogniqualvolta la creatura incantata blocca o viene bloccata da una creatura non 
   <item>
     <id>DRK0116</id>
     <name>Cacciatore di Streghe</name>
-    <text>{T}: Il Cacciatore di Streghe infligge 1 danno a un giocatore bersaglio.
+    <text>{T}: Il Cacciatore di Streghe infligge 1 danno a un giocatore bersaglio. 
 {1}{W}{W}, {T}: Il proprietario riprende in mano una creatura bersaglio controllata da un avversario.</text>
     <flavorText>
     </flavorText>
@@ -865,15 +864,15 @@ Ogniqualvolta la creatura incantata blocca o viene bloccata da una creatura non 
   <item>
     <id>DRK0117</id>
     <name>Vincolo</name>
-    <text>TAPpa X creature bersaglio.</text>
+    <text>TAPpa X creature bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DRK0118</id>
     <name>Vermi della Terra</name>
-    <text>I giocatori non possono giocare le terre.
-Se una terra sta per entrare nel campo di battaglia, invece non lo fa.
+    <text>I giocatori non possono giocare le terre. 
+Se una terra sta per entrare nel campo di battaglia, invece non lo fa. 
 All'inizio di ogni mantenimento, un qualsiasi giocatore può sacrificare 2 terre oppure pagare 5 punti vita. Se un giocatore fa uno o l'altro, distruggi i Vermi della Terra.</text>
     <flavorText>
     </flavorText>
@@ -881,7 +880,7 @@ All'inizio di ogni mantenimento, un qualsiasi giocatore può sacrificare 2 terre
   <item>
     <id>DRK0119</id>
     <name>Silvantropo di Muffa</name>
-    <text>{G}{G}: Il Silvantropo di Muffa guadagna passa-foreste fino alla fine del turno e ti infligge 2 danni.
+    <text>{G}{G}: Il Silvantropo di Muffa guadagna passa-foreste fino alla fine del turno e ti infligge 2 danni. 
 {B}{B}: Il Silvantropo di Muffa guadagna passa-paludi fino alla fine del turno e ti infligge 2 danni.</text>
     <flavorText>
     </flavorText>

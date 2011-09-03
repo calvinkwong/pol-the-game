@@ -142,9 +142,6 @@
     </BootstrapperPackage>
   </ItemGroup>
   <ItemGroup>
-    <None Include="Magic_Cards_2003.mdb">
-      <CopyToOutputDirectory>Always</CopyToOutputDirectory>
-    </None>
     <None Include="mtg.polDb">
       <CopyToOutputDirectory>Always</CopyToOutputDirectory>
     </None>

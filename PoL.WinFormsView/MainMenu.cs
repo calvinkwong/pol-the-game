@@ -44,7 +44,7 @@ namespace PoL.WinFormsView
       btnStartSolitaire.Click += new EventHandler(btnStartSolitaire_Click);
       btnHostGame.Click += new EventHandler(btnHostGame_Click);
       btnConnectGame.Click += new EventHandler(btnConnectGame_Click);
-      btnConnectServer.Click += new EventHandler(btnConnectServer_Click);
+      //btnConnectServer.Click += new EventHandler(btnConnectServer_Click);
       btnDeckEditor.Click += new EventHandler(btnDeckEditor_Click);
       btnOptions.Click += new EventHandler(btnOptions_Click);
       btnQuit.Click += new EventHandler(btnQuit_Click);

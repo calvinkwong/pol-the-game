@@ -2,22 +2,22 @@
   <item>
     <id>TOR0001</id>
     <name>Angelo del Castigo</name>
-    <text>Volare, attacco improvviso</text>
+    <text>Volare, attacco improvviso </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0002</id>
     <name>Milite Aviano</name>
-    <text>Volare
-{2}{W}, Scarta una carta: Il Milite Aviano prende +1/+2 fino alla fine del turno.</text>
+    <text>Volare 
+{2}{W}, Scarta una carta: Il Milite Aviano prende +1/+2 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0003</id>
     <name>Meditazione Purificatrice</name>
-    <text>Distruggi tutti gli incantesimi.
+    <text>Distruggi tutti gli incantesimi. 
 Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, invece distruggi invece tutti gli incantesimi, poi rimetti sul campo di battaglia dal tuo cimitero tutte le carte distrutte in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -25,7 +25,7 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, invece distru
   <item>
     <id>TOR0004</id>
     <name>Trattamento Paritario</name>
-    <text>Se una qualsiasi fonte sta per infliggere 1 o più danni a una creatura o a un giocatore in questo turno, invece essa infligge 2 danni a quella creatura o a quel giocatore.
+    <text>Se una qualsiasi fonte sta per infliggere 1 o più danni a una creatura o a un giocatore in questo turno, invece essa infligge 2 danni a quella creatura o a quel giocatore. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -33,9 +33,9 @@ Pesca una carta.</text>
   <item>
     <id>TOR0005</id>
     <name>Scudo Levitante</name>
-    <text>Incanta creatura
-Mentre lo Scudo Levitante entra nel campo di battaglia, scegli un colore.
-La creatura incantata ha protezione dal colore scelto. Questo effetto non rimuove lo Scudo Levitante.
+    <text>Incanta creatura 
+Mentre lo Scudo Levitante entra nel campo di battaglia, scegli un colore. 
+La creatura incantata ha protezione dal colore scelto. Questo effetto non rimuove lo Scudo Levitante. 
 Sacrifica lo Scudo Levitante: La creatura bersaglio guadagna protezione dal colore scelto fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -43,15 +43,15 @@ Sacrifica lo Scudo Levitante: La creatura bersaglio guadagna protezione dal colo
   <item>
     <id>TOR0006</id>
     <name>Purificazione Frenetica</name>
-    <text>Distruggi un incantesimo bersaglio.
-Follia {W}</text>
+    <text>Distruggi un incantesimo bersaglio. 
+Follia {W} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0007</id>
     <name>Ipocondria</name>
-    <text>{W}, Scarta una carta: Previeni i prossimi 3 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno.
+    <text>{W}, Scarta una carta: Previeni i prossimi 3 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno. 
 {W}, Sacrifica l'Ipocondria: Previeni i prossimi 3 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -59,15 +59,15 @@ Follia {W}</text>
   <item>
     <id>TOR0008</id>
     <name>Maggiore Teroh</name>
-    <text>Volare
-{3}{W}{W}, Sacrifica il Maggiore Teroh : Esilia tutte le creature nere. [Oracle 2004/10/06]</text>
+    <text>Volare 
+{3}{W}{W}, Sacrifica il Maggiore Teroh : Esilia tutte le creature nere. Oracle 2004/10/06</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0009</id>
     <name>Monaco Militante</name>
-    <text>Cautela (Questa creatura attacca senza TAPpare.)
+    <text>Cautela (Questa creatura attacca senza TAPpare.) 
 {T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o un giocatore bersaglio in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -82,8 +82,8 @@ Follia {W}</text>
   <item>
     <id>TOR0011</id>
     <name>Famiglio Mistico</name>
-    <text>Volare
-Soglia - Il Famiglio Mistico prende +1/+1 e ha protezione dal nero fintanto che ci sono almeno sette carte nel tuo cimitero.</text>
+    <text>Volare 
+Soglia - Il Famiglio Mistico prende +1/+1 e ha protezione dal nero fintanto che ci sono almeno sette carte nel tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -97,7 +97,7 @@ Soglia - Il Famiglio Mistico prende +1/+1 e ha protezione dal nero fintanto che 
   <item>
     <id>TOR0013</id>
     <name>Nomade Posseduto</name>
-    <text>Cautela
+    <text>Cautela 
 Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Nomade Posseduto prende +1/+1, è nero, e ha "{2}{B}, {T}: Distruggi una creatura bersaglio bianca."</text>
     <flavorText>
     </flavorText>
@@ -105,7 +105,7 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Nomade Pos
   <item>
     <id>TOR0014</id>
     <name>Eroe Rinato</name>
-    <text>Cautela
+    <text>Cautela 
 Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, l'Eroe Rinato ha "Quando l'Eroe Rinato viene messo in un cimitero dal campo di battaglia, puoi pagare {W}{W}. Se lo fai, rimetti l'Eroe Rinato sul campo di battaglia sotto il tuo controllo."</text>
     <flavorText>
     </flavorText>
@@ -113,8 +113,8 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, l'Eroe Rinato
   <item>
     <id>TOR0015</id>
     <name>Fiammata Spirituale</name>
-    <text>TAPpa una creatura STAPpata bersaglio che controlli. Se lo fai, essa infligge un danno pari alla propria forza a una creatura attaccante o bloccante bersaglio controllata da un avversario.
-Flashback-{1}{W}, Paga 3 punti vita.</text>
+    <text>TAPpa una creatura STAPpata bersaglio che controlli. Se lo fai, essa infligge un danno pari alla propria forza a una creatura attaccante o bloccante bersaglio controllata da un avversario. 
+Flashback-{1}{W}, Paga 3 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -128,8 +128,8 @@ Flashback-{1}{W}, Paga 3 punti vita.</text>
   <item>
     <id>TOR0017</id>
     <name>Forza della Solitudine</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+2 e ha protezione dal nero.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+2 e ha protezione dal nero. 
 Follia {W}</text>
     <flavorText>
     </flavorText>
@@ -144,7 +144,7 @@ Follia {W}</text>
   <item>
     <id>TOR0019</id>
     <name>Avanguardia di Teroh</name>
-    <text>Lampo
+    <text>Lampo 
 Soglia - Fintanto che ci sono sette o più carte nel tuo cimitero, l'Avanguardia di Teroh ha "Quando l'Avanguardia di Teroh entra nel campo di battaglia, le creature che controlli guadagnano protezione dal nero fino alla fine del turno."</text>
     <flavorText>
     </flavorText>
@@ -152,8 +152,8 @@ Soglia - Fintanto che ci sono sette o più carte nel tuo cimitero, l'Avanguardia
   <item>
     <id>TOR0020</id>
     <name>Trascendenza</name>
-    <text>Non perdi la partita se hai 0 o meno punti vita.
-Quando hai 20 o più punti vita, perdi la partita.
+    <text>Non perdi la partita se hai 0 o meno punti vita. 
+Quando hai 20 o più punti vita, perdi la partita. 
 Ogniqualvolta perdi punti vita, guadagni 2 punti vita per ogni punto vita che hai perso (Il danno che ti viene inflitto ti fa perdere punti vita.)</text>
     <flavorText>
     </flavorText>
@@ -161,7 +161,7 @@ Ogniqualvolta perdi punti vita, guadagni 2 punti vita per ogni punto vita che ha
   <item>
     <id>TOR0021</id>
     <name>Sogni di Vendetta</name>
-    <text>Come costo addizionale per lanciare i Sogni di Vendetta, scarta X carte.
+    <text>Come costo addizionale per lanciare i Sogni di Vendetta, scarta X carte. 
 Esilia X creature attaccanti bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -169,7 +169,7 @@ Esilia X creature attaccanti bersaglio.</text>
   <item>
     <id>TOR0022</id>
     <name>Modificare la Realtà</name>
-    <text>Cambia il testo di un permanente o di una magia bersaglio sostituendo tutte le parole che indicano un singolo colore con un altro colore (Questo effetto non ha termine)
+    <text>Cambia il testo di un permanente o di una magia bersaglio sostituendo tutte le parole che indicano un singolo colore con un altro colore (Questo effetto non ha termine) 
 Flashback {1}{U} (Puoi lanciare questa carta dal tuo cimitero pagando il costo di flashback. Poi esiliala.)</text>
     <flavorText>
     </flavorText>
@@ -177,21 +177,21 @@ Flashback {1}{U} (Puoi lanciare questa carta dal tuo cimitero pagando il costo d
   <item>
     <id>TOR0023</id>
     <name>Ambasciatore Laquatus</name>
-    <text>{3}: Un giocatore bersaglio mette nel suo cimitero le prime tre carte del suo grimorio.</text>
+    <text>{3}: Un giocatore bersaglio mette nel suo cimitero le prime tre carte del suo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0024</id>
     <name>Aquameba</name>
-    <text>Scarta una carta: Scambia la forza e la costituzione dell'Aquameba fino alla fine del turno.</text>
+    <text>Scarta una carta: Scambia la forza e la costituzione dell'Aquameba fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0025</id>
     <name>Collaboratore di Balshan</name>
-    <text>Volare
+    <text>Volare 
 {B}: Il Collaboratore di Balshan prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -213,7 +213,7 @@ Flashback {1}{U} (Puoi lanciare questa carta dal tuo cimitero pagando il costo d
   <item>
     <id>TOR0028</id>
     <name>Illusionista Cefalide</name>
-    <text>Ogniqualvolta l'Illusionista Cefalide diventa bersaglio di una magia o di un'abilità, metti nel tuo cimitero le prime tre carte del tuo grimorio.
+    <text>Ogniqualvolta l'Illusionista Cefalide diventa bersaglio di una magia o di un'abilità, metti nel tuo cimitero le prime tre carte del tuo grimorio. 
 {2}{U},{T}: In questo turno previeni tutto il danno da combattimento che verrebbe inflitto e ricevuto dalla creatura bersaglio che controlli.</text>
     <flavorText>
     </flavorText>
@@ -249,15 +249,15 @@ Flashback {1}{U} (Puoi lanciare questa carta dal tuo cimitero pagando il costo d
   <item>
     <id>TOR0033</id>
     <name>Logica Circolare</name>
-    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {1} per ogni carta presente nel tuo cimitero.
-Follia {U}</text>
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {1} per ogni carta presente nel tuo cimitero. 
+Follia {U} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0034</id>
     <name>Obbligo</name>
-    <text>{1}{U}, Scarta una carta: Pesca una carta.
+    <text>{1}{U}, Scarta una carta: Pesca una carta. 
 {1}{U}, Sacrifica l'Obbligo: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -265,7 +265,7 @@ Follia {U}</text>
   <item>
     <id>TOR0035</id>
     <name>Rete di Corallo</name>
-    <text>Incanta creatura verde o bianca.
+    <text>Incanta creatura verde o bianca. 
 La creatura incantata ha "All'inizio del tuo mantenimento, sacrifica questa creatura a meno che tu scarti una carta".</text>
     <flavorText>
     </flavorText>
@@ -273,7 +273,7 @@ La creatura incantata ha "All'inizio del tuo mantenimento, sacrifica questa crea
   <item>
     <id>TOR0036</id>
     <name>Analisi Approfondita</name>
-    <text>Il giocatore bersaglio pesca due carte.
+    <text>Il giocatore bersaglio pesca due carte. 
 Flashback-{1}{U}, Paga 3 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -288,8 +288,8 @@ Flashback-{1}{U}, Paga 3 punti vita.</text>
   <item>
     <id>TOR0038</id>
     <name>Ali Spettrali</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+1 e ha volare.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+1 e ha volare. 
 Scarta una carta: Il proprietario riprende in mano la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -304,7 +304,7 @@ Scarta una carta: Il proprietario riprende in mano la creatura incantata.</text>
   <item>
     <id>TOR0040</id>
     <name>Gabbiano Idromorfo</name>
-    <text>Volare
+    <text>Volare 
 {U}, Sacrifica il Gabbiano Idromorfo: Neutralizza una magia bersaglio che ha come bersaglio una o più creature che controlli.</text>
     <flavorText>
     </flavorText>
@@ -319,7 +319,7 @@ Scarta una carta: Il proprietario riprende in mano la creatura incantata.</text>
   <item>
     <id>TOR0042</id>
     <name>Llawan, Imperatrice Cefalide</name>
-    <text>Quando Llawan, Imperatrice Cefalide entra nel campo di battaglia, i proprietari riprendono in mano tutte le creature blu che i tuoi avversari controllano.
+    <text>Quando Llawan, Imperatrice Cefalide entra nel campo di battaglia, i proprietari riprendono in mano tutte le creature blu che i tuoi avversari controllano. 
 I tuoi avversari non possono lanciare magie creatura blu.</text>
     <flavorText>
     </flavorText>
@@ -327,7 +327,7 @@ I tuoi avversari non possono lanciare magie creatura blu.</text>
   <item>
     <id>TOR0043</id>
     <name>Ricerca Ossessiva</name>
-    <text>Follia {U}
+    <text>Follia {U} 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -335,14 +335,14 @@ Pesca una carta.</text>
   <item>
     <id>TOR0044</id>
     <name>Plagiare</name>
-    <text>Fino alla fine del turno, se un giocatore bersaglio sta per pescare una carta, quel giocatore salta invece quella pescata e tu peschi una carta.</text>
+    <text>Fino alla fine del turno, se un giocatore bersaglio sta per pescare una carta, quel giocatore salta invece quella pescata e tu peschi una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0045</id>
     <name>Aviano Posseduto</name>
-    <text>Volare
+    <text>Volare 
 Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, l'Aviano Posseduto prende +1/+1, è nero e ha "{2}{B}, {T}: Distruggi una creatura blu bersaglio"</text>
     <flavorText>
     </flavorText>
@@ -357,7 +357,7 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, l'Aviano Poss
   <item>
     <id>TOR0047</id>
     <name>Aviano Cielalato</name>
-    <text>Volare
+    <text>Volare 
 Scarta una carta: Il proprietario riprende in mano l'Aviano Cielalato.</text>
     <flavorText>
     </flavorText>
@@ -365,8 +365,8 @@ Scarta una carta: Il proprietario riprende in mano l'Aviano Cielalato.</text>
   <item>
     <id>TOR0048</id>
     <name>Tocco Frastornante</name>
-    <text>Incanta creatura
-Quando il Tocco Frastornante entra nel campo di battaglia, pesca una carta.
+    <text>Incanta creatura 
+Quando il Tocco Frastornante entra nel campo di battaglia, pesca una carta. 
 Le abilità attivate della creatura incantata non possono essere attivate.</text>
     <flavorText>
     </flavorText>
@@ -374,7 +374,7 @@ Le abilità attivate della creatura incantata non possono essere attivate.</text
   <item>
     <id>TOR0049</id>
     <name>Sogni Agitati</name>
-    <text>Come costo addizionale per lanciare i Sogni Agitati, scarta X carte.
+    <text>Come costo addizionale per lanciare i Sogni Agitati, scarta X carte. 
 I proprietari riprendono in mano X permanenti non terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -382,15 +382,15 @@ I proprietari riprendono in mano X permanenti non terra bersaglio.</text>
   <item>
     <id>TOR0050</id>
     <name>Squartatore Spezzaossa</name>
-    <text>Volare
-Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, lo Squartatore Spezzaossa prende +2/+2 e ha "Quando lo Squartatore Spezzaossa diventa bersaglio di una magia o di un'abilità, sacrificalo."</text>
+    <text>Volare 
+Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, lo Squartatore Spezzaossa prende +2/+2 e ha "Quando lo Squartatore Spezzaossa diventa bersaglio di una magia o di un'abilità, sacrificalo." </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0051</id>
     <name>Rituale della Cabala</name>
-    <text>Aggiungi {B}{B}{B} alla tua riserva di mana.
+    <text>Aggiungi {B}{B}{B} alla tua riserva di mana. 
 Soglia - Aggiungi invece {B}{B}{B}{B}{B} alla tua riserva di mana se hai almeno sette carte nel tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -405,7 +405,7 @@ Soglia - Aggiungi invece {B}{B}{B}{B}{B} alla tua riserva di mana se hai almeno 
   <item>
     <id>TOR0053</id>
     <name>Torturatore della Cabala</name>
-    <text>{B},{T}: La creatura bersaglio prende -1/-1 fino alla fine del turno.
+    <text>{B},{T}: La creatura bersaglio prende -1/-1 fino alla fine del turno. 
 Soglia - {3}{B}{B},{T}: La creatura bersaglio prende -2/-2 fino alla fine del turno. Attiva questa abilità solo se hai almeno sette carte nel tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -427,8 +427,8 @@ Soglia - {3}{B}{B},{T}: La creatura bersaglio prende -2/-2 fino alla fine del tu
   <item>
     <id>TOR0056</id>
     <name>Chainer, Signore di Dementia</name>
-    <text>Le creature Incubo prendono +1/+1.
-{B}{B}{B}, Paga 3 punti vita: Metti sul campo di battaglia sotto il tuo controllo una carta creatura bersaglio presente in un cimitero. Quella creatura è nera ed è un Incubo in aggiunta agli altri suoi tipi di creatura.
+    <text>Le creature Incubo prendono +1/+1. 
+{B}{B}{B}, Paga 3 punti vita: Metti sul campo di battaglia sotto il tuo controllo una carta creatura bersaglio presente in un cimitero. Quella creatura è nera ed è un Incubo in aggiunta agli altri suoi tipi di creatura. 
 Quando Chainer, Signore di Dementia lascia il campo di battaglia, esilia tutti gli Incubi.</text>
     <flavorText>
     </flavorText>
@@ -436,31 +436,31 @@ Quando Chainer, Signore di Dementia lascia il campo di battaglia, esilia tutti g
   <item>
     <id>TOR0057</id>
     <name>Editto di Chainer</name>
-    <text>Il giocatore bersaglio sacrifica una creatura.
-Flashback {5}{B}{B}</text>
+    <text>Il giocatore bersaglio sacrifica una creatura. 
+Flashback {5}{B}{B} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0058</id>
     <name>Fatica Storpiante</name>
-    <text>La creatura bersaglio prende -2/-2 fino alla fine del turno.
-Flashback - {1}{B}, Paga 3 punti vita.</text>
+    <text>La creatura bersaglio prende -2/-2 fino alla fine del turno. 
+Flashback - {1}{B}, Paga 3 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0059</id>
     <name>Alba dei Morti</name>
-    <text>All'inizio del tuo mantenimento, perdi 1 punto vita.
-All'inizio del tuo mantenimento, puoi rimettere una carta creatura bersaglio dal tuo cimitero sul campo di battaglia. Quella creatura guadagna rapidità fino alla fine del turno. Esiliala all'inizio della prossima sottofase finale.</text>
+    <text>All'inizio del tuo mantenimento, perdi 1 punto vita. 
+All'inizio del tuo mantenimento, puoi rimettere una carta creatura bersaglio dal tuo cimitero sul campo di battaglia. Quella creatura guadagna rapidità fino alla fine del turno. Esiliala all'inizio della prossima sottofase finale. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0060</id>
     <name>Macellaio Senza Volto</name>
-    <text>Quando il Macellaio Senza Volto entra nel campo di battaglia, esilia una creatura bersaglio diversa dal Macellaio Senza Volto.
+    <text>Quando il Macellaio Senza Volto entra nel campo di battaglia, esilia una creatura bersaglio diversa dal Macellaio Senza Volto. 
 Quando il Macellaio Senza Volto lascia il campo di battaglia, rimetti la carta esiliata nel campo di battaglia sotto il controllo del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -468,7 +468,7 @@ Quando il Macellaio Senza Volto lascia il campo di battaglia, rimetti la carta e
   <item>
     <id>TOR0061</id>
     <name>Trascina Malinconia</name>
-    <text>Volare
+    <text>Volare 
 Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Trascina Malinconia ha "Quando il Trascina Malinconia entra nel campo di battaglia, le creature non nere prendono -2/-2 fino alla fine del turno."</text>
     <flavorText>
     </flavorText>
@@ -476,7 +476,7 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Trascina M
   <item>
     <id>TOR0062</id>
     <name>Svuotatombe</name>
-    <text>Quando lo Svuotatombe entra nel campo di battaglia, esilia fino a due carte bersaglio presenti in un singolo cimitero.
+    <text>Quando lo Svuotatombe entra nel campo di battaglia, esilia fino a due carte bersaglio presenti in un singolo cimitero. 
 Quando lo Svuotatombe lascia il campo di battaglia, rimetti le carte esiliate nel cimitero del loro proprietario.</text>
     <flavorText>
     </flavorText>
@@ -484,7 +484,7 @@ Quando lo Svuotatombe lascia il campo di battaglia, rimetti le carte esiliate ne
   <item>
     <id>TOR0063</id>
     <name>Ibrido Grottesco</name>
-    <text>Ogniqualvolta l'Ibrido Grottesco infligge danno da combattimento a una creatura, distruggi quella creatura. Non può essere rigenerata.
+    <text>Ogniqualvolta l'Ibrido Grottesco infligge danno da combattimento a una creatura, distruggi quella creatura. Non può essere rigenerata. 
 Scarta una carta: L'Ibrido Grottesco guadagna volare e protezione dal verde e dal bianco fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -492,8 +492,8 @@ Scarta una carta: L'Ibrido Grottesco guadagna volare e protezione dal verde e da
   <item>
     <id>TOR0064</id>
     <name>Ipnox</name>
-    <text>Volare
-Quando l'Ipnox entra nel campo di battaglia, se l'hai lanciato dalla tua mano, esilia tutte le carte presenti nella mano di un avversario bersaglio.
+    <text>Volare 
+Quando l'Ipnox entra nel campo di battaglia, se l'hai lanciato dalla tua mano, esilia tutte le carte presenti nella mano di un avversario bersaglio. 
 Quando l'Ipnox lascia il campo di battaglia, il proprietario riprende in mano le carte esiliate.</text>
     <flavorText>
     </flavorText>
@@ -501,8 +501,8 @@ Quando l'Ipnox lascia il campo di battaglia, il proprietario riprende in mano le
   <item>
     <id>TOR0065</id>
     <name>Icoride</name>
-    <text>Rapidità
-All'inizio della sottofase finale, sacrifica l'Icoride.
+    <text>Rapidità 
+All'inizio della sottofase finale, sacrifica l'Icoride. 
 All'inizio del tuo mantenimento, se l'Icoride è nel tuo cimitero, puoi esiliare dal tuo cimitero una carta creatura nera diversa dall'Icoride. Se lo fai, rimetti l'Icoride sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -510,7 +510,7 @@ All'inizio del tuo mantenimento, se l'Icoride è nel tuo cimitero, puoi esiliare
   <item>
     <id>TOR0066</id>
     <name>Sogni Insidiosi</name>
-    <text>Come costo addizionale per lanciare i Sogni Insidiosi, scarta X carte.
+    <text>Come costo addizionale per lanciare i Sogni Insidiosi, scarta X carte. 
 Passa in rassegna il tuo grimorio per X carte. Poi rimescola il tuo grimorio e metti quelle carte in cima ad esso in un qualsiasi ordine.</text>
     <flavorText>
     </flavorText>
@@ -518,8 +518,8 @@ Passa in rassegna il tuo grimorio per X carte. Poi rimescola il tuo grimorio e m
   <item>
     <id>TOR0067</id>
     <name>Campione di Laquatus</name>
-    <text>Quando il Campione di Laquatus entra nel campo di battaglia, un giocatore bersaglio perde 6 punti vita.
-Quando il Campione di Laquatus lascia il campo di battaglia, quel giocatore guadagna 6 punti vita.
+    <text>Quando il Campione di Laquatus entra nel campo di battaglia, un giocatore bersaglio perde 6 punti vita. 
+Quando il Campione di Laquatus lascia il campo di battaglia, quel giocatore guadagna 6 punti vita. 
 {B}: Rigenera il Campione di Laquatus.</text>
     <flavorText>
     </flavorText>
@@ -527,7 +527,7 @@ Quando il Campione di Laquatus lascia il campo di battaglia, quel giocatore guad
   <item>
     <id>TOR0068</id>
     <name>Ultima Risata</name>
-    <text>Ogniqualvolta un permanente diverso dall'Ultima Risata viene messo in un cimitero dal campo di battaglia, l'Ultima Risata infligge 1 danno a ogni creatura e a ogni giocatore.
+    <text>Ogniqualvolta un permanente diverso dall'Ultima Risata viene messo in un cimitero dal campo di battaglia, l'Ultima Risata infligge 1 danno a ogni creatura e a ogni giocatore. 
 Quando non ci sono creature sul campo di battaglia, sacrifica l'Ultima Risata.</text>
     <flavorText>
     </flavorText>
@@ -535,7 +535,7 @@ Quando non ci sono creature sul campo di battaglia, sacrifica l'Ultima Risata.</
   <item>
     <id>TOR0069</id>
     <name>Demone Mesmerico</name>
-    <text>Quando il Demone Mesmerico entra nel campo di battaglia, un avversario bersaglio rivela la propria mano e tu scegli una carta non terra da essa. Esilia quella carta.
+    <text>Quando il Demone Mesmerico entra nel campo di battaglia, un avversario bersaglio rivela la propria mano e tu scegli una carta non terra da essa. Esilia quella carta. 
 Quando il Demone Mesmerico lascia il campo di battaglia, il proprietario riprende in mano la carta esiliata.</text>
     <flavorText>
     </flavorText>
@@ -550,14 +550,14 @@ Quando il Demone Mesmerico lascia il campo di battaglia, il proprietario riprend
   <item>
     <id>TOR0071</id>
     <name>Combattimento Mortale</name>
-    <text>All'inizio del tuo mantenimento, se ci sono venti o più carte creatura nel tuo cimitero, vinci la partita.</text>
+    <text>All'inizio del tuo mantenimento, se ci sono venti o più carte creatura nel tuo cimitero, vinci la partita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0072</id>
     <name>Mortifobia</name>
-    <text>{1}{B}, Scarta una carta: Esilia una carta bersaglio presente in un cimitero.
+    <text>{1}{B}, Scarta una carta: Esilia una carta bersaglio presente in un cimitero. 
 {1}{B}, Sacrifica la Mortifobia: Esilia una carta bersaglio presente in un cimitero.</text>
     <flavorText>
     </flavorText>
@@ -586,7 +586,7 @@ Quando il Demone Mesmerico lascia il campo di battaglia, il proprietario riprend
   <item>
     <id>TOR0076</id>
     <name>Confusione Psicotica</name>
-    <text>Follia {1}{B}
+    <text>Follia {1}{B} 
 La Confusione Psicotica infligge 1 danno ad ogni creatura e ad ogni giocatore.</text>
     <flavorText>
     </flavorText>
@@ -594,7 +594,7 @@ La Confusione Psicotica infligge 1 danno ad ogni creatura e ad ogni giocatore.</
   <item>
     <id>TOR0077</id>
     <name>Demonietto Putrido</name>
-    <text>Scarta una carta: Il Demonietto Putrido guadagna volare fino alla fine del turno.
+    <text>Scarta una carta: Il Demonietto Putrido guadagna volare fino alla fine del turno. 
 Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Demonietto Putrido prende +1/+1 e non può bloccare.</text>
     <flavorText>
     </flavorText>
@@ -602,7 +602,7 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Demonietto
   <item>
     <id>TOR0078</id>
     <name>Terra Rancida</name>
-    <text>Distruggi una terra bersaglio.
+    <text>Distruggi una terra bersaglio. 
 Soglia - Se ci sono almeno sette carte nel tuo cimitero, invece distruggi quella terra e la Terra Rancida infligge 1 danno a ogni creatura e a ogni giocatore.</text>
     <flavorText>
     </flavorText>
@@ -610,7 +610,7 @@ Soglia - Se ci sono almeno sette carte nel tuo cimitero, invece distruggi quella
   <item>
     <id>TOR0079</id>
     <name>Sogni Irrequieti</name>
-    <text>Come costo addizionale per lanciare i Sogni Irrequieti, scarta X carte.
+    <text>Come costo addizionale per lanciare i Sogni Irrequieti, scarta X carte. 
 Riprendi in mano X carte creatura bersaglio dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -618,16 +618,16 @@ Riprendi in mano X carte creatura bersaglio dal tuo cimitero.</text>
   <item>
     <id>TOR0080</id>
     <name>Vampiro di Sengir</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
-Ogniqualvolta una creatura a cui è stato inflitto danno dal Vampiro di Sengir in questo turno viene messa in un cimitero, metti un segnalino +1/+1 sul Vampiro di Sengir.</text>
+    <text>Volare 
+Ogniqualvolta muore una creatura a cui il Vampiro di Sengir ha inflitto danno in questo turno, metti un segnalino +1/+1 sul Vampiro di Sengir.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0081</id>
     <name>Forma d'Ombra</name>
-    <text>Incanta creatura
-La creatura incantata ha "{B}: Questa creatura prende +1/+1 fino alla fine del turno".
+    <text>Incanta creatura 
+La creatura incantata ha "{B}: Questa creatura prende +1/+1 fino alla fine del turno". 
 Quando la creatura incantata viene messa in un cimitero, rimetti quella carta sul campo di battaglia sotto il tuo controllo.</text>
     <flavorText>
     </flavorText>
@@ -642,7 +642,7 @@ Quando la creatura incantata viene messa in un cimitero, rimetti quella carta su
   <item>
     <id>TOR0083</id>
     <name>Sogni Disgustosi</name>
-    <text>Come costo addizionale per lanciare i Sogni Disgustosi, scarta X carte.
+    <text>Come costo addizionale per lanciare i Sogni Disgustosi, scarta X carte. 
 I Sogni Disgustosi infliggono X danni a ogni creatura e a ogni giocatore.</text>
     <flavorText>
     </flavorText>
@@ -650,8 +650,8 @@ I Sogni Disgustosi infliggono X danni a ogni creatura e a ogni giocatore.</text>
   <item>
     <id>TOR0084</id>
     <name>Cacciatore Viscido</name>
-    <text>Passa-paludi
-Quando il Cacciatore Viscido entra nel campo di battaglia, esilia una creatura bersaglio verde o bianca controllata da un avversario.
+    <text>Passa-paludi 
+Quando il Cacciatore Viscido entra nel campo di battaglia, esilia una creatura bersaglio verde o bianca controllata da un avversario. 
 Quando il Cacciatore Viscido lascia il campo di battaglia, rimetti la carta esiliata sul campo di battaglia sotto il controllo del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -659,8 +659,8 @@ Quando il Cacciatore Viscido lascia il campo di battaglia, rimetti la carta esil
   <item>
     <id>TOR0085</id>
     <name>Flagello dell'Anima</name>
-    <text>Volare
-Quando il Flagello dell'Anima entra nel campo di battaglia, il giocatore bersaglio perde 3 punti vita.
+    <text>Volare 
+Quando il Flagello dell'Anima entra nel campo di battaglia, il giocatore bersaglio perde 3 punti vita. 
 Quando il Flagello dell'Anima lascia il campo di battaglia, quel giocatore guadagna 3 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -668,8 +668,8 @@ Quando il Flagello dell'Anima lascia il campo di battaglia, quel giocatore guada
   <item>
     <id>TOR0086</id>
     <name>Forza della Follia</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/+1 e ha protezione dal bianco.
+    <text>Incanta creatura 
+La creatura incantata prende +2/+1 e ha protezione dal bianco. 
 Follia {B}</text>
     <flavorText>
     </flavorText>
@@ -677,7 +677,7 @@ Follia {B}</text>
   <item>
     <id>TOR0087</id>
     <name>Sconvolgere</name>
-    <text>Il giocatore bersaglio scarta una carta.
+    <text>Il giocatore bersaglio scarta una carta. 
 Tu peschi una carta.</text>
     <flavorText>
     </flavorText>
@@ -685,7 +685,7 @@ Tu peschi una carta.</text>
   <item>
     <id>TOR0088</id>
     <name>Sprecare</name>
-    <text>Come costo addizionale per lanciare lo Sprecare, scarta una carta.
+    <text>Come costo addizionale per lanciare lo Sprecare, scarta una carta. 
 La creatura bersaglio prende -5/-5 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -693,7 +693,7 @@ La creatura bersaglio prende -5/-5 fino alla fine del turno.</text>
   <item>
     <id>TOR0089</id>
     <name>Scopripista Zombie</name>
-    <text>TAPpa uno Zombie STAPpato che controlli: La terra bersaglio diventa una Palude fino alla fine del turno.
+    <text>TAPpa uno Zombie STAPpato che controlli: La terra bersaglio diventa una Palude fino alla fine del turno. 
 TAPpa uno Zombie STAPpato che controlli: La creatura bersaglio guadagna passa-paludi fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -701,7 +701,7 @@ TAPpa uno Zombie STAPpato che controlli: La creatura bersaglio guadagna passa-pa
   <item>
     <id>TOR0090</id>
     <name>Accelerare</name>
-    <text>Una creatura bersaglio guadagna rapidità fino alla fine del turno.
+    <text>Una creatura bersaglio guadagna rapidità fino alla fine del turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -709,7 +709,8 @@ Pesca una carta.</text>
   <item>
     <id>TOR0091</id>
     <name>Balthor l'Intrepido</name>
-    <text>Le altre creature Barbaro prendono +1/+1.; {R}: Un'altra creatura Barbaro bersaglio prende +1/+0 fino alla fine del turno.</text>
+    <text>Le altre creature Barbaro prendono +1/+1.
+{R}: Un'altra creatura Barbaro bersaglio prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -723,8 +724,8 @@ Pesca una carta.</text>
   <item>
     <id>TOR0093</id>
     <name>Mazza Crepitante</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+0.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+0. 
 Sacrifica la Mazza Crepitante: La Mazza Crepitante infligge 1 danno a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -739,7 +740,7 @@ Sacrifica la Mazza Crepitante: La Mazza Crepitante infligge 1 danno a una creatu
   <item>
     <id>TOR0095</id>
     <name>Sogni Devastanti</name>
-    <text>Come costo addizionale per lanciare i Sogni Devastanti, scarta X carte a caso.
+    <text>Come costo addizionale per lanciare i Sogni Devastanti, scarta X carte a caso. 
 Ogni giocatore sacrifica X terre. I Sogni Devastanti infliggono X danni a ogni creatura.</text>
     <flavorText>
     </flavorText>
@@ -754,7 +755,7 @@ Ogni giocatore sacrifica X terre. I Sogni Devastanti infliggono X danni a ogni c
   <item>
     <id>TOR0097</id>
     <name>Temperamento Focoso</name>
-    <text>Il Temperamento Focoso infligge 3 danni a una creatura o a un giocatore bersaglio.
+    <text>Il Temperamento Focoso infligge 3 danni a una creatura o a un giocatore bersaglio. 
 Follia {R} (Se scarti questa carta, puoi lanciarla pagando il suo costo di follia invece di metterla nel tuo cimitero.)</text>
     <flavorText>
     </flavorText>
@@ -762,15 +763,15 @@ Follia {R} (Se scarti questa carta, puoi lanciarla pagando il suo costo di folli
   <item>
     <id>TOR0098</id>
     <name>Gambetto Infuocato</name>
-    <text>Il Gambetto Infuocato infligge X danni a un giocatore bersaglio. Quel giocatore può scegliere invece una creatura che controlla e decidere che il Gambetto Infuocato infligga a lei il danno.
-Flashback {X}{R}{R}</text>
+    <text>Il Gambetto Infuocato infligge X danni a un giocatore bersaglio. Quel giocatore può scegliere invece una creatura che controlla e decidere che il Gambetto Infuocato infligga a lei il danno. 
+Flashback {X}{R}{R} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0099</id>
     <name>Atteggiamento di Sfida</name>
-    <text>I giocatori non possono bloccare con creature verdi e/o bianche in questo turno.
+    <text>I giocatori non possono bloccare con creature verdi e/o bianche in questo turno. 
 Flashback-{1}{R}, Paga 3 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -778,14 +779,14 @@ Flashback-{1}{R}, Paga 3 punti vita.</text>
   <item>
     <id>TOR0100</id>
     <name>Lavamante Spietato</name>
-    <text>{R},{T}, Esilia due carte dal tuo cimitero: Il Lavamante Spietato infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <text>{R}, {T}, Esilia due carte dal tuo cimitero: Il Lavamante Spietato infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0101</id>
     <name>Predone Temerario</name>
-    <text>Attacco improvviso, rapidità
+    <text>Attacco improvviso, rapidità 
 Scarta una carta a caso: Il Predone Temerario guadagna protezione dal bianco fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -793,8 +794,8 @@ Scarta una carta a caso: Il Predone Temerario guadagna protezione dal bianco fin
   <item>
     <id>TOR0102</id>
     <name>Maglio di Kamahl</name>
-    <text>Il Maglio di Kamahl infligge 4 danni a una creatura bersaglio.
-Soglia - Se hai almeno sette carte nel tuo cimitero, invece il Maglio di Kamahl infligge 4 danni a quella creatura e 4 danni al controllore di quella creatura.</text>
+    <text>Il Maglio di Kamahl infligge 4 danni a una creatura bersaglio. 
+Soglia - Se hai almeno sette carte nel tuo cimitero, invece il Maglio di Kamahl infligge 4 danni a quella creatura e 4 danni al controllore di quella creatura. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -808,7 +809,7 @@ Soglia - Se hai almeno sette carte nel tuo cimitero, invece il Maglio di Kamahl 
   <item>
     <id>TOR0104</id>
     <name>Soggiogare</name>
-    <text>La prossima magia istantaneo o stregoneria che lanci in questo turno non può essere neutralizzata da magie o abilità.
+    <text>La prossima magia istantaneo o stregoneria che lanci in questo turno non può essere neutralizzata da magie o abilità. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -823,7 +824,7 @@ Pesca una carta.</text>
   <item>
     <id>TOR0106</id>
     <name>Collaboratore Pardico</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 {B}: Il Collaboratore Pardico prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -838,8 +839,8 @@ Pesca una carta.</text>
   <item>
     <id>TOR0108</id>
     <name>Petradonte</name>
-    <text>Quando il Petradonte entra nel campo di battaglia, esilia due terre bersaglio.
-Quando il Petradonte lascia il campo di battaglia, rimetti le carte esiliate nel campo di battaglia sotto il controllo dei loro proprietari.
+    <text>Quando il Petradonte entra nel campo di battaglia, esilia due terre bersaglio. 
+Quando il Petradonte lascia il campo di battaglia, rimetti le carte esiliate nel campo di battaglia sotto il controllo dei loro proprietari. 
 {R}: Il Petradonte prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -847,7 +848,7 @@ Quando il Petradonte lascia il campo di battaglia, rimetti le carte esiliate nel
   <item>
     <id>TOR0109</id>
     <name>Petroritteropo</name>
-    <text>Quando il Petroritteropo entra nel campo di battaglia, esilia una terra bersaglio.
+    <text>Quando il Petroritteropo entra nel campo di battaglia, esilia una terra bersaglio. 
 Quando il Petroritteropo lascia il campo di battaglia, rimetti nel campo di battaglia la carta esiliata sotto il controllo del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -855,7 +856,7 @@ Quando il Petroritteropo lascia il campo di battaglia, rimetti nel campo di batt
   <item>
     <id>TOR0110</id>
     <name>Muro di Pece</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Ogniqualvolta scarti una carta, puoi sacrificare il Muro di Pece. Se lo fai, riprendi in mano la carta scartata dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -863,7 +864,7 @@ Ogniqualvolta scarti una carta, puoi sacrificare il Muro di Pece. Se lo fai, rip
   <item>
     <id>TOR0111</id>
     <name>Barbaro Posseduto</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Barbaro Posseduto prende +1/+1, è nero, e ha "{2}{B}, {T}: Distruggi una creatura bersaglio rossa."</text>
     <flavorText>
     </flavorText>
@@ -871,7 +872,7 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Barbaro Po
   <item>
     <id>TOR0112</id>
     <name>Piromania</name>
-    <text>{1}{R}, Scarta una carta a caso: La Piromania infligge 1 danno a una creatura o a un giocatore bersaglio.
+    <text>{1}{R}, Scarta una carta a caso: La Piromania infligge 1 danno a una creatura o a un giocatore bersaglio. 
 {1}{R}, Sacrifica la Piromania: La Piromania infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -893,7 +894,7 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Barbaro Po
   <item>
     <id>TOR0115</id>
     <name>Presa Sonica</name>
-    <text>Come costo addizionale per lanciare la Presa Sonica, scarta una carta a caso.
+    <text>Come costo addizionale per lanciare la Presa Sonica, scarta una carta a caso. 
 La Presa Sonica infligge 3 danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -908,7 +909,7 @@ La Presa Sonica infligge 3 danni a una creatura o a un giocatore bersaglio.</tex
   <item>
     <id>TOR0117</id>
     <name>Eruzione Violenta</name>
-    <text>L'Eruzione Violenta infligge 4 danni divisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio.
+    <text>L'Eruzione Violenta infligge 4 danni divisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio. 
 Follia {1}{R}{R}</text>
     <flavorText>
     </flavorText>
@@ -916,7 +917,7 @@ Follia {1}{R}{R}</text>
   <item>
     <id>TOR0118</id>
     <name>Raccolto di Ghiande</name>
-    <text>Metti sul campo di battaglia due pedine creatura Scoiattolo 1/1 verdi.
+    <text>Metti sul campo di battaglia due pedine creatura Scoiattolo 1/1 verdi. 
 Flashback - {1}{G}, Paga 3 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -924,23 +925,23 @@ Flashback - {1}{G}, Paga 3 punti vita.</text>
   <item>
     <id>TOR0119</id>
     <name>Sciacallo Anuride</name>
-    <text>Protezione dal nero
-All'inizio del tuo mantenimento, sacrifica lo Sciacallo Anuride a meno che tu metta in fondo al tuo grimorio una carta presente nel tuo cimitero.</text>
+    <text>Protezione dal nero 
+All'inizio del tuo mantenimento, sacrifica lo Sciacallo Anuride a meno che tu metta in fondo al tuo grimorio una carta presente nel tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0120</id>
     <name>Wurm Arrogante</name>
-    <text>Travolgere
-Follia {2}{G}</text>
+    <text>Travolgere 
+Follia {2}{G} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0121</id>
     <name>Lucertola Crogiolante</name>
-    <text>{1}{G}: La Lucertola Crogiolante prende +2/+2 fino alla fine del turno. Attiva questa abilità solo una volta per turno.
+    <text>{1}{G}: La Lucertola Crogiolante prende +2/+2 fino alla fine del turno. Attiva questa abilità solo una volta per turno. 
 Follia {0}</text>
     <flavorText>
     </flavorText>
@@ -948,7 +949,7 @@ Follia {0}</text>
   <item>
     <id>TOR0122</id>
     <name>Capotribù Centauro</name>
-    <text>Rapidità
+    <text>Rapidità 
 Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Capotribù Centauro ha "Quando il Capotribù Centauro entra nel campo di battaglia, le creature che controlli prendono +1/+1 e guadagnano travolgere fino alla fine del turno."</text>
     <flavorText>
     </flavorText>
@@ -956,7 +957,7 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Capotribù
   <item>
     <id>TOR0123</id>
     <name>Veterano Centauro</name>
-    <text>Travolgere
+    <text>Travolgere 
 {G}, Scarta una carta: Rigenera il Veterano Centauro.</text>
     <flavorText>
     </flavorText>
@@ -971,7 +972,7 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Capotribù
   <item>
     <id>TOR0125</id>
     <name>Vagabondaggi Lontani</name>
-    <text>Passa in rassegna il tuo grimorio per una carta terra base e mettila nel campo di battaglia TAPpata. Poi rimescola il tuo grimorio.
+    <text>Passa in rassegna il tuo grimorio per una carta terra base e mettila nel campo di battaglia TAPpata. Poi rimescola il tuo grimorio. 
 Soglia - Se hai almeno sette carte nel tuo cimitero, invece passa in rassegna il tuo grimorio per tre carte terra base e mettile nel campo di battaglia TAPpate. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -979,7 +980,7 @@ Soglia - Se hai almeno sette carte nel tuo cimitero, invece passa in rassegna il
   <item>
     <id>TOR0126</id>
     <name>Gurzigost</name>
-    <text>All'inizio del tuo mantenimento, sacrifica il Gurzigost a meno che tu metta in fondo al tuo grimorio due carte presenti nel tuo cimitero.
+    <text>All'inizio del tuo mantenimento, sacrifica il Gurzigost a meno che tu metta in fondo al tuo grimorio due carte presenti nel tuo cimitero. 
 {G}{G}, Scarta una carta: In questo turno puoi assegnare il danno da combattimento del Gurzigost come se non fosse stato bloccato.</text>
     <flavorText>
     </flavorText>
@@ -987,7 +988,7 @@ Soglia - Se hai almeno sette carte nel tuo cimitero, invece passa in rassegna il
   <item>
     <id>TOR0127</id>
     <name>Insistere</name>
-    <text>La prossima magia creatura che lanci in questo turno non può essere neutralizzata da magie o abilità.
+    <text>La prossima magia creatura che lanci in questo turno non può essere neutralizzata da magie o abilità. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1002,7 +1003,7 @@ Pesca una carta.</text>
   <item>
     <id>TOR0129</id>
     <name>Boa di Krosa</name>
-    <text>Passa-paludi
+    <text>Passa-paludi 
 {T}: Una creatura nera bersaglio prende -2/-0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1010,7 +1011,7 @@ Pesca una carta.</text>
   <item>
     <id>TOR0130</id>
     <name>Restauratrice di Krosa</name>
-    <text>{T}: STAPpa una terra bersaglio.
+    <text>{T}: STAPpa una terra bersaglio. 
 Soglia - {T}: STAPpa fino a tre terre bersaglio. Attiva questa abilità solo se hai almeno sette carte nel tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1018,7 +1019,7 @@ Soglia - {T}: STAPpa fino a tre terre bersaglio. Attiva questa abilità solo se 
   <item>
     <id>TOR0131</id>
     <name>Falciasventura Nantuko</name>
-    <text>Protezione dal nero
+    <text>Protezione dal nero 
 Soglia - Il Falciasventura Nantuko prende +1/+1 per ogni permanente nero controllato dai tuoi avversari fintanto che ci sono almeno sette carte nel tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1026,7 +1027,7 @@ Soglia - Il Falciasventura Nantuko prende +1/+1 per ogni permanente nero control
   <item>
     <id>TOR0132</id>
     <name>Moderatore Nantuko</name>
-    <text>{G},{T}, Sacrifica il Moderatore Nantuko: Distruggi un incantesimo bersaglio.
+    <text>{G},{T}, Sacrifica il Moderatore Nantuko: Distruggi un incantesimo bersaglio. 
 Soglia - Il Moderatore Nantuko prende +1/+1 fintanto che ci sono almeno sette carte nel tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1041,7 +1042,7 @@ Soglia - Il Moderatore Nantuko prende +1/+1 fintanto che ci sono almeno sette ca
   <item>
     <id>TOR0134</id>
     <name>Narcisismo</name>
-    <text>{G}, Scarta una carta: Una creatura bersaglio prende +2/+2 fino alla fine del turno.
+    <text>{G}, Scarta una carta: Una creatura bersaglio prende +2/+2 fino alla fine del turno. 
 {G}, Sacrifica il Narcisismo: Una creatura bersaglio prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1049,7 +1050,7 @@ Soglia - Il Moderatore Nantuko prende +1/+1 fintanto che ci sono almeno sette ca
   <item>
     <id>TOR0135</id>
     <name>Sogni Nostalgici</name>
-    <text>Come costo addizionale per giocare i Sogni Nostalgici, scarta X carte.
+    <text>Come costo addizionale per giocare i Sogni Nostalgici, scarta X carte. 
 Riprendi in mano X carte bersaglio dal tuo cimitero. Esilia i Sogni Nostalgici.</text>
     <flavorText>
     </flavorText>
@@ -1057,15 +1058,15 @@ Riprendi in mano X carte bersaglio dal tuo cimitero. Esilia i Sogni Nostalgici.<
   <item>
     <id>TOR0136</id>
     <name>Evoluzione Parallela</name>
-    <text>Flashback {4}{G}{G}{G}
-Per ogni pedina creatura sul campo di battaglia, il suo controllore mette sul campo di battaglia una pedina che è una copia di quella creatura.</text>
+    <text>Flashback {4}{G}{G}{G} 
+Per ogni pedina creatura sul campo di battaglia, il suo controllore mette sul campo di battaglia una pedina che è una copia di quella creatura. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>TOR0137</id>
     <name>Centauro Posseduto</name>
-    <text>Travolgere
+    <text>Travolgere 
 Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Centauro Posseduto prende +1/+1, è nero, e ha "{2}{B}, {T}: Distruggi una creatura bersaglio verde."</text>
     <flavorText>
     </flavorText>
@@ -1073,7 +1074,7 @@ Soglia - Fintanto che ci sono almeno sette carte nel tuo cimitero, il Centauro P
   <item>
     <id>TOR0138</id>
     <name>Esploratore di Seton</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
 Soglia - L'Esploratore di Seton prende +2/+2 fintanto che ci sono almeno sette carte nel tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1088,7 +1089,7 @@ Soglia - L'Esploratore di Seton prende +2/+2 fintanto che ci sono almeno sette c
   <item>
     <id>TOR0140</id>
     <name>Campo Contaminato</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Aggiungi {W} o {B} alla tua riserva di mana. Attiva questa abilità solo se controlli almeno una Palude.</text>
     <flavorText>
     </flavorText>
@@ -1096,7 +1097,7 @@ Soglia - L'Esploratore di Seton prende +2/+2 fintanto che ci sono almeno sette c
   <item>
     <id>TOR0141</id>
     <name>Isola Contaminata</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Aggiungi {U} o {B} alla tua riserva di mana. Attiva questa abilità solo se controlli una Palude.</text>
     <flavorText>
     </flavorText>
@@ -1104,7 +1105,7 @@ Soglia - L'Esploratore di Seton prende +2/+2 fintanto che ci sono almeno sette c
   <item>
     <id>TOR0142</id>
     <name>Picco Contaminato</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Aggiungi {B} o {R} alla tua riserva di mana. Attiva questa abilità solo se controlli almeno una Palude.</text>
     <flavorText>
     </flavorText>
@@ -1112,7 +1113,7 @@ Soglia - L'Esploratore di Seton prende +2/+2 fintanto che ci sono almeno sette c
   <item>
     <id>TOR0143</id>
     <name>Bosco Contaminato</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Aggiungi {B} o {G} alla tua riserva di mana. Attiva questa abilità solo se controlli almeno una Palude.</text>
     <flavorText>
     </flavorText>

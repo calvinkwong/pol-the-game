@@ -2,7 +2,7 @@
   <item>
     <id>ARB0001</id>
     <name>Invocazione Ardente</name>
-    <text>Esaltato (Ogniqualvolta una creatura che controlli attacca da sola, prende +1/+1 fino alla fine del turno.)
+    <text>Esaltato (Ogniqualvolta una creatura che controlli attacca da sola, prende +1/+1 fino alla fine del turno.) 
 Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciare quella carta senza pagare il suo costo di mana. Metti le altre carte esiliate in fondo al tuo grimorio in ordine casuale.)</text>
     <flavorText>
     </flavorText>
@@ -10,8 +10,8 @@ Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio 
   <item>
     <id>ARB0002</id>
     <name>Duplicomante Aviano</name>
-    <text>Volare
-All'inizio del tuo mantenimento, puoi mettere un segnalino piuma su una creatura bersaglio. Se lo fai, quella creatura è una creatura 3/1 con volare fintanto che ha un segnalino piuma.</text>
+    <text>Volare 
+All'inizio del tuo mantenimento, puoi mettere un segnalino piuma su una creatura bersaglio. Se lo fai, quella creatura è una creatura 3/1 con volare fintanto che ha un segnalino piuma. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -25,7 +25,7 @@ All'inizio del tuo mantenimento, puoi mettere un segnalino piuma su una creatura
   <item>
     <id>ARB0004</id>
     <name>Eterica di Magiscudo</name>
-    <text>Lampo
+    <text>Lampo 
 Quando l'Eterica di Magiscudo entra nel campo di battaglia, previeni tutto il danno che verrebbe inflitto alle creature artefatto in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -33,8 +33,8 @@ Quando l'Eterica di Magiscudo entra nel campo di battaglia, previeni tutto il da
   <item>
     <id>ARB0005</id>
     <name>Pietra di Confine del Campo Nebbioso</name>
-    <text>Puoi pagare {1} e far tornare una terra base che controlli in mano al suo proprietario invece di pagare il costo di mana della Pietra di Confine del Campo Nebbioso.
-La Pietra di Confine del Campo Nebbioso entra nel campo di battaglia TAPpata.
+    <text>Puoi pagare {1} e far tornare una terra base che controlli in mano al suo proprietario invece di pagare il costo di mana della Pietra di Confine del Campo Nebbioso. 
+La Pietra di Confine del Campo Nebbioso entra nel campo di battaglia TAPpata. 
 {T}: Aggiungi {W} o {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -42,7 +42,7 @@ La Pietra di Confine del Campo Nebbioso entra nel campo di battaglia TAPpata.
   <item>
     <id>ARB0006</id>
     <name>Angelo della Filigrana</name>
-    <text>Volare
+    <text>Volare 
 Quando l'Angelo della Filigrana entra nel campo di battaglia, guadagni 3 punti vita per ogni artefatto che controlli.</text>
     <flavorText>
     </flavorText>
@@ -50,7 +50,7 @@ Quando l'Angelo della Filigrana entra nel campo di battaglia, guadagni 3 punti v
   <item>
     <id>ARB0007</id>
     <name>Colosso della Polvere Vitrea</name>
-    <text>Ogniqualvolta un altro artefatto entra nel campo di battaglia sotto il tuo controllo, il Colosso della Polvere Vitrea prende +1/+1 fino alla fine del turno e non può essere bloccato in questo turno.
+    <text>Ogniqualvolta un altro artefatto entra nel campo di battaglia sotto il tuo controllo, il Colosso della Polvere Vitrea prende +1/+1 fino alla fine del turno e non può essere bloccato in questo turno. 
  Ciclo {B|L} ({B|L}, Scarta questa carta: Pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -58,7 +58,7 @@ Quando l'Angelo della Filigrana entra nel campo di battaglia, guadagni 3 punti v
   <item>
     <id>ARB0008</id>
     <name>Mago Intrigante</name>
-    <text>Mentre il Mago Intrigante entra nel campo di battaglia, nomina una carta non terra.
+    <text>Mentre il Mago Intrigante entra nel campo di battaglia, nomina una carta non terra. 
 La carta nominata non può essere lanciata.</text>
     <flavorText>
     </flavorText>
@@ -73,7 +73,7 @@ La carta nominata non può essere lanciata.</text>
   <item>
     <id>ARB0010</id>
     <name>Bestiaratro del Santuario</name>
-    <text>Difensore
+    <text>Difensore 
 Ciclopianura {2}, cicloisola {2} ({2}, Scarta questa carta: Passa in rassegna il tuo grimorio per una carta Pianura o una carta Isola, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.)</text>
     <flavorText>
     </flavorText>
@@ -81,8 +81,8 @@ Ciclopianura {2}, cicloisola {2} ({2}, Scarta questa carta: Passa in rassegna il
   <item>
     <id>ARB0011</id>
     <name>Scudo dei Giusti</name>
-    <text>La creatura equipaggiata prende +0/+2 e ha cautela.
-Ogniqualvolta la creatura equipaggiata blocca una creatura, quella creatura non STAPpa durante il prossimo STAP del suo controllore.
+    <text>La creatura equipaggiata prende +0/+2 e ha cautela. 
+Ogniqualvolta la creatura equipaggiata blocca una creatura, quella creatura non STAPpa durante il prossimo STAP del suo controllore. 
 Equipaggiare {2}</text>
     <flavorText>
     </flavorText>
@@ -90,7 +90,7 @@ Equipaggiare {2}</text>
   <item>
     <id>ARB0012</id>
     <name>Sovrani di Alara Perduta</name>
-    <text>Esaltato (Ogniqualvolta una creatura che controlli attacca da sola, prende +1/+1 fino alla fine del turno.)
+    <text>Esaltato (Ogniqualvolta una creatura che controlli attacca da sola, prende +1/+1 fino alla fine del turno.) 
 Ogniqualvolta una creatura che controlli attacca da sola, puoi passare in rassegna il tuo grimorio per una carta Aura che potrebbe incantare quella creatura, metterla sul campo di battaglia assegnata a quella creatura, poi rimescolare il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -98,7 +98,7 @@ Ogniqualvolta una creatura che controlli attacca da sola, puoi passare in rasseg
   <item>
     <id>ARB0013</id>
     <name>Dono del Placatempeste</name>
-    <text>Sacrifica il Dono del Placatempeste: Le creature che controlli hanno volare fino alla fine del turno.
+    <text>Sacrifica il Dono del Placatempeste: Le creature che controlli hanno volare fino alla fine del turno. 
 Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciarla senza pagare il suo costo di mana. Metti le carte esiliate in fondo al tuo grimorio in ordine casuale.)</text>
     <flavorText>
     </flavorText>
@@ -120,14 +120,14 @@ Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio 
   <item>
     <id>ARB0016</id>
     <name>Muro di Diniego</name>
-    <text>Difensore, volare, velo</text>
+    <text>Difensore, volare, velo </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ARB0017</id>
     <name>Architetti della Volontà</name>
-    <text>Quando gli Architetti della Volontà entrano nel campo di battaglia, guarda le prime tre carte del grimorio di un giocatore bersaglio, poi rimettile a posto in qualsiasi ordine.
+    <text>Quando gli Architetti della Volontà entrano nel campo di battaglia, guarda le prime tre carte del grimorio di un giocatore bersaglio, poi rimettile a posto in qualsiasi ordine. 
 Ciclo {L|N} ({L|N}, Scarta questa carta: Pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -135,7 +135,7 @@ Ciclo {L|N} ({L|N}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0018</id>
     <name>Morso al Cervello</name>
-    <text>Un avversario bersaglio rivela la sua mano. Scegli una carta da quella mano. Quel giocatore scarta quella carta.
+    <text>Un avversario bersaglio rivela la sua mano. Scegli una carta da quella mano. Quel giocatore scarta quella carta. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -143,7 +143,7 @@ Pesca una carta.</text>
   <item>
     <id>ARB0019</id>
     <name>Negare la Realtà</name>
-    <text>Cascata (Quando lanci questa magia, esialia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciarla senza pagare il suo costo di mana. Metti le altre carte esialiate in fondo al tuo grimorio in ordine casuale.)
+    <text>Cascata (Quando lanci questa magia, esialia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciarla senza pagare il suo costo di mana. Metti le altre carte esialiate in fondo al tuo grimorio in ordine casuale.) 
 Fai tornare un permanente bersaglio in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -158,7 +158,7 @@ Fai tornare un permanente bersaglio in mano al suo proprietario.</text>
   <item>
     <id>ARB0021</id>
     <name>Demone Irreale</name>
-    <text>Volare
+    <text>Volare 
 Quando lanci una magia, sacrifica il Demone Irreale.</text>
     <flavorText>
     </flavorText>
@@ -166,16 +166,16 @@ Quando lanci una magia, sacrifica il Demone Irreale.</text>
   <item>
     <id>ARB0022</id>
     <name>Zombie di Jhess</name>
-    <text>Paura
-Cicloisola {2}, ciclopalude {2} ({2}, Scarta questa carta: Passa in rassegna il tuo grimorio per una carta Isola o una carta Palude, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.)</text>
+    <text>Paura 
+Cicloisola {2}, ciclopalude {2} ({2}, Scarta questa carta: Passa in rassegna il tuo grimorio per una carta Isola o una carta Palude, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ARB0023</id>
     <name>Spoglia Kathari</name>
-    <text>Volare
-{B}: Rigenera la Spoglia Kathari.
+    <text>Volare 
+{B}: Rigenera la Spoglia Kathari. 
 Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciare quella carta senza pagare il suo costo di mana. Metti le altre carte esiliate in fondo al tuo grimorio in ordine casuale.)</text>
     <flavorText>
     </flavorText>
@@ -183,7 +183,7 @@ Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio 
   <item>
     <id>ARB0024</id>
     <name>Signore dei Lich di Unx</name>
-    <text>{U}{B}, {T}: Metti sul campo di battaglia una pedina creatura Mago Zombie 1/1 blu e nera.
+    <text>{U}{B}, {T}: Metti sul campo di battaglia una pedina creatura Mago Zombie 1/1 blu e nera. 
 {U}{U}{B}{B}: Un giocatore bersaglio perde X punti vita e mette nel suo cimitero le prime X carte del suo grimorio, dove X è il numero di Zombie che controlli.</text>
     <flavorText>
     </flavorText>
@@ -191,8 +191,8 @@ Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio 
   <item>
     <id>ARB0025</id>
     <name>Maschera degli Enigmi</name>
-    <text>La creatura equipaggiata ha paura.
-Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, tu puoi pescare una carta.
+    <text>La creatura equipaggiata ha paura. 
+Ogniqualvolta la creatura equipaggiata infligge danno da combattimento ad un giocatore, tu puoi pescare una carta. 
 Equipaggiare {2}</text>
     <flavorText>
     </flavorText>
@@ -207,8 +207,8 @@ Equipaggiare {2}</text>
   <item>
     <id>ARB0027</id>
     <name>Pietra di Confine della Nebbia Cavernosa</name>
-    <text>Puoi pagare {1} e far tornare una terra base che controlli in mano al suo proprietario invece di pagare il costo di mana della Pietra di Confine della Nebbia Cavernosa.
-La Pietra di Confine della Nebbia Cavernosa entra sul campo di battagli TAPpata.
+    <text>Puoi pagare {1} e far tornare una terra base che controlli in mano al suo proprietario invece di pagare il costo di mana della Pietra di Confine della Nebbia Cavernosa. 
+La Pietra di Confine della Nebbia Cavernosa entra sul campo di battagli TAPpata. 
 {T}: Aggiungi {U} o {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -251,7 +251,7 @@ La Pietra di Confine della Nebbia Cavernosa entra sul campo di battagli TAPpata.
   <item>
     <id>ARB0033</id>
     <name>Anatemante</name>
-    <text>Quando l'Anatemante entra nel campo di battaglia, infligge danno a un giocatore bersaglio pari al numero di terre non base controllate da quel giocatore.
+    <text>Quando l'Anatemante entra nel campo di battaglia, infligge danno a un giocatore bersaglio pari al numero di terre non base controllate da quel giocatore. 
 Dissotterrare {5}{B}{R} ({5}{B}{R}: Rimetti sul campo di battaglia questa carta dal tuo cimitero. Ha rapidità. Esiliala all'inizio della sottofase di fine turno o se sta per lasciare il campo di battaglia. Dissotterra solo quando potresti lanciare una stregoneria.)</text>
     <flavorText>
     </flavorText>
@@ -259,7 +259,7 @@ Dissotterrare {5}{B}{R} ({5}{B}{R}: Rimetti sul campo di battaglia questa carta 
   <item>
     <id>ARB0034</id>
     <name>Esplosione di Bitume</name>
-    <text>Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciare quella carta senza pagare il suo costo di mana. Metti le altre carte esiliate in fondo al tuo grimorio in ordine casuale.)
+    <text>Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciare quella carta senza pagare il suo costo di mana. Metti le altre carte esiliate in fondo al tuo grimorio in ordine casuale.) 
 L'Esplosione di Bitume infligge 4 danni a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -274,7 +274,7 @@ L'Esplosione di Bitume infligge 4 danni a una creatura bersaglio.</text>
   <item>
     <id>ARB0036</id>
     <name>Thoctar Latore di Morte</name>
-    <text>Ogniqualvolta un'altra creatura viene messa in un cimitero dal campo di battaglia, puoi mettere un segnalino +1/+1 sul Thoctar Latore di Morte.
+    <text>Ogniqualvolta un'altra creatura viene messa in un cimitero dal campo di battaglia, puoi mettere un segnalino +1/+1 sul Thoctar Latore di Morte. 
 Rimuovi un segnalino +1/+1 dal Thoctar Latore di Morte: Il Thoctar Latore di Morte infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -282,7 +282,7 @@ Rimuovi un segnalino +1/+1 dal Thoctar Latore di Morte: Il Thoctar Latore di Mor
   <item>
     <id>ARB0037</id>
     <name>Contaminatore di Anime</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica una creatura monocolore.</text>
     <flavorText>
     </flavorText>
@@ -290,7 +290,7 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica una crea
   <item>
     <id>ARB0038</id>
     <name>Terrore Demoniaco</name>
-    <text>Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciarla senza pagare il suo costo di mana. Metti le altre carte esialiate in fondo al tuo grimorio in ordine casuale.)
+    <text>Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciarla senza pagare il suo costo di mana. Metti le altre carte esialiate in fondo al tuo grimorio in ordine casuale.) 
 Una creatura bersaglio non può bloccare in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -298,7 +298,7 @@ Una creatura bersaglio non può bloccare in questo turno.</text>
   <item>
     <id>ARB0039</id>
     <name>Frusta della Spina Demoniaca</name>
-    <text>{X}: La creatura equipaggiata prende +X/+0 fino alla fine del turno.
+    <text>{X}: La creatura equipaggiata prende +X/+0 fino alla fine del turno. 
 Equipaggiare {1}</text>
     <flavorText>
     </flavorText>
@@ -306,7 +306,7 @@ Equipaggiare {1}</text>
   <item>
     <id>ARB0040</id>
     <name>Assalitore Igneo</name>
-    <text>Rapidità
+    <text>Rapidità 
 Ciclopalude {2}, ciclomontagna {2} ({2}, Scarta questa carta: Passa in rassegna il tuo grimorio per una carta Palude o una carta Montagna, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.)</text>
     <flavorText>
     </flavorText>
@@ -314,8 +314,8 @@ Ciclopalude {2}, ciclomontagna {2} ({2}, Scarta questa carta: Passa in rassegna 
   <item>
     <id>ARB0041</id>
     <name>Bombardiere Kathari</name>
-    <text>Volare
-Quando il Bombardiere Kathari infligge danno da combattimento a un giocatore, metti sul campo di battaglia due pedine creatura Goblin 1/1 rosse e sacrifica il Bombardiere Kathari.
+    <text>Volare 
+Quando il Bombardiere Kathari infligge danno da combattimento a un giocatore, metti sul campo di battaglia due pedine creatura Goblin 1/1 rosse e sacrifica il Bombardiere Kathari. 
 Dissotterrare {3}{B}{R} ({3}{B}{R}: Rimetti sul campo di battaglia questa carta dal tuo cimitero. Ha rapidità. Esiliala all'inizio della sottofase finale se sta per lasciare il campo di battaglia. Dissotterra solo quando potresti lanciare una stregoneria.)</text>
     <flavorText>
     </flavorText>
@@ -323,8 +323,8 @@ Dissotterrare {3}{B}{R} ({3}{B}{R}: Rimetti sul campo di battaglia questa carta 
   <item>
     <id>ARB0042</id>
     <name>Predatore Fulminante</name>
-    <text>Paura, rapidità
-Ogniqualvolta il Predatore Fulminante infligge danno da combattimento a un giocatore, metti un segnalino carica sul Predatore Fulminante.
+    <text>Paura, rapidità 
+Ogniqualvolta il Predatore Fulminante infligge danno da combattimento a un giocatore, metti un segnalino carica sul Predatore Fulminante. 
 All'inizio della tua sottofase finale, il Predatore Fulminante infligge danno pari al numero di segnalini carica su di esso a ogni avversario.</text>
     <flavorText>
     </flavorText>
@@ -332,7 +332,7 @@ All'inizio della tua sottofase finale, il Predatore Fulminante infligge danno pa
   <item>
     <id>ARB0043</id>
     <name>Carabo Mostruoso</name>
-    <text>Il Carabo Mostruoso attacca ogni turno, se può farlo.
+    <text>Il Carabo Mostruoso attacca ogni turno, se può farlo. 
 Ciclo {N|R} ({N|R}, Scarta questa carta: Pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -354,7 +354,7 @@ Ciclo {N|R} ({N|R}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0046</id>
     <name>Terminare</name>
-    <text>Distruggi una creatura bersaglio. Non può essere rigenerata.</text>
+    <text>Distruggi una creatura bersaglio. Non può essere rigenerata. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -368,8 +368,8 @@ Ciclo {N|R} ({N|R}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0048</id>
     <name>Pietra di Confine della Caverna Infuocata</name>
-    <text>Puoi pagare {1} e far tornare una terra base che controlli in mano al suo proprietario invece di pagare il costo di mana della Pietra di Confine della Caverna Infuocata.
-La Pietra di Confine della Caverna Infuocata entra nel campo di battaglia TAPpata.
+    <text>Puoi pagare {1} e far tornare una terra base che controlli in mano al suo proprietario invece di pagare il costo di mana della Pietra di Confine della Caverna Infuocata. 
+La Pietra di Confine della Caverna Infuocata entra nel campo di battaglia TAPpata. 
 {T}: Aggiungi {B} o {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -377,7 +377,7 @@ La Pietra di Confine della Caverna Infuocata entra nel campo di battaglia TAPpat
   <item>
     <id>ARB0049</id>
     <name>Infernale Incursore</name>
-    <text>Travolgere, rapidità
+    <text>Travolgere, rapidità 
 All'inizio della sottofase di fine turno, il proprietario dell'Infernale Incursore lo rimescola nel suo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -385,7 +385,7 @@ All'inizio della sottofase di fine turno, il proprietario dell'Infernale Incurso
   <item>
     <id>ARB0050</id>
     <name>Elfa dalle Trecce Rosse</name>
-    <text>Rapidità
+    <text>Rapidità 
 Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciare quella carta senza pagare il suo costo di mana. Metti le altre carte esiliate in fondo al tuo grimorio in ordine casuale.)</text>
     <flavorText>
     </flavorText>
@@ -400,7 +400,7 @@ Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio 
   <item>
     <id>ARB0052</id>
     <name>Minotauro dal Colpo Letale</name>
-    <text>Quando il Minotauro dal Colpo Letale entra nel campo di battaglia, infligge 3 danni a una creatura bersaglio con volare.
+    <text>Quando il Minotauro dal Colpo Letale entra nel campo di battaglia, infligge 3 danni a una creatura bersaglio con volare. 
 Ciclo {R|V} ({R|V}, Scarta questa carta: Pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -408,7 +408,7 @@ Ciclo {R|V} ({R|V}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0053</id>
     <name>Madre Covatrice di Draghi</name>
-    <text>Volare
+    <text>Volare 
 All'inizio di ogni mantenimento, metti sul campo di battaglia una pedina creatura Drago 1/1 rossa e verde con volare e divorare 2. (Mentre questa pedina entra sul campo di battaglia, puoi sacrificare un qualsiasi numero di creature. Entra sul campo di battaglia con un numero di segnalini +1/+1 pari al doppio delle creature sacrificate.)</text>
     <flavorText>
     </flavorText>
@@ -416,8 +416,8 @@ All'inizio di ogni mantenimento, metti sul campo di battaglia una pedina creatur
   <item>
     <id>ARB0054</id>
     <name>Pietra di Confine del Fuoco Selvaggio</name>
-    <text>Puoi pagare {1} e far tornare una terra base che controlli in mano al suo proprietario invece di pagare il costo di mana della Pietra di Confine del Fuoco Selvaggio.
-La Pietra di Confine del Fuoco Selvaggio entra nel campo di battaglia TAPpata.
+    <text>Puoi pagare {1} e far tornare una terra base che controlli in mano al suo proprietario invece di pagare il costo di mana della Pietra di Confine del Fuoco Selvaggio. 
+La Pietra di Confine del Fuoco Selvaggio entra nel campo di battaglia TAPpata. 
 {T}: Aggiungi {R} o {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -439,7 +439,7 @@ La Pietra di Confine del Fuoco Selvaggio entra nel campo di battaglia TAPpata.
   <item>
     <id>ARB0057</id>
     <name>Ammazzamaghi</name>
-    <text>Ogniqualvolta la creatura equipaggiata attacca, infligge danno pari alla sua forza al giocatore in difesa.
+    <text>Ogniqualvolta la creatura equipaggiata attacca, infligge danno pari alla sua forza al giocatore in difesa. 
 Equipaggiare {3}</text>
     <flavorText>
     </flavorText>
@@ -454,15 +454,14 @@ Equipaggiare {3}</text>
   <item>
     <id>ARB0059</id>
     <name>Rhox Bestiale</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ARB0060</id>
     <name>Behemoth Spezzamagie</name>
-    <text>Il Behemoth Spezzamagie non può essere neutralizzato.
+    <text>Il Behemoth Spezzamagie non può essere neutralizzato. 
 Le magie creatura con forza pari o superiore a 5 che controlli non possono essere neutralizzate.</text>
     <flavorText>
     </flavorText>
@@ -477,7 +476,7 @@ Le magie creatura con forza pari o superiore a 5 che controlli non possono esser
   <item>
     <id>ARB0062</id>
     <name>Rinascita Vendicativa</name>
-    <text>Riprendi in mano una carta bersaglio dal tuo cimitero. Se riprendi in mano una carta non terra in questo modo, la Rinascita Vendicativa infligge danno pari al costo di mana convertito di quella carta a una creatura o a un giocatore bersaglio.
+    <text>Riprendi in mano una carta bersaglio dal tuo cimitero. Se riprendi in mano una carta non terra in questo modo, la Rinascita Vendicativa infligge danno pari al costo di mana convertito di quella carta a una creatura o a un giocatore bersaglio. 
 Esilia la Rinascita Vendicativa.</text>
     <flavorText>
     </flavorText>
@@ -485,7 +484,7 @@ Esilia la Rinascita Vendicativa.</text>
   <item>
     <id>ARB0063</id>
     <name>Esplosione Violenta</name>
-    <text>Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciare quella carta senza pagare il suo costo di mana. Metti le altre carte esiliate in fondo al tuo grimorio in ordine casuale.)
+    <text>Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciare quella carta senza pagare il suo costo di mana. Metti le altre carte esiliate in fondo al tuo grimorio in ordine casuale.) 
 Le creature che controlli prendono +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -500,7 +499,7 @@ Le creature che controlli prendono +1/+0 fino alla fine del turno.</text>
   <item>
     <id>ARB0065</id>
     <name>Maglio del Behemoth</name>
-    <text>La creatura equipaggiata prende +2/+2 e ha legame vitale e travolgere.
+    <text>La creatura equipaggiata prende +2/+2 e ha legame vitale e travolgere. 
 Equipaggiare {3}</text>
     <flavorText>
     </flavorText>
@@ -508,7 +507,7 @@ Equipaggiare {3}</text>
   <item>
     <id>ARB0066</id>
     <name>Raggio di Sole Prigioniero</name>
-    <text>Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciare quella carta senza pagare il suo costo di mana. Metti le altre carte rimosse in fondo al tuo grimorio in ordine casuale.)
+    <text>Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciare quella carta senza pagare il suo costo di mana. Metti le altre carte rimosse in fondo al tuo grimorio in ordine casuale.) 
 Guadagni 4 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -566,7 +565,7 @@ Guadagni 4 punti vita.</text>
   <item>
     <id>ARB0074</id>
     <name>Eremita Pallido</name>
-    <text>Raggiungere (Può bloccare le creature con volare.)
+    <text>Raggiungere (Può bloccare le creature con volare.) 
 Cicloforesta {2}, Ciclopianura {2} ({2}, Scarta questa carta: Passa in rassegna il tuo grimorio per una carta Foresta o una carta Pianura, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.)</text>
     <flavorText>
     </flavorText>
@@ -574,7 +573,7 @@ Cicloforesta {2}, Ciclopianura {2} ({2}, Scarta questa carta: Passa in rassegna 
   <item>
     <id>ARB0075</id>
     <name>Mago del Branco di Qasal</name>
-    <text>Esaltato (Ogniqualvolta una creatura che controlli attacca da sola, prende +1/+1 fino alla fine del turno.)
+    <text>Esaltato (Ogniqualvolta una creatura che controlli attacca da sola, prende +1/+1 fino alla fine del turno.) 
 {1}, Sacrifica il Mago del Branco di Qasal: Distruggi un artefatto o un incantesimo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -596,8 +595,8 @@ Cicloforesta {2}, Ciclopianura {2} ({2}, Scarta questa carta: Passa in rassegna 
   <item>
     <id>ARB0078</id>
     <name>Sigillo delle Divinità di Naya</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+1 per ogni creatura che controlli.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+1 per ogni creatura che controlli. 
 Ciclo {V|B} ({V|B}, Scarta questa carta: Pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -612,8 +611,8 @@ Ciclo {V|B} ({V|B}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0080</id>
     <name>Pietra di Confine della Selva Campestre</name>
-    <text>Puoi pagare {1} e far tornare una terra base che controlli in mano al suo proprietario anziché pagare il costo di mana della Pietra di Confine della Selva Campestre.
-La Pietra di Confine della Selva Campestre entra nel campo di battaglia TAPpata.
+    <text>Puoi pagare {1} e far tornare una terra base che controlli in mano al suo proprietario anziché pagare il costo di mana della Pietra di Confine della Selva Campestre. 
+La Pietra di Confine della Selva Campestre entra nel campo di battaglia TAPpata. 
 {T}: Aggiungi {G} o {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -628,7 +627,7 @@ La Pietra di Confine della Selva Campestre entra nel campo di battaglia TAPpata.
   <item>
     <id>ARB0082</id>
     <name>Patto del Necromante</name>
-    <text>Quando il Patto del Necromante entra nel campo di battaglia, esilia tutte le carte creatura dal cimitero di un giocatore bersaglio, poi metti sul campo di battaglia una pedina creatura Zombie 2/2 nera per ogni carta esiliata in questo modo.
+    <text>Quando il Patto del Necromante entra nel campo di battaglia, esilia tutte le carte creatura dal cimitero di un giocatore bersaglio, poi metti sul campo di battaglia una pedina creatura Zombie 2/2 nera per ogni carta esiliata in questo modo. 
 Gli Zombie che controlli hanno legame vitale.</text>
     <flavorText>
     </flavorText>
@@ -671,7 +670,7 @@ Gli Zombie che controlli hanno legame vitale.</text>
   <item>
     <id>ARB0088</id>
     <name>Ali di Fuoco Incantato</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +2/+0 e ha volare.</text>
     <flavorText>
     </flavorText>
@@ -686,7 +685,7 @@ La creatura incantata prende +2/+0 e ha volare.</text>
   <item>
     <id>ARB0090</id>
     <name>Drago Incantato</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta il Drago Incantato attacca, pesca una carta, poi scarta una carta. Il Drago Incantato prende +X/+0 fino alla fine del turno, dove X è il costo di mana convertito della carta scartata.</text>
     <flavorText>
     </flavorText>
@@ -708,7 +707,7 @@ Ogniqualvolta il Drago Incantato attacca, pesca una carta, poi scarta una carta.
   <item>
     <id>ARB0093</id>
     <name>Masticamidollo</name>
-    <text>Divorare 2 (Mentre questa creatura entra nel campo di battaglia, puoi sacrificare un qualsiasi numero di creature. Entra nel campo di battaglia con un numero di segnalini +1/+1 pari al doppio delle creature sacrificate.)
+    <text>Divorare 2 (Mentre questa creatura entra nel campo di battaglia, puoi sacrificare un qualsiasi numero di creature. Entra nel campo di battaglia con un numero di segnalini +1/+1 pari al doppio delle creature sacrificate.) 
 Quando il Masticamidollo entra nel campo di battaglia, guadagni 2 punti vita per ogni creatura che ha divorato.</text>
     <flavorText>
     </flavorText>
@@ -744,7 +743,7 @@ Quando il Masticamidollo entra nel campo di battaglia, guadagni 2 punti vita per
   <item>
     <id>ARB0098</id>
     <name>Gloria della Guerra</name>
-    <text>Fintanto che è il tuo turno, le creature che controlli prendono +2/+0.
+    <text>Fintanto che è il tuo turno, le creature che controlli prendono +2/+0. 
 Fintanto che non è il tuo turno, le creature che controlli prendono +0/+2.</text>
     <flavorText>
     </flavorText>
@@ -794,8 +793,8 @@ Fintanto che non è il tuo turno, le creature che controlli prendono +0/+2.</tex
   <item>
     <id>ARB0105</id>
     <name>Coatl Alato</name>
-    <text>Lampo
-Volare
+    <text>Lampo 
+Volare 
 Tocco letale</text>
     <flavorText>
     </flavorText>
@@ -803,8 +802,8 @@ Tocco letale</text>
   <item>
     <id>ARB0106</id>
     <name>Sfinge degli Enigmi</name>
-    <text>Volare
-Quando la Sfinge degli Enigmi viene messa nel tuo cimitero dal campo di battaglia, mettila come terza carta dalla cima del tuo grimorio.
+    <text>Volare 
+Quando la Sfinge degli Enigmi viene messa nel tuo cimitero dal campo di battaglia, mettila come terza carta dalla cima del tuo grimorio. 
 Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio finché non esili una carta non terra con costo di mana minore. Puoi lanciare quella carta senza pagare il suo costo di mana. Metti le altre carte esiliate in fondo al tuo grimorio in ordine casuale.)</text>
     <flavorText>
     </flavorText>
@@ -812,7 +811,7 @@ Cascata (Quando lanci questa magia, esilia le carte dalla cima del tuo grimorio 
   <item>
     <id>ARB0107</id>
     <name>Visitatori di Esper</name>
-    <text>Quando cicli i Visitatori di Esper o quando vengono messi in un cimitero dal campo di battaglia, puoi TAPpare o STAPpare un permanente bersaglio.
+    <text>Quando cicli i Visitatori di Esper o quando vengono messi in un cimitero dal campo di battaglia, puoi TAPpare o STAPpare un permanente bersaglio. 
 Ciclo {2}{U} ({2}{U}, Scarta questa carta: Pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -820,14 +819,14 @@ Ciclo {2}{U} ({2}{U}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0108</id>
     <name>Pagina in Eterium</name>
-    <text>All'inizio del tuo mantenimento, scegli uno - Guadagni 2 punti vita; oppure guarda la prima carta del tuo grimorio, poi puoi mettere quella carta nel tuo cimitero; oppure ogni avversario perde 1 punto vita.</text>
+    <text>All'inizio del tuo mantenimento, scegli uno - Guadagni 2 punti vita; oppure guarda la prima carta del tuo grimorio, poi puoi mettere quella carta nel tuo cimitero; oppure ogni avversario perde 1 punto vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ARB0109</id>
     <name>Trio di Sen</name>
-    <text>All'inizio del tuo mantenimento, scegli un avversario bersaglio. In questo turno, quel giocatore non può giocare magie o attivare abilità e gioca con la sua mano rivelata. Puoi giocare le carte dalla mano di quel giocatore in questo turno.</text>
+    <text>3/3. All'inizio del tuo mantenimento, scegli un avversario bersaglio. In questo turno, quel giocatore non può giocare magie o attivare abilità e gioca con la sua mano rivelata. Puoi giocare le carte dalla mano di quel giocatore in questo turno.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -848,7 +847,7 @@ Ciclo {2}{U} ({2}{U}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0112</id>
     <name>Visitatori di Grixis</name>
-    <text>Quando cicli i Visitatori di Grixis o quando vengono messi in un cimitero dal campo di battaglia, puoi esiliare una carta bersaglio da un cimitero.
+    <text>Quando cicli i Visitatori di Grixis o quando vengono messi in un cimitero dal campo di battaglia, puoi esiliare una carta bersaglio da un cimitero. 
 Ciclo {2}{B} ({2}{B}, Scarta questa carta: Pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -856,8 +855,8 @@ Ciclo {2}{B} ({2}{B}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0113</id>
     <name>Thraximundar</name>
-    <text>Rapidità
-Ogniqualvolta Thraximundar attacca, il giocatore in difesa sacrifica una creatura.
+    <text>Rapidità 
+Ogniqualvolta Thraximundar attacca, il giocatore in difesa sacrifica una creatura. 
 Ogniqualvolta un giocatore sacrifica una creatura, puoi mettere un segnalino +1/+1 su Thraximundar.</text>
     <flavorText>
     </flavorText>
@@ -865,8 +864,8 @@ Ogniqualvolta un giocatore sacrifica una creatura, puoi mettere un segnalino +1/
   <item>
     <id>ARB0114</id>
     <name>Ultima Falce, l'Ammazzasovrani</name>
-    <text>La creatura equipaggiata prende +3/+3 e ha attacco improvviso.
-Ogniqualvolta una creatura alla quale la creatura equipaggiata ha inflitto danno in questo turno viene messa in un cimitero, puoi esiliare quella carta. Se lo fai, metti sul campo di battaglia una pedina creatura Zombie 2/2 nera.
+    <text>La creatura equipaggiata prende +3/+3 e ha attacco improvviso. 
+Ogniqualvolta una creatura alla quale la creatura equipaggiata ha inflitto danno in questo turno viene messa in un cimitero, puoi esiliare quella carta. Se lo fai, metti sul campo di battaglia una pedina creatura Zombie 2/2 nera. 
 Equipaggiare {2}</text>
     <flavorText>
     </flavorText>
@@ -874,7 +873,7 @@ Equipaggiare {2}</text>
   <item>
     <id>ARB0115</id>
     <name>Offerta al Drago</name>
-    <text>Salta la tua acquisizione.
+    <text>Salta la tua acquisizione. 
 Ogniqualvolta sacrifichi una creatura, puoi pescare una carta.</text>
     <flavorText>
     </flavorText>
@@ -882,7 +881,7 @@ Ogniqualvolta sacrifichi una creatura, puoi pescare una carta.</text>
   <item>
     <id>ARB0116</id>
     <name>Visitatori di Jund</name>
-    <text>Quando cicli i Visitatori di Jund o quando vengono messi in un cimitero dal campo di battaglia, puoi fare loro infliggere 1 danno a una creatura o a un giocatore bersaglio.
+    <text>Quando cicli i Visitatori di Jund o quando vengono messi in un cimitero dal campo di battaglia, puoi fare loro infliggere 1 danno a una creatura o a un giocatore bersaglio. 
 Ciclo {2}{R} ({2}{R}, Scarta questa carta: Pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -890,8 +889,8 @@ Ciclo {2}{R} ({2}{R}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0117</id>
     <name>Karrthus, Tiranno di Jund</name>
-    <text>Volare, rapidità
-Quando Karrthus, Tiranno di Jund entra nel campo di battaglia, prendi il controllo di tutti i Draghi, poi STAPpa tutti i Draghi.
+    <text>Volare, rapidità 
+Quando Karrthus, Tiranno di Jund entra nel campo di battaglia, prendi il controllo di tutti i Draghi, poi STAPpa tutti i Draghi. 
 Le altre creature Drago che controlli hanno rapidità.</text>
     <flavorText>
     </flavorText>
@@ -927,7 +926,7 @@ Le altre creature Drago che controlli hanno rapidità.</text>
   <item>
     <id>ARB0122</id>
     <name>Visitatori di Naya</name>
-    <text>Quando cicli i Visitatori di Naya o quando vengono messi in un cimitero dal campo di battaglia, puoi mettere un segnalino +1/+1 su una creatura bersaglio.
+    <text>Quando cicli i Visitatori di Naya o quando vengono messi in un cimitero dal campo di battaglia, puoi mettere un segnalino +1/+1 su una creatura bersaglio. 
 Ciclo {2}{G} ({2}{G}, Scarta questa carta: Pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -935,7 +934,7 @@ Ciclo {2}{G} ({2}{G}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0123</id>
     <name>Grifone Vendicativo</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta una fonte controllata da un avversario ti infligge danno, puoi mettere altrettanti segnalini +1/+1 sul Grifone Vendicativo.</text>
     <flavorText>
     </flavorText>
@@ -943,7 +942,7 @@ Ogniqualvolta una fonte controllata da un avversario ti infligge danno, puoi met
   <item>
     <id>ARB0124</id>
     <name>Uril, il Fantasma Nebbioso</name>
-    <text>Uril, il Fantasma Nebbioso non può essere bersaglio di magie o abilità controllate dai tuoi avversari.
+    <text>Uril, il Fantasma Nebbioso non può essere bersaglio di magie o abilità controllate dai tuoi avversari. 
 Uril prende +2/+2 per ogni Aura ad esso assegnata.</text>
     <flavorText>
     </flavorText>
@@ -951,7 +950,7 @@ Uril prende +2/+2 per ogni Aura ad esso assegnata.</text>
   <item>
     <id>ARB0125</id>
     <name>Visitatori di Bant</name>
-    <text>Quando cicli i Visitatori di Bant o quando vengono messi in un cimitero dal campo di battaglia, puoi mettere sul campo di battaglia una pedina creatura Soldato 1/1 bianca.
+    <text>Quando cicli i Visitatori di Bant o quando vengono messi in un cimitero dal campo di battaglia, puoi mettere sul campo di battaglia una pedina creatura Soldato 1/1 bianca. 
 Ciclo {2}{W} ({2}{W}, Scarta questa carta: Pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -959,7 +958,7 @@ Ciclo {2}{W} ({2}{W}, Scarta questa carta: Pesca una carta.)</text>
   <item>
     <id>ARB0126</id>
     <name>Momento di Gloria</name>
-    <text>Esaltato (Ogniqualvolta una creatura che controlli attacca da sola, prende +1/+1 fino alla fine del turno.)
+    <text>Esaltato (Ogniqualvolta una creatura che controlli attacca da sola, prende +1/+1 fino alla fine del turno.) 
 Ogniqualvolta una creatura che controlli attacca da sola, se è la prima fase di combattimento del turno, STAPpa quella creatura. Dopo questa fase, c'è una fase di combattimento addizionale.</text>
     <flavorText>
     </flavorText>
@@ -974,7 +973,7 @@ Ogniqualvolta una creatura che controlli attacca da sola, se è la prima fase di
   <item>
     <id>ARB0128</id>
     <name>Jenara, Asura della Guerra</name>
-    <text>Volare
+    <text>Volare 
 {1}{W}: Metti un segnalino +1/+1 su Jenara, Asura della Guerra.</text>
     <flavorText>
     </flavorText>
@@ -1017,7 +1016,7 @@ Ogniqualvolta una creatura che controlli attacca da sola, se è la prima fase di
   <item>
     <id>ARB0134</id>
     <name>Lama Oscura di Grixis</name>
-    <text>Fintanto che controlli un altro permanente multicolore, la Lama Oscura di Grixis prende +1/+1 e ha tocco letale.</text>
+    <text>Fintanto che controlli un altro permanente multicolore, la Lama Oscura di Grixis prende +1/+1 e ha tocco letale. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1038,7 +1037,7 @@ Ogniqualvolta una creatura che controlli attacca da sola, se è la prima fase di
   <item>
     <id>ARB0137</id>
     <name>Scarafaggio Gigante in Agguato</name>
-    <text>Rapidità
+    <text>Rapidità 
 Quando lo Scarafaggio Gigante in Agguato entra nel campo di battaglia, puoi farlo bloccare da una creatura bersaglio in questo turno, se può farlo.</text>
     <flavorText>
     </flavorText>
@@ -1053,7 +1052,7 @@ Quando lo Scarafaggio Gigante in Agguato entra nel campo di battaglia, puoi farl
   <item>
     <id>ARB0139</id>
     <name>Contraccolpo di Sangrite</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +3/-3.</text>
     <flavorText>
     </flavorText>
@@ -1075,8 +1074,8 @@ La creatura incantata prende +3/-3.</text>
   <item>
     <id>ARB0142</id>
     <name>Tracce di Abbondanza</name>
-    <text>Incanta terra
-La terra incantata ha velo. (Non può essere bersaglio di magie o abilità.)
+    <text>Incanta terra 
+La terra incantata ha velo. (Non può essere bersaglio di magie o abilità.) 
 Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo controllore aggiunge un mana di qualsiasi colore alla sua riserva di mana (in aggiunta al mana prodotto dalla terra incantata).</text>
     <flavorText>
     </flavorText>
@@ -1084,15 +1083,15 @@ Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo contro
   <item>
     <id>ARB0143</id>
     <name>Lama Sicura di Bant</name>
-    <text>Fintanto che controlli un altro permanente multicolore, la Lama Sicura di Bant prende +1/+1 e ha attacco improvviso.</text>
+    <text>Fintanto che controlli un altro permanente multicolore, la Lama Sicura di Bant prende +1/+1 e ha attacco improvviso. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ARB0144</id>
     <name>Cristallizzazione</name>
-    <text>Incanta creatura
-La creatura incantata non può attaccare o bloccare.
+    <text>Incanta creatura 
+La creatura incantata non può attaccare o bloccare. 
 Quando la creatura incantata diventa bersaglio di una magia o di un'abilità, esilia quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -1100,7 +1099,7 @@ Quando la creatura incantata diventa bersaglio di una magia o di un'abilità, es
   <item>
     <id>ARB0145</id>
     <name>Falconi Messaggeri</name>
-    <text>Volare
+    <text>Volare 
 Quando i Falconi Messaggeri entrano nel campo di battaglia, pesca una carta.</text>
     <flavorText>
     </flavorText>

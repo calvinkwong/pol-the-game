@@ -36,7 +36,6 @@
       this.btnStartSolitaire = new RibbonStyle.RibbonMenuButton();
       this.lblCurrentGame = new RibbonStyle.RibbonMenuButton();
       this.btnChat = new RibbonStyle.RibbonMenuButton();
-      this.btnConnectServer = new RibbonStyle.RibbonMenuButton();
       this.SuspendLayout();
       // 
       // btnQuit
@@ -61,7 +60,7 @@
       this.btnQuit.ImageOffset = 10;
       this.btnQuit.IsPressed = false;
       this.btnQuit.KeepPress = false;
-      this.btnQuit.Location = new System.Drawing.Point(7, 505);
+      this.btnQuit.Location = new System.Drawing.Point(7, 441);
       this.btnQuit.MaxImageSize = new System.Drawing.Point(0, 32);
       this.btnQuit.MenuPos = new System.Drawing.Point(0, 0);
       this.btnQuit.Name = "btnQuit";
@@ -96,7 +95,7 @@
       this.btnOptions.ImageOffset = 10;
       this.btnOptions.IsPressed = false;
       this.btnOptions.KeepPress = false;
-      this.btnOptions.Location = new System.Drawing.Point(7, 442);
+      this.btnOptions.Location = new System.Drawing.Point(7, 378);
       this.btnOptions.MaxImageSize = new System.Drawing.Point(0, 32);
       this.btnOptions.MenuPos = new System.Drawing.Point(0, 0);
       this.btnOptions.Name = "btnOptions";
@@ -131,7 +130,7 @@
       this.btnDeckEditor.ImageOffset = 10;
       this.btnDeckEditor.IsPressed = false;
       this.btnDeckEditor.KeepPress = false;
-      this.btnDeckEditor.Location = new System.Drawing.Point(7, 379);
+      this.btnDeckEditor.Location = new System.Drawing.Point(7, 315);
       this.btnDeckEditor.MaxImageSize = new System.Drawing.Point(0, 32);
       this.btnDeckEditor.MenuPos = new System.Drawing.Point(0, 0);
       this.btnDeckEditor.Name = "btnDeckEditor";
@@ -307,7 +306,7 @@
       this.btnChat.ImageOffset = 10;
       this.btnChat.IsPressed = false;
       this.btnChat.KeepPress = false;
-      this.btnChat.Location = new System.Drawing.Point(7, 316);
+      this.btnChat.Location = new System.Drawing.Point(7, 252);
       this.btnChat.MaxImageSize = new System.Drawing.Point(0, 32);
       this.btnChat.MenuPos = new System.Drawing.Point(0, 0);
       this.btnChat.Name = "btnChat";
@@ -321,48 +320,12 @@
       this.btnChat.Title = "Chat";
       this.btnChat.UseVisualStyleBackColor = true;
       // 
-      // btnConnectServer
-      // 
-      this.btnConnectServer.Arrow = RibbonStyle.RibbonMenuButton.e_arrow.None;
-      this.btnConnectServer.BackColor = System.Drawing.Color.Transparent;
-      this.btnConnectServer.ColorBase = System.Drawing.Color.FromArgb(((int)(((byte)(186)))), ((int)(((byte)(209)))), ((int)(((byte)(240)))));
-      this.btnConnectServer.ColorBaseStroke = System.Drawing.Color.FromArgb(((int)(((byte)(100)))), ((int)(((byte)(59)))), ((int)(((byte)(66)))), ((int)(((byte)(76)))));
-      this.btnConnectServer.ColorOn = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(214)))), ((int)(((byte)(78)))));
-      this.btnConnectServer.ColorOnStroke = System.Drawing.Color.FromArgb(((int)(((byte)(196)))), ((int)(((byte)(177)))), ((int)(((byte)(118)))));
-      this.btnConnectServer.ColorPress = System.Drawing.Color.FromArgb(((int)(((byte)(255)))), ((int)(((byte)(128)))), ((int)(((byte)(0)))));
-      this.btnConnectServer.ColorPressStroke = System.Drawing.Color.FromArgb(((int)(((byte)(128)))), ((int)(((byte)(64)))), ((int)(((byte)(0)))));
-      this.btnConnectServer.FadingSpeed = 20;
-      this.btnConnectServer.FlatAppearance.BorderSize = 0;
-      this.btnConnectServer.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
-      this.btnConnectServer.Font = new System.Drawing.Font("Segoe UI", 9F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
-      this.btnConnectServer.ForeColor = System.Drawing.Color.DarkBlue;
-      this.btnConnectServer.GroupPos = RibbonStyle.RibbonMenuButton.e_groupPos.Center;
-      this.btnConnectServer.Image = global::PoL.WinFormsView.Properties.Resources.emblem_web1;
-      this.btnConnectServer.ImageLocation = RibbonStyle.RibbonMenuButton.e_imagelocation.Left;
-      this.btnConnectServer.ImageOffset = 10;
-      this.btnConnectServer.IsPressed = false;
-      this.btnConnectServer.KeepPress = false;
-      this.btnConnectServer.Location = new System.Drawing.Point(6, 253);
-      this.btnConnectServer.MaxImageSize = new System.Drawing.Point(0, 32);
-      this.btnConnectServer.MenuPos = new System.Drawing.Point(0, 0);
-      this.btnConnectServer.Name = "btnConnectServer";
-      this.btnConnectServer.Radius = 0;
-      this.btnConnectServer.ShowBase = RibbonStyle.RibbonMenuButton.e_showbase.Yes;
-      this.btnConnectServer.Size = new System.Drawing.Size(296, 57);
-      this.btnConnectServer.SplitButton = RibbonStyle.RibbonMenuButton.e_splitbutton.No;
-      this.btnConnectServer.SplitDistance = 30;
-      this.btnConnectServer.TabIndex = 77;
-      this.btnConnectServer.Text = "Description";
-      this.btnConnectServer.Title = "Connect to Server";
-      this.btnConnectServer.UseVisualStyleBackColor = true;
-      // 
       // MainMenu
       // 
       this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.None;
       this.BackColor = System.Drawing.SystemColors.Control;
       this.CancelButton = this.btnQuit;
-      this.ClientSize = new System.Drawing.Size(308, 572);
-      this.Controls.Add(this.btnConnectServer);
+      this.ClientSize = new System.Drawing.Size(308, 504);
       this.Controls.Add(this.btnChat);
       this.Controls.Add(this.lblCurrentGame);
       this.Controls.Add(this.btnQuit);
@@ -390,7 +353,6 @@
     private RibbonStyle.RibbonMenuButton btnStartSolitaire;
     private RibbonStyle.RibbonMenuButton lblCurrentGame;
     private RibbonStyle.RibbonMenuButton btnChat;
-    private RibbonStyle.RibbonMenuButton btnConnectServer;
 
   }
 }

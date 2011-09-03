@@ -1,1776 +1,1772 @@
 <cards name="Cicatrici di Mirrodin">
   <item>
     <id>SOM0001</id>
-    <name>Accolito Abuna</name>
-    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.
-	{T}: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura artefatto bersaglio in questo turno."</text>
-	<flavorText>
-	</flavorText>
+    <name>Abuna Acolyte</name>
+    <text>{T}: Prevent the next 1 damage that would be dealt to target creature or player this turn.
+{T}: Prevent the next 2 damage that would be dealt to target artifact creature this turn.</text>
+    <flavorText>"You can break nothing I cannot mend."</flavorText>
   </item>
   <item>
     <id>SOM0002</id>
-    <name>Arrestare</name>
-    <text>Incanta creatura 
-	La creatura incantata non può attaccare o bloccare e le sue abilità attivate non possono essere attivate.</text>
+    <name>Arrest</name>
+    <text>Enchant creature
+Enchanted creature can't attack or block, and its activated abilities can't be activated.</text>
     <flavorText>Bladehold houses a rogues' gallery filled with the living "statues" of the worst enemies of the Auriok.</flavorText>
   </item>
   <item>
     <id>SOM0003</id>
-    <name>Forgialama Auriok</name>
-    <text>Metallurgia - Il Forgialama Auriok ha doppio attacco fintanto che controlli tre o più artefatti.</text>
+    <name>Auriok Edgewright</name>
+    <text>Metalcraft — Auriok Edgewright has double strike as long as you control three or more artifacts.</text>
     <flavorText>Auriok soldiers craft their own weapons, forging a connection to the steel with each blow of the hammer.</flavorText>
   </item>
   <item>
     <id>SOM0004</id>
-    <name>Cacciasole Auriok</name>
-    <text>Metallurgia - Fintanto che controlli tre o più artefatti, la Cacciasole Auriok prende +2/+2 e ha volare.</text>
+    <name>Auriok Sunchaser</name>
+    <text>Metalcraft — As long as you control three or more artifacts, Auriok Sunchaser gets +2/+2 and has flying.</text>
     <flavorText>"Grant me loft. Grant me light. Grant me the accuracy I need to kill all who threaten Bladehold."
-	—Prayer to the Whitesun</flavorText>
+—Prayer to the Whitesun</flavorText>
   </item>
   <item>
     <id>SOM0005</id>
-    <name>Dispensare Giustizia</name>
-    <text>Un giocatore bersaglio sacrifica una creatura attaccante.
-	Metallurgia - Quel giocatore sacrifica invece due creature attaccanti se controlli tre o più artefatti.</text>
+    <name>Dispense Justice</name>
+    <text>Target player sacrifices an attacking creature.
+Metalcraft — That player sacrifices two attacking creatures instead if you control three or more artifacts.</text>
     <flavorText>The Accorders never strike first, but they always strike back.</flavorText>
   </item>
   <item>
     <id>SOM0006</id>
     <name>Elspeth Tirel</name>
-    <text>+2: Guadagni 1 punto vita per ogni creatura che controlli.
-	-2: Metti sul campo di battaglia tre pedine creatura Soldato 1/1 bianche.
-	-5: Distruggi tutti gli altri permanenti tranne che le terre e le pedine.
-	</text>
+    <text>+2: You gain 1 life for each creature you control.
+-2: Put three 1/1 white Soldier creature tokens onto the battlefield.
+-5: Destroy all other permanents except
+for lands and tokens.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0007</id>
-    <name>Distrazione Splendente</name>
-    <text>Scegli due creature bersaglio. TAPpa quelle creature, poi togli da esse tutti gli Equipaggiamenti.</text>
+    <name>Fulgent Distraction</name>
+    <text>Choose two target creatures. Tap those creatures, then unattach all Equipment from them.</text>
     <flavorText>"Channeling the white-hot power of all five suns creates a pretty good diversion."
-	—Yavash of the Accorders</flavorText>
+—Yavash of the Accorders</flavorText>
   </item>
   <item>
     <id>SOM0008</id>
-    <name>Custode di Ghalma</name>
-    <text>Metallurgia - Il Custode di Ghalma prende +2/+2 fintanto che controlli tre o più artefatti.</text>
+    <name>Ghalma's Warden</name>
+    <text>Metalcraft — Ghalma's Warden gets +2/+2 as long as you control three or more artifacts.</text>
     <flavorText>A special unit guards the loxodon artificer known as Ghalma the Shaper. They are armed and armored in her finest works of silver and steel.</flavorText>
   </item>
   <item>
     <id>SOM0009</id>
-    <name>Cervo Scintillante</name>
-    <text>Cautela
-	Quando il Cervo Scintillante entra nel campo di battaglia, esilia un altro permanente bersaglio. Rimetti sul campo di battaglia quella carta sotto il controllo del suo proprietario all'inizio della prossima sottofase finale.</text>
+    <name>Glimmerpoint Stag</name>
+    <text>Vigilance
+When Glimmerpoint Stag enters the battlefield, exile another target permanent. Return that card to the battlefield under its owner's control at the beginning of the next end step.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0010</id>
-    <name>Falco Luccicante</name>
-    <text>Volare
-	Quando il Falco Luccicante entra nel campo di battaglia, sacrificalo a meno che tu non faccia tornare un artefatto che controlli in mano al suo proprietario.</text>
+    <name>Glint Hawk</name>
+    <text>Flying
+When Glint Hawk enters the battlefield, sacrifice it unless you return an artifact you control to its owner's hand.</text>
     <flavorText>Its eyes burned nearly blind by the Whitesun, it hunts by metallic gleam.</flavorText>
   </item>
   <item>
     <id>SOM0011</id>
-    <name>Arcangelo Indomabile</name>
-    <text>Volare
-	Metallurgia — Gli artefatti che controlli hanno velo fintanto che controlli tre o più artefatti.</text>
+    <name>Indomitable Archangel</name>
+    <text>Flying
+Metalcraft — Artifacts you control have shroud as long as you control three or more artifacts.</text>
     <flavorText>"Every sword drawn to defend is an angelic blade, guided to justice by an angelic hand."
-	—Auriok proverb</flavorText>
+—Auriok proverb</flavorText>
   </item>
   <item>
     <id>SOM0012</id>
-    <name>Kemba, Kha Reggente</name>
-    <text>All'inizio del tuo mantenimento, metti sul campo di battaglia una pedina creatura Felino 2/2 bianca per ogni Equipaggiamento assegnato a Kemba, Kha Reggente.</text>
+    <name>Kemba, Kha Regent</name>
+    <text>At the beginning of your upkeep, put a 2/2 white Cat creature token onto the battlefield for each Equipment attached to Kemba, Kha Regent.</text>
     <flavorText>"I am not Raksha. I never will be. But I refuse to be the kha who watched her pride be torn asunder."</flavorText>
   </item>
   <item>
     <id>SOM0013</id>
-    <name>Guardia Celeste di Kemba</name>
-    <text>Volare
-	Quando la Guardia Celeste di Kemba entra nel campo di battaglia, guadagni 2 punti vita.</text>
+    <name>Kemba's Skyguard</name>
+    <text>Flying
+When Kemba's Skyguard enters the battlefield, you gain 2 life.</text>
     <flavorText>"We're now to dispense aid to any Mirran we see battling anything . . . ‘strange.' Regent's orders."
-	—Ranya, skyhunter captain</flavorText>
+—Ranya, skyhunter captain</flavorText>
   </item>
   <item>
     <id>SOM0014</id>
-    <name>Giudice Leonid</name>
-    <text>I giocatori non possono passare in rassegna i grimori. Qualsiasi giocatore può pagare {2} per ignorare questo effetto fino alla fine del turno.</text>
+    <name>Leonin Arbiter</name>
+    <text>Players can't search libraries. Any player may pay {2} for that player to ignore this effect until end of turn.</text>
     <flavorText>"Our people are torn by infighting. Until the two sides reconcile, our laws can carry no meaning."</flavorText>
   </item>
   <item>
     <id>SOM0015</id>
-    <name>Viaggiatore Lossodonte</name>
+    <name>Loxodon Wayfarer</name>
     <text>
     </text>
     <flavorText>The Mirran elders vanished with Memnarch, leaving behind a generation of wayward orphans.</flavorText>
   </item>
   <item>
     <id>SOM0016</id>
-    <name>Plasmamyr</name>
-    <text>Ogniqualvolta lanci una magia artefatto, puoi pagare {1}. Se lo fai, metti sul campo di battaglia una pedina creatura artefatto Myr 1/1 incolore.</text>
+    <name>Myrsmith</name>
+    <text>Whenever you cast an artifact spell, you may pay {1}. If you do, put a 1/1 colorless Myr artifact creature token onto the battlefield.</text>
     <flavorText>The Auriok see the artificer as a conduit, beckoning new creations into the world.</flavorText>
   </item>
   <item>
     <id>SOM0017</id>
-    <name>Ippogrifo Tagliente</name>
-    <text>Volare
-	Quando l'Ippogrifo Tagliente entra nel campo di battaglia, riprendi in mano una carta artefatto bersaglio dal tuo cimitero. Guadagni punti vita pari al costo di mana convertito di quella carta.</text>
+    <name>Razor Hippogriff</name>
+    <text>Flying
+When Razor Hippogriff enters the battlefield, return target artifact card from your graveyard to your hand. You gain life equal to that card's converted mana cost.</text>
     <flavorText>She incubates her eggs in gold and mana.</flavorText>
   </item>
   <item>
     <id>SOM0018</id>
-    <name>Revocare Esistenza</name>
-    <text>Esilia un artefatto o un incantesimo bersaglio.</text>
+    <name>Revoke Existence</name>
+    <text>Exile target artifact or enchantment.</text>
     <flavorText>"No half measures, no regrets. We'll tell no stories of this day. It will be as if it never existed at all."
-	—Ganedor, loxodon mystic</flavorText>
+—Ganedor, loxodon mystic</flavorText>
   </item>
   <item>
     <id>SOM0019</id>
-    <name>Esploratore di Salvataggio</name>
-    <text>{W}, Sacrifica l'Esploratore di Salvataggio: Riprendi in mano una carta artefatto bersaglio dal tuo cimitero.</text>
+    <name>Salvage Scout</name>
+    <text>{W}, Sacrifice Salvage Scout: Return target artifact card from your graveyard to your hand.</text>
     <flavorText>"I'm not saying it's dangerous work. I'm just saying don't sign up if you have plans for your seventieth birthday."</flavorText>
   </item>
   <item>
     <id>SOM0020</id>
-    <name>Prendere l'Iniziativa</name>
-    <text>Una creatura bersaglio prende +1/+1 e ha attacco improvviso fino alla fine del turno.</text>
+    <name>Seize the Initiative</name>
+    <text>Target creature gets +1/+1 and gains first strike until end of turn.</text>
     <flavorText>The time between spotting a leonin shikari and feeling its claws is just time enough to draw your last breath.</flavorText>
   </item>
   <item>
     <id>SOM0021</id>
-    <name>Parata Spirituale</name>
-    <text>Previeni tutto il danno che una o due creature bersaglio infliggerebbero in questo turno.</text>
+    <name>Soul Parry</name>
+    <text>Prevent all damage one or two target creatures would deal this turn.</text>
     <flavorText>"I was called to this world of steel, and it will be my steel that answers."
-	—Elspeth Tirel</flavorText>
+—Elspeth Tirel</flavorText>
   </item>
   <item>
     <id>SOM0022</id>
-    <name>Angelo dell'Esplosione Solare</name>
-    <text>Volare
-	Quando l'Angelo dell'Esplosione Solare entra nel campo di battaglia, distruggi tutte le creature TAPpate.</text>
+    <name>Sunblast Angel</name>
+    <text>Flying
+When Sunblast Angel enters the battlefield, destroy all tapped creatures.</text>
     <flavorText>There may exist powers even greater than Phyrexia.</flavorText>
   </item>
   <item>
     <id>SOM0023</id>
-    <name>Shikari della Lancia Solare</name>
-    <text>Fintanto che la Shikari della Lancia Solare è equipaggiata, ha attacco improvviso e legame vitale.</text>
+    <name>Sunspear Shikari</name>
+    <text>As long as Sunspear Shikari is equipped, it has first strike and lifelink.</text>
     <flavorText>Left without their leader Raksha, the leonin split into two prides: one side supported the regent kha, while the other rebelled in fury.</flavorText>
   </item>
   <item>
     <id>SOM0024</id>
-    <name>Acciaio Temprato</name>
-    <text>Le creature artefatto che controlli prendono +2/+2.</text>
+    <name>Tempered Steel</name>
+    <text>Artifact creatures you control get +2/+2.</text>
     <flavorText>"Death shall prevail as long as our will falls to rust. May necessity anneal our resolve."
-	—Ghalma the Shaper</flavorText>
+—Ghalma the Shaper</flavorText>
   </item>
   <item>
     <id>SOM0025</id>
-    <name>Vera Convinzione</name>
-    <text>Le creature che controlli hanno doppio attacco e legame vitale.</text>
+    <name>True Conviction</name>
+    <text>Creatures you control have double strike and lifelink.</text>
     <flavorText>Dozens of spells known only to the Auriok elders were lost, but the next generation, galvanized by war, devised even more potent magic.</flavorText>
   </item>
   <item>
     <id>SOM0026</id>
-    <name>Veglia per i Caduti</name>
-    <text>Ogniqualvolta una creatura che controlli viene messa in un cimitero dal campo di battaglia, puoi pagare {X}. Se lo fai, guadagni X punti vita.</text>
+    <name>Vigil for the Lost</name>
+    <text>Whenever a creature you control is put into a graveyard from the battlefield, you may pay {X}. If you do, you gain X life.</text>
     <flavorText>"As she grew cold in my arms, I swore an oath that her funeral pyre would be dwarfed by a bonfire of our enemies."</flavorText>
   </item>
   <item>
     <id>SOM0027</id>
-    <name>Passaggio di Solebianco</name>
-    <text>Guadagni 5 punti vita.</text>
+    <name>Whitesun's Passage</name>
+    <text>You gain 5 life.</text>
     <flavorText>All over the Razor Fields, Whitesun is celebrated. Even the followers of the rebel Juryan, far from the Cave of Light, bow their heads in reverence.</flavorText>
   </item>
   <item>
     <id>SOM0028</id>
-    <name>Sfinge Argentea</name>
-    <text>Volare
-	Metallurgia - {U}: Esilia la Sfinge Argentea. Rimettila sul campo di battaglia sotto il tuo controllo all'inizio della prossima sottofase finale. Attiva questa abilità solo se controlli tre o più artefatti.</text>
+    <name>Argent Sphinx</name>
+    <text>Flying
+Metalcraft — {U}: Exile Argent Sphinx. Return it to the battlefield under your control at the beginning of the next end step. Activate this ability only if you control three or more artifacts.</text>
     <flavorText>A great mirage, a dream of wings and silver.</flavorText>
   </item>
   <item>
     <id>SOM0029</id>
-    <name>Vincoli del Mare di Mercurio</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-	Incanta creatura
-	La creatura incantata non STAPpa durante lo STAP del suo controllore.</text>
+    <name>Bonds of Quicksilver</name>
+    <text>Flash (You may cast this spell any time you could cast an instant.)
+Enchant creature
+Enchanted creature doesn't untap during its controller's untap step.</text>
     <flavorText>The sea's reach extends beyond its shores.</flavorText>
   </item>
   <item>
     <id>SOM0030</id>
-    <name>Draghetto di Macchianera</name>
-    <text>Volare
-	Quando il Draghetto di Macchianera viene messo in un cimitero dal campo di battaglia, pesca una carta.</text>
-    <flavorText>At the edge of the Mephidross, Phyrexia's influence seeps into life and terra.</flavorText>
+    <name>Darkslick Drake</name>
+    <text>Flying
+When Darkslick Drake is put into a graveyard from the battlefield, draw a card.</text>
+    <flavorText>At the edge of the Mephidross, Phyrexia's influence seeps into life and land.</flavorText>
   </item>
   <item>
     <id>SOM0031</id>
-    <name>Disperdere</name>
-    <text>Fai tornare un permanente non terra bersaglio in mano al suo proprietario.</text>
+    <name>Disperse</name>
+    <text>Return target nonland permanent to its owner's hand.</text>
     <flavorText>Most casualties of the power struggle between vedalken and Neurok didn't die on the field of battle; they merely disappeared.</flavorText>
   </item>
   <item>
     <id>SOM0032</id>
-    <name>Campo di Dispersione</name>
-    <text>Ogniqualvolta un permanente ti infligge danno, fallo tornare in mano al suo proprietario.</text>
+    <name>Dissipation Field</name>
+    <text>Whenever a permanent deals damage to you, return it to its owner's hand.</text>
     <flavorText>"Strike me once, shame on you. Strike me twice . . . Well, let's just see if you can."
 —Kara Vrist, Neurok agent</flavorText>
   </item>
   <item>
     <id>SOM0033</id>
-    <name>Grande Architetto</name>
-    <text>Le altre creature blu che controlli prendono +1/+1.
-	{U}: Una creatura artefatto bersaglio diventa blu fino alla fine del turno.
-	TAPpa una creatura blu STAPpata che controlli: Aggiungi {2} alla tua riserva di mana. Spendi questo mana solo per lanciare magie artefatto o attivare abilità di artefatti.</text>
+    <name>Grand Architect</name>
+    <text>Other blue creatures you control get +1/+1.
+{U}: Target artifact creature becomes blue until end of turn.
+Tap an untapped blue creature you control: Add {2} to your mana pool. Spend this mana only to cast artifact spells or activate abilities of artifacts.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0034</id>
-    <name>Ordine d'Arresto</name>
-    <text>Neutralizza una magia artefatto bersaglio.
-	Pesca una carta.</text>
+    <name>Halt Order</name>
+    <text>Counter target artifact spell.
+Draw a card.</text>
     <flavorText>An artificer's least favorite mind-missive may be "I regret to inform you that the funding for your project has been cut."</flavorText>
   </item>
   <item>
     <id>SOM0035</id>
-    <name>Marea Inesorabile</name>
-    <text>Ogniqualvolta lanci una magia, proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <name>Inexorable Tide</name>
+    <text>Whenever you cast a spell, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</text>
     <flavorText>"See how gratefully this world accepts our blessings."
-	—Jin-Gitaxias, Core Augur</flavorText>
+—Jin-Gitaxias, Core Augur</flavorText>
   </item>
   <item>
     <id>SOM0036</id>
-    <name>Draghetto del Lumengrid</name>
-    <text>Volare
-	Metallurgia - Quando il Draghetto del Lumengrid entra nel campo di battaglia, se controlli tre o più artefatti, fai tornare una creatura bersaglio in mano al suo proprietario.</text>
+    <name>Lumengrid Drake</name>
+    <text>Flying
+Metalcraft — When Lumengrid Drake enters the battlefield, if you control three or more artifacts, return target creature to its owner's hand.</text>
     <flavorText>Properly outfitted, drakes made perfect sentries for vedalken strongholds.</flavorText>
   </item>
   <item>
     <id>SOM0037</id>
-    <name>Invisimante Neurok</name>
-    <text>L'Invisimante Neurok non può essere bloccato.
-	Quando l'Invisimante Neurok entra nel campo di battaglia, una creatura bersaglio non può essere bloccata in questo turno.</text>
+    <name>Neurok Invisimancer</name>
+    <text>Neurok Invisimancer is unblockable.
+When Neurok Invisimancer enters the battlefield, target creature is unblockable this turn.</text>
     <flavorText>"They won't see your shadow or hear your breath, but they will feel your blade."</flavorText>
   </item>
   <item>
     <id>SOM0038</id>
-    <name>Solcamari Corazzato</name>
+    <name>Plated Seastrider</name>
     <text>
     </text>
     <flavorText>The Neurok buried entangling cables just under the Quicksilver Sea. One seastrider harvest can provide an army's worth of armor and shields.</flavorText>
   </item>
   <item>
     <id>SOM0039</id>
-    <name>Mastodonte del Mare di Mercurio</name>
-    <text>Puoi far entrare il Mastodonte del Mare di Mercurio nel campo di battaglia come una copia di qualsiasi creatura sul campo di battaglia, tranne che è ancora 7/7.</text>
+    <name>Quicksilver Gargantuan</name>
+    <text>You may have Quicksilver Gargantuan enter the battlefield as a copy of any creature on the battlefield, except it's still 7/7.</text>
     <flavorText>"You know you have achieved true power if the sea itself seeks to emulate your greatness."
-	—Vy Covalt, Neurok agent</flavorText>
+—Vy Covalt, Neurok agent</flavorText>
   </item>
   <item>
     <id>SOM0040</id>
-    <name>Plasmaindovinelli</name>
-    <text>Ogniqualvolta lanci una magia artefatto, puoi pescare una carta. Se lo fai, scarta una carta.</text>
+    <name>Riddlesmith</name>
+    <text>Whenever you cast an artifact spell, you may draw a card. If you do, discard a card.</text>
     <flavorText>The Neurok see the artificer as an archaeologist, clearing away falsehoods to see the truth hidden beneath.</flavorText>
   </item>
   <item>
     <id>SOM0041</id>
-    <name>Serpe Affondarottami</name>
-    <text>La Serpe Affondarottami non può essere bloccata fintanto che il giocatore in difesa controlla un artefatto.</text>
+    <name>Scrapdiver Serpent</name>
+    <text>Scrapdiver Serpent is unblockable as long as defending player controls an artifact.</text>
     <flavorText>Smart artificers clean up after themselves.</flavorText>
   </item>
   <item>
     <id>SOM0042</id>
-    <name>Silcaw Stridulo</name>
-    <text>Volare
-	Metallurgia - Ogniqualvolta il Silcaw Stridulo infligge danno da combattimento a un giocatore, se controlli tre o più artefatti, quel giocatore mette le prime quattro carte del suo grimorio nel suo cimitero.</text>
+    <name>Screeching Silcaw</name>
+    <text>Flying
+Metalcraft — Whenever Screeching Silcaw deals combat damage to a player, if you control three or more artifacts, that player puts the top four cards of his or her library into his or her graveyard.</text>
     <flavorText>It's adaptively deaf to its own cries.</flavorText>
   </item>
   <item>
     <id>SOM0043</id>
-    <name>Riplasmare</name>
-    <text>Il controllore di un artefatto bersaglio lo sacrifica, poi rivela carte dalla cima del suo grimorio fino a che non rivela una carta artefatto. Il giocatore mette quella carta sul campo di battaglia, poi rimescola tutte le altre carte rivelate in questo modo nel suo grimorio.</text>
+    <name>Shape Anew</name>
+    <text>The controller of target artifact sacrifices it, then reveals cards from the top of his or her library until he or she reveals an artifact card. That player puts that card onto the battlefield, then shuffles all other cards revealed this way into his or her library.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0044</id>
-    <name>Banco di Anguille Volanti</name>
-    <text>Volare
-	Quando il Banco di Anguille Volanti entra nel campo di battaglia, pesca una carta, poi scarta una carta.</text>
+    <name>Sky-Eel School</name>
+    <text>Flying
+When Sky-Eel School enters the battlefield, draw a card, then discard a card.</text>
     <flavorText>They swim on tides few can see, away from a threat few yet understand.</flavorText>
   </item>
   <item>
     <id>SOM0045</id>
-    <name>Progresso Stabile</name>
-    <text>Proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)
-	Pesca una carta.</text>
+    <name>Steady Progress</name>
+    <text>Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)
+Draw a card.</text>
     <flavorText>"More of that strange oil . . . It's probably nothing."</flavorText>
   </item>
   <item>
     <id>SOM0046</id>
-    <name>Rifiuto Stoico</name>
-    <text>Metallurgia - Il Rifiuto Stoico costa {1} in meno per essere lanciato se controlli tre o più artefatti.
-	Neutralizza una magia bersaglio.</text>
+    <name>Stoic Rebuttal</name>
+    <text>Metalcraft — Stoic Rebuttal costs {1} less to cast if you control three or more artifacts.
+Counter target spell.</text>
     <flavorText>Obsessed with the pursuit of knowledge above all else, vedalken can appear to be cold and emotionless.</flavorText>
   </item>
   <item>
     <id>SOM0047</id>
-    <name>Strimpellibrì</name>
-    <text>Volare
-	Ogniqualvolta lo Strimpellibrì infligge danno da combattimento a un giocatore, proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <name>Thrummingbird</name>
+    <text>Flying
+Whenever Thrummingbird deals combat damage to a player, proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0048</id>
-    <name>Mago dei Gingilli</name>
-    <text>Quando il Mago dei Gingilli entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta artefatto con costo di mana convertito pari o inferiore a 1, rivelarla e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.</text>
+    <name>Trinket Mage</name>
+    <text>When Trinket Mage enters the battlefield, you may search your library for an artifact card with converted mana cost 1 or less, reveal that card, and put it into your hand. If you do, shuffle your library.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0049</id>
-    <name>Scansare</name>
-    <text>Neutralizza una magia bersaglio che bersaglia un permanente che controlli.</text>
+    <name>Turn Aside</name>
+    <text>Counter target spell that targets a permanent you control.</text>
     <flavorText>"It's not my job to ask our leaders about their experiments at the Knowledge Pool. It's my job to make sure they can continue performing them."</flavorText>
   </item>
   <item>
     <id>SOM0050</id>
-    <name>Immagine Distorta</name>
-    <text>Scambia la forza e la costituzione di una creatura bersaglio fino alla fine del turno.
-	Pesca una carta.</text>
+    <name>Twisted Image</name>
+    <text>Switch target creature's power and toughness until end of turn.
+Draw a card.</text>
     <flavorText>"True strength is in the mind, for the body is too malleable a form."
-	—Politus, vedalken emisar</flavorText>
+—Politus, vedalken emisar</flavorText>
   </item>
   <item>
     <id>SOM0051</id>
-    <name>Volteggiare</name>
-    <text>Una creatura bersaglio ha volare fino alla fine del turno. STAPpala.</text>
+    <name>Vault Skyward</name>
+    <text>Target creature gains flying until end of turn. Untap it.</text>
     <flavorText>"The edges of the Quicksilver Sea run dark with the spread of the Mephidross. Two more aerial passes before I can be sure what I'm seeing . . ."
-	—Lafarius, Neurok sky agent</flavorText>
+—Lafarius, Neurok sky agent</flavorText>
   </item>
   <item>
     <id>SOM0052</id>
-    <name>Certarca Vedalken</name>
-    <text>Metallurgia - {T}: TAPpa un artefatto, una creatura o una terra bersaglio. Attiva questa abilità solo se controlli tre o più artefatti.</text>
+    <name>Vedalken Certarch</name>
+    <text>Metalcraft — {T}: Tap target artifact, creature, or land. Activate this ability only if you control three or more artifacts.</text>
     <flavorText>"An appropriately detailed model is indistinguishable from reality, and much easier to control."</flavorText>
   </item>
   <item>
     <id>SOM0053</id>
-    <name>Redini della Volontà</name>
-    <text>Incanta permanente
-	Quando le Redini della Volontà entrano nel campo di battaglia, se il permanente incantato è TAPpato, STAPpalo.
-	Controlli il permanente incantato.</text>
+    <name>Volition Reins</name>
+    <text>Enchant permanent
+When Volition Reins enters the battlefield, if enchanted permanent is tapped, untap it.
+You control enchanted permanent.</text>
     <flavorText>"Glorifying the will is a mistake. It is simply one more force to be mastered."</flavorText>
   </item>
   <item>
     <id>SOM0054</id>
-    <name>Goblin di Fenditura Nera</name>
-    <text>Rapidità
-	Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <name>Blackcleave Goblin</name>
+    <text>Haste
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
     <flavorText>"Bitten? Save time, amputate now."
-	—Lephar, loxodon surgeon</flavorText>
+—Lephar, loxodon surgeon</flavorText>
   </item>
   <item>
     <id>SOM0055</id>
-    <name>Vampiri della Tetra Congrega</name>
-    <text>Metallurgia - Quando i Vampiri della Tetra Congrega entrano nel campo di battaglia, se controlli tre o più artefatti, un giocatore bersaglio perde 4 punti vita e tu guadagni 4 punti vita.</text>
+    <name>Bleak Coven Vampires</name>
+    <text>Metalcraft — When Bleak Coven Vampires enters the battlefield, if you control three or more artifacts, target player loses 4 life and you gain 4 life.</text>
     <flavorText>As the shadow of the Mephidross spread over the Tangle, the vampires' territory expanded.</flavorText>
   </item>
   <item>
     <id>SOM0056</id>
-    <name>Larva Vescicosa</name>
-    <text>Passa-Paludi
-	Quando la Larva Vescicosa viene messa in un cimitero dal campo di battaglia, ogni avversario perde 2 punti vita.</text>
+    <name>Blistergrub</name>
+    <text>Swampwalk
+When Blistergrub is put into a graveyard from the battlefield, each opponent loses 2 life.</text>
     <flavorText>"The sooner you join Phyrexia, the sooner you'll forget your painful rebirth."
-	—Sheoldred, Whispering One</flavorText>
+—Sheoldred, Whispering One</flavorText>
   </item>
   <item>
     <id>SOM0057</id>
-    <name>Demone Carnefice</name>
-    <text>Volare
-	Il Demone Carnefice entra nel campo di battaglia con due segnalini -1/-1.
-	{B}, Rimuovi un segnalino -1/-1 dal Demone Carnefice: Metti un segnalino -1/-1 su ogni altra creatura.</text>
+    <name>Carnifex Demon</name>
+    <text>Flying
+Carnifex Demon enters the battlefield with two -1/-1 counters on it.
+{B}, Remove a -1/-1 counter from Carnifex Demon: Put a -1/-1 counter on each other creature.</text>
     <flavorText>Every contagion has a host.</flavorText>
   </item>
   <item>
     <id>SOM0058</id>
-    <name>Nim Contagioso</name>
-    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <name>Contagious Nim</name>
+    <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
     <flavorText>"This species has grown to be my preferred receptacle for our divine message."
-	—Sheoldred, Whispering One</flavorText>
+—Sheoldred, Whispering One</flavorText>
   </item>
   <item>
     <id>SOM0059</id>
-    <name>Mietitore Corrotto</name>
-    <text>{B}, Sacrifica una creatura: Rigenera il Mietitore Corrotto.</text>
+    <name>Corrupted Harvester</name>
+    <text>{B}, Sacrifice a creature: Regenerate Corrupted Harvester.</text>
     <flavorText>"Before the blessed assault begins, we must seek specimens that are well-adapted to our way of . . . life."
-	—Sheoldred, Whispering One</flavorText>
+—Sheoldred, Whispering One</flavorText>
   </item>
   <item>
     <id>SOM0060</id>
-    <name>Cavalletta delle Scorie</name>
-    <text>Sacrifica una creatura: La Cavalletta delle Scorie ha volare fino alla fine del turno.</text>
+    <name>Dross Hopper</name>
+    <text>Sacrifice a creature: Dross Hopper gains flying until end of turn.</text>
     <flavorText>Bred in the vicious Mephidross, dross hoppers learned to eat quickly and escape faster.</flavorText>
   </item>
   <item>
     <id>SOM0061</id>
-    <name>Dissanguare</name>
-    <text>Ogni avversario perde X punti vita. Guadagni tanti punti vita quanti sono i punti vita persi in questo modo.</text>
+    <name>Exsanguinate</name>
+    <text>Each opponent loses X life. You gain life equal to the life lost this way.</text>
     <flavorText>Vampires don't consider patience a virtue nor gluttony a sin.</flavorText>
   </item>
   <item>
     <id>SOM0062</id>
-    <name>Allergia alla Carne</name>
-    <text>Come costo addizionale per lanciare l'Allergia alla Carne, sacrifica una creatura.
-	Distruggi una creatura bersaglio. Il suo controllore perde punti vita pari al numero di creature messe in tutti i cimiteri dal campo di battaglia in questo turno.</text>
+    <name>Flesh Allergy</name>
+    <text>As an additional cost to cast Flesh Allergy, sacrifice a creature.
+Destroy target creature. Its controller loses life equal to the number of creatures put into all graveyards from the battlefield this turn.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0063</id>
-    <name>Sputafumo</name>
-    <text>Sacrifica lo Sputafumo: Metti un segnalino -1/-1 su una creatura bersaglio.</text>
+    <name>Fume Spitter</name>
+    <text>Sacrifice Fume Spitter: Put a -1/-1 counter on target creature.</text>
     <flavorText>"Our archers made sport of it as it fumbled its way up the slag ridge. As it collapsed we thought ourselves safe, but the foul thing carried more than necrogen."
-	—Adaran, Tangle hunter</flavorText>
+—Adaran, Tangle hunter</flavorText>
   </item>
   <item>
     <id>SOM0064</id>
-    <name>Geth, Signore della Cripta</name>
-    <text>Intimidire
-	{X}{B}: Metti sul campo di battaglia sotto il tuo controllo TAPpata una carta creatura o artefatto bersaglio con costo di mana convertito pari a X dal cimitero di un avversario. Poi quel giocatore mette nel suo cimitero le prime X carte del suo grimorio.</text>
+    <name>Geth, Lord of the Vault</name>
+    <text>Intimidate
+{X}{B}: Put target artifact or creature card with converted mana cost X from an opponent's graveyard onto the battlefield under your control tapped. Then that player puts the top X cards of his or her library into his or her graveyard.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0065</id>
-    <name>Morsa dell'Oscurità</name>
-    <text>Una creatura bersaglio prende -4/-4 fino alla fine del turno.</text>
+    <name>Grasp of Darkness</name>
+    <text>Target creature gets -4/-4 until end of turn.</text>
     <flavorText>On a world with five suns, night is compelled to become an aggressive force.</flavorText>
   </item>
   <item>
     <id>SOM0066</id>
-    <name>Mano dei Pretori</name>
-    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)
-	Le altre creature con infettare che controlli prendono +1/+1.
-	Ogniqualvolta lanci una magia creatura con infettare, un giocatore bersaglio ottiene un segnalino veleno.</text>
+    <name>Hand of the Praetors</name>
+    <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Other creatures you control with infect get +1/+1.
+Whenever you cast a creature spell with infect, target player gets a poison counter.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0067</id>
-    <name>Ratti dell'Icore</name>
-    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)
-	Quando i Ratti dell'Icore entrano nel campo di battaglia, ogni giocatore ottiene un segnalino veleno.</text>
+    <name>Ichor Rats</name>
+    <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Ichor Rats enters the battlefield, each player gets a poison counter.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0068</id>
-    <name>Instillare Infezione</name>
-    <text>Metti un segnalino -1/-1 su una creatura bersaglio.
-	Pesca una carta.</text>
+    <name>Instill Infection</name>
+    <text>Put a -1/-1 counter on target creature.
+Draw a card.</text>
     <flavorText>"The results of our ninth inoculation were the same. The specimen was, of course, euthanized before the contagion could spread."
-	—Vedalken research notes</flavorText>
+—Vedalken research notes</flavorText>
   </item>
   <item>
     <id>SOM0069</id>
-    <name>Memoricidio</name>
-    <text>Nomina una carta non terra. Passa in rassegna il cimitero, la mano e il grimorio di un giocatore bersaglio per un qualsiasi numero di carte con quel nome ed esiliale. Poi quel giocatore rimescola il suo grimorio.</text>
+    <name>Memoricide</name>
+    <text>Name a nonland card. Search target player's graveyard, hand, and library for any number of cards with that name and exile them. Then that player shuffles his or her library.</text>
     <flavorText>"You claim wisdom, yet I see nothing in here but tawdry wishes."</flavorText>
   </item>
   <item>
     <id>SOM0070</id>
-    <name>Razziatore Moriok</name>
+    <name>Moriok Reaver</name>
     <text>
     </text>
     <flavorText>"The Moriok are fools. They try so hard to gain my favor. All I want is for them to die quickly, to join the ranks of the nim."
-	—Geth, Lord of the Vault</flavorText>
+—Geth, Lord of the Vault</flavorText>
   </item>
   <item>
     <id>SOM0071</id>
-    <name>Spinta Necrogena</name>
-    <text>Volare
-	Quando la Spinta Necrogena entra nel campo di battaglia, perdi 3 punti vita.</text>
+    <name>Necrogen Scudder</name>
+    <text>Flying
+When Necrogen Scudder enters the battlefield, you lose 3 life.</text>
     <flavorText>Contrary to popular belief, it's kept aloft by necrogen gas, not the screaming agony of a thousand murdered souls.</flavorText>
   </item>
   <item>
     <id>SOM0072</id>
-    <name>Melma Necrotica</name>
-    <text>Fintanto che la Melma Necrotica è sul campo di battaglia, ha tutte le abilità attivate di tutte le carte creatura in tutti i cimiteri.</text>
+    <name>Necrotic Ooze</name>
+    <text>As long as Necrotic Ooze is on the battlefield, it has all activated abilities of all creature cards in all graveyards.</text>
     <flavorText>"To death all must go, and so in death lies ultimate power."
-	—Geth, Lord of the Vault</flavorText>
+—Geth, Lord of the Vault</flavorText>
   </item>
   <item>
     <id>SOM0073</id>
-    <name>Dilemma Doloroso</name>
-    <text>Ogniqualvolta un avversario lancia una magia, quel giocatore perde 5 punti vita a meno che quell'avversario non scarti una carta.</text>
+    <name>Painful Quandary</name>
+    <text>Whenever an opponent casts a spell, that player loses 5 life unless he or she discards a card.</text>
     <flavorText>"For each word spoken, one forgotten. For each thought, a memory rotten."
-	—Moriok incantation</flavorText>
+—Moriok incantation</flavorText>
   </item>
   <item>
     <id>SOM0074</id>
-    <name>Plasmadolore</name>
-    <text>Ogniqualvolta lanci una magia artefatto, puoi far prendere +2/+0 e far avere tocco letale a una creatura bersaglio fino alla fine del turno.</text>
+    <name>Painsmith</name>
+    <text>Whenever you cast an artifact spell, you may have target creature get +2/+0 and gain deathtouch until end of turn.</text>
     <flavorText>The Moriok see the artificer as a taskmaster, forcing lazy metal into more potent shapes.</flavorText>
   </item>
   <item>
     <id>SOM0075</id>
-    <name>Pungiglione Epidemico</name>
-    <text>Volare
-	Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <name>Plague Stinger</name>
+    <text>Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
     <flavorText>It leaves its victims one sting closer to phyresis.</flavorText>
   </item>
   <item>
     <id>SOM0076</id>
-    <name>Miasma Psichico</name>
-    <text>Un giocatore bersaglio scarta una carta. Se una carta terra viene scartata in questo modo, fai tornare il Miasma Psichico in mano al suo proprietario.</text>
+    <name>Psychic Miasma</name>
+    <text>Target player discards a card. If a land card is discarded this way, return Psychic Miasma to its owner's hand.</text>
     <flavorText>"A mind may be steeled against madness, but all battlements fall in time."
 —Jin-Gitaxias, Core Augur</flavorText>
   </item>
   <item>
     <id>SOM0077</id>
-    <name>Putrescenza della Reliquia</name>
-    <text>Incanta artefatto
-	Ogniqualvolta l'artefatto incantato viene TAPpato, il suo controllore ottiene un segnalino veleno.</text>
+    <name>Relic Putrescence</name>
+    <text>Enchant artifact
+Whenever enchanted artifact becomes tapped, its controller gets a poison counter.</text>
     <flavorText>"Until we shed the curse of sentience, we must endure its grotesque handiwork."
-	—Vorinclex, Voice of Hunger</flavorText>
+—Vorinclex, Voice of Hunger</flavorText>
   </item>
   <item>
     <id>SOM0078</id>
-    <name>Spellatore</name>
-    <text>Quando lo Spellatore entra nel campo di battaglia, metti tre segnalini -1/-1 su una creatura bersaglio.</text>
+    <name>Skinrender</name>
+    <text>When Skinrender enters the battlefield, put three -1/-1 counters on target creature.</text>
     <flavorText>"Your creations are effective, Sheoldred, but we must unite the flesh, not merely flay it."
-	—Elesh Norn, Grand Cenobite</flavorText>
+—Elesh Norn, Grand Cenobite</flavorText>
   </item>
   <item>
     <id>SOM0079</id>
-    <name>Skithiryx, il Drago Maligno</name>
-    <text>Volare
-	Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)
-	{B}: Skithiryx, il Drago Maligno ha rapidità fino alla fine del turno.
-	{B}{B}: Rigenera Skithiryx.</text>
+    <name>Skithiryx, the Blight Dragon</name>
+    <text>Flying
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{B}: Skithiryx, the Blight Dragon gains haste until end of turn.
+{B}{B}: Regenerate Skithiryx.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0080</id>
-    <name>Colpo Contaminato</name>
-    <text>Una creatura bersaglio prende +1/+0 e ha infettare fino alla fine del turno. (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <name>Tainted Strike</name>
+    <text>Target creature gets +1/+0 and gains infect until end of turn. (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
     <flavorText>"Welcome to perfection."
-	—Sheoldred, Whispering One</flavorText>
+—Sheoldred, Whispering One</flavorText>
   </item>
   <item>
     <id>SOM0081</id>
-    <name>Striscia ad Arco</name>
-    <text>La Striscia ad Arco infligge 2 danni a una creatura o a un giocatore bersaglio e 1 danno a un'altra creatura o un altro giocatore bersaglio.</text>
+    <name>Arc Trail</name>
+    <text>Arc Trail deals 2 damage to target creature or player and 1 damage to another target creature or player.</text>
     <flavorText>"Don't try to hit your enemies. Concentrate on the space between them, and fill the air with doom."
-	—Spear-Tribe teaching</flavorText>
+—Spear-Tribe teaching</flavorText>
   </item>
   <item>
     <id>SOM0082</id>
-    <name>Assalto Stroboscopico</name>
-    <text>Una creatura bersaglio ha doppio attacco fino alla fine del turno. (Infligge sia danno da combattimento da attacco improvviso che danno da combattimento regolare.)</text>
+    <name>Assault Strobe</name>
+    <text>Target creature gains double strike until end of turn. (It deals both first-strike and regular combat damage.)</text>
     <flavorText>When breaking someone's face once just isn't enough.</flavorText>
   </item>
   <item>
     <id>SOM0083</id>
-    <name>Ogre di Sbarramento</name>
-    <text>{T}, Sacrifica un artefatto: L'Ogre di Sbarramento infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <name>Barrage Ogre</name>
+    <text>{T}, Sacrifice an artifact: Barrage Ogre deals 2 damage to target creature or player.</text>
     <flavorText>The elves had devised countless strategies to combat Memnarch's war machines, but they had no idea what to do when one was thrown at them.</flavorText>
   </item>
   <item>
     <id>SOM0084</id>
-    <name>Berserker della Tribù Lama</name>
-    <text>Metallurgia - Quando i Berserker della Tribù Lama entrano nel campo di battaglia, se controlli tre o più artefatti, i Berserker della Tribù Lama prendono +3/+3 e hanno rapidità fino alla fine del turno.</text>
+    <name>Blade-Tribe Berserkers</name>
+    <text>Metalcraft — When Blade-Tribe Berserkers enters the battlefield, if you control three or more artifacts, Blade-Tribe Berserkers gets +3/+3 and gains haste until end of turn.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0085</id>
-    <name>Apprendista Sanguinario</name>
-    <text>{T}: L'Apprendista Sanguinario infligge 4 danni a una creatura bersaglio. Attiva questa abilità solo se la forza dell'Apprendista Sanguinario è pari o superiore a 4.</text>
+    <name>Bloodshot Trainee</name>
+    <text>{T}: Bloodshot Trainee deals 4 damage to target creature. Activate this ability only if Bloodshot Trainee's power is 4 or greater.</text>
     <flavorText>"Just think how strong I'll be if my arms don't tear off!"</flavorText>
   </item>
   <item>
     <id>SOM0086</id>
-    <name>Eruzione Cerebrale</name>
-    <text>Un avversario bersaglio rivela la prima carta del suo grimorio. L'Eruzione Cerebrale infligge danno pari al costo di mana convertito della carta rivelata a quel giocatore e a ogni creatura che controlla. Se una carta terra viene rivelata in questo modo, fai tornare l'Eruzione Cerebrale in mano al suo proprietario.</text>
+    <name>Cerebral Eruption</name>
+    <text>Target opponent reveals the top card of his or her library. Cerebral Eruption deals damage equal to the revealed card's converted mana cost to that player and each creature he or she controls. If a land card is revealed this way, return Cerebral Eruption to its owner's hand.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0087</id>
-    <name>Plasmabraci</name>
-    <text>Ogniqualvolta lanci una magia artefatto, puoi pagare {1}. Se lo fai, il Plasmabraci infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <name>Embersmith</name>
+    <text>Whenever you cast an artifact spell, you may pay {1}. If you do, Embersmith deals 1 damage to target creature or player.</text>
     <flavorText>The Vulshok see the artificer as a catalyst, bringing the spark of creation that ignites change.</flavorText>
   </item>
   <item>
     <id>SOM0088</id>
-    <name>Ferrivoro</name>
-    <text>{R}, Sacrifica un artefatto: Il Ferrivoro prende +3/+0 fino alla fine del turno.</text>
+    <name>Ferrovore</name>
+    <text>{R}, Sacrifice an artifact: Ferrovore gets +3/+0 until end of turn.</text>
     <flavorText>The Vulshok use its digestion to break down the most obstinate metals, from darksteel myr to seastrider plates.</flavorText>
   </item>
   <item>
     <id>SOM0089</id>
-    <name>Infernale delle Fiamme</name>
-    <text>Rapidità
-	L'Infernale delle Fiamme attacca ogni turno, se può farlo.</text>
+    <name>Flameborn Hellion</name>
+    <text>Haste
+Flameborn Hellion attacks each turn if able.</text>
     <flavorText>"The most reliable omen of a future hellion attack is a past hellion attack."
-	—Spear-Tribe teaching</flavorText>
+—Spear-Tribe teaching</flavorText>
   </item>
   <item>
     <id>SOM0090</id>
-    <name>Festa della Fornace</name>
-    <text>Ogniqualvolta sacrifichi un altro permanente, puoi pagare {2}. Se lo fai, la Festa della Fornace infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <name>Furnace Celebration</name>
+    <text>Whenever you sacrifice another permanent, you may pay {2}. If you do, Furnace Celebration deals 2 damage to target creature or player.</text>
     <flavorText>Reduce. Reuse. Wreak havoc.</flavorText>
   </item>
   <item>
     <id>SOM0091</id>
-    <name>Scarica Galvanica</name>
-    <text>La Scarica Galvanica infligge 2 danni a una creatura o a un giocatore bersaglio.
-	Metallurgia - La Scarica Galvanica infligge invece 4 danni a quella creatura o a quel giocatore se controlli tre o più artefatti.</text>
+    <name>Galvanic Blast</name>
+    <text>Galvanic Blast deals 2 damage to target creature or player.
+Metalcraft — Galvanic Blast deals 4 damage to that creature or player instead if you control three or more artifacts.</text>
     <flavorText>Mirrodin has little weather, but it certainly has lightning.</flavorText>
   </item>
   <item>
     <id>SOM0092</id>
-    <name>Goblin del Martelletto</name>
-    <text>Travolgere
-	Il Goblin del Martelletto prende +2/+0 per ogni Equipaggiamento ad esso assegnato.</text>
+    <name>Goblin Gaveleer</name>
+    <text>Trample
+Goblin Gaveleer gets +2/+0 for each Equipment attached to it.</text>
     <flavorText>"When everything looks like a nail, you really need to get yourself a hammer."
-	—Krol, goblin furnace-priest</flavorText>
+—Krol, goblin furnace-priest</flavorText>
   </item>
   <item>
     <id>SOM0093</id>
-    <name>Drago Fonditesori</name>
-    <text>Volare
-	{3}{R}: Distruggi un artefatto bersaglio. Il Drago Fonditesori prende +X/+0 fino alla fine del turno, dove X è il costo di mana convertito di quell'artefatto.</text>
+    <name>Hoard-Smelter Dragon</name>
+    <text>Flying
+{3}{R}: Destroy target artifact. Hoard-Smelter Dragon gets +X/+0 until end of turn, where X is that artifact's converted mana cost.</text>
     <flavorText>He collects the precious metals, and then converts the rest to propellant.</flavorText>
   </item>
   <item>
     <id>SOM0094</id>
-    <name>Koth del Martello</name>
-    <text>+1: STAPpa una Montagna bersaglio. Diventa una creatura Elementale 4/4 rossa fino alla fine del turno. È ancora una terra.
-	-2: Aggiungi {R} alla tua riserva di mana per ogni Montagna che controlli.
-	-5: Ottieni un emblema con "Le Montagne che controlli hanno '{T}: Questa terra infligge 1 danno a una creatura o a un giocatore bersaglio'."</text>
+    <name>Koth of the Hammer</name>
+    <text>+1: Untap target Mountain. It becomes a 4/4 red Elemental creature until end of turn. It's still a land.
+-2: Add {R} to your mana pool for each Mountain you control.
+-5: You get an emblem with "Mountains you control have ‘{T}: This land deals 1 damage to target creature or player.'"</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0095</id>
-    <name>Fenice di Kuldotha</name>
-    <text>Volare
-	rapidità
-	Metallurgia - {4}: Rimetti sul campo di battaglia la Fenice di Kuldotha dal tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento e solo se controlli tre o più artefatti.</text>
+    <name>Kuldotha Phoenix</name>
+    <text>Flying, haste
+Metalcraft — {4}: Return Kuldotha Phoenix from your graveyard to the battlefield. Activate this ability only during your upkeep and only if you control three or more artifacts.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0096</id>
-    <name>Rinascita di Kuldotha</name>
-    <text>Come costo addizionale per lanciare la Rinascita di Kuldotha, sacrifica un artefatto.
-	Metti sul campo di battaglia tre pedine creatura Goblin 1/1 rosse.</text>
+    <name>Kuldotha Rebirth</name>
+    <text>As an additional cost to cast Kuldotha Rebirth, sacrifice an artifact.
+Put three 1/1 red Goblin creature tokens onto the battlefield.</text>
     <flavorText>All goblin rituals serve a dual purpose as fertility rites, even the destructive ones. Especially the destructive ones.</flavorText>
   </item>
   <item>
     <id>SOM0097</id>
-    <name>Terreno Fuso</name>
-    <text>Distruggi una terra bersaglio. Il Terreno Fuso infligge 2 danni al controllore di quella terra.</text>
+    <name>Melt Terrain</name>
+    <text>Destroy target land. Melt Terrain deals 2 damage to that land's controller.</text>
     <flavorText>Just as the most finely wrought metal can warp and rust, so too does Mirrodin buckle under pressures from without and within.</flavorText>
   </item>
   <item>
     <id>SOM0098</id>
-    <name>Psiche Fusa</name>
-    <text>Ogni giocatore rimescola le carte della propria mano nel proprio grimorio, poi pesca altrettante carte.
-	Metallurgia - Se controlli tre o più artefatti, la Psiche Fusa infligge a ogni avversario danno pari al numero di carte che quel giocatore ha pescato in questo turno.</text>
+    <name>Molten Psyche</name>
+    <text>Each player shuffles the cards from his or her hand into his or her library, then draws that many cards.
+Metalcraft — If you control three or more artifacts, Molten Psyche deals damage to each opponent equal to the number of cards that player has drawn this turn.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0099</id>
-    <name>Ogre Arraffone</name>
-    <text>Ogniqualvolta l'Ogre Arraffone attacca, prendi il controllo di un Equipaggiamento bersaglio controllato da un avversario fino alla fine del turno. Assegnalo all'Ogre Arraffone. Quando perdi il controllo di quell'Equipaggiamento, non è più assegnato.</text>
+    <name>Ogre Geargrabber</name>
+    <text>Whenever Ogre Geargrabber attacks, gain control of target Equipment an opponent controls until end of turn. Attach it to Ogre Geargrabber. When you lose control of that Equipment, unattach it.</text>
     <flavorText>Long reach, short attention span.</flavorText>
   </item>
   <item>
     <id>SOM0100</id>
-    <name>Temerario di Oxidda</name>
-    <text>Sacrifica un artefatto: Il Temerario di Oxidda ha rapidità fino alla fine del turno.</text>
+    <name>Oxidda Daredevil</name>
+    <text>Sacrifice an artifact: Oxidda Daredevil gains haste until end of turn.</text>
     <flavorText>His goggles spattered with grime and his mouth full of bugs, he tossed the engines another priceless relic.</flavorText>
   </item>
   <item>
     <id>SOM0101</id>
-    <name>Fondirottami di Oxidda</name>
-    <text>Quando il Fondirottami di Oxidda entra nel campo di battaglia, distruggi un artefatto bersaglio.</text>
+    <name>Oxidda Scrapmelter</name>
+    <text>When Oxidda Scrapmelter enters the battlefield, destroy target artifact.</text>
     <flavorText>It subsists on a diet rich in screaming metal and molten blood.</flavorText>
   </item>
   <item>
     <id>SOM0102</id>
-    <name>Elementale Scoriaceo</name>
+    <name>Scoria Elemental</name>
     <text>
     </text>
     <flavorText>A single molten cord links it to the subterranean furnaces, drawing heat and metal from beneath Kuldotha. Until that bond is cut, it carves a swath of raw destruction.</flavorText>
   </item>
   <item>
     <id>SOM0103</id>
-    <name>Distruggi Artefatto</name>
-    <text>Distruggi un artefatto bersaglio.</text>
+    <name>Shatter</name>
+    <text>Destroy target artifact.</text>
     <flavorText>"I am an artist, a builder, a creator . . . I create the biggest explosions around."
-	—Krol, goblin furnace-priest</flavorText>
+—Krol, goblin furnace-priest</flavorText>
   </item>
   <item>
     <id>SOM0104</id>
-    <name>Anziano Scagliapunte</name>
-    <text>{1}{R}{R}: L'Anziano Scagliapunte infligge danno pari alla sua forza a una creatura o a un giocatore bersaglio.</text>
+    <name>Spikeshot Elder</name>
+    <text>{1}{R}{R}: Spikeshot Elder deals damage equal to its power to target creature or player.</text>
     <flavorText>Now that he knows a thousand ways of hurting people, his next shamanic quest is to discover a thousand more.</flavorText>
   </item>
   <item>
     <id>SOM0105</id>
-    <name>Igneo dei Tunnel</name>
-    <text>Ogniqualvolta una terra entra nel campo di battaglia sotto il controllo di un avversario, se quel giocatore ha fatto entrare nel campo di battaglia un'altra terra sotto il suo controllo in questo turno, l'Igneo dei Tunnel infligge 3 danni a quel giocatore.</text>
+    <name>Tunnel Ignus</name>
+    <text>Whenever a land enters the battlefield under an opponent's control, if that player had another land enter the battlefield under his or her control this turn, Tunnel Ignus deals 3 damage to that player.</text>
     <flavorText>Fight mischief with mischief.</flavorText>
   </item>
   <item>
     <id>SOM0106</id>
-    <name>Tramutare in Scorie</name>
-    <text>Tramutare in Scorie infligge 5 danni a una creatura bersaglio. Distruggi tutti gli Equipaggiamenti assegnati a quella creatura.</text>
+    <name>Turn to Slag</name>
+    <text>Turn to Slag deals 5 damage to target creature. Destroy all Equipment attached to that creature.</text>
     <flavorText>"If it wasn't a blackened, stinking, melted abomination before, it certainly is now."
-	—Koth of the Hammer</flavorText>
+—Koth of the Hammer</flavorText>
   </item>
   <item>
     <id>SOM0107</id>
-    <name>Attizzacuori Vulshok</name>
-    <text>Quando l'Attizzacuori Vulshok entra nel campo di battaglia, una creatura bersaglio prende +2/+0 fino alla fine del turno.</text>
+    <name>Vulshok Heartstoker</name>
+    <text>When Vulshok Heartstoker enters the battlefield, target creature gets +2/+0 until end of turn.</text>
     <flavorText>He fashions stirring words with as much passion as a smith fashioning a warhammer.</flavorText>
   </item>
   <item>
     <id>SOM0108</id>
-    <name>Ragno dalla Tela Acida</name>
-    <text>Raggiungere
-	Quando il Ragno dalla Tela Acida entra nel campo di battaglia, puoi distruggere un Equipaggiamento bersaglio.</text>
+    <name>Acid Web Spider</name>
+    <text>Reach
+When Acid Web Spider enters the battlefield, you may destroy target Equipment.</text>
     <flavorText>Its web is an excellent source of found copper for the daring or the stupid.</flavorText>
   </item>
   <item>
     <id>SOM0109</id>
-    <name>Tyrranax Alfa</name>
+    <name>Alpha Tyrranax</name>
     <text>
     </text>
     <flavorText>Hunger seized the tyrranax, and the Sylvok's vision quest ended in disaster.</flavorText>
   </item>
   <item>
     <id>SOM0110</id>
-    <name>Ascetismo</name>
-    <text>Le creature che controlli non possono essere bersaglio di magie o abilità controllate dai tuoi avversari.
-	{1}{G}: Rigenera una creatura bersaglio.</text>
+    <name>Asceticism</name>
+    <text>Creatures you control can't be the targets of spells or abilities your opponents control.
+{1}{G}: Regenerate target creature.</text>
     <flavorText>"Let my ignominy build walls thicker than iron and stronger than darksteel."
-	—Thrun, the last troll</flavorText>
+—Thrun, the last troll</flavorText>
   </item>
   <item>
     <id>SOM0111</id>
-    <name>Wurm del Groviglio Urlante</name>
-    <text>Intimidire (Questa creatura non può essere bloccata tranne che da creature artefatto e/o creature che condividono con essa un colore.)
-	Le altre creature verdi che controlli hanno intimidire.</text>
+    <name>Bellowing Tanglewurm</name>
+    <text>Intimidate (This creature can't be blocked except by artifact creatures and/or creatures that share a color with it.)
+Other green creatures you control have intimidate.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0112</id>
-    <name>Mamba Avvizzente</name>
-    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)
-	{1}{G}: Rigenera il Mamba Avvizzente.</text>
+    <name>Blight Mamba</name>
+    <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{1}{G}: Regenerate Blight Mamba.</text>
     <flavorText>Its venom drips with Phyrexia's hate.</flavorText>
   </item>
   <item>
     <id>SOM0113</id>
-    <name>Smorzare l'Assalto</name>
-    <text>Guadagni 1 punto vita per ogni creatura sul campo di battaglia. Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <name>Blunt the Assault</name>
+    <text>You gain 1 life for each creature on the battlefield. Prevent all combat damage that would be dealt this turn.</text>
     <flavorText>"Much can be gained from the appearance of vulnerability."
-	—Ezuri, renegade leader</flavorText>
+—Ezuri, renegade leader</flavorText>
   </item>
   <item>
     <id>SOM0114</id>
-    <name>Forgiatore di Carapaci</name>
-    <text>Metallurgia - Il Forgiatore di Carapaci prende +2/+2 fintanto che controlli tre o più artefatti.</text>
+    <name>Carapace Forger</name>
+    <text>Metalcraft — Carapace Forger gets +2/+2 as long as you control three or more artifacts.</text>
     <flavorText>"Bows and whips cannot save us from these new horrors of the Mephidross."</flavorText>
   </item>
   <item>
     <id>SOM0115</id>
-    <name>Richiamo delle Carogne</name>
-    <text>Metti sul campo di battaglia due pedine creatura Insetto 1/1 verdi con infettare. (Infliggono danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <name>Carrion Call</name>
+    <text>Put two 1/1 green Insect creature tokens with infect onto the battlefield. (They deal damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
     <flavorText>The natural order is out of order.</flavorText>
   </item>
   <item>
     <id>SOM0116</id>
-    <name>Esploratrice dal Corno Ramato</name>
-    <text>Ogniqualvolta l'Esploratrice dal Corno Ramato attacca, STAPpa ogni altra creatura che controlli.</text>
+    <name>Copperhorn Scout</name>
+    <text>Whenever Copperhorn Scout attacks, untap each other creature you control.</text>
     <flavorText>Fangren spur may sound louder, but Viridian resurgents claim that the horn of the vorrac creates a truer, more inspiring note.</flavorText>
   </item>
   <item>
     <id>SOM0117</id>
-    <name>Portacisti</name>
-    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <name>Cystbearer</name>
+    <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
     <flavorText>Phyrexia strives to simulate natural life, but it can't resist improving on the design.</flavorText>
   </item>
   <item>
     <id>SOM0118</id>
-    <name>Wurm delle Scorie Travolgente</name>
-    <text>Ogniqualvolta il Wurm delle Scorie Travolgente blocca o viene bloccato da una creatura, distruggi quella creatura. Guadagni punti vita pari alla costituzione di quella creatura.</text>
+    <name>Engulfing Slagwurm</name>
+    <text>Whenever Engulfing Slagwurm blocks or becomes blocked by a creature, destroy that creature. You gain life equal to that creature's toughness.</text>
     <flavorText>Its teeth exist only for decoration.</flavorText>
   </item>
   <item>
     <id>SOM0119</id>
-    <name>Ezuri, Capo Rinnegato</name>
-    <text>{G}: Rigenera un altro Elfo bersaglio.
-	{2}{G}{G}{G}: Le creature Elfo che controlli prendono +3/+3 e hanno travolgere fino alla fine del turno.</text>
+    <name>Ezuri, Renegade Leader</name>
+    <text>{G}: Regenerate another target Elf.
+{2}{G}{G}{G}: Elf creatures you control get +3/+3 and gain trample until end of turn.</text>
     <flavorText>The infamous Ezuri commands the highest bounty the vedalken have ever placed upon an outlaw.</flavorText>
   </item>
   <item>
     <id>SOM0120</id>
-    <name>Arcieri di Ezuri</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
-	Ogniqualvolta gli Arcieri di Ezuri bloccano una creatura con volare, gli Arcieri di Ezuri prendono +3/+0 fino alla fine del turno.</text>
+    <name>Ezuri's Archers</name>
+    <text>Reach (This creature can block creatures with flying.)
+Whenever Ezuri's Archers blocks a creature with flying, Ezuri's Archers gets +3/+0 until end of turn.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0121</id>
-    <name>Brigata di Ezuri</name>
-    <text>Metallurgia - Fintanto che controlli tre o più artefatti, la Brigata di Ezuri prende +4/+4 e ha travolgere.</text>
+    <name>Ezuri's Brigade</name>
+    <text>Metalcraft — As long as you control three or more artifacts, Ezuri's Brigade gets +4/+4 and has trample.</text>
     <flavorText>Riding ravenous, ever-growing vorracs is almost as dangerous as fitting them with saddles.</flavorText>
   </item>
   <item>
     <id>SOM0122</id>
-    <name>Flusso di origine</name>
-    <text>Rivela le prime X carte del tuo grimorio. Puoi mettere sul campo di battaglia un qualsiasi numero di carte permanente con costo di mana convertito pari o inferiore a X scelte tra quelle carte rivelate. Poi metti nel tuo cimitero tutte le carte rivelate in questo modo che non sono state messe sul campo di battaglia.</text>
+    <name>Genesis Wave</name>
+    <text>Reveal the top X cards of your library. You may put any number of permanent cards with converted mana cost X or less from among them onto the battlefield. Then put all cards revealed this way that weren't put onto the battlefield into your graveyard.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0123</id>
-    <name>Vassallo del Groviglio</name>
-    <text>Travolgere
-	Ogniqualvolta il Vassallo del Groviglio infligge danno da combattimento a un giocatore, puoi scegliere un qualsiasi numero di terre bersaglio che controlli e mettere un segnalino risveglio su ognuna di esse. Ognuna di quelle terre è una creatura Elementale 8/8 verde fintanto che ha un segnalino risveglio. Sono ancora terre.</text>
+    <name>Liege of the Tangle</name>
+    <text>Trample
+Whenever Liege of the Tangle deals combat damage to a player, you may choose any number of target lands you control and put an awakening counter on each of them. Each of those lands is an 8/8 green Elemental creature for as long as it has an awakening counter on it. They're still lands.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0124</id>
-    <name>Plasmavita</name>
-    <text>Ogniqualvolta lanci una magia artefatto, puoi pagare {1}. Se lo fai, guadagni 3 punti vita.</text>
+    <name>Lifesmith</name>
+    <text>Whenever you cast an artifact spell, you may pay {1}. If you do, you gain 3 life.</text>
     <flavorText>The Sylvok see the artificer as a gardener, preparing the world for hardy growth.</flavorText>
   </item>
   <item>
     <id>SOM0125</id>
-    <name>Bestia Sgretolante</name>
-    <text>Travolgere
-	Ogniqualvolta un artefatto viene messo in un cimitero dal campo di battaglia, la Bestia Sgretolante prende +2/+0 fino alla fine del turno.</text>
+    <name>Molder Beast</name>
+    <text>Trample
+Whenever an artifact is put into a graveyard from the battlefield, Molder Beast gets +2/+0 until end of turn.</text>
     <flavorText>"A trail of scrap metal can lead it into an ambush. But take care not to overfeed it."
-	—Adaran, Tangle hunter</flavorText>
+—Adaran, Tangle hunter</flavorText>
   </item>
   <item>
     <id>SOM0126</id>
     <name>Putrefax</name>
-    <text>Travolgere
-	rapidità
-	Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)
-	All'inizio della sottofase finale, sacrifica il Putrefax.</text>
+    <text>Trample, haste
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+At the beginning of the end step, sacrifice Putrefax.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0127</id>
-    <name>Tagliare in Due</name>
-    <text>Distruggi un artefatto o un incantesimo bersaglio.
-	Pesca una carta.</text>
+    <name>Slice in Twain</name>
+    <text>Destroy target artifact or enchantment.
+Draw a card.</text>
     <flavorText>"The hypocrisy of these elves is thicker than steel—destroying ‘unnatural metal' with their own enchanted swords."
-	—Kara Vrist, Neurok agent</flavorText>
+—Kara Vrist, Neurok agent</flavorText>
   </item>
   <item>
     <id>SOM0128</id>
-    <name>Lenza del Groviglio</name>
-    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)
-	{G}: Una creatura bersaglio blocca la Lenza del Groviglio in questo turno, se può farlo.</text>
+    <name>Tangle Angler</name>
+    <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+{G}: Target creature blocks Tangle Angler this turn if able.</text>
     <flavorText>A plague on the curious.</flavorText>
   </item>
   <item>
     <id>SOM0129</id>
-    <name>Provocazione di Tel-Jilad</name>
-    <text>Una creatura bersaglio ha protezione dagli artefatti fino alla fine del turno.
-	Pesca una carta.</text>
+    <name>Tel-Jilad Defiance</name>
+    <text>Target creature gains protection from artifacts until end of turn.
+Draw a card.</text>
     <flavorText>The Viridian elves had purged their culture of the trolls' traitorous influence. In times of strife, however, the ancestral memories returned.</flavorText>
   </item>
   <item>
     <id>SOM0130</id>
-    <name>Caduto di Tel-Jilad</name>
-    <text>Protezione dagli artefatti
-	Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <name>Tel-Jilad Fallen</name>
+    <text>Protection from artifacts
+Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
     <flavorText>"No longer am I shackled to antiquity. My new masters will etch a glorious future."</flavorText>
   </item>
   <item>
     <id>SOM0131</id>
-    <name>Potere Indomito</name>
-    <text>Una creatura bersaglio prende +X/+X fino alla fine del turno.</text>
+    <name>Untamed Might</name>
+    <text>Target creature gets +X/+X until end of turn.</text>
     <flavorText>"Beasts kill for their very survival. If you would have their strength, you must know their desperation."
-	—Konnos, Sylvok sage</flavorText>
+—Konnos, Sylvok sage</flavorText>
   </item>
   <item>
     <id>SOM0132</id>
-    <name>Festa Viridiana</name>
-    <text>Ogniqualvolta un artefatto viene messo nel cimitero di un avversario dal campo di battaglia, puoi pescare una carta.</text>
+    <name>Viridian Revel</name>
+    <text>Whenever an artifact is put into an opponent's graveyard from the battlefield, you may draw a card.</text>
     <flavorText>"Let them have their revel. Soon those who won't submit will be turned. Those who won't be turned will die."
-	—Vorinclex, Voice of Hunger</flavorText>
+—Vorinclex, Voice of Hunger</flavorText>
   </item>
   <item>
     <id>SOM0133</id>
-    <name>Perforare Ala</name>
-    <text>Una creatura bersaglio che controlli infligge danno pari alla sua forza a una creatura bersaglio con volare.</text>
+    <name>Wing Puncture</name>
+    <text>Target creature you control deals damage equal to its power to target creature with flying.</text>
     <flavorText>"If I were the air, I wouldn't taunt the ground. It has the weight advantage."
-	—Konnos, Sylvok sage</flavorText>
+—Konnos, Sylvok sage</flavorText>
   </item>
   <item>
     <id>SOM0134</id>
-    <name>Resistere alla Morte</name>
-    <text>Una creatura bersaglio è indistruttibile in questo turno. (Il danno letale e gli effetti che dicono "distruggi" non la distruggono. Se la sua costituzione è pari o inferiore a 0, viene comunque messa nel cimitero del suo proprietario.)</text>
+    <name>Withstand Death</name>
+    <text>Target creature is indestructible this turn. (Lethal damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)</text>
     <flavorText>On Mirrodin, every conflict ends in either death or darksteel.</flavorText>
   </item>
   <item>
     <id>SOM0135</id>
-    <name>Venser, il Visitatore</name>
-    <text>+2: Esilia un permanente bersaglio che possiedi. Rimettilo sul campo di battaglia sotto il tuo controllo all'inizio della prossima sottofase finale.
-	-1: Le creature non possono essere bloccate in questo turno.
-	-8: Ottieni un emblema con "Ogniqualvolta lanci una magia, esilia un permanente bersaglio".</text>
+    <name>Venser, the Sojourner</name>
+    <text>+2: Exile target permanent you own. Return it to the battlefield under your control at the beginning of the next end step.
+-1: Creatures are unblockable this turn.
+-8: You get an emblem with "Whenever you cast a spell, exile target permanent."</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0136</id>
-    <name>Scudo del Concorde</name>
-    <text>La creatura equipaggiata prende +0/+3 e ha cautela.
-	Equipaggiare {3}</text>
+    <name>Accorder's Shield</name>
+    <text>Equipped creature gets +0/+3 and has vigilance.
+Equip {3}</text>
     <flavorText>An Auriok shield is polished to a mirror finish even on the inside, enabling its bearer to watch foes ahead and behind.</flavorText>
   </item>
   <item>
     <id>SOM0137</id>
-    <name>Armatura di Argentum</name>
-    <text>La creatura equipaggiata prende +6/+6.
-	Ogniqualvolta la creatura equipaggiata attacca, distruggi un permanente bersaglio.
-	Equipaggiare {6}</text>
+    <name>Argentum Armor</name>
+    <text>Equipped creature gets +6/+6.
+Whenever equipped creature attacks, destroy target permanent.
+Equip {6}</text>
     <flavorText>Mirrodin's creator still lives, still shapes metal, and still commands world-shaking power.</flavorText>
   </item>
   <item>
     <id>SOM0138</id>
-    <name>Replicante Auriok</name>
-    <text>{W}, Sacrifica il Replicante Auriok: Previeni tutto il danno che una fonte a tua scelta ti infliggerebbe in questo turno.</text>
+    <name>Auriok Replica</name>
+    <text>{W}, Sacrifice Auriok Replica: Prevent all damage a source of your choice would deal to you this turn.</text>
     <flavorText>All the loyalty of the Auriok with only a trace of their self-righteousness.</flavorText>
   </item>
   <item>
     <id>SOM0139</id>
-    <name>Apparato da Battaglia Spinato</name>
-    <text>La creatura equipaggiata prende +4/-1.
-	Equipaggiare {2}</text>
+    <name>Barbed Battlegear</name>
+    <text>Equipped creature gets +4/-1.
+Equip {2}</text>
     <flavorText>"One need only look at the inhabitants of this world to see that they are forged halfway to perfection. All they need is a whisper of the Glorious Word."
-	—Urabrask the Hidden</flavorText>
+—Urabrask the Hidden</flavorText>
   </item>
   <item>
     <id>SOM0140</id>
-    <name>Ali Affilate</name>
-    <text>La creatura equipaggiata ha volare e attacco improvviso.
-	Equipaggiare {2}</text>
+    <name>Bladed Pinions</name>
+    <text>Equipped creature has flying and first strike.
+Equip {2}</text>
     <flavorText>Lacking trained pterons, the Auriok had to rely on other measures to gain the upper hand in the skies.</flavorText>
   </item>
   <item>
     <id>SOM0141</id>
-    <name>Massa Chimerica</name>
-    <text>La Massa Chimerica entra nel campo di battaglia con X segnalini carica.
-	{1}: Fino alla fine del turno, la Massa Chimerica diventa una creatura artefatto Costrutto con "La forza e la costituzione di questa creatura sono pari al numero di segnalini carica su di essa."</text>
+    <name>Chimeric Mass</name>
+    <text>Chimeric Mass enters the battlefield with X charge counters on it.
+{1}: Until end of turn, Chimeric Mass becomes a Construct artifact creature with "This creature's power and toughness are each equal to the number of charge counters on it."</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0142</id>
-    <name>Destriero Cromato</name>
-    <text>Metallurgia - Il Destriero Cromato prende +2/+2 fintanto che controlli tre o più artefatti.</text>
+    <name>Chrome Steed</name>
+    <text>Metalcraft — Chrome Steed gets +2/+2 as long as you control three or more artifacts.</text>
     <flavorText>According to Auriok myth, it collects scrap in order to reassemble its lost rider.</flavorText>
   </item>
   <item>
     <id>SOM0143</id>
-    <name>Guscio del Clone</name>
-    <text>Imprimere - Quando il Guscio del Clone entra nel campo di battaglia, guarda le prime quattro carte del tuo grimorio, esiliane una a faccia in giù, poi metti le altre in fondo al tuo grimorio in qualsiasi ordine.
-	Quando il Guscio del Clone viene messo in un cimitero dal campo di battaglia, gira a faccia in su la carta esiliata. Se è una carta creatura, mettila sul campo di battaglia sotto il tuo controllo.</text>
+    <name>Clone Shell</name>
+    <text>Imprint — When Clone Shell enters the battlefield, look at the top four cards of your library, exile one face down, then put the rest on the bottom of your library in any order.
+When Clone Shell is put into a graveyard from the battlefield, turn the exiled card face up. If it's a creature card, put it onto the battlefield under your control.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0144</id>
-    <name>Stretta Contagiosa</name>
-    <text>Quando la Stretta Contagiosa entra nel campo di battaglia, metti un segnalino -1/-1 su una creatura bersaglio.
-	{4},{T}: Proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <name>Contagion Clasp</name>
+    <text>When Contagion Clasp enters the battlefield, put a -1/-1 counter on target creature.
+{4}, {T}: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0145</id>
-    <name>Macchina del Contagio</name>
-    <text>Quando la Macchina del Contagio entra nel campo di battaglia, metti un segnalino -1/-1 su ogni creatura controllata da un giocatore bersaglio.
-	{4},{T}: Proliferare, poi proliferare di nuovo. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente. Poi fallo di nuovo.)</text>
+    <name>Contagion Engine</name>
+    <text>When Contagion Engine enters the battlefield, put a -1/-1 counter on each creature target player controls.
+{4}, {T}: Proliferate, then proliferate again. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there. Then do it again.)</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0146</id>
-    <name>Myr di Rame</name>
-    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <name>Copper Myr</name>
+    <text>{T}: Add {G} to your mana pool.</text>
     <flavorText>The myr are like verdigris: an ever-present patina on the surface of a metal world.</flavorText>
   </item>
   <item>
     <id>SOM0147</id>
-    <name>Randagio Cadavere</name>
-    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)
-	Quando il Randagio Cadavere entra nel campo di battaglia, puoi riprendere in mano una carta creatura bersaglio con infettare dal tuo cimitero.</text>
+    <name>Corpse Cur</name>
+    <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Corpse Cur enters the battlefield, you may return target creature card with infect from your graveyard to your hand.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0148</id>
-    <name>Palco Accogliente</name>
-    <text>{T}, Sacrifica una creatura: Metti un segnalino carica sul Palco Accogliente.
-	{1}, Sacrifica il Palco Accogliente: Pesca una carta per ogni segnalino carica sul Palco Accogliente.</text>
+    <name>Culling Dais</name>
+    <text>{T}, Sacrifice a creature: Put a charge counter on Culling Dais.
+{1}, Sacrifice Culling Dais: Draw a card for each charge counter on Culling Dais.</text>
     <flavorText>"Forswear the flesh and you will truly see."
-	—Jin-Gitaxias, Core Augur</flavorText>
+—Jin-Gitaxias, Core Augur</flavorText>
   </item>
   <item>
     <id>SOM0149</id>
-    <name>Ascia di Darksteel</name>
-    <text>L'Ascia di Darksteel è indistruttibile. (Gli effetti che dicono "distruggi" non la distruggono.)
-	La creatura equipaggiata prende +2/+0.
-	Equipaggiare {2}</text>
+    <name>Darksteel Axe</name>
+    <text>Darksteel Axe is indestructible. (Effects that say "destroy" don't destroy it.)
+Equipped creature gets +2/+0.
+Equip {2}</text>
     <flavorText>Heavier than it looks, tricky to wield, guaranteed to last.</flavorText>
   </item>
   <item>
     <id>SOM0150</id>
-    <name>Juggernaut di Darksteel</name>
-    <text>La forza e la costituzione del Juggernaut di Darksteel sono pari al numero di artefatti che controlli.
-	Il Juggernaut di Darksteel è indistruttibile e attacca ogni turno, se può farlo.</text>
+    <name>Darksteel Juggernaut</name>
+    <text>Darksteel Juggernaut's power and toughness are each equal to the number of artifacts you control.
+Darksteel Juggernaut is indestructible and attacks each turn if able.</text>
     <flavorText>One part unstoppable force, one part immovable object.</flavorText>
   </item>
   <item>
     <id>SOM0151</id>
-    <name>Myr di Darksteel</name>
-    <text>Il Myr di Darksteel è indistruttibile. (Il danno letale e gli effetti che dicono "distruggi" non lo distruggono. Se la sua costituzione è pari o inferiore a 0, viene comunque messo nel cimitero del suo proprietario.)</text>
+    <name>Darksteel Myr</name>
+    <text>Darksteel Myr is indestructible. (Lethal damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0152</id>
-    <name>Sentinella di Darksteel</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
-	Cautela
-	La Sentinella di Darksteel è indistruttibile. (Il danno letale e gli effetti che dicono "distruggi" non la distruggono. Se la sua costituzione è pari o inferiore a 0, viene comunque messa nel cimitero del suo proprietario.)</text>
+    <name>Darksteel Sentinel</name>
+    <text>Flash (You may cast this spell any time you could cast an instant.)
+Vigilance
+Darksteel Sentinel is indestructible. (Lethal damage and effects that say "destroy" don't destroy it. If its toughness is 0 or less, it's still put into its owner's graveyard.)</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0153</id>
-    <name>Monile dell'Eco</name>
-    <text>La creatura equipaggiata può bloccare una creatura addizionale.
-	Equipaggiare {1}</text>
+    <name>Echo Circlet</name>
+    <text>Equipped creature can block an additional creature.
+Equip {1}</text>
     <flavorText>After the vanishing of the elder generations, the Anvil Tribe developed creative solutions to their personnel shortages.</flavorText>
   </item>
   <item>
     <id>SOM0154</id>
-    <name>Campione Inciso</name>
-    <text>Metallurgia - Il Campione Inciso ha protezione da tutti i colori fintanto che controlli tre o più artefatti.</text>
+    <name>Etched Champion</name>
+    <text>Metalcraft — Etched Champion has protection from all colors as long as you control three or more artifacts.</text>
     <flavorText>Its predecessors were etched with the wisdom of ancients; its own etchings bear warnings of a future fraught with war.</flavorText>
   </item>
   <item>
     <id>SOM0155</id>
-    <name>Bombarcana Volante</name>
-    <text>{T}, Sacrifica la Bombarcana Volante: Una creatura bersaglio ha volare fino alla fine del turno.
-	Quando la Bombarcana Volante viene messa in un cimitero dal campo di battaglia, puoi pagare {U}. Se lo fai, pesca una carta.</text>
+    <name>Flight Spellbomb</name>
+    <text>{T}, Sacrifice Flight Spellbomb: Target creature gains flying until end of turn.
+When Flight Spellbomb is put into a graveyard from the battlefield, you may pay {U}. If you do, draw a card.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0156</id>
-    <name>Idolo del Falco Luccicante</name>
-    <text>Ogniqualvolta un altro artefatto entra nel campo di battaglia sotto il tuo controllo, puoi far diventare l'Idolo del Falco Luccicante una creatura artefatto Uccello 2/2 con volare fino alla fine del turno.
-	{W}: L'Idolo del Falco Luccicante diventa una creatura artefatto Uccello 2/2 con volare fino alla fine del turno.</text>
+    <name>Glint Hawk Idol</name>
+    <text>Whenever another artifact enters the battlefield under your control, you may have Glint Hawk Idol become a 2/2 Bird artifact creature with flying until end of turn.
+{W}: Glint Hawk Idol becomes a 2/2 Bird artifact creature with flying until end of turn.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0157</id>
-    <name>Myr d'Oro</name>
-    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <name>Gold Myr</name>
+    <text>{T}: Add {W} to your mana pool.</text>
     <flavorText>The myr are like razorgrass: numberless metal figures, reflecting each other's light.</flavorText>
   </item>
   <item>
     <id>SOM0158</id>
-    <name>Urna d'Oro</name>
-    <text>All'inizio del tuo mantenimento, puoi mettere un segnalino carica sull'Urna d'Oro.
-	{T}, Sacrifica l'Urna d'Oro: Puoi guadagnare punti vita pari al numero di segnalini carica sull'Urna d'Oro.</text>
+    <name>Golden Urn</name>
+    <text>At the beginning of your upkeep, you may put a charge counter on Golden Urn.
+{T}, Sacrifice Golden Urn: You gain life equal to the number of charge counters on Golden Urn.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0159</id>
-    <name>Golem Artigiano</name>
-    <text>{2}: Una creatura artefatto bersaglio prende +1/+1 fino alla fine del turno.
-	{2}: Una creatura artefatto bersaglio ha a tua scelta volare, travolgere o rapidità fino alla fine del turno.</text>
+    <name>Golem Artisan</name>
+    <text>{2}: Target artifact creature gets +1/+1 until end of turn.
+{2}: Target artifact creature gains your choice of flying, trample, or haste until end of turn.</text>
     <flavorText>Better living through metallurgy.</flavorText>
   </item>
   <item>
     <id>SOM0160</id>
-    <name>Fonderia dei Golem</name>
-    <text>Ogniqualvolta lanci una magia artefatto, puoi mettere un segnalino carica sulla Fonderia dei Golem.
-	Rimuovi tre segnalini carica dalla Fonderia dei Golem: Metti sul campo di battaglia una pedina creatura artefatto Golem 3/3 incolore.</text>
+    <name>Golem Foundry</name>
+    <text>Whenever you cast an artifact spell, you may put a charge counter on Golem Foundry.
+Remove three charge counters from Golem Foundry: Put a 3/3 colorless Golem artifact creature token onto the battlefield.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0161</id>
-    <name>Cuore di Golem</name>
-    <text>Ogniqualvolta un giocatore lancia una magia artefatto, puoi guadagnare 1 punto vita.</text>
+    <name>Golem's Heart</name>
+    <text>Whenever a player casts an artifact spell, you may gain 1 life.</text>
     <flavorText>The heart of a golem gives life to more than just the iron husk around it.</flavorText>
   </item>
   <item>
     <id>SOM0162</id>
-    <name>Esoscheletro Innestato</name>
-    <text>La creatura equipaggiata prende +2/+2 e ha infettare. (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)
-	Ogniqualvolta l'Esoscheletro Innestato viene tolto da un permanente, sacrifica quel permanente.
-	Equipaggiare {2}</text>
+    <name>Grafted Exoskeleton</name>
+    <text>Equipped creature gets +2/+2 and has infect. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Grafted Exoskeleton becomes unattached from a permanent, sacrifice that permanent.
+Equip {2}</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0163</id>
-    <name>Orologio Frantumatore</name>
-    <text>{T}: Metti un segnalino carica sull'Orologio Frantumatore.
-	{T}: Un giocatore bersaglio mette nel suo cimitero le prime X carte del suo grimorio, dove X è il numero di segnalini carica sull'Orologio Frantumatore.</text>
+    <name>Grindclock</name>
+    <text>{T}: Put a charge counter on Grindclock.
+{T}: Target player puts the top X cards of his or her library into his or her graveyard, where X is the number of charge counters on Grindclock.</text>
     <flavorText>Pray you never hear it chime.</flavorText>
   </item>
   <item>
     <id>SOM0164</id>
-    <name>Balestra Pesante</name>
-    <text>La creatura equipaggiata non STAPpa durante lo STAP del suo controllore.
-	La creatura equipaggiata ha "{T}: Questa creatura infligge 2 danni a una creatura o a un giocatore bersaglio." 
-	Equipaggiare {4}</text>
+    <name>Heavy Arbalest</name>
+    <text>Equipped creature doesn't untap during its controller's untap step.
+Equipped creature has "{T}: This creature deals 2 damage to target creature or player."
+Equip {4}</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0165</id>
-    <name>Bombarcana dell'Orizzonte</name>
-    <text>{2}, {T}, Sacrifica la Bombarcana dell'Orizzonte: Passa in rassegna il tuo grimorio per una carta terra base, rivelala e aggiungila alla tua mano. Poi rimescola il tuo grimorio.
-	Quando la Bombarcana dell'Orizzonte viene messa in un cimitero dal campo di battaglia, puoi pagare {G}. Se lo fai, pesca una carta.</text>
+    <name>Horizon Spellbomb</name>
+    <text>{2}, {T}, Sacrifice Horizon Spellbomb: Search your library for a basic land card, reveal it, and put it into your hand. Then shuffle your library.
+When Horizon Spellbomb is put into a graveyard from the battlefield, you may pay {G}. If you do, draw a card.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0166</id>
-    <name>Myr dagli Artigli d'Icore</name>
-    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)
-	Ogniqualvolta il Myr dagli Artigli d'Icore viene bloccato, prende +2/+2 fino alla fine del turno.</text>
+    <name>Ichorclaw Myr</name>
+    <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+Whenever Ichorclaw Myr becomes blocked, it gets +2/+2 until end of turn.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0167</id>
-    <name>Lenti da Infiltrazione</name>
-    <text>Ogniqualvolta la creatura equipaggiata viene bloccata da una creatura, puoi pescare due carte.
-	Equipaggiare {1}</text>
+    <name>Infiltration Lens</name>
+    <text>Whenever equipped creature becomes blocked by a creature, you may draw two cards.
+Equip {1}</text>
     <flavorText>Neurok spies carry devices that let them look a few moments into the future, giving them an almost insurmountable edge.</flavorText>
   </item>
   <item>
     <id>SOM0168</id>
-    <name>Myr di ferro</name>
-    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <name>Iron Myr</name>
+    <text>{T}: Add {R} to your mana pool.</text>
     <flavorText>The myr are like rusted metal: gleaming purpose hidden by a thin disguise of debris.</flavorText>
   </item>
   <item>
     <id>SOM0169</id>
-    <name>Mastro Forgiatore di Kuldotha</name>
-    <text>{T}, Sacrifica tre artefatti: Passa in rassegna il tuo grimorio per una carta artefatto e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <name>Kuldotha Forgemaster</name>
+    <text>{T}, Sacrifice three artifacts: Search your library for an artifact card and put it onto the battlefield. Then shuffle your library.</text>
     <flavorText>The goblins say it used to be larger, before it began to stoke the Great Furnace with pieces of itself.</flavorText>
   </item>
   <item>
     <id>SOM0170</id>
-    <name>Myr di Piombo</name>
-    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <name>Leaden Myr</name>
+    <text>{T}: Add {B} to your mana pool.</text>
     <flavorText>The myr are like necrogen: a transformative force unconcerned with the changes they wreak.</flavorText>
   </item>
   <item>
     <id>SOM0171</id>
-    <name>Rivestimento di Liquimetallo</name>
-    <text>{T}: Un permanente bersaglio diventa un artefatto in aggiunta agli altri suoi tipi fino alla fine del turno.</text>
+    <name>Liquimetal Coating</name>
+    <text>{T}: Target permanent becomes an artifact in addition to its other types until end of turn.</text>
     <flavorText>"They'll soon become accustomed to wearing skin that is not their own."
-	—Elesh Norn, Grand Cenobite</flavorText>
+—Elesh Norn, Grand Cenobite</flavorText>
   </item>
   <item>
     <id>SOM0172</id>
-    <name>Frusta Elettrificata</name>
-    <text>La creatura equipaggiata prende +2/+0 e ha "Ogniqualvolta questa creatura diventa bersaglio di una magia, questa creatura infligge 2 danni a una creatura o a un giocatore bersaglio".
-	Equipaggiare {2}</text>
+    <name>Livewire Lash</name>
+    <text>Equipped creature gets +2/+0 and has "Whenever this creature becomes the target of a spell, this creature deals 2 damage to target creature or player."
+Equip {2}</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0173</id>
-    <name>Cannone Lux</name>
-    <text>{T}: Metti un segnalino carica sul Cannone Lux.
-	{T}, Rimuovi tre segnalini carica dal Cannone Lux: Distruggi un permanente bersaglio.</text>
+    <name>Lux Cannon</name>
+    <text>{T}: Put a charge counter on Lux Cannon.
+{T}, Remove three charge counters from Lux Cannon: Destroy target permanent.</text>
     <flavorText>There are few problems that can't be solved by putting a hole in the world.</flavorText>
   </item>
   <item>
     <id>SOM0174</id>
-    <name>Memnito</name>
+    <name>Memnite</name>
     <text>
     </text>
     <flavorText>Reminders of Memnarch's reign still skirr across Mirrodin, reminiscent of his form if not his power.</flavorText>
   </item>
   <item>
     <id>SOM0175</id>
-    <name>Vasca del Mimic</name>
-    <text>Imprimere - Ogniqualvolta una creatura non pedina viene messa in un cimitero dal campo di battaglia, puoi esiliare quella carta. Se lo fai, fai tornare ogni altra carta esiliata con la Vasca del Mimic nel cimitero del suo proprietario.
-	{3}, {T}: Metti sul campo di battaglia una pedina che è una copia della carta esiliata. Ha rapidità. Esiliala all'inizio della prossima sottofase finale.</text>
+    <name>Mimic Vat</name>
+    <text>Imprint — Whenever a nontoken creature is put into a graveyard from the battlefield, you may exile that card. If you do, return each other card exiled with Mimic Vat to its owner's graveyard.
+{3}, {T}: Put a token onto the battlefield that's a copy of the exiled card. It gains haste. Exile it at the beginning of the next end step.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0176</id>
-    <name>Domina Mente</name>
-    <text>{4}, {T}, Sacrifica il Domina Mente: Controlli un giocatore bersaglio durante il prossimo turno di quel giocatore. (Vedi tutte le carte che quel giocatore può vedere e prendi tutte le decisioni per quel giocatore.)</text>
+    <name>Mindslaver</name>
+    <text>{4}, {T}, Sacrifice Mindslaver: You control target player during that player's next turn. (You see all cards that player could see and make all decisions for the player.)</text>
     <flavorText>It's a helm that leaves the head at its most vulnerable.</flavorText>
   </item>
   <item>
     <id>SOM0177</id>
-    <name>Masticora Codafusa</name>
-    <text>All'inizio del tuo mantenimento, sacrifica la Masticora Codafusa a meno che non scarti una carta. 
-	{4}, Esilia una carta creatura dal tuo cimitero: La Masticora Codafusa infligge 4 danni a una creatura o a un giocatore bersaglio.
-	{2}: Rigenera la Masticora Codafusa.</text>
+    <name>Molten-Tail Masticore</name>
+    <text>At the beginning of your upkeep, sacrifice Molten-Tail Masticore unless you discard a card.
+{4}, Exile a creature card from your graveyard: Molten-Tail Masticore deals 4 damage to target creature or player.
+{2}: Regenerate Molten-Tail Masticore.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0178</id>
-    <name>Replicante Moriok</name>
-    <text>{1}{B}, Sacrifica il Replicante Moriok: Peschi due carte e perdi 2 punti vita.</text>
+    <name>Moriok Replica</name>
+    <text>{1}{B}, Sacrifice Moriok Replica: You draw two cards and lose 2 life.</text>
     <flavorText>All the secrets of the Moriok with only a trace of their corruption.</flavorText>
   </item>
   <item>
     <id>SOM0179</id>
-    <name>Mox di Opale</name>
-    <text>Metallurgia - {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana. Attiva questa abilità solo se controlli tre o più artefatti.</text>
+    <name>Mox Opal</name>
+    <text>Metalcraft — {T}: Add one mana of any color to your mana pool. Activate this ability only if you control three or more artifacts.</text>
     <flavorText>The suns of Mirrodin have shone upon perfection only once.</flavorText>
   </item>
   <item>
     <id>SOM0180</id>
-    <name>Sfera da Battaglia Myr</name>
-    <text>Quando la Sfera da Battaglia Myr entra nel campo di battaglia, metti sul campo di battaglia quattro pedine creatura artefatto Myr 1/1 incolori.
-	Ogniqualvolta la Sfera da Battaglia Myr attacca, puoi TAPpare X Myr STAPpati che controlli. Se lo fai, la Sfera da Battaglia Myr prende +X/+0 fino alla fine del turno e infligge X danni al giocatore in difesa.</text>
+    <name>Myr Battlesphere</name>
+    <text>When Myr Battlesphere enters the battlefield, put four 1/1 colorless Myr artifact creature tokens onto the battlefield.
+Whenever Myr Battlesphere attacks, you may tap X untapped Myr you control. If you do, Myr Battlesphere gets +X/+0 until end of turn and deals X damage to defending player.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0181</id>
-    <name>Myr Galvanizzatore</name>
-    <text>Le altre creature Myr che controlli prendono +1/+1.
-	{1}, {T}: STAPpa ogni altro Myr che controlli.</text>
+    <name>Myr Galvanizer</name>
+    <text>Other Myr creatures you control get +1/+1.
+{1}, {T}: Untap each other Myr you control.</text>
     <flavorText>"We can't quite determine what they're doing, but they seem to be doing it quite well."
-	—Vedalken research notes</flavorText>
+—Vedalken research notes</flavorText>
   </item>
   <item>
     <id>SOM0182</id>
-    <name>Myr Propagatore</name>
-    <text>{3}, {T}: Metti sul campo di battaglia una pedina che è una copia del Myr Propagatore.</text>
+    <name>Myr Propagator</name>
+    <text>{3}, {T}: Put a token that's a copy of Myr Propagator onto the battlefield.</text>
     <flavorText>"We will ingest and remake this world in our image, not unlike some admirable designs I have seen here."
-	—Vorinclex, Voice of Hunger</flavorText>
+—Vorinclex, Voice of Hunger</flavorText>
   </item>
   <item>
     <id>SOM0183</id>
-    <name>Serbatoio Myr</name>
-    <text>{T}: Aggiungi {2} alla tua riserva di mana. Spendi questo mana solo per lanciare magie Myr o attivare abilità di Myr.
-	{3}, {T}: Riprendi in mano una carta Myr bersaglio dal tuo cimitero.</text>
+    <name>Myr Reservoir</name>
+    <text>{T}: Add {2} to your mana pool. Spend this mana only to cast Myr spells or activate abilities of Myr.
+{3}, {T}: Return target Myr card from your graveyard to your hand.</text>
     <flavorText>A mana well as bottomless as the myr are tireless.</flavorText>
   </item>
   <item>
     <id>SOM0184</id>
-    <name>Turibolo Necrogeno</name>
-    <text>Il Turibolo Necrogeno entra nel campo di battaglia con due segnalini carica.
-	{T}, Rimuovi un segnalino carica dal Turibolo Necrogeno: Un giocatore bersaglio perde 2 punti vita.</text>
+    <name>Necrogen Censer</name>
+    <text>Necrogen Censer enters the battlefield with two charge counters on it.
+{T}, Remove a charge counter from Necrogen Censer: Target player loses 2 life.</text>
     <flavorText>Moriok necromancers actively spread necrogen, encouraging the transformation from Mirran to nim.</flavorText>
   </item>
   <item>
     <id>SOM0185</id>
     <name>Necropede</name>
-    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)
-	Quando il Necropode viene messo in un cimitero dal campo di battaglia, puoi mettere un segnalino -1/-1 su una creatura bersaglio.</text>
+    <text>Infect (This creature deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)
+When Necropede is put into a graveyard from the battlefield, you may put a -1/-1 counter on target creature.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0186</id>
-    <name>Replicante Neurok</name>
-    <text>{1}{U}, Sacrifica il Replicante Neurok: Fai tornare una creatura bersaglio in mano al suo proprietario.</text>
+    <name>Neurok Replica</name>
+    <text>{1}{U}, Sacrifice Neurok Replica: Return target creature to its owner's hand.</text>
     <flavorText>All the curiosity of the Neurok with only a trace of their duplicity.</flavorText>
   </item>
   <item>
     <id>SOM0187</id>
-    <name>Bombarcana Nichilista</name>
-    <text>{T}, Sacrifica la Bombarcana Nichilista: Esilia tutte le carte dal cimitero di un giocatore bersaglio.
-	Quando la Bombarcana Nichilista viene messa in un cimitero dal campo di battaglia, puoi pagare {B}. Se lo fai, pesca una carta.</text>
+    <name>Nihil Spellbomb</name>
+    <text>{T}, Sacrifice Nihil Spellbomb: Exile all cards from target player's graveyard.
+When Nihil Spellbomb is put into a graveyard from the battlefield, you may pay {B}. If you do, draw a card.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0188</id>
-    <name>Mantoletale dei Nim</name>
-    <text>La creatura equipaggiata prende +2/+2, ha intimidire ed è uno Zombie nero.
-	Ogniqualvolta una creatura non pedina viene messa nel tuo cimitero dal campo di battaglia, puoi pagare {4}. Se lo fai, rimetti sul campo di battaglia quella carta e assegnale il Mantoletale dei Nim.
-	Equipaggiare {4}</text>
+    <name>Nim Deathmantle</name>
+    <text>Equipped creature gets +2/+2, has intimidate, and is a black Zombie.
+Whenever a nontoken creature is put into your graveyard from the battlefield, you may pay {4}. If you do, return that card to the battlefield and attach Nim Deathmantle to it.
+Equip {4}</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0189</id>
-    <name>Bombarcana dell'Origine</name>
-    <text>{1}, {T}, Sacrifica la Bombarcana dell'Origine: Metti sul campo di battaglia una pedina creatura artefatto Myr 1/1 incolore.
-	Quando la Bombarcana dell'Origine viene messa in un cimitero dal campo di battaglia, puoi pagare {W}. Se lo fai, pesca una carta.</text>
+    <name>Origin Spellbomb</name>
+    <text>{1}, {T}, Sacrifice Origin Spellbomb: Put a 1/1 colorless Myr artifact creature token onto the battlefield.
+When Origin Spellbomb is put into a graveyard from the battlefield, you may pay {W}. If you do, draw a card.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0190</id>
-    <name>Myr di Palladio</name>
-    <text>{T}: Aggiungi {2} alla tua riserva di mana.</text>
+    <name>Palladium Myr</name>
+    <text>{T}: Add {2} to your mana pool.</text>
     <flavorText>The myr are like the Glimmervoid: blank canvases on which to build grand creations.</flavorText>
   </item>
   <item>
     <id>SOM0191</id>
-    <name>Bombarcana del Panico</name>
-    <text>{T}, Sacrifica la Bombarcana del Panico: Una creatura bersaglio non può bloccare in questo turno.
-	Quando la Bombarcana del Panico viene messa in un cimitero dal campo di battaglia, puoi pagare {R}. Se lo fai, pesca una carta.</text>
+    <name>Panic Spellbomb</name>
+    <text>{T}, Sacrifice Panic Spellbomb: Target creature can't block this turn.
+When Panic Spellbomb is put into a graveyard from the battlefield, you may pay {R}. If you do, draw a card.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0192</id>
-    <name>Myr Pericoloso</name>
-    <text>Quando il Myr Pericoloso viene messo in un cimitero dal campo di battaglia, infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <name>Perilous Myr</name>
+    <text>When Perilous Myr is put into a graveyard from the battlefield, it deals 2 damage to target creature or player.</text>
     <flavorText>To Mirrodin, an explosive. To Phyrexia, a missionary.</flavorText>
   </item>
   <item>
     <id>SOM0193</id>
-    <name>Imperion di Platino</name>
-    <text>I tuoi punti vita non possono cambiare. (Non puoi guadagnare o perdere punti vita. Non puoi pagare alcun ammontare di punti vita tranne che 0.)</text>
+    <name>Platinum Emperion</name>
+    <text>Your life total can't change. (You can't gain or lose life. You can't pay any amount of life except 0.)</text>
     <flavorText>It ignores such insignificant forces as time, entropy, and death.</flavorText>
   </item>
   <item>
     <id>SOM0194</id>
-    <name>Predecessore Golem</name>
-    <text>Quando il Predecessore Golem entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura artefatto Golem 3/3 incolori.
-	Ogniqualvolta un giocatore lancia una magia istantaneo o stregoneria che bersaglia solo un Golem, quel giocatore copia quella magia per ogni altro Golem che quella magia potrebbe bersagliare. Ogni copia bersaglia uno diverso di quei Golem.</text>
+    <name>Precursor Golem</name>
+    <text>When Precursor Golem enters the battlefield, put two 3/3 colorless Golem artifact creature tokens onto the battlefield.
+Whenever a player casts an instant or sorcery spell that targets only a single Golem, that player copies that spell for each other Golem that spell could target. Each copy targets a different one of those Golems.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0195</id>
-    <name>Portale Prototipo</name>
-    <text>Imprimere - Quando il Portale Prototipo entra nel campo di battaglia, puoi esiliare una carta artefatto dalla tua mano.
-	{X}, {T}: Metti sul campo di battaglia una pedina che è una copia della carta esiliata. X è il costo di mana convertito di quella carta.</text>
+    <name>Prototype Portal</name>
+    <text>Imprint — When Prototype Portal enters the battlefield, you may exile an artifact card from your hand.
+{X}, {T}: Put a token that's a copy of the exiled card onto the battlefield. X is the converted mana cost of that card.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0196</id>
-    <name>Bomba a Cricchetto</name>
-    <text>{T}: Metti un segnalino carica sulla Bomba a Cricchetto.
-	{T}, Sacrifica la Bomba a Cricchetto: Distruggi ogni permanente non terra con costo di mana convertito pari al numero di segnalini carica sulla Bomba a Cricchetto.</text>
+    <name>Ratchet Bomb</name>
+    <text>{T}: Put a charge counter on Ratchet Bomb.
+{T}, Sacrifice Ratchet Bomb: Destroy each nonland permanent with converted mana cost equal to the number of charge counters on Ratchet Bomb.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0197</id>
-    <name>Trebbiatrice dei Campi Taglienti</name>
+    <name>Razorfield Thresher</name>
     <text>
     </text>
     <flavorText>DANGER! Keep appendages clear of front of machine. And rear of machine. And side of machine. And top of machine.</flavorText>
   </item>
   <item>
     <id>SOM0198</id>
-    <name>Zecca della Ruggine</name>
-    <text>Puoi scegliere di non STAPpare la Zecca della Ruggine durante il tuo STAP.
-	{1}, {T}: TAPpa un artefatto bersaglio. Non STAPpa durante lo STAP del suo controllore fintanto che la Zecca della Ruggine rimane TAPpata.</text>
+    <name>Rust Tick</name>
+    <text>You may choose not to untap Rust Tick during your untap step.
+{1}, {T}: Tap target artifact. It doesn't untap during its controller's untap step for as long as Rust Tick remains tapped.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0199</id>
-    <name>Reliquia Arrugginita</name>
-    <text>Metallurgia - La Reliquia Arrugginita è una creatura artefatto Golem 5/5 fintanto che controlli tre o più artefatti.</text>
+    <name>Rusted Relic</name>
+    <text>Metalcraft — Rusted Relic is a 5/5 Golem artifact creature as long as you control three or more artifacts.</text>
     <flavorText>"We consider rust a curable disease."
-	—Tarrin, Hammer-Tribe shaman</flavorText>
+—Tarrin, Hammer-Tribe shaman</flavorText>
   </item>
   <item>
     <id>SOM0200</id>
-    <name>Golem dagli Artigli a Sciabola</name>
-    <text>{R}: Il Golem dagli Artigli a Sciabola ha attacco improvviso fino alla fine del turno.</text>
+    <name>Saberclaw Golem</name>
+    <text>{R}: Saberclaw Golem gains first strike until end of turn.</text>
     <flavorText>The warriors of the Blade Tribe charged the golem, twenty strong. They returned numbering ten . . . and a half.</flavorText>
   </item>
   <item>
     <id>SOM0201</id>
-    <name>Incudine dell'Apparenza</name>
-    <text>Imprimere - Quando l'Incudine dell'Apparenza entra nel campo di battaglia, puoi esiliare una carta non terra dalla tua mano.
-	Le magie che lanci che condividono un tipo di carta con la carta esiliata costano {2} in meno per essere lanciate.</text>
+    <name>Semblance Anvil</name>
+    <text>Imprint — When Semblance Anvil enters the battlefield, you may exile a nonland card from your hand.
+Spells you cast that share a card type with the exiled card cost {2} less to cast.</text>
     <flavorText>Forged from what it forges.</flavorText>
   </item>
   <item>
     <id>SOM0202</id>
-    <name>Myr d'Argento</name>
-    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <name>Silver Myr</name>
+    <text>{T}: Add {U} to your mana pool.</text>
     <flavorText>The myr are like quicksilver: malleable in function and adaptable in form.</flavorText>
   </item>
   <item>
     <id>SOM0203</id>
-    <name>Aliante con Vele a Scatto</name>
-    <text>Metallurgia - L'Aliante con Vele a Scatto ha volare fintanto che controlli tre o più artefatti.</text>
+    <name>Snapsail Glider</name>
+    <text>Metalcraft — Snapsail Glider has flying as long as you control three or more artifacts.</text>
     <flavorText>Built from a reconfigured thresher, it charges with light reflected off the golden plain, ready to take to the air in case of danger.</flavorText>
   </item>
   <item>
     <id>SOM0204</id>
     <name>Soliton</name>
-    <text>{U}: STAPpa il Soliton.</text>
+    <text>{U}: Untap Soliton.</text>
     <flavorText>The gemini engines had lost connection with each other and wandered apart, developing an independent awareness of their surroundings.</flavorText>
   </item>
   <item>
     <id>SOM0205</id>
-    <name>Nibbio Infernale d'Acciaio</name>
-    <text>Volare
-	{2}: Il Nibbio Infernale d'Acciaio prende +1/+0 fino alla fine del turno.
-	{X}: Distruggi ogni permanente non terra con costo di mana convertito pari a X al cui controllore è stato inflitto danno da combattimento dal Nibbio Infernale d'Acciaio in questo turno. Attiva questa abilità solo una volta per turno.</text>
+    <name>Steel Hellkite</name>
+    <text>Flying
+{2}: Steel Hellkite gets +1/+0 until end of turn.
+{X}: Destroy each nonland permanent with converted mana cost X whose controller was dealt combat damage by Steel Hellkite this turn. Activate this ability only once each turn.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0206</id>
-    <name>Falce delle Falde</name>
-    <text>Imprimere - Quando la Falce delle Falde entra nel campo di battaglia, passa in rassegna il tuo grimorio per una carta terra, esiliala, poi rimescola il tuo grimorio.
-	La creatura equipaggiata prende +1/+1 per ogni terra sul campo di battaglia con lo stesso nome della carta esiliata.
-	Equipaggiare {3}</text>
+    <name>Strata Scythe</name>
+    <text>Imprint — When Strata Scythe enters the battlefield, search your library for a land card, exile it, then shuffle your library.
+Equipped creature gets +1/+1 for each land on the battlefield with the same name as the exiled card.
+Equip {3}</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0207</id>
-    <name>Briglie dell'Errante</name>
-    <text>La creatura equipaggiata prende +1/+1 e ha rapidità.
-	Equipaggiare {1}</text>
+    <name>Strider Harness</name>
+    <text>Equipped creature gets +1/+1 and has haste.
+Equip {1}</text>
     <flavorText>Each journey begins with a single step—and sometimes ends with that single step as well.</flavorText>
   </item>
   <item>
     <id>SOM0208</id>
-    <name>Spada di Corpo e Mente</name>
-    <text>La creatura equipaggiata prende +2/+2 e ha protezione dal verde e dal blu.
-	Ogniqualvolta la creatura equipaggiata infligge danno da combattimento a un giocatore, metti sul campo di battaglia una pedina creatura Lupo 2/2 verde e quel giocatore mette le prime dieci carte del suo grimorio nel suo cimitero.
-	Equipaggiare {2}</text>
+    <name>Sword of Body and Mind</name>
+    <text>Equipped creature gets +2/+2 and has protection from green and from blue.
+Whenever equipped creature deals combat damage to a player, you put a 2/2 green Wolf creature token onto the battlefield and that player puts the top ten cards of his or her library into his or her graveyard.
+Equip {2}</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0209</id>
-    <name>Bastone Vitale dei Sylvok</name>
-    <text>La creatura equipaggiata prende +1/+0.
-	Ogniqualvolta la creatura equipaggiata viene messa in un cimitero, guadagni 3 punti vita.
-	Equipaggiare {1}</text>
+    <name>Sylvok Lifestaff</name>
+    <text>Equipped creature gets +1/+0.
+Whenever equipped creature is put into a graveyard, you gain 3 life.
+Equip {1}</text>
     <flavorText>The druid's lifestaff connects her to generations of bygone Sylvok.</flavorText>
   </item>
   <item>
     <id>SOM0210</id>
-    <name>Replicante Sylvok</name>
-    <text>{G}, Sacrifica il Replicante Sylvok: Distruggi un artefatto o un incantesimo bersaglio.</text>
+    <name>Sylvok Replica</name>
+    <text>{G}, Sacrifice Sylvok Replica: Destroy target artifact or enchantment.</text>
     <flavorText>All the zeal of the Sylvok with only a trace of their conservancy.</flavorText>
   </item>
   <item>
     <id>SOM0211</id>
-    <name>Trono di Geth</name>
-    <text>{T}, Sacrifica un artefatto: Proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <name>Throne of Geth</name>
+    <text>{T}, Sacrifice an artifact: Proliferate. (You choose any number of permanents and/or players with counters on them, then give each another counter of a kind already there.)</text>
     <flavorText>At the heart of Ish Sah, Geth stokes the dark fires of Phyrexia.</flavorText>
   </item>
   <item>
     <id>SOM0212</id>
-    <name>Torre delle Calamità</name>
-    <text>{8}, {T}: La Torre delle Calamità infligge 12 danni a una creatura bersaglio.</text>
+    <name>Tower of Calamities</name>
+    <text>{8}, {T}: Tower of Calamities deals 12 damage to target creature.</text>
     <flavorText>The ur-golems concealed one of their towers out of fear that its power would be abused, and in anticipation of a time when its power would be sorely needed.</flavorText>
   </item>
   <item>
     <id>SOM0213</id>
-    <name>Trigono della Corruzione</name>
-    <text>Il Trigono della Corruzione entra nel campo di battaglia con tre segnalini carica.
-	{B}{B}, {T}: Metti un segnalino carica sul Trigono della Corruzione.
-	{2}, {T}, Rimuovi un segnalino carica dal Trigono della Corruzione: Metti un segnalino -1/-1 su una creatura bersaglio.</text>
+    <name>Trigon of Corruption</name>
+    <text>Trigon of Corruption enters the battlefield with three charge counters on it.
+{B}{B}, {T}: Put a charge counter on Trigon of Corruption.
+{2}, {T}, Remove a charge counter from Trigon of Corruption: Put a -1/-1 counter on target creature.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0214</id>
-    <name>Trigono dell'Infestazione</name>
-    <text>Il Trigono dell'Infestazione entra nel campo di battaglia con tre segnalini carica.
-	{G}{G}, {T}: Metti un segnalino carica sul Trigono dell'Infestazione.
-	{2}, {T}, Rimuovi un segnalino carica dal Trigono dell'Infestazione: Metti sul campo di battaglia una pedina creatura Insetto 1/1 verde con infettare.</text>
+    <name>Trigon of Infestation</name>
+    <text>Trigon of Infestation enters the battlefield with three charge counters on it.
+{G}{G}, {T}: Put a charge counter on Trigon of Infestation.
+{2}, {T}, Remove a charge counter from Trigon of Infestation: Put a 1/1 green Insect creature token with infect onto the battlefield.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0215</id>
-    <name>Trigono del Rimedio</name>
-    <text>Il Trigono del Rimedio entra nel campo di battaglia con tre segnalini carica.
-	{W}{W}, {T}: Metti un segnalino carica sul Trigono del Rimedio.
-	{2}, {T}, Rimuovi un segnalino carica dal Trigono del Rimedio: Un giocatore bersaglio guadagna 3 punti vita.</text>
+    <name>Trigon of Mending</name>
+    <text>Trigon of Mending enters the battlefield with three charge counters on it.
+{W}{W}, {T}: Put a charge counter on Trigon of Mending.
+{2}, {T}, Remove a charge counter from Trigon of Mending: Target player gains 3 life.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0216</id>
-    <name>Trigono dell'Ira</name>
-    <text>Il Trigono dell'Ira entra nel campo di battaglia con tre segnalini carica.
-	{R}{R}, {T}: Metti un segnalino carica sul Trigono dell'Ira.
-	{2}, {T}, Rimuovi un segnalino carica dal Trigono dell'Ira: Una creatura bersaglio prende +3/+0 fino alla fine del turno.</text>
+    <name>Trigon of Rage</name>
+    <text>Trigon of Rage enters the battlefield with three charge counters on it.
+{R}{R}, {T}: Put a charge counter on Trigon of Rage.
+{2}, {T}, Remove a charge counter from Trigon of Rage: Target creature gets +3/+0 until end of turn.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0217</id>
-    <name>Trigono del Pensiero</name>
-    <text>Il Trigono del Pensiero entra nel campo di battaglia con tre segnalini carica.
-	{U}{U}, {T}: Metti un segnalino carica sul Trigono del Pensiero.
-	{2}, {T}, Rimuovi un segnalino carica dal Trigono del Pensiero: Pesca una carta.</text>
+    <name>Trigon of Thought</name>
+    <text>Trigon of Thought enters the battlefield with three charge counters on it.
+{U}{U}, {T}: Put a charge counter on Trigon of Thought.
+{2}, {T}, Remove a charge counter from Trigon of Thought: Draw a card.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0218</id>
-    <name>Magnete del Crollo</name>
-    <text>Il Magnete del Crollo entra nel campo di battaglia con tre segnalini carica.
-	{T}, Rimuovi un segnalino carica dal Magnete del Crollo: TAPpa un artefatto o una creatura bersaglio..</text>
+    <name>Tumble Magnet</name>
+    <text>Tumble Magnet enters the battlefield with three charge counters on it.
+{T}, Remove a charge counter from Tumble Magnet: Tap target artifact or creature.</text>
     <flavorText>Magnetic devices that keep massive golems and structures standing can also be used for the opposite purpose.</flavorText>
   </item>
   <item>
     <id>SOM0219</id>
-    <name>Aspide Vettore</name>
-    <text>{B}: L'Aspide Vettore ha infettare fino alla fine del turno. (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <name>Vector Asp</name>
+    <text>{B}: Vector Asp gains infect until end of turn. (It deals damage to creatures in the form of -1/-1 counters and to players in the form of poison counters.)</text>
     <flavorText>Phyrexia's machines take inspiration from nature. Twisted, disturbing inspiration.</flavorText>
   </item>
   <item>
     <id>SOM0220</id>
-    <name>Diario di Venser</name>
-    <text>Non hai un limite massimo di carte nella tua mano.
-	All'inizio del tuo mantenimento, guadagni 1 punto vita per ogni carta nella tua mano.</text>
+    <name>Venser's Journal</name>
+    <text>You have no maximum hand size.
+At the beginning of your upkeep, you gain 1 life for each card in your hand.</text>
     <flavorText>A Planeswalker's chronicle spans worlds and civilizations, each page a lifetime.</flavorText>
   </item>
   <item>
     <id>SOM0221</id>
-    <name>Replicante Vulshok</name>
-    <text>{1}{R}, Sacrifica il Replicante Vulshok: Il Replicante Vulshok infligge 3 danni a un giocatore bersaglio.</text>
+    <name>Vulshok Replica</name>
+    <text>{1}{R}, Sacrifice Vulshok Replica: Vulshok Replica deals 3 damage to target player.</text>
     <flavorText>All the fury of the Vulshok with only a trace of their recklessness.</flavorText>
   </item>
   <item>
     <id>SOM0222</id>
-    <name>Muro di Corde del Groviglio</name>
-    <text>Difensore
-	{G}: Il Muro di Corde del Groviglio ha raggiungere fino alla fine del turno. (Può bloccare le creature con volare.)</text>
-    <flavorText>Rootlike fibers travel far from Mirrodin's metallic Forestas, emerging from the crust to drink in the mana-infused sunlight.</flavorText>
+    <name>Wall of Tanglecord</name>
+    <text>Defender
+{G}: Wall of Tanglecord gains reach until end of turn. (It can block creatures with flying.)</text>
+    <flavorText>Rootlike fibers travel far from Mirrodin's metallic forests, emerging from the crust to drink in the mana-infused sunlight.</flavorText>
   </item>
   <item>
     <id>SOM0223</id>
-    <name>Macchina dei Wurm Attorcigliati</name>
-    <text>Tocco letale
-	legame vitale
-	Quando la Macchina dei Wurm Attorcigliati viene messa in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura artefatto Wurm 3/3 incolore con tocco letale e una pedina creatura artefatto Wurm 3/3 incolore con legame vitale.</text>
+    <name>Wurmcoil Engine</name>
+    <text>Deathtouch, lifelink
+When Wurmcoil Engine is put into a graveyard from the battlefield, put a 3/3 colorless Wurm artifact creature token with deathtouch and a 3/3 colorless Wurm artifact creature token with lifelink onto the battlefield.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0224</id>
-    <name>Rupi di Fenditura Nera</name>
-    <text>Le Rupi di Fenditura Nera entrano nel campo di battaglia TAPpate a meno che tu non controlli al massimo altre due terre.
-	{T}: Aggiungi {B} o {R} alla tua riserva di mana.</text>
+    <name>Blackcleave Cliffs</name>
+    <text>Blackcleave Cliffs enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {B} or {R} to your mana pool.</text>
     <flavorText>Where the Oxidda Chain mingles with the Mephidross, oil-suffused metal crumbles away, leaving walls of blackened bones.</flavorText>
   </item>
   <item>
     <id>SOM0225</id>
-    <name>Gola di Linea Ramata</name>
-    <text>La Gola di Linea Ramata entra nel campo di battaglia TAPpata a meno che tu non controlli al massimo altre due terre.
-	{T}: Aggiungi {R} o {G} alla tua riserva di mana.</text>
-    <flavorText>Where the Tangle overruns the Oxidda Montagnas, metallic beasts scratch their territories in the verdigris.</flavorText>
+    <name>Copperline Gorge</name>
+    <text>Copperline Gorge enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {R} or {G} to your mana pool.</text>
+    <flavorText>Where the Tangle overruns the Oxidda mountains, metallic beasts scratch their territories in the verdigris.</flavorText>
   </item>
   <item>
     <id>SOM0226</id>
-    <name>Sponde di Macchianera</name>
-    <text>Le Sponde di Macchianera entrano nel campo di battaglia TAPpate a meno che tu non controlli al massimo altre due terre.
-	{T}: Aggiungi {U} o {B} alla tua riserva di mana.</text>
+    <name>Darkslick Shores</name>
+    <text>Darkslick Shores enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {U} or {B} to your mana pool.</text>
     <flavorText>Where the Mephidross leaches into the Quicksilver Sea, the waves writhe with necrogen.</flavorText>
   </item>
   <item>
     <id>SOM0227</id>
-    <name>Avamposto Scintillante</name>
-    <text>Quando l'Avamposto Scintillante entra nel campo di battaglia, guadagni 1 punto vita per ogni Luogo sul campo di battaglia.
-	{T}: Aggiungi {1} alla tua riserva di mana.</text>
+    <name>Glimmerpost</name>
+    <text>When Glimmerpost enters the battlefield, you gain 1 life for each Locus on the battlefield.
+{T}: Add {1} to your mana pool.</text>
     <flavorText>What once spied upon Mirrodin from above now waits below for another to assume control.</flavorText>
   </item>
   <item>
     <id>SOM0228</id>
-    <name>Boschetto del Bordo Tagliente</name>
-    <text>Il Boschetto del Bordo Tagliente entra nel campo di battaglia TAPpato a meno che tu non controlli al massimo altre due terre.
-	{T}: Aggiungi {G} o {W} alla tua riserva di mana.</text>
+    <name>Razorverge Thicket</name>
+    <text>Razorverge Thicket enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {G} or {W} to your mana pool.</text>
     <flavorText>Where the Razor Fields beat back the Tangle, the crowded thicket yields to bright scimitars of grass.</flavorText>
   </item>
   <item>
     <id>SOM0229</id>
-    <name>Costa del Mar di Cromo</name>
-    <text>La Costa del Mar di Cromo entra nel campo di battaglia TAPpata a meno che tu non controlli al massimo altre due terre.
-	{T}: Aggiungi {W} o {U} alla tua riserva di mana.</text>
-    <flavorText>Where the Quicksilver Sea laps over the Razor Fields, the terrascape reflects the suns' fading hope.</flavorText>
+    <name>Seachrome Coast</name>
+    <text>Seachrome Coast enters the battlefield tapped unless you control two or fewer other lands.
+{T}: Add {W} or {U} to your mana pool.</text>
+    <flavorText>Where the Quicksilver Sea laps over the Razor Fields, the landscape reflects the suns' fading hope.</flavorText>
   </item>
   <item>
     <id>SOM0230</id>
-    <name>Pianura</name>
+    <name>Plains</name>
     <text>W</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0231</id>
-    <name>Pianura</name>
+    <name>Plains</name>
     <text>W</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0232</id>
-    <name>Pianura</name>
+    <name>Plains</name>
     <text>W</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0233</id>
-    <name>Pianura</name>
+    <name>Plains</name>
     <text>W</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0234</id>
-    <name>Isola</name>
+    <name>Island</name>
     <text>U</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0235</id>
-    <name>Isola</name>
+    <name>Island</name>
     <text>U</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0236</id>
-    <name>Isola</name>
+    <name>Island</name>
     <text>U</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0237</id>
-    <name>Isola</name>
+    <name>Island</name>
     <text>U</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0238</id>
-    <name>Palude</name>
+    <name>Swamp</name>
     <text>B</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0239</id>
-    <name>Palude</name>
+    <name>Swamp</name>
     <text>B</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0240</id>
-    <name>Palude</name>
+    <name>Swamp</name>
     <text>B</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0241</id>
-    <name>Palude</name>
+    <name>Swamp</name>
     <text>B</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0242</id>
-    <name>Montagna</name>
+    <name>Mountain</name>
     <text>R</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0243</id>
-    <name>Montagna</name>
+    <name>Mountain</name>
     <text>R</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0244</id>
-    <name>Montagna</name>
+    <name>Mountain</name>
     <text>R</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0245</id>
-    <name>Montagna</name>
+    <name>Mountain</name>
     <text>R</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0246</id>
-    <name>Foresta</name>
+    <name>Forest</name>
     <text>G</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0247</id>
-    <name>Foresta</name>
+    <name>Forest</name>
     <text>G</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0248</id>
-    <name>Foresta</name>
+    <name>Forest</name>
     <text>G</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOM0249</id>
-    <name>Foresta</name>
+    <name>Forest</name>
     <text>G</text>
     <flavorText>
     </flavorText>

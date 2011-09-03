@@ -31,8 +31,8 @@ namespace ScaricaSpoilers
         string setCode = nodeSet.Attributes["code"].Value;
         string setName = xSetLang.DocumentElement.SelectSingleNode("card_sets_lang/item[@code='" + setCode + "' and @language='ENG']/@name").InnerText;
 
-        //if(setCode != "MBS")
-        //  continue;
+        if(setCode != "M12")
+          continue;
 
         string cardsPath = "cards\\" + setCode + ".xml";
         string cardsLangPath = "cards\\" + setCode + ".eng.xml";

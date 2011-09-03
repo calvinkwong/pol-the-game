@@ -9,7 +9,7 @@
   <item>
     <id>INV0002</id>
     <name>Angelo della Misericordia</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) 
 Quando l'Angelo della Misericordia entra nel campo di battaglia, guadagni 3 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -17,8 +17,8 @@ Quando l'Angelo della Misericordia entra nel campo di battaglia, guadagni 3 punt
   <item>
     <id>INV0003</id>
     <name>Soldato Fervente</name>
-    <text>Cautela (Questa creatura attacca senza TAPpare.)
-Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia).
+    <text>Cautela (Questa creatura attacca senza TAPpare.) 
+Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia). 
 Se è stato pagato il costo di potenziamento, il Soldato Fervente entra nel campo di battaglia con un segnalino +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -33,7 +33,7 @@ Se è stato pagato il costo di potenziamento, il Soldato Fervente entra nel camp
   <item>
     <id>INV0005</id>
     <name>Emissario di Benalia</name>
-    <text>Potenziamento {1}{G} (Puoi pagare {1}{G} addizionale mentre lanci questa magia).
+    <text>Potenziamento {1}{G} (Puoi pagare {1}{G} addizionale mentre lanci questa magia). 
 Quando l'Emissario di Benalia entra nel campo di battaglia, se è stato pagato il costo di potenziamento, distruggi una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -48,8 +48,8 @@ Quando l'Emissario di Benalia entra nel campo di battaglia, se è stato pagato i
   <item>
     <id>INV0007</id>
     <name>Lanciere di Benalia</name>
-    <text>Potenziamento {2}{W} (Puoi pagare {2}{W} addizionale mentre lanci questa magia).
-Se è stato pagato il costo di potenziamento, il Lanciere di Benalia entra nel campo di battaglia con due segnalini +1/+1 e con attacco improvviso.</text>
+    <text>Potenziamento {2}{W} (Puoi pagare {2}{W} addizionale mentre lanci questa magia). 
+Se è stato pagato il costo di potenziamento, il Lanciere di Benalia entra nel campo di battaglia con due segnalini +1/+1 e con attacco improvviso. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -63,7 +63,7 @@ Se è stato pagato il costo di potenziamento, il Lanciere di Benalia entra nel c
   <item>
     <id>INV0009</id>
     <name>Luce Accecante</name>
-    <text>TAPpa tutte le creature non bianche.</text>
+    <text>TAPpa tutte le creature non bianche. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -77,7 +77,7 @@ Se è stato pagato il costo di potenziamento, il Lanciere di Benalia entra nel c
   <item>
     <id>INV0011</id>
     <name>Accolito Scarlatto</name>
-    <text>Protezione dal rosso
+    <text>Protezione dal rosso 
 {W}: La creatura bersaglio guadagna protezione dal rosso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -85,7 +85,7 @@ Se è stato pagato il costo di potenziamento, il Lanciere di Benalia entra nel c
   <item>
     <id>INV0012</id>
     <name>Cavaliere Crociato</name>
-    <text>Protezione dal nero
+    <text>Protezione dal nero 
 Il Cavaliere Crociato prende +1/+1 per ogni Palude controllata dai tuoi avversari.</text>
     <flavorText>
     </flavorText>
@@ -100,9 +100,9 @@ Il Cavaliere Crociato prende +1/+1 per ogni Palude controllata dai tuoi avversar
   <item>
     <id>INV0014</id>
     <name>Colpo Devastante</name>
-    <text>Potenziamento {2}{U} (Puoi pagare {2}{U} addizionale mentre lanci questa magia).
-Distruggi un artefatto o un incantesimo bersaglio.
-Se è stato pagato il costo di potenziamento, pesca due carte.</text>
+    <text>Potenziamento {2}{U} (Puoi pagare {2}{U} addizionale mentre lanci questa magia). 
+Distruggi un artefatto o un incantesimo bersaglio. 
+Se è stato pagato il costo di potenziamento, pesca due carte. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -123,7 +123,7 @@ Se è stato pagato il costo di potenziamento, pesca due carte.</text>
   <item>
     <id>INV0017</id>
     <name>Angelo Scintillante</name>
-    <text>Volare
+    <text>Volare 
 {U}: L'Angelo Scintillante guadagna velo fino alla fine del turno. (Non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -138,15 +138,15 @@ Se è stato pagato il costo di potenziamento, pesca due carte.</text>
   <item>
     <id>INV0019</id>
     <name>Giudizio Affrettato</name>
-    <text>Mentre il Giudizio Affrettato entra sul campo di battaglia, scegli un colore.
-Se una magia istantaneo o stregoneria del colore scelto ti infligge danno, infligge invece quel danno al proprio controllore. [Oracle 2001/03/07]</text>
+    <text>Mentre il Giudizio Affrettato entra sul campo di battaglia, scegli un colore. 
+Se una magia istantaneo o stregoneria del colore scelto ti infligge danno, infligge invece quel danno al proprio controllore. Oracle 2001/03/07 </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0020</id>
     <name>Giorno Sacro</name>
-    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -160,7 +160,7 @@ Se una magia istantaneo o stregoneria del colore scelto ti infligge danno, infli
   <item>
     <id>INV0022</id>
     <name>Accolito di Ossidiana</name>
-    <text>Protezione dal nero
+    <text>Protezione dal nero 
 {W}: Una creatura bersaglio guadagna protezione dal nero fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -168,7 +168,7 @@ Se una magia istantaneo o stregoneria del colore scelto ti infligge danno, infli
   <item>
     <id>INV0023</id>
     <name>Tocco di Orim</name>
-    <text>Potenziamento {1} (Puoi pagare {1} addizionale mentre lanci questa magia.)
+    <text>Potenziamento {1} (Puoi pagare {1} addizionale mentre lanci questa magia.) 
 Previeni i prossimi 2 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno. Se è stato pagato il costo di potenziamento, invece previeni i prossimi 4 danni che verrebbero inflitti a quella creatura o a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -176,7 +176,7 @@ Previeni i prossimi 2 danni che verrebbero inflitti a una creatura o a un giocat
   <item>
     <id>INV0024</id>
     <name>Giuramento di Lealtà</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha protezione dai colori dei permanenti che controlli. Questo effetto non rimuove il Giuramento di Lealtà.</text>
     <flavorText>
     </flavorText>
@@ -184,8 +184,8 @@ La creatura incantata ha protezione dai colori dei permanenti che controlli. Que
   <item>
     <id>INV0025</id>
     <name>Barricate della Prigione</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Potenziamento {1}{W} (Puoi pagare {1}{W} addizionale mentre lanci questa magia).
+    <text>Difensore (Questa creatura non può attaccare.) 
+Potenziamento {1}{W} (Puoi pagare {1}{W} addizionale mentre lanci questa magia). 
 Se è stato pagato il costo di potenziamento, le Barricate della Prigione entrano nel campo di battaglia con un segnalino +1/+1 e con "Le Barricate della Prigione possono attaccare come se non avessero difensore."</text>
     <flavorText>
     </flavorText>
@@ -214,15 +214,15 @@ Se è stato pagato il costo di potenziamento, le Barricate della Prigione entran
   <item>
     <id>INV0029</id>
     <name>Grifone dal Tallone Tagliente</name>
-    <text>Volare
-Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)</text>
+    <text>Volare 
+Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0030</id>
     <name>Trattenere</name>
-    <text>Previeni tutto il danno da combattimento che verrebbe inflitto da una creatura attaccante bersaglio in questo turno.
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto da una creatura attaccante bersaglio in questo turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -230,8 +230,8 @@ Pesca una carta.</text>
   <item>
     <id>INV0031</id>
     <name>Porzione Rivitalizzante</name>
-    <text>Guadagni 3 punti vita.
-Pesca una carta.</text>
+    <text>Guadagni 3 punti vita. 
+Pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -245,7 +245,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0033</id>
     <name>Reya Dawnbringer</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) 
 All'inizio del tuo mantenimento, puoi rimettere sul campo di battaglia una carta creatura bersaglio dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -253,7 +253,7 @@ All'inizio del tuo mantenimento, puoi rimettere sul campo di battaglia una carta
   <item>
     <id>INV0034</id>
     <name>Rotta</name>
-    <text>Puoi lanciare la Rotta in ogni momento in cui potresti lanciare un istantaneo se paghi {2} addizionale per lanciarla.
+    <text>Puoi lanciare la Rotta in ogni momento in cui potresti lanciare un istantaneo se paghi {2} addizionale per lanciarla. 
 Distruggi tutte le creature. Non possono essere rigenerate.</text>
     <flavorText>
     </flavorText>
@@ -261,7 +261,7 @@ Distruggi tutte le creature. Non possono essere rigenerate.</text>
   <item>
     <id>INV0035</id>
     <name>Genio Ruham</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Il Genio Ruham prende -2/-2 fintanto che il bianco è il colore più comune, anche a pari merito, tra tutti i permanenti.</text>
     <flavorText>
     </flavorText>
@@ -276,8 +276,8 @@ Il Genio Ruham prende -2/-2 fintanto che il bianco è il colore più comune, anc
   <item>
     <id>INV0037</id>
     <name>Catene</name>
-    <text>Incanta creatura
-La creatura incantata non STAPpa durante lo STAP del proprio controllore.
+    <text>Incanta creatura 
+La creatura incantata non STAPpa durante lo STAP del proprio controllore. 
 {W}: Il proprietario riprende in mano le Catene.</text>
     <flavorText>
     </flavorText>
@@ -292,14 +292,14 @@ La creatura incantata non STAPpa durante lo STAP del proprio controllore.
   <item>
     <id>INV0039</id>
     <name>Tessitore di Spiriti</name>
-    <text>{2}: Una creatura verde o blu bersaglio prende +0/+1 fino alla fine del turno.</text>
+    <text>{2}: Una creatura verde o blu bersaglio prende +0/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0040</id>
     <name>L'Unione Fa la Forza</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Dominio - La creatura incantata prende +1/+1 per ogni tipo di terra base presente tra le terre che controlli.</text>
     <flavorText>
     </flavorText>
@@ -307,7 +307,7 @@ Dominio - La creatura incantata prende +1/+1 per ogni tipo di terra base present
   <item>
     <id>INV0041</id>
     <name>Apprendista Soleologo</name>
-    <text>{G}, {T}: La creatura bersaglio prende +1/+1 fino alla fine del turno.
+    <text>{G}, {T}: La creatura bersaglio prende +1/+1 fino alla fine del turno. 
 {U}, {T}: Metti una creatura bersaglio che controlli in cima al grimorio del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -315,7 +315,7 @@ Dominio - La creatura incantata prende +1/+1 per ogni tipo di terra base present
   <item>
     <id>INV0042</id>
     <name>Maestro Soleologo</name>
-    <text>{G}{G}, {T}: Le creature che controlli prendono +2/+2 fino alla fine del turno.
+    <text>{G}{G}, {T}: Le creature che controlli prendono +2/+2 fino alla fine del turno. 
 {U}{U}, {T}: Il proprietario riprende in mano una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -323,7 +323,7 @@ Dominio - La creatura incantata prende +1/+1 per ogni tipo di terra base present
   <item>
     <id>INV0043</id>
     <name>L'Amore di Teferi</name>
-    <text>{W}, Sacrifica un incantesimo: Distruggi un incantesimo bersaglio.
+    <text>{W}, Sacrifica un incantesimo: Distruggi un incantesimo bersaglio. 
 {3}{U}{U}: Neutralizza una magia incantesimo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -338,7 +338,7 @@ Dominio - La creatura incantata prende +1/+1 per ogni tipo di terra base present
   <item>
     <id>INV0045</id>
     <name>Selezione</name>
-    <text>Distruggi un permanente bersaglio non terra se c'è sul campo di battaglia un altro permanente con lo stesso nome.
+    <text>Distruggi un permanente bersaglio non terra se c'è sul campo di battaglia un altro permanente con lo stesso nome. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -360,7 +360,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0048</id>
     <name>Onda Frangente</name>
-    <text>Puoi lanciare l'Onda Frangente in un qualsiasi momenti in cui potresti lanciare un istantaneo se paghi {2} addizionale per lanciarla.
+    <text>Puoi lanciare l'Onda Frangente in un qualsiasi momenti in cui potresti lanciare un istantaneo se paghi {2} addizionale per lanciarla. 
 Contemporaneamente STAPpa tutte le creature TAPpate e TAPpa tutte le creature STAPpate.</text>
     <flavorText>
     </flavorText>
@@ -375,7 +375,7 @@ Contemporaneamente STAPpa tutte le creature TAPpate e TAPpa tutte le creature ST
   <item>
     <id>INV0050</id>
     <name>Spruzzo di Cristallo</name>
-    <text>Cambia il testo di una magia o di un permanente bersaglio sostituendo in tutte le occasioni il nome di un colore o di un tipo di terra base con un altro fino alla fine del turno.
+    <text>Cambia il testo di una magia o di un permanente bersaglio sostituendo in tutte le occasioni il nome di un colore o di un tipo di terra base con un altro fino alla fine del turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -383,7 +383,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0051</id>
     <name>Disturbo</name>
-    <text>Neutralizza una magia istantaneo o stregoneria bersaglio a meno che il suo controllore paghi {1}.
+    <text>Neutralizza una magia istantaneo o stregoneria bersaglio a meno che il suo controllore paghi {1}. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -398,7 +398,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0053</id>
     <name>Passero Onirico</name>
-    <text>Volare
+    <text>Volare 
 {T}: La terra bersaglio diventa un tipo di terra base a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -413,7 +413,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0055</id>
     <name>Fuga di Essenza</name>
-    <text>Incanta permanente
+    <text>Incanta permanente 
 Se il permanente incantato è verde o rosso, ha "All'inizio del tuo mantenimento, sacrifica questo permanente a meno che tu paghi il suo costo di mana."</text>
     <flavorText>
     </flavorText>
@@ -421,7 +421,7 @@ Se il permanente incantato è verde o rosso, ha "All'inizio del tuo mantenimento
   <item>
     <id>INV0056</id>
     <name>Escludere</name>
-    <text>Neutralizza una magia creatura bersaglio.
+    <text>Neutralizza una magia creatura bersaglio. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -436,7 +436,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0058</id>
     <name>Squadrone di Spiritelli</name>
-    <text>Potenziamento {3}{U} (Puoi pagare {3}{U} addizionale mentre lanci questa magia.)
+    <text>Potenziamento {3}{U} (Puoi pagare {3}{U} addizionale mentre lanci questa magia.) 
 Se è stato pagato il costo di potenziamento, lo Squadrone di Spiritelli entra nel campo di battaglia con due segnalini +1/+1 e con volare.</text>
     <flavorText>
     </flavorText>
@@ -451,7 +451,7 @@ Se è stato pagato il costo di potenziamento, lo Squadrone di Spiritelli entra n
   <item>
     <id>INV0060</id>
     <name>Manipolare il Fato</name>
-    <text>Passa in rassegna il tuo grimorio per tre carte, esiliale e poi rimescola il tuo grimorio.
+    <text>Passa in rassegna il tuo grimorio per tre carte, esiliale e poi rimescola il tuo grimorio. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -459,7 +459,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0061</id>
     <name>Aerostato Metatrano</name>
-    <text>Volare
+    <text>Volare 
 {X}{U}: Puoi mettere sul campo di battaglia dalla tua mano una carta creatura con costo di mana convertito pari a X. Se lo fai, il proprietario riprende in mano l'Aerostato Metatrano.</text>
     <flavorText>
     </flavorText>
@@ -467,8 +467,8 @@ Pesca una carta.</text>
   <item>
     <id>INV0062</id>
     <name>Trasporto Metatrano</name>
-    <text>Volare
-Il Trasporto Metatrano non può essere bloccato da creature blu.
+    <text>Volare 
+Il Trasporto Metatrano non può essere bloccato da creature blu. 
 {U}: Una creatura bersaglio diventa blu fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -483,7 +483,7 @@ Il Trasporto Metatrano non può essere bloccato da creature blu.
   <item>
     <id>INV0064</id>
     <name>Opzione</name>
-    <text>Guarda la prima carta del tuo grimorio. Puoi mettere quella carta in fondo al tuo grimorio.
+    <text>Guarda la prima carta del tuo grimorio. Puoi mettere quella carta in fondo al tuo grimorio. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -491,8 +491,8 @@ Pesca una carta.</text>
   <item>
     <id>INV0065</id>
     <name>Terreno Illusorio</name>
-    <text>Incanta terra
-Mentre il Terreno Illusorio entra nel campo di battaglia, scegli un tipo di terra base.
+    <text>Incanta terra 
+Mentre il Terreno Illusorio entra nel campo di battaglia, scegli un tipo di terra base. 
 La terra incantata è del tipo scelto.</text>
     <flavorText>
     </flavorText>
@@ -500,8 +500,8 @@ La terra incantata è del tipo scelto.</text>
   <item>
     <id>INV0066</id>
     <name>Sondare</name>
-    <text>Potenziamento {1}{B} (Puoi pagare {1}{B} addizionale mentre lanci questa magia).
-Pesca tre carte, poi scarta due carte.
+    <text>Potenziamento {1}{B} (Puoi pagare {1}{B} addizionale mentre lanci questa magia). 
+Pesca tre carte, poi scarta due carte. 
 Se è stato pagato il costo di potenziamento, il giocatore bersaglio scarta due carte.</text>
     <flavorText>
     </flavorText>
@@ -509,7 +509,7 @@ Se è stato pagato il costo di potenziamento, il giocatore bersaglio scarta due 
   <item>
     <id>INV0067</id>
     <name>Proibizione</name>
-    <text>Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia).
+    <text>Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia). 
 Neutralizza una magia bersaglio se il suo costo di mana convertito è pari o inferiore a 2. Se è stato pagato il costo di potenziamento, invece neutralizza quella magia se il suo costo di mana convertito è pari o inferiore a 4.</text>
     <flavorText>
     </flavorText>
@@ -524,7 +524,7 @@ Neutralizza una magia bersaglio se il suo costo di mana convertito è pari o inf
   <item>
     <id>INV0069</id>
     <name>Corvo dell'Arcobaleno</name>
-    <text>Volare
+    <text>Volare 
 {1}: Il Corvo dell'Arcobaleno diventa del colore a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -532,7 +532,7 @@ Neutralizza una magia bersaglio se il suo costo di mana convertito è pari o inf
   <item>
     <id>INV0070</id>
     <name>Repulsione</name>
-    <text>Il proprietario riprende in mano una creatura bersaglio.
+    <text>Il proprietario riprende in mano una creatura bersaglio. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -540,7 +540,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0071</id>
     <name>Sanguisuga di Zaffiro</name>
-    <text>Volare
+    <text>Volare 
 Le magie blu che lanci costano {U} in più per essere lanciate.</text>
     <flavorText>
     </flavorText>
@@ -548,8 +548,8 @@ Le magie blu che lanci costano {U} in più per essere lanciate.</text>
   <item>
     <id>INV0072</id>
     <name>Ali Evanescenti</name>
-    <text>Incanta creatura
-La creatura incantata ha volare. (Non può essere bloccata tranne che da creature con volare o raggiungere.)
+    <text>Incanta creatura 
+La creatura incantata ha volare. (Non può essere bloccata tranne che da creature con volare o raggiungere.) 
 {U}: Fai tornare le Ali Evanescenti in mano al loro proprietario.</text>
     <flavorText>
     </flavorText>
@@ -571,7 +571,7 @@ La creatura incantata ha volare. (Non può essere bloccata tranne che da creatur
   <item>
     <id>INV0075</id>
     <name>Apprendista Tempestologo</name>
-    <text>{W}, {T}: TAPpa una creatura bersaglio.
+    <text>{W}, {T}: TAPpa una creatura bersaglio. 
 {B}, {T}: Il giocatore bersaglio perde 1 punto vita.</text>
     <flavorText>
     </flavorText>
@@ -579,7 +579,7 @@ La creatura incantata ha volare. (Non può essere bloccata tranne che da creatur
   <item>
     <id>INV0076</id>
     <name>Maestra Tempestologa</name>
-    <text>{W}{W}, {T}: La creatura bersaglio guadagna protezione da un colore a tua scelta fino alla fine del turno.
+    <text>{W}{W}, {T}: La creatura bersaglio guadagna protezione da un colore a tua scelta fino alla fine del turno. 
 {B}{B}, {T}: Il giocatore bersaglio perde 2 punti vita e tu guadagni 2 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -587,7 +587,7 @@ La creatura incantata ha volare. (Non può essere bloccata tranne che da creatur
   <item>
     <id>INV0077</id>
     <name>Potere dell'Illusione</name>
-    <text>Un qualsiasi numero di creature bersaglio diventano di un colore a tua scelta fino alla fine del turno.
+    <text>Un qualsiasi numero di creature bersaglio diventano di un colore a tua scelta fino alla fine del turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -595,7 +595,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0078</id>
     <name>Responso di Teferi</name>
-    <text>Neutralizza una magia o un'abilità bersaglio controllata da un avversario che ha come bersaglio una terra che tu controlli. Se in questo modo viene neutralizzata l'abilità di un permanente, distruggi quel permanente.
+    <text>Neutralizza una magia o un'abilità bersaglio controllata da un avversario che ha come bersaglio una terra che tu controlli. Se in questo modo viene neutralizzata l'abilità di un permanente, distruggi quel permanente. 
 Pesca due carte.</text>
     <flavorText>
     </flavorText>
@@ -603,8 +603,8 @@ Pesca due carte.</text>
   <item>
     <id>INV0079</id>
     <name>Alterazione Temporale</name>
-    <text>Ogniqualvolta una creatura o una terra diventa TAPpata, metti un segnalino clessidra su di essa.
-I permanenti con segnalini clessidra non STAPpano durante lo STAP dei loro controllori.
+    <text>Ogniqualvolta una creatura o una terra diventa TAPpata, metti un segnalino clessidra su di essa. 
+I permanenti con segnalini clessidra non STAPpano durante lo STAP dei loro controllori. 
 All'inizio del mantenimento di ogni giocatore, rimuovi tutti i segnalini clessidra dai permanenti controllati da quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -619,8 +619,8 @@ All'inizio del mantenimento di ogni giocatore, rimuovi tutti i segnalini clessid
   <item>
     <id>INV0081</id>
     <name>Emissario di Tolaria</name>
-    <text>Volare
-Potenziamento {1}{W} (Puoi pagare {1}{W} addizionale mentre lanci questa magia.)
+    <text>Volare 
+Potenziamento {1}{W} (Puoi pagare {1}{W} addizionale mentre lanci questa magia.) 
 Quando l'Emissario di Tolaria entra nel campo di battaglia, se è stato pagato il costo di potenziamento, distruggi un incantesimo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -628,7 +628,7 @@ Quando l'Emissario di Tolaria entra nel campo di battaglia, se è stato pagato i
   <item>
     <id>INV0082</id>
     <name>Draghetto della Torre</name>
-    <text>Volare
+    <text>Volare 
 {W}: Il Draghetto della Torre prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -636,9 +636,9 @@ Quando l'Emissario di Tolaria entra nel campo di battaglia, se è stato pagato i
   <item>
     <id>INV0083</id>
     <name>Mantello del Viaggiatore</name>
-    <text>Incanta creatura
-Mentre il Mantello del Viaggiatore entra sul campo di battaglia, scegli un tipo di terra.
-Quando il Mantello del Viaggiatore entra nel campo di battaglia, pesca una carta.
+    <text>Incanta creatura 
+Mentre il Mantello del Viaggiatore entra sul campo di battaglia, scegli un tipo di terra. 
+Quando il Mantello del Viaggiatore entra nel campo di battaglia, pesca una carta. 
 La creatura incantata ha passa-terra del tipo scelto.</text>
     <flavorText>
     </flavorText>
@@ -660,8 +660,8 @@ La creatura incantata ha passa-terra del tipo scelto.</text>
   <item>
     <id>INV0086</id>
     <name>Serpente di Vodalia</name>
-    <text>Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia).
-Il Serpente di Vodalia non può attaccare a meno che il giocatore in difesa controlli almeno un'Isola.
+    <text>Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia). 
+Il Serpente di Vodalia non può attaccare a meno che il giocatore in difesa controlli almeno un'Isola. 
 Se è stato pagato il costo di potenziamento, il Serpente di Vodalia entra nel campo di battaglia con quattro segnalini +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -690,7 +690,7 @@ Se è stato pagato il costo di potenziamento, il Serpente di Vodalia entra nel c
   <item>
     <id>INV0090</id>
     <name>Genio Zanam</name>
-    <text>Volare
+    <text>Volare 
 Il Genio Zanam prende -2/-2 fintanto che il blu è il colore più comune, anche a pari merito, tra tutti i permanenti.</text>
     <flavorText>
     </flavorText>
@@ -705,7 +705,7 @@ Il Genio Zanam prende -2/-2 fintanto che il blu è il colore più comune, anche 
   <item>
     <id>INV0092</id>
     <name>Dipartita Straziante</name>
-    <text>Potenziamento {1}{R} (Puoi pagare {1}{R} addizionale mentre lanci questa magia).
+    <text>Potenziamento {1}{R} (Puoi pagare {1}{R} addizionale mentre lanci questa magia). 
 Distruggi una creatura non nera bersaglio. Non può essere rigenerata. Se è stato pagato il costo di potenziamento, la Dipartita Straziante infligge al controllore di quella creatura un danno pari alla forza di quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -713,7 +713,7 @@ Distruggi una creatura non nera bersaglio. Non può essere rigenerata. Se è sta
   <item>
     <id>INV0093</id>
     <name>Sanguisuga di Andradite</name>
-    <text>Le magie nere che lanci costano {B} addizionale per essere lanciate.
+    <text>Le magie nere che lanci costano {B} addizionale per essere lanciate. 
 {B}: La Sanguisuga di Andradite prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -721,8 +721,8 @@ Distruggi una creatura non nera bersaglio. Non può essere rigenerata. Se è sta
   <item>
     <id>INV0094</id>
     <name>Annichilire</name>
-    <text>Distruggi una creatura bersaglio non nera. Non può essere rigenerata.
-Pesca una carta.</text>
+    <text>Distruggi una creatura bersaglio non nera. Non può essere rigenerata. 
+Pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -736,7 +736,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0096</id>
     <name>Cremare</name>
-    <text>Esilia una carta bersaglio da un cimitero.
+    <text>Esilia una carta bersaglio da un cimitero. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -744,7 +744,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0097</id>
     <name>Angelo della Cripta</name>
-    <text>Volare, Protezione dal Bianco.
+    <text>Volare, Protezione dal Bianco. 
 Quando l'Angelo della Cripta entra inel campo di battaglia, riprendi in mano una carta creatura bersaglio rossa o blu dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -752,8 +752,8 @@ Quando l'Angelo della Cripta entra inel campo di battaglia, riprendi in mano una
   <item>
     <id>INV0098</id>
     <name>Carne Maledetta</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
-La creatura incantata prende -1/-1 e ha Paura. [Oracle 2002/10/01]</text>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
+La creatura incantata prende -1/-1 e ha Paura. Oracle 2002/10/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -774,8 +774,8 @@ La creatura incantata prende -1/-1 e ha Paura. [Oracle 2002/10/01]</text>
   <item>
     <id>INV0101</id>
     <name>Strosso Divoratore</name>
-    <text>Volare, travolgere
-All'inizio del tuo mantenimento, sacrifica una creatura.
+    <text>Volare, travolgere 
+All'inizio del tuo mantenimento, sacrifica una creatura. 
 Sacrifica una creatura: Rigenera lo Strosso Divoratore.</text>
     <flavorText>
     </flavorText>
@@ -783,14 +783,14 @@ Sacrifica una creatura: Rigenera lo Strosso Divoratore.</text>
   <item>
     <id>INV0102</id>
     <name>Agisci o Muori</name>
-    <text>Separa in due pile tutte le creature controllate da un giocatore bersaglio. Distruggi tutte le creature presenti nella pila a scelta di quel giocatore. Non possono essere rigenerate.</text>
+    <text>Separa in due pile tutte le creature controllate da un giocatore bersaglio. Distruggi tutte le creature presenti nella pila a scelta di quel giocatore. Non possono essere rigenerate. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0103</id>
     <name>Drenare</name>
-    <text>Sacrifica una creatura o una terra.
+    <text>Sacrifica una creatura o una terra. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -798,7 +798,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0104</id>
     <name>Errante del Crepuscolo</name>
-    <text>Potenziamento {3}{B} (Puoi pagare {3}{B} addizionale mentre lanci questa magia).
+    <text>Potenziamento {3}{B} (Puoi pagare {3}{B} addizionale mentre lanci questa magia). 
 Se è stato pagato il costo di potenziamento, l'Errante del Crepuscolo entra nel campo di battaglia con due segnalini +1/+1 e con paura.</text>
     <flavorText>
     </flavorText>
@@ -806,7 +806,7 @@ Se è stato pagato il costo di potenziamento, l'Errante del Crepuscolo entra nel
   <item>
     <id>INV0105</id>
     <name>Maledizione Esotica</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Dominio - La creatura incantata prende -1/-1 per ogni tipo di terra base presente tra le terre che controlli.</text>
     <flavorText>
     </flavorText>
@@ -821,7 +821,7 @@ Dominio - La creatura incantata prende -1/-1 per ogni tipo di terra base present
   <item>
     <id>INV0107</id>
     <name>Genio Goham</name>
-    <text>{1}{B}: Rigenera il Genio Goham.
+    <text>{1}{B}: Rigenera il Genio Goham. 
 Il Genio Goham prende -2/-2 fintanto che il nero è il colore più comune, anche a pari merito, tra tutti i permanenti.</text>
     <flavorText>
     </flavorText>
@@ -829,14 +829,14 @@ Il Genio Goham prende -2/-2 fintanto che il nero è il colore più comune, anche
   <item>
     <id>INV0108</id>
     <name>Tessitore di Odio</name>
-    <text>{2}: Una creatura blu o rossa bersaglio prende +1/+0 fino alla fine del turno.</text>
+    <text>{2}: Una creatura blu o rossa bersaglio prende +1/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0109</id>
     <name>Nube Ipnotica</name>
-    <text>Potenziamento {4} (Puoi pagare {4} addizionale mentre lanci questa magia).
+    <text>Potenziamento {4} (Puoi pagare {4} addizionale mentre lanci questa magia). 
 Il giocatore bersaglio scarta una carta. Se è stato pagato il costo di potenziamento, quel giocatore scarta invece tre carte.</text>
     <flavorText>
     </flavorText>
@@ -844,7 +844,7 @@ Il giocatore bersaglio scarta una carta. Se è stato pagato il costo di potenzia
   <item>
     <id>INV0110</id>
     <name>Cavaliere Razziatore</name>
-    <text>Protezione dal bianco
+    <text>Protezione dal bianco 
 Il Cavaliere Razziatore prende +1/+1 per ogni Pianura controllata dai tuoi avversari.</text>
     <flavorText>
     </flavorText>
@@ -852,8 +852,8 @@ Il Cavaliere Razziatore prende +1/+1 per ogni Pianura controllata dai tuoi avver
   <item>
     <id>INV0111</id>
     <name>Lamento Funebre</name>
-    <text>Incanta creatura
-La creatura incantata prende -2/-0.
+    <text>Incanta creatura 
+La creatura incantata prende -2/-0. 
 {B}: Il proprietario riprende in mano il Lamento Funebre.</text>
     <flavorText>
     </flavorText>
@@ -861,7 +861,7 @@ La creatura incantata prende -2/-0.
   <item>
     <id>INV0112</id>
     <name>Apprendista Tenebrologo</name>
-    <text>{U}, {T}: Metti una creatura bersaglio che controlli in cima al grimorio del suo proprietario.
+    <text>{U}, {T}: Metti una creatura bersaglio che controlli in cima al grimorio del suo proprietario. 
 {R}, {T}: Una creatura bersaglio guadagna attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -869,7 +869,7 @@ La creatura incantata prende -2/-0.
   <item>
     <id>INV0113</id>
     <name>Maestro Tenebrologo</name>
-    <text>{U}{U}, {T}: Il proprietario riprende in mano una creatura bersaglio.
+    <text>{U}{U}, {T}: Il proprietario riprende in mano una creatura bersaglio. 
 {R}{R}, {T}: Il Maestro Tenebrologo infligge 2 danni a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -877,7 +877,7 @@ La creatura incantata prende -2/-0.
   <item>
     <id>INV0114</id>
     <name>Mosche Guerriere di Phyrexia</name>
-    <text>Volare
+    <text>Volare 
 {B}: Le Mosche Guerriere di Phyrexia prendono +1/+0 fino alla fine del turno. Attiva questa abilità non più di due volte per turno.</text>
     <flavorText>
     </flavorText>
@@ -906,7 +906,7 @@ La creatura incantata prende -2/-0.
   <item>
     <id>INV0118</id>
     <name>Carnefice di Phyrexia</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta il Carnefice di Phyrexia viene bloccato da una creatura bianca, distruggi quella creatura. Non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -914,7 +914,7 @@ Ogniqualvolta il Carnefice di Phyrexia viene bloccato da una creatura bianca, di
   <item>
     <id>INV0119</id>
     <name>Sputapeste</name>
-    <text>All'inizio del tuo mantenimento, lo Sputapeste infligge 1 danno a ogni creatura e a ogni giocatore.
+    <text>All'inizio del tuo mantenimento, lo Sputapeste infligge 1 danno a ogni creatura e a ogni giocatore. 
 Quando lo Sputapeste viene messo in un cimitero dal campo di battaglia, lo Sputapeste infligge 1 danno a ogni creatura e a ogni giocatore.</text>
     <flavorText>
     </flavorText>
@@ -929,23 +929,23 @@ Quando lo Sputapeste viene messo in un cimitero dal campo di battaglia, lo Sputa
   <item>
     <id>INV0121</id>
     <name>Disprezzo Sconsiderato</name>
-    <text>Distruggi due creature bersaglio non nere. Perdi 5 punti vita.</text>
+    <text>Distruggi due creature bersaglio non nere. Perdi 5 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0122</id>
     <name>Riesumazione</name>
-    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero.
-Pesca una carta.</text>
+    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero. 
+Pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0123</id>
     <name>Armeria Saccheggiata</name>
-    <text>Incanta creatura
-Quando l'Armeria Saccheggiata entra nel campo di battaglia, pesca una carta.
+    <text>Incanta creatura 
+Quando l'Armeria Saccheggiata entra nel campo di battaglia, pesca una carta. 
 La creatura incantata prende +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -953,7 +953,7 @@ La creatura incantata prende +1/+1.</text>
   <item>
     <id>INV0124</id>
     <name>Bruciare l'Anima</name>
-    <text>Spendi solo mana nero e/o rosso per X.
+    <text>Spendi solo mana nero e/o rosso per X. 
 Bruciare l'Anima infligge X danni a una creatura o ad un giocatore bersaglio. Guadagni punti vita pari al danno inflitto, ma non più dell'ammontare di {B} pagati per X, o dei punti vita totali del giocatore prima che Bruciare l'Anima infliggesse il danno, o della costituzione della creatura.</text>
     <flavorText>
     </flavorText>
@@ -968,8 +968,8 @@ Bruciare l'Anima infligge X danni a una creatura o ad un giocatore bersaglio. Gu
   <item>
     <id>INV0126</id>
     <name>Pozzo Contaminato</name>
-    <text>Incanta terra
-Quando il Pozzo Contaminato entra nel campo di battaglia, pesca una carta.
+    <text>Incanta terra 
+Quando il Pozzo Contaminato entra nel campo di battaglia, pesca una carta. 
 La terra incantata è una Palude.</text>
     <flavorText>
     </flavorText>
@@ -998,7 +998,7 @@ La terra incantata è una Palude.</text>
   <item>
     <id>INV0130</id>
     <name>Richiamo del Crepuscolo</name>
-    <text>Puoi lanciare il Richiamo del Crepuscolo quando potresti lanciare un istantaneo se paghi {2} addizionale per lanciarlo.
+    <text>Puoi lanciare il Richiamo del Crepuscolo quando potresti lanciare un istantaneo se paghi {2} addizionale per lanciarlo. 
 Ogni giocatore rimette sul campo di battaglia tutte le carte creatura dal proprio cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1006,7 +1006,7 @@ Ogni giocatore rimette sul campo di battaglia tutte le carte creatura dal propri
   <item>
     <id>INV0131</id>
     <name>Emissario di Urborg</name>
-    <text>Potenziamento {1}{U} (Puoi pagare {1}{U} addizionale mentre lanci questa magia.)
+    <text>Potenziamento {1}{U} (Puoi pagare {1}{U} addizionale mentre lanci questa magia.) 
 Quando l'Emissario di Urborg entra nel campo di battaglia, se è stato pagato il costo di potenziamento, il proprietario riprende in mano un permanente bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1014,7 +1014,7 @@ Quando l'Emissario di Urborg entra nel campo di battaglia, se è stato pagato il
   <item>
     <id>INV0132</id>
     <name>Fantasma di Urborg</name>
-    <text>Il Fantasma di Urborg non può bloccare.
+    <text>Il Fantasma di Urborg non può bloccare. 
 {U}: Previeni tutto il danno da combattimento che verrebbe inflitto e ricevuto dal Fantasma di Urborg in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -1029,8 +1029,8 @@ Quando l'Emissario di Urborg entra nel campo di battaglia, se è stato pagato il
   <item>
     <id>INV0134</id>
     <name>Scheletro di Urborg</name>
-    <text>Potenziamento {3} (Puoi pagare {3} addizionale mentre lanci questa magia).
-{B}: Rigenera lo Scheletro di Urborg.
+    <text>Potenziamento {3} (Puoi pagare {3} addizionale mentre lanci questa magia). 
+{B}: Rigenera lo Scheletro di Urborg. 
 Se è stato pagato il costo di potenziamento, lo Scheletro di Urborg entra nel campo di battaglia con un segnalino +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -1038,8 +1038,8 @@ Se è stato pagato il costo di potenziamento, lo Scheletro di Urborg entra nel c
   <item>
     <id>INV0135</id>
     <name>Piano di Yawgmoth</name>
-    <text>Non puoi lanciare più di una magia per turno.
-Puoi lanciare le carte presenti nel tuo cimitero.
+    <text>Non puoi lanciare più di una magia per turno. 
+Puoi lanciare le carte presenti nel tuo cimitero. 
 Se una carta viene messa nel tuo cimitero da qualsiasi zona, invece esiliala.</text>
     <flavorText>
     </flavorText>
@@ -1061,7 +1061,7 @@ Se una carta viene messa nel tuo cimitero da qualsiasi zona, invece esiliala.</t
   <item>
     <id>INV0138</id>
     <name>Soffio di Darigaaz</name>
-    <text>Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia).
+    <text>Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia). 
 Il Soffio di Darigaaz infligge 1 danno a ogni creatura senza volare ed a ogni giocatore. Se è stato pagato il costo di potenziamento, il Soffio di Darigaaz infligge invece 4 danni a ogni creatura senza volare ed a ogni giocatore.</text>
     <flavorText>
     </flavorText>
@@ -1076,9 +1076,9 @@ Il Soffio di Darigaaz infligge 1 danno a ogni creatura senza volare ed a ogni gi
   <item>
     <id>INV0140</id>
     <name>Colpo Caotico</name>
-    <text>Lancia il Colpo Caotico solo durante il combattimento, dopo la dichiarazione dei bloccanti.
-Lancia una moneta. Se vinci il lancio, la creatura bersaglio prende +1/+1 fino alla fine del turno.
-Pesca una carta. [Oracle 2002/03/01]</text>
+    <text>Lancia il Colpo Caotico solo durante il combattimento, dopo la dichiarazione dei bloccanti. 
+Lancia una moneta. Se vinci il lancio, la creatura bersaglio prende +1/+1 fino alla fine del turno. 
+Pesca una carta. Oracle 2002/03/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1092,8 +1092,8 @@ Pesca una carta. [Oracle 2002/03/01]</text>
   <item>
     <id>INV0142</id>
     <name>Corona di Fiamme</name>
-    <text>Incanta creatura
-{R}: La creatura incantata prende +1/+0 fino alla fine del turno.
+    <text>Incanta creatura 
+{R}: La creatura incantata prende +1/+0 fino alla fine del turno. 
 {R}: Il proprietario riprende in mano la Corona di Fiamme.</text>
     <flavorText>
     </flavorText>
@@ -1108,7 +1108,7 @@ Pesca una carta. [Oracle 2002/03/01]</text>
   <item>
     <id>INV0144</id>
     <name>Fuoco Ghitu</name>
-    <text>Puoi lanciare il Fuoco Ghitu quando potresti lanciare un istantaneo se paghi {2} in più per lanciarlo.
+    <text>Puoi lanciare il Fuoco Ghitu quando potresti lanciare un istantaneo se paghi {2} in più per lanciarlo. 
 Il Fuoco Ghitu infligge X danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1123,7 +1123,7 @@ Il Fuoco Ghitu infligge X danni a una creatura o a un giocatore bersaglio.</text
   <item>
     <id>INV0146</id>
     <name>Genio Halam</name>
-    <text>Rapidità
+    <text>Rapidità 
 Il Genio Halam prende -2/-2 fintanto che il rosso è il colore più comune, anche a pari merito, tra tutti i permanenti.</text>
     <flavorText>
     </flavorText>
@@ -1138,8 +1138,8 @@ Il Genio Halam prende -2/-2 fintanto che il rosso è il colore più comune, anch
   <item>
     <id>INV0148</id>
     <name>Aggressore Kavu</name>
-    <text>Potenziamento {4} (Puoi pagare {4} addizionale mentre lanci questa magia).
-L'Aggressore Kavu non può bloccare.
+    <text>Potenziamento {4} (Puoi pagare {4} addizionale mentre lanci questa magia). 
+L'Aggressore Kavu non può bloccare. 
 Se è stato pagato il costo di potenziamento, l'Aggressore Kavu entra nel campo di battaglia con un segnalino +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -1147,7 +1147,7 @@ Se è stato pagato il costo di potenziamento, l'Aggressore Kavu entra nel campo 
   <item>
     <id>INV0149</id>
     <name>Monarca Kavu</name>
-    <text>Le creature Kavu hanno travolgere.
+    <text>Le creature Kavu hanno travolgere. 
 Ogniqualvolta un altro Kavu entra nel campo di battaglia, metti un segnalino +1/+1 sul Monarca Kavu.</text>
     <flavorText>
     </flavorText>
@@ -1162,7 +1162,7 @@ Ogniqualvolta un altro Kavu entra nel campo di battaglia, metti un segnalino +1/
   <item>
     <id>INV0151</id>
     <name>Scout Kavu</name>
-    <text>Dominio - Lo Scout Kavu prende +1/+0 per ogni tipo di terra base presente tra le terre che controlli.</text>
+    <text>Dominio - Lo Scout Kavu prende +1/+0 per ogni tipo di terra base presente tra le terre che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1190,32 +1190,32 @@ Ogniqualvolta un altro Kavu entra nel campo di battaglia, metti un segnalino +1/
   <item>
     <id>INV0155</id>
     <name>Furia Maniacale</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/+2 e non può bloccare.</text>
+    <text>Incanta creatura 
+La creatura incantata prende +2/+2 e non può bloccare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0156</id>
     <name>Obliterare</name>
-    <text>L'Obliterare non può essere neutralizzato.
-Distruggi tutti gli artefatti, le creature e le terre. Non possono essere rigenerati.</text>
+    <text>L'Obliterare non può essere neutralizzato. 
+Distruggi tutti gli artefatti, le creature e le terre. Non possono essere rigenerati. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0157</id>
     <name>Carico Eccessivo</name>
-    <text>Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia).
-Distruggi un artefatto bersaglio se il suo costo di mana convertito è pari o inferiore a {2}. Se è stato pagato il costo di potenziamento, invece distruggi quell'artefatto se il suo costo di mana convertito è pari o inferiore a {5}.</text>
+    <text>Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia). 
+Distruggi un artefatto bersaglio se il suo costo di mana convertito è pari o inferiore a 2. Se è stato pagato il costo di potenziamento, invece distruggi quell'artefatto se il suo costo di mana convertito è pari o inferiore a 5.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0158</id>
     <name>Kavu Balzante</name>
-    <text>Potenziamento {2}{R} (Puoi pagare {2}{R} addizionale mentre lanci questa magia.)
- Attacco improvviso
+    <text>Potenziamento {2}{R} (Puoi pagare {2}{R} addizionale mentre lanci questa magia.) 
+ Attacco improvviso 
 Se è stato pagato il costo di potenziamento, il Kavu Balzante entra nel campo di battaglia con due segnalini +1/+1 e con rapidità.</text>
     <flavorText>
     </flavorText>
@@ -1230,14 +1230,14 @@ Se è stato pagato il costo di potenziamento, il Kavu Balzante entra nel campo d
   <item>
     <id>INV0160</id>
     <name>Kavu Solitario</name>
-    <text>Ogniqualvolta il Kavu Solitario attacca da solo, prende +2/+0 fino alla fine del turno.</text>
+    <text>Ogniqualvolta il Kavu Solitario attacca da solo, prende +2/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0161</id>
     <name>Sanguisuga di Rubino</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Le magie rosse che lanci costano {R} in più per essere lanciate.</text>
     <flavorText>
     </flavorText>
@@ -1245,7 +1245,7 @@ Le magie rosse che lanci costano {R} in più per essere lanciate.</text>
   <item>
     <id>INV0162</id>
     <name>Attacco Selvaggio</name>
-    <text>Potenziamento {G} (Puoi pagare {G} addizionale mentre lanci questa magia).
+    <text>Potenziamento {G} (Puoi pagare {G} addizionale mentre lanci questa magia). 
 Le creature che controlli guadagnano attacco improvviso fino alla fine del turno. Se è stato pagato il costo di potenziamento, prendono +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1260,7 +1260,7 @@ Le creature che controlli guadagnano attacco improvviso fino alla fine del turno
   <item>
     <id>INV0164</id>
     <name>Lava Ustionante</name>
-    <text>Potenziamento {R} (Puoi pagare un {R} addizionale mentre lanci questa magia).
+    <text>Potenziamento {R} (Puoi pagare un {R} addizionale mentre lanci questa magia). 
 La Lava Ustionante infligge 2 danni a una creatura o a un giocatore bersaglio. Se è stato pagato il costo di potenziamento, quella creatura non può essere rigenerata in questo turno e se sta per essere messa in un cimitero in questo turno, invece esiliala.</text>
     <flavorText>
     </flavorText>
@@ -1275,7 +1275,7 @@ La Lava Ustionante infligge 2 danni a una creatura o a un giocatore bersaglio. S
   <item>
     <id>INV0166</id>
     <name>Emissario di Shiv</name>
-    <text>Potenziamento {1}{B} (Puoi pagare {1}{B} addizionale mentre lanci questa magia).
+    <text>Potenziamento {1}{B} (Puoi pagare {1}{B} addizionale mentre lanci questa magia). 
 Quando l'Emissario di Shiv entra nel campo di battaglia, se è stato pagato il costo di potenziamento, distruggi una creatura bersaglio non nera. Non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -1297,8 +1297,8 @@ Quando l'Emissario di Shiv entra nel campo di battaglia, se è stato pagato il c
   <item>
     <id>INV0169</id>
     <name>Skizzik</name>
-    <text>Potenziamento {R} (Puoi pagare {R} addizionale mentre lanci questa magia.)
-Travolgere, rapidità
+    <text>Potenziamento {R} (Puoi pagare {R} addizionale mentre lanci questa magia.) 
+Travolgere, rapidità 
 All'inizio della sottofase finale, sacrifica lo Skizzik a meno che sia stato pagato il costo di potenziamento.</text>
     <flavorText>
     </flavorText>
@@ -1320,8 +1320,8 @@ All'inizio della sottofase finale, sacrifica lo Skizzik a meno che sia stato pag
   <item>
     <id>INV0172</id>
     <name>Stordire</name>
-    <text>La creatura bersaglio non può bloccare in questo turno.
-Pesca una carta.</text>
+    <text>La creatura bersaglio non può bloccare in questo turno. 
+Pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1335,7 +1335,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0174</id>
     <name>Apprendista Tuonologo</name>
-    <text>{B}, {T}: Un giocatore bersaglio perde 1 punto vita.
+    <text>{B}, {T}: Un giocatore bersaglio perde 1 punto vita. 
 {G}, {T}: Una creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1343,7 +1343,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0175</id>
     <name>Maestro Tuonologo</name>
-    <text>{B}{B}, {T}: Un giocatore bersaglio perde 2 punti vita e tu guadagni 2 punti vita.
+    <text>{B}{B}, {T}: Un giocatore bersaglio perde 2 punti vita e tu guadagni 2 punti vita. 
 {G}{G}, {T}: Le creature che controlli prendono +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1351,14 +1351,14 @@ Pesca una carta.</text>
   <item>
     <id>INV0176</id>
     <name>Fiamme Tribali</name>
-    <text>Dominio - Le Fiamme Tribali infliggono X danni a una creatura o a un giocatore bersaglio, dove X è pari al numero di tipi di terre base tra le terre che controlli.</text>
+    <text>Dominio - Le Fiamme Tribali infliggono X danni a una creatura o a un giocatore bersaglio, dove X è pari al numero di tipi di terre base tra le terre che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0177</id>
     <name>Flagello della Torba</name>
-    <text>Il giocatore bersaglio non può giocare carte terra in questo turno.
+    <text>Il giocatore bersaglio non può giocare carte terra in questo turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1366,8 +1366,8 @@ Pesca una carta.</text>
   <item>
     <id>INV0178</id>
     <name>Ira di Urza</name>
-    <text>Potenziamento {8}{R} (Puoi pagare {8}{R} addizionale mentre lanci questa magia).
-L'Ira di Urza non può essere neutralizzata da magie o abilità.
+    <text>Potenziamento {8}{R} (Puoi pagare {8}{R} addizionale mentre lanci questa magia). 
+L'Ira di Urza non può essere neutralizzata da magie o abilità. 
 L'Ira di Urza infligge 3 danni a una creatura o a un giocatore bersaglio. Se è stato pagato il costo di potenziamento, l'Ira di Urza infligge invece 10 danni a quella creatura o a quel giocatore e il danno non può essere prevenuto.</text>
     <flavorText>
     </flavorText>
@@ -1382,7 +1382,7 @@ L'Ira di Urza infligge 3 danni a una creatura o a un giocatore bersaglio. Se è 
   <item>
     <id>INV0180</id>
     <name>Folgorare</name>
-    <text>Il Folgorare infligge 1 danno a una creatura o a un giocatore bersaglio.
+    <text>Il Folgorare infligge 1 danno a una creatura o a un giocatore bersaglio. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1390,7 +1390,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0181</id>
     <name>Impulso Aggressivo</name>
-    <text>Una creatura bersaglio prende +1/+1 fino alla fine del turno.
+    <text>Una creatura bersaglio prende +1/+1 fino alla fine del turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1398,7 +1398,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0182</id>
     <name>Vincolare</name>
-    <text>Neutralizza un'abilità attivata bersaglio. (Le abilità di mana non possono essere bersagliate)
+    <text>Neutralizza un'abilità attivata bersaglio. (Le abilità di mana non possono essere bersagliate) 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1406,7 +1406,7 @@ Pesca una carta.</text>
   <item>
     <id>INV0183</id>
     <name>Mangusta Fulminea</name>
-    <text>Velo (Questo permanente non può essere bersaglio di magie o abilità.)
+    <text>Velo (Questo permanente non può essere bersaglio di magie o abilità.) 
 La Mangusta Fulminea non può essere neutralizzata.</text>
     <flavorText>
     </flavorText>
@@ -1414,7 +1414,7 @@ La Mangusta Fulminea non può essere neutralizzata.</text>
   <item>
     <id>INV0184</id>
     <name>Impeto delle Fronde</name>
-    <text>Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia).
+    <text>Potenziamento {2} (Puoi pagare {2} addizionale mentre lanci questa magia). 
 L'Impeto delle Fronde infligge 1 danno a ogni creatura con volare ed a ogni giocatore. Se è stato pagato il costo di potenziamento, l'Impeto delle Fronde infligge invece 4 danni a ogni creatura con volare ed a ogni giocatore.</text>
     <flavorText>
     </flavorText>
@@ -1436,7 +1436,7 @@ L'Impeto delle Fronde infligge 1 danno a ogni creatura con volare ed a ogni gioc
   <item>
     <id>INV0187</id>
     <name>Crescita Esplosiva</name>
-    <text>Potenziamento {5} (Puoi pagare {5} addizionale mentre lanci questa magia.)
+    <text>Potenziamento {5} (Puoi pagare {5} addizionale mentre lanci questa magia.) 
 La creatura bersaglio prende +2/+2 fino alla fine del turno. Se è stato pagato il costo di potenziamento, quella creatura prende invece +5/+5 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1444,16 +1444,16 @@ La creatura bersaglio prende +2/+2 fino alla fine del turno. Se è stato pagato 
   <item>
     <id>INV0188</id>
     <name>Terreno Fertile</name>
-    <text>Incanta terra
-Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo controllore aggiunge un mana di un qualsiasi colore alla propria riserva (in aggiunta al mana prodotto dalla terra).</text>
+    <text>Incanta terra 
+Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo controllore aggiunge un mana di un qualsiasi colore alla propria riserva (in aggiunta al mana prodotto dalla terra). </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0189</id>
     <name>Erpice</name>
-    <text>Come costo addizionale per lanciare l'Erpice, sacrifica una terra.
-Passa in rassegna il tuo grimorio per un massimo di due carte terra base e mettile sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
+    <text>Come costo addizionale per lanciare l'Erpice, sacrifica una terra. 
+Passa in rassegna il tuo grimorio per trovare fino a due carte terra base e mettile sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1467,7 +1467,7 @@ Passa in rassegna il tuo grimorio per un massimo di due carte terra base e metti
   <item>
     <id>INV0191</id>
     <name>Camaleonte Kavu</name>
-    <text>Il Camaleonte Kavu non può essere neutralizzato.
+    <text>Il Camaleonte Kavu non può essere neutralizzato. 
 {G}: Il Camaleonte Kavu diventa di un colore a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1489,7 +1489,7 @@ Passa in rassegna il tuo grimorio per un massimo di due carte terra base e metti
   <item>
     <id>INV0194</id>
     <name>Titano Kavu</name>
-    <text>Potenziamento {2}{G} (Puoi pagare {2}{G} addizionale mentre lanci questa magia.)
+    <text>Potenziamento {2}{G} (Puoi pagare {2}{G} addizionale mentre lanci questa magia.) 
 Se è stato pagato il costo di potenziamento, il Titano Kavu entra nel campo di battaglia con tre segnalini +1/+1 e con travolgere.</text>
     <flavorText>
     </flavorText>
@@ -1504,8 +1504,8 @@ Se è stato pagato il costo di potenziamento, il Titano Kavu entra nel campo di 
   <item>
     <id>INV0196</id>
     <name>Elite di Llanowar</name>
-    <text>Travolgere
-Potenziamento {8} (Puoi pagare {8} addizionale mentre lanci questa magia.)
+    <text>Travolgere 
+Potenziamento {8} (Puoi pagare {8} addizionale mentre lanci questa magia.) 
 Se è stato pagato il costo di potenziamento, l'Elite di Llanowar entra nel campo di battaglia con cinque segnalini +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -1527,8 +1527,8 @@ Se è stato pagato il costo di potenziamento, l'Elite di Llanowar entra nel camp
   <item>
     <id>INV0199</id>
     <name>Molimo, Stregone Maro</name>
-    <text>Travolgere.
-La forza e la costituzione di Molimo, Stregone Maro sono pari ciascuna al numero di terre che controlli.</text>
+    <text>Travolgere. 
+La forza e la costituzione di Molimo, Stregone Maro sono pari ciascuna al numero di terre che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1542,8 +1542,8 @@ La forza e la costituzione di Molimo, Stregone Maro sono pari ciascuna al numero
   <item>
     <id>INV0201</id>
     <name>Ragno Chelato</name>
-    <text>Potenziamento {3} (Puoi pagare {3} addizionale mentre lanci questa magia).
-Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Potenziamento {3} (Puoi pagare {3} addizionale mentre lanci questa magia). 
+Raggiungere (Questa creatura può bloccare le creature con volare.) 
 Se è stato pagato il costo di potenziamento, il Ragno Chelato entra nel campo di battaglia con un segnalino +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -1558,8 +1558,8 @@ Se è stato pagato il costo di potenziamento, il Ragno Chelato entra nel campo d
   <item>
     <id>INV0203</id>
     <name>Elfi di Quirion</name>
-    <text>Mentre gli Elfi di Quirion entrano nel campo di battaglia, scegli un colore.
-{T}: Aggiungi {G} alla tua riserva di mana.
+    <text>Mentre gli Elfi di Quirion entrano nel campo di battaglia, scegli un colore. 
+{T}: Aggiungi {G} alla tua riserva di mana. 
 {T}: Aggiungi un mana del colore scelto alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1602,7 +1602,7 @@ Se è stato pagato il costo di potenziamento, il Ragno Chelato entra nel campo d
   <item>
     <id>INV0209</id>
     <name>Simbiosi dei Saprolingi</name>
-    <text>Puoi lanciare la Simbiosi dei Saprolingi quando potresti lanciare un istantaneo se paghi {2} addizionale per lanciarla.
+    <text>Puoi lanciare la Simbiosi dei Saprolingi quando potresti lanciare un istantaneo se paghi {2} addizionale per lanciarla. 
 Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde per ogni creatura che controlli.</text>
     <flavorText>
     </flavorText>
@@ -1617,14 +1617,14 @@ Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde per ogni 
   <item>
     <id>INV0211</id>
     <name>Kavu Serpentino</name>
-    <text>{R}: Il Kavu Serpentino guadagna rapidità fino alla fine del turno.</text>
+    <text>{R}: Il Kavu Serpentino guadagna rapidità fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0212</id>
     <name>Genio Sulam</name>
-    <text>Travolgere
+    <text>Travolgere 
 Il Genio Sulam prende -2/-2 fintanto che il verde è il colore più comune, anche a pari merito, tra tutti i permanenti.</text>
     <flavorText>
     </flavorText>
@@ -1632,7 +1632,7 @@ Il Genio Sulam prende -2/-2 fintanto che il verde è il colore più comune, anch
   <item>
     <id>INV0213</id>
     <name>Aggrovigliare</name>
-    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. 
 Ogni creatura attaccante non STAPpa durante il prossimo STAP del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -1640,7 +1640,7 @@ Ogni creatura attaccante non STAPpa durante il prossimo STAP del suo controllore
   <item>
     <id>INV0214</id>
     <name>Elementale del Sottobosco</name>
-    <text>Potenziamento {1}{G} (Puoi pagare {1}{G} addizionale mentre lanci questa magia).
+    <text>Potenziamento {1}{G} (Puoi pagare {1}{G} addizionale mentre lanci questa magia). 
 Quando l'Elementale del Sottobosco entra nel campo di battaglia, se è stato pagato il costo di potenziamento, puoi rivelare carte dalla cima del tuo grimorio fino a che riveli una carta creatura. Se lo fai, metti sul campo di battaglia quella carta e rimescola nel tuo grimorio tutte le altre carte rivelate in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -1648,7 +1648,7 @@ Quando l'Elementale del Sottobosco entra nel campo di battaglia, se è stato pag
   <item>
     <id>INV0215</id>
     <name>Apprendista Spinologo</name>
-    <text>{W}, {T}: TAPpa una creatura bersaglio.
+    <text>{W}, {T}: TAPpa una creatura bersaglio. 
 {R}, {T}: Una creatura bersaglio guadagna attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1656,7 +1656,7 @@ Quando l'Elementale del Sottobosco entra nel campo di battaglia, se è stato pag
   <item>
     <id>INV0216</id>
     <name>Maestro Spinologo</name>
-    <text>{R}{R}, {T}: Il Maestro Spinologo infligge 2 danni a una creatura bersaglio.
+    <text>{R}{R}, {T}: Il Maestro Spinologo infligge 2 danni a una creatura bersaglio. 
 {W}{W}, {T}: Una creatura bersaglio guadagna protezione da un colore a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1685,8 +1685,8 @@ Quando l'Elementale del Sottobosco entra nel campo di battaglia, se è stato pag
   <item>
     <id>INV0220</id>
     <name>Verdeloth l'Antico</name>
-    <text>Potenziamento {X} (Puoi pagare {X} addizionale mentre lanci questa magia.)
-Le altre creature Silvantropo e creature Saprolingio prendono +1/+1.
+    <text>Potenziamento {X} (Puoi pagare {X} addizionale mentre lanci questa magia.) 
+Le altre creature Silvantropo e creature Saprolingio prendono +1/+1. 
 Quando Verdeloth l'Antico entra nel campo di battaglia, se è stato pagato il costo di potenziamento, metti sul campo di battaglia X pedine creatura Saprolingio 1/1 verdi.</text>
     <flavorText>
     </flavorText>
@@ -1694,7 +1694,7 @@ Quando Verdeloth l'Antico entra nel campo di battaglia, se è stato pagato il co
   <item>
     <id>INV0221</id>
     <name>Emissario dei Boschi</name>
-    <text>Potenziamento {1}{R} (Puoi pagare {1}{R} addizionale mentre lanci questa magia).
+    <text>Potenziamento {1}{R} (Puoi pagare {1}{R} addizionale mentre lanci questa magia). 
 Quando l'Emissario dei Boschi entra nel campo di battaglia, se è stato pagato il costo di potenziamento, distruggi un artefatto bersaglio. Non può essere rigenerato.</text>
     <flavorText>
     </flavorText>
@@ -1702,7 +1702,7 @@ Quando l'Emissario dei Boschi entra nel campo di battaglia, se è stato pagato i
   <item>
     <id>INV0222</id>
     <name>Carica Vigorosa</name>
-    <text>Potenziamento {W} (Puoi pagare {W} addizionale mentre lanci questa magia).
+    <text>Potenziamento {W} (Puoi pagare {W} addizionale mentre lanci questa magia). 
 La creatura bersaglio guadagna travolgere fino alla fine del turno. Ogniqualvolta quella creatura infligge danno da combattimento in questo turno, se è stato pagato il costo di potenziamento, guadagni punti vita pari a quel danno.</text>
     <flavorText>
     </flavorText>
@@ -1724,8 +1724,8 @@ La creatura bersaglio guadagna travolgere fino alla fine del turno. Ogniqualvolt
   <item>
     <id>INV0225</id>
     <name>Frusta di Seta</name>
-    <text>Incanta creatura
-La creatura incantata ha raggiungere. (Può bloccare le creature con volare.)
+    <text>Incanta creatura 
+La creatura incantata ha raggiungere. (Può bloccare le creature con volare.) 
 {G}: Il proprietario riprende in mano la Frusta di Seta.</text>
     <flavorText>
     </flavorText>
@@ -1733,21 +1733,21 @@ La creatura incantata ha raggiungere. (Può bloccare le creature con volare.)
   <item>
     <id>INV0226</id>
     <name>Assorbire</name>
-    <text>Neutralizza una magia bersaglio. Guadagni 3 punti vita.</text>
+    <text>Neutralizza una magia bersaglio. Guadagni 3 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0227</id>
-    <name>Frattura Eterea</name>
-    <text>All'inizio del tuo mantenimento, scarta una carta a caso. Se scarti una carta creatura in questo modo, rimettila sul campo di battaglia dal tuo cimitero a meno che un qualsiasi giocatore paghi 5 punti vita.</text>
+    <name>Æther Rift</name>
+    <text>At the beginning of your upkeep, discard a card at random. If you discard a creature card this way, return it from your graveyard to the battlefield unless any player pays 5 life.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0228</id>
     <name>Scudo Angelico</name>
-    <text>Le creature che controlli prendono +0/+1.
+    <text>Le creature che controlli prendono +0/+1. 
 Sacrifica lo Scudo Angelico: Il proprietario riprende in mano una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1755,8 +1755,8 @@ Sacrifica lo Scudo Angelico: Il proprietario riprende in mano una creatura bersa
   <item>
     <id>INV0229</id>
     <name>Mantello di Armadillo</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/+2 e ha travolgere.
+    <text>Incanta creatura 
+La creatura incantata prende +2/+2 e ha travolgere. 
 Ogniqualvolta la creatura incantata infligge danno, guadagni un pari ammontare di punti vita.</text>
     <flavorText>
     </flavorText>
@@ -1764,7 +1764,7 @@ Ogniqualvolta la creatura incantata infligge danno, guadagni un pari ammontare d
   <item>
     <id>INV0230</id>
     <name>Guardiano Corazzato</name>
-    <text>{1}{W}{W}: Una creatura bersaglio che controlli guadagna protezione da un colore a tua scelta fino alla fine del turno.
+    <text>{1}{W}{W}: Una creatura bersaglio che controlli guadagna protezione da un colore a tua scelta fino alla fine del turno. 
 {1}{U}{U}: Il Guardiano Corazzato guadagna velo fino alla fine del turno. (Non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -1772,7 +1772,7 @@ Ogniqualvolta la creatura incantata infligge danno, guadagni un pari ammontare d
   <item>
     <id>INV0231</id>
     <name>Mutazione degli Artefatti</name>
-    <text>Distruggi un artefatto bersaglio. Non può essere rigenerato.
+    <text>Distruggi un artefatto bersaglio. Non può essere rigenerato. 
 Metti sul campo di battaglia X pedine creatura Saprolingio 1/1 verdi, dove X è pari al costo di mana convertito di quell'artefatto.</text>
     <flavorText>
     </flavorText>
@@ -1794,7 +1794,7 @@ Metti sul campo di battaglia X pedine creatura Saprolingio 1/1 verdi, dove X è 
   <item>
     <id>INV0234</id>
     <name>Colpo di Frusta</name>
-    <text>TAPpa una creatura bersaglio STAPpata. Quella creatura infligge un ammontare di danni pari alla propria forza al proprio controllore.</text>
+    <text>TAPpa una creatura bersaglio STAPpata. Quella creatura infligge un ammontare di danni pari alla propria forza al proprio controllore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1808,7 +1808,7 @@ Metti sul campo di battaglia X pedine creatura Saprolingio 1/1 verdi, dove X è 
   <item>
     <id>INV0236</id>
     <name>Spettro Fiammeggiante</name>
-    <text>Volare, rapidità
+    <text>Volare, rapidità 
 Ogniqualvolta lo Spettro Fiammeggiante infligge danno da combattimento a un giocatore, quel giocatore scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -1823,8 +1823,8 @@ Ogniqualvolta lo Spettro Fiammeggiante infligge danno da combattimento a un gioc
   <item>
     <id>INV0238</id>
     <name>Danza del Calderone</name>
-    <text>Lancia la Danza del Calderone solo durante il combattimento.
-Rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero. Quella creatura guadagna rapidità. Riprendila in mano all'inizio della prossima sottofase finale.
+    <text>Lancia la Danza del Calderone solo durante il combattimento. 
+Rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero. Quella creatura guadagna rapidità. Riprendila in mano all'inizio della prossima sottofase finale. 
 Puoi mettere sul campo di battaglia una carta creatura dalla tua mano. Quella creatura guadagna rapidità. Il suo controllore la sacrifica all'inizio della prossima sottofase finale.</text>
     <flavorText>
     </flavorText>
@@ -1832,7 +1832,7 @@ Puoi mettere sul campo di battaglia una carta creatura dalla tua mano. Quella cr
   <item>
     <id>INV0239</id>
     <name>Troll alla Carica</name>
-    <text>Cautela (Questa creatura attacca senza TAPpare.) 
+    <text>Cautela (Questa creatura attacca senza TAPpare.)  
 {G}: Rigenera il Troll alla Carica.</text>
     <flavorText>
     </flavorText>
@@ -1840,7 +1840,7 @@ Puoi mettere sul campo di battaglia una carta creatura dalla tua mano. Quella cr
   <item>
     <id>INV0240</id>
     <name>Ombra Cinerea</name>
-    <text>{B}: L'Ombra Cinerea prende +1/+1 fino alla fine del turno.
+    <text>{B}: L'Ombra Cinerea prende +1/+1 fino alla fine del turno. 
 {R}, Sacrifica l'Ombra Cinerea: L'Ombra Cinerea infligge un danno pari alla propria forza a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1848,14 +1848,14 @@ Puoi mettere sul campo di battaglia una carta creatura dalla tua mano. Quella cr
   <item>
     <id>INV0241</id>
     <name>Coalizione Vittoriosa</name>
-    <text>Vinci la partita se controlli una terra di ogni tipo di terra base e una creatura di ogni colore.</text>
+    <text>Vinci la partita se controlli una terra di ogni tipo di terra base e una creatura di ogni colore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>INV0242</id>
     <name>Crosis, l'Epuratore</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta Crosis, l'Epuratore infligge danno da combattimento a un giocatore, puoi pagare {2}{B}. Se lo fai, scegli un colore. Quel giocatore rivela la propria mano e scarta tutte le carte di quel colore.</text>
     <flavorText>
     </flavorText>
@@ -1863,7 +1863,7 @@ Ogniqualvolta Crosis, l'Epuratore infligge danno da combattimento a un giocatore
   <item>
     <id>INV0243</id>
     <name>Darigaaz, l'Infiammatore</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta Darigaaz, l'Infiammatore infligge danno da combattimento a un giocatore, puoi pagare {2}{R}. Se lo fai, scegli un colore. Quel giocatore rivela la propria mano e Darigaaz gli infligge X danni, dove X è il numero di carte rivelate di quel colore.</text>
     <flavorText>
     </flavorText>
@@ -1871,7 +1871,7 @@ Ogniqualvolta Darigaaz, l'Infiammatore infligge danno da combattimento a un gioc
   <item>
     <id>INV0244</id>
     <name>Dromar, l'Esiliatore</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta Dromar, l'Esiliatore infligge danno da combattimento a un giocatore, puoi pagare {2}{U}. Se lo fai, scegli un colore. I proprietari riprendono in mano tutte le creature di quel colore.</text>
     <flavorText>
     </flavorText>
@@ -1879,7 +1879,7 @@ Ogniqualvolta Dromar, l'Esiliatore infligge danno da combattimento a un giocator
   <item>
     <id>INV0245</id>
     <name>Ideali a Confronto</name>
-    <text>Non più di una creatura può attaccare in ogni turno.
+    <text>Non più di una creatura può attaccare in ogni turno. 
 Non più di una creatura può bloccare in ogni turno.</text>
     <flavorText>
     </flavorText>
@@ -1887,7 +1887,7 @@ Non più di una creatura può bloccare in ogni turno.</text>
   <item>
     <id>INV0246</id>
     <name>Fuochi di Yavimaya</name>
-    <text>Le creature che controlli hanno rapidità.
+    <text>Le creature che controlli hanno rapidità. 
 Sacrifica i Fuochi di Yavimaya: La creatura bersaglio prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1937,9 +1937,9 @@ Sacrifica i Fuochi di Yavimaya: La creatura bersaglio prende +2/+2 fino alla fin
   <item>
     <id>INV0253</id>
     <name>Kangee, Guardiano del Nido</name>
-    <text>Volare
-Potenziamento {2}{X} (Puoi pagare {2}{X} addizionale mentre lanci questa magia.)
-Quando Kangee, Guardiano del Nido entra nel campo di battaglia, se è stato pagato il costo di potenziamento, metti X segnalini piuma su di esso.
+    <text>Volare 
+Potenziamento {2}{X} (Puoi pagare {2}{X} addizionale mentre lanci questa magia.) 
+Quando Kangee, Guardiano del Nido entra nel campo di battaglia, se è stato pagato il costo di potenziamento, metti X segnalini piuma su di esso. 
 Le altre creature Uccello prendono +1/+1 per ogni segnalino piuma presente su Kangee, Guardiano del Nido.</text>
     <flavorText>
     </flavorText>
@@ -1996,7 +1996,7 @@ Le altre creature Uccello prendono +1/+1 per ogni segnalino piuma presente su Ka
   <item>
     <id>INV0261</id>
     <name>Zombie della Pira</name>
-    <text>All'inizio del tuo mantenimento, se lo Zombie della Pira è nel tuo cimitero, puoi pagare {1}{B}{B}. Se lo fai, riprendi in mano lo Zombie della Pira dal tuo cimitero.
+    <text>All'inizio del tuo mantenimento, se lo Zombie della Pira è nel tuo cimitero, puoi pagare {1}{B}{B}. Se lo fai, riprendi in mano lo Zombie della Pira dal tuo cimitero. 
 {1}{R}{R}, Sacrifica lo Zombie della Pira: Lo Zombie della Pira infligge 2 danni a una creatura od a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2004,7 +2004,7 @@ Le altre creature Uccello prendono +1/+1 per ogni segnalino piuma presente su Ka
   <item>
     <id>INV0262</id>
     <name>Kavu Furioso</name>
-    <text>Lampo
+    <text>Lampo 
 Rapidità</text>
     <flavorText>
     </flavorText>
@@ -2033,7 +2033,7 @@ Rapidità</text>
   <item>
     <id>INV0266</id>
     <name>Granchio della Marea</name>
-    <text>Cautela
+    <text>Cautela 
 Quando il Granchio della Marea viene messo in un cimitero dal campo di battaglia, pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -2041,7 +2041,7 @@ Quando il Granchio della Marea viene messo in un cimitero dal campo di battaglia
   <item>
     <id>INV0267</id>
     <name>Rith, il Risvegliatore</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta Rith, il Risvegliatore infligge danno da combattimento a un giocatore, puoi pagare {2}{G}. Se lo fai, scegli un colore. Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde per ogni permanente di quel colore.</text>
     <flavorText>
     </flavorText>
@@ -2056,7 +2056,7 @@ Ogniqualvolta Rith, il Risvegliatore infligge danno da combattimento a un giocat
   <item>
     <id>INV0269</id>
     <name>Arciere Samita</name>
-    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.
+    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno. 
 {T}: L'Arciere Samita infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2064,7 +2064,7 @@ Ogniqualvolta Rith, il Risvegliatore infligge danno da combattimento a un giocat
   <item>
     <id>INV0270</id>
     <name>Visione del Veggente</name>
-    <text>I tuoi avversari giocano con le carte scoperte.
+    <text>I tuoi avversari giocano con le carte scoperte. 
 Sacrifica la Visione del Veggente: Guarda la mano di un giocatore bersaglio e scegli una carta da essa. Quel giocatore scarta quella carta. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
     <flavorText>
     </flavorText>
@@ -2086,8 +2086,8 @@ Sacrifica la Visione del Veggente: Guarda la mano di un giocatore bersaglio e sc
   <item>
     <id>INV0273</id>
     <name>Manto del Dormiente</name>
-    <text>Incanta creatura
-La creatura incantata ha paura.
+    <text>Incanta creatura 
+La creatura incantata ha paura. 
 Ogniqualvolta la creatura incantata infligge danno da combattimento a un avversario, puoi pescare una carta.</text>
     <flavorText>
     </flavorText>
@@ -2102,7 +2102,7 @@ Ogniqualvolta la creatura incantata infligge danno da combattimento a un avversa
   <item>
     <id>INV0275</id>
     <name>Pece Rovente</name>
-    <text>All'inizio del tuo mantenimento, il giocatore bersaglio perde 1 punto vita.
+    <text>All'inizio del tuo mantenimento, il giocatore bersaglio perde 1 punto vita. 
 Sacrifica la Pece Rovente: La Pece Rovente infligge 4 danni a una creatura bersaglio. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
     <flavorText>
     </flavorText>
@@ -2110,7 +2110,7 @@ Sacrifica la Pece Rovente: La Pece Rovente infligge 4 danni a una creatura bersa
   <item>
     <id>INV0276</id>
     <name>Abbraccio Vertebrale</name>
-    <text>Lancia l'Abbraccio Vertebrale solo durante il combattimento.
+    <text>Lancia l'Abbraccio Vertebrale solo durante il combattimento. 
 STAPpa una creatura bersaglio che non controlli e prendine il controllo. Guadagna rapidità fino alla fine del turno. All'inizio della prossima sottofase finale, sacrificala. Se lo fai, guadagni un ammontare di punti vita pari alla sua costituzione.</text>
     <flavorText>
     </flavorText>
@@ -2118,7 +2118,7 @@ STAPpa una creatura bersaglio che non controlli e prendine il controllo. Guadagn
   <item>
     <id>INV0277</id>
     <name>Assassino in Agguato</name>
-    <text>{3}{U}, {T}: TAPpa una creatura bersaglio.
+    <text>{3}{U}, {T}: TAPpa una creatura bersaglio. 
 {3}{B}, {T}: Distruggi una creatura TAPpata bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2126,7 +2126,7 @@ STAPpa una creatura bersaglio che non controlli e prendine il controllo. Guadagn
   <item>
     <id>INV0278</id>
     <name>Boschetto Prezioso</name>
-    <text>Gli altri incantesimi che controlli hanno velo. (Non possono essere bersaglio di magie o abilità.)
+    <text>Gli altri incantesimi che controlli hanno velo. (Non possono essere bersaglio di magie o abilità.) 
 {1}, Sacrifica il Boschetto Prezioso: Passa in rassegna il tuo grimorio per una carta incantesimo e rivela quella carta. Rimescola il tuo grimorio, poi metti la carta in cima a esso.</text>
     <flavorText>
     </flavorText>
@@ -2134,7 +2134,7 @@ STAPpa una creatura bersaglio che non controlli e prendine il controllo. Guadagn
   <item>
     <id>INV0279</id>
     <name>Fossato di Teferi</name>
-    <text>Mentre il Fossato di Teferi entra nel campo di battaglia, scegli un colore.
+    <text>Mentre il Fossato di Teferi entra nel campo di battaglia, scegli un colore. 
 Le creature senza volare del colore scelto non possono attaccarti.</text>
     <flavorText>
     </flavorText>
@@ -2142,7 +2142,7 @@ Le creature senza volare del colore scelto non possono attaccarti.</text>
   <item>
     <id>INV0280</id>
     <name>Treva, il Rinnovatore</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta Treva, il Rinnovatore infligge danno da combattimento a un giocatore, puoi pagare {2}{W}. Se lo fai, scegli un colore. Guadagni 1 punto vita per ogni permanente di quel colore.</text>
     <flavorText>
     </flavorText>
@@ -2150,7 +2150,7 @@ Ogniqualvolta Treva, il Rinnovatore infligge danno da combattimento a un giocato
   <item>
     <id>INV0281</id>
     <name>Tsabo Tavoc</name>
-    <text>Attacco improvviso, protezione dalle creature leggendarie.
+    <text>Attacco improvviso, protezione dalle creature leggendarie. 
 {B}{B}, {T}: Distruggi una creatura leggendaria bersaglio. Non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -2165,7 +2165,7 @@ Ogniqualvolta Treva, il Rinnovatore infligge danno da combattimento a un giocato
   <item>
     <id>INV0283</id>
     <name>Draghetto di Urborg</name>
-    <text>Volare
+    <text>Volare 
 Il Draghetto di Urborg attacca in ogni turno se può farlo.</text>
     <flavorText>
     </flavorText>
@@ -2201,7 +2201,7 @@ Il Draghetto di Urborg attacca in ogni turno se può farlo.</text>
   <item>
     <id>INV0288</id>
     <name>Cobra Vorace</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Ogniqualvolta il Cobra Vorace infligge danno da combattimento a una creatura, distruggi quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -2209,7 +2209,7 @@ Ogniqualvolta il Cobra Vorace infligge danno da combattimento a una creatura, di
   <item>
     <id>INV0289</id>
     <name>Ali della Speranza</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +1/+3 e ha volare.</text>
     <flavorText>
     </flavorText>
@@ -2224,7 +2224,7 @@ La creatura incantata prende +1/+3 e ha volare.</text>
   <item>
     <id>INV0291</id>
     <name>Kavu di Yavimaya</name>
-    <text>La forza del Kavu di Yavimaya è pari al numero di creature rosse sul campo di battaglia.
+    <text>La forza del Kavu di Yavimaya è pari al numero di creature rosse sul campo di battaglia. 
 La costituzione del Kavu di Yavimaya è pari al numero di creature verdi sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -2372,7 +2372,7 @@ La costituzione del Kavu di Yavimaya è pari al numero di creature verdi sul cam
   <item>
     <id>INV0312</id>
     <name>Golem di Metallo</name>
-    <text>Mentre il Golem di Metallo entra nel campo di battaglia, scegli un colore.
+    <text>Mentre il Golem di Metallo entra nel campo di battaglia, scegli un colore. 
 Il Golem di Metallo è del colore scelto. (E' ancora un artefatto.)</text>
     <flavorText>
     </flavorText>
@@ -2429,7 +2429,7 @@ Il Golem di Metallo è del colore scelto. (E' ancora un artefatto.)</text>
   <item>
     <id>INV0320</id>
     <name>Guardiano del Loto</name>
-    <text>Volare
+    <text>Volare 
 {T}: Aggiungi un mana di qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2514,7 +2514,7 @@ Il Golem di Metallo è del colore scelto. (E' ancora un artefatto.)</text>
   <item>
     <id>INV0332</id>
     <name>Rete di Tsabo</name>
-    <text>Quando la Rete di Tsabo entra nel campo di battaglia, pesca una carta.
+    <text>Quando la Rete di Tsabo entra nel campo di battaglia, pesca una carta. 
 Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa durante lo STAP del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -2529,8 +2529,8 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0334</id>
     <name>Sorgente Antica</name>
-    <text>La Sorgente Antica entra nel campo di battaglia TAPpata.
-{T}: Aggiungi {U} alla tua riserva di mana.
+    <text>La Sorgente Antica entra nel campo di battaglia TAPpata. 
+{T}: Aggiungi {U} alla tua riserva di mana. 
 {T}, Sacrifica la Sorgente Antica: Aggiungi {W}{B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2538,7 +2538,7 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0335</id>
     <name>Scavo Archeologico</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}, Sacrifica lo Scavo Archeologico: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2546,7 +2546,7 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0336</id>
     <name>Torre Costiera</name>
-    <text>La Torre Costiera entra nel campo di battaglia TAPpata.
+    <text>La Torre Costiera entra nel campo di battaglia TAPpata. 
 {T} : Aggiungi {W} o {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2554,7 +2554,7 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0337</id>
     <name>Palazzo degli Elfi</name>
-    <text>Il Palazzo degli Elfi entra nel campo di battaglia TAPpato.
+    <text>Il Palazzo degli Elfi entra nel campo di battaglia TAPpato. 
 {T}: Aggiungi {G} o {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2562,8 +2562,8 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0338</id>
     <name>Fenditura Geotermica</name>
-    <text>La Fenditura Geotermica entra nel campo di battaglia TAPpata.
-{T}: Aggiungi {R} alla tua riserva di mana.
+    <text>La Fenditura Geotermica entra nel campo di battaglia TAPpata. 
+{T}: Aggiungi {R} alla tua riserva di mana. 
 {T}, Sacrifica la Fenditura Geotermica: Aggiungi {B}{G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2571,8 +2571,8 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0339</id>
     <name>Fosso di Irrigazione</name>
-    <text>Il Fosso di Irrigazione entra nel campo di battaglia TAPpato.
-{T}: Aggiungi {W} alla tua riserva di mana.
+    <text>Il Fosso di Irrigazione entra nel campo di battaglia TAPpato. 
+{T}: Aggiungi {W} alla tua riserva di mana. 
 {T}, Sacrifica il Fosso di Irrigazione: Aggiungi {G}{U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2580,7 +2580,7 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0340</id>
     <name>Necropoli di Keld</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {4}{R}, {T}, Sacrifica una creatura: La Necropoli di Keld infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2588,7 +2588,7 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0341</id>
     <name>Palude Salata</name>
-    <text>La Palude Salata entra nel campo di battaglia TAPpata.
+    <text>La Palude Salata entra nel campo di battaglia TAPpata. 
 {T}: Aggiungi {U} o {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2596,7 +2596,7 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0342</id>
     <name>Oasi di Shiv</name>
-    <text>L'Oasi di Shiv entra nel campo di battaglia TAPpata.
+    <text>L'Oasi di Shiv entra nel campo di battaglia TAPpata. 
 {T}: Aggiungi {R} o {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2604,8 +2604,8 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0343</id>
     <name>Condotto Sulfureo</name>
-    <text>Il Condotto Sulfureo entra nel campo di battaglia TAPpato.
-{T}: Aggiungi {B} alla tua riserva di mana.
+    <text>Il Condotto Sulfureo entra nel campo di battaglia TAPpato. 
+{T}: Aggiungi {B} alla tua riserva di mana. 
 {T}, Sacrifica il Condotto Sulfureo: Aggiungi {U}{R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2613,8 +2613,8 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0344</id>
     <name>Riserva di Legname</name>
-    <text>La Riserva di Legname entra nel campo di battaglia TAPpata.
-{T}: Aggiungi {G} alla tua riserva di mana.
+    <text>La Riserva di Legname entra nel campo di battaglia TAPpata. 
+{T}: Aggiungi {G} alla tua riserva di mana. 
 {T}, Sacrifica la Riserva di Legname: Aggiungi {R}{W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2622,7 +2622,7 @@ Ogni terra con un'abilità attivata che non sia un'abilità di mana non STAPpa d
   <item>
     <id>INV0345</id>
     <name>Vulcano di Urborg</name>
-    <text>Il Vulcano di Urborg entra nel campo di battaglia TAPpato.
+    <text>Il Vulcano di Urborg entra nel campo di battaglia TAPpato. 
 {T}: Aggiungi {B} o {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>

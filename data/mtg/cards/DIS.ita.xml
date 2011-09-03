@@ -2,7 +2,7 @@
   <item>
     <id>DIS0001</id>
     <name>Apparizione dell'Aurora</name>
-    <text>{W}, Sacrifica l'Apparizione dell'Aurora: Previeni i prossimi 3 danni che verrebbero inflitti in questo turno a una creatura o a un giocatore bersaglio.
+    <text>{W}, Sacrifica l'Apparizione dell'Aurora: Previeni i prossimi 3 danni che verrebbero inflitti in questo turno a una creatura o a un giocatore bersaglio. 
 Ogniqualvolta lanci una magia multicolore, puoi riprendere in mano dal tuo cimitero l'Apparizione dell'Aurora.</text>
     <flavorText>
     </flavorText>
@@ -10,8 +10,8 @@ Ogniqualvolta lanci una magia multicolore, puoi riprendere in mano dal tuo cimit
   <item>
     <id>DIS0002</id>
     <name>Araldo di Azorius</name>
-    <text>L'Araldo di Azorius non può essere bloccato.
-Quando l'Araldo di Azorius entra nel campo di battaglia, guadagni 4 punti vita.
+    <text>L'Araldo di Azorius non può essere bloccato. 
+Quando l'Araldo di Azorius entra nel campo di battaglia, guadagni 4 punti vita. 
 Quando l'Araldo di Azorius entra nel campo di battaglia, sacrificalo a meno che sia stato speso {U} per lanciarlo.</text>
     <flavorText>
     </flavorText>
@@ -19,8 +19,8 @@ Quando l'Araldo di Azorius entra nel campo di battaglia, sacrificalo a meno che 
   <item>
     <id>DIS0003</id>
     <name>Falco del Faro</name>
-    <text>Volare
-Ogniqualvolta il Falco del Faro infligge danno da combattimento ad un giocatore, puoi STAPpare una creatura bersaglio.
+    <text>Volare 
+Ogniqualvolta il Falco del Faro infligge danno da combattimento ad un giocatore, puoi STAPpare una creatura bersaglio. 
 {W}: Il Falco del Faro prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -28,7 +28,7 @@ Ogniqualvolta il Falco del Faro infligge danno da combattimento ad un giocatore,
   <item>
     <id>DIS0004</id>
     <name>Benedizione del Nephilim</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +1/+1 per ciascuno dei suoi colori.</text>
     <flavorText>
     </flavorText>
@@ -43,7 +43,7 @@ La creatura incantata prende +1/+1 per ciascuno dei suoi colori.</text>
   <item>
     <id>DIS0006</id>
     <name>Carambola</name>
-    <text>Il prossimo punto danno che verrebbe inflitto a una creatura bersaglio in questo turno invece viene inflitto a un'altra creatura bersaglio.
+    <text>Il prossimo punto danno che verrebbe inflitto a una creatura bersaglio in questo turno invece viene inflitto a un'altra creatura bersaglio. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -51,7 +51,7 @@ Pesca una carta.</text>
   <item>
     <id>DIS0007</id>
     <name>Antica Celestiale</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta lanci una magia incantesimo, metti un segnalino +1/+1 su ogni creatura che controlli.</text>
     <flavorText>
     </flavorText>
@@ -66,7 +66,7 @@ Ogniqualvolta lanci una magia incantesimo, metti un segnalino +1/+1 su ogni crea
   <item>
     <id>DIS0009</id>
     <name>Equinauta del Ventolibero</name>
-    <text>Volare
+    <text>Volare 
 Fintanto che l'Equinauta del Ventolibero è incantato, ha "{T}: L'Equinauta del Ventolibero infligge 2 danni a una creatura attaccante o bloccante bersaglio."</text>
     <flavorText>
     </flavorText>
@@ -88,7 +88,7 @@ Fintanto che l'Equinauta del Ventolibero è incantato, ha "{T}: L'Equinauta del 
   <item>
     <id>DIS0012</id>
     <name>Compagno di Scudo Haazda</name>
-    <text>All'inizio del tuo mantenimento, sacrifica il Compagno di Scudo Haazda a meno che tu paghi {W}{W}.
+    <text>All'inizio del tuo mantenimento, sacrifica il Compagno di Scudo Haazda a meno che tu paghi {W}{W}. 
 {W}: La prossima volta che una fonte a tua scelta sta per infliggerti danno in questo turno, previeni quel danno.</text>
     <flavorText>
     </flavorText>
@@ -103,7 +103,7 @@ Fintanto che l'Equinauta del Ventolibero è incantato, ha "{T}: L'Equinauta del 
   <item>
     <id>DIS0014</id>
     <name>Paladino di Prahv</name>
-    <text>Ogniqualvolta questa creatura infligge danno, tu guadagni altrettanti punti vita.
+    <text>Ogniqualvolta questa creatura infligge danno, tu guadagni altrettanti punti vita. 
 Previsione - {1}{W}, Rivela il Paladino di Prahv dalla tua mano: Ogniqualvolta la creatura bersaglio infligge danno in questo turno, tu guadagni altrettanti punti vita. (Attiva questa abilità solo durante il tuo mantenimento e solo una volta per turno.)</text>
     <flavorText>
     </flavorText>
@@ -111,7 +111,7 @@ Previsione - {1}{W}, Rivela il Paladino di Prahv dalla tua mano: Ogniqualvolta l
   <item>
     <id>DIS0015</id>
     <name>Proclama della Rinascita</name>
-    <text>Rimetti sul campo di battaglia dal tuo cimitero fino a tre carte creatura bersaglio con costo di mana convertito pari o inferiore a 1.
+    <text>Rimetti sul campo di battaglia dal tuo cimitero fino a tre carte creatura bersaglio con costo di mana convertito pari o inferiore a 1. 
 Previsione - {5}{W}, Rivela il Proclama della Rinascita dalla tua mano: Rimetti sul campo di battaglia dal tuo cimitero una carta creatura bersaglio con costo di mana convertito pari o inferiore a 1. (Attiva questa abilità solo durante il tuo mantenimento e solo una volta per turno.)</text>
     <flavorText>
     </flavorText>
@@ -126,7 +126,7 @@ Previsione - {5}{W}, Rivela il Proclama della Rinascita dalla tua mano: Rimetti 
   <item>
     <id>DIS0017</id>
     <name>Giuria Cuorfedele</name>
-    <text>Difensore
+    <text>Difensore 
 {1}{U}, Sacrifica la Giuria Cuorfedele: Neutralizza una magia creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -134,7 +134,7 @@ Previsione - {5}{W}, Rivela il Proclama della Rinascita dalla tua mano: Rimetti 
   <item>
     <id>DIS0018</id>
     <name>Postura Fortificante</name>
-    <text>Le creature che controlli prendono +1/+1 fino alla fine del turno.
+    <text>Le creature che controlli prendono +1/+1 fino alla fine del turno. 
 Previsione - {W}, Rivela la Postura Fortificante dalla tua mano: La creatura bersaglio prende +1/+1 fino alla fine del turno. (Attiva questa abilità solo durante il tuo mantenimento e solo una volta per turno.)</text>
     <flavorText>
     </flavorText>
@@ -142,8 +142,8 @@ Previsione - {W}, Rivela la Postura Fortificante dalla tua mano: La creatura ber
   <item>
     <id>DIS0019</id>
     <name>Effimera Stoica</name>
-    <text>Difensore
-Volare
+    <text>Difensore 
+Volare 
 Quando l'Effimera Stoica blocca, sacrificala alla fine del combattimento.</text>
     <flavorText>
     </flavorText>
@@ -158,8 +158,8 @@ Quando l'Effimera Stoica blocca, sacrificala alla fine del combattimento.</text>
   <item>
     <id>DIS0021</id>
     <name>Gargoyle Sorgipietra</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Volare
+    <text>Difensore (Questa creatura non può attaccare.) 
+Volare 
 {1}{W}: Le creature con difensore che controlli possono attaccare in questo turno come se non avessero difensore.</text>
     <flavorText>
     </flavorText>
@@ -167,8 +167,8 @@ Volare
   <item>
     <id>DIS0022</id>
     <name>Ussaro di Corte</name>
-    <text>Cautela
-Quando l'Ussaro di Corte entra nel campo di battaglia, guarda le prime tre carte del tuo grimorio, poi aggiungi alla tua mano una di quelle carte e metti le rimanenti in fondo al tuo grimorio in qualsiasi ordine.
+    <text>Cautela 
+Quando l'Ussaro di Corte entra nel campo di battaglia, guarda le prime tre carte del tuo grimorio, poi aggiungi alla tua mano una di quelle carte e metti le rimanenti in fondo al tuo grimorio in qualsiasi ordine. 
 Quando l'Ussaro di Corte entra nel campo di battaglia, sacrificalo a meno che sia stato speso {W} per giocarlo.</text>
     <flavorText>
     </flavorText>
@@ -176,7 +176,7 @@ Quando l'Ussaro di Corte entra nel campo di battaglia, sacrificalo a meno che si
   <item>
     <id>DIS0023</id>
     <name>Manipolatrice Citoplasta</name>
-    <text>Innesto 2 (Questa creatura entra nel campo di battaglia con due segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)
+    <text>Innesto 2 (Questa creatura entra nel campo di battaglia con due segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) 
 {U}, {T} : Prendi il controllo di una creatura bersaglio con un segnalino +1/+1 fintanto che la Manipolatrice Citoplasta rimane nel campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -184,7 +184,7 @@ Quando l'Ussaro di Corte entra nel campo di battaglia, sacrificalo a meno che si
   <item>
     <id>DIS0024</id>
     <name>Apparizione Enigmatica</name>
-    <text>{U}, Sacrifica l'Apparizione Enigmatica: Il giocatore bersaglio mette nel proprio cimitero le prime tre carte del proprio grimorio.
+    <text>{U}, Sacrifica l'Apparizione Enigmatica: Il giocatore bersaglio mette nel proprio cimitero le prime tre carte del proprio grimorio. 
 Ogniqualvolta lanci una magia multicolore, puoi riprendere in mano dal tuo cimitero l'Apparizione Enigmatica.</text>
     <flavorText>
     </flavorText>
@@ -192,7 +192,7 @@ Ogniqualvolta lanci una magia multicolore, puoi riprendere in mano dal tuo cimit
   <item>
     <id>DIS0025</id>
     <name>Governare i Senza Gilda</name>
-    <text>Prendi il controllo della creatura monocolore bersaglio
+    <text>Prendi il controllo della creatura monocolore bersaglio. 
 Previsione - {1}{U}, Rivela Governare i Senza Gilda dalla tua mano: La creatura bersaglio diventa dei colori a tua scelta fino alla fine del turno (Attiva questa abilità solo durante il tuo mantenimento e solo una volta per turno.)</text>
     <flavorText>
     </flavorText>
@@ -200,7 +200,7 @@ Previsione - {1}{U}, Rivela Governare i Senza Gilda dalla tua mano: La creatura 
   <item>
     <id>DIS0026</id>
     <name>Schizzaelio</name>
-    <text>Innesto 3 (Questa creatura entra nel campo di battaglia con tre segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)
+    <text>Innesto 3 (Questa creatura entra nel campo di battaglia con tre segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) 
 {1} : La creatura bersaglio con un segnalino +1/+1 guadagna volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -208,7 +208,7 @@ Previsione - {1}{U}, Rivela Governare i Senza Gilda dalla tua mano: La creatura 
   <item>
     <id>DIS0027</id>
     <name>Saggi di Novijen</name>
-    <text>Innesto 4 (Questa creatura entra nel campo di battaglia con quattro segnalini +1/+1. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)
+    <text>Innesto 4 (Questa creatura entra nel campo di battaglia con quattro segnalini +1/+1. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) 
 {1}, Rimuovi due segnalini +1/+1 tra le creature che controlli: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -216,8 +216,8 @@ Previsione - {1}{U}, Rivela Governare i Senza Gilda dalla tua mano: La creatura 
   <item>
     <id>DIS0028</id>
     <name>Aureola Oculare</name>
-    <text>Incanta creatura
-La creatura incantata ha  "{T}: Pesca una carta."
+    <text>Incanta creatura 
+La creatura incantata ha  "{T}: Pesca una carta." 
 {W}: La creatura incantata guadagna cautela fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -225,8 +225,8 @@ La creatura incantata ha  "{T}: Pesca una carta."
   <item>
     <id>DIS0029</id>
     <name>Plaxmanta</name>
-    <text>Lampo
-Quando la Plaxmanta entra nel campo di battaglia, le creature che controlli guadagnano velo fino alla fine del turno. (Non possono essere bersaglio di magie o abilità.)
+    <text>Lampo 
+Quando la Plaxmanta entra nel campo di battaglia, le creature che controlli guadagnano velo fino alla fine del turno. (Non possono essere bersaglio di magie o abilità.) 
 Quando la Plaxmanta entra nel campo di battaglia, sacrificala a meno che sia stato speso {G} per lanciarla.</text>
     <flavorText>
     </flavorText>
@@ -234,8 +234,8 @@ Quando la Plaxmanta entra nel campo di battaglia, sacrificala a meno che sia sta
   <item>
     <id>DIS0030</id>
     <name>Possessione Psichica</name>
-    <text>Incanta avversario
-Salta la tua acquisizione.
+    <text>Incanta avversario 
+Salta la tua acquisizione. 
 Ogniqualvolta l'avversario incantato pesca una carta, puoi pescare una carta.</text>
     <flavorText>
     </flavorText>
@@ -243,7 +243,7 @@ Ogniqualvolta l'avversario incantato pesca una carta, puoi pescare una carta.</t
   <item>
     <id>DIS0031</id>
     <name>Esploratrice Ala-di-seta</name>
-    <text>Volare
+    <text>Volare 
 {G}, Sacrifica l'Esploratrice Ala-di-seta: Passa in rassegna il tuo grimorio per una carta terra base e mettila nel campo di battaglia TAPpata. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -251,7 +251,7 @@ Ogniqualvolta l'avversario incantato pesca una carta, puoi pescare una carta.</t
   <item>
     <id>DIS0032</id>
     <name>Aeroscritta</name>
-    <text>Ogni giocatore pesca X carte.
+    <text>Ogni giocatore pesca X carte. 
  Previsione - {2}{U}, Rivela l'Aeroscritta dalla tua mano: Ogni giocatore pesca una carta. (Attiva questa abilità solo durante il tuo mantenimento e solo una volta per turno.)</text>
     <flavorText>
     </flavorText>
@@ -266,7 +266,7 @@ Ogniqualvolta l'avversario incantato pesca una carta, puoi pescare una carta.</t
   <item>
     <id>DIS0034</id>
     <name>Tiranno Scagliaonde</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta lanci una magia, fai riprendere in mano al proprietario un permanente bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -274,7 +274,7 @@ Ogniqualvolta lanci una magia, fai riprendere in mano al proprietario un permane
   <item>
     <id>DIS0035</id>
     <name>Mago degli Innesti Vigeano</name>
-    <text>Innesto 2
+    <text>Innesto 2 
 {1}{U}: STAPpa una creatura bersaglio che ha un segnalino +1/+1 su di essa.</text>
     <flavorText>
     </flavorText>
@@ -289,8 +289,8 @@ Ogniqualvolta lanci una magia, fai riprendere in mano al proprietario un permane
   <item>
     <id>DIS0037</id>
     <name>Salvacondotto *</name>
-    <text>Incanta creatura
-Ogniqualvolta la creatura incantata attacca, se la sua forza è pari o inferiore a 2, non può essere bloccata in questo turno.
+    <text>Incanta creatura 
+Ogniqualvolta la creatura incantata attacca, se la sua forza è pari o inferiore a 2, non può essere bloccata in questo turno. 
 Previsione - {1}{U}, Rivela il Salvacondotto dalla tua mano: Una creatura bersaglio con forza pari o inferiore a 2 non può essere bloccata in questo turno. (Attiva questa abilità solo durante il tuo mantenimento e solo una volta per turno.)</text>
     <flavorText>
     </flavorText>
@@ -298,7 +298,7 @@ Previsione - {1}{U}, Rivela il Salvacondotto dalla tua mano: Una creatura bersag
   <item>
     <id>DIS0038</id>
     <name>Legame di Agonia</name>
-    <text>Come costo addizionale per lanciare il Legame di Agonia, paga X punti vita.
+    <text>Come costo addizionale per lanciare il Legame di Agonia, paga X punti vita. 
 Ogni altro giocatore perde X punti vita.</text>
     <flavorText>
     </flavorText>
@@ -313,8 +313,8 @@ Ogni altro giocatore perde X punti vita.</text>
   <item>
     <id>DIS0040</id>
     <name>Campione della Cripta</name>
-    <text>Doppio attacco
-Quando il Campione della Cripta entra nel campo di battaglia, ogni giocatore mette sul campo di battaglia una carta creatura con costo di mana convertito pari o inferiore a 3 dal proprio cimitero.
+    <text>Doppio attacco 
+Quando il Campione della Cripta entra nel campo di battaglia, ogni giocatore mette sul campo di battaglia una carta creatura con costo di mana convertito pari o inferiore a 3 dal proprio cimitero. 
 Quando il Campione della Cripta entra nel campo di battaglia, sacrificalo a meno che sia stato speso {R} per lanciarlo.</text>
     <flavorText>
     </flavorText>
@@ -329,8 +329,8 @@ Quando il Campione della Cripta entra nel campo di battaglia, sacrificalo a meno
   <item>
     <id>DIS0042</id>
     <name>Giullare del Demone</name>
-    <text>Volare
-Determinazione - Il Giullare del Demone prende +2/+1 fintanto che non hai carte in mano.</text>
+    <text>Volare 
+Determinazione - Il Giullare del Demone prende +2/+1 fintanto che non hai carte in mano. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -351,7 +351,7 @@ Determinazione - Il Giullare del Demone prende +2/+1 fintanto che non hai carte 
   <item>
     <id>DIS0045</id>
     <name>Apparizione Entropica</name>
-    <text>{B}, Sacrifica l'Apparizione Entropica: Il giocatore bersaglio perde 1 punto vita e tu guadagni 1 punto vita.
+    <text>{B}, Sacrifica l'Apparizione Entropica: Il giocatore bersaglio perde 1 punto vita e tu guadagni 1 punto vita. 
 Ogniqualvolta lanci una magia multicolore, puoi riprendere in mano dal tuo cimitero l'Apparizione Entropica.</text>
     <flavorText>
     </flavorText>
@@ -359,7 +359,7 @@ Ogniqualvolta lanci una magia multicolore, puoi riprendere in mano dal tuo cimit
   <item>
     <id>DIS0046</id>
     <name>Tutore Infernale</name>
-    <text>Rivela una carta dalla tua mano. Passa in rassegna il tuo grimorio per una carta con lo stesso nome della carta rivelata, rivelala, aggiungila alla tua mano, poi rimescola il tuo grimorio.
+    <text>Rivela una carta dalla tua mano. Passa in rassegna il tuo grimorio per una carta con lo stesso nome della carta rivelata, rivelala, aggiungila alla tua mano, poi rimescola il tuo grimorio. 
 Determinazione - Se non hai carte in mano, invece passa in rassegna il tuo grimorio per una carta qualsiasi, aggiungila alla tua mano, poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -374,8 +374,8 @@ Determinazione - Se non hai carte in mano, invece passa in rassegna il tuo grimo
   <item>
     <id>DIS0048</id>
     <name>Maledizione Provocatoria</name>
-    <text>Incanta creatura
-Ogniqualvolta la creatura incantata attacca o blocca, il suo controllore perde 3 punti vita.
+    <text>Incanta creatura 
+Ogniqualvolta la creatura incantata attacca o blocca, il suo controllore perde 3 punti vita. 
 {1}{R}: La creatura incantata attacca in questo turno se può farlo.</text>
     <flavorText>
     </flavorText>
@@ -390,7 +390,7 @@ Ogniqualvolta la creatura incantata attacca o blocca, il suo controllore perde 3
   <item>
     <id>DIS0050</id>
     <name>Esultazione Nichilista</name>
-    <text>{2}{B}, Scarta una carta: L'avversario bersaglio perde 1 punto vita e tu guadagni 1 punto vita.
+    <text>{2}{B}, Scarta una carta: L'avversario bersaglio perde 1 punto vita e tu guadagni 1 punto vita. 
 Determinazione - {1}, Paga 2 punti vita: Pesca una carta. Attiva questa abilità soltanto se non hai carte in mano.</text>
     <flavorText>
     </flavorText>
@@ -405,7 +405,7 @@ Determinazione - {1}, Paga 2 punti vita: Pesca una carta. Attiva questa abilità
   <item>
     <id>DIS0052</id>
     <name>Acchiapparatti</name>
-    <text>Paura
+    <text>Paura 
 All'inizio del tuo mantenimento, puoi passare in rassegna il tuo grimorio per una carta Ratto, rivelarla e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -427,8 +427,8 @@ All'inizio del tuo mantenimento, puoi passare in rassegna il tuo grimorio per un
   <item>
     <id>DIS0055</id>
     <name>Buio Viscido</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-{B}: Il Buio Viscido prende +1/+1 fino alla fine del turno.
+    <text>Difensore (Questa creatura non può attaccare.) 
+{B}: Il Buio Viscido prende +1/+1 fino alla fine del turno. 
 Determinazione - Il Buio Viscido può attaccare come se non avesse difensore fintanto che non hai carte in mano.</text>
     <flavorText>
     </flavorText>
@@ -436,7 +436,7 @@ Determinazione - Il Buio Viscido può attaccare come se non avesse difensore fin
   <item>
     <id>DIS0056</id>
     <name>Psicopatico Svivente</name>
-    <text>{B}: Lo Psicopatico Svivente prende +1/-1 fino alla fine del turno.
+    <text>{B}: Lo Psicopatico Svivente prende +1/-1 fino alla fine del turno. 
 {B}, {T}: Distruggi una creatura bersaglio con forza inferiore alla forza dello Psicopatico Svivente.</text>
     <flavorText>
     </flavorText>
@@ -458,7 +458,7 @@ Determinazione - Il Buio Viscido può attaccare come se non avesse difensore fin
   <item>
     <id>DIS0059</id>
     <name>Fiamme Crepitanti</name>
-    <text>Le Fiamme Crepitanti infliggono 3 danni a una creatura o a un giocatore bersaglio.
+    <text>Le Fiamme Crepitanti infliggono 3 danni a una creatura o a un giocatore bersaglio. 
 Determinazione - Se non hai carte in mano, le Fiamme Crepitanti infliggono invece 5 danni a quella creatura o a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -466,7 +466,7 @@ Determinazione - Se non hai carte in mano, le Fiamme Crepitanti infliggono invec
   <item>
     <id>DIS0060</id>
     <name>Fuoco Demoniaco</name>
-    <text>Il Fuoco Demoniaco infligge X danni a una creatura o a un giocatore bersaglio. Se una creatura danneggiata in questo modo sta per finire in un cimitero in questo turno, invece esiliala.
+    <text>Il Fuoco Demoniaco infligge X danni a una creatura o a un giocatore bersaglio. Se una creatura danneggiata in questo modo sta per finire in un cimitero in questo turno, invece esiliala. 
 Determinazione - Se non hai carte in mano, il Fuoco Demoniaco non può essere neutralizzato da magie o abilità, e il danno non può essere prevenuto.</text>
     <flavorText>
     </flavorText>
@@ -502,7 +502,7 @@ Determinazione - Se non hai carte in mano, il Fuoco Demoniaco non può essere ne
   <item>
     <id>DIS0065</id>
     <name>Cultista Vesteletale</name>
-    <text>Il Cultista Vesteletale attacca ogni turno se può farlo.
+    <text>Il Cultista Vesteletale attacca ogni turno se può farlo. 
 {B}, Sacrifica il Cultista Vesteletale: La prossima volta che sta per essere inflitto danno a una creatura bersaglio in questo turno, invece distruggi quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -524,7 +524,7 @@ Determinazione - Se non hai carte in mano, il Fuoco Demoniaco non può essere ne
   <item>
     <id>DIS0068</id>
     <name>Furia Psicotica</name>
-    <text>La creatura multicolore bersaglio guadagna doppio attacco fino alla fine del turno.
+    <text>La creatura multicolore bersaglio guadagna doppio attacco fino alla fine del turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -532,8 +532,8 @@ Pesca una carta.</text>
   <item>
     <id>DIS0069</id>
     <name>Drago di Fossa Rakdos</name>
-    <text>{R}{R}: Il Drago di Fossa Rakdos guadagna volare fino alla fine del turno.
-{R}: Il Drago di Fossa Rakdos prende +1/+0 fino alla fine del turno.
+    <text>{R}{R}: Il Drago di Fossa Rakdos guadagna volare fino alla fine del turno. 
+{R}: Il Drago di Fossa Rakdos prende +1/+0 fino alla fine del turno. 
 Determinazione - Il Drago di Fossa Rakdos ha doppio attacco fintanto che non hai carte in mano.</text>
     <flavorText>
     </flavorText>
@@ -541,7 +541,7 @@ Determinazione - Il Drago di Fossa Rakdos ha doppio attacco fintanto che non hai
   <item>
     <id>DIS0070</id>
     <name>Apparizione Tempesta di Sabbia</name>
-    <text>{R}, Sacrifica l'Apparizione Tempesta di Sabbia: La creatura bersaglio non può bloccare in questo turno.
+    <text>{R}, Sacrifica l'Apparizione Tempesta di Sabbia: La creatura bersaglio non può bloccare in questo turno. 
 Ogniqualvolta lanci una magia multicolore, puoi riprendere in mano dal tuo cimitero l'Apparizione Tempesta di Sabbia.</text>
     <flavorText>
     </flavorText>
@@ -556,8 +556,8 @@ Ogniqualvolta lanci una magia multicolore, puoi riprendere in mano dal tuo cimit
   <item>
     <id>DIS0072</id>
     <name>Diavolo Stridente</name>
-    <text>Paura
-Quando il Diavolo Stridente entra nel campo di battaglia, puoi pagare {X}.  Se lo fai, la creatura bersaglio prende +X/+0 fino alla fine del turno.
+    <text>Paura 
+Quando il Diavolo Stridente entra nel campo di battaglia, puoi pagare {X}.  Se lo fai, la creatura bersaglio prende +X/+0 fino alla fine del turno. 
 Quando il Diavolo Stridente entra nel campo di battaglia, sacrificalo a meno che sia stato speso {B} per lanciarlo.</text>
     <flavorText>
     </flavorText>
@@ -565,7 +565,7 @@ Quando il Diavolo Stridente entra nel campo di battaglia, sacrificalo a meno che
   <item>
     <id>DIS0073</id>
     <name>Vendetta in Agguato</name>
-    <text>Rapidità
+    <text>Rapidità 
 Ogniqualvolta un'altra creatura che controlli viene messa in un cimitero dal campo di battaglia, essa infligge un danno pari alla propria forza ad un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -580,8 +580,8 @@ Ogniqualvolta un'altra creatura che controlli viene messa in un cimitero dal cam
   <item>
     <id>DIS0075</id>
     <name>Gusto della Distruzione</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/+0
+    <text>Incanta creatura 
+La creatura incantata prende +2/+0 
 Determinazione - La creatura incantata prende +2/+0 addizionale fintanto che non hai carte in mano.</text>
     <flavorText>
     </flavorText>
@@ -589,7 +589,7 @@ Determinazione - La creatura incantata prende +2/+0 addizionale fintanto che non
   <item>
     <id>DIS0076</id>
     <name>Scotennatore di Utvara</name>
-    <text>Volare
+    <text>Volare 
 Lo Scotennatore di Utvara attacca in ogni turno se può farlo.</text>
     <flavorText>
     </flavorText>
@@ -597,7 +597,7 @@ Lo Scotennatore di Utvara attacca in ogni turno se può farlo.</text>
   <item>
     <id>DIS0077</id>
     <name>Prezzo della Guerra</name>
-    <text>Ogniqualvolta un avversario TAPpa una terra per attingere mana, TAPpa tutte le terre che quel giocatore controlla.
+    <text>Ogniqualvolta un avversario TAPpa una terra per attingere mana, TAPpa tutte le terre che quel giocatore controlla. 
 Se una creatura controllata da un avversario attacca, tutte le creature che quell'avversario controlla attaccano se possono farlo.</text>
     <flavorText>
     </flavorText>
@@ -619,7 +619,7 @@ Se una creatura controllata da un avversario attacca, tutte le creature che quel
   <item>
     <id>DIS0080</id>
     <name>Ragno Acquatela</name>
-    <text>Innesto 2 (Questa creatura entra nel campo di battaglia con due segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)
+    <text>Innesto 2 (Questa creatura entra nel campo di battaglia con due segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) 
 {G}: Una creatura bersaglio che ha un segnalino +1/+1 guadagna raggiungere fino alla fine del turno. (Può bloccare le creature con volare.)</text>
     <flavorText>
     </flavorText>
@@ -627,8 +627,8 @@ Se una creatura controllata da un avversario attacca, tutte le creature che quel
   <item>
     <id>DIS0081</id>
     <name>Stirpe-Radice Citoplasta</name>
-    <text>Innesto 4 (Questa creatura entra nel campo di battaglia con quattro segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)
-Quando la Stirpe-Radice Citoplasta entra nel campo di battaglia, metti un segnalino +1/+1 su ogni altra creatura che controlli che ha già un segnalino +1/+1.
+    <text>Innesto 4 (Questa creatura entra nel campo di battaglia con quattro segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) 
+Quando la Stirpe-Radice Citoplasta entra nel campo di battaglia, metti un segnalino +1/+1 su ogni altra creatura che controlli che ha già un segnalino +1/+1. 
 {2} : Sposta un segnalino +1/+1 da una creatura bersaglio che controlli alla Stirpe-Radice Citoplasta.</text>
     <flavorText>
     </flavorText>
@@ -636,7 +636,7 @@ Quando la Stirpe-Radice Citoplasta entra nel campo di battaglia, metti un segnal
   <item>
     <id>DIS0082</id>
     <name>Errante Citoprole</name>
-    <text>Innesto 6 (Questa creatura entra nel campo di battaglia con sei segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)
+    <text>Innesto 6 (Questa creatura entra nel campo di battaglia con sei segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) 
 {G} : La creatura bersaglio con un segnalino +1/+1 guadagna travolgere fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -644,7 +644,7 @@ Quando la Stirpe-Radice Citoplasta entra nel campo di battaglia, metti un segnal
   <item>
     <id>DIS0083</id>
     <name>Risonanza Elementale</name>
-    <text>Incanta permanente
+    <text>Incanta permanente 
 All'inizio della tua fase principale precedente al combattimento, aggiungi alla tua riserva un ammontare di mana pari al costo di mana del permanente incantato. (Il costo di mana comprende i colori. Se un simbolo di mana ha più colori, scegline uno.)</text>
     <flavorText>
     </flavorText>
@@ -659,8 +659,8 @@ All'inizio della tua fase principale precedente al combattimento, aggiungi alla 
   <item>
     <id>DIS0085</id>
     <name>Fogliame Balenante</name>
-    <text>Lancia il Fogliame Balenante solo durante il combattimento, dopo che i blocchi sono stati dichiarati.
-Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde a bloccare una creatura bersaglio che ti sta attaccando.
+    <text>Lancia il Fogliame Balenante solo durante il combattimento, dopo che i blocchi sono stati dichiarati. 
+Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde a bloccare una creatura bersaglio che ti sta attaccando. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -689,8 +689,8 @@ Pesca una carta.</text>
   <item>
     <id>DIS0089</id>
     <name>Vipera di Patagia</name>
-    <text>Volare
-Quando la Vipera di Patagia entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura Serpente 1/1 verde e blu.
+    <text>Volare 
+Quando la Vipera di Patagia entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura Serpente 1/1 verde e blu. 
 Quando la Vipera di Patagia entra nel campo di battaglia, sacrificala a meno che sia stato speso {U} per lanciarla.</text>
     <flavorText>
     </flavorText>
@@ -705,7 +705,7 @@ Quando la Vipera di Patagia entra nel campo di battaglia, sacrificala a meno che
   <item>
     <id>DIS0091</id>
     <name>Basilisco Simic</name>
-    <text>Innesto 3 (Questa creatura entra nel campo di battaglia con tre segnalini +1/+1. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)
+    <text>Innesto 3 (Questa creatura entra nel campo di battaglia con tre segnalini +1/+1. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) 
 {1}{G}: Fino alla fine del turno, la creatura bersaglio con un segnalino +1/+1 guadagna "Ogniqualvolta questa creatura infligge danno da combattimento ad una creatura, distruggi quella creatura alla fine del combattimento."</text>
     <flavorText>
     </flavorText>
@@ -713,7 +713,7 @@ Quando la Vipera di Patagia entra nel campo di battaglia, sacrificala a meno che
   <item>
     <id>DIS0092</id>
     <name>Iniziato Simic</name>
-    <text>Innesto 1 (Questa creatura entra nel campo di battaglia con un segnalino +1/+1. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)</text>
+    <text>Innesto 1 (Questa creatura entra nel campo di battaglia con un segnalino +1/+1. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -727,7 +727,7 @@ Quando la Vipera di Patagia entra nel campo di battaglia, sacrificala a meno che
   <item>
     <id>DIS0094</id>
     <name>Troll Dorsospora</name>
-    <text>Innesto 2 (Questa creatura entra nel campo di battaglia con due segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)
+    <text>Innesto 2 (Questa creatura entra nel campo di battaglia con due segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) 
 {1}{G}: Rigenera la creatura bersaglio che ha un segnalino +1/+1 su di sé.</text>
     <flavorText>
     </flavorText>
@@ -735,7 +735,7 @@ Quando la Vipera di Patagia entra nel campo di battaglia, sacrificala a meno che
   <item>
     <id>DIS0095</id>
     <name>Phytoidra Germogliante</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Ogniqualvolta viene inflitto danno alla Phytoidra Germogliante, puoi mettere sul campo di battaglia una pedina che è una copia della Phytoidra Germogliante.</text>
     <flavorText>
     </flavorText>
@@ -750,7 +750,7 @@ Ogniqualvolta viene inflitto danno alla Phytoidra Germogliante, puoi mettere sul
   <item>
     <id>DIS0097</id>
     <name>Saggezza di Strada</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +0/+2 e può bloccare creature con abilità passa-terra come se non avessero quelle abilità.</text>
     <flavorText>
     </flavorText>
@@ -765,8 +765,8 @@ La creatura incantata prende +0/+2 e può bloccare creature con abilità passa-t
   <item>
     <id>DIS0099</id>
     <name>Propagazione dell'Utopia</name>
-    <text>Incanta Foresta
-Mentre la Propagazione dell'Utopia entra nel campo di battaglia, scegli un colore.
+    <text>Incanta Foresta 
+Mentre la Propagazione dell'Utopia entra nel campo di battaglia, scegli un colore. 
 Ogniqualvolta la Foresta incantata è TAPpata per attingere mana, il suo controllore aggiunge un mana del colore scelto alla sua riserva  di mana (in aggiunta al mana prodotto dalla terra).</text>
     <flavorText>
     </flavorText>
@@ -774,52 +774,51 @@ Ogniqualvolta la Foresta incantata è TAPpata per attingere mana, il suo control
   <item>
     <id>DIS0100</id>
     <name>Apparizione della Vegetazione</name>
-    <text>{G}, Sacrifica l'Apparizione della Vegetazione: Aggiungi alla tua riserva tre mana di un qualsiasi colore.
+    <text>{G}, Sacrifica l'Apparizione della Vegetazione: Aggiungi alla tua riserva tre mana di un qualsiasi colore. 
 Ogniqualvolta lanci una magia multicolore, puoi riprendere in mano dal tuo cimitero l'Apparizione della Vegetazione.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DIS0101</id>
-    <name>Tocco di Etermago</name>
-    <text>Rivela le prime quattro carte del tuo grimorio. Puoi mettere sul campo di battaglia una carta creatura tra quelle rivelate. Quella creatura ha "All'inizio della tua sottofase finale, il proprietario riprende in mano questa creatura". Poi metti le rimanenti carte rivelate in questo modo in fondo al tuo grimorio in un qualsiasi ordine.</text>
+    <name>Æthermage's Touch</name>
+    <text>Reveal the top four cards of your library. You may put a creature card from among them onto the battlefield. It has "At the beginning of your end step, return this creature to its owner's hand." Then put the rest of the cards revealed this way on the bottom of your library in any order.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DIS0102</id>
     <name>Anatema di Rakdos</name>
-    <text>Ogniqualvolta una creatura che controlli attacca, essa prende +2/+0 fino alla fine del turno e l'Anatema di Rakdos ti infligge 1 danno.
-Determinazione - Fintanto che non hai carte in mano, se una fonte che controlli sta per infliggere danno a una creatura o a un giocatore, invece infligge il doppio di quel danno a quella creatura o a quel giocatore.</text>
+    <text>Ogniqualvolta una creatura che controlli attacca, essa prende +2/+0 fino alla fine del turno e l'Anatema di Rakdos ti infligge 1 danno. 
+Determinazione - Fintanto che non hai carte in mano, se una fonte che controlli sta per infliggere danno a una creatura o a un giocatore, invece infligge il doppio di quel danno a quella creatura o a quel giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DIS0103</id>
     <name>Zeppelide d'Assalto</name>
-    <text>Volare, travolgere</text>
+    <text>Volare, travolgere </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DIS0104</id>
-    <name>Etermaga Azorius</name>
-    <text>Ogniqualvolta riprendi in mano un permanente, puoi pagare {1}. Se lo fai, pesca una carta.</text>
-    <flavorText>
-    </flavorText>
+    <name>Azorius Æthermage</name>
+    <text>Whenever a permanent is returned to your hand, you may pay {1}. If you do, draw a card.</text>
+    <flavorText>In her single metasphere are bound the records of every Ætheric transaction since the time of Azor.</flavorText>
   </item>
   <item>
     <id>DIS0105</id>
     <name>Primo d'Ali Azorius</name>
-    <text>Volare, protezione dagli incantesimi</text>
+    <text>Volare, protezione dagli incantesimi </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DIS0106</id>
     <name>Manovra Azorius</name>
-    <text>Previeni tutto il danno da combattimento che la creatura bersaglio infliggerebbe in questo turno.
-Previeni tutto il danno da combattimento che verrebbe inflitto a una creatura bersaglio in questo turno.</text>
+    <text>Previeni tutto il danno da combattimento che la creatura bersaglio infliggerebbe in questo turno. 
+Previeni tutto il danno da combattimento che verrebbe inflitto a una creatura bersaglio in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -840,7 +839,7 @@ Previeni tutto il danno da combattimento che verrebbe inflitto a una creatura be
   <item>
     <id>DIS0109</id>
     <name>Scorie di Terrore</name>
-    <text>Travolgere
+    <text>Travolgere 
 Le Scorie di Terrore prendono -4/-4 per ogni carta che hai in mano.</text>
     <flavorText>
     </flavorText>
@@ -848,7 +847,7 @@ Le Scorie di Terrore prendono -4/-4 per ogni carta che hai in mano.</text>
   <item>
     <id>DIS0110</id>
     <name>Kraj Sperimentale</name>
-    <text>Il Kraj Sperimentale ha tutte le abilità attivate di ogni altra creatura con un segnalino +1/+1.
+    <text>Il Kraj Sperimentale ha tutte le abilità attivate di ogni altra creatura con un segnalino +1/+1. 
 {T}: Metti un segnalino +1/+1 su una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -863,8 +862,8 @@ Le Scorie di Terrore prendono -4/-4 per ogni carta che hai in mano.</text>
   <item>
     <id>DIS0112</id>
     <name>Gran Giudice Augusto IV</name>
-    <text>Le magie bianche che lanci costano {1} in meno per essere lanciate.
-Le magie blu che lanci costano {1} in meno per essere lanciate.
+    <text>Le magie bianche che lanci costano {1} in meno per essere lanciate. 
+Le magie blu che lanci costano {1} in meno per essere lanciate. 
 Le magie lanciate dai tuoi avversari costano {1} in più per essere lanciate.</text>
     <flavorText>
     </flavorText>
@@ -872,7 +871,7 @@ Le magie lanciate dai tuoi avversari costano {1} in più per essere lanciate.</t
   <item>
     <id>DIS0113</id>
     <name>Ratti Tanainfernale</name>
-    <text>Rapidità
+    <text>Rapidità 
 Quando i Ratti Tanainfernale entrano nel campo di battaglia, il giocatore bersaglio scarta una carta. I Ratti Tanainfernale infliggono a quel giocatore un danno pari al costo di mana convertito di quella carta.</text>
     <flavorText>
     </flavorText>
@@ -880,7 +879,7 @@ Quando i Ratti Tanainfernale entrano nel campo di battaglia, il giocatore bersag
   <item>
     <id>DIS0114</id>
     <name>Isperia l'Imperscrutabile</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta Isperia l'Imperscrutabile infligge danno da combattimento a un giocatore, nomina una carta. Quel giocatore rivela la propria mano. Se rivela la carta nominata, passa in rassegna il tuo grimorio per una carta creatura con volare, rivelala, aggiungila alla tua mano, poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -888,7 +887,7 @@ Ogniqualvolta Isperia l'Imperscrutabile infligge danno da combattimento a un gio
   <item>
     <id>DIS0115</id>
     <name>Burattino Dentellato</name>
-    <text>Ogniqualvolta viene inflitto danno al Burattino Dentellato, scarta altrettante carte.
+    <text>Ogniqualvolta viene inflitto danno al Burattino Dentellato, scarta altrettante carte. 
 Determinazione - Ogniqualvolta il Burattino Dentellato infligge danno da combattimento ad un giocatore, se non hai carte in mano, quel giocatore scarta un numero di carte pari a quel danno.</text>
     <flavorText>
     </flavorText>
@@ -896,7 +895,7 @@ Determinazione - Ogniqualvolta il Burattino Dentellato infligge danno da combatt
   <item>
     <id>DIS0116</id>
     <name>Trespolo del Dragofoglioso</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata ha "{G}{U}, {T}: Metti sul campo di battaglia una pedina creatura Draghetto 2/2 verde e blu con volare."</text>
     <flavorText>
     </flavorText>
@@ -911,8 +910,8 @@ La terra incantata ha "{G}{U}, {T}: Metti sul campo di battaglia una pedina crea
   <item>
     <id>DIS0118</id>
     <name>Momir Vig, Visionario Simic</name>
-    <text>Ogniqualvolta lanci una magia creatura verde, puoi passare in rassegna il tuo grimorio, scegliere una carta creatura e rivelarla. Se lo fai, rimescola il tuo grimorio e metti quella carta in cima ad esso.
-Ogniqualvolta lanci una magia creatura blu, rivela la prima carta del tuo grimorio. Se è una carta creatura, aggiungila alla tua mano.</text>
+    <text>Ogniqualvolta lanci una magia creatura verde, puoi passare in rassegna il tuo grimorio, scegliere una carta creatura e rivelarla. Se lo fai, rimescola il tuo grimorio e metti quella carta in cima ad esso. 
+Ogniqualvolta lanci una magia creatura blu, rivela la prima carta del tuo grimorio. Se è una carta creatura, aggiungila alla tua mano. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -940,7 +939,7 @@ Ogniqualvolta lanci una magia creatura blu, rivela la prima carta del tuo grimor
   <item>
     <id>DIS0122</id>
     <name>Trattato Attenuante</name>
-    <text>Ogniqualvolta una creatura controllata da un avversario diventa TAPpata, metti un segnalino scudo sul Trattato Attenuante.
+    <text>Ogniqualvolta una creatura controllata da un avversario diventa TAPpata, metti un segnalino scudo sul Trattato Attenuante. 
 Rimuovi un segnalino scudo dal Trattato Attenuante: Previeni il prossimo punto danno che ti verrebbe inflitto in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -948,7 +947,7 @@ Rimuovi un segnalino scudo dal Trattato Attenuante: Previeni il prossimo punto d
   <item>
     <id>DIS0123</id>
     <name>Ranolingio Sputaplax</name>
-    <text>Innesto 3  (Questa creatura entra nel campo di battaglia con tre segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)
+    <text>Innesto 3  (Questa creatura entra nel campo di battaglia con tre segnalini +1/+1 su di essa. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) 
 {2}: Una creatura bersaglio che ha un segnalino +1/+1 su di essa guadagna velo fino alla fine del turno (Non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -956,8 +955,8 @@ Rimuovi un segnalino scudo dal Trattato Attenuante: Previeni il prossimo punto d
   <item>
     <id>DIS0124</id>
     <name>Piume di Pace</name>
-    <text>Incanta creatura
-La creatura incantata non STAPpa durante lo STAP del suo controlore.
+    <text>Incanta creatura 
+La creatura incantata non STAPpa durante lo STAP del suo controlore. 
 Previsione - {W}{U}, Rivela le Piume di Pace dalla tua mano: TAPpa una creatura bersaglio. (Attiva questa abilità solo durante il tuo mantenimento e solo una volta per turno.)</text>
     <flavorText>
     </flavorText>
@@ -965,8 +964,8 @@ Previsione - {W}{U}, Rivela le Piume di Pace dalla tua mano: TAPpa una creatura 
   <item>
     <id>DIS0125</id>
     <name>Orgoglio delle Nubi</name>
-    <text>Volare
-L'Orgoglio delle Nubi prende +1/+1 per ogni altra creatura con volare sul campo di battaglia.
+    <text>Volare 
+L'Orgoglio delle Nubi prende +1/+1 per ogni altra creatura con volare sul campo di battaglia. 
 Previsione - {2}{W}{U}, Rivela l'Orgoglio delle Nubi dalla tua mano: Metti sul campo di battaglia una pedina creatura Uccello 1/1 bianca e blu con volare. (Attiva questa abilità solo durante il tuo mantenimento e solo una volta per turno.)</text>
     <flavorText>
     </flavorText>
@@ -981,7 +980,7 @@ Previsione - {2}{W}{U}, Rivela l'Orgoglio delle Nubi dalla tua mano: Metti sul c
   <item>
     <id>DIS0127</id>
     <name>Magotrivella Rakdos</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 {T}: Rivela la tua mano e scarta una carta a scelta dell'avversario bersaglio. Poi quel giocatore rivela la sua mano e scarta una carta a tua scelta. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
     <flavorText>
     </flavorText>
@@ -996,8 +995,8 @@ Previsione - {2}{W}{U}, Rivela l'Orgoglio delle Nubi dalla tua mano: Metti sul c
   <item>
     <id>DIS0129</id>
     <name>Rakdos il Contaminatore</name>
-    <text>Volare, travolgere
-Ogniqualvolta Rakdos il Contaminatore attacca, sacrifica metà dei permanenti non Demone che controlli, arrotondati per eccesso.
+    <text>Volare, travolgere 
+Ogniqualvolta Rakdos il Contaminatore attacca, sacrifica metà dei permanenti non Demone che controlli, arrotondati per eccesso. 
 Ogniqualvolta Rakdos infligge danno da combattimento a un giocatore, quel giocatore sacrifica metà dei permanenti non Demone che controlla, arrotondati per eccesso.</text>
     <flavorText>
     </flavorText>
@@ -1005,8 +1004,8 @@ Ogniqualvolta Rakdos infligge danno da combattimento a un giocatore, quel giocat
   <item>
     <id>DIS0130</id>
     <name>Divora Cieli Simic</name>
-    <text>Volare
-Travolgere
+    <text>Volare 
+Travolgere 
 Velo (Questo permanente non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -1014,8 +1013,8 @@ Velo (Questo permanente non può essere bersaglio di magie o abilità.)</text>
   <item>
     <id>DIS0131</id>
     <name>Ussaro dei Cieli</name>
-    <text>Volare
-Quando l'Ussaro dei Cieli entra nel campo di battaglia, STAPpa tutte le creature che controlli.
+    <text>Volare 
+Quando l'Ussaro dei Cieli entra nel campo di battaglia, STAPpa tutte le creature che controlli. 
 Previsione - TAPpa due creature bianche e/o blu STAPpate che controlli, Rivela l'Ussaro dei Cieli dalla tua mano: Pesca una carta (Attiva questa abilità solo durante il tuo mantenimento e solo una volta per turno.)</text>
     <flavorText>
     </flavorText>
@@ -1030,7 +1029,7 @@ Previsione - TAPpa due creature bianche e/o blu STAPpate che controlli, Rivela l
   <item>
     <id>DIS0133</id>
     <name>Predatore Trigone</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta il Predatore Trigone infligge danno da combattimento ad un giocatore, puoi distruggere un artefatto o un incantesimo bersaglio controllato da quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -1038,7 +1037,7 @@ Ogniqualvolta il Predatore Trigone infligge danno da combattimento ad un giocato
   <item>
     <id>DIS0134</id>
     <name>Doppiocolpo</name>
-    <text>Il Doppiocolpo infligge 2 danni a due diverse creature bersaglio.
+    <text>Il Doppiocolpo infligge 2 danni a due diverse creature bersaglio. 
 Determinazione - Se non hai carte in mano, invece distruggi quelle creature.</text>
     <flavorText>
     </flavorText>
@@ -1046,7 +1045,7 @@ Determinazione - Se non hai carte in mano, invece distruggi quelle creature.</te
   <item>
     <id>DIS0135</id>
     <name>Idropone Vigeana</name>
-    <text>Innesto 5 (Questa creatura entra nel campo di battaglia con cinque segnalini +1/+1. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.)
+    <text>Innesto 5 (Questa creatura entra nel campo di battaglia con cinque segnalini +1/+1. Ogniqualvolta un'altra creatura entra nel campo di battaglia, puoi spostare un segnalino +1/+1 da questa creatura alla nuova.) 
 L'Idropone Vigeana non può attaccare o bloccare.</text>
     <flavorText>
     </flavorText>
@@ -1068,10 +1067,10 @@ L'Idropone Vigeana non può attaccare o bloccare.</text>
   <item>
     <id>DIS0138</id>
     <name>Predavento</name>
-    <text>Volare
-{W}: Il Predavento guadagna cautela fino alla fine del turno.
-{W}: Il Predavento prende +0/+1 fino alla fine del turno.
-{U}: Scambia la forza e la costituzione del Predavento fino alla fine del turno.
+    <text>Volare 
+{W}: Il Predavento guadagna cautela fino alla fine del turno. 
+{W}: Il Predavento prende +0/+1 fino alla fine del turno. 
+{U}: Scambia la forza e la costituzione del Predavento fino alla fine del turno. 
 {U}: Il proprietario riprende in mano il Predavento.</text>
     <flavorText>
     </flavorText>
@@ -1086,8 +1085,8 @@ L'Idropone Vigeana non può attaccare o bloccare.</text>
   <item>
     <id>DIS0140</id>
     <name>Avatar della Discordia</name>
-    <text>({N|R} può essere pagato con {B} o {R}.)
-Volare
+    <text>({N|R} può essere pagato con {B} o {R}.) 
+Volare 
 Quando l'Avatar della Discordia entra nel campo di battaglia, sacrificalo a meno che tu scarti due carte.</text>
     <flavorText>
     </flavorText>
@@ -1095,24 +1094,24 @@ Quando l'Avatar della Discordia entra nel campo di battaglia, sacrificalo a meno
   <item>
     <id>DIS0141</id>
     <name>Maga della Gilda Azorius</name>
-    <text>({B|L} può essere pagato con {W} o {U}.)
-{2}{W}: TAPpa la creatura bersaglio.
-{2}{U}: Neutralizza un'abilità attivata bersaglio. (Le abilità di mana non possono essere bersagliate.)</text>
+    <text>({B|L} può essere pagato con {W} o {U}.) 
+{2}{W}: TAPpa la creatura bersaglio. 
+{2}{U}: Neutralizza un'abilità attivata bersaglio. (Le abilità di mana non possono essere bersagliate.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DIS0142</id>
     <name>Supremazia Biomantica</name>
-    <text>({V|L} può essere pagato con {G} o {U}.)
-Pesca una carta per ogni creatura controllata da un giocatore bersaglio, quindi pesca una carta per ogni creatura controllata da un altro giocatore bersaglio.</text>
+    <text>({GU} può essere pagato con {G} o {U}.) 
+Pesca una carta per ogni creatura controllata da un giocatore bersaglio, quindi pesca una carta per ogni creatura controllata da un altro giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>DIS0143</id>
     <name>Colombaggio</name>
-    <text>({B|L} può essere pagato con {W} o {U}.)
+    <text>({B|L} può essere pagato con {W} o {U}.) 
 Ogniqualvolta un giocatore lancia una magia non creatura, neutralizza quella magia. Quel giocatore mette sul campo di battaglia X pedine creatura Uccello 1/1 bianche e blu con volare, dove X è pari al costo di mana convertito della magia.</text>
     <flavorText>
     </flavorText>
@@ -1120,7 +1119,7 @@ Ogniqualvolta un giocatore lancia una magia non creatura, neutralizza quella mag
   <item>
     <id>DIS0144</id>
     <name>Ministro degli Impedimenti</name>
-    <text>({B|L} può essere pagato con {W} o {U}.)
+    <text>({B|L} può essere pagato con {W} o {U}.) 
 {T}: TAPpa la creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1128,8 +1127,8 @@ Ogniqualvolta un giocatore lancia una magia non creatura, neutralizza quella mag
   <item>
     <id>DIS0145</id>
     <name>Mago della Gilda Rakdos</name>
-    <text>({N|R} può essere pagato con {B} o {R}.)
-{3}{B}, Scarta una carta: La creatura bersaglio prende -2/-2 fino alla fine del turno.
+    <text>({N|R} può essere pagato con {B} o {R}.) 
+{3}{B}, Scarta una carta: La creatura bersaglio prende -2/-2 fino alla fine del turno. 
 {3}{R}: Metti sul campo di battaglia una pedina creatura Goblin 2/1 rossa con rapidità. Esiliala all'inizio della prossima sottofase finale.</text>
     <flavorText>
     </flavorText>
@@ -1137,8 +1136,8 @@ Ogniqualvolta un giocatore lancia una magia non creatura, neutralizza quella mag
   <item>
     <id>DIS0146</id>
     <name>Spuntoni da Sommossa</name>
-    <text>({N|R} può essere pagato con {B} o {R}.)
-Incanta creatura
+    <text>({N|R} può essere pagato con {B} o {R}.) 
+Incanta creatura 
 La creatura incantata prende +2/-1.</text>
     <flavorText>
     </flavorText>
@@ -1146,9 +1145,9 @@ La creatura incantata prende +2/-1.</text>
   <item>
     <id>DIS0147</id>
     <name>Plax Difensivo</name>
-    <text>({V|L} può essere pagato con {G} oo {U}.)
-Incanta creatura
-Quando il Plax Difensivo entra nel campo di battaglia, pesca una carta.
+    <text>({GU} può essere pagato con {G} oo {U}.) 
+Incanta creatura 
+Quando il Plax Difensivo entra nel campo di battaglia, pesca una carta. 
 La creatura incantata non può essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
     <flavorText>
     </flavorText>
@@ -1156,8 +1155,8 @@ La creatura incantata non può essere bersaglio di magie o abilità controllate 
   <item>
     <id>DIS0148</id>
     <name>Mago della Gilda Simic</name>
-    <text>({V|L} può essere pagato con {G} o {U}.)
-{1}{G}: Sposta un segnalino +1/+1 da una creatura bersaglio a un'altra creatura bersaglio dello stesso controllore.
+    <text>({GU} può essere pagato con {G} o {U}.) 
+{1}{G}: Sposta un segnalino +1/+1 da una creatura bersaglio a un'altra creatura bersaglio dello stesso controllore. 
 {1}{U}: Assegna un'Aura bersaglio che sta incantando un permanente ad un altro permanente dello stesso controllore.</text>
     <flavorText>
     </flavorText>
@@ -1333,7 +1332,7 @@ La creatura incantata non può essere bersaglio di magie o abilità controllate 
   <item>
     <id>DIS0173</id>
     <name>Vaso della Musa</name>
-    <text>{3}, {T}: Il giocatore bersaglio esilia una carta presente nella propria mano. Attiva questa abilità solo quando potresti lanciare una stregoneria.
+    <text>{3}, {T}: Il giocatore bersaglio esilia una carta presente nella propria mano. Attiva questa abilità solo quando potresti lanciare una stregoneria. 
 {1}: Scegli una carta esiliata dal Vaso della Musa. Puoi lanciare quella carta in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -1341,8 +1340,8 @@ La creatura incantata non può essere bersaglio di magie o abilità controllate 
   <item>
     <id>DIS0174</id>
     <name>Coltello Rituale Rakdos</name>
-    <text>La creatura equipaggiata prende +1/+0 per ogni segnalino sangue presente sul Coltello Rituale Rakdos e ha "{T}, Sacrifica una creatura: Metti un segnalino sangue sul Coltello Rituale Rakdos."
-{B}{R}, Sacrifica il Coltello Rituale Rakdos: Il giocatore bersaglio sacrifica un permanente per ogni segnalino sangue presente sul Coltello Rituale Rakdos.
+    <text>La creatura equipaggiata prende +1/+0 per ogni segnalino sangue presente sul Coltello Rituale Rakdos e ha "{T}, Sacrifica una creatura: Metti un segnalino sangue sul Coltello Rituale Rakdos." 
+{B}{R}, Sacrifica il Coltello Rituale Rakdos: Il giocatore bersaglio sacrifica un permanente per ogni segnalino sangue presente sul Coltello Rituale Rakdos. 
 Equipaggiare {2}</text>
     <flavorText>
     </flavorText>
@@ -1364,7 +1363,7 @@ Equipaggiare {2}</text>
   <item>
     <id>DIS0177</id>
     <name>Calderone di Idrocranio</name>
-    <text>{T}: Guadagni 1 punto vita.
+    <text>{T}: Guadagni 1 punto vita. 
 {T}, Scarta una carta: Guadagni 3 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -1379,9 +1378,9 @@ Equipaggiare {2}</text>
   <item>
     <id>DIS0179</id>
     <name>Archivio Ambulante</name>
-    <text>Difensore
-L'Archivio Ambulante entra nel campo di battaglia con un segnalino +1/+1.
-All'inizio del mantenimento di ogni giocatore, quel giocatore pesca una carta per ogni segnalino +1/+1 presente sull'Archivio Ambulante.
+    <text>Difensore 
+L'Archivio Ambulante entra nel campo di battaglia con un segnalino +1/+1. 
+All'inizio del mantenimento di ogni giocatore, quel giocatore pesca una carta per ogni segnalino +1/+1 presente sull'Archivio Ambulante. 
 {2}{W}{U}: Metti un segnalino +1/+1 sull'Archivio Ambulante.</text>
     <flavorText>
     </flavorText>
@@ -1389,8 +1388,8 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore pesca una carta pe
   <item>
     <id>DIS0180</id>
     <name>Cancelleria Azorius</name>
-    <text>La Cancelleria Azorius entra nel campo di battaglia TAPpata.
-Quando la Cancelleria Azorius entra nel campo di battaglia, il proprietario riprende in mano una terra che tu controlli.
+    <text>La Cancelleria Azorius entra nel campo di battaglia TAPpata. 
+Quando la Cancelleria Azorius entra nel campo di battaglia, il proprietario riprende in mano una terra che tu controlli. 
 {T}: Aggiungi {W}{U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1398,7 +1397,7 @@ Quando la Cancelleria Azorius entra nel campo di battaglia, il proprietario ripr
   <item>
     <id>DIS0181</id>
     <name>Cripta di Sangue</name>
-    <text>({T}: Aggiungi {B} o {R} alla tua riserva di mana.)
+    <text>({T}: Aggiungi {B} o {R} alla tua riserva di mana.) 
 Mentre la Cripta di Sangue entra nel campo di battaglia, puoi pagare 2 punti vita. Se non lo fai, la Cripta di Sangue entra nel campo di battaglia TAPpata.</text>
     <flavorText>
     </flavorText>
@@ -1406,7 +1405,7 @@ Mentre la Cripta di Sangue entra nel campo di battaglia, puoi pagare 2 punti vit
   <item>
     <id>DIS0182</id>
     <name>Pozza Prolifica</name>
-    <text>({T}: Aggiungi {G} o {U} alla tua riserva di mana.)
+    <text>({T}: Aggiungi {G} o {U} alla tua riserva di mana.) 
 Mentre la Pozza Prolifica entra nel campo di battaglia, puoi pagare 2 punti vita. Se non lo fai, la Pozza Prolifica entra nel campo di battaglia TAPpata.</text>
     <flavorText>
     </flavorText>
@@ -1414,7 +1413,7 @@ Mentre la Pozza Prolifica entra nel campo di battaglia, puoi pagare 2 punti vita
   <item>
     <id>DIS0183</id>
     <name>Quartiere Fantasma</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}, Sacrifica il Quartiere Fantasma: Distruggi una terra bersaglio. Il suo controllore può passare in rassegna il proprio grimorio, scegliere una carta terra base, metterla nel campo di battaglia, poi rimescolare il proprio grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1422,7 +1421,7 @@ Mentre la Pozza Prolifica entra nel campo di battaglia, puoi pagare 2 punti vita
   <item>
     <id>DIS0184</id>
     <name>Fontana Santificata</name>
-    <text>({T} : Aggiungi {W} o {U} alla tua riserva di mana.)
+    <text>({T} : Aggiungi {W} o {U} alla tua riserva di mana.) 
 Mentra la Fontana Santificata entra nel campo di battaglia, puoi pagare 2 punti vita. Se non lo fai, la Fontana Santificata entra nel campo di battaglia TAPpata.</text>
     <flavorText>
     </flavorText>
@@ -1430,7 +1429,7 @@ Mentra la Fontana Santificata entra nel campo di battaglia, puoi pagare 2 punti 
   <item>
     <id>DIS0185</id>
     <name>Novijen, Cuore del Progresso</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {G}{U}, {T}: Metti un segnalino +1/+1 su ogni creatura che è entrata nel campo di battaglia in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -1445,7 +1444,7 @@ Mentra la Fontana Santificata entra nel campo di battaglia, puoi pagare 2 punti 
   <item>
     <id>DIS0187</id>
     <name>Prahv, Guglie dell'Ordine</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {4}{W}{U}, {T}: Previeni tutto il danno che verrebbe inflitto in questo turno da una fonte a tua scelta.</text>
     <flavorText>
     </flavorText>
@@ -1453,8 +1452,8 @@ Mentra la Fontana Santificata entra nel campo di battaglia, puoi pagare 2 punti 
   <item>
     <id>DIS0188</id>
     <name>Carnario Rakdos</name>
-    <text>Il Carnario Rakdos entra nel campo di battaglia TAPpato.
-Quando il Carnario Rakdos entra nel campo di battaglia, il proprietario riprende in mano una terra che tu controlli.
+    <text>Il Carnario Rakdos entra nel campo di battaglia TAPpato. 
+Quando il Carnario Rakdos entra nel campo di battaglia, il proprietario riprende in mano una terra che tu controlli. 
 {T}: Aggiungi {B}{R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1462,7 +1461,7 @@ Quando il Carnario Rakdos entra nel campo di battaglia, il proprietario riprende
   <item>
     <id>DIS0189</id>
     <name>Rix Maadi, Palazzo Sotterraneo</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {1}{B}{R}, {T}: Ogni giocatore scarta una carta. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
     <flavorText>
     </flavorText>
@@ -1470,8 +1469,8 @@ Quando il Carnario Rakdos entra nel campo di battaglia, il proprietario riprende
   <item>
     <id>DIS0190</id>
     <name>Camera di Coltura Simic</name>
-    <text>La Camera di Coltura Simic entra nel campo di battaglia TAPpata.
-Quando la Camera di Coltura Simic entra nel campo di battaglia, il proprietario riprende in mano una terra che tu controlli.
+    <text>La Camera di Coltura Simic entra nel campo di battaglia TAPpata. 
+Quando la Camera di Coltura Simic entra nel campo di battaglia, il proprietario riprende in mano una terra che tu controlli. 
 {T}: Aggiungi {G}{U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
