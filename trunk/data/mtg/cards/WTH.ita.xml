@@ -2,9 +2,9 @@
   <item>
     <id>WTH0001</id>
     <name>Rapimento</name>
-    <text>Incanta creatura
-Quando il Rapimento entra nel campo di battaglia, STAPpa la creatura incantata.
-Prendi il controllo della creatura incantata.
+    <text>Incanta creatura 
+Quando il Rapimento entra nel campo di battaglia, STAPpa la creatura incantata. 
+Prendi il controllo della creatura incantata. 
 Quando la creatura incantata viene messa in un cimitero, rimetti quella carta sul campo di battaglia sotto il controllo del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -12,7 +12,7 @@ Quando la creatura incantata viene messa in un cimitero, rimetti quella carta su
   <item>
     <id>WTH0002</id>
     <name>Quiescenza</name>
-    <text>Fino alla fine del turno, il giocatore bersaglio non può lanciare magie istantaneo o stregoneria, e quel giocatore non può attivare abilità che non siano abilità di mana.
+    <text>Fino alla fine del turno, il giocatore bersaglio non può lanciare magie istantaneo o stregoneria, e quel giocatore non può attivare abilità che non siano abilità di mana. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -20,7 +20,7 @@ Pesca una carta.</text>
   <item>
     <id>WTH0003</id>
     <name>Abiura</name>
-    <text>Come costo addizionale per lanciare l'Abiura, sacrifica un permanente blu.
+    <text>Come costo addizionale per lanciare l'Abiura, sacrifica un permanente blu. 
 Neutralizza la magia bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -41,10 +41,10 @@ Neutralizza la magia bersaglio.</text>
   </item>
   <item>
     <id>WTH0006</id>
-    <name>Fiammata Eterea</name>
-    <text>Ogniqualvolta una creatura entra nel campo di battaglia, la Fiammata Eterea le infligge 2 danni.</text>
-    <flavorText>
-    </flavorText>
+    <name>Æther Flash</name>
+    <text>Whenever a creature enters the battlefield, Æther Flash deals 2 damage to it.</text>
+    <flavorText>"You can't get there from here. Well, you can—it just won't be fun."
+—Ertai, wizard adept</flavorText>
   </item>
   <item>
     <id>WTH0007</id>
@@ -56,7 +56,7 @@ Neutralizza la magia bersaglio.</text>
   <item>
     <id>WTH0008</id>
     <name>Drago d'Alabastro</name>
-    <text>Volare
+    <text>Volare 
 Quando il Drago d'Alabastro viene messo in un cimitero dal campo di battaglia, rimescola il Drago d'Alabastro nel grimorio del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -71,8 +71,8 @@ Quando il Drago d'Alabastro viene messo in un cimitero dal campo di battaglia, r
   <item>
     <id>WTH0010</id>
     <name>Conoscenza Ancestrale</name>
-    <text>Mantenimento cumulativo {1}
-Quando la Conoscenza Ancestrale entra nel campo di battaglia, guarda le prime dieci carte del tuo grimorio, poi esilia un qualsiasi numero di quelle carte e metti le rimanenti in cima al tuo grimorio in un qualsiasi ordine.
+    <text>Mantenimento cumulativo {1} 
+Quando la Conoscenza Ancestrale entra nel campo di battaglia, guarda le prime dieci carte del tuo grimorio, poi esilia un qualsiasi numero di quelle carte e metti le rimanenti in cima al tuo grimorio in un qualsiasi ordine. 
 Quando la Conoscenza Ancestrale lascia il campo di battaglia, rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -87,8 +87,8 @@ Quando la Conoscenza Ancestrale lascia il campo di battaglia, rimescola il tuo g
   <item>
     <id>WTH0012</id>
     <name>Apatia</name>
-    <text>Incanta creatura
-La creatura incantata non STAPpa durante lo STAP del suo controllore.
+    <text>Incanta creatura 
+La creatura incantata non STAPpa durante lo STAP del suo controllore. 
 All'inizio del mantenimento del controllore della creatura incantata, quel giocatore può scartare una carta a caso. Se lo fa, STAPpa la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -96,7 +96,7 @@ All'inizio del mantenimento del controllore della creatura incantata, quel gioca
   <item>
     <id>WTH0013</id>
     <name>Lupi Artici</name>
-    <text>Mantenimento Cumulativo - {2}
+    <text>Mantenimento Cumulativo - {2} 
 Quando i Lupi Artici entrano nel campo di battaglia, pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -104,14 +104,14 @@ Quando i Lupi Artici entrano nel campo di battaglia, pesca una carta.</text>
   <item>
     <id>WTH0014</id>
     <name>Milizia Fervente</name>
-    <text>Cautela</text>
+    <text>Cautela </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0015</id>
     <name>Reperto di Argivia</name>
-    <text>Riprendi in mano una carta artefatto o incantesimo bersaglio presente nel tuo cimitero.</text>
+    <text>Riprendi in mano una carta artefatto o incantesimo bersaglio presente nel tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -125,7 +125,7 @@ Quando i Lupi Artici entrano nel campo di battaglia, pesca una carta.</text>
   <item>
     <id>WTH0017</id>
     <name>Aura di Silenzio</name>
-    <text>Le magie artefatto e incantesimo che lanciano i tuoi avversari costano {2} in più per essere lanciate.
+    <text>Le magie artefatto e incantesimo che lanciano i tuoi avversari costano {2} in più per essere lanciate. 
 Sacrifica l'Aura di Silenzio: Distruggi un artefatto o un incantesimo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -133,7 +133,7 @@ Sacrifica l'Aura di Silenzio: Distruggi un artefatto o un incantesimo bersaglio.
   <item>
     <id>WTH0018</id>
     <name>Avizoa</name>
-    <text>Volare
+    <text>Volare 
 {0}: L'Avizoa prende +2/+2 fino alla fine del turno. Salta il tuo prossimo STAP. Attiva questa abilità solo una volta per turno.</text>
     <flavorText>
     </flavorText>
@@ -155,14 +155,14 @@ Sacrifica l'Aura di Silenzio: Distruggi un artefatto o un incantesimo bersaglio.
   <item>
     <id>WTH0021</id>
     <name>Fanteria di Benalia</name>
-    <text>Branco</text>
+    <text>Branco </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0022</id>
     <name>Cavaliere di Benalia</name>
-    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.)
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
 Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)</text>
     <flavorText>
     </flavorText>
@@ -177,8 +177,8 @@ Attacco improvviso (Questa creatura infligge danno da combattimento prima delle 
   <item>
     <id>WTH0024</id>
     <name>Promesso Sposo del Fuoco</name>
-    <text>Incanta creatura
-Sacrifica una creatura STAPpata: La creatura incantata prende +2/+0 fino alla fine del turno.
+    <text>Incanta creatura 
+Sacrifica una creatura STAPpata: La creatura incantata prende +2/+0 fino alla fine del turno. 
 Sacrifica la creatura incantata: Le creature che controlli prendono +2/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -186,14 +186,14 @@ Sacrifica la creatura incantata: Le creature che controlli prendono +2/+0 fino a
   <item>
     <id>WTH0025</id>
     <name>Ciclope della Roccia Insanguinata</name>
-    <text>Il Ciclope della Roccia Insanguinata attacca in ogni turno se può farlo.</text>
+    <text>Il Ciclope della Roccia Insanguinata attacca in ogni turno se può farlo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0026</id>
     <name>Corona di Fiori</name>
-    <text>Guadagni un ammontare di punti vita pari al numero di carte creatura nel tuo cimitero.</text>
+    <text>Guadagni un ammontare di punti vita pari al numero di carte creatura nel tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -207,7 +207,7 @@ Sacrifica la creatura incantata: Le creature che controlli prendono +2/+0 fino a
   <item>
     <id>WTH0028</id>
     <name>Sangue Ribollente</name>
-    <text>La creatura bersaglio attacca in questo turno se può farlo.
+    <text>La creatura bersaglio attacca in questo turno se può farlo. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -222,15 +222,15 @@ Pesca una carta.</text>
   <item>
     <id>WTH0030</id>
     <name>Nastro di Bosium</name>
-    <text>{3}, {T}: Fino alla fine del turno, se la prima carta del tuo cimitero è una carta istantaneo o stregoneria, puoi lanciare quella carta. Se una carta lanciata in questo modo sta per andare in un cimitero in questo turno, invece esiliala.</text>
+    <text>{3}, {T}: Fino alla fine del turno, se la prima carta del tuo cimitero è una carta istantaneo o stregoneria, puoi lanciare quella carta. Se una carta lanciata in questo modo sta per andare in un cimitero in questo turno, invece esiliala. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0031</id>
     <name>Scudo d'Erica</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+1.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+1. 
 Sacrifica lo Scudo d'Erica: La creatura incantata prende +3/+3 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -259,7 +259,7 @@ Sacrifica lo Scudo d'Erica: La creatura incantata prende +3/+3 fino alla fine de
   <item>
     <id>WTH0035</id>
     <name>Sfera Chimerica</name>
-    <text>{2}: Fino alla fine del turno, la Sfera Chimerica è una creatura artefatto Costrutto 2/1 con volare.
+    <text>{2}: Fino alla fine del turno, la Sfera Chimerica è una creatura artefatto Costrutto 2/1 con volare. 
 {2}: Fino alla fine del turno, la Sfera Chimerica è una creatura artefatto Costrutto 3/2 senza volare.</text>
     <flavorText>
     </flavorText>
@@ -267,7 +267,7 @@ Sacrifica lo Scudo d'Erica: La creatura incantata prende +3/+3 fino alla fine de
   <item>
     <id>WTH0036</id>
     <name>Liane Soffocanti</name>
-    <text>Lancia le Liane Soffocanti solamente durante la dichiarazione dei bloccanti.
+    <text>Lancia le Liane Soffocanti solamente durante la dichiarazione dei bloccanti. 
 X creature attaccanti bersaglio diventano bloccate. Le Liane Soffocanti infliggono 1 danno a ciascuna di quelle creature. (Questa magia funziona sulle creature non bloccabili)</text>
     <flavorText>
     </flavorText>
@@ -282,7 +282,7 @@ X creature attaccanti bersaglio diventano bloccate. Le Liane Soffocanti infliggo
   <item>
     <id>WTH0038</id>
     <name>Muro di Cenere</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Quando il Muro di Cenere blocca, distruggilo alla fine del combattimento.</text>
     <flavorText>
     </flavorText>
@@ -290,16 +290,16 @@ Quando il Muro di Cenere blocca, distruggilo alla fine del combattimento.</text>
   <item>
     <id>WTH0039</id>
     <name>Avvoltoi Volteggianti</name>
-    <text>Volare
-Puoi scartare dalla tua mano gli Avvoltoi Volteggianti quando potresti lanciare un istantaneo.
-All'inizio del tuo mantenimento, sacrifica gli Avvoltoi Volteggianti a meno che tu esili la prima carta creatura del tuo cimitero. [Oracle 2002/03/01]</text>
+    <text>Volare 
+Puoi scartare dalla tua mano gli Avvoltoi Volteggianti quando potresti lanciare un istantaneo. 
+All'inizio del tuo mantenimento, sacrifica gli Avvoltoi Volteggianti a meno che tu esili la prima carta creatura del tuo cimitero. Oracle 2002/03/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0040</id>
     <name>Genio delle Nubi</name>
-    <text>Volare
+    <text>Volare 
 Il Genio delle Nubi può bloccare soltanto le creature con volare.</text>
     <flavorText>
     </flavorText>
@@ -307,8 +307,8 @@ Il Genio delle Nubi può bloccare soltanto le creature con volare.</text>
   <item>
     <id>WTH0041</id>
     <name>Spire della Medusa</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/-1.
+    <text>Incanta creatura 
+La creatura incantata prende +1/-1. 
 Sacrifica le Spire della Medusa: Distruggi tutte le creature non-Muro che bloccano la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -316,7 +316,7 @@ Sacrifica le Spire della Medusa: Distruggi tutte le creature non-Muro che blocca
   <item>
     <id>WTH0042</id>
     <name>Cono di Fiamme</name>
-    <text>Il Cono di Fiamme infligge 1 danno a una creatura o a un giocatore bersaglio, 2 danni a un'altra creatura o a un altro giocatore bersaglio e 3 danni a una terza creatura o a un terzo giocatore bersaglio.</text>
+    <text>Il Cono di Fiamme infligge 1 danno a una creatura o a un giocatore bersaglio, 2 danni a un'altra creatura o a un altro giocatore bersaglio e 3 danni a una terza creatura o a un terzo giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -330,7 +330,7 @@ Sacrifica le Spire della Medusa: Distruggi tutte le creature non-Muro che blocca
   <item>
     <id>WTH0044</id>
     <name>Fogliame Fitto</name>
-    <text>Le creature non possono essere bersaglio di magie.</text>
+    <text>Le creature non possono essere bersaglio di magie. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -351,7 +351,7 @@ Sacrifica le Spire della Medusa: Distruggi tutte le creature non-Muro che blocca
   <item>
     <id>WTH0047</id>
     <name>Disturbo</name>
-    <text>Neutralizza una magia istantaneo o stregoneria bersaglio a meno che il suo controllore paghi {1}.
+    <text>Neutralizza una magia istantaneo o stregoneria bersaglio a meno che il suo controllore paghi {1}. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -366,7 +366,7 @@ Pesca una carta.</text>
   <item>
     <id>WTH0049</id>
     <name>Precipitare</name>
-    <text>{G}: La creatura bersaglio perde volare fino alla fine del turno.
+    <text>{G}: La creatura bersaglio perde volare fino alla fine del turno. 
 Sacrifica il Precipitare: Il Precipitare infligge 2 danni ad ogni creatura con volare.</text>
     <flavorText>
     </flavorText>
@@ -395,7 +395,7 @@ Sacrifica il Precipitare: Il Precipitare infligge 2 danni ad ogni creatura con v
   <item>
     <id>WTH0053</id>
     <name>Armatura Empirea</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +1/+1 per ogni carta che hai in mano.</text>
     <flavorText>
     </flavorText>
@@ -403,8 +403,8 @@ La creatura incantata prende +1/+1 per ogni carta che hai in mano.</text>
   <item>
     <id>WTH0054</id>
     <name>Famiglio di Ertai</name>
-    <text>Fase
-Quando il Famiglio di Ertai scompare o lascia il campo di battaglia, metti nel tuo cimitero le prime tre carte del tuo grimorio.
+    <text>Fase 
+Quando il Famiglio di Ertai scompare o lascia il campo di battaglia, metti nel tuo cimitero le prime tre carte del tuo grimorio. 
 {U}: Fino al tuo prossimo mantenimento, il Famiglio di Ertai non può scomparire.</text>
     <flavorText>
     </flavorText>
@@ -419,28 +419,28 @@ Quando il Famiglio di Ertai scompare o lascia il campo di battaglia, metti nel t
   <item>
     <id>WTH0056</id>
     <name>Terreno Familiare</name>
-    <text>Ogni creatura che controlli non può essere bloccata da più di una creatura.</text>
+    <text>Ogni creatura che controlli non può essere bloccata da più di una creatura. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0057</id>
     <name>Colpo Fatale</name>
-    <text>Distruggi la creatura bersaglio che ha ricevuto danno in questo turno. Non può essere rigenerata.</text>
+    <text>Distruggi la creatura bersaglio che ha ricevuto danno in questo turno. Non può essere rigenerata. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0058</id>
     <name>Ardore</name>
-    <text>Le creature che controlli hanno rapidità.</text>
+    <text>Le creature che controlli hanno rapidità. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0059</id>
     <name>Malvagità Divorante</name>
-    <text>All'inizio del tuo mantenimento, la Malvagità Divorante infligge 1 danno a ogni creatura e a ogni giocatore.
+    <text>All'inizio del tuo mantenimento, la Malvagità Divorante infligge 1 danno a ogni creatura e a ogni giocatore. 
 {B}{B}, Sacrifica la Malvagità Divorante: La Malvagità Divorante infligge 3 danni a ogni creatura e a ogni giocatore.</text>
     <flavorText>
     </flavorText>
@@ -448,9 +448,9 @@ Quando il Famiglio di Ertai scompare o lascia il campo di battaglia, metti nel t
   <item>
     <id>WTH0060</id>
     <name>Frusta di Fuoco</name>
-    <text>Incanta creatura che controlli
-La creatura incantata ha "{T}: Questa creatura infligge 1 danno a una creatura o a un giocatore bersaglio."
-Sacrifica la Frusta di Fuoco: La Frusta di Fuoco infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <text>Incanta creatura che controlli 
+La creatura incantata ha "{T}: Questa creatura infligge 1 danno a una creatura o a un giocatore bersaglio." 
+Sacrifica la Frusta di Fuoco: La Frusta di Fuoco infligge 1 danno a una creatura o a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -464,14 +464,14 @@ Sacrifica la Frusta di Fuoco: La Frusta di Fuoco infligge 1 danno a una creatura
   <item>
     <id>WTH0062</id>
     <name>Accesso d'Ira</name>
-    <text>La creatura bersaglio prende +3/+3 e guadagna attacco improvviso fino alla fine del turno.</text>
+    <text>La creatura bersaglio prende +3/+3 e guadagna attacco improvviso fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0063</id>
     <name>Genio Inesperto</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del tuo mantenimento, il Genio Inesperto ti infligge 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -479,7 +479,7 @@ All'inizio del tuo mantenimento, il Genio Inesperto ti infligge 1 danno.</text>
   <item>
     <id>WTH0064</id>
     <name>Flusso</name>
-    <text>Ogni giocatore scarta un qualsiasi numero di carte, poi pesca altrettante carte.
+    <text>Ogni giocatore scarta un qualsiasi numero di carte, poi pesca altrettante carte. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -487,8 +487,8 @@ Pesca una carta.</text>
   <item>
     <id>WTH0065</id>
     <name>Elementale della Nebbia</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
-Quando l'Elementale della Nebbia attacca o blocca, sacrificalo alla fine del combattimento.</text>
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) 
+Quando l'Elementale della Nebbia attacca o blocca, sacrificalo alla fine del combattimento. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -509,16 +509,16 @@ Quando l'Elementale della Nebbia attacca o blocca, sacrificalo alla fine del com
   <item>
     <id>WTH0068</id>
     <name>Benedizione di Gea</name>
-    <text>Un giocatore bersaglio rimescola nel proprio grimorio fino a 3 carte bersaglio dal proprio cimitero.
-Pesca una carta.
-Quando la Benedizione di Gea viene messa nel tuo cimitero dal tuo grimorio, rimescola il tuo cimitero nel tuo grimorio.</text>
+    <text>Un giocatore bersaglio rimescola nel proprio grimorio fino a 3 carte bersaglio dal proprio cimitero. 
+Pesca una carta. 
+Quando la Benedizione di Gea viene messa nel tuo cimitero dal tuo grimorio, rimescola il tuo cimitero nel tuo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0069</id>
     <name>Giubbaforca</name>
-    <text>Mantenimento cumulativo-Paga 1 punto vita.
+    <text>Mantenimento cumulativo-Paga 1 punto vita. 
 Travolgere</text>
     <flavorText>
     </flavorText>
@@ -526,7 +526,7 @@ Travolgere</text>
   <item>
     <id>WTH0070</id>
     <name>Miniera di Diamanti</name>
-    <text>La Miniera di Diamanti entra nel campo di battaglia con tre segnalini estrazione.
+    <text>La Miniera di Diamanti entra nel campo di battaglia con tre segnalini estrazione. 
 {T}, Rimuovi un segnalino estrazione dalla Miniera di Diamanti: Aggiungi un mana di qualsiasi colore alla tua riserva di mana. Se non ci sono segnalini estrazione sulla Miniera di Diamanti, sacrificala.</text>
     <flavorText>
     </flavorText>
@@ -534,14 +534,14 @@ Travolgere</text>
   <item>
     <id>WTH0071</id>
     <name>Saggezza di Gerrard</name>
-    <text>Guadagni 2 punti vita per ogni carta che hai in mano.</text>
+    <text>Guadagni 2 punti vita per ogni carta che hai in mano. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0072</id>
     <name>Bomba Goblin</name>
-    <text>All'inizio del tuo mantenimento, puoi lanciare una moneta. Se vinci il lancio, metti un segnalino miccia sulla Bomba Goblin. Se perdi il lancio, rimuovi un segnalino miccia dalla Bomba Goblin.
+    <text>All'inizio del tuo mantenimento, puoi lanciare una moneta. Se vinci il lancio, metti un segnalino miccia sulla Bomba Goblin. Se perdi il lancio, rimuovi un segnalino miccia dalla Bomba Goblin. 
 Rimuovi 5 segnalini miccia dalla Bomba Goblin, Sacrifica la Bomba Goblin: La Bomba Goblin infligge 20 danni al giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -563,22 +563,22 @@ Rimuovi 5 segnalini miccia dalla Bomba Goblin, Sacrifica la Bomba Goblin: La Bom
   <item>
     <id>WTH0075</id>
     <name>Colpo Mirato</name>
-    <text>La creatura bersaglio prende +1/+0 e guadagna attacco improvviso fino alla fine del turno.
-Pesca una carta.</text>
+    <text>La creatura bersaglio prende +1/+0 e guadagna attacco improvviso fino alla fine del turno. 
+Pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0076</id>
     <name>Wurm dei Campi</name>
-    <text>Quando il Wurm dei Campi entra nel campo di battaglia sacrificalo a meno che tu riprenda in mano una carta terra base presente nel tuo cimitero. [Oracle 1999/11/01]</text>
+    <text>Quando il Wurm dei Campi entra nel campo di battaglia sacrificalo a meno che tu riprenda in mano una carta terra base presente nel tuo cimitero. Oracle 1999/11/01 </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0077</id>
     <name>Sofferenza Ossessionante</name>
-    <text>Come costo addizionale per lanciare la Sofferenza Ossessionante, esilia X carte creatura presenti nel tuo cimitero.
+    <text>Come costo addizionale per lanciare la Sofferenza Ossessionante, esilia X carte creatura presenti nel tuo cimitero. 
 La Sofferenza Ossessionante infligge X danni a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -586,7 +586,7 @@ La Sofferenza Ossessionante infligge X danni a un giocatore bersaglio.</text>
   <item>
     <id>WTH0078</id>
     <name>Cuore di Bogardan</name>
-    <text>Mantenimento cumulativo {2}
+    <text>Mantenimento cumulativo {2} 
 Quando il costo del mantenimento cumulativo del Cuore di Bogardan non è pagato, esso infligge X danni ad un giocatore bersaglio ed a tutte le creature che egli controlla, dove X è pari al doppio dei segnalini era sul Cuore di Bogardan meno due.</text>
     <flavorText>
     </flavorText>
@@ -629,7 +629,7 @@ Quando il costo del mantenimento cumulativo del Cuore di Bogardan non è pagato,
   <item>
     <id>WTH0084</id>
     <name>Santuario Interiore</name>
-    <text>Mantenimento cumulativo-Paga 2 punti vita.
+    <text>Mantenimento cumulativo-Paga 2 punti vita. 
 Previeni tutto il danno che verrebbe inflitto alle creature che controlli.</text>
     <flavorText>
     </flavorText>
@@ -651,8 +651,8 @@ Previeni tutto il danno che verrebbe inflitto alle creature che controlli.</text
   <item>
     <id>WTH0087</id>
     <name>Corazza di Kithkin</name>
-    <text>Incanta creatura
-La creatura incantata non può essere bloccata da creature con forza pari o superiore a 3.
+    <text>Incanta creatura 
+La creatura incantata non può essere bloccata da creature con forza pari o superiore a 3. 
 Sacrifica la Corazza di Kithkin: La prossima volta che una fonte a tua scelta infliggerebbe danno alla creatura incantata in questo turno, previeni quel danno.</text>
     <flavorText>
     </flavorText>
@@ -660,7 +660,7 @@ Sacrifica la Corazza di Kithkin: La prossima volta che una fonte a tua scelta in
   <item>
     <id>WTH0088</id>
     <name>Segugi di Lava</name>
-    <text>Rapidità
+    <text>Rapidità 
 Quando i Segugi di Lava entrano nel campo di battaglia, ti infliggono 4 danni.</text>
     <flavorText>
     </flavorText>
@@ -703,7 +703,7 @@ Quando i Segugi di Lava entrano nel campo di battaglia, ti infliggono 4 danni.</
   <item>
     <id>WTH0094</id>
     <name>Valle del Loto</name>
-    <text>Se la Valle del Loto sta per entrare nel campo di battaglia, invece sacrifica due terre STAPpate. Se lo fai, metti la Valle del Loto nel campo di battaglia. Se non lo fai, metti la Valle del Loto nel cimitero del suo proprietario.
+    <text>Se la Valle del Loto sta per entrare nel campo di battaglia, invece sacrifica due terre STAPpate. Se lo fai, metti la Valle del Loto nel campo di battaglia. Se non lo fai, metti la Valle del Loto nel cimitero del suo proprietario. 
 {T}: Aggiungi tre mana di un qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -711,7 +711,7 @@ Quando i Segugi di Lava entrano nel campo di battaglia, ti infliggono 4 danni.</
   <item>
     <id>WTH0095</id>
     <name>Catene del Mana</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
 La creatura incantata guadagna "Mantenimento Cumulativo - {1}".</text>
     <flavorText>
     </flavorText>
@@ -726,8 +726,8 @@ La creatura incantata guadagna "Mantenimento Cumulativo - {1}".</text>
   <item>
     <id>WTH0097</id>
     <name>Manta</name>
-    <text>La Manta non può attaccare a meno che il giocatore in difesa controlli un'Isola.
-La Manta non può essere bloccata tranne che da creature blu.
+    <text>La Manta non può attaccare a meno che il giocatore in difesa controlli un'Isola. 
+La Manta non può essere bloccata tranne che da creature blu. 
 Quando non controlli Isole, sacrifica la Manta.</text>
     <flavorText>
     </flavorText>
@@ -742,8 +742,8 @@ Quando non controlli Isole, sacrifica la Manta.</text>
   <item>
     <id>WTH0099</id>
     <name>Maestro d'Armi</name>
-    <text>Attacco Improvviso
-{1}{W}: TAPpa una creatura bersaglio che sta bloccando il Maestro d'Armi. Previeni tutto il danno da combattimento che quella creatura infliggerebbe in questo turno.</text>
+    <text>Attacco improvviso 
+{1}{W}: TAPpa una creatura bersaglio che sta bloccando il Maestro d'Armi.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -757,7 +757,7 @@ Quando non controlli Isole, sacrifica la Manta.</text>
   <item>
     <id>WTH0101</id>
     <name>Pietra della Mente</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {1}, {T}, Sacrifica la Pietra della Mente: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -765,7 +765,7 @@ Quando non controlli Isole, sacrifica la Manta.</text>
   <item>
     <id>WTH0102</id>
     <name>Poltergeist Maligno</name>
-    <text>Volare
+    <text>Volare 
 Paga 1 punto vita: Rigenera il Poltergeist Maligno.</text>
     <flavorText>
     </flavorText>
@@ -773,7 +773,7 @@ Paga 1 punto vita: Rigenera il Poltergeist Maligno.</text>
   <item>
     <id>WTH0103</id>
     <name>Grifone del Velo Lunare</name>
-    <text>Volare
+    <text>Volare 
 Quando il Grifone del Velo Lunare viene messo in un cimitero dal campo di battaglia, esilia il Grifone del Velo Lunare, poi rimetti sul campo di battaglia la prima carta creatura presente nel tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -781,15 +781,15 @@ Quando il Grifone del Velo Lunare viene messo in un cimitero dal campo di battag
   <item>
     <id>WTH0104</id>
     <name>Cuordipalude</name>
-    <text>Volare
-Mantenimento Cumulativo-Paga 1 punto vita.</text>
+    <text>Volare 
+Mantenimento Cumulativo-Paga 1 punto vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0105</id>
     <name>Melma di Mwonvuli</name>
-    <text>Mantenimento cumulativo {2}
+    <text>Mantenimento cumulativo {2} 
 La forza e la costituzione della Melma di Mwonvuli sono ciascuna pari a 1 più il doppio del numero di segnalini epoca su di sé.</text>
     <flavorText>
     </flavorText>
@@ -797,7 +797,7 @@ La forza e la costituzione della Melma di Mwonvuli sono ciascuna pari a 1 più i
   <item>
     <id>WTH0106</id>
     <name>Bacio della Natura</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {1}, Esilia la prima carta del tuo cimitero: La creatura incantata prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -805,7 +805,7 @@ La forza e la costituzione della Melma di Mwonvuli sono ciascuna pari a 1 più i
   <item>
     <id>WTH0107</id>
     <name>Rinascita della Natura</name>
-    <text>Ogni giocatore pesca una carta per ogni carta creatura presente nel suo cimitero.</text>
+    <text>Ogni giocatore pesca una carta per ogni carta creatura presente nel suo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -833,7 +833,7 @@ La forza e la costituzione della Melma di Mwonvuli sono ciascuna pari a 1 più i
   <item>
     <id>WTH0111</id>
     <name>Spettro di Odylic</name>
-    <text>Passa-paludi
+    <text>Passa-paludi 
 Ogniqualvolta lo Spettro di Odylic infligge danno a un giocatore, quel giocatore scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -862,7 +862,7 @@ Ogniqualvolta lo Spettro di Odylic infligge danno a un giocatore, quel giocatore
   <item>
     <id>WTH0115</id>
     <name>Custode della Pace</name>
-    <text>All'inizio del tuo mantenimento, sacrifica il Custode della Pace a meno che tu paghi {1}{W}.
+    <text>All'inizio del tuo mantenimento, sacrifica il Custode della Pace a meno che tu paghi {1}{W}. 
 Le creature non possono attaccare.</text>
     <flavorText>
     </flavorText>
@@ -877,15 +877,15 @@ Le creature non possono attaccare.</text>
   <item>
     <id>WTH0117</id>
     <name>Guerriero Fantasma</name>
-    <text>Il Guerriero Fantasma non può essere bloccato.</text>
+    <text>Il Guerriero Fantasma non può essere bloccato. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0118</id>
     <name>Ali Fantasma</name>
-    <text>Incanta creatura
-La creatura incantata ha volare.
+    <text>Incanta creatura 
+La creatura incantata ha volare. 
 Sacrifica le Ali Fantasma: Il proprietario riprende in mano la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -893,7 +893,7 @@ Sacrifica le Ali Fantasma: Il proprietario riprende in mano la creatura incantat
   <item>
     <id>WTH0119</id>
     <name>Fornace di Phyrexia</name>
-    <text>{T}: Esilia l'ultima carta del cimitero del giocatore bersaglio.
+    <text>{T}: Esilia l'ultima carta del cimitero del giocatore bersaglio. 
 {1}, Sacrifica la Fornace di Phyrexia: Esilia una carta bersaglio da un qualsiasi cimitero. Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -901,7 +901,7 @@ Sacrifica le Ali Fantasma: Il proprietario riprende in mano la creatura incantat
   <item>
     <id>WTH0120</id>
     <name>Vortice Psichico</name>
-    <text>Mantenimento cumulativo-Pesca una carta.
+    <text>Mantenimento cumulativo-Pesca una carta. 
 All'inizio della tua sottofase finale, sacrifica una terra e scarta la tua mano.</text>
     <flavorText>
     </flavorText>
@@ -909,15 +909,14 @@ All'inizio della tua sottofase finale, sacrifica una terra e scarta la tua mano.
   <item>
     <id>WTH0121</id>
     <name>Ratti dai Denti di Rasoio</name>
-    <text>Paura (Questa creatura non può essere bloccata tranne che da creature artefatto e/o da creature nere.)</text>
+    <text>Paura (Questa creatura non può essere bloccata tranne che da creature artefatto e/o da creature nere.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0122</id>
     <name>Silvantropi Sequoia</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -931,7 +930,7 @@ All'inizio della tua sottofase finale, sacrifica una terra e scarta la tua mano.
   <item>
     <id>WTH0124</id>
     <name>Unicorno Venerato</name>
-    <text>Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca su di esso.)
+    <text>Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca su di esso.) 
 Quando l'Unicorno Venerato lascia il campo di battaglia, guadagni un ammontare di punti vita pari al numero di segnalini epoca presenti su di esso.</text>
     <flavorText>
     </flavorText>
@@ -939,8 +938,8 @@ Quando l'Unicorno Venerato lascia il campo di battaglia, guadagni un ammontare d
   <item>
     <id>WTH0125</id>
     <name>Pulcino di Roc</name>
-    <text>Il Pulcino di Roc entra nel campo di battaglia con quattro segnalini guscio.
-All'inizio del tuo mantenimento, rimuovi un segnalino guscio dal Pulcino di Roc.
+    <text>Il Pulcino di Roc entra nel campo di battaglia con quattro segnalini guscio. 
+All'inizio del tuo mantenimento, rimuovi un segnalino guscio dal Pulcino di Roc. 
 Fintanto che il Pulcino di Roc non ha segnalini guscio, prende +3/+2 e ha volare.</text>
     <flavorText>
     </flavorText>
@@ -955,7 +954,7 @@ Fintanto che il Pulcino di Roc non ha segnalini guscio, prende +3/+2 e ha volare
   <item>
     <id>WTH0127</id>
     <name>Gufo Sapiente</name>
-    <text>Volare
+    <text>Volare 
 Quando il Gufo Sapiente entra nel campo di battaglia, guarda le prime quattro carte del tuo grimorio, poi rimettile a posto in qualsiasi ordine.</text>
     <flavorText>
     </flavorText>
@@ -970,7 +969,7 @@ Quando il Gufo Sapiente entra nel campo di battaglia, guarda le prime quattro ca
   <item>
     <id>WTH0129</id>
     <name>Rovine Bruciate</name>
-    <text>Se le Rovine Bruciate stanno per entrare nel campo di battaglia, invece sacrifica due terre STAPpate. Se lo fai, metti le Rovine Bruciate sul campo di battaglia. Se non lo fai, mettile nel cimitero del loro proprietario.
+    <text>Se le Rovine Bruciate stanno per entrare nel campo di battaglia, invece sacrifica due terre STAPpate. Se lo fai, metti le Rovine Bruciate sul campo di battaglia. Se non lo fai, mettile nel cimitero del loro proprietario. 
 {T}: Aggiungi {4} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -985,7 +984,7 @@ Quando il Gufo Sapiente entra nel campo di battaglia, guarda le prime quattro ca
   <item>
     <id>WTH0131</id>
     <name>Benedizione di Serra</name>
-    <text>Le creature che controlli hanno cautela.</text>
+    <text>Le creature che controlli hanno cautela. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1020,14 +1019,14 @@ Quando il Gufo Sapiente entra nel campo di battaglia, guarda le prime quattro ca
   <item>
     <id>WTH0136</id>
     <name>Paladino del Sud</name>
-    <text>{W}{W}, {T}: Distruggi un permanente rosso bersaglio.</text>
+    <text>{W}{W}, {T}: Distruggi un permanente rosso bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>WTH0137</id>
     <name>Vortice di Tenebre</name>
-    <text>Puoi esiliare le prime tre carte nere del tuo cimitero anziché pagare il costo di lancio del Vortice di Tenebre.
+    <text>Puoi esiliare le prime tre carte nere del tuo cimitero anziché pagare il costo di lancio del Vortice di Tenebre. 
 Il Vortice di Tenebre infligge 3 danni a una creatura non nera bersaglio. Tu guadagni 3 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -1084,7 +1083,7 @@ Il Vortice di Tenebre infligge 3 danni a una creatura non nera bersaglio. Tu gua
   <item>
     <id>WTH0145</id>
     <name>Tentacoli della Disperazione</name>
-    <text>Come costo aggiuntivo per lanciare i Tentacoli della Disperazione, sacrifica una creatura.
+    <text>Come costo aggiuntivo per lanciare i Tentacoli della Disperazione, sacrifica una creatura. 
 L'avversario bersaglio scarta due carte.</text>
     <flavorText>
     </flavorText>
@@ -1113,7 +1112,7 @@ L'avversario bersaglio scarta due carte.</text>
   <item>
     <id>WTH0149</id>
     <name>Cavallo del Tuono</name>
-    <text>Rapidità
+    <text>Rapidità 
 Quando il Cavallo del Tuono entra nel campo di battaglia, TAPpa tutte le altre creature.</text>
     <flavorText>
     </flavorText>
@@ -1121,7 +1120,7 @@ Quando il Cavallo del Tuono entra nel campo di battaglia, TAPpa tutte le altre c
   <item>
     <id>WTH0150</id>
     <name>Draghetto Timido</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta un'altra creatura entra nel campo di battaglia, il proprietario riprende in mano il Draghetto Timido.</text>
     <flavorText>
     </flavorText>
@@ -1129,7 +1128,7 @@ Ogniqualvolta un'altra creatura entra nel campo di battaglia, il proprietario ri
   <item>
     <id>WTH0151</id>
     <name>Draghetto di Tolaria</name>
-    <text>Volare
+    <text>Volare 
 Fase</text>
     <flavorText>
     </flavorText>
@@ -1193,7 +1192,7 @@ Fase</text>
   <item>
     <id>WTH0160</id>
     <name>Rinvigorire</name>
-    <text>STAPpa tutte le creature che controlli.</text>
+    <text>STAPpa tutte le creature che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1207,7 +1206,7 @@ Fase</text>
   <item>
     <id>WTH0162</id>
     <name>Riserve Volontarie</name>
-    <text>Branco
+    <text>Branco 
 Mantenimento cumulativo {1}</text>
     <flavorText>
     </flavorText>
@@ -1215,7 +1214,7 @@ Mantenimento cumulativo {1}</text>
   <item>
     <id>WTH0163</id>
     <name>Ondata di Terrore</name>
-    <text>Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento cumulativo per ogni segnalino epoca presente su di esso.)
+    <text>Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento cumulativo per ogni segnalino epoca presente su di esso.) 
 All'inizio della tua acquisizione, distruggi ogni creatura con un costo di mana convertito pari al numero di segnalini epoca sull'Ondata di Terrore. Non possono essere rigenerate.</text>
     <flavorText>
     </flavorText>
@@ -1230,7 +1229,7 @@ All'inizio della tua acquisizione, distruggi ogni creatura con un costo di mana 
   <item>
     <id>WTH0165</id>
     <name>Canyon Serpeggianti</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {2}, {T}: Fino alla fine del turno, puoi giocare le carte creatura come se avessero lampo.</text>
     <flavorText>
     </flavorText>

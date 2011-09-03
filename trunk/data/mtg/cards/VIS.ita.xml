@@ -2,7 +2,7 @@
   <item>
     <id>VIS0001</id>
     <name>Genio di Aku</name>
-    <text>Travolgere
+    <text>Travolgere 
 All'inizio del tuo mantenimento, metti un segnalino +1/+1 su ogni creatura controllata da ogni avversario.</text>
     <flavorText>
     </flavorText>
@@ -10,15 +10,15 @@ All'inizio del tuo mantenimento, metti un segnalino +1/+1 su ogni creatura contr
   <item>
     <id>VIS0002</id>
     <name>Incudine di Bogardan</name>
-    <text>I giocatori non hanno limite massimo di carte in mano.
-All'inizio della acquisizione di ogni giocatore, quel giocatore pesca una carta addizionale, poi scarta una carta.</text>
+    <text>I giocatori non hanno limite massimo di carte in mano. 
+All'inizio della acquisizione di ogni giocatore, quel giocatore pesca una carta addizionale, poi scarta una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0003</id>
     <name>Arcangelo</name>
-    <text>Volare, cautela (Questa creatura attacca senza TAPpare.)</text>
+    <text>Volare, cautela (Questa creatura attacca senza TAPpare.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -32,8 +32,8 @@ All'inizio della acquisizione di ogni giocatore, quel giocatore pesca una carta 
   <item>
     <id>VIS0005</id>
     <name>Tradimento</name>
-    <text>Incanta creatura controllata da un avversario.
-Ogniqualvolta la creatura incantata diventa TAPpata, tu peschi una carta.</text>
+    <text>Incanta creatura controllata da un avversario. 
+Ogniqualvolta la creatura incantata diventa TAPpata, tu peschi una carta. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -47,7 +47,7 @@ Ogniqualvolta la creatura incantata diventa TAPpata, tu peschi una carta.</text>
   <item>
     <id>VIS0007</id>
     <name>Fenice di Bogardan</name>
-    <text>Volare
+    <text>Volare 
 Quando la Fenice di Bogardan viene messa in un cimitero dal campo di battaglia, esiliala se non aveva un segnalino morte su di essa. Altrimenti, rimettila sul campo di battaglia sotto il tuo controllo e metti su di essa un segnalino morte.</text>
     <flavorText>
     </flavorText>
@@ -55,7 +55,7 @@ Quando la Fenice di Bogardan viene messa in un cimitero dal campo di battaglia, 
   <item>
     <id>VIS0008</id>
     <name>Chimera dagli Artigli d'Ottone</name>
-    <text>Attacco Improvviso
+    <text>Attacco Improvviso 
 Sacrifica la Chimera dagli Artigli d'Ottone: Metti un segnalino +2/+2 su una creatura Chimera bersaglio. Essa guadagna attacco improvviso. (Questo effetto non ha termine).</text>
     <flavorText>
     </flavorText>
@@ -70,7 +70,7 @@ Sacrifica la Chimera dagli Artigli d'Ottone: Metti un segnalino +2/+2 su una cre
   <item>
     <id>VIS0010</id>
     <name>Custode della Brezza</name>
-    <text>Volare
+    <text>Volare 
 Fase</text>
     <flavorText>
     </flavorText>
@@ -106,7 +106,7 @@ Fase</text>
   <item>
     <id>VIS0015</id>
     <name>Elementale delle Nubi</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) 
 L'Elementale delle Nubi può bloccare solo le creature con volare.</text>
     <flavorText>
     </flavorText>
@@ -114,15 +114,15 @@ L'Elementale delle Nubi può bloccare solo le creature con volare.</text>
   <item>
     <id>VIS0016</id>
     <name>Coercizione</name>
-    <text>L'avversario bersaglio rivela la sua mano. Tu scegli una carta da essa. Quel giocatore scarta quella carta.</text>
+    <text>L'avversario bersaglio rivela la sua mano. Tu scegli una carta da essa. Quel giocatore scarta quella carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0017</id>
     <name>Atollo Corallino</name>
-    <text>L'Atollo Corallino entra inel campo di battaglia TAPpato.
-Quando l'Atollo Corallino entra nel campo di battaglia, sacrificalo a meno che tu faccia riprendere un'Isola STAPpata che controlli in mano al suo proprietario.
+    <text>L'Atollo Corallino entra inel campo di battaglia TAPpato. 
+Quando l'Atollo Corallino entra nel campo di battaglia, sacrificalo a meno che tu faccia riprendere un'Isola STAPpata che controlli in mano al suo proprietario. 
 {T} : Aggiungi {1}{U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -130,8 +130,8 @@ Quando l'Atollo Corallino entra nel campo di battaglia, sacrificalo a meno che t
   <item>
     <id>VIS0018</id>
     <name>Corrosione</name>
-    <text>Mantenimento Cumulativo {1}
-All'inizio del tuo mantenimento, metti un segnalino ruggine su ogni artefatto controllato dall'avversario bersaglio. Poi distruggi ogni artefatto controllato con il costo di mana convertito pari o inferiore al numero di segnalini ruggine su di esso. Gli artefatti distrutti in questo modo non possono essere rigenerati.
+    <text>Mantenimento Cumulativo {1} 
+All'inizio del tuo mantenimento, metti un segnalino ruggine su ogni artefatto controllato dall'avversario bersaglio. Poi distruggi ogni artefatto controllato con il costo di mana convertito pari o inferiore al numero di segnalini ruggine su di esso. Gli artefatti distrutti in questo modo non possono essere rigenerati. 
 Quando la Corrosione lascia il campo di battaglia, rimuovi tutti i segnalini ruggine da tutti i permanenti.</text>
     <flavorText>
     </flavorText>
@@ -153,7 +153,7 @@ Quando la Corrosione lascia il campo di battaglia, rimuovi tutti i segnalini rug
   <item>
     <id>VIS0021</id>
     <name>Grifone di Daraja</name>
-    <text>Volare
+    <text>Volare 
 Sacrifica il Grifone di Daraja: Distruggi una creatura bersaglio nera.</text>
     <flavorText>
     </flavorText>
@@ -161,8 +161,8 @@ Sacrifica il Grifone di Daraja: Distruggi una creatura bersaglio nera.</text>
   <item>
     <id>VIS0022</id>
     <name>Privilegio Oscuro</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+1.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+1. 
 Sacrifica una creatura: Rigenera la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -170,7 +170,7 @@ Sacrifica una creatura: Rigenera la creatura incantata.</text>
   <item>
     <id>VIS0023</id>
     <name>Veglia Funebre</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Quando la creatura incantata viene messa in un cimitero, il suo controllore perde punti vita pari alla sua forza e tu guadagni punti vita pari alla sua costituzione.</text>
     <flavorText>
     </flavorText>
@@ -178,21 +178,21 @@ Quando la creatura incantata viene messa in un cimitero, il suo controllore perd
   <item>
     <id>VIS0024</id>
     <name>Diserzione</name>
-    <text>Neutralizza la magia bersaglio. Se una magia artefatto o creatura viene neutralizzata in questo modo, metti quella carta sul campo di battaglia sotto il tuo controllo invece che nel cimitero del suo proprietario.</text>
+    <text>Neutralizza la magia bersaglio. Se una magia artefatto o creatura viene neutralizzata in questo modo, metti quella carta sul campo di battaglia sotto il tuo controllo invece che nel cimitero del suo proprietario. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0025</id>
     <name>Desolazione</name>
-    <text>All'inizio della sottofase di fine turno, ogni giocatore che ha TAPpato una terra per attingere mana in questo turno, sacrifica una terra. Se una Pianura è sacrificata in questo modo, la Desolazione infligge 2 danni al controllore di quella Pianura.</text>
+    <text>All'inizio della sottofase di fine turno, ogni giocatore che ha TAPpato una terra per attingere mana in questo turno, sacrifica una terra. Se una Pianura è sacrificata in questo modo, la Desolazione infligge 2 danni al controllore di quella Pianura. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0026</id>
     <name>Caleidoscopio di Diamanti</name>
-    <text>{3}, {T}: Metti sul campo di battaglia una pedina creatura artefatto Prisma 0/1 incolore.
+    <text>{3}, {T}: Metti sul campo di battaglia una pedina creatura artefatto Prisma 0/1 incolore. 
 Sacrifica una pedina Prisma: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -200,8 +200,8 @@ Sacrifica una pedina Prisma: Aggiungi un mana di un qualsiasi colore alla tua ri
   <item>
     <id>VIS0027</id>
     <name>Vulcano Dormiente</name>
-    <text>Il Vulcano Dormiente entra nel campo di battaglia TAPpato.
-Quando il Vulcano Dormiente entra nel campo di battaglia, sacrificalo a meno che tu faccia riprendere in mano al proprietario una Montagna STAPpata che tu controlli.
+    <text>Il Vulcano Dormiente entra nel campo di battaglia TAPpato. 
+Quando il Vulcano Dormiente entra nel campo di battaglia, sacrificalo a meno che tu faccia riprendere in mano al proprietario una Montagna STAPpata che tu controlli. 
 {T}: Aggiungi {1}{R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -216,7 +216,7 @@ Quando il Vulcano Dormiente entra nel campo di battaglia, sacrificalo a meno che
   <item>
     <id>VIS0029</id>
     <name>Maree del Sogno</name>
-    <text>Le creature non STAPpano durante lo STAP dei loro controllori.
+    <text>Le creature non STAPpano durante lo STAP dei loro controllori. 
 All'inizio del mantenimento di ogni giocatore, quel giocatore può scegliere un qualsiasi numero di creature non verdi TAPpate che controlla e pagare {2} per ogni creatura scelta in questo modo. Se il giocatore lo fa, STAPpa quelle creature.</text>
     <flavorText>
     </flavorText>
@@ -231,8 +231,8 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore può scegliere un 
   <item>
     <id>VIS0031</id>
     <name>Pascolo degli Elefanti</name>
-    <text>Mantenimento Cumulativo {1}
-Le creature nere non ti possono attaccare.
+    <text>Mantenimento Cumulativo {1} 
+Le creature nere non ti possono attaccare. 
 Le creature non nere non ti possono attaccare a meno che il loro controllore paghi {2} per ogni creatura che controlla e che ti attacca.</text>
     <flavorText>
     </flavorText>
@@ -247,7 +247,7 @@ Le creature non nere non ti possono attaccare a meno che il loro controllore pag
   <item>
     <id>VIS0033</id>
     <name>Nascondiglio degli Elfi</name>
-    <text>Riprendi in mano una carta bersaglio dal tuo cimitero.</text>
+    <text>Riprendi in mano una carta bersaglio dal tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -268,8 +268,8 @@ Le creature non nere non ti possono attaccare a meno che il loro controllore pag
   <item>
     <id>VIS0036</id>
     <name>Distesa Paludosa</name>
-    <text>La Distesa Paludosa entra nel campo di battaglia TAPpata.
-Quando la Distesa Paludosa entra nel campo di battaglia, sacrificala a meno che il proprietario riprenda in mano una Palude STAPpata che tu controlli.
+    <text>La Distesa Paludosa entra nel campo di battaglia TAPpata. 
+Quando la Distesa Paludosa entra nel campo di battaglia, sacrificala a meno che il proprietario riprenda in mano una Palude STAPpata che tu controlli. 
 {T}: Aggiungi {1}{B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -277,7 +277,7 @@ Quando la Distesa Paludosa entra nel campo di battaglia, sacrificala a meno che 
   <item>
     <id>VIS0037</id>
     <name>Centro del Paradosso</name>
-    <text>Quando il Centro del Paradosso entra nel campo di battaglia, distruggi ogni permanente che ha lo stesso nome di un altro permanente, tranne le terre base. Non possono essere rigenerati.
+    <text>Quando il Centro del Paradosso entra nel campo di battaglia, distruggi ogni permanente che ha lo stesso nome di un altro permanente, tranne le terre base. Non possono essere rigenerati. 
 Ogniqualvolta entra nel campo di battaglia un permanente diverso da una terra base, distruggi tutti gli altri permanenti con lo stesso nome. Non possono essere rigenerati.</text>
     <flavorText>
     </flavorText>
@@ -285,7 +285,7 @@ Ogniqualvolta entra nel campo di battaglia un permanente diverso da una terra ba
   <item>
     <id>VIS0038</id>
     <name>Ascari Caduto</name>
-    <text>Aggirare
+    <text>Aggirare 
 L'Ascari Caduto non può bloccare.</text>
     <flavorText>
     </flavorText>
@@ -293,22 +293,22 @@ L'Ascari Caduto non può bloccare.</text>
   <item>
     <id>VIS0039</id>
     <name>Incantatrice Femeref</name>
-    <text>Ogniqualvolta un incantesimo viene messo in un cimitero dal campo di battaglia, pesca una carta.</text>
+    <text>Ogniqualvolta un incantesimo viene messo in un cimitero dal campo di battaglia, pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0040</id>
     <name>Istinto Bestiale</name>
-    <text>La creatura bersaglio prende +1/+1 fino alla fine del turno.
-Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
+    <text>La creatura bersaglio prende +1/+1 fino alla fine del turno. 
+Pesca una carta all'inizio del mantenimento del prossimo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0041</id>
     <name>Esplosione di Fuoco</name>
-    <text>Puoi sacrificare due Montagne anziché pagare il costo di mana dell'Esplosione di Fuoco.
+    <text>Puoi sacrificare due Montagne anziché pagare il costo di mana dell'Esplosione di Fuoco. 
 L'Esplosione di Fuoco infligge 4 danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -316,8 +316,8 @@ L'Esplosione di Fuoco infligge 4 danni a una creatura o a un giocatore bersaglio
   <item>
     <id>VIS0042</id>
     <name>Drago della Tempesta di Fuoco</name>
-    <text>Volare, travolgere
-Mantenimento cumulativo {U}{R}</text>
+    <text>Volare, travolgere 
+Mantenimento cumulativo {U}{R} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -338,7 +338,7 @@ Mantenimento cumulativo {U}{R}</text>
   <item>
     <id>VIS0045</id>
     <name>Presagio Funesto</name>
-    <text>Nomina una carta, poi metti la prima carta del grimorio dell'avversario bersaglio nel suo cimitero. Se quella carta è quella nominata, tu peschi una carta.
+    <text>Nomina una carta, poi metti la prima carta del grimorio dell'avversario bersaglio nel suo cimitero. Se quella carta è quella nominata, tu peschi una carta. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -353,7 +353,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>VIS0047</id>
     <name>Monile Funebre</name>
-    <text>Scegli una - Un giocatore bersaglio scarta una carta; oppure una creatura bersaglio prende +2/-1 fino alla fine del turno; oppure una creatura bersaglio ha passa-Paludi fino alla fine del turno.</text>
+    <text>Scegli una - Un giocatore bersaglio scarta una carta; oppure una creatura bersaglio prende +2/-1 fino alla fine del turno; oppure una creatura bersaglio ha passa-Paludi fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -388,7 +388,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>VIS0052</id>
     <name>Canyon dei Grifoni</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: STAPpa un Grifone bersaglio. Se è una creatura, prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -396,7 +396,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>VIS0053</id>
     <name>Spirito Guida</name>
-    <text>Volare
+    <text>Volare 
 {T}: Se la prima carta del cimitero del giocatore bersaglio è una carta creatura, metti quella carta in cima al grimorio di quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -411,8 +411,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>VIS0055</id>
     <name>Ondata di Calore</name>
-    <text>Mantenimento cumulativo {R}
-Le creature blu non possono bloccare le creature che tu controlli.
+    <text>Mantenimento cumulativo {R} 
+Le creature blu non possono bloccare le creature che tu controlli. 
 Le creature non blu non possono bloccare le creature che tu controlli, a meno che il loro controllore paghi 1 punto vita per ogni creatura bloccante che controlla.</text>
     <flavorText>
     </flavorText>
@@ -420,7 +420,7 @@ Le creature non blu non possono bloccare le creature che tu controlli, a meno ch
   <item>
     <id>VIS0056</id>
     <name>Elmo del Risveglio</name>
-    <text>Le magie costano {1} in meno per essere lanciate. [Oracle 2002/03/01]</text>
+    <text>Le magie costano {1} in meno per essere lanciate. Oracle 2002/03/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -441,7 +441,7 @@ Le creature non blu non possono bloccare le creature che tu controlli, a meno ch
   <item>
     <id>VIS0059</id>
     <name>Ciclope Goffo</name>
-    <text>Il Ciclope Goffo non può bloccare.</text>
+    <text>Il Ciclope Goffo non può bloccare. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -455,14 +455,14 @@ Le creature non blu non possono bloccare le creature che tu controlli, a meno ch
   <item>
     <id>VIS0061</id>
     <name>Fante Veterano</name>
-    <text>{T}: Una creatura attaccante bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <text>{T}: Una creatura attaccante bersaglio prende +1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0062</id>
     <name>Raccolto Infernale</name>
-    <text>Come costo addizionale per lanciare il Raccolto Infernale, i proprietari riprendono in mano X Paludi che tu controlli.
+    <text>Come costo addizionale per lanciare il Raccolto Infernale, i proprietari riprendono in mano X Paludi che tu controlli. 
 Il Raccolto Infernale infligge X danni divisi a tua scelta tra un qualsiasi numero di creature bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -470,14 +470,14 @@ Il Raccolto Infernale infligge X danni divisi a tua scelta tra un qualsiasi nume
   <item>
     <id>VIS0063</id>
     <name>Ispirazione</name>
-    <text>Il giocatore bersaglio pesca due carte.</text>
+    <text>Il giocatore bersaglio pesca due carte. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0064</id>
     <name>Chimera dal Cuore di Ferro</name>
-    <text>Cautela
+    <text>Cautela 
 Sacrifica la Chimera dal Cuore di Ferro: Metti un segnalino +2/+2 su una creatura Chimera bersaglio. Essa guadagna cautela. (Questo effetto non ha termine.)</text>
     <flavorText>
     </flavorText>
@@ -492,8 +492,8 @@ Sacrifica la Chimera dal Cuore di Ferro: Metti un segnalino +2/+2 su una creatur
   <item>
     <id>VIS0066</id>
     <name>Bolla di Juju</name>
-    <text>Mantenimento cumulativo {1}
-Quando giochi una carta, sacrifica la Bolla di Juju.
+    <text>Mantenimento cumulativo {1} 
+Quando giochi una carta, sacrifica la Bolla di Juju. 
 {2}: Guadagni 1 punto vita.</text>
     <flavorText>
     </flavorText>
@@ -501,8 +501,8 @@ Quando giochi una carta, sacrifica la Bolla di Juju.
   <item>
     <id>VIS0067</id>
     <name>Bacino di Giungla</name>
-    <text>Il Bacino di Giungla entra nel campo di battaglia TAPpato.
-Quando il Bacino di Giungla entra nel campo di battaglia, sacrificalo a meno che tu faccia riprendere in mano al proprietario una Foresta STAPpata che controlli.
+    <text>Il Bacino di Giungla entra nel campo di battaglia TAPpato. 
+Quando il Bacino di Giungla entra nel campo di battaglia, sacrificalo a meno che tu faccia riprendere in mano al proprietario una Foresta STAPpata che controlli. 
 {T} : Aggiungi {1}{G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -510,16 +510,16 @@ Quando il Bacino di Giungla entra nel campo di battaglia, sacrificalo a meno che
   <item>
     <id>VIS0068</id>
     <name>Disprezzo di Kaervek</name>
-    <text>Come costo addizionale per lanciare il Disprezzo di Kaervek, sacrifica tutti i permanenti che controlli e scarta la tua mano.
-Il giocatore bersaglio perde 5 Punti Vita. [Oracle 1999/07/01]</text>
+    <text>Come costo addizionale per lanciare il Disprezzo di Kaervek, sacrifica tutti i permanenti che controlli e scarta la tua mano. 
+Il giocatore bersaglio perde 5 Punti Vita. Oracle 1999/07/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0069</id>
     <name>Karoo</name>
-    <text>Il Karoo entra nel campo di battaglia TAPpato.
-Quando il Karoo entra nel campo di battaglia, sacrificalo a meno che tu faccia riprendere in mano al proprietario una Pianura STAPpata che controlli.
+    <text>Il Karoo entra nel campo di battaglia TAPpato. 
+Quando il Karoo entra nel campo di battaglia, sacrificalo a meno che tu faccia riprendere in mano al proprietario una Pianura STAPpata che controlli. 
 {T} : Aggiungi {1}{W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -527,7 +527,7 @@ Quando il Karoo entra nel campo di battaglia, sacrificalo a meno che tu faccia r
   <item>
     <id>VIS0070</id>
     <name>Venti Catabatici</name>
-    <text>Fase
+    <text>Fase 
 Le creature con volare non possono attaccare o bloccare, e le loro abilità attivate con {T} nel loro costo non possono essere attivate.</text>
     <flavorText>
     </flavorText>
@@ -542,14 +542,14 @@ Le creature con volare non possono attaccare o bloccare, e le loro abilità atti
   <item>
     <id>VIS0072</id>
     <name>Ghepardo Reale</name>
-    <text>Lampo</text>
+    <text>Lampo </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0073</id>
     <name>Cavaliere delle Nebbie</name>
-    <text>Aggirare
+    <text>Aggirare 
 Quando il Cavaliere delle Nebbie entra nel campo di battaglia, puoi pagare {U}. Se non lo fai, distruggi un cavaliere bersaglio e non può essere rigenerato.</text>
     <flavorText>
     </flavorText>
@@ -557,7 +557,7 @@ Quando il Cavaliere delle Nebbie entra nel campo di battaglia, puoi pagare {U}. 
   <item>
     <id>VIS0074</id>
     <name>Cavaliere Valoroso</name>
-    <text>Aggirare
+    <text>Aggirare 
 {1}{W} : Ogni creatura senza aggirare che sta bloccando il Cavaliere Valoroso prende -1/-1 fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
     <flavorText>
     </flavorText>
@@ -565,8 +565,8 @@ Quando il Cavaliere delle Nebbie entra nel campo di battaglia, puoi pagare {U}. 
   <item>
     <id>VIS0075</id>
     <name>Kookus</name>
-    <text>Travolgere
-All'inizio del tuo mantenimento, se non controlli una creatura di nome Custode di Kookus, Kookus ti infligge 3 danni e attacca in questo se può farlo.
+    <text>Travolgere 
+All'inizio del tuo mantenimento, se non controlli una creatura di nome Custode di Kookus, Kookus ti infligge 3 danni e attacca in questo se può farlo. 
 {R}: Kookus prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -574,8 +574,8 @@ All'inizio del tuo mantenimento, se non controlli una creatura di nome Custode d
   <item>
     <id>VIS0076</id>
     <name>Draghetto di Kyscu</name>
-    <text>Volare
-{G}: Il Draghetto di Kyscu prende +0/+1 fino alla fine del turno. Attiva quest'abilità non più di una volta per turno.
+    <text>Volare 
+{G}: Il Draghetto di Kyscu prende +0/+1 fino alla fine del turno. Attiva quest'abilità non più di una volta per turno. 
 Sacrifica il Draghetto di Kyscu e una creatura di nome Draghetto Sputafuoco: Passa in rassegna il tuo grimorio per una creatura di nome Drago di Viashivan e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -583,7 +583,7 @@ Sacrifica il Draghetto di Kyscu e una creatura di nome Draghetto Sputafuoco: Pas
   <item>
     <id>VIS0077</id>
     <name>Chimera dal Ventre di Piombo</name>
-    <text>Travolgere
+    <text>Travolgere 
 Sacrifica la Chimera dal Ventre di Piombo: Metti un segnalino +2/+2 su una creatura Chimera bersaglio. Essa guadagna travolgere. (Questo effetto non ha termine.)</text>
     <flavorText>
     </flavorText>
@@ -591,7 +591,7 @@ Sacrifica la Chimera dal Ventre di Piombo: Metti un segnalino +2/+2 su una creat
   <item>
     <id>VIS0078</id>
     <name>Lichentropo</name>
-    <text>Se sta per essere inflitto danno al Lichentropo, invece metti altrettanti segnalini -1/-1 su di esso.
+    <text>Se sta per essere inflitto danno al Lichentropo, invece metti altrettanti segnalini -1/-1 su di esso. 
 All'inizio del tuo mantenimento, rimuovi un segnalino -1/-1 dal Lichentropo.</text>
     <flavorText>
     </flavorText>
@@ -606,25 +606,25 @@ All'inizio del tuo mantenimento, rimuovi un segnalino -1/-1 dal Lichentropo.</te
   <item>
     <id>VIS0080</id>
     <name>Arciere dall'Arco Lungo</name>
-    <text>Attacco improvviso
-Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <text>Attacco improvviso 
+Raggiungere (Questa creatura può bloccare le creature con volare.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0081</id>
     <name>Miniera di Magma</name>
-    <text>{4}: Metti un segnalino pressione sulla Miniera di Magma.
+    <text>{4}: Metti un segnalino pressione sulla Miniera di Magma. 
 {T}, Sacrifica la Miniera di Magma: La Miniera di Magma infligge un danno pari al numero di segnalini pressione presenti su di essa ad una creatura o ad un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0082</id>
-    <name>Caravella Portoghese</name>
-    <text>Quando la Caravella Portoghese entra nel campo di battaglia, rimanda la creatura bersaglio in mano al proprietario. [Oracle 1999/07/01]</text>
-    <flavorText>
-    </flavorText>
+    <name>Man-o'-War</name>
+    <text>When Man-o'-War enters the battlefield, return target creature to its owner's hand.</text>
+    <flavorText>"Beauty to the eye does not always translate to the touch."
+—Naimah, Femeref philosopher</flavorText>
   </item>
   <item>
     <id>VIS0083</id>
@@ -643,8 +643,8 @@ Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
   <item>
     <id>VIS0085</id>
     <name>Suggestione della Folla</name>
-    <text>Incanta creatura
-La creatura incantata ha travolgere.
+    <text>Incanta creatura 
+La creatura incantata ha travolgere. 
 Ogniqualvolta tutte le creature non Muro che controlli attaccano, la creatura incantata prende +X/+0 fino alla fine del turno, dove X è il numero di creature attaccanti.</text>
     <flavorText>
     </flavorText>
@@ -652,7 +652,7 @@ Ogniqualvolta tutte le creature non Muro che controlli attaccano, la creatura in
   <item>
     <id>VIS0086</id>
     <name>Ferita Mortale</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Quando viene inflitto danno alla creatura incantata, distruggila.</text>
     <flavorText>
     </flavorText>
@@ -667,8 +667,8 @@ Quando viene inflitto danno alla creatura incantata, distruggila.</text>
   <item>
     <id>VIS0088</id>
     <name>Velo Mistico</name>
-    <text>Puoi lanciare il Velo Mistico in ogni momento in cui potresti lanciare un istantaneo. Se è stato lanciato in un momento in cui non poteva essere lanciata una stregoneria, sacrificalo all'inizio della prossima sottofase di cancellazione.
-Incanta creatura
+    <text>Puoi lanciare il Velo Mistico in ogni momento in cui potresti lanciare un istantaneo. Se è stato lanciato in un momento in cui non poteva essere lanciata una stregoneria, sacrificalo all'inizio della prossima sottofase di cancellazione. 
+Incanta creatura 
 La creatura incantata ha velo. (Non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -676,7 +676,7 @@ La creatura incantata ha velo. (Non può essere bersaglio di magie o abilità.)<
   <item>
     <id>VIS0089</id>
     <name>Ordine Naturale</name>
-    <text>Come costo addizionale per lanciare l'Ordine Naturale, sacrifica una creatura verde.
+    <text>Come costo addizionale per lanciare l'Ordine Naturale, sacrifica una creatura verde. 
 Passa in rassegna il tuo grimorio per una carta creatura verde e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -684,7 +684,7 @@ Passa in rassegna il tuo grimorio per una carta creatura verde e mettila nel cam
   <item>
     <id>VIS0090</id>
     <name>Necromanzia</name>
-    <text>Puoi lanciare la Necromanzia in qualsiasi momento in cui potresti lanciare un istantaneo. Se è stata lanciata quando non poteva essere lanciata una stregoneria, sacrificala all'inizio della prossima sottofase di cancellazione.
+    <text>Puoi lanciare la Necromanzia in qualsiasi momento in cui potresti lanciare un istantaneo. Se è stata lanciata quando non poteva essere lanciata una stregoneria, sacrificala all'inizio della prossima sottofase di cancellazione. 
 Quando la Necromanzia entra nel campo di battaglia, se è nel campo di battaglia, diventa un'Aura con "Incanta creatura messa nel campo di battaglia con Necromanzia". Metti nel campo di battaglia sotto il tuo controllo una carta creatura bersaglio da un qualsiasi cimitero e assegna ad essa la Necromanzia. Quando la Necromanzia lascia il campo di battaglia, il controllore di quella creatura la sacrifica.</text>
     <flavorText>
     </flavorText>
@@ -699,7 +699,7 @@ Quando la Necromanzia entra nel campo di battaglia, se è nel campo di battaglia
   <item>
     <id>VIS0092</id>
     <name>Nekrataal</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Quando Nekrataal entra nel campo di battaglia, distruggi una creatura bersaglio che non sia artefatto e non sia nera. Quella creatura non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -714,7 +714,7 @@ Quando Nekrataal entra nel campo di battaglia, distruggi una creatura bersaglio 
   <item>
     <id>VIS0094</id>
     <name>Ovinomante</name>
-    <text>Quando l'Ovinomante entra nel campo di battaglia, sacrificalo a meno che tu non faccia tornare in mano al proprietario tre terre base che controlli.
+    <text>Quando l'Ovinomante entra nel campo di battaglia, sacrificalo a meno che tu non faccia tornare in mano al proprietario tre terre base che controlli. 
 {T}, Fai tornare l'Ovinomante in mano al suo proprietario: Distruggi una creatura bersaglio. Non può essere rigenerata. Il controllore di quella creatura mette sul campo di battaglia una pedina creatura Pecora 0/1 verde.</text>
     <flavorText>
     </flavorText>
@@ -722,15 +722,14 @@ Quando Nekrataal entra nel campo di battaglia, distruggi una creatura bersaglio 
   <item>
     <id>VIS0095</id>
     <name>Pantere Guerriere</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0096</id>
     <name>Parapetto</name>
-    <text>Puoi lanciare il Parapetto quando potresti lanciare un istantaneo. Se è stato lanciato quando non poteva essere lanciata una stregoneria, sacrificalo all'inizio della prossima sottofase di cancellazione.
+    <text>Puoi lanciare il Parapetto quando potresti lanciare un istantaneo. Se è stato lanciato quando non poteva essere lanciata una stregoneria, sacrificalo all'inizio della prossima sottofase di cancellazione. 
 Le creature che controlli prendono +0/+1.</text>
     <flavorText>
     </flavorText>
@@ -745,8 +744,8 @@ Le creature che controlli prendono +0/+1.</text>
   <item>
     <id>VIS0098</id>
     <name>Razziatore di Phyrexia</name>
-    <text>Il Razziatore di Phyrexia entra nel campo di battaglia con X segnalini +1/+1.
-Il Razziatore di Phyrexia non può bloccare.
+    <text>Il Razziatore di Phyrexia entra nel campo di battaglia con X segnalini +1/+1. 
+Il Razziatore di Phyrexia non può bloccare. 
 Il Razziatore di Phyrexia non può attaccare a meno che tu paghi {1} per ogni segnalino +1/+1 presente su di esso.</text>
     <flavorText>
     </flavorText>
@@ -754,8 +753,7 @@ Il Razziatore di Phyrexia non può attaccare a meno che tu paghi {1} per ogni se
   <item>
     <id>VIS0099</id>
     <name>Camminatore di Phyrexia</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -769,29 +767,28 @@ Il Razziatore di Phyrexia non può attaccare a meno che tu paghi {1} per ogni se
   <item>
     <id>VIS0101</id>
     <name>Prosperità</name>
-    <text>Ogni giocatore pesca X carte.</text>
+    <text>Ogni giocatore pesca X carte. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0102</id>
     <name>Ippopotamo Pigmeo</name>
-    <text>Ogniqualvolta l'Ippopotamo Pigmeo attacca e non è bloccato, puoi far attivare al giocatore in difesa un'abilità di mana di ogni terra che controlla e svuotare la sua riserva. Se lo fai, l'Ippopotamo Pigmeo non infligge danno da combattimento in questo turno e, all'inizio della tua fase principale dopo il combattimento, tu aggiungi {X} alla tua riserva di mana, dove X è pari all'ammontare di mana svuotato dalla riserva del giocatore in difesa in questo modo.</text>
+    <text>Ogniqualvolta l'Ippopotamo Pigmeo attacca e non è bloccato, puoi far attivare al giocatore in difesa un'abilità di mana di ogni terra che controlla e svuotare la sua riserva. Se lo fai, l'Ippopotamo Pigmeo non infligge danno da combattimento in questo turno e, all'inizio della tua fase principale dopo il combattimento, tu aggiungi {X} alla tua riserva di mana, dove X è pari all'ammontare di mana svuotato dalla riserva del giocatore in difesa in questo modo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0103</id>
     <name>Pitone</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0104</id>
     <name>Sabbie Mobili</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}, Sacrifica le Sabbie Mobili: Una creatura attaccante bersaglio senza volare prende -1/-2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -820,7 +817,7 @@ Il Razziatore di Phyrexia non può attaccare a meno che tu paghi {1} per ogni se
   <item>
     <id>VIS0108</id>
     <name>Efreet dell'Arcobaleno</name>
-    <text>Volare
+    <text>Volare 
 {U}{U}: L'Efreet dell'Arcobaleno scompare.</text>
     <flavorText>
     </flavorText>
@@ -828,15 +825,15 @@ Il Razziatore di Phyrexia non può attaccare a meno che tu paghi {1} per ogni se
   <item>
     <id>VIS0109</id>
     <name>Assalto Implacabile</name>
-    <text>STAPpa tutte le creature che hanno attaccato in questo turno. Dopo questa fase principale, c'è una fase di combattimento addizionale seguita da una fase principale aggiuntiva.</text>
+    <text>STAPpa tutte le creature che hanno attaccato in questo turno. Dopo questa fase principale, c'è una fase di combattimento addizionale seguita da una fase principale aggiuntiva. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0110</id>
     <name>Sigillo delle Reliquie</name>
-    <text>Puoi lanciare il Sigillo delle Reliquie in ogni momento in cui potresti lanciare un istantaneo. Se è stato lanciato quando non poteva essere lanciata una stregoneria, sacrificalo all'inizio della prossima sottofase di cancellazione.
-Incanta artefatto
+    <text>Puoi lanciare il Sigillo delle Reliquie in ogni momento in cui potresti lanciare un istantaneo. Se è stato lanciato quando non poteva essere lanciata una stregoneria, sacrificalo all'inizio della prossima sottofase di cancellazione. 
+Incanta artefatto 
 L'artefatto incantato ha velo. (Non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -851,7 +848,7 @@ L'artefatto incantato ha velo. (Non può essere bersaglio di magie o abilità.)<
   <item>
     <id>VIS0112</id>
     <name>Combattente della Resistenza</name>
-    <text>Sacrifica il Combattente della Resistenza: Previeni tutto il danno da combattimento che una creatura bersaglio infliggerebbe in questo turno.</text>
+    <text>Sacrifica il Combattente della Resistenza: Previeni tutto il danno da combattimento che una creatura bersaglio infliggerebbe in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -872,7 +869,7 @@ L'artefatto incantato ha velo. (Non può essere bersaglio di magie o abilità.)<
   <item>
     <id>VIS0115</id>
     <name>Guerra Legittima</name>
-    <text>Le creature bianche che controlli hanno protezione dal nero.
+    <text>Le creature bianche che controlli hanno protezione dal nero. 
 Le creature nere che controlli hanno protezione dal bianco.</text>
     <flavorText>
     </flavorText>
@@ -880,7 +877,7 @@ Le creature nere che controlli hanno protezione dal bianco.</text>
   <item>
     <id>VIS0116</id>
     <name>Boa di Fiume</name>
-    <text>Passa-Isole
+    <text>Passa-Isole 
 {G}: Rigenera il Boa di Fiume.</text>
     <flavorText>
     </flavorText>
@@ -895,15 +892,15 @@ Le creature nere che controlli hanno protezione dal bianco.</text>
   <item>
     <id>VIS0118</id>
     <name>Fertilità</name>
-    <text>Rivela la prima carta che peschi ogni turno. Ogniqualvolta riveli una carta terra base in questo modo, pesca una carta.</text>
+    <text>Rivela la prima carta che peschi ogni turno. Ogniqualvolta riveli una carta terra base in questo modo, pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0119</id>
     <name>Sabbie del Tempo</name>
-    <text>Ogni giocatore salta il proprio STAP.
-All'inizio del mantenimento di ogni giocatore, quel giocatore STAPpa simultaneamente ogni artefatto, creatura e terra TAPpata che controlla e TAPpa ogni artefatto, creatura e terra STAPpata che controlla.</text>
+    <text>Ogni giocatore salta il proprio STAP. 
+All'inizio del mantenimento di ogni giocatore, quel giocatore STAPpa simultaneamente ogni artefatto, creatura e terra TAPpata che controlla e TAPpa ogni artefatto, creatura e terra STAPpata che controlla. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -917,8 +914,8 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore STAPpa simultaneam
   <item>
     <id>VIS0121</id>
     <name>Efreet Evanescente</name>
-    <text>Volare
-Fase
+    <text>Volare 
+Fase 
 Ogniqualvolta l'Efreet Evanescente compare, la creatura bersaglio scompare.</text>
     <flavorText>
     </flavorText>
@@ -926,7 +923,7 @@ Ogniqualvolta l'Efreet Evanescente compare, la creatura bersaglio scompare.</tex
   <item>
     <id>VIS0122</id>
     <name>Draghetto Urlante</name>
-    <text>Volare
+    <text>Volare 
 Quando il Draghetto Urlante entra nel campo di battaglia, il proprietario riprende in mano una creatura che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -941,7 +938,7 @@ Quando il Draghetto Urlante entra nel campo di battaglia, il proprietario ripren
   <item>
     <id>VIS0124</id>
     <name>Anello di Sisay</name>
-    <text>{T}: Aggiungi {2} alla tua riserva di mana.</text>
+    <text>{T}: Aggiungi {2} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -955,7 +952,7 @@ Quando il Draghetto Urlante entra nel campo di battaglia, il proprietario ripren
   <item>
     <id>VIS0126</id>
     <name>Solfatara</name>
-    <text>Il giocatore bersaglio non può giocare carte terra in questo turno.
+    <text>Il giocatore bersaglio non può giocare carte terra in questo turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -963,16 +960,16 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>VIS0127</id>
     <name>Canzone di Sangue</name>
-    <text>Metti nel tuo cimitero le prime quattro carte del tuo grimorio.
-Ogniqualvolta una creatura attacca in questo turno, prende +1/+0 fino alla fine del turno per ogni carta creatura messa nel tuo cimitero in questo modo.</text>
+    <text>Metti nel tuo cimitero le prime quattro carte del tuo grimorio. 
+Ogniqualvolta una creatura attacca in questo turno, prende +1/+0 fino alla fine del turno per ogni carta creatura messa nel tuo cimitero in questo modo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0128</id>
     <name>Agilità del Ragno</name>
-    <text>Puoi lanciare l'Agilità del Ragno in qualsiasi momento in cui potresti lanciare un istantaneo. Se è stata lanciata in un momento in cui non poteva essere lanciata una stregoneria, sacrificala all'inizio della prossima sottofase di cancellazione.
-Incanta creatura
+    <text>Puoi lanciare l'Agilità del Ragno in qualsiasi momento in cui potresti lanciare un istantaneo. Se è stata lanciata in un momento in cui non poteva essere lanciata una stregoneria, sacrificala all'inizio della prossima sottofase di cancellazione. 
+Incanta creatura 
 La creatura incantata prende +0/+3 e ha raggiungere. (Può bloccare le creature con volare.)</text>
     <flavorText>
     </flavorText>
@@ -980,7 +977,7 @@ La creatura incantata prende +0/+3 e ha raggiungere. (Può bloccare le creature 
   <item>
     <id>VIS0129</id>
     <name>Draghetto Sputafuoco</name>
-    <text>Volare
+    <text>Volare 
 {R}: Il Draghetto Sputafuoco prende +1/+0 fino alla fine del turno. Attiva questa abilità non più di una volta per turno.</text>
     <flavorText>
     </flavorText>
@@ -995,7 +992,7 @@ La creatura incantata prende +0/+3 e ha raggiungere. (Può bloccare le creature 
   <item>
     <id>VIS0131</id>
     <name>Carica di Gnu</name>
-    <text>Travolgere (Se questa creatura sta per infliggere alle sue creature bloccanti danno da combattimento sufficiente a distruggerle, puoi farle infliggere il resto del suo danno al giocatore in difesa o a un planeswalker.)
+    <text>Travolgere (Se questa creatura sta per infliggere alle sue creature bloccanti danno da combattimento sufficiente a distruggerle, puoi farle infliggere il resto del suo danno al giocatore in difesa o a un planeswalker.) 
 All'inizio del tuo mantenimento, fai tornare una creatura verde che controlli in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -1003,7 +1000,7 @@ All'inizio del tuo mantenimento, fai tornare una creatura verde che controlli in
   <item>
     <id>VIS0132</id>
     <name>Eredità di Solimano</name>
-    <text>Quando l'Eredità di Solimano entra nel campo di battaglia, distruggi tutti i Geni e gli Efreet. Non possono essere rigenerati.
+    <text>Quando l'Eredità di Solimano entra nel campo di battaglia, distruggi tutti i Geni e gli Efreet. Non possono essere rigenerati. 
 Ogniqualvolta un Genio o un Efreet entra nel campo di battaglia, distruggilo. Non può essere rigenerato.</text>
     <flavorText>
     </flavorText>
@@ -1011,15 +1008,15 @@ Ogniqualvolta un Genio o un Efreet entra nel campo di battaglia, distruggilo. No
   <item>
     <id>VIS0133</id>
     <name>Fioritura Estiva</name>
-    <text>Puoi giocare fino a 3 terre addizionali in questo turno.</text>
+    <text>Puoi giocare fino a 3 terre addizionali in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0134</id>
     <name>Borchia Solare</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+3.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+3. 
 {W}: Il proprietario riprende in mano la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -1027,23 +1024,23 @@ La creatura incantata prende +1/+3.
   <item>
     <id>VIS0135</id>
     <name>Assassino di Suq'Ata</name>
-    <text>Paura
-Ogniqualvolta l'Assassino di Suq'Ata attacca e non è bloccato, il giocatore in difesa prende un segnalino veleno. (Un giocatore con dieci o più segnalini veleno perde la partita.)</text>
+    <text>Paura 
+Ogniqualvolta l'Assassino di Suq'Ata attacca e non è bloccato, il giocatore in difesa prende un segnalino veleno. (Un giocatore con dieci o più segnalini veleno perde la partita.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0136</id>
     <name>Lanciere di Suq'Ata</name>
-    <text>Rapidità
-Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.)</text>
+    <text>Rapidità 
+Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0137</id>
     <name>Campione di Talruum</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Ogniqualvolta il Campione di Talruum blocca o è bloccato da una creatura, quella creatura perde attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1065,15 +1062,15 @@ Ogniqualvolta il Campione di Talruum blocca o è bloccato da una creatura, quell
   <item>
     <id>VIS0140</id>
     <name>Guardia d'Onore di Teferi</name>
-    <text>Aggirare
-{U}{U}: La Guardia d'Onore di Teferi scompare.</text>
+    <text>Aggirare 
+{U}{U}: La Guardia d'Onore di Teferi scompare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0141</id>
     <name>Scatola degli Enigmi di Teferi</name>
-    <text>All'inizio dell'acquisizione di ogni giocatore, quel giocatore mette le carte della propria mano in fondo al proprio grimorio nell'ordine che preferisce, poi pesca altrettante carte.</text>
+    <text>All'inizio dell'acquisizione di ogni giocatore, quel giocatore mette le carte della propria mano in fondo al proprio grimorio nell'ordine che preferisce, poi pesca altrettante carte. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1108,7 +1105,7 @@ Ogniqualvolta il Campione di Talruum blocca o è bloccato da una creatura, quell
   <item>
     <id>VIS0146</id>
     <name>Chimera dalle Ali di Stagno</name>
-    <text>Volare
+    <text>Volare 
 Sacrifica la Chimera dalle Ali di Stagno: Metti un segnalino +2/+2 su una creatura Chimera bersaglio. Essa guadagna volare (Questo effetto non ha termine.)</text>
     <flavorText>
     </flavorText>
@@ -1116,7 +1113,7 @@ Sacrifica la Chimera dalle Ali di Stagno: Metti un segnalino +2/+2 su una creatu
   <item>
     <id>VIS0147</id>
     <name>Decima</name>
-    <text>Passa in rassegna il tuo grimorio per una carta Pianura. Se controlli meno terre di un avversario, puoi passare in rassegna il tuo grimorio per una carta Pianura addizionale. Rivela quelle carte e aggiungile alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <text>Passa in rassegna il tuo grimorio per una carta Pianura. Se un avversario bersaglio controlla più terre di te, puoi passare in rassegna il tuo grimorio per una carta Pianura addizionale. Rivela quelle carte e aggiungile alla tua mano. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1143,38 +1140,37 @@ Sacrifica la Chimera dalle Ali di Stagno: Metti un segnalino +2/+2 su una creatu
   </item>
   <item>
     <id>VIS0151</id>
-    <name>Paradiso Nascosto</name>
-    <text>{T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana. Durante il tuo prossimo STAP, mentre STAPpi i tuoi permanenti, il proprietario riprende in mano il Paradiso Nascosto.</text>
-    <flavorText>
-    </flavorText>
+    <name>Undiscovered Paradise</name>
+    <text>{T}: Add one mana of any color to your mana pool. During your next untap step, as you untap your permanents, return Undiscovered Paradise to its owner's hand.</text>
+    <flavorText>Jolrael's choice of homes was far better than her choice of allies.</flavorText>
   </item>
   <item>
     <id>VIS0152</id>
     <name>Annullare</name>
-    <text>I proprietari riprendono in mano due creature bersaglio.</text>
+    <text>I proprietari riprendono in mano due creature bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0153</id>
     <name>Parassita Mentale di Urborg</name>
-    <text>{B}, Sacrifica il Parassita Mentale di Urborg: L'avversario bersaglio scarta una carta a caso. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <text>{B}, Sacrifica il Parassita Mentale di Urborg: L'avversario bersaglio scarta una carta a caso. Attiva questa abilità solo quando potresti lanciare una stregoneria. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0154</id>
     <name>Tutore Vampirico</name>
-    <text>Passa in rassegna il tuo grimorio per una carta qualsiasi, poi rimescola il tuo grimorio e metti quella carta in cima ad esso. Perdi 2 punti vita.</text>
+    <text>Passa in rassegna il tuo grimorio per una carta qualsiasi, poi rimescola il tuo grimorio e metti quella carta in cima ad esso. Perdi 2 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0155</id>
     <name>Vampirismo</name>
-    <text>Incanta creatura
-Quando il Vampirismo entra nel campo di battaglia, pesca una carta all'inizio del mantenimento del prossimo turno.
-La creatura incantata prende +1/+1 per ogni altra creatura che controlli.
+    <text>Incanta creatura 
+Quando il Vampirismo entra nel campo di battaglia, pesca una carta all'inizio del mantenimento del prossimo turno. 
+La creatura incantata prende +1/+1 per ogni altra creatura che controlli. 
 Le altre creature che controlli prendono -1/-1.</text>
     <flavorText>
     </flavorText>
@@ -1182,7 +1178,7 @@ Le altre creature che controlli prendono -1/-1.</text>
   <item>
     <id>VIS0156</id>
     <name>Sparizione</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {U}{U}: La creatura incantata scompare.</text>
     <flavorText>
     </flavorText>
@@ -1190,7 +1186,7 @@ Le altre creature che controlli prendono -1/-1.</text>
   <item>
     <id>VIS0157</id>
     <name>Cacciatore delle Sabbie Viashino</name>
-    <text>Rapidità
+    <text>Rapidità 
 All'inizio della sottofase finale, il proprietario riprende in mano il Cacciatore delle Sabbie Viashino. (Il proprietario lo riprende in mano soltanto se è sul campo di battaglia.)</text>
     <flavorText>
     </flavorText>
@@ -1198,8 +1194,8 @@ All'inizio della sottofase finale, il proprietario riprende in mano il Cacciator
   <item>
     <id>VIS0158</id>
     <name>Drago di Viashivan</name>
-    <text>Volare
-{R}: Il Drago di Viashivan prende +1/+0 fino alla fine del turno.
+    <text>Volare 
+{R}: Il Drago di Viashivan prende +1/+0 fino alla fine del turno. 
 {G}: Il Drago di Viashivan prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1214,7 +1210,7 @@ All'inizio della sottofase finale, il proprietario riprende in mano il Cacciator
   <item>
     <id>VIS0160</id>
     <name>Stormo di Avvoltoi</name>
-    <text>Volare
+    <text>Volare 
 {1}{B}, Sacrifica una creatura: Rigenera lo Stormo di Avvoltoi.</text>
     <flavorText>
     </flavorText>
@@ -1229,21 +1225,21 @@ All'inizio della sottofase finale, il proprietario riprende in mano il Cacciator
   <item>
     <id>VIS0162</id>
     <name>Onore del Guerriero</name>
-    <text>Le creature che controlli prendono +1/+1 fino alla fine del turno.</text>
+    <text>Le creature che controlli prendono +1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0163</id>
     <name>Facocero</name>
-    <text>Passa-paludi</text>
+    <text>Passa-paludi </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>VIS0164</id>
     <name>Genio delle Trombe Marine</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del tuo mantenimento, sacrifica il Genio delle Trombe Marine a meno che il proprietario riprenda in mano un'Isola STAPpata che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -1251,7 +1247,7 @@ All'inizio del tuo mantenimento, sacrifica il Genio delle Trombe Marine a meno c
   <item>
     <id>VIS0165</id>
     <name>Ricompensa Maligna</name>
-    <text>Come costo addizionale per lanciare la Ricompensa Maligna, sacrifica una creatura.
+    <text>Come costo addizionale per lanciare la Ricompensa Maligna, sacrifica una creatura. 
 Una creatura bersaglio prende +4/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1266,7 +1262,7 @@ Una creatura bersaglio prende +4/+2 fino alla fine del turno.</text>
   <item>
     <id>VIS0167</id>
     <name>Crociato di Zhalfir</name>
-    <text>Aggirare
+    <text>Aggirare 
 {1}{W}: Il prossimo punto danno che verrebbe inflitto al Crociato di Zhalfir in questo turno invece è inflitto a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>

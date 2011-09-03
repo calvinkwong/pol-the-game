@@ -292,6 +292,12 @@ namespace AutoUpdater
       toPath = Path.Combine(installPath, "PoL.exe");
       logFile.WriteLine("Copying file \"" + fromPath + "\" to \"" + toPath + "\"");
       File.Copy(fromPath, toPath, true);
+
+      // license.txt
+      fromPath = Path.Combine(thisPath, "license.txt");
+      toPath = Path.Combine(installPath, "license.txt");
+      logFile.WriteLine("Copying file \"" + fromPath + "\" to \"" + toPath + "\"");
+      File.Copy(fromPath, toPath, true);
     }
 
     static void CopyDirectoryTree(StreamWriter logFile, string fromDir, string toDir, string[] searchPatterns)

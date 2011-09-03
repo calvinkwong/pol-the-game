@@ -9,7 +9,7 @@
   <item>
     <id>ZEN0002</id>
     <name>Trappola con Raffica di Frecce</name>
-    <text>Se 4 o più creature stanno attaccando, puoi pagare {1}{W} invece di pagare il costo di mana della Trappola con Raffica di Frecce.
+    <text>Se 4 o più creature stanno attaccando, puoi pagare {1}{W} invece di pagare il costo di mana della Trappola con Raffica di Frecce. 
 La Trappola con Raffica di Frecce infligge 5 danni suddivisi a tua scelta tra un qualsiasi numero di creature attaccanti bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -17,7 +17,7 @@ La Trappola con Raffica di Frecce infligge 5 danni suddivisi a tua scelta tra un
   <item>
     <id>ZEN0003</id>
     <name>Difesa Audace</name>
-    <text>Potenziamento {3}{W} (Puoi pagare {3}{W} addizionale quando lanci questa magia.)
+    <text>Potenziamento {3}{W} (Puoi pagare {3}{W} addizionale quando lanci questa magia.) 
 Le creature che controlli prendono +1/+1 fino alla fine del turno. Se la Difesa Audace è stata potenziata, invece le creature che controlli prendono +2/+2 e hanno attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -39,8 +39,8 @@ Le creature che controlli prendono +1/+1 fino alla fine del turno. Se la Difesa 
   <item>
     <id>ZEN0006</id>
     <name>Manto Celestiale</name>
-    <text>Incanta creatura
-La creatura incantata prende +3/+3.
+    <text>Incanta creatura 
+La creatura incantata prende +3/+3. 
 Ogniqualvolta la creatura incantata infligge danno da combattimento a un giocatore, raddoppia i punti vita del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -55,7 +55,7 @@ Ogniqualvolta la creatura incantata infligge danno da combattimento a un giocato
   <item>
     <id>ZEN0008</id>
     <name>Promessa del Conquistatore</name>
-    <text>Potenziamento {6} (Puoi pagare {6} addizionale quando lanci questa magia.)
+    <text>Potenziamento {6} (Puoi pagare {6} addizionale quando lanci questa magia.) 
 Metti sul campo di battaglia sei pedine creatura Soldato Kor 1/1 bianche. Se la Promessa del Conquistatore è stata potenziata, metti invece sul campo di battaglia dodici di quelle pedine.</text>
     <flavorText>
     </flavorText>
@@ -70,7 +70,7 @@ Metti sul campo di battaglia sei pedine creatura Soldato Kor 1/1 bianche. Se la 
   <item>
     <id>ZEN0010</id>
     <name>Illuminata Devota</name>
-    <text>Protezione dal nero
+    <text>Protezione dal nero 
 Quando l'Illuminata Devota entra nel campo di battaglia, esilia un permanente nero bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -78,7 +78,7 @@ Quando l'Illuminata Devota entra nel campo di battaglia, esilia un permanente ne
   <item>
     <id>ZEN0011</id>
     <name>Angelo di Emeria</name>
-    <text>Volare
+    <text>Volare 
 Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere sul campo di battaglia una pedina creatura Uccello 1/1 bianca con volare.</text>
     <flavorText>
     </flavorText>
@@ -86,7 +86,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0012</id>
     <name>Sovrano dei Felidar</name>
-    <text>Cautela, legame vitale
+    <text>Cautela, legame vitale 
 All'inizio del tuo mantenimento, se hai 40 o più punti vita, vinci la partita.</text>
     <flavorText>
     </flavorText>
@@ -94,8 +94,8 @@ All'inizio del tuo mantenimento, se hai 40 o più punti vita, vinci la partita.<
   <item>
     <id>ZEN0013</id>
     <name>Iona, Scudo di Emeria</name>
-    <text>Volare
-Mentre Iona, Scudo di Emeria entra nel campo di battaglia, scegli un colore.
+    <text>Volare 
+Mentre Iona, Scudo di Emeria entra nel campo di battaglia, scegli un colore. 
 I tuoi avversari non possono lanciare magie del colore scelto.</text>
     <flavorText>
     </flavorText>
@@ -103,7 +103,7 @@ I tuoi avversari non possono lanciare magie del colore scelto.</text>
   <item>
     <id>ZEN0014</id>
     <name>Viaggio verso il Nulla</name>
-    <text>Quando il Viaggio verso il Nulla entra nel campo di battaglia, esilia una creatura bersaglio.
+    <text>Quando il Viaggio verso il Nulla entra nel campo di battaglia, esilia una creatura bersaglio. 
 Quando il Viaggio verso il Nulla lascia il campo di battaglia, rimetti sul campo di battaglia la carta esiliata sotto il controllo del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -118,7 +118,7 @@ Quando il Viaggio verso il Nulla lascia il campo di battaglia, rimetti sul campo
   <item>
     <id>ZEN0016</id>
     <name>Maestro di Spada di Kazandu</name>
-    <text>Attacco improvviso, cautela
+    <text>Attacco improvviso, cautela 
 Ogniqualvolta il Maestro di Spada di Kazandu o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino +1/+1 sul Maestro di Spada di Kazandu.</text>
     <flavorText>
     </flavorText>
@@ -126,9 +126,9 @@ Ogniqualvolta il Maestro di Spada di Kazandu o un altro Alleato entra nel campo 
   <item>
     <id>ZEN0017</id>
     <name>Aeronauta Kor</name>
-    <text>Potenziamento {1}{W} (Puoi pagare {1}{W} addizionale quando lanci questa magia.)
-Volare
-Quando l'Aeronauta Kor entra nel campo di battaglia, se è stato potenziato, una creatura bersaglio ha volare fino alla fine del turno.</text>
+    <text>Potenziamento {1}{W} (Puoi pagare {1}{W} addizionale quando lanci questa magia.) 
+Volare 
+Quando l'Aeronauta Kor entra nel campo di battaglia, se è stato potenziato, una creatura bersaglio guadagna volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -163,7 +163,7 @@ Quando l'Aeronauta Kor entra nel campo di battaglia, se è stato potenziato, una
   <item>
     <id>ZEN0022</id>
     <name>Santificatori Kor</name>
-    <text>Potenziamento {W} (Puoi pagare {W} addizionale quando lanci questa magia.)
+    <text>Potenziamento {W} (Puoi pagare {W} addizionale quando lanci questa magia.) 
 Quando i Santificatori Kor entrano nel campo di battaglia, se sono stati potenziati, distruggi un artefatto o un incantesimo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -171,7 +171,7 @@ Quando i Santificatori Kor entrano nel campo di battaglia, se sono stati potenzi
   <item>
     <id>ZEN0023</id>
     <name>Pescatrice Volante Kor</name>
-    <text>Volare
+    <text>Volare 
 Quando la Pescatrice Volante Kor entra nel campo di battaglia, fai tornare un permanente che controlli in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -186,7 +186,7 @@ Quando la Pescatrice Volante Kor entra nel campo di battaglia, fai tornare un pe
   <item>
     <id>ZEN0025</id>
     <name>Ascensione del Luminarca</name>
-    <text>All'inizio della sottofase finale di ogni avversario, se non hai perso punti vita in questo turno, puoi mettere un segnalino ricerca sull'Ascensione del Luminarca. (Il danno provoca la perdita di punti vita.)
+    <text>All'inizio della sottofase finale di ogni avversario, se non hai perso punti vita in questo turno, puoi mettere un segnalino ricerca sull'Ascensione del Luminarca. (Il danno provoca la perdita di punti vita.) 
 {1}{W}: Metti sul campo di battaglia una pedina creatura Angelo 4/4 bianca con volare. Attiva questa abilità solo se l'Ascensione del Luminarca ha quattro o più segnalini ricerca.</text>
     <flavorText>
     </flavorText>
@@ -194,7 +194,7 @@ Quando la Pescatrice Volante Kor entra nel campo di battaglia, fai tornare un pe
   <item>
     <id>ZEN0026</id>
     <name>Scutifero di Makindi</name>
-    <text>Difensore
+    <text>Difensore 
 Ogniqualvolta lo Scutifero di Makindi o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino +1/+1 sullo Scutifero di Makindi.</text>
     <flavorText>
     </flavorText>
@@ -209,7 +209,7 @@ Ogniqualvolta lo Scutifero di Makindi o un altro Alleato entra nel campo di batt
   <item>
     <id>ZEN0028</id>
     <name>Ali di Nembo</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +1/+2 e ha volare.</text>
     <flavorText>
     </flavorText>
@@ -217,7 +217,7 @@ La creatura incantata prende +1/+2 e ha volare.</text>
   <item>
     <id>ZEN0029</id>
     <name>Nobile Vestigio</name>
-    <text>Volare
+    <text>Volare 
 {T}: Previeni il prossimo punto danno che verrebbe inflitto a un giocatore bersaglio in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -240,7 +240,7 @@ La creatura incantata prende +1/+2 e ha volare.</text>
   <item>
     <id>ZEN0032</id>
     <name>Trappola a Fossa</name>
-    <text>Se esattamente una creatura sta attaccando, puoi pagare {W} invece di pagare il costo di mana della Trappola a Fossa.
+    <text>Se esattamente una creatura sta attaccando, puoi pagare {W} invece di pagare il costo di mana della Trappola a Fossa. 
 Distruggi una creatura attaccante senza volare bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -248,7 +248,7 @@ Distruggi una creatura attaccante senza volare bersaglio.</text>
   <item>
     <id>ZEN0033</id>
     <name>In Cerca della Sacra Reliquia</name>
-    <text>Ogniqualvolta lanci una magia creatura, puoi mettere un segnalino ricerca su In Cerca della Sacra Reliquia.
+    <text>Ogniqualvolta lanci una magia creatura, puoi mettere un segnalino ricerca su In Cerca della Sacra Reliquia. 
 Rimuovi cinque segnalini ricerca da In Cerca della Sacra Reliquia e sacrificala: Passa in rassegna il tuo grimorio per una carta Equipaggiamento, mettila sul campo di battaglia e assegnala a una creatura che controlli. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -277,7 +277,7 @@ Rimuovi cinque segnalini ricerca da In Cerca della Sacra Reliquia e sacrificala:
   <item>
     <id>ZEN0037</id>
     <name>Spedizione alla Sorgente Solare</name>
-    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca sulla Spedizione alla Sorgente Solare.
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca sulla Spedizione alla Sorgente Solare. 
 Rimuovi tre segnalini ricerca dalla Spedizione alla Sorgente Solare e sacrificala: Guadagni 8 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -298,17 +298,17 @@ Rimuovi tre segnalini ricerca dalla Spedizione alla Sorgente Solare e sacrifical
   </item>
   <item>
     <id>ZEN0040</id>
-    <name>Fantasma Etereo</name>
-    <text>Potenziamento {3} (Puoi pagare {3} addizionale quando lanci questa magia.)
-Il Fantasma Etereo non può essere bloccato.
-Se il Fantasma Etereo è stato potenziato, entra nel campo di battaglia con due segnalini +1/+1.</text>
+    <name>Æther Figment</name>
+    <text>Kicker {3} (You may pay an additional {3} as you cast this spell.)
+Æther Figment is unblockable.
+If Æther Figment was kicked, it enters the battlefield with two +1/+1 counters on it.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ZEN0041</id>
     <name>Trappola d'Archivio</name>
-    <text>Se un avversario ha passato in rassegna il suo grimorio in questo turno, puoi pagare {0} invece di pagare il costo di mana della Trappola d'Archivio.
+    <text>Se un avversario ha passato in rassegna il suo grimorio in questo turno, puoi pagare {0} invece di pagare il costo di mana della Trappola d'Archivio. 
 Un avversario bersaglio mette nel suo cimitero le prime tredici carte del suo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -316,7 +316,7 @@ Un avversario bersaglio mette nel suo cimitero le prime tredici carte del suo gr
   <item>
     <id>ZEN0042</id>
     <name>Ascensione dell'Arcimaga</name>
-    <text>All'inizio di ogni sottofase finale, se hai pescato due o più carte in questo turno, puoi mettere un segnalino ricerca sull'Ascensione dell'Arcimaga.
+    <text>All'inizio di ogni sottofase finale, se hai pescato due o più carte in questo turno, puoi mettere un segnalino ricerca sull'Ascensione dell'Arcimaga. 
 Fintanto che l'Ascensione dell'Arcimaga ha sei o più segnalini ricerca, se stai per pescare una carta, puoi invece passare in rassegna il tuo grimorio per una carta, aggiungerla alla tua mano, poi rimescolare il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -324,14 +324,14 @@ Fintanto che l'Ascensione dell'Arcimaga ha sei o più segnalini ricerca, se stai
   <item>
     <id>ZEN0043</id>
     <name>Evocatrice di Burrasche</name>
-    <text>{1}{U}, {T}: Una creatura bersaglio ha volare fino alla fine del turno.</text>
+    <text>{1}{U}, {T}: Una creatura bersaglio guadagna volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ZEN0044</id>
     <name>Eliminare</name>
-    <text>Neutralizza una magia bersaglio.</text>
+    <text>Neutralizza una magia bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -345,7 +345,7 @@ Fintanto che l'Ascensione dell'Arcimaga ha sei o più segnalini ricerca, se stai
   <item>
     <id>ZEN0046</id>
     <name>Gomazoa</name>
-    <text>Difensore, volare 
+    <text>Difensore, volare  
 {T}: Metti la Gomazoa e tutte le creature che sta bloccando in cima ai grimori dei loro proprietari, poi quei giocatori rimescolano i loro grimori.</text>
     <flavorText>
     </flavorText>
@@ -360,7 +360,7 @@ Fintanto che l'Ascensione dell'Arcimaga ha sei o più segnalini ricerca, se stai
   <item>
     <id>ZEN0048</id>
     <name>Nel Torbido</name>
-    <text>Potenziamento {1}{U} (Puoi pagare {1}{U} addizionale quando lanci questa magia.)
+    <text>Potenziamento {1}{U} (Puoi pagare {1}{U} addizionale quando lanci questa magia.) 
 Fai tornare un permanente non terra bersaglio in mano al suo proprietario. Se Nel Torbido è stato potenziato, pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -368,7 +368,7 @@ Fai tornare un permanente non terra bersaglio in mano al suo proprietario. Se Ne
   <item>
     <id>ZEN0049</id>
     <name>Spedizione alle Rovine Ior</name>
-    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca sulla Spedizione alle Rovine Ior.
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca sulla Spedizione alle Rovine Ior. 
 Rimuovi tre segnalini ricerca dalla Spedizione alle Rovine Ior e sacrificala: Pesca due carte.</text>
     <flavorText>
     </flavorText>
@@ -384,7 +384,7 @@ Rimuovi tre segnalini ricerca dalla Spedizione alle Rovine Ior e sacrificala: Pe
   <item>
     <id>ZEN0051</id>
     <name>Trappola Letargica</name>
-    <text>Se tre o più creature stanno attaccando, puoi pagare {U} invece di pagare il costo di mana della Trappola Letargica.
+    <text>Se tre o più creature stanno attaccando, puoi pagare {U} invece di pagare il costo di mana della Trappola Letargica. 
 Le creature attaccanti prendono -3/-0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -392,7 +392,7 @@ Le creature attaccanti prendono -3/-0 fino alla fine del turno.</text>
   <item>
     <id>ZEN0052</id>
     <name>Tsunami Vivente</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del tuo mantenimento, sacrifica lo Tsunami Vivente a meno che tu non faccia tornare una terra che controlli in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -407,7 +407,7 @@ All'inizio del tuo mantenimento, sacrifica lo Tsunami Vivente a meno che tu non 
   <item>
     <id>ZEN0054</id>
     <name>Mentore Mitigatore</name>
-    <text>Ogniqualvolta una magia o abilità che controlli neutralizza una magia, puoi mettere sul campo di battaglia una pedina creatura Tritone 1/1 blu.
+    <text>Ogniqualvolta una magia o abilità che controlli neutralizza una magia, puoi mettere sul campo di battaglia una pedina creatura Tritone 1/1 blu. 
 TAPpa sette Tritoni STAPpati che controlli: Neutralizza una magia bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -415,7 +415,7 @@ TAPpa sette Tritoni STAPpati che controlli: Neutralizza una magia bersaglio.</te
   <item>
     <id>ZEN0055</id>
     <name>Tritoni Furtivi</name>
-    <text>Passa-Isole
+    <text>Passa-Isole 
 {2}{U}: TAPpa una creatura bersaglio senza volare.</text>
     <flavorText>
     </flavorText>
@@ -423,7 +423,7 @@ TAPpa sette Tritoni STAPpati che controlli: Neutralizza una magia bersaglio.</te
   <item>
     <id>ZEN0056</id>
     <name>Tritona Apripista</name>
-    <text>Volare
+    <text>Volare 
 Quando la Tritona Apripista entra nel campo di battaglia, rivela le prime tre carte del tuo grimorio. Aggiungi alla tua mano tutte le carte Isola rivelate in questo modo e metti le altre in fondo al tuo grimorio in qualsiasi ordine.</text>
     <flavorText>
     </flavorText>
@@ -431,7 +431,7 @@ Quando la Tritona Apripista entra nel campo di battaglia, rivela le prime tre ca
   <item>
     <id>ZEN0057</id>
     <name>Trappola Rompicapo</name>
-    <text>Se un avversario ha lanciato tre o più magie in questo turno, puoi pagare {0} invece di pagare il costo di mana della Trappola Rompicapo.
+    <text>Se un avversario ha lanciato tre o più magie in questo turno, puoi pagare {0} invece di pagare il costo di mana della Trappola Rompicapo. 
 Esilia un qualsiasi numero di magie bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -439,7 +439,7 @@ Esilia un qualsiasi numero di magie bersaglio.</text>
   <item>
     <id>ZEN0058</id>
     <name>Stretta Paralizzante</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata non STAPpa durante lo STAP del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -447,7 +447,7 @@ La creatura incantata non STAPpa durante lo STAP del suo controllore.</text>
   <item>
     <id>ZEN0059</id>
     <name>In Cerca di Antichi Segreti</name>
-    <text>Ogniqualvolta una carta viene messa nel tuo cimitero da qualsiasi zona, puoi mettere un segnalino ricerca su In Cerca di Antichi Segreti.
+    <text>Ogniqualvolta una carta viene messa nel tuo cimitero da qualsiasi zona, puoi mettere un segnalino ricerca su In Cerca di Antichi Segreti. 
 Rimuovi cinque segnalini ricerca da In Cerca di Antichi Segreti e sacrificala: Un giocatore bersaglio rimescola il suo cimitero nel suo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -462,7 +462,7 @@ Rimuovi cinque segnalini ricerca da In Cerca di Antichi Segreti e sacrificala: U
   <item>
     <id>ZEN0061</id>
     <name>Rito di Riproduzione</name>
-    <text>Potenziamento {5} (Puoi pagare {5} addizionale quando lanci questa magia.)
+    <text>Potenziamento {5} (Puoi pagare {5} addizionale quando lanci questa magia.) 
 Metti sul campo di battaglia una pedina che è una copia di una creatura bersaglio. Se il Rito di Riproduzione è stato potenziato, metti invece cinque di quelle pedine sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -470,7 +470,7 @@ Metti sul campo di battaglia una pedina che è una copia di una creatura bersagl
   <item>
     <id>ZEN0062</id>
     <name>Elementale Torbido</name>
-    <text>Volare
+    <text>Volare 
 Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi prendere il controllo di una creatura bersaglio fintanto che controlli l'Elementale Torbido.</text>
     <flavorText>
     </flavorText>
@@ -492,7 +492,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0065</id>
     <name>Serpe delle Secche</name>
-    <text>Difensore
+    <text>Difensore 
 Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, la Serpe delle Secche perde difensore fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -514,7 +514,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0068</id>
     <name>Sfinge dell'Isola Jwar</name>
-    <text>Volare, velo
+    <text>Volare, velo 
 Puoi guardare la prima carta del tuo grimorio. (Puoi farlo in qualsiasi momento.)</text>
     <flavorText>
     </flavorText>
@@ -522,8 +522,8 @@ Puoi guardare la prima carta del tuo grimorio. (Puoi farlo in qualsiasi momento.
   <item>
     <id>ZEN0069</id>
     <name>Sfinge delle Verità Perdute</name>
-    <text>Potenziamento {1}{U} (Puoi pagare {1}{U} addizionale quando lanci questa magia.)
-Volare
+    <text>Potenziamento {1}{U} (Puoi pagare {1}{U} addizionale quando lanci questa magia.) 
+Volare 
 Quando la Sfinge delle Verità Perdute entra nel campo di battaglia, pesca tre carte. Poi, se non è stata potenziata, scarta tre carte.</text>
     <flavorText>
     </flavorText>
@@ -531,8 +531,8 @@ Quando la Sfinge delle Verità Perdute entra nel campo di battaglia, pesca tre c
   <item>
     <id>ZEN0070</id>
     <name>Mari Infiniti</name>
-    <text>Incanta terra
-Quando i Mari Infiniti entrano nel campo di battaglia, pesca una carta.
+    <text>Incanta terra 
+Quando i Mari Infiniti entrano nel campo di battaglia, pesca una carta. 
 La terra incantata è un'Isola.</text>
     <flavorText>
     </flavorText>
@@ -547,8 +547,8 @@ La terra incantata è un'Isola.</text>
   <item>
     <id>ZEN0072</id>
     <name>Gufo delle Tempeste</name>
-    <text>Potenziamento {4}{U} (Puoi pagare {4}{U} addizionale quando lanci questa magia.)
-Volare
+    <text>Potenziamento {4}{U} (Puoi pagare {4}{U} addizionale quando lanci questa magia.) 
+Volare 
 Quando il Gufo delle Tempeste entra nel campo di battaglia, se è stato potenziato, TAPpa fino a tre permanenti bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -570,7 +570,7 @@ Quando il Gufo delle Tempeste entra nel campo di battaglia, se è stato potenzia
   <item>
     <id>ZEN0075</id>
     <name>Rapace di Umara</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta il Rapace di Umara o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino +1/+1 sul Rapace di Umara.</text>
     <flavorText>
     </flavorText>
@@ -578,7 +578,7 @@ Ogniqualvolta il Rapace di Umara o un altro Alleato entra nel campo di battaglia
   <item>
     <id>ZEN0076</id>
     <name>Sterna del Cielo</name>
-    <text>Volare
+    <text>Volare 
 La Sterna del Cielo può bloccare solo creature con volare.</text>
     <flavorText>
     </flavorText>
@@ -586,7 +586,7 @@ La Sterna del Cielo può bloccare solo creature con volare.</text>
   <item>
     <id>ZEN0077</id>
     <name>Trappola Sferzante</name>
-    <text>Se un avversario ha fatto entrare due o più creature nel campo di battaglia sotto il suo controllo in questo turno, puoi pagare {U} invece di pagare il costo di mana della Trappola Sferzante.
+    <text>Se un avversario ha fatto entrare due o più creature nel campo di battaglia sotto il suo controllo in questo turno, puoi pagare {U} invece di pagare il costo di mana della Trappola Sferzante. 
 Fai tornare due creature bersaglio in mano ai loro proprietari.</text>
     <flavorText>
     </flavorText>
@@ -594,7 +594,7 @@ Fai tornare due creature bersaglio in mano ai loro proprietari.</text>
   <item>
     <id>ZEN0078</id>
     <name>Anguilla Cavalcavento</name>
-    <text>Volare
+    <text>Volare 
 Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, l'Anguilla Cavalcavento prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -616,7 +616,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0081</id>
     <name>Tributo di Sangue</name>
-    <text>Potenziamento-TAPpa un Vampiro STAPpato che controlli. (Puoi TAPpare un Vampiro che controlli oltre a qualsiasi altro costo quando lanci questa magia.)
+    <text>Potenziamento-TAPpa un Vampiro STAPpato che controlli. (Puoi TAPpare un Vampiro che controlli oltre a qualsiasi altro costo quando lanci questa magia.) 
 Un avversario bersaglio perde metà dei suoi punti vita, arrotondati per eccesso. Se il Tributo di Sangue è stato potenziato, guadagni tanti punti vita quanti sono i punti vita persi in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -624,7 +624,7 @@ Un avversario bersaglio perde metà dei suoi punti vita, arrotondati per eccesso
   <item>
     <id>ZEN0082</id>
     <name>Ascensione del Capo Sanguinario</name>
-    <text>All'inizio di ogni sottofase finale, se un avversario ha perso 2 o più punti vita in questo turno, puoi mettere un segnalino ricerca sull'Ascensione del Capo Sanguinario. (Il danno provoca la perdita di punti vita.)
+    <text>All'inizio di ogni sottofase finale, se un avversario ha perso 2 o più punti vita in questo turno, puoi mettere un segnalino ricerca sull'Ascensione del Capo Sanguinario. (Il danno provoca la perdita di punti vita.) 
 Ogniqualvolta una carta viene messa nel cimitero di un avversario da qualsiasi zona, se l'Ascensione del Capo Sanguinario ha tre o più segnalini ricerca, puoi far perdere 2 punti vita a quel giocatore. Se lo fai, guadagni 2 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -632,8 +632,8 @@ Ogniqualvolta una carta viene messa nel cimitero di un avversario da qualsiasi z
   <item>
     <id>ZEN0083</id>
     <name>Orrore Sanguinario</name>
-    <text>L'Orrore Sanguinario non può bloccare.
-L'Orrore Sanguinario ha rapidità fintanto che un avversario ha 10 o meno punti vita.
+    <text>L'Orrore Sanguinario non può bloccare. 
+L'Orrore Sanguinario ha rapidità fintanto che un avversario ha 10 o meno punti vita. 
 Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi rimettere sul campo di battaglia dal tuo cimitero l'Orrore Sanguinario.</text>
     <flavorText>
     </flavorText>
@@ -648,7 +648,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0085</id>
     <name>Squartatore della Cripta</name>
-    <text>Rapidità
+    <text>Rapidità 
 {B}: Lo Squartatore della Cripta prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -670,7 +670,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0088</id>
     <name>Banchetto di Sangue</name>
-    <text>Lancia il Banchetto di Sangue solo se controlli due o più Vampiri.
+    <text>Lancia il Banchetto di Sangue solo se controlli due o più Vampiri. 
 Distruggi una creatura bersaglio. Guadagni 4 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -678,7 +678,7 @@ Distruggi una creatura bersaglio. Guadagni 4 punti vita.</text>
   <item>
     <id>ZEN0089</id>
     <name>Custode di Malakir</name>
-    <text>Potenziamento {B} (Puoi pagare {B} addizionale quando lanci questa magia.)
+    <text>Potenziamento {B} (Puoi pagare {B} addizionale quando lanci questa magia.) 
 Quando il Custode di Malakir entra nel campo di battaglia, se è stato potenziato, un giocatore bersaglio sacrifica una creatura.</text>
     <flavorText>
     </flavorText>
@@ -700,8 +700,8 @@ Quando il Custode di Malakir entra nel campo di battaglia, se è stato potenziat
   <item>
     <id>ZEN0092</id>
     <name>Spettro di Guul Draz</name>
-    <text>Volare
-Lo Spettro di Guul Draz prende +3/+3 fintanto che un avversario non ha carte in mano.
+    <text>Volare 
+Lo Spettro di Guul Draz prende +3/+3 fintanto che un avversario non ha carte in mano. 
 Ogniqualvolta lo Spettro di Guul Draz infligge danno da combattimento a un giocatore, quel giocatore scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -716,7 +716,7 @@ Ogniqualvolta lo Spettro di Guul Draz infligge danno da combattimento a un gioca
   <item>
     <id>ZEN0094</id>
     <name>Coccodrillo di Hagra</name>
-    <text>Il Coccodrillo di Hagra non può bloccare.
+    <text>Il Coccodrillo di Hagra non può bloccare. 
 Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, il Coccodrillo di Hagra prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -731,7 +731,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0096</id>
     <name>Cacciatore di Aureole</name>
-    <text>Intimidire (Questa creatura non può essere bloccata tranne che da creature artefatto e/o creature che condividono con essa un colore.)
+    <text>Intimidire (Questa creatura non può essere bloccata tranne che da creature artefatto e/o creature che condividono con essa un colore.) 
 Quando il Cacciatore di Aureole entra nel campo di battaglia, distruggi un Angelo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -739,8 +739,8 @@ Quando il Cacciatore di Aureole entra nel campo di battaglia, distruggi un Angel
   <item>
     <id>ZEN0097</id>
     <name>Zanzara Infilzacuore</name>
-    <text>Potenziamento {2}{B} (Puoi pagare {2}{B} addizionale quando lanci questa magia.)
-Volare
+    <text>Potenziamento {2}{B} (Puoi pagare {2}{B} addizionale quando lanci questa magia.) 
+Volare 
 Quando la Zanzara Infilzacuore entra nel campo di battaglia, se è stata potenziata, distruggi una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -762,7 +762,7 @@ Quando la Zanzara Infilzacuore entra nel campo di battaglia, se è stata potenzi
   <item>
     <id>ZEN0100</id>
     <name>Strega Sanguinaria di Malakir</name>
-    <text>Volare, protezione dal bianco
+    <text>Volare, protezione dal bianco 
 Quando la Strega Sanguinaria di Malakir entra nel campo di battaglia, ogni avversario perde punti vita pari al numero di Vampiri che controlli. Guadagni tanti punti vita quanti sono i punti vita persi in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -770,7 +770,7 @@ Quando la Strega Sanguinaria di Malakir entra nel campo di battaglia, ogni avver
   <item>
     <id>ZEN0101</id>
     <name>Vittime Palustri</name>
-    <text>Potenziamento {3} (Puoi pagare {3} addizionale quando lanci questa magia.)
+    <text>Potenziamento {3} (Puoi pagare {3} addizionale quando lanci questa magia.) 
 Le creature controllate da un giocatore bersaglio prendono -1/-1 fino alla fine del turno. Se le Vittime Palustri sono state potenziate, quelle creature prendono invece -2/-2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -792,7 +792,7 @@ Le creature controllate da un giocatore bersaglio prendono -1/-1 fino alla fine 
   <item>
     <id>ZEN0104</id>
     <name>Deperimento Melmoso</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Quando alla creatura incantata viene inflitto danno, distruggila.</text>
     <flavorText>
     </flavorText>
@@ -800,7 +800,7 @@ Quando alla creatura incantata viene inflitto danno, distruggila.</text>
   <item>
     <id>ZEN0105</id>
     <name>Trappola del Morso Appuntito</name>
-    <text>Se un avversario ha guadagnato punti vita in questo turno, puoi pagare {B} invece di pagare il costo di mana della Trappola del Morso Appuntito.
+    <text>Se un avversario ha guadagnato punti vita in questo turno, puoi pagare {B} invece di pagare il costo di mana della Trappola del Morso Appuntito. 
 Un giocatore bersaglio perde 5 punti vita e tu guadagni 5 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -822,7 +822,7 @@ Un giocatore bersaglio perde 5 punti vita e tu guadagni 5 punti vita.</text>
   <item>
     <id>ZEN0108</id>
     <name>In Cerca del Signore dei Sepolcri</name>
-    <text>Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, puoi mettere un segnalino ricerca su In Cerca del Signore dei Sepolcri.
+    <text>Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, puoi mettere un segnalino ricerca su In Cerca del Signore dei Sepolcri. 
 Rimuovi tre segnalini ricerca da In Cerca del Signore dei Sepolcri e sacrificala: Metti sul campo di battaglia una pedina creatura Gigante Zombie 5/5 nera.</text>
     <flavorText>
     </flavorText>
@@ -830,7 +830,7 @@ Rimuovi tre segnalini ricerca da In Cerca del Signore dei Sepolcri e sacrificala
   <item>
     <id>ZEN0109</id>
     <name>Trappola Vorace</name>
-    <text>Se un avversario ha messo tre o più carte nel suo cimitero da qualsiasi zona in questo turno, puoi pagare {0} invece di pagare il costo di mana della Trappola Vorace.
+    <text>Se un avversario ha messo tre o più carte nel suo cimitero da qualsiasi zona in questo turno, puoi pagare {0} invece di pagare il costo di mana della Trappola Vorace. 
 Esilia dal cimitero di un giocatore bersaglio tutte le carte.</text>
     <flavorText>
     </flavorText>
@@ -838,7 +838,7 @@ Esilia dal cimitero di un giocatore bersaglio tutte le carte.</text>
   <item>
     <id>ZEN0110</id>
     <name>Sacramento Sadico</name>
-    <text>Potenziamento {7} (Puoi pagare {7} addizionale quando lanci questa magia.)
+    <text>Potenziamento {7} (Puoi pagare {7} addizionale quando lanci questa magia.) 
 Passa in rassegna il grimorio di un giocatore bersaglio per trovare fino a tre carte, esiliale, poi quel giocatore rimescola il suo grimorio. Se il Sacramento Sadico è stato potenziato, passa invece in rassegna il grimorio di quel giocatore per trovare fino a quindici carte, esiliale, poi quel giocatore rimescola il suo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -846,17 +846,17 @@ Passa in rassegna il grimorio di un giocatore bersaglio per trovare fino a tre c
   <item>
     <id>ZEN0111</id>
     <name>Sorin Markov</name>
-    <text>[+2]: Sorin Markov infligge 2 danni a una creatura o a un giocatore bersaglio e tu guadagni 2 punti vita.
-[-3]: I punti vita di un avversario bersaglio diventano 10.
-[-7]: Controlli il prossimo turno di un giocatore bersaglio.
-[Fedeltà 4]</text>
+    <text>+2: Sorin Markov infligge 2 danni a una creatura o a un giocatore bersaglio e tu guadagni 2 punti vita. 
+-3: I punti vita di un avversario bersaglio diventano 10. 
+-7: Controlli un giocatore bersaglio durante il prossimo turno di quel giocatore. 
+Fedeltà 4</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ZEN0112</id>
     <name>Spedizione alla Scala Spirituale</name>
-    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca sulla Spedizione alla Scala Spirituale.
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca sulla Spedizione alla Scala Spirituale. 
 Rimuovi tre segnalini ricerca dalla Spedizione alla Scala Spirituale e sacrificala: Riprendi in mano fino a due carte creatura bersaglio dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -871,7 +871,7 @@ Rimuovi tre segnalini ricerca dalla Spedizione alla Scala Spirituale e sacrifica
   <item>
     <id>ZEN0114</id>
     <name>Vampira Fattucchiera</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Sacrifica la Vampira Fattucchiera: Rimuovi tutti i segnalini da un permanente bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -886,8 +886,8 @@ Sacrifica la Vampira Fattucchiera: Rimuovi tutti i segnalini da un permanente be
   <item>
     <id>ZEN0116</id>
     <name>Vampiro Falco Notturno</name>
-    <text>Volare
-Tocco letale (Le creature a cui è stato inflitto danno da questa creatura vengono distrutte. Puoi dividere il danno da combattimento di questa creatura tra un numero qualsiasi di creature che bloccano o sono bloccate da essa.)
+    <text>Volare 
+Tocco letale (Le creature a cui è stato inflitto danno da questa creatura vengono distrutte. Puoi dividere il danno da combattimento di questa creatura tra un numero qualsiasi di creature che bloccano o sono bloccate da essa.) 
 Legame vitale (Il danno inflitto da questa creatura ti fa anche guadagnare altrettanti punti vita.)</text>
     <flavorText>
     </flavorText>
@@ -895,8 +895,8 @@ Legame vitale (Il danno inflitto da questa creatura ti fa anche guadagnare altre
   <item>
     <id>ZEN0117</id>
     <name>Morso del Vampiro</name>
-    <text>Potenziamento {2}{B} (Puoi pagare {2}{B} addizionale quando lanci questa magia.)
-Una creatura bersaglio prende +3/+0 fino alla fine del turno. Se il Morso del Vampiro è stato potenziato, quella creatura ha legame vitale fino alla fine del turno. (Il danno inflitto dalla creatura fa anche guadagnare al suo controllore altrettanti punti vita.)</text>
+    <text>Potenziamento {2}{B} (Puoi pagare {2}{B} addizionale quando lanci questa magia.) 
+Una creatura bersaglio prende +3/+0 fino alla fine del turno. Se il Morso del Vampiro è stato potenziato, quella creatura guadagna legame vitale fino alla fine del turno. (Il danno inflitto dalla creatura fa anche guadagnare al suo controllore altrettanti punti vita.)</text>
     <flavorText>
     </flavorText>
   </item>
@@ -910,7 +910,7 @@ Una creatura bersaglio prende +3/+0 fino alla fine del turno. Se il Morso del Va
   <item>
     <id>ZEN0119</id>
     <name>Fulmine Dirompente</name>
-    <text>Potenziamento {4} (Puoi pagare {4} addizionale quando lanci questa magia.)
+    <text>Potenziamento {4} (Puoi pagare {4} addizionale quando lanci questa magia.) 
 Il Fulmine Dirompente infligge 2 danni a una creatura o a un giocatore bersaglio. Se il Fulmine Dirompente è stato potenziato, infligge invece 4 danni a quella creatura o a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -918,17 +918,17 @@ Il Fulmine Dirompente infligge 2 danni a una creatura o a un giocatore bersaglio
   <item>
     <id>ZEN0120</id>
     <name>Chandra in Fiamme</name>
-    <text>[+1]: Scarta una carta. Se una carta rossa è stata scartata in questo modo, Chandra in Fiamme infligge 4 danni a una creatura o a un giocatore bersaglio.
-[-2]: Ogni giocatore scarta la propria mano, poi pesca tre carte.
-[-7]: Lancia un qualsiasi numero di carte istantaneo e/o stregoneria rosse dal tuo cimitero senza pagare i loro costi di mana.
-[Fedeltà 5]</text>
+    <text>+1: Scarta una carta. Se una carta rossa è stata scartata in questo modo, Chandra in Fiamme infligge 4 danni a una creatura o a un giocatore bersaglio. 
+-2: Ogni giocatore scarta la propria mano, poi pesca tre carte. 
+-7: Lancia un qualsiasi numero di carte istantaneo e/o stregoneria rosse dal tuo cimitero senza pagare i loro costi di mana. 
+Fedeltà 5</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ZEN0121</id>
     <name>Frantumare</name>
-    <text>Distruggi un artefatto o una terra bersaglio.</text>
+    <text>Distruggi un artefatto o una terra bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -942,7 +942,7 @@ Il Fulmine Dirompente infligge 2 danni a una creatura o a un giocatore bersaglio
   <item>
     <id>ZEN0123</id>
     <name>Richiamo dell'Elementale</name>
-    <text>Potenziamento {5} (Puoi pagare {5} addizionale quando lanci questa magia.)
+    <text>Potenziamento {5} (Puoi pagare {5} addizionale quando lanci questa magia.) 
 Metti sul campo di battaglia una pedina creatura Elementale 7/1 rossa con travolgere e rapidità. Esiliala all'inizio della prossima sottofase finale. Se il Richiamo dell'Elementale è stato potenziato, quella creatura prende +7/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -957,7 +957,7 @@ Metti sul campo di battaglia una pedina creatura Elementale 7/1 rossa con travol
   <item>
     <id>ZEN0125</id>
     <name>Goblin in Agguato</name>
-    <text>Potenziamento {R} (Puoi pagare {R} addizionale quando lanci questa magia.)
+    <text>Potenziamento {R} (Puoi pagare {R} addizionale quando lanci questa magia.) 
 Quando il Goblin in Agguato entra nel campo di battaglia, se è stato potenziato, le creature che controlli prendono +1/+0 e hanno rapidità fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -965,7 +965,7 @@ Quando il Goblin in Agguato entra nel campo di battaglia, se è stato potenziato
   <item>
     <id>ZEN0126</id>
     <name>Guida Goblin</name>
-    <text>Rapidità
+    <text>Rapidità 
 Ogniqualvolta la Guida Goblin attacca, il giocatore in difesa rivela la prima carta del suo grimorio. Se è una carta terra, quel giocatore la aggiunge alla sua mano.</text>
     <flavorText>
     </flavorText>
@@ -973,8 +973,8 @@ Ogniqualvolta la Guida Goblin attacca, il giocatore in difesa rivela la prima ca
   <item>
     <id>ZEN0127</id>
     <name>Goblin Scoppiarovine</name>
-    <text>Potenziamento {R} (Puoi pagare {R} addizionale quando lanci questa magia.)
-Rapidità
+    <text>Potenziamento {R} (Puoi pagare {R} addizionale quando lanci questa magia.) 
+Rapidità 
 Quando il Goblin Scoppiarovine entra nel campo di battaglia, se è stato potenziato, distruggi una terra non base bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -989,7 +989,7 @@ Quando il Goblin Scoppiarovine entra nel campo di battaglia, se è stato potenzi
   <item>
     <id>ZEN0129</id>
     <name>Pittura di Guerra dei Goblin</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +2/+2 e ha rapidità.</text>
     <flavorText>
     </flavorText>
@@ -1004,7 +1004,7 @@ La creatura incantata prende +2/+2 e ha rapidità.</text>
   <item>
     <id>ZEN0131</id>
     <name>Nibbio Infernale alla Carica</name>
-    <text>Volare, rapidità
+    <text>Volare, rapidità 
 Ogniqualvolta il Nibbio Infernale alla Carica attacca, puoi pagare {5}{R}{R}. Se lo fai, STAPpa tutte le creature attaccanti e, dopo questa fase, c'è una fase di combattimento addizionale.</text>
     <flavorText>
     </flavorText>
@@ -1019,7 +1019,7 @@ Ogniqualvolta il Nibbio Infernale alla Carica attacca, puoi pagare {5}{R}{R}. Se
   <item>
     <id>ZEN0133</id>
     <name>Trappola dell'Inferno</name>
-    <text>Se ti è stato inflitto danno da due o più creature in questo turno, puoi pagare {R} invece di pagare il costo di mana della Trappola dell'Inferno.
+    <text>Se ti è stato inflitto danno da due o più creature in questo turno, puoi pagare {R} invece di pagare il costo di mana della Trappola dell'Inferno. 
 La Trappola dell'Inferno infligge 4 danni a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1034,7 +1034,7 @@ La Trappola dell'Inferno infligge 4 danni a una creatura bersaglio.</text>
   <item>
     <id>ZEN0135</id>
     <name>Trappola Palla di Lava</name>
-    <text>Se un avversario ha fatto entrare due o più terre nel campo di battaglia sotto il suo controllo in questo turno, puoi pagare {3}{R}{R} invece di pagare il costo di mana della Trappola Palla di Lava.
+    <text>Se un avversario ha fatto entrare due o più terre nel campo di battaglia sotto il suo controllo in questo turno, puoi pagare {3}{R}{R} invece di pagare il costo di mana della Trappola Palla di Lava. 
 Distruggi due terre bersaglio. La Trappola Palla di Lava infligge 4 danni a ogni creatura.</text>
     <flavorText>
     </flavorText>
@@ -1042,7 +1042,7 @@ Distruggi due terre bersaglio. La Trappola Palla di Lava infligge 4 danni a ogni
   <item>
     <id>ZEN0136</id>
     <name>Fenditura di Magma</name>
-    <text>Come costo addizionale per lanciare la Fenditura di Magma, sacrifica una terra.
+    <text>Come costo addizionale per lanciare la Fenditura di Magma, sacrifica una terra. 
 La Fenditura di Magma infligge 5 danni a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1078,7 +1078,7 @@ La Fenditura di Magma infligge 5 danni a una creatura bersaglio.</text>
   <item>
     <id>ZEN0141</id>
     <name>Geopiede Corazzato</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, il Geopiede Corazzato prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1086,7 +1086,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0142</id>
     <name>Fuoco Punitivo</name>
-    <text>Il Fuoco Punitivo infligge 2 danni a una creatura o a un giocatore bersaglio.
+    <text>Il Fuoco Punitivo infligge 2 danni a una creatura o a un giocatore bersaglio. 
 Ogniqualvolta un avversario guadagna punti vita, puoi pagare {R}. Se lo fai, riprendi in mano il Fuoco Punitivo dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1094,8 +1094,8 @@ Ogniqualvolta un avversario guadagna punti vita, puoi pagare {R}. Se lo fai, rip
   <item>
     <id>ZEN0143</id>
     <name>Ascensione del Piromante</name>
-    <text>Ogniqualvolta lanci una magia istantaneo o stregoneria che ha lo stesso nome di una carta nel tuo cimitero, puoi mettere un segnalino ricerca sull'Ascensione del Piromante.
-Ogniqualvolta lanci una magia istantaneo o stregoneria mentre l'Ascensione del Piromante ha due o più segnalini ricerca, puoi copiare quella magia.
+    <text>Ogniqualvolta lanci una magia istantaneo o stregoneria che ha lo stesso nome di una carta nel tuo cimitero, puoi mettere un segnalino ricerca sull'Ascensione del Piromante. 
+Ogniqualvolta lanci una magia istantaneo o stregoneria mentre l'Ascensione del Piromante ha due o più segnalini ricerca, puoi copiare quella magia. 
 Puoi scegliere nuovi bersagli per la copia.</text>
     <flavorText>
     </flavorText>
@@ -1103,7 +1103,7 @@ Puoi scegliere nuovi bersagli per la copia.</text>
   <item>
     <id>ZEN0144</id>
     <name>In Cerca della Fiamma Pura</name>
-    <text>Ogniqualvolta una fonte che controlli infligge danno a un avversario, puoi mettere un segnalino ricerca su In Cerca della Fiamma Pura.
+    <text>Ogniqualvolta una fonte che controlli infligge danno a un avversario, puoi mettere un segnalino ricerca su In Cerca della Fiamma Pura. 
 Rimuovi quattro segnalini ricerca da In Cerca della Fiamma Pura e sacrificala: Se una fonte che controlli sta per infliggere danno a una creatura o a un giocatore in questo turno, infligge invece il doppio dei danni a quella creatura o a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -1118,7 +1118,7 @@ Rimuovi quattro segnalini ricerca da In Cerca della Fiamma Pura e sacrificala: S
   <item>
     <id>ZEN0146</id>
     <name>Trappola di Rune Incendiarie</name>
-    <text>Se un avversario ha pescato tre o più carte in questo turno, puoi pagare {R} invece di pagare il costo di mana della Trappola di Rune Incendiarie.
+    <text>Se un avversario ha pescato tre o più carte in questo turno, puoi pagare {R} invece di pagare il costo di mana della Trappola di Rune Incendiarie. 
 La Trappola di Rune Incendiarie infligge danno a un giocatore bersaglio pari al numero di carte in mano a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -1155,7 +1155,7 @@ La Trappola di Rune Incendiarie infligge danno a un giocatore bersaglio pari al 
   <item>
     <id>ZEN0151</id>
     <name>Fromboliere Torcia</name>
-    <text>Potenziamento {1}{R} (Puoi pagare {1}{R} addizionale quando lanci questa magia.)
+    <text>Potenziamento {1}{R} (Puoi pagare {1}{R} addizionale quando lanci questa magia.) 
 Quando il Fromboliere Torcia entra nel campo di battaglia, se è stato potenziato, infligge 2 danni a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1163,7 +1163,7 @@ Quando il Fromboliere Torcia entra nel campo di battaglia, se è stato potenziat
   <item>
     <id>ZEN0152</id>
     <name>Soldati di Tuktuk</name>
-    <text>Rapidità
+    <text>Rapidità 
 Ogniqualvolta i Soldati di Tuktuk o un altro Alleato entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino +1/+1 sui Soldati di Tuktuk.</text>
     <flavorText>
     </flavorText>
@@ -1171,7 +1171,7 @@ Ogniqualvolta i Soldati di Tuktuk o un altro Alleato entra nel campo di battagli
   <item>
     <id>ZEN0153</id>
     <name>Appoggio Instabile</name>
-    <text>Potenziamento {3}{R} (Puoi pagare {3}{R} addizionale quando lanci questa magia.)
+    <text>Potenziamento {3}{R} (Puoi pagare {3}{R} addizionale quando lanci questa magia.) 
 Il danno non può essere prevenuto in questo turno. Se l'Appoggio Instabile è stato potenziato, infligge 5 danni a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1179,7 +1179,7 @@ Il danno non può essere prevenuto in questo turno. Se l'Appoggio Instabile è s
   <item>
     <id>ZEN0154</id>
     <name>Istigatore dei Cunicoli</name>
-    <text>Doppio attacco
+    <text>Doppio attacco 
 Ogniqualvolta l'Istigatore dei Cunicoli infligge danno a un avversario, puoi mettere sul campo di battaglia una carta creatura Goblin dalla tua mano.</text>
     <flavorText>
     </flavorText>
@@ -1187,7 +1187,7 @@ Ogniqualvolta l'Istigatore dei Cunicoli infligge danno a un avversario, puoi met
   <item>
     <id>ZEN0155</id>
     <name>Spedizione al Santuario Zektar</name>
-    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca sulla Spedizione al Santuario Zektar.
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca sulla Spedizione al Santuario Zektar. 
 Rimuovi tre segnalini ricerca dalla Spedizione al Santuario Zektar e sacrificala: Metti sul campo di battaglia una pedina creatura Elementale 7/1 rossa con travolgere e rapidità. Esiliala all'inizio della prossima sottofase finale.</text>
     <flavorText>
     </flavorText>
@@ -1195,7 +1195,7 @@ Rimuovi tre segnalini ricerca dalla Spedizione al Santuario Zektar e sacrificala
   <item>
     <id>ZEN0156</id>
     <name>Trappola Gabbia del Baloth</name>
-    <text>Se un avversario ha fatto entrare un artefatto nel campo di battaglia sotto il suo controllo in questo turno, puoi pagare {1}{G} invece di pagare il costo di mana della Trappola Gabbia del Baloth.
+    <text>Se un avversario ha fatto entrare un artefatto nel campo di battaglia sotto il suo controllo in questo turno, puoi pagare {1}{G} invece di pagare il costo di mana della Trappola Gabbia del Baloth. 
 Metti sul campo di battaglia una pedina creatura Bestia 4/4 verde.</text>
     <flavorText>
     </flavorText>
@@ -1217,7 +1217,7 @@ Metti sul campo di battaglia una pedina creatura Bestia 4/4 verde.</text>
   <item>
     <id>ZEN0159</id>
     <name>Ascensione del Domatore</name>
-    <text>Ogniqualvolta una creatura che controlli attacca, puoi mettere un segnalino ricerca sull'Ascensione del Domatore.
+    <text>Ogniqualvolta una creatura che controlli attacca, puoi mettere un segnalino ricerca sull'Ascensione del Domatore. 
 Fintanto che l'Ascensione del Domatore ha sette o più segnalini ricerca, le creature che controlli prendono +5/+5.</text>
     <flavorText>
     </flavorText>
@@ -1225,7 +1225,7 @@ Fintanto che l'Ascensione del Domatore ha sette o più segnalini ricerca, le cre
   <item>
     <id>ZEN0160</id>
     <name>Trappola del Cobra</name>
-    <text>Se un permanente non creatura sotto il tuo controllo è stato distrutto in questo turno da una magia o abilità controllata da un avversario, puoi pagare {G} invece di pagare il costo di mana della Trappola del Cobra.
+    <text>Se un permanente non creatura sotto il tuo controllo è stato distrutto in questo turno da una magia o abilità controllata da un avversario, puoi pagare {G} invece di pagare il costo di mana della Trappola del Cobra. 
 Metti sul campo di battaglia quattro pedine creatura Serpente 1/1 verdi.</text>
     <flavorText>
     </flavorText>
@@ -1240,9 +1240,9 @@ Metti sul campo di battaglia quattro pedine creatura Serpente 1/1 verdi.</text>
   <item>
     <id>ZEN0162</id>
     <name>Gigantiforme</name>
-    <text>Potenziamento {4}
-Incanta creatura
-La creatura incantata è 8/8 e ha travolgere.
+    <text>Potenziamento {4} 
+Incanta creatura 
+La creatura incantata è 8/8 e ha travolgere. 
 Quando il Gigantiforme entra nel campo di battaglia, se è stato potenziato, puoi passare in rassegna il tuo grimorio per una carta chiamata Gigantiforme, metterla sul campo di battaglia, poi rimescolare il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1264,7 +1264,7 @@ Quando il Gigantiforme entra nel campo di battaglia, se è stato potenziato, puo
   <item>
     <id>ZEN0165</id>
     <name>Erpice</name>
-    <text>Come costo addizionale per lanciare l'Erpice, sacrifica una terra.
+    <text>Come costo addizionale per lanciare l'Erpice, sacrifica una terra. 
 Passa in rassegna il tuo grimorio per trovare fino a due carte terra base e mettile sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1279,7 +1279,7 @@ Passa in rassegna il tuo grimorio per trovare fino a due carte terra base e mett
   <item>
     <id>ZEN0167</id>
     <name>Spedizione al Cuore Khalni</name>
-    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca sulla Spedizione al Cuore Khalni.
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere un segnalino ricerca sulla Spedizione al Cuore Khalni. 
 Rimuovi tre segnalini ricerca dalla Spedizione al Cuore Khalni e sacrificala: Passa in rassegna il tuo grimorio per trovare fino a due carte terra base, mettile sul campo di battaglia TAPpate, poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1294,7 +1294,7 @@ Rimuovi tre segnalini ricerca dalla Spedizione al Cuore Khalni e sacrificala: Pa
   <item>
     <id>ZEN0169</id>
     <name>Errante di Muffa</name>
-    <text>Potenziamento {1}{G} (Puoi pagare {1}{G} addizionale quando lanci questa magia.)
+    <text>Potenziamento {1}{G} (Puoi pagare {1}{G} addizionale quando lanci questa magia.) 
 Quando l'Errante di Muffa entra nel campo di battaglia, se è stato potenziato, distruggi un permanente non creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1302,10 +1302,10 @@ Quando l'Errante di Muffa entra nel campo di battaglia, se è stato potenziato, 
   <item>
     <id>ZEN0170</id>
     <name>Nissa Revane</name>
-    <text>[+1]: Passa in rassegna il tuo grimorio per una carta chiamata Prescelto di Nissa e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.
-[+1]: Guadagni 2 punti vita per ogni Elfo che controlli.
-[-7]: Passa in rassegna il tuo grimorio per un qualsiasi numero di carte creatura Elfo e mettile sul campo di battaglia. Poi rimescola il tuo grimorio.
-[Fedeltà 2]</text>
+    <text>+1: Passa in rassegna il tuo grimorio per una carta chiamata Prescelto di Nissa e mettila sul campo di battaglia. Poi rimescola il tuo grimorio. 
++1: Guadagni 2 punti vita per ogni Elfo che controlli. 
+-7: Passa in rassegna il tuo grimorio per un qualsiasi numero di carte creatura Elfo e mettile sul campo di battaglia. Poi rimescola il tuo grimorio. 
+Fedeltà 2</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1319,8 +1319,8 @@ Quando l'Errante di Muffa entra nel campo di battaglia, se è stato potenziato, 
   <item>
     <id>ZEN0172</id>
     <name>Oracolo di Mul Daya</name>
-    <text>Puoi giocare una terra addizionale in ognuno dei tuoi turni.
-Gioca con la prima carta del tuo grimorio rivelata.
+    <text>Puoi giocare una terra addizionale in ognuno dei tuoi turni. 
+Gioca con la prima carta del tuo grimorio rivelata. 
 Puoi giocare la prima carta del tuo grimorio se è una carta terra.</text>
     <flavorText>
     </flavorText>
@@ -1328,8 +1328,8 @@ Puoi giocare la prima carta del tuo grimorio se è una carta terra.</text>
   <item>
     <id>ZEN0173</id>
     <name>Eremita di Oran-Rief</name>
-    <text>Potenziamento {2}{G} (Puoi pagare {2}{G} addizionale quando lanci questa magia.)
-Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Potenziamento {2}{G} (Puoi pagare {2}{G} addizionale quando lanci questa magia.) 
+Raggiungere (Questa creatura può bloccare le creature con volare.) 
 Quando l'Eremita di Oran-Rief entra nel campo di battaglia, se è stato potenziato, distruggi una creatura bersaglio con volare.</text>
     <flavorText>
     </flavorText>
@@ -1344,7 +1344,7 @@ Quando l'Eremita di Oran-Rief entra nel campo di battaglia, se è stato potenzia
   <item>
     <id>ZEN0175</id>
     <name>Impulso Predatorio</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha "{T}: Questa creatura infligge danno pari alla sua forza a una creatura bersaglio. Quella creatura infligge danno pari alla sua forza a questa creatura".</text>
     <flavorText>
     </flavorText>
@@ -1359,7 +1359,7 @@ La creatura incantata ha "{T}: Questa creatura infligge danno pari alla sua forz
   <item>
     <id>ZEN0177</id>
     <name>In Cerca di Gemmelama</name>
-    <text>Ogniqualvolta una creatura che controlli infligge danno da combattimento a una creatura, puoi mettere un segnalino ricerca su In Cerca di Gemmelama.
+    <text>Ogniqualvolta una creatura che controlli infligge danno da combattimento a una creatura, puoi mettere un segnalino ricerca su In Cerca di Gemmelama. 
 Rimuovi un segnalino ricerca da In Cerca di Gemmelama e sacrificala: Metti quattro segnalini +1/+1 su una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1367,7 +1367,7 @@ Rimuovi un segnalino ricerca da In Cerca di Gemmelama e sacrificala: Metti quatt
   <item>
     <id>ZEN0178</id>
     <name>Baloth Infuriati</name>
-    <text>Travolgere
+    <text>Travolgere 
 Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi mettere sul campo di battaglia una pedina creatura Bestia 4/4 verde.</text>
     <flavorText>
     </flavorText>
@@ -1382,7 +1382,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0180</id>
     <name>Boa di Fiume</name>
-    <text>Passa-Isole
+    <text>Passa-Isole 
 {G}: Rigenera il Boa di Fiume.</text>
     <flavorText>
     </flavorText>
@@ -1390,7 +1390,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0181</id>
     <name>Silhouette Selvaggia</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +2/+2 e ha "{1}{G}: Rigenera questa creatura".</text>
     <flavorText>
     </flavorText>
@@ -1405,7 +1405,7 @@ La creatura incantata prende +2/+2 e ha "{1}{G}: Rigenera questa creatura".</tex
   <item>
     <id>ZEN0183</id>
     <name>Tigre a Falce</name>
-    <text>Velo (Questa creatura non può essere bersaglio di magie o abilità.)
+    <text>Velo (Questa creatura non può essere bersaglio di magie o abilità.) 
 Quando la Tigre a Falce entra nel campo di battaglia, sacrificala a meno che tu non sacrifichi una terra.</text>
     <flavorText>
     </flavorText>
@@ -1413,7 +1413,7 @@ Quando la Tigre a Falce entra nel campo di battaglia, sacrificala a meno che tu 
   <item>
     <id>ZEN0184</id>
     <name>Trappola Evocatrice</name>
-    <text>Se una magia creatura che hai lanciato in questo turno è stata neutralizzata da una magia o abilità controllata da un avversario, puoi pagare {0} invece di pagare il costo di mana della Trappola Evocatrice.
+    <text>Se una magia creatura che hai lanciato in questo turno è stata neutralizzata da una magia o abilità controllata da un avversario, puoi pagare {0} invece di pagare il costo di mana della Trappola Evocatrice. 
 Guarda le prime sette carte del tuo grimorio. Puoi mettere sul campo di battaglia una carta creatura scelta tra queste sette. Metti le altre in fondo al tuo grimorio in qualsiasi ordine.</text>
     <flavorText>
     </flavorText>
@@ -1435,7 +1435,7 @@ Guarda le prime sette carte del tuo grimorio. Puoi mettere sul campo di battagli
   <item>
     <id>ZEN0187</id>
     <name>Calcaterra</name>
-    <text>Il Calcaterra non può essere neutralizzato.
+    <text>Il Calcaterra non può essere neutralizzato. 
 Travolgere</text>
     <flavorText>
     </flavorText>
@@ -1457,7 +1457,7 @@ Travolgere</text>
   <item>
     <id>ZEN0190</id>
     <name>Basilisco di Legnotorto</name>
-    <text>Tocco letale (Le creature a cui è stato inflitto danno da questa creatura vengono distrutte. Puoi dividere il danno da combattimento di questa creatura tra un numero qualsiasi di creature che bloccano o sono bloccate da essa.)
+    <text>Tocco letale (Le creature a cui è stato inflitto danno da questa creatura vengono distrutte. Puoi dividere il danno da combattimento di questa creatura tra un numero qualsiasi di creature che bloccano o sono bloccate da essa.) 
 Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi far bloccare il Basilisco di Legnotorto da una creatura bersaglio in questo turno, se può farlo.</text>
     <flavorText>
     </flavorText>
@@ -1480,7 +1480,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0193</id>
     <name>Viticci di Boscovasto</name>
-    <text>Potenziamento {G} (Puoi pagare {G} addizionale quando lanci questa magia.)
+    <text>Potenziamento {G} (Puoi pagare {G} addizionale quando lanci questa magia.) 
 Una creatura bersaglio non può essere bersaglio di magie o abilità controllate dai tuoi avversari in questo turno. Se i Viticci di Boscovasto sono stati potenziati, quella creatura prende +4/+4 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1495,7 +1495,7 @@ Una creatura bersaglio non può essere bersaglio di magie o abilità controllate
   <item>
     <id>ZEN0195</id>
     <name>Dotazione dell'Avventuriero</name>
-    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, la creatura equipaggiata prende +2/+2 fino alla fine del turno.
+    <text>Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, la creatura equipaggiata prende +2/+2 fino alla fine del turno. 
 Equipaggiare {1} ({1}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
     <flavorText>
     </flavorText>
@@ -1503,7 +1503,7 @@ Equipaggiare {1} ({1}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>ZEN0196</id>
     <name>Lama del Capo Sanguinario</name>
-    <text>Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, metti un segnalino +1/+1 sulla creatura equipaggiata. Se la creatura equipaggiata è un Vampiro, metti invece due segnalini +1/+1.
+    <text>Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, metti un segnalino +1/+1 sulla creatura equipaggiata. Se la creatura equipaggiata è un Vampiro, metti invece due segnalini +1/+1. 
 Equipaggiare {1}</text>
     <flavorText>
     </flavorText>
@@ -1511,8 +1511,8 @@ Equipaggiare {1}</text>
   <item>
     <id>ZEN0197</id>
     <name>Torcia Ardente</name>
-    <text>La creatura equipaggiata non può essere bloccata da Vampiri o Zombie.
-La creatura equipaggiata ha "{T}, Sacrifica la Torcia Ardente: La Torcia Ardente infligge 2 danni a una creatura o a un giocatore bersaglio".
+    <text>La creatura equipaggiata non può essere bloccata da Vampiri o Zombie. 
+La creatura equipaggiata ha "{T}, Sacrifica la Torcia Ardente: La Torcia Ardente infligge 2 danni a una creatura o a un giocatore bersaglio". 
 Equipaggiare {1}</text>
     <flavorText>
     </flavorText>
@@ -1527,7 +1527,7 @@ Equipaggiare {1}</text>
   <item>
     <id>ZEN0199</id>
     <name>Monumento di Eldrazi</name>
-    <text>Le creature che controlli prendono +1/+1, hanno volare e sono indistruttibili.
+    <text>Le creature che controlli prendono +1/+1, hanno volare e sono indistruttibili. 
 All'inizio del tuo mantenimento, sacrifica una creatura. Se non puoi, sacrifica il Monumento di Eldrazi.</text>
     <flavorText>
     </flavorText>
@@ -1535,7 +1535,7 @@ All'inizio del tuo mantenimento, sacrifica una creatura. Se non puoi, sacrifica 
   <item>
     <id>ZEN0200</id>
     <name>Vascello dell'Eternità</name>
-    <text>Il Vascello dell'Eternità entra nel campo di battaglia con X segnalini carica, dove X è pari ai tuoi punti vita.
+    <text>Il Vascello dell'Eternità entra nel campo di battaglia con X segnalini carica, dove X è pari ai tuoi punti vita. 
 Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, puoi far diventare i tuoi punti vita pari al numero di segnalini carica sul Vascello dell'Eternità.</text>
     <flavorText>
     </flavorText>
@@ -1550,7 +1550,7 @@ Terraferma - Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo c
   <item>
     <id>ZEN0202</id>
     <name>Cannocchiale dell'Esploratore</name>
-    <text>Ogniqualvolta la creatura equipaggiata attacca, guarda la prima carta del tuo grimorio. Se è una carta terra, puoi metterla sul campo di battaglia TAPpata.
+    <text>Ogniqualvolta la creatura equipaggiata attacca, guarda la prima carta del tuo grimorio. Se è una carta terra, puoi metterla sul campo di battaglia TAPpata. 
 Equipaggiare {1} ({1}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
     <flavorText>
     </flavorText>
@@ -1558,8 +1558,8 @@ Equipaggiare {1} ({1}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>ZEN0203</id>
     <name>Rampino</name>
-    <text>La creatura equipaggiata ha doppio attacco.
-Ogniqualvolta la creatura equipaggiata attacca, puoi farla bloccare da una creatura bersaglio in questo turno, se può farlo.
+    <text>La creatura equipaggiata ha doppio attacco. 
+Ogniqualvolta la creatura equipaggiata attacca, puoi farla bloccare da una creatura bersaglio in questo turno, se può farlo. 
 Equipaggiare {4}</text>
     <flavorText>
     </flavorText>
@@ -1574,7 +1574,7 @@ Equipaggiare {4}</text>
   <item>
     <id>ZEN0205</id>
     <name>Gemma di Khalni</name>
-    <text>Quando la Gemma di Khalni entra nel campo di battaglia, fai tornare due terre che controlli in mano ai loro proprietari.
+    <text>Quando la Gemma di Khalni entra nel campo di battaglia, fai tornare due terre che controlli in mano ai loro proprietari. 
 {T}: Aggiungi due mana di un qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1582,7 +1582,7 @@ Equipaggiare {4}</text>
   <item>
     <id>ZEN0206</id>
     <name>Rete di Tela di Ragno</name>
-    <text>La creatura equipaggiata prende +0/+2 e ha raggiungere. (Può bloccare le creature con volare.)
+    <text>La creatura equipaggiata prende +0/+2 e ha raggiungere. (Può bloccare le creature con volare.) 
 Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
     <flavorText>
     </flavorText>
@@ -1598,7 +1598,7 @@ Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>ZEN0208</id>
     <name>Stivali del Pioniere</name>
-    <text>La creatura equipaggiata ha passa-terre non base. (Non può essere bloccata fintanto che il giocatore in difesa controlla una terra non base.)
+    <text>La creatura equipaggiata ha passa-terre non base. (Non può essere bloccata fintanto che il giocatore in difesa controlla una terra non base.) 
 Equipaggiare {2}</text>
     <flavorText>
     </flavorText>
@@ -1606,7 +1606,7 @@ Equipaggiare {2}</text>
   <item>
     <id>ZEN0209</id>
     <name>Machete Affidabile</name>
-    <text>La creatura equipaggiata prende +2/+1.
+    <text>La creatura equipaggiata prende +2/+1. 
 Equipaggiare {2}</text>
     <flavorText>
     </flavorText>
@@ -1614,8 +1614,8 @@ Equipaggiare {2}</text>
   <item>
     <id>ZEN0210</id>
     <name>Rifugio di Akoum</name>
-    <text>Il Rifugio di Akoum entra nel campo di battaglia TAPpato.
-Quando il Rifugio di Akoum entra nel campo di battaglia, guadagni 1 punto vita.
+    <text>Il Rifugio di Akoum entra nel campo di battaglia TAPpato. 
+Quando il Rifugio di Akoum entra nel campo di battaglia, guadagni 1 punto vita. 
 {T}: Aggiungi {B} o {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1630,8 +1630,8 @@ Quando il Rifugio di Akoum entra nel campo di battaglia, guadagni 1 punto vita.
   <item>
     <id>ZEN0212</id>
     <name>Cripta di Agadeem</name>
-    <text>La Cripta di Agadeem entra nel campo di battaglia TAPpata.
-{T}: Aggiungi {B} alla tua riserva di mana.
+    <text>La Cripta di Agadeem entra nel campo di battaglia TAPpata. 
+{T}: Aggiungi {B} alla tua riserva di mana. 
 {2}, {T}: Aggiungi {B} alla tua riserva di mana per ogni carta creatura nera nel tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1639,8 +1639,8 @@ Quando il Rifugio di Akoum entra nel campo di battaglia, guadagni 1 punto vita.
   <item>
     <id>ZEN0213</id>
     <name>Emeria, la Rovina del Cielo</name>
-    <text>Emeria, la Rovina del Cielo entra nel campo di battaglia TAPpata.
-All'inizio del tuo mantenimento, se controlli sette o più Pianure, puoi rimettere sul campo di battaglia una carta creatura bersaglio dal tuo cimitero.
+    <text>Emeria, la Rovina del Cielo entra nel campo di battaglia TAPpata. 
+All'inizio del tuo mantenimento, se controlli sette o più Pianure, puoi rimettere sul campo di battaglia una carta creatura bersaglio dal tuo cimitero. 
 {T}: Aggiungi {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1648,8 +1648,8 @@ All'inizio del tuo mantenimento, se controlli sette o più Pianure, puoi rimette
   <item>
     <id>ZEN0214</id>
     <name>Rifugio di Pellegrigia</name>
-    <text>Il Rifugio di Pellegrigia entra nel campo di battaglia TAPpato.
-Quando il Rifugio di Pellegrigia entra nel campo di battaglia, guadagni 1 punto vita.
+    <text>Il Rifugio di Pellegrigia entra nel campo di battaglia TAPpato. 
+Quando il Rifugio di Pellegrigia entra nel campo di battaglia, guadagni 1 punto vita. 
 {T}: Aggiungi {G} o {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1657,8 +1657,8 @@ Quando il Rifugio di Pellegrigia entra nel campo di battaglia, guadagni 1 punto 
   <item>
     <id>ZEN0215</id>
     <name>Rifugio dell'Isola Jwar</name>
-    <text>Il Rifugio dell'Isola Jwar entra nel campo di battaglia TAPpato.
-Quando il Rifugio dell'Isola Jwar entra nel campo di battaglia, guadagni 1 punto vita.
+    <text>Il Rifugio dell'Isola Jwar entra nel campo di battaglia TAPpato. 
+Quando il Rifugio dell'Isola Jwar entra nel campo di battaglia, guadagni 1 punto vita. 
 {T}: Aggiungi {U} o {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1666,8 +1666,8 @@ Quando il Rifugio dell'Isola Jwar entra nel campo di battaglia, guadagni 1 punto
   <item>
     <id>ZEN0216</id>
     <name>Crocevia di Kabira</name>
-    <text>Il Crocevia di Kabira entra nel campo di battaglia TAPpato.
-Quando il Crocevia di Kabira entra nel campo di battaglia, guadagni 2 punti vita.
+    <text>Il Crocevia di Kabira entra nel campo di battaglia TAPpato. 
+Quando il Crocevia di Kabira entra nel campo di battaglia, guadagni 2 punti vita. 
 {T}: Aggiungi {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1675,8 +1675,8 @@ Quando il Crocevia di Kabira entra nel campo di battaglia, guadagni 2 punti vita
   <item>
     <id>ZEN0217</id>
     <name>Rifugio di Kazandu</name>
-    <text>Il Rifugio di Kazandu entra nel campo di battaglia TAPpato.
-Quando il Rifugio di Kazandu entra nel campo di battaglia, guadagni 1 punto vita.
+    <text>Il Rifugio di Kazandu entra nel campo di battaglia TAPpato. 
+Quando il Rifugio di Kazandu entra nel campo di battaglia, guadagni 1 punto vita. 
 {T}: Aggiungi {R} o {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1684,9 +1684,9 @@ Quando il Rifugio di Kazandu entra nel campo di battaglia, guadagni 1 punto vita
   <item>
     <id>ZEN0218</id>
     <name>Magosi, il Velo d'Acqua</name>
-    <text>Magosi, il Velo d'Acqua entra nel campo di battaglia TAPpato.
-{T}: Aggiungi {U} alla tua riserva di mana.
-{U}, {T}: Metti un segnalino eternità su Magosi, il Velo d'Acqua. Salta il tuo prossimo turno.
+    <text>Magosi, il Velo d'Acqua entra nel campo di battaglia TAPpato. 
+{T}: Aggiungi {U} alla tua riserva di mana. 
+{U}, {T}: Metti un segnalino eternità su Magosi, il Velo d'Acqua. Salta il tuo prossimo turno. 
 {T}, Rimuovi un segnalino eternità da Magosi, il Velo d'Acqua e fallo tornare in mano al suo proprietario: Giochi un altro turno dopo questo.</text>
     <flavorText>
     </flavorText>
@@ -1708,8 +1708,8 @@ Quando il Rifugio di Kazandu entra nel campo di battaglia, guadagni 1 punto vita
   <item>
     <id>ZEN0221</id>
     <name>Oran-Rief, il Boscovasto</name>
-    <text>Oran-Rief, il Boscovasto entra nel campo di battaglia TAPpato.
-{T}: Aggiungi {G} alla tua riserva di mana.
+    <text>Oran-Rief, il Boscovasto entra nel campo di battaglia TAPpato. 
+{T}: Aggiungi {G} alla tua riserva di mana. 
 {T}: Metti un segnalino +1/+1 su ogni creatura verde che è entrata nel campo di battaglia in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -1717,8 +1717,8 @@ Quando il Rifugio di Kazandu entra nel campo di battaglia, guadagni 1 punto vita
   <item>
     <id>ZEN0222</id>
     <name>Palude dei Piranha</name>
-    <text>La Palude dei Piranha entra nel campo di battaglia TAPpata.
-Quando la Palude dei Piranha entra nel campo di battaglia, un giocatore bersaglio perde 1 punto vita.
+    <text>La Palude dei Piranha entra nel campo di battaglia TAPpata. 
+Quando la Palude dei Piranha entra nel campo di battaglia, un giocatore bersaglio perde 1 punto vita. 
 {T}: Aggiungi {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1733,8 +1733,8 @@ Quando la Palude dei Piranha entra nel campo di battaglia, un giocatore bersagli
   <item>
     <id>ZEN0224</id>
     <name>Rifugio di Sejiri</name>
-    <text>Il Rifugio di Sejiri entra nel campo di battaglia TAPpato.
-Quando il Rifugio di Sejiri entra nel campo di battaglia, guadagni 1 punto vita.
+    <text>Il Rifugio di Sejiri entra nel campo di battaglia TAPpato. 
+Quando il Rifugio di Sejiri entra nel campo di battaglia, guadagni 1 punto vita. 
 {T}: Aggiungi {W} o {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1742,8 +1742,8 @@ Quando il Rifugio di Sejiri entra nel campo di battaglia, guadagni 1 punto vita.
   <item>
     <id>ZEN0225</id>
     <name>Scogliera a Strapiombo</name>
-    <text>La Scogliera a Strapiombo entra nel campo di battaglia TAPpata.
-Quando la Scogliera a Strapiombo entra nel campo di battaglia, una creatura bersaglio ha volare fino alla fine del turno.
+    <text>La Scogliera a Strapiombo entra nel campo di battaglia TAPpata. 
+Quando la Scogliera a Strapiombo entra nel campo di battaglia, una creatura bersaglio ha volare fino alla fine del turno. 
 {T}: Aggiungi {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1751,8 +1751,8 @@ Quando la Scogliera a Strapiombo entra nel campo di battaglia, una creatura bers
   <item>
     <id>ZEN0226</id>
     <name>Picchi Vacillanti</name>
-    <text>I Picchi Vacillanti entrano nel campo di battaglia TAPpati.
-Quando i Picchi Vacillanti entrano nel campo di battaglia, una creatura bersaglio prende +2/+0 fino alla fine del turno.
+    <text>I Picchi Vacillanti entrano nel campo di battaglia TAPpati. 
+Quando i Picchi Vacillanti entrano nel campo di battaglia, una creatura bersaglio prende +2/+0 fino alla fine del turno. 
 {T}: Aggiungi {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1760,8 +1760,8 @@ Quando i Picchi Vacillanti entrano nel campo di battaglia, una creatura bersagli
   <item>
     <id>ZEN0227</id>
     <name>Boschetto di Legnotorto</name>
-    <text>Il Boschetto di Legnotorto entra nel campo di battaglia TAPpato.
-Quando il Boschetto di Legnotorto entra nel campo di battaglia, una creatura bersaglio prende +1/+1 fino alla fine del turno.
+    <text>Il Boschetto di Legnotorto entra nel campo di battaglia TAPpato. 
+Quando il Boschetto di Legnotorto entra nel campo di battaglia, una creatura bersaglio prende +1/+1 fino alla fine del turno. 
 {T}: Aggiungi {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1769,8 +1769,8 @@ Quando il Boschetto di Legnotorto entra nel campo di battaglia, una creatura ber
   <item>
     <id>ZEN0228</id>
     <name>Valakut, il Pinnacolo Fuso</name>
-    <text>Valakut, il Pinnacolo Fuso entra nel campo di battaglia TAPpato.
-Ogniqualvolta una Montagna entra nel campo di battaglia sotto il tuo controllo, se controlli almeno cinque altre Montagne, puoi far infliggere da Valakut, il Pinnacolo Fuso 3 danni a una creatura o a un giocatore bersaglio.
+    <text>Valakut, il Pinnacolo Fuso entra nel campo di battaglia TAPpato. 
+Ogniqualvolta una Montagna entra nel campo di battaglia sotto il tuo controllo, se controlli almeno cinque altre Montagne, puoi far infliggere da Valakut, il Pinnacolo Fuso 3 danni a una creatura o a un giocatore bersaglio. 
 {T}: Aggiungi {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>

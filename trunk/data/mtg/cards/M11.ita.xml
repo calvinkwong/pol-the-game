@@ -2,10 +2,10 @@
   <item>
     <id>M110001</id>
     <name>Ajani Criniera D'Oro</name>
-    <text>[+1]: Guadagni 2 punti vita.
-[-1]: Metti un segnalino +1/+1 su ogni creatura che controlli. Quelle creature hanno cautela fino alla fine del turno.
-[-6]: Metti sul campo di battaglia una pedina creatura Avatar bianca. Ha "La forza e la costituzione di questa creatura sono pari ai tuoi punti vita".
-[Fedeltà 4]</text>
+    <text>+1: Guadagni 2 punti vita. 
+-1: Metti un segnalino +1/+1 su ogni creatura che controlli. Quelle creature guadagnano cautela fino alla fine del turno. 
+-6: Metti sul campo di battaglia una pedina creatura Avatar bianca. Essa ha "La forza e la costituzione di questa creatura sono pari ai tuoi punti vita". 
+Fedeltà 4 </text>
     <flavorText>
     </flavorText>
   </item>
@@ -26,8 +26,8 @@
   <item>
     <id>M110004</id>
     <name>Giudice Angelico</name>
-    <text>Volare
-Ogni avversario che ha lanciato una magia in questo turno non può attaccare con creature.
+    <text>Volare 
+Ogni avversario che ha lanciato una magia in questo turno non può attaccare con creature. 
 Ogni avversario che ha attaccato con una creatura in questo turno non può lanciare magie.</text>
     <flavorText>
     </flavorText>
@@ -35,7 +35,7 @@ Ogni avversario che ha attaccato con una creatura in questo turno non può lanci
   <item>
     <id>M110005</id>
     <name>Ascensione Corazzata</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +1/+1 per ogni Pianura che controlli e ha volare.</text>
     <flavorText>
     </flavorText>
@@ -50,7 +50,7 @@ La creatura incantata prende +1/+1 per ogni Pianura che controlli e ha volare.</
   <item>
     <id>M110007</id>
     <name>Angelo Flagellatore</name>
-    <text>Volare, attacco improvviso, legame vitale, protezione da Demoni e da Draghi</text>
+    <text>Volare, attacco improvviso, legame vitale, protezione da Demoni e da Draghi.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -64,14 +64,14 @@ La creatura incantata prende +1/+1 per ogni Pianura che controlli e ha volare.</
   <item>
     <id>M110009</id>
     <name>Epurazione Celeste</name>
-    <text>Esilia un permanente nero o rosso bersaglio.</text>
+    <text>Esilia un permanente nero o rosso bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110010</id>
     <name>Crociato delle Nuvole</name>
-    <text>Volare
+    <text>Volare 
 Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)</text>
     <flavorText>
     </flavorText>
@@ -93,22 +93,21 @@ Attacco improvviso (Questa creatura infligge danno da combattimento prima delle 
   <item>
     <id>M110013</id>
     <name>Avanguardia d'Elite</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110014</id>
     <name>Scomunicare</name>
-    <text>Metti una creatura bersaglio in cima al grimorio del suo proprietario.</text>
+    <text>Metti una creatura bersaglio in cima al grimorio del suo proprietario. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110015</id>
     <name>Falena Lucedorata</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta la Falena Lucedorata blocca, puoi guadagnare 4 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -116,7 +115,7 @@ Ogniqualvolta la Falena Lucedorata blocca, puoi guadagnare 4 punti vita.</text>
   <item>
     <id>M110016</id>
     <name>Forza Sacra</name>
-    <text>Incanta creatura
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
 La creatura incantata prende +1/+2.</text>
     <flavorText>
     </flavorText>
@@ -131,7 +130,7 @@ La creatura incantata prende +1/+2.</text>
   <item>
     <id>M110018</id>
     <name>Fante Veterano</name>
-    <text>{T}: Una creatura attaccante bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <text>{T}: Una creatura attaccante bersaglio prende +1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -145,7 +144,7 @@ La creatura incantata prende +1/+2.</text>
   <item>
     <id>M110020</id>
     <name>Cavaliera Esemplare</name>
-    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)
+    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.) 
 Le altre creature Cavaliere che controlli prendono +1/+1 e sono indistruttibili. (Il danno letale e gli effetti che dicono "distruggi" non le distruggono.)</text>
     <flavorText>
     </flavorText>
@@ -153,7 +152,7 @@ Le altre creature Cavaliere che controlli prendono +1/+1 e sono indistruttibili.
   <item>
     <id>M110021</id>
     <name>Leyline della Sacralità</name>
-    <text>Se la Leyline della Sacralità è nella tua mano iniziale, puoi cominciare la partita con essa sul campo di battaglia.
+    <text>Se la Leyline della Sacralità è nella tua mano iniziale, puoi cominciare la partita con essa sul campo di battaglia. 
 Non puoi essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
     <flavorText>
     </flavorText>
@@ -161,15 +160,15 @@ Non puoi essere bersaglio di magie o abilità controllate dai tuoi avversari.</t
   <item>
     <id>M110022</id>
     <name>Balzo Possente</name>
-    <text>Una creatura bersaglio prende +2/+2 e ha volare fino alla fine del turno.</text>
+    <text>Una creatura bersaglio prende +2/+2 e guadagna volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110023</id>
     <name>Pacifismo</name>
-    <text>Incanta creatura
-La creatura incantata non può attaccare o bloccare.</text>
+    <text>Incanta creatura 
+La creatura incantata non può attaccare o bloccare. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -183,7 +182,7 @@ La creatura incantata non può attaccare o bloccare.</text>
   <item>
     <id>M110025</id>
     <name>Uovo di Roc</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Quando l'Uovo di Roc viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura Uccello 3/3 bianca con volare.</text>
     <flavorText>
     </flavorText>
@@ -198,7 +197,7 @@ Quando l'Uovo di Roc viene messo in un cimitero dal campo di battaglia, metti su
   <item>
     <id>M110027</id>
     <name>Angelo di Serra</name>
-    <text>Volare
+    <text>Volare 
 Cautela (Questa creatura attacca senza TAPpare.)</text>
     <flavorText>
     </flavorText>
@@ -206,7 +205,7 @@ Cautela (Questa creatura attacca senza TAPpare.)</text>
   <item>
     <id>M110028</id>
     <name>Ascendente di Serra</name>
-    <text>Legame vitale (Il danno inflitto da questa creatura ti fa anche guadagnare altrettanti punti vita.)
+    <text>Legame vitale (Il danno inflitto da questa creatura ti fa anche guadagnare altrettanti punti vita.) 
 Fintanto che hai 30 o più punti vita, l'Ascendente di Serra prende +5/+5 e ha volare.</text>
     <flavorText>
     </flavorText>
@@ -237,14 +236,14 @@ Fintanto che hai 30 o più punti vita, l'Ascendente di Serra prende +5/+5 e ha v
   <item>
     <id>M110032</id>
     <name>Offerta Solenne</name>
-    <text>Distruggi un artefatto o un incantesimo bersaglio. Guadagni 4 punti vita.</text>
+    <text>Distruggi un artefatto o un incantesimo bersaglio. Guadagni 4 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110033</id>
     <name>Falco dello Squadrone</name>
-    <text>Volare
+    <text>Volare 
 Quando il Falco dello Squadrone entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per trovare fino a tre carte chiamate Falco dello Squadrone, rivelarle e aggiungerle alla tua mano. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -259,7 +258,7 @@ Quando il Falco dello Squadrone entra nel campo di battaglia, puoi passare in ra
   <item>
     <id>M110035</id>
     <name>Titano Solare</name>
-    <text>Cautela
+    <text>Cautela 
 Ogniqualvolta il Titano Solare entra nel campo di battaglia o attacca, puoi rimettere sul campo di battaglia una carta permanente bersaglio con costo di mana convertito pari o inferiore a 3 dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -274,7 +273,7 @@ Ogniqualvolta il Titano Solare entra nel campo di battaglia o attacca, puoi rime
   <item>
     <id>M110037</id>
     <name>Arconte Vendicativo</name>
-    <text>Volare
+    <text>Volare 
 {X}: Previeni i prossimi X danni che ti verrebbero inflitti in questo turno. Se i danni vengono prevenuti in questo modo, l'Arconte Vendicativo infligge altrettanti danni a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -289,7 +288,7 @@ Ogniqualvolta il Titano Solare entra nel campo di battaglia o attacca, puoi rime
   <item>
     <id>M110039</id>
     <name>Cavaliere Bianco</name>
-    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)
+    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.) 
 Protezione dal nero (Questa creatura non può essere bloccata, bersagliata, non le può essere inflitto danno, né può essere incantata da nulla di nero.)</text>
     <flavorText>
     </flavorText>
@@ -297,21 +296,20 @@ Protezione dal nero (Questa creatura non può essere bloccata, bersagliata, non 
   <item>
     <id>M110040</id>
     <name>Grifone Selvaggio</name>
-    <text>Volare</text>
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110041</id>
-    <name>Esperta dell'Etere</name>
-    <text>Quando l'Esperta dell'Etere entra nel campo di battaglia, fai tornare una creatura bersaglio in mano al suo proprietario.</text>
-    <flavorText>
-    </flavorText>
+    <name>Æther Adept</name>
+    <text>When Æther Adept enters the battlefield, return target creature to its owner's hand.</text>
+    <flavorText>Some mages do their best work in solitude. Others do their best work creating it.</flavorText>
   </item>
   <item>
     <id>M110042</id>
     <name>Servitore d'Aria</name>
-    <text>Volare
+    <text>Volare 
 {2}{U}: TAPpa una creatura bersaglio con volare.</text>
     <flavorText>
     </flavorText>
@@ -334,7 +332,7 @@ Protezione dal nero (Questa creatura non può essere bloccata, bersagliata, non 
   <item>
     <id>M110045</id>
     <name>Gufo dei Presagi</name>
-    <text>Volare
+    <text>Volare 
 Quando il Gufo dei Presagi entra nel campo di battaglia, profetizzare 3. (Per profetizzare 3, guarda le prime tre carte del tuo grimorio, poi mettine un qualsiasi numero in fondo al tuo grimorio e le altre in cima in qualsiasi ordine.)</text>
     <flavorText>
     </flavorText>
@@ -342,7 +340,7 @@ Quando il Gufo dei Presagi entra nel campo di battaglia, profetizzare 3. (Per pr
   <item>
     <id>M110046</id>
     <name>Drago Azzurro</name>
-    <text>Volare</text>
+    <text>Volare (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -356,7 +354,7 @@ Quando il Gufo dei Presagi entra nel campo di battaglia, profetizzare 3. (Per pr
   <item>
     <id>M110048</id>
     <name>Eliminare</name>
-    <text>Neutralizza una magia bersaglio.</text>
+    <text>Neutralizza una magia bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -370,15 +368,15 @@ Quando il Gufo dei Presagi entra nel campo di battaglia, profetizzare 3. (Per pr
   <item>
     <id>M110050</id>
     <name>Elementale delle Nubi</name>
-    <text>Volare
-L'Elementale delle Nubi può bloccare solo creature con volare.</text>
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) 
+L'Elementale delle Nubi può bloccare solo le creature con volare.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110051</id>
     <name>Sfinge degli Indovinelli</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta la Sfinge degli Indovinelli attacca, ogni giocatore nomina una carta. Poi ogni giocatore rivela la prima carta del proprio grimorio. Se la carta rivelata da un giocatore è la carta che ha nominato, quel giocatore la aggiunge alla sua mano. Se non lo è, quel giocatore mette quella carta in fondo al suo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -393,7 +391,7 @@ Ogniqualvolta la Sfinge degli Indovinelli attacca, ogni giocatore nomina una car
   <item>
     <id>M110053</id>
     <name>Gelolampo</name>
-    <text>Neutralizza una magia rossa o verde bersaglio.</text>
+    <text>Neutralizza la magia rossa o verde bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -407,7 +405,7 @@ Ogniqualvolta la Sfinge degli Indovinelli attacca, ogni giocatore nomina una car
   <item>
     <id>M110055</id>
     <name>Titano del Gelo</name>
-    <text>Ogniqualvolta il Titano del Gelo diventa bersaglio di una magia o abilità controllata da un avversario, neutralizza quella magia o abilità a meno che il suo controllore non paghi {2}.
+    <text>Ogniqualvolta il Titano del Gelo diventa bersaglio di una magia o abilità controllata da un avversario, neutralizza quella magia o abilità a meno che il suo controllore non paghi {2}. 
 Ogniqualvolta il Titano del Gelo entra nel campo di battaglia o attacca, TAPpa un permanente bersaglio. Quel permanente non STAPpa durante il prossimo STAP del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -415,7 +413,7 @@ Ogniqualvolta il Titano del Gelo entra nel campo di battaglia o attacca, TAPpa u
   <item>
     <id>M110056</id>
     <name>Serpe del Porto</name>
-    <text>Passa-Isole (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla un'Isola.)
+    <text>Passa-Isole (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla un'Isola.) 
 La Serpe del Porto non può attaccare a meno che non ci siano cinque o più Isole sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -423,19 +421,19 @@ La Serpe del Porto non può attaccare a meno che non ci siano cinque o più Isol
   <item>
     <id>M110057</id>
     <name>Gabbia di Ghiaccio</name>
-    <text>Incanta creatura
-La creatura incantata non può attaccare o bloccare e le sue abilità attivate non possono essere attivate.
-Quando la creatura incantata diventa bersaglio di una magia o abilità, distruggi la Gabbia di Ghiaccio.</text>
+    <text>Incanta creatura 
+La creatura incantata non può attaccare o bloccare e le sue abilità attivate non possono essere attivate. 
+Quando la creatura incantata diventa bersaglio di una magia o abilità, distruggi la Gabbia di Ghiaccio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110058</id>
     <name>Jace Beleren</name>
-    <text>[+2]: Ogni giocatore pesca una carta.
-[-1]: Un giocatore bersaglio pesca una carta.
-[-10]: Un giocatore bersaglio mette nel suo cimitero le prime venti carte del suo grimorio.
-[Fedeltà 3]</text>
+    <text>+2: Ogni giocatore pesca una carta. 
+-1: Un giocatore bersaglio pesca una carta. 
+-10: Un giocatore bersaglio mette nel suo cimitero le prime venti carte del suo grimorio. 
+Fedeltà 3</text>
     <flavorText>
     </flavorText>
   </item>
@@ -456,7 +454,7 @@ Quando la creatura incantata diventa bersaglio di una magia o abilità, distrugg
   <item>
     <id>M110061</id>
     <name>Leyline dell'Anticipazione</name>
-    <text>Se la Leyline dell'Anticipazione è nella tua mano iniziale, puoi cominciare la partita con essa sul campo di battaglia.
+    <text>Se la Leyline dell'Anticipazione è nella tua mano iniziale, puoi cominciare la partita con essa sul campo di battaglia. 
 Puoi lanciare carte non terra come se avessero lampo. (Puoi lanciarle in ogni momento in cui potresti lanciare un istantaneo.)</text>
     <flavorText>
     </flavorText>
@@ -464,7 +462,7 @@ Puoi lanciare carte non terra come se avessero lampo. (Puoi lanciarle in ogni mo
   <item>
     <id>M110062</id>
     <name>Indebolimento Magico</name>
-    <text>Neutralizza una magia bersaglio a meno che il suo controllore non paghi {3}.</text>
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {3}.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -486,7 +484,7 @@ Puoi lanciare carte non terra come se avessero lampo. (Puoi lanciarle in ogni mo
   <item>
     <id>M110065</id>
     <name>Sovrana dei Tritoni</name>
-    <text>Le altre creature Tritone che controlli prendono +1/+1.
+    <text>Le altre creature Tritone che controlli prendono +1/+1. 
 {T}: Una creatura Tritone bersaglio non può essere bloccata in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -494,7 +492,7 @@ Puoi lanciare carte non terra come se avessero lampo. (Puoi lanciarle in ogni mo
   <item>
     <id>M110066</id>
     <name>Tritone Spia</name>
-    <text>Passa-Isole (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla un'Isola.)
+    <text>Passa-Isole (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla un'Isola.) 
 Ogniqualvolta il Tritone Spia infligge danno da combattimento a un giocatore, quel giocatore rivela una carta a caso dalla sua mano.</text>
     <flavorText>
     </flavorText>
@@ -502,7 +500,7 @@ Ogniqualvolta il Tritone Spia infligge danno da combattimento a un giocatore, qu
   <item>
     <id>M110067</id>
     <name>Controllo Mentale</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Controlli la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -510,7 +508,7 @@ Controlli la creatura incantata.</text>
   <item>
     <id>M110068</id>
     <name>Negare</name>
-    <text>Neutralizza una magia non creatura bersaglio.</text>
+    <text>Neutralizza una magia non creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -552,8 +550,8 @@ Controlli la creatura incantata.</text>
   <item>
     <id>M110074</id>
     <name>Leviatano della Burrasca</name>
-    <text>Passa-Isole (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla un'Isola.)
-Tutte le terre sono Isole in aggiunta ai loro altri tipi.
+    <text>Passa-Isole (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla un'Isola.) 
+Tutte le terre sono Isole in aggiunta ai loro altri tipi. 
 Le creature senza volare o passa-Isole non possono attaccare.</text>
     <flavorText>
     </flavorText>
@@ -575,29 +573,29 @@ Le creature senza volare o passa-Isole non possono attaccare.</text>
   <item>
     <id>M110077</id>
     <name>Traumatizzare</name>
-    <text>Un giocatore bersaglio mette nel suo cimitero la metà superiore del suo grimorio, arrotondata per difetto.</text>
+    <text>Un giocatore bersaglio mette nel suo cimitero la metà superiore del suo grimorio, arrotondata per difetto. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110078</id>
     <name>Controevocazione</name>
-    <text>Fai tornare una creatura bersaglio in mano al suo proprietario.</text>
+    <text>Il proprietario riprende in mano una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110079</id>
     <name>Muro di Gelo</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Ogniqualvolta il Muro di Gelo blocca una creatura, quella creatura non STAPpa durante il prossimo STAP del suo controllore.</text>
+    <text>Difensore (Questa creatura non può attaccare.) 
+Ogniqualvolta il Muro di Gelo blocca una creatura, quella creatura non STAPpa durante il prossimo STAP del suo controllore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110080</id>
     <name>Servitore d'Acqua</name>
-    <text>{U}: Il Servitore d'Acqua prende +1/-1 fino alla fine del turno.
+    <text>{U}: Il Servitore d'Acqua prende +1/-1 fino alla fine del turno. 
 {U}: Il Servitore d'Acqua prende -1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -620,8 +618,8 @@ Ogniqualvolta il Muro di Gelo blocca una creatura, quella creatura non STAPpa du
   <item>
     <id>M110083</id>
     <name>Cavaliere Nero</name>
-    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)
-Protezione dal bianco (Questa creatura non può essere bloccata, bersagliata, non le può essere inflitto danno, né può essere incantata da nulla di bianco.)</text>
+    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.) 
+Protezione dal bianco (Questa creatura non può essere bloccata, bersagliata, non le può essere inflitto danno, né può essere incantata da nulla di bianco.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -642,14 +640,14 @@ Protezione dal bianco (Questa creatura non può essere bloccata, bersagliata, no
   <item>
     <id>M110086</id>
     <name>Predoni delle Paludi</name>
-    <text>Passa-Paludi (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla una Palude.)</text>
+    <text>Passa-paludi</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110087</id>
     <name>Vampiro Seducente</name>
-    <text>Le altre creature Vampiro che controlli prendono +1/+1.
+    <text>Le altre creature Vampiro che controlli prendono +1/+1. 
 TAPpa cinque Vampiri STAPpati che controlli: Prendi il controllo di una creatura bersaglio. Diventa un Vampiro in aggiunta ai suoi altri tipi.</text>
     <flavorText>
     </flavorText>
@@ -678,14 +676,14 @@ TAPpa cinque Vampiri STAPpati che controlli: Prendi il controllo di una creatura
   <item>
     <id>M110091</id>
     <name>Marchiare a Morte</name>
-    <text>Distruggi una creatura verde o bianca bersaglio.</text>
+    <text>Distruggi una creatura verde o bianca bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110092</id>
     <name>Demone del Cancello di Morte</name>
-    <text>Puoi pagare 6 punti vita e sacrificare tre creature nere invece di pagare il costo di mana del Demone del Cancello di Morte.
+    <text>Puoi pagare 6 punti vita e sacrificare tre creature nere invece di pagare il costo di mana del Demone del Cancello di Morte. 
 Volare, travolgere</text>
     <flavorText>
     </flavorText>
@@ -693,35 +691,35 @@ Volare, travolgere</text>
   <item>
     <id>M110093</id>
     <name>Tutore Diabolico</name>
-    <text>Passa in rassegna il tuo grimorio per una carta e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <text>Passa in rassegna il tuo grimorio per una carta e aggiungila alla tua mano. Poi rimescola il tuo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110094</id>
     <name>Dissotterrare</name>
-    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110095</id>
     <name>Lama del Fato</name>
-    <text>Distruggi una creatura non nera bersaglio.</text>
+    <text>Distruggi una creatura non nera bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110096</id>
     <name>Costrizione</name>
-    <text>Un avversario bersaglio rivela la sua mano. Scegli una carta non terra, non creatura da quella mano. Quel giocatore scarta quella carta.</text>
+    <text>Un avversario bersaglio rivela la propria mano. Tu scegli da essa una carta che non sia una creatura o una terra. Quel giocatore scarta quella carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110097</id>
     <name>Titano Sepolcrale</name>
-    <text>Tocco letale
+    <text>Tocco letale 
 Ogniqualvolta il Titano Sepolcrale entra nel campo di battaglia o attacca, metti sul campo di battaglia due pedine creatura Zombie 2/2 nere.</text>
     <flavorText>
     </flavorText>
@@ -736,14 +734,14 @@ Ogniqualvolta il Titano Sepolcrale entra nel campo di battaglia o attacca, metti
   <item>
     <id>M110099</id>
     <name>Echi Ossessionanti</name>
-    <text>Esilia dal cimitero di un giocatore bersaglio tutte le carte che non sono carte terra base. Per ogni carta esiliata in questo modo, passa in rassegna il grimorio di quel giocatore per tutte le carte con lo stesso nome di quella carta ed esiliale. Poi quel giocatore rimescola il suo grimorio.</text>
+    <text>Esilia dal cimitero di un giocatore bersaglio tutte le carte che non sono carte terra base. Per ogni carta esiliata in questo modo, passa in rassegna il grimorio di quel giocatore per tutte le carte con lo stesso nome di quella carta ed esiliale. Poi quel giocatore rimescola il suo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110100</id>
     <name>Banshee Ululante</name>
-    <text>Volare
+    <text>Volare 
 Quando la Banshee Ululante entra nel campo di battaglia, ogni giocatore perde 3 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -751,7 +749,7 @@ Quando la Banshee Ululante entra nel campo di battaglia, ogni giocatore perde 3 
   <item>
     <id>M110101</id>
     <name>Leyline del Nulla</name>
-    <text>Se la Leyline del Nulla è nella tua mano iniziale, puoi cominciare la partita con essa sul campo di battaglia.
+    <text>Se la Leyline del Nulla è nella tua mano iniziale, puoi cominciare la partita con essa sul campo di battaglia. 
 Se una carta sta per essere messa nel cimitero di un avversario da qualsiasi zona, invece esiliala.</text>
     <flavorText>
     </flavorText>
@@ -759,10 +757,10 @@ Se una carta sta per essere messa nel cimitero di un avversario da qualsiasi zon
   <item>
     <id>M110102</id>
     <name>Liliana Vess</name>
-    <text>[+1]: Un giocatore bersaglio scarta una carta.
-[-2]: Passa in rassegna il tuo grimorio per una carta, poi rimescola il tuo grimorio e metti quella carta in cima.
-[-8]: Metti sul campo di battaglia sotto il tuo controllo tutte le carte creatura in tutti i cimiteri.
-[Fedeltà 5]</text>
+    <text>+1: Un giocatore bersaglio scarta una carta. 
+-2: Passa in rassegna il tuo grimorio per una carta, poi rimescola il tuo grimorio e metti quella carta in cima. 
+-8: Metti sul campo di battaglia sotto il tuo controllo tutte le carte creatura in tutti i cimiteri. 
+Fedeltà 5 </text>
     <flavorText>
     </flavorText>
   </item>
@@ -776,7 +774,7 @@ Se una carta sta per essere messa nel cimitero di un avversario da qualsiasi zon
   <item>
     <id>M110104</id>
     <name>Spettro di Liliana</name>
-    <text>Volare
+    <text>Volare 
 Quando lo Spettro di Liliana entra nel campo di battaglia, ogni avversario scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -784,7 +782,7 @@ Quando lo Spettro di Liliana entra nel campo di battaglia, ogni avversario scart
   <item>
     <id>M110105</id>
     <name>Cancrena della Mente</name>
-    <text>Un giocatore bersaglio scarta due carte.</text>
+    <text>Il giocatore bersaglio scarta due carte.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -798,8 +796,8 @@ Quando lo Spettro di Liliana entra nel campo di battaglia, ogni avversario scart
   <item>
     <id>M110107</id>
     <name>Pestilenza Necrotica</name>
-    <text>Incanta creatura
-La creatura incantata ha "All'inizio del tuo mantenimento, sacrifica questa creatura".
+    <text>Incanta creatura 
+La creatura incantata ha "All'inizio del tuo mantenimento, sacrifica questa creatura". 
 Quando la creatura incantata viene messa in un cimitero, il suo controllore sceglie una creatura bersaglio controllata da uno dei suoi avversari. Rimetti sul campo di battaglia dal cimitero del suo proprietario la Pestilenza Necrotica assegnata a quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -815,7 +813,7 @@ Quando la creatura incantata viene messa in un cimitero, il suo controllore sceg
   <item>
     <id>M110109</id>
     <name>Ombra dell'Ala Notturna</name>
-    <text>Volare
+    <text>Volare 
 {1}{B}: L'Ombra dell'Ala Notturna prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -823,8 +821,8 @@ Quando la creatura incantata viene messa in un cimitero, il suo controllore sceg
   <item>
     <id>M110110</id>
     <name>Lich del Filatterio</name>
-    <text>Mentre il Lich del Filatterio entra nel campo di battaglia, metti un segnalino filatterio su un artefatto che controlli.
-Il Lich del Filatterio è indistruttibile.
+    <text>Mentre il Lich del Filatterio entra nel campo di battaglia, metti un segnalino filatterio su un artefatto che controlli. 
+Il Lich del Filatterio è indistruttibile. 
 Quando non controlli permanenti con segnalini filatterio, sacrifica il Lich del Filatterio.</text>
     <flavorText>
     </flavorText>
@@ -832,7 +830,7 @@ Quando non controlli permanenti con segnalini filatterio, sacrifica il Lich del 
   <item>
     <id>M110111</id>
     <name>Malattia dell'Acquitrino</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende -1/-1 per ogni Palude che controlli.</text>
     <flavorText>
     </flavorText>
@@ -847,8 +845,8 @@ La creatura incantata prende -1/-1 per ogni Palude che controlli.</text>
   <item>
     <id>M110113</id>
     <name>Ratti Spietati</name>
-    <text>I Ratti Spietati prendono +1/+1 per ogni altra creatura sul campo di battaglia chiamata Ratti Spietati.
-Un mazzo può avere un qualsiasi numero di carte chiamate Ratti Spietati.</text>
+    <text>I Ratti Spietati prendono +1/+1 per ogni altra creatura sul campo di battaglia di nome Ratti Spietati. 
+Un mazzo può avere un qualsiasi numero di carte di nome Ratti Spietati. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -869,7 +867,7 @@ Un mazzo può avere un qualsiasi numero di carte chiamate Ratti Spietati.</text>
   <item>
     <id>M110116</id>
     <name>Assassino Reale</name>
-    <text>{T}: Distruggi una creatura TAPpata bersaglio.</text>
+    <text>{T}: Distruggi una creatura TAPpata bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -890,7 +888,7 @@ Un mazzo può avere un qualsiasi numero di carte chiamate Ratti Spietati.</text>
   <item>
     <id>M110119</id>
     <name>Forza Diabolica</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +2/+1.</text>
     <flavorText>
     </flavorText>
@@ -912,7 +910,7 @@ La creatura incantata prende +2/+1.</text>
   <item>
     <id>M110122</id>
     <name>Nibbio Infernale Anziano</name>
-    <text>Volare
+    <text>Volare 
 {R}: Il Nibbio Infernale Anziano infligge 1 danno a una creatura bersaglio controllata dal giocatore in difesa. Attiva questa abilità solo se il Nibbio Infernale Anziano sta attaccando.</text>
     <flavorText>
     </flavorText>
@@ -920,7 +918,7 @@ La creatura incantata prende +2/+1.</text>
   <item>
     <id>M110123</id>
     <name>Elettrocorridore</name>
-    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.)
+    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.) 
 All'inizio della sottofase finale, sacrifica l'Elettrocorridore.</text>
     <flavorText>
     </flavorText>
@@ -942,18 +940,17 @@ All'inizio della sottofase finale, sacrifica l'Elettrocorridore.</text>
   <item>
     <id>M110126</id>
     <name>Minotauro del Canyon</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110127</id>
     <name>Chandra Nalaar</name>
-    <text>[+1]: Chandra Nalaar infligge 1 danno a un giocatore bersaglio.
-[-X]: Chandra Nalaar infligge X danni a una creatura bersaglio.
-[-8]: Chandra Nalaar infligge 10 danni a un giocatore bersaglio e a ogni creatura controllata da quel giocatore.
-[Fedeltà 6]</text>
+    <text>+1: Chandra Nalaar infligge 1 danno a un giocatore bersaglio. 
+-X: Chandra Nalaar infligge X danni a una creatura bersaglio. 
+-8: Chandra Nalaar infligge 10 danni a un giocatore bersaglio e a ogni creatura controllata da quel giocatore. 
+Fedeltà 6 </text>
     <flavorText>
     </flavorText>
   </item>
@@ -967,7 +964,7 @@ All'inizio della sottofase finale, sacrifica l'Elettrocorridore.</text>
   <item>
     <id>M110129</id>
     <name>Focoso di Chandra</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta a un avversario viene inflitto danno non da combattimento, il Focoso di Chandra prende +3/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -975,7 +972,7 @@ Ogniqualvolta a un avversario viene inflitto danno non da combattimento, il Foco
   <item>
     <id>M110130</id>
     <name>Bruciare</name>
-    <text>Bruciare non può essere neutralizzato da magie o abilità.
+    <text>Bruciare non può essere neutralizzato da magie o abilità. 
 Bruciare infligge 5 danni a una creatura bianca o blu bersaglio. Il danno non può essere prevenuto.</text>
     <flavorText>
     </flavorText>
@@ -990,7 +987,7 @@ Bruciare infligge 5 danni a una creatura bianca o blu bersaglio. Il danno non pu
   <item>
     <id>M110132</id>
     <name>Frantumare</name>
-    <text>Distruggi un artefatto o una terra bersaglio.</text>
+    <text>Distruggi un artefatto o una terra bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1018,7 +1015,7 @@ Bruciare infligge 5 danni a una creatura bianca o blu bersaglio. Il danno non pu
   <item>
     <id>M110136</id>
     <name>Segugio Infernale Focoso</name>
-    <text>{R}: Il Segugio Infernale Focoso prende +1/+0 fino alla fine del turno.</text>
+    <text>{R}: Il Segugio Infernale Focoso prende +1/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1032,7 +1029,7 @@ Bruciare infligge 5 danni a una creatura bianca o blu bersaglio. Il danno non pu
   <item>
     <id>M110138</id>
     <name>Palla di Fuoco</name>
-    <text>La Palla di Fuoco infligge X danni suddivisi equamente, arrotondati per difetto, tra un qualsiasi numero di creature e/o giocatori bersaglio.
+    <text>La Palla di Fuoco infligge X danni suddivisi equamente, arrotondati per difetto, tra un qualsiasi numero di creature e/o giocatori bersaglio. 
 La Palla di Fuoco costa {1} in più per essere lanciata per ogni bersaglio oltre il primo.</text>
     <flavorText>
     </flavorText>
@@ -1040,7 +1037,7 @@ La Palla di Fuoco costa {1} in più per essere lanciata per ogni bersaglio oltre
   <item>
     <id>M110139</id>
     <name>Scagliare</name>
-    <text>Come costo addizionale per lanciare Scagliare, sacrifica una creatura.
+    <text>Come costo addizionale per lanciare Scagliare, sacrifica una creatura. 
 Scagliare infligge danno pari alla forza della creatura sacrificata a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1055,16 +1052,15 @@ Scagliare infligge danno pari alla forza della creatura sacrificata a una creatu
   <item>
     <id>M110141</id>
     <name>Capitano Goblin</name>
-    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.)
-Le altre creature Goblin che controlli prendono +1/+1 e hanno rapidità.</text>
+    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.) 
+Le altre creature Goblin che controlli prendono +1/+1 e hanno rapidità. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110142</id>
     <name>Picchiere Goblin</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1078,8 +1074,8 @@ Le altre creature Goblin che controlli prendono +1/+1 e hanno rapidità.</text>
   <item>
     <id>M110144</id>
     <name>Drago Accaparratore</name>
-    <text>Volare
-Quando il Drago Accaparratore entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta artefatto, esiliarla, poi rimescolare il tuo grimorio.
+    <text>Volare 
+Quando il Drago Accaparratore entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta artefatto, esiliarla, poi rimescolare il tuo grimorio. 
 Quando il Drago Accaparratore viene messo in un cimitero dal campo di battaglia, puoi mettere la carta esiliata in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -1094,7 +1090,7 @@ Quando il Drago Accaparratore viene messo in un cimitero dal campo di battaglia,
   <item>
     <id>M110146</id>
     <name>Titano dell'Inferno</name>
-    <text>{R}: Il Titano dell'Inferno prende +1/+0 fino alla fine del turno.
+    <text>{R}: Il Titano dell'Inferno prende +1/+0 fino alla fine del turno. 
 Ogniqualvolta il Titano dell'Inferno entra nel campo di battaglia o attacca, infligge 3 danni suddivisi a tua scelta tra una, due o tre creature e/o giocatori bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1102,15 +1098,15 @@ Ogniqualvolta il Titano dell'Inferno entra nel campo di battaglia o attacca, inf
   <item>
     <id>M110147</id>
     <name>Ascia di Lava</name>
-    <text>L'Ascia di Lava infligge 5 danni a un giocatore bersaglio.</text>
+    <text>L'Ascia di Lava infligge 5 danni a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110148</id>
     <name>Leyline del Castigo</name>
-    <text>Se la Leyline del Castigo è nella tua mano iniziale, puoi cominciare la partita con essa sul campo di battaglia.
-I giocatori non possono guadagnare punti vita.
+    <text>Se la Leyline del Castigo è nella tua mano iniziale, puoi cominciare la partita con essa sul campo di battaglia. 
+I giocatori non possono guadagnare punti vita. 
 Il danno non può essere prevenuto.</text>
     <flavorText>
     </flavorText>
@@ -1125,8 +1121,8 @@ Il danno non può essere prevenuto.</text>
   <item>
     <id>M110150</id>
     <name>Fenice di Magma</name>
-    <text>Volare
-Quando la Fenice di Magma viene messa in un cimitero dal campo di battaglia, infligge 3 danni a ogni creatura e a ogni giocatore.
+    <text>Volare 
+Quando la Fenice di Magma viene messa in un cimitero dal campo di battaglia, infligge 3 danni a ogni creatura e a ogni giocatore. 
 {3}{R}{R}: Riprendi in mano la Fenice di Magma dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1141,7 +1137,7 @@ Quando la Fenice di Magma viene messa in un cimitero dal campo di battaglia, inf
   <item>
     <id>M110152</id>
     <name>Piromante Errante</name>
-    <text>{T}: Il Piromante Errante infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <text>{T}: Il Piromante Errante infligge 1 danno a una creatura o a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1155,7 +1151,7 @@ Quando la Fenice di Magma viene messa in un cimitero dal campo di battaglia, inf
   <item>
     <id>M110154</id>
     <name>Piroclasma</name>
-    <text>Il Piroclasma infligge 2 danni a ogni creatura.</text>
+    <text>Il Piroclasma infligge 2 danni a ogni creatura. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1169,8 +1165,8 @@ Quando la Fenice di Magma viene messa in un cimitero dal campo di battaglia, inf
   <item>
     <id>M110156</id>
     <name>Abbraccio di Shiv</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/+2 e ha volare.
+    <text>Incanta creatura 
+La creatura incantata prende +2/+2 e ha volare. 
 {R}: La creatura incantata prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1178,14 +1174,14 @@ La creatura incantata prende +2/+2 e ha volare.
   <item>
     <id>M110157</id>
     <name>Colpo Folgorante</name>
-    <text>Una creatura bersaglio prende +2/+0 e ha attacco improvviso fino alla fine del turno. (Infligge danno da combattimento prima delle creature senza attacco improvviso.)</text>
+    <text>Una creatura bersaglio prende +2/+0 e guadagna attacco improvviso fino alla fine del turno. (Infligge danno da combattimento prima delle creature senza attacco improvviso.)</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110158</id>
     <name>Forza Vulcanica</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +2/+2 e ha passa-Montagne. (Non può essere bloccata fintanto che il giocatore in difesa controlla una Montagna.)</text>
     <flavorText>
     </flavorText>
@@ -1193,7 +1189,7 @@ La creatura incantata prende +2/+2 e ha passa-Montagne. (Non può essere bloccat
   <item>
     <id>M110159</id>
     <name>Berserker Vulshok</name>
-    <text>Rapidità (Questa creatura può attaccare e {T} non appena entra sotto il tuo controllo.)</text>
+    <text>Rapidità</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1207,8 +1203,8 @@ La creatura incantata prende +2/+2 e ha passa-Montagne. (Non può essere bloccat
   <item>
     <id>M110161</id>
     <name>Melma Acida</name>
-    <text>Tocco letale (Qualsiasi danno che questa creatura infligge a una creatura è sufficiente a distruggerla.)
-Quando la Melma Acida entra nel campo di battaglia, distruggi un artefatto, un incantesimo o una terra bersaglio.</text>
+    <text>Tocco letale (Le creature a cui è stato inflitto danno da questa creatura vengono distrutte. Puoi dividere il danno da combattimento di questa creatura tra un numero qualsiasi di creature che bloccano o sono bloccate da essa.) 
+Quando la Melma Acida entra nel campo di battaglia, distruggi un artefatto, un incantesimo o una terra bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1222,7 +1218,7 @@ Quando la Melma Acida entra nel campo di battaglia, distruggi un artefatto, un i
   <item>
     <id>M110163</id>
     <name>Druido del Risveglio</name>
-    <text>Quando il Druido del Risveglio entra nel campo di battaglia, una Foresta bersaglio diventa una creatura Silvantropo 4/5 verde fintanto che il Druido del Risveglio è sul campo di battaglia. È ancora una terra.</text>
+    <text>Quando il Druido del Risveglio entra nel campo di battaglia, una Foresta bersaglio diventa una creatura Silvantropo 4/5 verde fintanto che il Druido del Risveglio è sul campo di battaglia. È ancora una terra. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1236,7 +1232,7 @@ Quando la Melma Acida entra nel campo di battaglia, distruggi un artefatto, un i
   <item>
     <id>M110165</id>
     <name>Uccelli del Paradiso</name>
-    <text>Volare
+    <text>Volare 
 {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1265,7 +1261,7 @@ Quando la Melma Acida entra nel campo di battaglia, distruggi un artefatto, un i
   <item>
     <id>M110169</id>
     <name>Benevolenza della Driade</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha passa-Foreste. (Non può essere bloccata fintanto che il giocatore in difesa controlla una Foresta.)</text>
     <flavorText>
     </flavorText>
@@ -1273,14 +1269,14 @@ La creatura incantata ha passa-Foreste. (Non può essere bloccata fintanto che i
   <item>
     <id>M110170</id>
     <name>Wurm di Valle Oscura</name>
-    <text>Travolgere (Se questa creatura sta per assegnare alle sue creature bloccanti danno sufficiente a distruggerle, puoi farle assegnare il resto del suo danno al giocatore in difesa o a un planeswalker.)</text>
+    <text>Travolgere</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110171</id>
     <name>Arcidruido Elfico</name>
-    <text>Le altre creature Elfo che controlli prendono +1/+1.
+    <text>Le altre creature Elfo che controlli prendono +1/+1. 
 {T}: Aggiungi {G} alla tua riserva di mana per ogni Elfo che controlli.</text>
     <flavorText>
     </flavorText>
@@ -1295,15 +1291,15 @@ La creatura incantata ha passa-Foreste. (Non può essere bloccata fintanto che i
   <item>
     <id>M110173</id>
     <name>Nebbia</name>
-    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110174</id>
     <name>Vendetta di Gea</name>
-    <text>La Vendetta di Gea non può essere neutralizzata.
-Rapidità
+    <text>La Vendetta di Gea non può essere neutralizzata. 
+Rapidità 
 La Vendetta di Gea non può essere bersaglio di magie non verdi o abilità da fonti non verdi.</text>
     <flavorText>
     </flavorText>
@@ -1311,10 +1307,10 @@ La Vendetta di Gea non può essere bersaglio di magie non verdi o abilità da fo
   <item>
     <id>M110175</id>
     <name>Garruk Lingua Selvaggia</name>
-    <text>[+1]: STAPpa due terre bersaglio.
-[-1]: Metti sul campo di battaglia una pedina creatura Bestia 3/3 verde.
-[-4]: Le creature che controlli prendono +3/+3 e hanno travolgere fino alla fine del turno.
-[Fedeltà 3]</text>
+    <text>+1: STAPpa due terre bersaglio. 
+-1: Metti sul campo di battaglia una pedina creatura Bestia 3/3 verde. 
+-4: Le creature che controlli prendono +3/+3 e guadagnano travolgere fino alla fine del turno. 
+Fedeltà 3</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1342,7 +1338,7 @@ La Vendetta di Gea non può essere bersaglio di magie non verdi o abilità da fo
   <item>
     <id>M110179</id>
     <name>Ragno Gigante</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1370,8 +1366,8 @@ La Vendetta di Gea non può essere bersaglio di magie non verdi o abilità da fo
   <item>
     <id>M110183</id>
     <name>Leyline della Vitalità</name>
-    <text>Se la Leyline della Vitalità è nella tua mano iniziale, puoi cominciare la partita con essa sul campo di battaglia.
-Le creature che controlli prendono +0/+1.
+    <text>Se la Leyline della Vitalità è nella tua mano iniziale, puoi cominciare la partita con essa sul campo di battaglia. 
+Le creature che controlli prendono +0/+1. 
 Ogniqualvolta una creatura entra nel campo di battaglia sotto il tuo controllo, puoi guadagnare 1 punto vita.</text>
     <flavorText>
     </flavorText>
@@ -1393,7 +1389,7 @@ Ogniqualvolta una creatura entra nel campo di battaglia sotto il tuo controllo, 
   <item>
     <id>M110186</id>
     <name>Ritorno alla Natura</name>
-    <text>Distruggi un artefatto o un incantesimo bersaglio.</text>
+    <text>Distruggi un artefatto o un incantesimo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1407,7 +1403,7 @@ Ogniqualvolta una creatura entra nel campo di battaglia sotto il tuo controllo, 
   <item>
     <id>M110188</id>
     <name>Baloth Testardo</name>
-    <text>Quando il Baloth Testardo entra nel campo di battaglia, guadagni 4 punti vita.
+    <text>Quando il Baloth Testardo entra nel campo di battaglia, guadagni 4 punti vita. 
 Se una magia o abilità controllata da un avversario ti fa scartare il Baloth Testardo, mettilo sul campo di battaglia invece di metterlo nel tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1429,8 +1425,8 @@ Se una magia o abilità controllata da un avversario ti fa scartare il Baloth Te
   <item>
     <id>M110191</id>
     <name>Bozzolo Primevo</name>
-    <text>Incanta creatura
-All'inizio del tuo mantenimento, metti un segnalino +1/+1 sulla creatura incantata.
+    <text>Incanta creatura 
+All'inizio del tuo mantenimento, metti un segnalino +1/+1 sulla creatura incantata. 
 Quando la creatura incantata attacca o blocca, sacrifica il Bozzolo Primevo.</text>
     <flavorText>
     </flavorText>
@@ -1438,7 +1434,7 @@ Quando la creatura incantata attacca o blocca, sacrifica il Bozzolo Primevo.</te
   <item>
     <id>M110192</id>
     <name>Titano Primitivo</name>
-    <text>Travolgere
+    <text>Travolgere 
 Ogniqualvolta il Titano Primitivo entra nel campo di battaglia o attacca, puoi passare in rassegna il tuo grimorio per trovare fino a due carte terra, metterle sul campo di battaglia TAPpate, poi rimescolare il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1453,9 +1449,9 @@ Ogniqualvolta il Titano Primitivo entra nel campo di battaglia o attacca, puoi p
   <item>
     <id>M110194</id>
     <name>Idra Proteiforme</name>
-    <text>L'Idra Proteiforme entra nel campo di battaglia con X segnalini +1/+1.
-Se sta per essere inflitto danno all'Idra Proteiforme, previeni quel danno e rimuovi da essa altrettanti segnalini +1/+1.
-Ogniqualvolta viene rimosso un segnalino +1/+1 dall'Idra Proteiforme, metti su di essa due segnalini +1/+1 all'inizio della prossima sottofase finale.</text>
+    <text>L'Idra Proteiforme entra nel campo di battaglia con X segnalini +1/+1. 
+Se sta per essere inflitto danno all'Idra Proteiforme, previeni quel danno e rimuovi da essa altrettanti segnalini +1/+1. 
+Ogniqualvolta viene rimosso un segnalino +1/+1 dall'Idra Proteiforme, metti su di essa due segnalini +1/+1 all'inizio della sottofase finale.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1477,8 +1473,7 @@ Ogniqualvolta viene rimosso un segnalino +1/+1 dall'Idra Proteiforme, metti su d
   <item>
     <id>M110197</id>
     <name>Wurm Spinato</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1492,7 +1487,7 @@ Ogniqualvolta viene rimosso un segnalino +1/+1 dall'Idra Proteiforme, metti su d
   <item>
     <id>M110199</id>
     <name>Muro di Liane</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
     <flavorText>
     </flavorText>
@@ -1500,7 +1495,7 @@ Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
   <item>
     <id>M110200</id>
     <name>Wurm di Yavimaya</name>
-    <text>Travolgere (Se questa creatura sta per assegnare alle sue creature bloccanti danno sufficiente a distruggerle, puoi farle assegnare il resto del suo danno al giocatore in difesa o a un planeswalker.)</text>
+    <text>Travolgere</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1535,21 +1530,21 @@ Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
   <item>
     <id>M110205</id>
     <name>Artiglio di Drago</name>
-    <text>Ogniqualvolta un giocatore lancia una magia rossa, puoi guadagnare 1 punto vita.</text>
+    <text>Ogniqualvolta un giocatore lancia una magia rossa, puoi guadagnare 1 punto vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110206</id>
     <name>Elisir dell'Immortalità</name>
-    <text>{2}, {T}: Guadagni 5 punti vita. Rimescola l'Elisir dell'Immortalità e il tuo cimitero nel tuo grimorio.</text>
+    <text>{2}, {T}: Guadagni 5 punti vita. Rimescola l'Elisir dell'Immortalità e il tuo cimitero nel grimorio del suo proprietario.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110207</id>
     <name>Gargoyle Sentinella</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {3}: Fino alla fine del turno, il Gargoyle Sentinella perde difensore e ha volare.</text>
     <flavorText>
     </flavorText>
@@ -1557,7 +1552,7 @@ Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
   <item>
     <id>M110208</id>
     <name>Idolo Iettatore</name>
-    <text>All'inizio del tuo mantenimento, l'Idolo Iettatore ti infligge 2 danni.
+    <text>All'inizio del tuo mantenimento, l'Idolo Iettatore ti infligge 2 danni. 
 Sacrifica una creatura: Un avversario bersaglio prende il controllo dell'Idolo Iettatore.</text>
     <flavorText>
     </flavorText>
@@ -1565,7 +1560,7 @@ Sacrifica una creatura: Un avversario bersaglio prende il controllo dell'Idolo I
   <item>
     <id>M110209</id>
     <name>Juggernaut</name>
-    <text>Il Juggernaut attacca ogni turno, se può farlo.
+    <text>Il Juggernaut attacca ogni turno, se può farlo. 
 Il Juggernaut non può essere bloccato dai Muri.</text>
     <flavorText>
     </flavorText>
@@ -1573,7 +1568,7 @@ Il Juggernaut non può essere bloccato dai Muri.</text>
   <item>
     <id>M110210</id>
     <name>Occhio del Kraken</name>
-    <text>Ogniqualvolta un giocatore lancia una magia blu, puoi guadagnare 1 punto vita.</text>
+    <text>Ogniqualvolta un giocatore lancia una magia blu, puoi guadagnare 1 punto vita. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1587,8 +1582,8 @@ Il Juggernaut non può essere bloccato dai Muri.</text>
   <item>
     <id>M110212</id>
     <name>Angelo di Platino</name>
-    <text>Volare
-Non puoi perdere la partita e i tuoi avversari non possono vincere la partita.</text>
+    <text>Volare 
+Non puoi perdere la partita e i tuoi avversari non possono vincere la partita. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1617,7 +1612,7 @@ Non puoi perdere la partita e i tuoi avversari non possono vincere la partita.</
   <item>
     <id>M110216</id>
     <name>Spada della Vendetta</name>
-    <text>La creatura equipaggiata prende +2/+0 e ha attacco improvviso, cautela, travolgere e rapidità.
+    <text>La creatura equipaggiata prende +2/+0 e ha attacco improvviso, cautela, travolgere e rapidità. 
 Equipaggiare {3} ({3}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
     <flavorText>
     </flavorText>
@@ -1632,7 +1627,7 @@ Equipaggiare {3} ({3}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>M110218</id>
     <name>Triskelion</name>
-    <text>Il Triskelion entra nel campo di battaglia con tre segnalini +1/+1.
+    <text>Il Triskelion entra nel campo di battaglia con tre segnalini +1/+1. 
 Rimuovi un segnalino +1/+1 dal Triskelion: Il Triskelion infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1647,7 +1642,7 @@ Rimuovi un segnalino +1/+1 dal Triskelion: Il Triskelion infligge 1 danno a una 
   <item>
     <id>M110220</id>
     <name>Ascia del Condottiero</name>
-    <text>La creatura equipaggiata prende +3/+1.
+    <text>La creatura equipaggiata prende +3/+1. 
 Equipaggiare {4} ({4}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
     <flavorText>
     </flavorText>
@@ -1655,9 +1650,9 @@ Equipaggiare {4} ({4}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>M110221</id>
     <name>Manto Setabisbiglio</name>
-    <text>La creatura equipaggiata non può essere bloccata.
-La creatura equipaggiata ha velo. (Non può essere bersaglio di magie o abilità.)
-Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.)</text>
+    <text>La creatura equipaggiata non può essere bloccata. 
+La creatura equipaggiata ha velo. (Non può essere bersaglio di magie o abilità.) 
+Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggia solo quando potresti lanciare una stregoneria.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1671,31 +1666,31 @@ Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>M110223</id>
     <name>Vetta del Teschio di Drago</name>
-    <text>La Vetta del Teschio di Drago entra nel campo di battaglia TAPpata a meno che tu non controlli una Palude o una Montagna.
-{T}: Aggiungi {B} o {R} alla tua riserva di mana.</text>
+    <text>La Vetta del Teschio di Drago entra nel campo di battaglia TAPpata a meno che tu non controlli una Palude o una Montagna. 
+{T}: Aggiungi {B} o {R} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110224</id>
     <name>Catacombe Allagate</name>
-    <text>Le Catacombe Allagate entrano nel campo di battaglia TAPpate a meno che tu non controlli un'Isola o una Palude.
-{T}: Aggiungi {U} o {B} alla tua riserva di mana.</text>
+    <text>Le Catacombe Allagate entrano nel campo di battaglia TAPpate a meno che tu non controlli un'Isola o una Palude. 
+{T}: Aggiungi {U} o {B} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110225</id>
     <name>Fortezza Glaciale</name>
-    <text>La Fortezza Glaciale entra nel campo di battaglia TAPpata a meno che tu non controlli una Pianura o un'Isola.
-{T}: Aggiungi {W} o {U} alla tua riserva di mana.</text>
+    <text>La Fortezza Glaciale entra nel campo di battaglia TAPpata a meno che tu non controlli una Pianura o un'Isola. 
+{T}: Aggiungi {W} o {U} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110226</id>
     <name>Labirinto Ingannevole</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {4}, {T}: Esilia una creatura attaccante bersaglio controllata da un avversario. All'inizio della prossima sottofase finale, rimettila sul campo di battaglia TAPpata sotto il controllo del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -1703,7 +1698,7 @@ Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>M110227</id>
     <name>Dirupo delle Radici</name>
-    <text>Il Dirupo delle Radici entra nel campo di battaglia TAPpato a meno che tu non controlli una Montagna o una Foresta.
+    <text>Il Dirupo delle Radici entra nel campo di battaglia TAPpato a meno che tu non controlli una Montagna o una Foresta. 
 {T}: Aggiungi {R} o {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1711,7 +1706,7 @@ Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>M110228</id>
     <name>Boschetto di Petali Solari</name>
-    <text>Il Boschetto di Petali Solari entra nel campo di battaglia TAPpato a meno che tu non controlli una Foresta o una Pianura.
+    <text>Il Boschetto di Petali Solari entra nel campo di battaglia TAPpato a meno che tu non controlli una Foresta o una Pianura. 
 {T}: Aggiungi {G} o {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1719,147 +1714,147 @@ Equipaggiare {2} ({2}: Assegna a una creatura bersaglio che controlli. Equipaggi
   <item>
     <id>M110229</id>
     <name>Distesa Terramorfica</name>
-    <text>{T}, Sacrifica la Distesa Terramorfica: Passa in rassegna il tuo grimorio per una carta terra base e mettila sul campo di battaglia TAPpata. Poi rimescola il tuo grimorio.</text>
+    <text>{T}, Sacrifica la Distesa Terramorfica: Passa in rassegna il tuo grimorio per una carta terra base e mettila sul campo di battaglia TAPpata. Poi rimescola il tuo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110230</id>
     <name>Pianura</name>
-    <text>{W}</text>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110231</id>
     <name>Pianura</name>
-    <text>{W}</text>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110232</id>
     <name>Pianura</name>
-    <text>{W}</text>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110233</id>
     <name>Pianura</name>
-    <text>{W}</text>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110234</id>
     <name>Isola</name>
-    <text>{U}</text>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110235</id>
     <name>Isola</name>
-    <text>{U}</text>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110236</id>
     <name>Isola</name>
-    <text>{U}</text>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110237</id>
     <name>Isola</name>
-    <text>{U}</text>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110238</id>
     <name>Palude</name>
-    <text>{B}</text>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110239</id>
     <name>Palude</name>
-    <text>{B}</text>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110240</id>
     <name>Palude</name>
-    <text>{B}</text>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110241</id>
     <name>Palude</name>
-    <text>{B}</text>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110242</id>
     <name>Montagna</name>
-    <text>{R}</text>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110243</id>
     <name>Montagna</name>
-    <text>{R}</text>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110244</id>
     <name>Montagna</name>
-    <text>{R}</text>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110245</id>
     <name>Montagna</name>
-    <text>{R}</text>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110246</id>
     <name>Foresta</name>
-    <text>{G}</text>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110247</id>
     <name>Foresta</name>
-    <text>{G}</text>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110248</id>
     <name>Foresta</name>
-    <text>{G}</text>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>M110249</id>
     <name>Foresta</name>
-    <text>{G}</text>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
   </item>

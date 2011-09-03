@@ -2,8 +2,8 @@
   <item>
     <id>PCY0001</id>
     <name>Abolire</name>
-    <text>Puoi scartare una carta Pianura anziché pagare il costo di mana dell'Abolire.
-Distruggi un artefatto o un incantesimo bersaglio.</text>
+    <text>Puoi scartare una carta Pianura anziché pagare il costo di mana dell'Abolire. 
+Distruggi un artefatto o un incantesimo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -17,8 +17,8 @@ Distruggi un artefatto o un incantesimo bersaglio.</text>
   <item>
     <id>PCY0003</id>
     <name>Avatar della Speranza</name>
-    <text>Volare
-Se hai 3 punti vita o meno, l'Avatar della Speranza costa {6} in meno per essere lanciato.
+    <text>Volare 
+Se hai 3 punti vita o meno, l'Avatar della Speranza costa {6} in meno per essere lanciato. 
 L'Avatar della Speranza può bloccare un qualsiasi numero di creature.</text>
     <flavorText>
     </flavorText>
@@ -33,7 +33,7 @@ L'Avatar della Speranza può bloccare un qualsiasi numero di creature.</text>
   <item>
     <id>PCY0005</id>
     <name>Convergenza Celeste</name>
-    <text>La Convergenza Celeste entra nel campo di battaglia con sette segnalini presagio su di essa.
+    <text>La Convergenza Celeste entra nel campo di battaglia con sette segnalini presagio su di essa. 
 All'inizio del tuo mantenimento rimuovi un segnalino presagio dalla Convergenza Celeste. Se non ci sono segnalini presagio sulla Convergenza Celeste, il giocatore con il più alto numero di punti vita vince la partita. Se due o più giocatori condividono il più alto numero di punti vita, la partita è patta.</text>
     <flavorText>
     </flavorText>
@@ -48,7 +48,7 @@ All'inizio del tuo mantenimento rimuovi un segnalino presagio dalla Convergenza 
   <item>
     <id>PCY0007</id>
     <name>Intrappolatrice</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata può bloccare un qualsiasi numero di creature.</text>
     <flavorText>
     </flavorText>
@@ -63,7 +63,7 @@ La creatura incantata può bloccare un qualsiasi numero di creature.</text>
   <item>
     <id>PCY0009</id>
     <name>Campo in Fiore</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata ha "{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura od a un giocatore bersaglio in questo turno.".</text>
     <flavorText>
     </flavorText>
@@ -71,7 +71,7 @@ La terra incantata ha "{T}: Previeni il prossimo punto danno che verrebbe inflit
   <item>
     <id>PCY0010</id>
     <name>Leone Scintillante</name>
-    <text>Previeni tutto il danno che verrebbe inflitto al Leone Scintillante.
+    <text>Previeni tutto il danno che verrebbe inflitto al Leone Scintillante. 
 {3}: Fino alla fine del turno, il Leone Scintillante perde "Previeni tutto il danno che verrebbe inflitto al Leone Scintillante". Ogni giocatore può attivare questa abilità.</text>
     <flavorText>
     </flavorText>
@@ -79,7 +79,7 @@ La terra incantata ha "{T}: Previeni il prossimo punto danno che verrebbe inflit
   <item>
     <id>PCY0011</id>
     <name>Lince Scintillante</name>
-    <text>Previeni tutto il danno che verrebbe inflitto alla Lince Scintillante.
+    <text>Previeni tutto il danno che verrebbe inflitto alla Lince Scintillante. 
 {2}: Fino alla fine del turno, la Lince Scintillante perde "Previeni tutto il danno che verrebbe inflitto alla Lince Scintillante". Ogni giocatore può attivare questa abilità.</text>
     <flavorText>
     </flavorText>
@@ -87,7 +87,7 @@ La terra incantata ha "{T}: Previeni il prossimo punto danno che verrebbe inflit
   <item>
     <id>PCY0012</id>
     <name>Spirito Ingioiellato</name>
-    <text>Volare
+    <text>Volare 
 Sacrifica due terre: Lo Spirito Ingioiellato guadagna la protezione dagli artefatti o da un colore a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -102,8 +102,8 @@ Sacrifica due terre: Lo Spirito Ingioiellato guadagna la protezione dagli artefa
   <item>
     <id>PCY0014</id>
     <name>Dono di Mageta</name>
-    <text>Lampo
-Incanta creatura
+    <text>Lampo 
+Incanta creatura 
 La creatura incantata prende +1/+2.</text>
     <flavorText>
     </flavorText>
@@ -111,8 +111,8 @@ La creatura incantata prende +1/+2.</text>
   <item>
     <id>PCY0015</id>
     <name>Informatore Mercenario</name>
-    <text>L'Informatore Mercenario non può essere bersaglio di magie nere o abilità da fonti nere.
-{2}{W}: Metti un Mercenario bersaglio in fondo al grimorio del suo proprietario.</text>
+    <text>L'Informatore Mercenario non può essere bersaglio di magie nere o abilità da fonti nere. 
+{2}{W}: Metti un Mercenario non pedina bersaglio in fondo al grimorio del suo proprietario.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -182,7 +182,7 @@ La creatura incantata prende +1/+2.</text>
   <item>
     <id>PCY0025</id>
     <name>Danzatore della Spada</name>
-    <text>{W}{W}: La creatura attaccante bersaglio prende -1/-0 fino alla fine del turno.</text>
+    <text>{W}{W}: La creatura attaccante bersaglio prende -1/-0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -210,15 +210,16 @@ La creatura incantata prende +1/+2.</text>
   <item>
     <id>PCY0029</id>
     <name>Mantello di Alexi</name>
-    <text>Lampo;  Incanta creatura
-La creatura incantata ha velo (Non può essere bersaglio di magie o abilità.)</text>
+    <text>Lampo
+ Incanta creatura 
+La creatura incantata ha velo (Non può essere bersaglio di magie o abilità.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PCY0030</id>
     <name>Avatar della Volontà</name>
-    <text>Volare
+    <text>Volare 
 Se un avversario non ha carte in mano, l'Avatar della Volontà costa {6} in meno per essere lanciato.</text>
     <flavorText>
     </flavorText>
@@ -247,7 +248,7 @@ Se un avversario non ha carte in mano, l'Avatar della Volontà costa {6} in meno
   <item>
     <id>PCY0034</id>
     <name>Sbeffeggiare</name>
-    <text>Puoi scartare dalla tua mano una carta Isola e un'altra carta anziché pagare il costo di mana dello Sbeffeggiare.
+    <text>Puoi scartare dalla tua mano una carta Isola e un'altra carta anziché pagare il costo di mana dello Sbeffeggiare. 
 Neutralizza una magia bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -269,7 +270,7 @@ Neutralizza una magia bersaglio.</text>
   <item>
     <id>PCY0037</id>
     <name>Consapevolezza Acuita</name>
-    <text>Mentre la Consapevolezza Acuita entra nel campo di battaglia, scarta la tua mano.
+    <text>Mentre la Consapevolezza Acuita entra nel campo di battaglia, scarta la tua mano. 
 All'inizio della tua acquisizione, pesca una carta addizionale.</text>
     <flavorText>
     </flavorText>
@@ -298,7 +299,7 @@ All'inizio della tua acquisizione, pesca una carta addizionale.</text>
   <item>
     <id>PCY0041</id>
     <name>Muro di Mercurio</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {4}: Il proprietario riprende in mano il Muro di Mercurio. Qualsiasi giocatore può attivare quest'abilità.</text>
     <flavorText>
     </flavorText>
@@ -334,7 +335,7 @@ All'inizio della tua acquisizione, pesca una carta addizionale.</text>
   <item>
     <id>PCY0046</id>
     <name>Serpente Aliante</name>
-    <text>Volare
+    <text>Volare 
 {2}: Il Serpente Aliante perde volare fino alla fine del turno. Qualsiasi giocatore può attivare questa abilità.</text>
     <flavorText>
     </flavorText>
@@ -349,7 +350,7 @@ All'inizio della tua acquisizione, pesca una carta addizionale.</text>
   <item>
     <id>PCY0048</id>
     <name>Draghetto Codapunta</name>
-    <text>Volare
+    <text>Volare 
 Sacrifica il Draghetto Codapunta: Neutralizza una magia bersaglio a meno che il suo controllore paghi {3}.</text>
     <flavorText>
     </flavorText>
@@ -357,7 +358,7 @@ Sacrifica il Draghetto Codapunta: Neutralizza una magia bersaglio a meno che il 
   <item>
     <id>PCY0049</id>
     <name>Cucciolo di Codapunta</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) 
 Sacrifica il Cucciolo di Codapunta: Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}.</text>
     <flavorText>
     </flavorText>
@@ -365,7 +366,7 @@ Sacrifica il Cucciolo di Codapunta: Neutralizza una magia bersaglio a meno che i
   <item>
     <id>PCY0050</id>
     <name>Aquila Scrutatempesta</name>
-    <text>Volare
+    <text>Volare 
 Sacrifica una terra: Il proprietario riprende in mano l'Aquila Scrutatempesta.</text>
     <flavorText>
     </flavorText>
@@ -373,7 +374,7 @@ Sacrifica una terra: Il proprietario riprende in mano l'Aquila Scrutatempesta.</
   <item>
     <id>PCY0051</id>
     <name>Campo Affondato</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata ha "{T}: Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}".</text>
     <flavorText>
     </flavorText>
@@ -381,7 +382,7 @@ La terra incantata ha "{T}: Neutralizza una magia bersaglio a meno che il suo co
   <item>
     <id>PCY0052</id>
     <name>Spirito Vessatore</name>
-    <text>Volare
+    <text>Volare 
 All'inizio della tua sottofase finale, TAPpa tutte le terre che controlli.</text>
     <flavorText>
     </flavorText>
@@ -389,7 +390,7 @@ All'inizio della tua sottofase finale, TAPpa tutte le terre che controlli.</text
   <item>
     <id>PCY0053</id>
     <name>Esploravento</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta l'Esploravento attacca o blocca, il proprietario la riprende in mano alla fine del combattimento.</text>
     <flavorText>
     </flavorText>
@@ -411,8 +412,8 @@ Ogniqualvolta l'Esploravento attacca o blocca, il proprietario la riprende in ma
   <item>
     <id>PCY0056</id>
     <name>Avatar della Disperazione</name>
-    <text>Se ci sono dieci o più carte creatura in totale in tutti i cimiteri, l'Avatar della Disperazione costa {6} in meno per essere lanciato.
-Paura
+    <text>Se ci sono dieci o più carte creatura in totale in tutti i cimiteri, l'Avatar della Disperazione costa {6} in meno per essere lanciato. 
+Paura 
 {T}: Distruggi una creatura bersaglio. Non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -420,7 +421,7 @@ Paura
   <item>
     <id>PCY0057</id>
     <name>Elementale della Palude</name>
-    <text>Protezione dal bianco
+    <text>Protezione dal bianco 
 All'inizio del tuo mantenimento, sacrifica l'Elementale della Palude a meno che tu sacrifichi una terra.</text>
     <flavorText>
     </flavorText>
@@ -428,7 +429,7 @@ All'inizio del tuo mantenimento, sacrifica l'Elementale della Palude a meno che 
   <item>
     <id>PCY0058</id>
     <name>Aliante delle Paludi</name>
-    <text>Volare
+    <text>Volare 
 {T}, Sacrifica una terra: Passa in rassegna il tuo grimorio per una carta permanente Mercenario con costo di mana convertito non superiore a 2 e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -436,7 +437,7 @@ All'inizio del tuo mantenimento, sacrifica l'Elementale della Palude a meno che 
   <item>
     <id>PCY0059</id>
     <name>Apparizione Agghiacciante</name>
-    <text>{B}: Rigenera l'Apparizione Agghiacciante.
+    <text>{B}: Rigenera l'Apparizione Agghiacciante. 
 Ogniqualvolta l'Apparizione Agghiacciante infligge danno da combattimento a un giocatore, quel giocatore scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -444,7 +445,7 @@ Ogniqualvolta l'Apparizione Agghiacciante infligge danno da combattimento a un g
   <item>
     <id>PCY0060</id>
     <name>Marionette della Bara</name>
-    <text>Sacrifica due terre : Rimetti sul campo di battaglia dal tuo cimitero le Marionette della Bara. Attiva quest'abilità solamente durante il tuo mantenimento, e solo se controlli almeno una Palude. [Oracle 2003/07/01]</text>
+    <text>Sacrifica due terre : Rimetti sul campo di battaglia dal tuo cimitero le Marionette della Bara. Attiva quest'abilità solamente durante il tuo mantenimento, e solo se controlli almeno una Palude. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -493,8 +494,8 @@ Ogniqualvolta l'Apparizione Agghiacciante infligge danno da combattimento a un g
   <item>
     <id>PCY0067</id>
     <name>Carezza di Greel</name>
-    <text>Lampo
-Incanta creatura
+    <text>Lampo 
+Incanta creatura 
 La creatura incantata prende -3/-0.</text>
     <flavorText>
     </flavorText>
@@ -516,7 +517,7 @@ La creatura incantata prende -3/-0.</text>
   <item>
     <id>PCY0070</id>
     <name>Campo Inquinato</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata ha "{T}: Questa terra infligge 1 danno a ogni creatura ed a ogni giocatore".</text>
     <flavorText>
     </flavorText>
@@ -524,7 +525,7 @@ La terra incantata ha "{T}: Questa terra infligge 1 danno a ogni creatura ed a o
   <item>
     <id>PCY0071</id>
     <name>Epidemia</name>
-    <text>Puoi scartare una carta Palude dalla tua mano anziché pagare il costo di mana dell'Epidemia.
+    <text>Puoi scartare una carta Palude dalla tua mano anziché pagare il costo di mana dell'Epidemia. 
 Scegli un tipo di creatura. Tutte le creature di quel tipo prendono -1/-1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -532,7 +533,7 @@ Scegli un tipo di creatura. Tutte le creature di quel tipo prendono -1/-1 fino a
   <item>
     <id>PCY0072</id>
     <name>Rapace della Fossa</name>
-    <text>Volare, attacco improvviso
+    <text>Volare, attacco improvviso 
 All'inizio del tuo mantenimento, sacrifica il Rapace della Fossa a meno che tu paghi {2}{B}{B}.</text>
     <flavorText>
     </flavorText>
@@ -554,8 +555,8 @@ All'inizio del tuo mantenimento, sacrifica il Rapace della Fossa a meno che tu p
   <item>
     <id>PCY0075</id>
     <name>Informatore Ribelle</name>
-    <text>L'Informatore Ribelle non può essere bersaglio di magie bianche o abilità provenienti da fonti bianche.
-{3}: Metti un Ribelle bersaglio in fondo al grimorio del suo proprietario.</text>
+    <text>L'Informatore Ribelle non può essere bersaglio di magie bianche o abilità provenienti da fonti bianche. 
+{3}: Metti un Ribelle non pedina bersaglio in fondo al grimorio del suo proprietario.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -590,7 +591,7 @@ All'inizio del tuo mantenimento, sacrifica il Rapace della Fossa a meno che tu p
   <item>
     <id>PCY0080</id>
     <name>Muro di Vipere</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {3}: Distruggi il Muro di Vipere e una creatura bersaglio che questo sta bloccando. Qualsiasi giocatore può attivare questa abilità.</text>
     <flavorText>
     </flavorText>
@@ -605,8 +606,8 @@ All'inizio del tuo mantenimento, sacrifica il Rapace della Fossa a meno che tu p
   <item>
     <id>PCY0082</id>
     <name>Avatar della Furia</name>
-    <text>Volare
-Se un avversario controlla 7 o più terre, l'Avatar della Furia costa {6} in meno per essere lanciato.
+    <text>Volare 
+Se un avversario controlla 7 o più terre, l'Avatar della Furia costa {6} in meno per essere lanciato. 
 {R}: L'Avatar della Furia prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -614,7 +615,7 @@ Se un avversario controlla 7 o più terre, l'Avatar della Furia costa {6} in men
   <item>
     <id>PCY0083</id>
     <name>Campo Spinato</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata ha "{T}: Questa terra infligge 1 danno a una creatura o a un giocatore bersaglio."</text>
     <flavorText>
     </flavorText>
@@ -622,7 +623,7 @@ La terra incantata ha "{T}: Questa terra infligge 1 danno a una creatura o a un 
   <item>
     <id>PCY0084</id>
     <name>Lottatori Marchiati</name>
-    <text>I Lottatori Marchiati non possono attaccare se il giocatore in difesa controlla una terra STAPpata.
+    <text>I Lottatori Marchiati non possono attaccare se il giocatore in difesa controlla una terra STAPpata. 
 I Lottatori Marchiati non possono bloccare se tu controlli una terra STAPpata.</text>
     <flavorText>
     </flavorText>
@@ -665,7 +666,7 @@ I Lottatori Marchiati non possono bloccare se tu controlli una terra STAPpata.</
   <item>
     <id>PCY0090</id>
     <name>Colpo di Fuoco</name>
-    <text>Puoi scartare una Montagna dalla tua mano anziché pagare il costo di mana del Colpo di Fuoco.
+    <text>Puoi scartare una Montagna dalla tua mano anziché pagare il costo di mana del Colpo di Fuoco. 
 Il Colpo di Fuoco infligge 3 danni divisi a tua scelta tra un qualsiasi numero di creature bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -673,14 +674,14 @@ Il Colpo di Fuoco infligge 3 danni divisi a tua scelta tra un qualsiasi numero d
   <item>
     <id>PCY0091</id>
     <name>Infervorare</name>
-    <text>L'Infervorare infligge 2 danni ad ogni creatura a cui è stato inflitto danno in questo turno.</text>
+    <text>L'Infervorare infligge 2 danni ad ogni creatura a cui è stato inflitto danno in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PCY0092</id>
     <name>Piromane di Keld</name>
-    <text>{1}, Sacrifica due terre: Distruggi una terra bersaglio.</text>
+    <text>{1}, Sacrifica due terre: Distruggi una terra bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -708,8 +709,8 @@ Il Colpo di Fuoco infligge 3 danni divisi a tua scelta tra un qualsiasi numero d
   <item>
     <id>PCY0096</id>
     <name>Ordini di Latulla</name>
-    <text>Lampo
-Incanta creatura
+    <text>Lampo 
+Incanta creatura 
 Ogniqualvolta la creatura incantata infligge danno da combattimento al giocatore in difesa, puoi distruggere un artefatto bersaglio controllato da quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -717,14 +718,14 @@ Ogniqualvolta la creatura incantata infligge danno da combattimento al giocatore
   <item>
     <id>PCY0097</id>
     <name>Gargadonte Minore</name>
-    <text>Ogniqualvolta il Gargadonte Minore attacca o blocca, sacrifica una terra.</text>
+    <text>Ogniqualvolta il Gargadonte Minore attacca o blocca, sacrifica una terra. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>PCY0098</id>
     <name>Attacco di Panico</name>
-    <text>Fino a tre creature bersaglio non possono bloccare in questo turno.</text>
+    <text>Fino a tre creature bersaglio non possono bloccare in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -759,7 +760,7 @@ Ogniqualvolta la creatura incantata infligge danno da combattimento al giocatore
   <item>
     <id>PCY0103</id>
     <name>Vento Bruciante</name>
-    <text>Il Vento Bruciante infligge 10 danni a una creatura o a un giocatore bersaglio.</text>
+    <text>Il Vento Bruciante infligge 10 danni a una creatura o a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -773,7 +774,7 @@ Ogniqualvolta la creatura incantata infligge danno da combattimento al giocatore
   <item>
     <id>PCY0105</id>
     <name>Adunata di Maghi Specialisti</name>
-    <text>Quando non ci sono creature sul campo di battaglia, sacrifica l'Adunata di Maghi Specialisti.
+    <text>Quando non ci sono creature sul campo di battaglia, sacrifica l'Adunata di Maghi Specialisti. 
 {2}: L'Adunata di Maghi Specialisti infligge 1 danno a una creatura bersaglio. Qualsiasi giocatore può attivare questa abilità, ma solo in un momento in cui potrebbe lanciare una stregoneria.</text>
     <flavorText>
     </flavorText>
@@ -781,7 +782,7 @@ Ogniqualvolta la creatura incantata infligge danno da combattimento al giocatore
   <item>
     <id>PCY0106</id>
     <name>Lottatori Veterani</name>
-    <text>I Lottatori Veterani non possono attaccare se il giocatore in difesa controlla una terra STAPpata.
+    <text>I Lottatori Veterani non possono attaccare se il giocatore in difesa controlla una terra STAPpata. 
 I Lottatori Veterani non possono bloccare se tu controlli una terra STAPpata.</text>
     <flavorText>
     </flavorText>
@@ -796,7 +797,7 @@ I Lottatori Veterani non possono bloccare se tu controlli una terra STAPpata.</t
   <item>
     <id>PCY0108</id>
     <name>Minotauro di Zerapa</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 {2} : Il Minotauro di Zerapa perde attacco improvviso fino alla fine del turno. Qualsiasi giocatore può attivare questa abilità.</text>
     <flavorText>
     </flavorText>
@@ -804,7 +805,7 @@ I Lottatori Veterani non possono bloccare se tu controlli una terra STAPpata.</t
   <item>
     <id>PCY0109</id>
     <name>Avatar della Potenza</name>
-    <text>Se un avversario controlla almeno quattro creature in più di te, l'Avatar della Potenza costa {6} in meno per essere lanciato.
+    <text>Se un avversario controlla almeno quattro creature in più di te, l'Avatar della Potenza costa {6} in meno per essere lanciato. 
 Travolgere (Se questa creatura sta per infliggere alle sue creature bloccanti danno da combattimento sufficiente a distruggerle, puoi farle infliggere il resto del suo danno al giocatore in difesa.)</text>
     <flavorText>
     </flavorText>
@@ -826,8 +827,8 @@ Travolgere (Se questa creatura sta per infliggere alle sue creature bloccanti da
   <item>
     <id>PCY0112</id>
     <name>Duplice Natura</name>
-    <text>Ogniqualvolta una creatura non pedina entra nel campo di battaglia, il suo controllore mette sul campo di battaglia una pedina che è una copia di quella creatura.
-Ogniqualvolta una creatura non pedina lascia il campo di battaglia, esilia tutte le pedine con lo stesso nome di quella creatura.
+    <text>Ogniqualvolta una creatura non pedina entra nel campo di battaglia, il suo controllore mette sul campo di battaglia una pedina che è una copia di quella creatura. 
+Ogniqualvolta una creatura non pedina lascia il campo di battaglia, esilia tutte le pedine con lo stesso nome di quella creatura. 
 Quando la Duplice Natura lascia il campo di battaglia, esilia tutte le pedine messe sul campo di battaglia con la Duplice Natura.</text>
     <flavorText>
     </flavorText>
@@ -856,8 +857,8 @@ Quando la Duplice Natura lascia il campo di battaglia, esilia tutte le pedine me
   <item>
     <id>PCY0116</id>
     <name>Intervento di Jolrael</name>
-    <text>Lampo
-Incanta creatura
+    <text>Lampo 
+Incanta creatura 
 {1}{G}: Rigenera la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -865,7 +866,7 @@ Incanta creatura
   <item>
     <id>PCY0117</id>
     <name>Terreno Vivente</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata è una creatura Silvantropo 5/6 verde che è ancora una terra.</text>
     <flavorText>
     </flavorText>
@@ -915,7 +916,7 @@ La terra incantata è una creatura Silvantropo 5/6 verde che è ancora una terra
   <item>
     <id>PCY0124</id>
     <name>Ostacolare</name>
-    <text>Puoi scartare una carta Foresta anziché pagare il costo di mana dell'Ostacolare.
+    <text>Puoi scartare una carta Foresta anziché pagare il costo di mana dell'Ostacolare. 
 Previeni tutto il danno da combattimento che verrebbe inflitto dalle creature non bloccate in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -923,8 +924,8 @@ Previeni tutto il danno da combattimento che verrebbe inflitto dalle creature no
   <item>
     <id>PCY0125</id>
     <name>Ragno Sputatore</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
-Sacrifica una terra: Il Ragno Sputatore infligge 1 danno ad ogni creatura con volare.</text>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
+Sacrifica una terra: Il Ragno Sputatore infligge 1 danno ad ogni creatura con volare. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -938,7 +939,7 @@ Sacrifica una terra: Il Ragno Sputatore infligge 1 danno ad ogni creatura con vo
   <item>
     <id>PCY0127</id>
     <name>Scoiattolo Litigioso</name>
-    <text>{1}{G}, Sacrifica una terra: Metti sul campo di battaglia due pedine creatura Scoiattolo 1/1 verdi.
+    <text>{1}{G}, Sacrifica una terra: Metti sul campo di battaglia due pedine creatura Scoiattolo 1/1 verdi. 
 {1}{G}, Sacrifica una terra: Le creature Scoiattolo prendono +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -960,7 +961,7 @@ Sacrifica una terra: Il Ragno Sputatore infligge 1 danno ad ogni creatura con vo
   <item>
     <id>PCY0130</id>
     <name>Campo Rigoglioso</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata ha "{T}: La creatura bersaglio prende +1/+1 fino alla fine del turno."</text>
     <flavorText>
     </flavorText>
@@ -968,7 +969,7 @@ La terra incantata ha "{T}: La creatura bersaglio prende +1/+1 fino alla fine de
   <item>
     <id>PCY0131</id>
     <name>Elefante di Vintara</name>
-    <text>Travolgere
+    <text>Travolgere 
 {3}: L'Elefante di Vintara perde travolgere fino alla fine del turno. Qualsiasi giocatore può attivare questa abilità.</text>
     <flavorText>
     </flavorText>
@@ -1011,7 +1012,7 @@ La terra incantata ha "{T}: La creatura bersaglio prende +1/+1 fino alla fine de
   <item>
     <id>PCY0137</id>
     <name>Angelo di Rame</name>
-    <text>Volare
+    <text>Volare 
 {T}, Sacrifica X terre: Metti X segnalini +1/+1 sull'Angelo di Rame.</text>
     <flavorText>
     </flavorText>
@@ -1026,9 +1027,9 @@ La terra incantata ha "{T}: La creatura bersaglio prende +1/+1 fino alla fine de
   <item>
     <id>PCY0139</id>
     <name>Carro da Battaglia di Keld</name>
-    <text>Travolgere
-Il Carro da Battaglia di Keld non può bloccare.
-Quando il Carro da Battaglia di Keld attacca, sacrificalo alla fine del combattimento.
+    <text>Travolgere 
+Il Carro da Battaglia di Keld non può bloccare. 
+Quando il Carro da Battaglia di Keld attacca, sacrificalo alla fine del combattimento. 
 TAPpa una creatura STAPpata che controlli: Il Carro da Battaglia di Keld prende +X/+0 fino alla fine del turno, dove X è la forza della creatura TAPpata in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -1057,8 +1058,8 @@ TAPpa una creatura STAPpata che controlli: Il Carro da Battaglia di Keld prende 
   <item>
     <id>PCY0143</id>
     <name>Mesa della Luna Invernale</name>
-    <text>La Mesa della Luna Invernale entra nel campo di battaglia TAPpata.
-{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>La Mesa della Luna Invernale entra nel campo di battaglia TAPpata. 
+{T}: Aggiungi {1} alla tua riserva di mana. 
 {2}, {T}, Sacrifica la Mesa della Luna Invernale: TAPpa due terre bersaglio.</text>
     <flavorText>
     </flavorText>

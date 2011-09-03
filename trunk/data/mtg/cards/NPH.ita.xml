@@ -1,0 +1,1360 @@
+<cards name="Nuova Phyrexia">
+  <item>
+    <id>NPH0001</id>
+    <name>Karn Liberato</name>
+    <text>+4: Un giocatore bersaglio esilia una carta dalla sua mano. 
+-3: Esilia un permanente bersaglio. 
+-14: Ricomincia la partita, lasciando in esilio tutte le carte permanente non Aura esiliate con Karn Liberato. Poi metti quelle carte sul campo di battaglia sotto il tuo controllo. 
+Fedeltà 6</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0002</id>
+    <name>Benedizione dell'Apostolo</name>
+    <text>({WP} può essere pagato con {W} o con 2 punti vita.) 
+Una creatura o un artefatto bersaglio che controlli ha protezione dagli artefatti o da un colore a tua scelta fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0003</id>
+    <name>Sopravvissuti Auriok</name>
+    <text>Quando i Sopravvissuti Auriok entrano nel campo di battaglia, puoi rimettere sul campo di battaglia una carta Equipaggiamento bersaglio dal tuo cimitero. Se lo fai, puoi assegnarla ai Sopravvissuti Auriok.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0004</id>
+    <name>Giuntatrice di Lame</name>
+    <text>Quando la Giuntatrice di Lame entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura artefatto Golem 3/3 incolore. 
+Le creature Golem che controlli hanno attacco improvviso.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0005</id>
+    <name>Membrana della Cattedrale</name>
+    <text>({WP} può essere pagato con {W} o con 2 punti vita.) 
+Difensore 
+Quando la Membrana della Cattedrale viene messa in un cimitero dal campo di battaglia durante il combattimento, infligge 6 danni a ogni creatura da lei bloccata in questo combattimento.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0006</id>
+    <name>Cancelliera dell'Annessione</name>
+    <text>Puoi rivelare questa carta dalla tua mano iniziale. Se lo fai, quando ogni avversario lancia la sua prima magia della partita, neutralizza quella magia a meno che quel giocatore non paghi {1}. 
+Volare 
+Ogniqualvolta un avversario lancia una magia, neutralizzala a meno che quel giocatore non paghi {1}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0007</id>
+    <name>Spedire</name>
+    <text>TAPpa una creatura bersaglio. 
+Metallurgia - Se controlli tre o più artefatti, esilia quella creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0008</id>
+    <name>Il Dovuto Rispetto</name>
+    <text>I permanenti entrano nel campo di battaglia TAPpati in questo turno. 
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0009</id>
+    <name>Elesh Norn, Grande Cenobita</name>
+    <text>Cautela 
+Le altre creature che controlli prendono +2/+2. 
+Le creature controllate dai tuoi avversari prendono -2/-2.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0010</id>
+    <name>Rituale di Esclusione</name>
+    <text>Imprimere - Quando il Rituale di Esclusione entra nel campo di battaglia, esilia un permanente non terra bersaglio. 
+I giocatori non possono lanciare magie con lo stesso nome della carta esiliata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0011</id>
+    <name>Adorazione Forzata</name>
+    <text>Incanta creatura 
+La creatura incantata non può attaccare. 
+{2}{W}: Fai tornare l'Adorazione Forzata in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0012</id>
+    <name>Esarca Inquisitore</name>
+    <text>Quando l'Esarca Inquisitore entra nel campo di battaglia, scegli uno - Guadagni 2 punti vita; oppure un avversario bersaglio perde 2 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0013</id>
+    <name>Leonid Smarrito</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0014</id>
+    <name>Lossodonte Convertito</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0015</id>
+    <name>Schegge di Midollo</name>
+    <text>({WP} può essere pagato con {W} o con 2 punti vita.) 
+Le Schegge di Midollo infliggono 1 danno a ogni creatura attaccante.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0016</id>
+    <name>Mastro Giuntatore</name>
+    <text>Quando il Mastro Giuntatore entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura artefatto Golem 3/3 incolore. 
+Le creature Golem che controlli prendono +1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0017</id>
+    <name>Annessione di Norn</name>
+    <text>({WP} può essere pagato con {W} o con 2 punti vita.) 
+Le creature non possono attaccare te o un planeswalker che controlli a meno che il loro controllore non paghi {WP} per ognuna di quelle creature.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0018</id>
+    <name>Non Vita di Phyrexia</name>
+    <text>Non perdi la partita perché hai 0 o meno punti vita. 
+Fintanto che hai 0 o meno punti vita, tutto il danno ti viene inflitto come se la sua fonte avesse infettare. (Ti viene inflitto danno sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0019</id>
+    <name>Legionario di Porcellana</name>
+    <text>({WP} può essere pagato con {W} o con 2 punti vita.) 
+Attacco improvviso</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0020</id>
+    <name>Paladino di Acciaio Puro</name>
+    <text>Ogniqualvolta un Equipaggiamento entra nel campo di battaglia sotto il tuo controllo, puoi pescare una carta. 
+Metallurgia - Gli Equipaggiamenti che controlli hanno equipaggiare {0} fintanto che controlli tre o più artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0021</id>
+    <name>Ricordare i Caduti</name>
+    <text>Scegli uno o entrambi - Riprendi in mano una carta creatura bersaglio dal tuo cimitero; e/o riprendi in mano una carta artefatto bersaglio dal tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0022</id>
+    <name>Giuntatore di Sensori</name>
+    <text>Quando il Giuntatore di Sensori entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura artefatto Golem 3/3 incolore. 
+Le creature Golem che controlli hanno cautela.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0023</id>
+    <name>Angelo Frantumato</name>
+    <text>Volare 
+Ogniqualvolta una terra entra nel campo di battaglia sotto il controllo di un avversario, puoi guadagnare 3 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0024</id>
+    <name>Rapace Urlante</name>
+    <text>Volare 
+Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0025</id>
+    <name>Sacerdotessa di Sutura</name>
+    <text>Ogniqualvolta un'altra creatura entra nel campo di battaglia sotto il tuo controllo, puoi guadagnare 1 punto vita. 
+Ogniqualvolta una creatura entra nel campo di battaglia sotto il controllo di un avversario, puoi far perdere 1 punto vita a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0026</id>
+    <name>Rapporto di Guerra</name>
+    <text>Guadagni punti vita pari al numero di creature sul campo di battaglia più il numero di artefatti sul campo di battaglia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0027</id>
+    <name>Mutazione Argentea</name>
+    <text>Un permanente bersaglio diventa un artefatto in aggiunta agli altri suoi tipi fino alla fine del turno. 
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0028</id>
+    <name>Armarsi con l'Etere</name>
+    <text>Fino alla fine del turno, le creature che controlli hanno "Ogniqualvolta questa creatura infligge danno a un avversario, puoi far tornare una creatura bersaglio controllata da quel giocatore in mano al suo proprietario".</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0029</id>
+    <name>Agente Maligno</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+L'Agente Maligno non può essere bloccato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0030</id>
+    <name>Cercagole Incatenato</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Il Cercagole Incatenato non può attaccare a meno che il giocatore in difesa non sia avvelenato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0031</id>
+    <name>Cancelliera delle Guglie</name>
+    <text>Puoi rivelare questa carta dalla tua mano iniziale. Se lo fai, all'inizio del primo mantenimento, ogni avversario mette nel proprio cimitero le prime sette carte del proprio grimorio. 
+Volare 
+Quando la Cancelliera delle Guglie entra nel campo di battaglia, puoi lanciare una carta istantaneo o stregoneria bersaglio dal cimitero di un avversario senza pagare il suo costo di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0032</id>
+    <name>Decisione Corrotta</name>
+    <text>Neutralizza una magia bersaglio se il suo controllore è avvelenato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0033</id>
+    <name>Esarca Ingannatore</name>
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Quando l'Esarca Ingannatore entra nel campo di battaglia, scegli uno - STAPpa un permanente bersaglio che controlli; oppure TAPpa un permanente bersaglio controllato da un avversario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0034</id>
+    <name>Posizione Difensiva</name>
+    <text>Incanta creatura 
+La creatura incantata prende -1/+1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0035</id>
+    <name>Sonda Gitaxian</name>
+    <text>({UP} può essere pagato con {U} o con 2 punti vita.) 
+Guarda la mano di un giocatore bersaglio. 
+Pesca una carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0036</id>
+    <name>Avèrla Impalatrice</name>
+    <text>Volare 
+Quando l'Avèrla Impalatrice infligge danno da combattimento a un giocatore, puoi sacrificarla. Se lo fai, peschi tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0037</id>
+    <name>Jin-Gitaxias, Augure del Nucleo</name>
+    <text>Lampo 
+All'inizio della tua sottofase finale, pesca sette carte. 
+Il limite massimo di carte nella mano di ogni avversario è ridotto di sette.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0038</id>
+    <name>Passo Falso Mentale</name>
+    <text>({UP} può essere pagato con {U} o con 2 punti vita.) 
+Neutralizza una magia bersaglio con costo di mana convertito pari a 1.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0039</id>
+    <name>Vagliamente</name>
+    <text>Peschi due carte e un avversario bersaglio scarta due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0040</id>
+    <name>Dose di Stordimento</name>
+    <text>Incanta artefatto o creatura 
+Il permanente incantato non STAPpa durante lo STAP del suo controllore. 
+All'inizio del mantenimento del controllore del permanente incantato, quel giocatore perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0041</id>
+    <name>Ingeritore di Phyrexia</name>
+    <text>Imprimere - Quando l'Ingeritore di Phyrexia entra nel campo di battaglia, puoi esiliare una creatura non pedina bersaglio. 
+L'Ingeritore di Phyrexia prende +X/+Y, dove X è la forza della carta creatura esiliata e Y è la sua costituzione.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0042</id>
+    <name>Metamorfosi Phyrexian</name>
+    <text>({UP} può essere pagato con {U} o con 2 punti vita.) 
+Puoi far entrare la Metamorfosi Phyrexian nel campo di battaglia come una copia di qualsiasi artefatto o creatura sul campo di battaglia, tranne che è un artefatto in aggiunta ai suoi altri tipi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0043</id>
+    <name>Barriera Psichica</name>
+    <text>Neutralizza una magia creatura bersaglio. Il suo controllore perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0044</id>
+    <name>Chirurgia Psichica</name>
+    <text>Ogniqualvolta un avversario rimescola il suo grimorio, puoi guardare le prime due carte di quel grimorio. Puoi esiliare una di quelle carte. Poi metti l'altra o entrambe in cima a quel grimorio in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0045</id>
+    <name>Tottero Spinoso</name>
+    <text>({UP} può essere pagato con {U} o con 2 punti vita.) 
+Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0046</id>
+    <name>Sorvegliante delle Guglie</name>
+    <text>Lampo (Puoi lanciare questa magia in ogni momento in cui potresti lanciare un istantaneo.) 
+Volare</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0047</id>
+    <name>Mossa di Tezzeret</name>
+    <text>({UP} può essere pagato con {U} o con 2 punti vita.) 
+Pesca due carte, poi proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0048</id>
+    <name>Vapori Insidiosi</name>
+    <text>Fai tornare una creatura bersaglio in mano al suo proprietario. Il suo controllore perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0049</id>
+    <name>Draghetto Virale</name>
+    <text>Volare 
+Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+{3}{U}: Proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0050</id>
+    <name>Giuntatrice di Ali</name>
+    <text>Quando la Giuntatrice di Ali entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura artefatto Golem 3/3 incolore. 
+Le creature Golem che controlli hanno volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0051</id>
+    <name>Xenotrapianto</name>
+    <text>Mentre lo Xenotrapianto entra nel campo di battaglia, scegli un tipo di creatura. 
+Ogni creatura che controlli ha il tipo scelto in aggiunta ai suoi altri tipi.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0052</id>
+    <name>Zelota Cieca</name>
+    <text>Intimidire (Questa creatura non può essere bloccata tranne che da creature artefatto e/o creature che condividono con essa un colore.) 
+Ogniqualvolta la Zelota Cieca infligge danno da combattimento a un giocatore, puoi sacrificarla. Se lo fai, distruggi una creatura bersaglio controllata da quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0053</id>
+    <name>Carezza di Phyrexia</name>
+    <text>Un giocatore bersaglio pesca tre carte, perde 3 punti vita e ottiene tre segnalini veleno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0054</id>
+    <name>Cancelliere del Dross</name>
+    <text>Puoi rivelare questa carta dalla tua mano iniziale. Se lo fai, all'inizio del primo mantenimento, ogni avversario perde 3 punti vita, poi tu guadagni punti vita pari ai punti vita persi in questo modo. 
+Volare, legame vitale</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0055</id>
+    <name>Pipistrello della Demenza</name>
+    <text>Volare 
+{4}{B}, Sacrifica il Pipistrello della Demenza: Un giocatore bersaglio scarta due carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0056</id>
+    <name>Disdegnare</name>
+    <text>Un avversario bersaglio rivela la sua mano. Scegli una carta creatura o planeswalker da quella mano. Quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0057</id>
+    <name>Smembrare</name>
+    <text>({BP} può essere pagato con {B} o con 2 punti vita.) 
+Una creatura bersaglio prende -5/-5 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0058</id>
+    <name>Schiavizzare</name>
+    <text>Incanta creatura 
+Controlli la creatura incantata. 
+All'inizio del tuo mantenimento, la creatura incantata infligge 1 danno al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0059</id>
+    <name>Esarca Seppellitore</name>
+    <text>Quando l'Esarca Seppellitore entra nel campo di battaglia, scegli uno - Riprendi in mano una carta creatura bersaglio dal tuo cimitero; oppure un avversario bersaglio rivela la sua mano, tu scegli una carta non creatura da quella mano, poi quel giocatore scarta quella carta.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0060</id>
+    <name>Presenza Malefica</name>
+    <text>Incanta terra 
+La terra incantata è una Palude.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0061</id>
+    <name>Verdetto di Geth</name>
+    <text>Un giocatore bersaglio sacrifica una creatura e perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0062</id>
+    <name>Olio Scintillante</name>
+    <text>Incanta creatura 
+La creatura incantata ha infettare. 
+All'inizio del tuo mantenimento, metti un segnalino -1/-1 sulla creatura incantata. 
+Quando l'Olio Scintillante viene messo in un cimitero dal campo di battaglia, fai tornare l'Olio Scintillante in mano al suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0063</id>
+    <name>Macabro Patimento</name>
+    <text>Metti un segnalino -1/-1 su una creatura bersaglio, poi proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0064</id>
+    <name>Esplosione d'Icore</name>
+    <text>Come costo addizionale per lanciare l'Esplosione d'Icore, sacrifica una creatura. 
+Tutte le creature prendono -X/-X fino alla fine del turno, dove X è la forza della creatura sacrificata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0065</id>
+    <name>Il Finale della Vita</name>
+    <text>Distruggi tutte le creature, poi passa in rassegna il grimorio di un avversario bersaglio per trovare fino a tre carte creatura e mettile nel suo cimitero. Poi quel giocatore rimescola il suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0066</id>
+    <name>Cani della Morte</name>
+    <text>Ogniqualvolta i Cani della Morte attaccano, prendono +2/+0 fino alla fine del turno. 
+Quando i Cani della Morte vengono messi in un cimitero dal campo di battaglia, un giocatore bersaglio perde punti vita pari alla loro forza.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0067</id>
+    <name>Trapianto Parassitario</name>
+    <text>Incanta creatura 
+All'inizio del tuo mantenimento, il controllore della creatura incantata la sacrifica e tu metti sul campo di battaglia una pedina creatura artefatto Myr 1/1 incolore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0068</id>
+    <name>Annientatore di Phyrexia</name>
+    <text>Travolgere 
+Ogniqualvolta una fonte infligge danno all'Annientatore di Phyrexia, il controllore della fonte sacrifica altrettanti permanenti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0069</id>
+    <name>Trapanatore del Nocciolo</name>
+    <text>({BP} può essere pagato con {B} o con 2 punti vita.) 
+Quando il Trapanatore del Nocciolo entra nel campo di battaglia, metti un segnalino -1/-1 su una creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0070</id>
+    <name>Assalto Postmortem</name>
+    <text>({BP} può essere pagato con {B} o con 2 punti vita.) 
+Rimetti sul campo di battaglia una carta creatura bersaglio con costo di mana convertito pari a X dal tuo cimitero. Ha rapidità. Esiliala all'inizio della prossima sottofase finale.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0071</id>
+    <name>Stretta del Pretore</name>
+    <text>Passa in rassegna il grimorio di un avversario bersaglio per una carta ed esiliala a faccia in giù. Poi quel giocatore rimescola il suo grimorio. Puoi guardare e giocare quella carta fintanto che rimane esiliata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0072</id>
+    <name>Mietitore di Sheoldred</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Ogniqualvolta una fonte infligge danno al Mietitore di Sheoldred, il controllore della fonte ottiene un segnalino veleno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0073</id>
+    <name>Sheoldred, La Bisbigliante</name>
+    <text>Passa-Paludi 
+All'inizio del tuo mantenimento, rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero. 
+All'inizio del mantenimento di ogni avversario, quel giocatore sacrifica una creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0074</id>
+    <name>Estrazione Chirurgica</name>
+    <text>({BP} può essere pagato con {B} o con 2 punti vita.) 
+Scegli una carta bersaglio in un cimitero diversa da una carta terra base. Passa in rassegna il cimitero, la mano e il grimorio del suo proprietario per un qualsiasi numero di carte con lo stesso nome di quella carta ed esiliale. Poi quel giocatore rimescola il suo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0075</id>
+    <name>Nim Tossico</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+{B}: Rigenera il Nim Tossico.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0076</id>
+    <name>Skirge della Cripta</name>
+    <text>({BP} può essere pagato con {B} o con 2 punti vita.) 
+Volare 
+Legame vitale (Il danno inflitto da questa creatura ti fa anche guadagnare altrettanti punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0077</id>
+    <name>Spettro Sussurrante</name>
+    <text>Volare 
+Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Ogniqualvolta lo Spettro Sussurrante infligge danno da combattimento a un giocatore, puoi sacrificarlo. Se lo fai, quel giocatore scarta una carta per ogni segnalino veleno che ha.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0078</id>
+    <name>Atto d'Aggressione</name>
+    <text>({RP} può essere pagato con {R} o con 2 punti vita.) 
+Prendi il controllo di una creatura bersaglio controllata da un avversario fino alla fine del turno. STAPpa quella creatura. Ha rapidità fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0079</id>
+    <name>Fucileria</name>
+    <text>Come costo addizionale per lanciare la Fucileria, sacrifica un artefatto o una creatura. 
+La Fucileria infligge 5 danni a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0080</id>
+    <name>Rissa a Randellate</name>
+    <text>Ogni artefatto non creatura, non Equipaggiamento è un Equipaggiamento con equipaggiare {X} e "La creatura equipaggiata prende +X/+0", dove X è il costo di mana convertito di quell'artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0081</id>
+    <name>Cancelliere della Forgia</name>
+    <text>Puoi rivelare questa carta dalla tua mano iniziale. Se lo fai, all'inizio del primo mantenimento, metti sul campo di battaglia una pedina creatura Goblin 1/1 rossa con rapidità. 
+Quando il Cancelliere della Forgia entra nel campo di battaglia, metti sul campo di battaglia X pedine creatura Goblin 1/1 rosse con rapidità, dove X è il numero di creature che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0082</id>
+    <name>Ferromante Caduto</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+{1}{R}, {T}: Il Ferromante Caduto infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0083</id>
+    <name>Viron delle Fiamme</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0084</id>
+    <name>Furfante della Fornace</name>
+    <text>Ogniqualvolta il Furfante della Fornace infligge danno da combattimento a un giocatore, puoi sacrificarlo. Se lo fai, il Furfante della Fornace infligge 3 danni a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0085</id>
+    <name>Geoflusso</name>
+    <text>Aggiungi {R}{R}{R}{R}{R}{R}{R} alla tua riserva di mana. Spendi questo mana solo per lanciare magie artefatto o creatura.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0086</id>
+    <name>Colpo di Budella</name>
+    <text>({RP} può essere pagato con {R} o con 2 punti vita.) 
+Il Colpo di Budella infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0087</id>
+    <name>Parassita Invasore</name>
+    <text>Imprimere - Quando il Parassita Invasore entra nel campo di battaglia, esilia una terra bersaglio. 
+Ogniqualvolta una terra con lo stesso nome della carta esiliata entra nel campo di battaglia sotto il controllo di un avversario, il Parassita Invasore infligge 2 danni a quel giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0088</id>
+    <name>Drago d'Acciaio Fuso</name>
+    <text>({RP} può essere pagato con {R} o con 2 punti vita.) 
+Volare 
+{RP}: Il Drago d'Acciaio Fuso prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0089</id>
+    <name>Ogre Servile</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+{R}: L'Ogre Servile prende +1/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0090</id>
+    <name>Sacerdotessa di Urabrask</name>
+    <text>Quando la Sacerdotessa di Urabrask entra nel campo di battaglia, aggiungi {R}{R}{R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0091</id>
+    <name>Estrattore di Rabbia</name>
+    <text>({RP} può essere pagato con {R} o con 2 punti vita.) 
+Ogniqualvolta lanci una magia con {P} nel costo di mana, l'Estrattore di Rabbia infligge danno a una creatura o a un giocatore bersaglio pari al costo di mana convertito di quella magia.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0092</id>
+    <name>Suino Tagliente</name>
+    <text>Attacco improvviso 
+Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0093</id>
+    <name>Invasione Inesorabile</name>
+    <text>({RP} può essere pagato con {R} o con 2 punti vita.) 
+Le creature non artefatto non possono bloccare in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0094</id>
+    <name>Salva di Autodistruzione</name>
+    <text>La Salva di Autodistruzione infligge danno a un giocatore bersaglio pari al numero di carte artefatto nel tuo cimitero.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0095</id>
+    <name>Immondo delle Scorie</name>
+    <text>La forza e la costituzione dell'Immondo delle Scorie sono pari al numero di carte artefatto in tutti i cimiteri.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0096</id>
+    <name>Pantera Sferza</name>
+    <text>({RP} può essere pagato con {R} o con 2 punti vita.) 
+Rapidità</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0097</id>
+    <name>Esarca Torturatore</name>
+    <text>Quando l'Esarca Torturatore entra nel campo di battaglia, scegli uno - Una creatura bersaglio prende +2/+0 fino alla fine del turno; oppure una creatura bersaglio prende -0/-2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0098</id>
+    <name>Urabrask il Nascosto</name>
+    <text>Le creature che controlli hanno rapidità. 
+Le creature controllate dai tuoi avversari entrano nel campo di battaglia TAPpate.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0099</id>
+    <name>Distruzione Vittoriosa</name>
+    <text>Distruggi un artefatto o una terra bersaglio. Il suo controllore perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0100</id>
+    <name>Scarica Voltaica</name>
+    <text>La Scarica Voltaica infligge 3 danni a una creatura o a un giocatore bersaglio. Proliferare. (Scegli un qualsiasi numero di permanenti e/o giocatori con segnalini su di essi, poi metti su ognuno un altro segnalino di un tipo già presente.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0101</id>
+    <name>Profugo Vulshok</name>
+    <text>Protezione dal rosso</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0102</id>
+    <name>Bagliore Sferzante</name>
+    <text>Il Bagliore Sferzante infligge 2 danni a ogni creatura non artefatto.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0103</id>
+    <name>Bestia Interiore</name>
+    <text>Distruggi un permanente bersaglio. Il suo controllore mette sul campo di battaglia una pedina creatura Bestia 3/3 verde.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0104</id>
+    <name>Capsula della Genesi</name>
+    <text>({GP} può essere pagato con {G} o con 2 punti vita.) 
+{1}{GP}, {T}, Sacrifica una creatura: Passa in rassegna il tuo grimorio per una carta creatura con costo di mana convertito pari a 1 più il costo di mana convertito della creatura sacrificata, metti sul campo di battaglia quella carta, poi rimescola il tuo grimorio. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0105</id>
+    <name>Esarca Seviziatore</name>
+    <text>Quando l'Esarca Seviziatore entra nel campo di battaglia, scegli uno - Passa in rassegna il tuo grimorio per una carta creatura, rivelala, poi rimescola il tuo grimorio e metti quella carta in cima; oppure metti un permanente non creatura bersaglio in fondo al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0106</id>
+    <name>Cancelliere del Groviglio</name>
+    <text>Puoi rivelare questa carta dalla tua mano iniziale. Se lo fai, all'inizio della tua prima fase principale, aggiungi {G} alla tua riserva di mana. 
+Cautela, raggiungere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0107</id>
+    <name>Vento Corrosivo</name>
+    <text>({GP} può essere pagato con {G} o con 2 punti vita.) 
+Il Vento Corrosivo infligge X danni a ogni creatura con volare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0108</id>
+    <name>Cobra Incappucciato</name>
+    <text>{1}{G}: Il Cobra Incappucciato ha raggiungere fino alla fine del turno. (Può bloccare le creature con volare.) 
+{1}{G}: Il Cobra Incappucciato ha tocco letale fino alla fine del turno. (Qualsiasi danno che questa creatura infligge a una creatura è sufficiente a distruggerla.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0109</id>
+    <name>Carne Fresca</name>
+    <text>Metti sul campo di battaglia una pedina creatura Bestia 3/3 verde per ogni creatura messa nel tuo cimitero dal campo di battaglia in questo turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0110</id>
+    <name>Disprezzo di Glissa</name>
+    <text>Distruggi un artefatto bersaglio. Il suo controllore perde 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0111</id>
+    <name>Elfa Scintillante</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0112</id>
+    <name>Apprendista Elsaverde</name>
+    <text>{T}: Una creatura bersaglio prende +4/+4 fino alla fine del turno. Attiva questa abilità solo se la forza dell'Apprendista Elsaverde è pari o superiore a 4.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0113</id>
+    <name>Morso da Sanguisuga</name>
+    <text>Una creatura bersaglio prende +1/+1 fino alla fine del turno. Un'altra creatura bersaglio prende -1/-1 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0114</id>
+    <name>Giuntatrice di Spaccaossa</name>
+    <text>Quando la Giuntatrice di Spaccaossa entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura artefatto Golem 3/3 incolori. 
+Le creature Golem che controlli hanno travolgere.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0115</id>
+    <name>Melira, Reietta Sylvok</name>
+    <text>Non puoi ottenere segnalini veleno. 
+Le creature che controlli non possono avere segnalini -1/-1. 
+Le creature controllate dai tuoi avversari perdono infettare.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0116</id>
+    <name>Crescita Mutagena</name>
+    <text>({GP} può essere pagato con {G} o con 2 punti vita.) 
+Una creatura bersaglio prende +2/+2 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0117</id>
+    <name>Immondo dei Micosinti</name>
+    <text>L'Immondo dei Micosinti prende +1/+1 per ogni segnalino veleno che hanno i tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0118</id>
+    <name>Rinascita Nociva</name>
+    <text>({GP} può essere pagato con {G} o con 2 punti vita.) 
+Metti una carta bersaglio da un cimitero in cima al grimorio del suo proprietario.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0119</id>
+    <name>Signore degli Sciami di Phyrexia</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+All'inizio del tuo mantenimento, metti sul campo di battaglia una pedina creatura Insetto 1/1 verde con infettare per ogni segnalino veleno che hanno i tuoi avversari.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0120</id>
+    <name>Istrice Putrefatto</name>
+    <text>
+    </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0121</id>
+    <name>Mordispina</name>
+    <text>Infettare (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.) 
+Puoi far assegnare dal Mordispina il suo danno da combattimento come se non fosse bloccato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0122</id>
+    <name>Tanadon Micidiale</name>
+    <text>({GP} può essere pagato con {G} o con 2 punti vita.) 
+Travolgere</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0123</id>
+    <name>Trionfo dell'Orda</name>
+    <text>Fino alla fine del turno, le creature che controlli prendono +1/+1 e hanno travolgere e infettare. (Le creature con infettare infliggono danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0124</id>
+    <name>Traditori Viridiani</name>
+    <text>I Traditori Viridiani hanno infettare fintanto che un avversario è avvelenato. (Questa creatura infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0125</id>
+    <name>Raccolto Viridiano</name>
+    <text>Incanta artefatto 
+Quando l'artefatto incantato viene messo in un cimitero, guadagni 6 punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0126</id>
+    <name>Giuntatore Vitale</name>
+    <text>Quando il Giuntatore Vitale entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura artefatto Golem 3/3 incolore. 
+{1}: Rigenera un Golem bersaglio che controlli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0127</id>
+    <name>Vorinclex, Voce della Fame</name>
+    <text>Travolgere 
+Ogniqualvolta TAPpi una terra per attingere mana, aggiungi un mana alla tua riserva di mana di qualsiasi tipo prodotto da quella terra. 
+Ogniqualvolta un avversario TAPpa una terra per attingere mana, quella terra non STAPpa durante il prossimo STAP del suo controllore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0128</id>
+    <name>Jor Kadeen, il Trionfatore</name>
+    <text>Attacco improvviso 
+Metallurgia - Le creature che controlli prendono +3/+0 fintanto che controlli tre o più artefatti.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0129</id>
+    <name>Myr delle Leghe</name>
+    <text>{T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0130</id>
+    <name>Sfondacranio</name>
+    <text>Arma vivente (Quando questo Equipaggiamento entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Microbo 0/0 nera, poi assegnalo ad essa.) 
+La creatura equipaggiata prende +4/+4 e ha cautela e legame vitale. 
+{3}: Fai tornare lo Sfondacranio in mano al suo proprietario. 
+Equipaggiare {5}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0131</id>
+    <name>Mangianime Accecante</name>
+    <text>{WP}, {T}: TAPpa una creatura bersaglio. ({WP} può essere pagato con {W} o con 2 punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0132</id>
+    <name>Sole Ingabbiato</name>
+    <text>Mentre il Sole Ingabbiato entra nel campo di battaglia, scegli un colore. 
+Le creature che controlli del colore scelto prendono +1/+1. 
+Ogniqualvolta un'abilità di una terra aggiunge uno o più mana del colore scelto alla tua riserva di mana, aggiungi un mana addizionale di quel colore alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0133</id>
+    <name>Stanza di Conversione</name>
+    <text>{2}, {T}: Esilia una carta artefatto bersaglio da un cimitero. Metti un segnalino carica sulla Stanza di Conversione. 
+{2}, {T}, Rimuovi un segnalino carica dalla Stanza di Conversione: Metti sul campo di battaglia una pedina creatura artefatto Golem 3/3 incolore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0134</id>
+    <name>Reliquia di Darksteel</name>
+    <text>La Reliquia di Darksteel è indistruttibile. (Gli effetti che dicono "distruggi" non la distruggono.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0135</id>
+    <name>Mostruosità Incisa</name>
+    <text>La Mostruosità Incisa entra nel campo di battaglia con cinque segnalini -1/-1. 
+{W}{U}{B}{R}{G}, Rimuovi cinque segnalini -1/-1 dalla Mostruosità Incisa: Un giocatore bersaglio pesca tre carte.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0136</id>
+    <name>Mina dei Gremlin</name>
+    <text>{1}, {T}, Sacrifica la Mina dei Gremlin: La Mina dei Gremlin infligge 4 danni a una creatura artefatto bersaglio. 
+{1}, {T}, Sacrifica la Mina dei Gremlin: Rimuovi fino a quattro segnalini carica da un artefatto non creatura bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0137</id>
+    <name>Parassita del Malocchio</name>
+    <text>{X}{BP}: Rimuovi fino a X segnalini da un permanente bersaglio. Per ogni segnalino rimosso in questo modo, il Parassita del Malocchio prende +1/+0 fino alla fine del turno. ({BP} può essere pagato con {B} o con 2 punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0138</id>
+    <name>Myr Volteggiante</name>
+    <text>Volare, cautela</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0139</id>
+    <name>Mangianime Immolatore</name>
+    <text>{RP}: Il Mangianime Immolatore prende +1/+0 fino alla fine del turno. ({RP} può essere pagato con {R} o con 2 punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0140</id>
+    <name>Mangianime Insaziabile</name>
+    <text>{GP}: Il Mangianime Insaziabile ha travolgere fino alla fine del turno. ({GP} può essere pagato con {G} o con 2 punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0141</id>
+    <name>Cella d'Isolamento</name>
+    <text>Ogniqualvolta un avversario lancia una magia creatura, quel giocatore perde 2 punti vita a meno che quel giocatore non paghi {2}.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0142</id>
+    <name>Errante della Fornace</name>
+    <text>Ogniqualvolta l'Errante della Fornace attacca, prende +3/+0 fino alla fine del turno.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0143</id>
+    <name>Contorcisferza</name>
+    <text>Arma vivente (Quando questo Equipaggiamento entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Microbo 0/0 nera, poi assegnalo ad essa.) 
+La creatura equipaggiata prende +1/+1 per ogni Palude che controlli. 
+Equipaggiare {BP}{BP} ({BP} può essere pagato con {B} o con 2 punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0144</id>
+    <name>Trivellamente</name>
+    <text>Ogniqualvolta un avversario perde punti vita, quel giocatore mette nel suo cimitero altrettante carte dalla cima del suo grimorio. (Il danno inflitto da fonti senza infettare provoca la perdita di punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0145</id>
+    <name>Sorgente di Micosinti</name>
+    <text>Quando la Sorgente di Micosinti entra nel campo di battaglia o viene messa in un cimitero dal campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta terra base, rivelarla e aggiungerla alla tua mano. Poi rimescola il tuo grimorio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0146</id>
+    <name>Myr Superion</name>
+    <text>Spendi solo mana prodotto da creature per lanciare il Myr Superion.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0147</id>
+    <name>Necroforo</name>
+    <text>Arma vivente (Quando questo Equipaggiamento entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Microbo 0/0 nera, poi assegnalo ad essa.) 
+La creatura equipaggiata prende +3/+1 e ha rapidità. 
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0148</id>
+    <name>Macchina dei Presagi</name>
+    <text>I giocatori non possono pescare carte. 
+All'inizio dell'acquisizione di ogni giocatore, quel giocatore esilia la prima carta del suo grimorio. Se è una carta terra, il giocatore la mette sul campo di battaglia. Altrimenti, il giocatore la lancia senza pagare il suo costo di mana, se può farlo.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0149</id>
+    <name>Mangianime Fatale</name>
+    <text>{BP}: Il Mangianime Fatale ha infettare fino alla fine del turno. ({BP} può essere pagato con {B} o con 2 punti vita. Una creatura con infettare infligge danno alle creature sotto forma di segnalini -1/-1 e ai giocatori sotto forma di segnalini veleno.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0150</id>
+    <name>Carcassa di Phyrexia</name>
+    <text> </text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0151</id>
+    <name>Talismano Integro</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. Guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0152</id>
+    <name>Santuario della Crescita Sconfinata</name>
+    <text>All'inizio del tuo mantenimento od ogniqualvolta lanci una magia verde, metti un segnalino carica sul Santuario della Crescita Sconfinata. 
+{T}, Sacrifica il Santuario della Crescita Sconfinata: Aggiungi {1} alla tua riserva di mana per ogni segnalino carica sul Santuario della Crescita Sconfinata.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0153</id>
+    <name>Santuario della Rabbia Ardente</name>
+    <text>All'inizio del tuo mantenimento od ogniqualvolta lanci una magia rossa, metti un segnalino carica sul Santuario della Rabbia Ardente. 
+{3}, {T}, Sacrifica il Santuario della Rabbia Ardente: Il Santuario della Rabbia Ardente infligge danno pari al numero di segnalini carica su di esso a una creatura o a un giocatore bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0154</id>
+    <name>Santuario del Potere Illimitato</name>
+    <text>All'inizio del tuo mantenimento od ogniqualvolta lanci una magia nera, metti un segnalino carica sul Santuario del Potere Illimitato. 
+{4}, {T}, Sacrifica il Santuario del Potere Illimitato: Un giocatore bersaglio scarta una carta per ogni segnalino carica sul Santuario del Potere Illimitato.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0155</id>
+    <name>Santuario delle Legioni Fedeli</name>
+    <text>All'inizio del tuo mantenimento od ogniqualvolta lanci una magia bianca, metti un segnalino carica sul Santuario delle Legioni Fedeli. 
+{3}, {T}, Sacrifica il Santuario delle Legioni Fedeli: Metti sul campo di battaglia una pedina creatura artefatto Myr 1/1 incolore per ogni segnalino carica sul Santuario delle Legioni Fedeli.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0156</id>
+    <name>Santuario della Visione Penetrante</name>
+    <text>All'inizio del tuo mantenimento od ogniqualvolta lanci una magia blu, metti un segnalino carica sul Santuario della Visione Penetrante. 
+{T}, Sacrifica il Santuario della Visione Penetrante: Guarda le prime X carte del tuo grimorio, dove X è il numero di segnalini carica sul Santuario della Visione Penetrante.  Aggiungi alla tua mano una di quelle carte e metti le altre in fondo al tuo grimorio in qualsiasi ordine.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0157</id>
+    <name>Sfalcettatore</name>
+    <text>Arma vivente (Quando questo Equipaggiamento entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Microbo 0/0 nera, poi assegnalo ad essa.) 
+La creatura equipaggiata prende +2/+2. 
+Equipaggiare {4}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0158</id>
+    <name>Condotto delle Anime</name>
+    <text>{6}, {T}: Due giocatori bersaglio si scambiano i punti vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0159</id>
+    <name>Spregiamagie</name>
+    <text>{UP}: Cambia un bersaglio di una magia o abilità bersaglio con lo Spregiamagie. ({UP} può essere pagato con {U} o con 2 punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0160</id>
+    <name>Nodo degli Impulsi</name>
+    <text>Il Nodo degli Impulsi entra nel campo di battaglia con sei segnalini carica. 
+{1}, {T}, Rimuovi un segnalino carica dal Nodo degli Impulsi: Metti un segnalino carica su un artefatto bersaglio.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0161</id>
+    <name>Spada di Guerra e Pace</name>
+    <text>La creatura equipaggiata prende +2/+2 e ha protezione dal rosso e dal bianco. 
+Ogniqualvolta la creatura equipaggiata infligge danno da combattimento a un giocatore, la Spada di Guerra e Pace infligge danno a quel giocatore pari al numero di carte che ha in mano e tu guadagni 1 punto vita per ogni carta che hai in mano. 
+Equipaggiare {2}</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0162</id>
+    <name>Globo del Torpore</name>
+    <text>Le creature che entrano nel campo di battaglia non fanno innescare le abilità.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0163</id>
+    <name>Mangianime Intruso</name>
+    <text>{UP}: Il Mangianime Intruso non può essere bloccato in questo turno. ({UP} può essere pagato con {U} o con 2 punti vita.)</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0164</id>
+    <name>Orologio a Scarica</name>
+    <text>STAPpa tutti gli artefatti che controlli durante lo STAP di ogni altro giocatore.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0165</id>
+    <name>Nucleo di Phyrexia</name>
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}, {T}, Sacrifica un artefatto: Guadagni 1 punto vita.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0166</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0167</id>
+    <name>Pianura</name>
+    <text>{T}: Aggiungi {W} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0168</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0169</id>
+    <name>Isola</name>
+    <text>{T}: Aggiungi {U} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0170</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0171</id>
+    <name>Palude</name>
+    <text>{T}: Aggiungi {B} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0172</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0173</id>
+    <name>Montagna</name>
+    <text>{T}: Aggiungi {R} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0174</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+  <item>
+    <id>NPH0175</id>
+    <name>Foresta</name>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana.</text>
+    <flavorText>
+    </flavorText>
+  </item>
+</cards>

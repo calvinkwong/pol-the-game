@@ -2,7 +2,7 @@
   <item>
     <id>CLD0001</id>
     <name>Valchiria dell'Adarkar</name>
-    <text>Volare, cautela
+    <text>Volare, cautela 
 {T}: Quando una creatura bersaglio diversa dalla Valchiria dell'Adarkar viene messa in un cimitero in questo turno, rimetti quella carta nel campo di battaglia sotto il tuo controllo.</text>
     <flavorText>
     </flavorText>
@@ -10,7 +10,7 @@
   <item>
     <id>CLD0002</id>
     <name>Grifone di Borealia</name>
-    <text>Volare
+    <text>Volare 
 {S}: Il Grifone di Borealia guadagna attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -18,9 +18,9 @@
   <item>
     <id>CLD0003</id>
     <name>Favore dell'Inverno</name>
-    <text>Mantenimento cumulativo {S}  ({S} può essere pagato con un mana da un permanente neve.)
-Se una creatura sta per infliggere danno da combattimento a te e/o a una o più creature che controlli, previeni X di quei danni, dove X è pari al numero di segnalini epoca presenti sul Favore dell'Inverno.
-{S}: Metti un segnalino epoca sul Favore dell'Inverno.</text>
+    <text>Mantenimento cumulativo {S}  ({S} può essere pagato con un mana da un permanente neve.) 
+Se una creatura sta per infliggere danno da combattimento a te e/o a una o più creature che controlli, previeni X di quei danni, dove X è pari al numero di segnalini epoca presenti sul Favore dell'Inverno. 
+{S}: Metti un segnalino epoca sul Favore dell'Inverno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -34,15 +34,15 @@ Se una creatura sta per infliggere danno da combattimento a te e/o a una o più 
   <item>
     <id>CLD0005</id>
     <name>Maresciallo di Campo</name>
-    <text>Le altre creature Soldato prendono +1/+1 e hanno attacco improvviso. (Infliggono danno da combattimento prima delle creature senza attacco improvviso.)</text>
+    <text>Le altre creature Soldato prendono +1/+1 e hanno attacco improvviso. (Infliggono danno da combattimento prima delle creature senza attacco improvviso.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0006</id>
     <name>Catene Gelide</name>
-    <text>Incanta creatura
-La creatura incantata non può bloccare e le sue abilità attivate non possono essere attivate.
+    <text>Incanta creatura 
+La creatura incantata non può bloccare e le sue abilità attivate non possono essere attivate. 
 {S}: La creatura incantata guadagna difensore fino alla fine del turno.  ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -50,8 +50,8 @@ La creatura incantata non può bloccare e le sue abilità attivate non possono e
   <item>
     <id>CLD0007</id>
     <name>Rivestimento di Ghiaccio</name>
-    <text>Incanta creatura
-Mantenimento cumulativo {S} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso. {S} può essere pagato con un mana da un permanente neve.) 
+    <text>Incanta creatura 
+Mantenimento cumulativo {S} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso. {S} può essere pagato con un mana da un permanente neve.)  
 La creatura incantata prende +3/+3 per ogni segnalino epoca presente sul Rivestimento di Ghiaccio.</text>
     <flavorText>
     </flavorText>
@@ -66,7 +66,7 @@ La creatura incantata prende +3/+3 per ogni segnalino epoca presente sul Rivesti
   <item>
     <id>CLD0009</id>
     <name>Guardiano dei Gufi Jötun</name>
-    <text>Mantenimento cumulativo {W} o {U} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)
+    <text>Mantenimento cumulativo {W} o {U} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) 
 Quando il Guardiano dei Gufi Jötun viene messo in un cimitero dal campo di battaglia, metti sul campo di battaglia una pedina creatura Uccello 1/1 bianca con volare per ogni segnalino epoca su di esso.</text>
     <flavorText>
     </flavorText>
@@ -74,8 +74,8 @@ Quando il Guardiano dei Gufi Jötun viene messo in un cimitero dal campo di batt
   <item>
     <id>CLD0010</id>
     <name>Gargoyle di Kjeldor</name>
-    <text>Volare
-Attacco improvviso
+    <text>Volare 
+Attacco improvviso 
 Ogniqualvolta il Gargoyle di Kjeldor infligge danno, tu guadagni altrettanti punti vita.</text>
     <flavorText>
     </flavorText>
@@ -83,7 +83,7 @@ Ogniqualvolta il Gargoyle di Kjeldor infligge danno, tu guadagni altrettanti pun
   <item>
     <id>CLD0011</id>
     <name>Giavellottiera di Kjeldor</name>
-    <text>Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)
+    <text>Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) 
 {T}: La Giavellottiera di Kjeldor infligge un danno pari al numero di segnalini epoca presenti sulla Giavellottiera di Kjeldor a una creatura bersaglio che sta attaccando o che sta bloccando.</text>
     <flavorText>
     </flavorText>
@@ -126,7 +126,7 @@ Ogniqualvolta il Gargoyle di Kjeldor infligge danno, tu guadagni altrettanti pun
   <item>
     <id>CLD0017</id>
     <name>Solcaburrasca</name>
-    <text>Volare
+    <text>Volare 
 {W}, {T}: TAPpa una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -134,7 +134,7 @@ Ogniqualvolta il Gargoyle di Kjeldor infligge danno, tu guadagni altrettanti pun
   <item>
     <id>CLD0018</id>
     <name>Bottino del Sole</name>
-    <text>Guadagni 4 punti vita.
+    <text>Guadagni 4 punti vita. 
 Recupero {1}{W}</text>
     <flavorText>
     </flavorText>
@@ -142,7 +142,7 @@ Recupero {1}{W}</text>
   <item>
     <id>CLD0019</id>
     <name>Devastazione Solare</name>
-    <text>Puoi esiliare due carte bianche dalla tua mano anziché pagare il costo di mana della Devastazione Solare.
+    <text>Puoi esiliare due carte bianche dalla tua mano anziché pagare il costo di mana della Devastazione Solare. 
 Distruggi tutte le creature.</text>
     <flavorText>
     </flavorText>
@@ -150,7 +150,7 @@ Distruggi tutte le creature.</text>
   <item>
     <id>CLD0020</id>
     <name>Impeto delle Sentinelle</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Propagazione 4 (Quando lanci questa magia, puoi rivelare le prime quattro carte del tuo grimorio. Puoi lanciare ogni carta rivelata che abbia lo stesso nome di questa magia senza pagare il suo costo di mana. Metti le rimanenti in fondo al tuo grimorio.)</text>
     <flavorText>
     </flavorText>
@@ -158,7 +158,7 @@ Propagazione 4 (Quando lanci questa magia, puoi rivelare le prime quattro carte 
   <item>
     <id>CLD0021</id>
     <name>Manovra Repentina</name>
-    <text>Previeni i prossimi 2 danni che verrebbero inflitti alla creatura o al giocatore bersaglio in questo turno.
+    <text>Previeni i prossimi 2 danni che verrebbero inflitti alla creatura o al giocatore bersaglio in questo turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -166,8 +166,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>CLD0022</id>
     <name>Fylgia Irsuto</name>
-    <text>Il Fylgia Irsuto entra nel campo di battaglia con quattro segnalini cura.
-Rimuovi un segnalino cura dal Fylgia Irsuto: Previeni il prossimo punto danno che verrebbe inflitto al Fylgia Irsuto in questo turno.
+    <text>Il Fylgia Irsuto entra nel campo di battaglia con quattro segnalini cura. 
+Rimuovi un segnalino cura dal Fylgia Irsuto: Previeni il prossimo punto danno che verrebbe inflitto al Fylgia Irsuto in questo turno. 
 {2}{W}: Metti un segnalino cura sul Fylgia Irsuto.</text>
     <flavorText>
     </flavorText>
@@ -175,7 +175,7 @@ Rimuovi un segnalino cura dal Fylgia Irsuto: Previeni il prossimo punto danno ch
   <item>
     <id>CLD0023</id>
     <name>Muro di Frammenti</name>
-    <text>Difensore, volare
+    <text>Difensore, volare 
 Mantenimento cumulativo-Un avversario guadagna 1 punto vita.  (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)</text>
     <flavorText>
     </flavorText>
@@ -183,8 +183,8 @@ Mantenimento cumulativo-Un avversario guadagna 1 punto vita.  (All'inizio del tu
   <item>
     <id>CLD0024</id>
     <name>Crociato Scudo Bianco</name>
-    <text>Protezione dal nero
-{W}: Il Crociato Scudo Bianco guadagna volare fino alla fine del turno.
+    <text>Protezione dal nero 
+{W}: Il Crociato Scudo Bianco guadagna volare fino alla fine del turno. 
 {W}{W}: Il Crociato Scudo Bianco prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -192,8 +192,8 @@ Mantenimento cumulativo-Un avversario guadagna 1 punto vita.  (All'inizio del tu
   <item>
     <id>CLD0025</id>
     <name>Dorso-di-Rasoio Lanoso</name>
-    <text>Il Dorso-di-Rasoio Lanoso entra nel campo di battaglia con tre segnalini ghiaccio.
-Fintanto che il Dorso-di-Rasoio Lanoso ha almeno un segnalino ghiaccio, ha difensore e ogni danno da combattimento che infliggerebbe viene prevenuto.
+    <text>Il Dorso-di-Rasoio Lanoso entra nel campo di battaglia con tre segnalini ghiaccio. 
+Fintanto che il Dorso-di-Rasoio Lanoso ha almeno un segnalino ghiaccio, ha difensore e ogni danno da combattimento che infliggerebbe viene prevenuto. 
 Ogniqualvolta il Dorso-di-Rasoio Lanoso blocca, rimuovi un segnalino ghiaccio da esso.</text>
     <flavorText>
     </flavorText>
@@ -201,7 +201,7 @@ Ogniqualvolta il Dorso-di-Rasoio Lanoso blocca, rimuovi un segnalino ghiaccio da
   <item>
     <id>CLD0026</id>
     <name>Ventiforme dell'Adarkar</name>
-    <text>Volare
+    <text>Volare 
 {1}{S}: La creatura bersaglio perde volare fino alla fine del turno. ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -223,7 +223,7 @@ Ogniqualvolta il Dorso-di-Rasoio Lanoso blocca, rimuovi un segnalino ghiaccio da
   <item>
     <id>CLD0029</id>
     <name>Requisire</name>
-    <text>Puoi esiliare due carte blu presenti nella tua mano invece di pagare il costo di mana di Requisire.
+    <text>Puoi esiliare due carte blu presenti nella tua mano invece di pagare il costo di mana di Requisire. 
 Prendi il controllo di una magia non creatura bersaglio. Puoi scegliere nuovi bersagli per essa.  (Se quella magia è artefatto, incantesimo, o viandante, il permanente entra nel campo di battaglia sotto il tuo controllo.)</text>
     <flavorText>
     </flavorText>
@@ -231,8 +231,8 @@ Prendi il controllo di una magia non creatura bersaglio. Puoi scegliere nuovi be
   <item>
     <id>CLD0030</id>
     <name>Confutare</name>
-    <text>Neutralizza la magia bersaglio.
-Recupero {2}{U}{U}</text>
+    <text>Neutralizza la magia bersaglio. 
+Recupero {2}{U}{U} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -253,14 +253,14 @@ Recupero {2}{U}{U}</text>
   <item>
     <id>CLD0033</id>
     <name>Gelolampo</name>
-    <text>Neutralizza la magia rossa o verde bersaglio.</text>
+    <text>Neutralizza la magia rossa o verde bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0034</id>
     <name>Rapace del Gelo</name>
-    <text>Volare
+    <text>Volare 
 {S}{S}: Il Rapace del Gelo guadagna velo fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -268,8 +268,8 @@ Recupero {2}{U}{U}</text>
   <item>
     <id>CLD0035</id>
     <name>Congelato</name>
-    <text>Incanta creatura
-La creatura incantata non STAPpa durante lo STAP del proprio controllore.
+    <text>Incanta creatura 
+La creatura incantata non STAPpa durante lo STAP del proprio controllore. 
 Quando viene inflitto danno alla creatura incantata, distruggila.</text>
     <flavorText>
     </flavorText>
@@ -284,10 +284,10 @@ Quando viene inflitto danno alla creatura incantata, distruggila.</text>
   <item>
     <id>CLD0037</id>
     <name>Jokulmorder</name>
-    <text>Travolgere
-Il Jokulmorder entra nel campo di battaglia TAPpato.
-Quando il Jokulmorder entra nel campo di battaglia, sacrificalo a meno che tu sacrifichi cinque terre.
-Il Jokulmorder non STAPpa durante il tuo STAP.
+    <text>Travolgere 
+Il Jokulmorder entra nel campo di battaglia TAPpato. 
+Quando il Jokulmorder entra nel campo di battaglia, sacrificalo a meno che tu sacrifichi cinque terre. 
+Il Jokulmorder non STAPpa durante il tuo STAP. 
 Ogniqualvolta giochi un'Isola, puoi STAPpare il Jokulmorder.</text>
     <flavorText>
     </flavorText>
@@ -295,7 +295,7 @@ Ogniqualvolta giochi un'Isola, puoi STAPpare il Jokulmorder.</text>
   <item>
     <id>CLD0038</id>
     <name>Foschia di Krov</name>
-    <text>Volare
+    <text>Volare 
 La forza e la costituzione della Foschia di Krov sono ciascuna pari al numero di Illusioni sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -303,9 +303,9 @@ La forza e la costituzione della Foschia di Krov sono ciascuna pari al numero di
   <item>
     <id>CLD0039</id>
     <name>Sussurri di Krov</name>
-    <text>Incanta creatura
-Mantenimento cumulativo {U} o {B}
-Tu controlli la creatura incantata.
+    <text>Incanta creatura 
+Mantenimento cumulativo {U} o {B} 
+Tu controlli la creatura incantata. 
 Quando i Sussurri di Krov vengono messi in un cimitero dal campo di battaglia, perdi 2 punti vita per ogni segnalino epoca su di essi.</text>
     <flavorText>
     </flavorText>
@@ -327,9 +327,9 @@ Quando i Sussurri di Krov vengono messi in un cimitero dal campo di battaglia, p
   <item>
     <id>CLD0042</id>
     <name>Gufo Gelopiuma</name>
-    <text>Volare
-La forza e la costituzione del Gufo Gelopiuma sono pari ciascuna al numero di permanenti neve sul campo di battaglia.
-{1}{S}: Metti un segnalino ghiaccio su un permanente bersaglio.
+    <text>Volare 
+La forza e la costituzione del Gufo Gelopiuma sono pari ciascuna al numero di permanenti neve sul campo di battaglia. 
+{1}{S}: Metti un segnalino ghiaccio su un permanente bersaglio. 
 I permanenti con segnalini ghiaccio sono permanenti neve.</text>
     <flavorText>
     </flavorText>
@@ -351,7 +351,7 @@ I permanenti con segnalini ghiaccio sono permanenti neve.</text>
   <item>
     <id>CLD0045</id>
     <name>Serpente di Ronom</name>
-    <text>Il Serpente di Ronom non può attaccare a meno che il giocatore in difesa controlli una terra neve.
+    <text>Il Serpente di Ronom non può attaccare a meno che il giocatore in difesa controlli una terra neve. 
 Quando non controlli terre neve, sacrifica il Serpente di Ronom.</text>
     <flavorText>
     </flavorText>
@@ -365,16 +365,16 @@ Quando non controlli terre neve, sacrifica il Serpente di Ronom.</text>
   </item>
   <item>
     <id>CLD0047</id>
-    <name>Impeto d'Etere</name>
-    <text>Propagazione 4 (Quando lanci questa magia, puoi rivelare le prime quattro carte del tuo grimorio. Puoi lanciare ogni carta rivelata che abbia lo stesso nome di questa magia senza pagare il suo costo di mana. Metti le rimanenti in fondo al tuo grimorio.)
-Il proprietario riprende in mano il permanente bersaglio.</text>
+    <name>Surging Æther</name>
+    <text>Ripple 4 (When you cast this spell, you may reveal the top four cards of your library. You may cast any revealed cards with the same name as this spell without paying their mana costs. Put the rest on the bottom of your library.)
+Return target permanent to its owner's hand.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0048</id>
     <name>Sopravvissuta dell'Invisibile</name>
-    <text>Mantenimento cumulativo {2} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)
+    <text>Mantenimento cumulativo {2} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) 
 {T}: Pesca due carte, poi metti una carta dalla tua mano in cima al tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -382,7 +382,7 @@ Il proprietario riprende in mano il permanente bersaglio.</text>
   <item>
     <id>CLD0049</id>
     <name>Flusso Termico</name>
-    <text>Scegli una - Il permanente non neve bersaglio diventa un permanente neve fino alla fine del turno; oppure il permanente neve bersaglio diventa non neve fino alla fine del turno.
+    <text>Scegli una - Il permanente non neve bersaglio diventa un permanente neve fino alla fine del turno; oppure il permanente neve bersaglio diventa non neve fino alla fine del turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -390,8 +390,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>CLD0050</id>
     <name>Sfinge Vessatrice</name>
-    <text>Volare
-Mantenimento cumulativo-Scarta una carta. (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)
+    <text>Volare 
+Mantenimento cumulativo-Scarta una carta. (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) 
 Quando la Sfinge Vessatrice viene messa in un cimitero dal campo di battaglia, pesca una carta per ogni segnalino epoca presente su di essa.</text>
     <flavorText>
     </flavorText>
@@ -399,8 +399,8 @@ Quando la Sfinge Vessatrice viene messa in un cimitero dal campo di battaglia, p
   <item>
     <id>CLD0051</id>
     <name>Caduto di Balduvia</name>
-    <text>Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)
-Ogniqualvolta viene pagato il mantenimento cumulativo del Caduto di Balduvia, esso prende +1/+0 fino alla fine del turno per ogni {B} o {R} pagato in questo modo.</text>
+    <text>Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) 
+Ogniqualvolta viene pagato il mantenimento cumulativo del Caduto di Balduvia, esso prende +1/+0 fino alla fine del turno per ogni {B} o {R} pagato in questo modo. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -414,7 +414,7 @@ Ogniqualvolta viene pagato il mantenimento cumulativo del Caduto di Balduvia, es
   <item>
     <id>CLD0053</id>
     <name>Bruma Raggelante</name>
-    <text>Volare
+    <text>Volare 
 {S}: La Bruma Raggelante prende +1/+1 fino alla fine del turno. ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -422,14 +422,14 @@ Ogniqualvolta viene pagato il mantenimento cumulativo del Caduto di Balduvia, es
   <item>
     <id>CLD0054</id>
     <name>Marchiare a Morte</name>
-    <text>Distruggi una creatura verde o bianca bersaglio.</text>
+    <text>Distruggi una creatura verde o bianca bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0055</id>
     <name>Discepolo di Tevesh Szat</name>
-    <text>{T}: La creatura bersaglio prende -1/-1 fino alla fine del turno.
+    <text>{T}: La creatura bersaglio prende -1/-1 fino alla fine del turno. 
 {4}{B}{B}, {T}, Sacrifica il Discepolo di Tevesh Szat: La creatura bersaglio prende -6/-6 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -444,7 +444,7 @@ Ogniqualvolta viene pagato il mantenimento cumulativo del Caduto di Balduvia, es
   <item>
     <id>CLD0057</id>
     <name>Assassino di Garza</name>
-    <text>Sacrifica l'Assassino di Garza: Distruggi una creatura non nera bersaglio.
+    <text>Sacrifica l'Assassino di Garza: Distruggi una creatura non nera bersaglio. 
 Recupero--Paga metà dei tuoi punti vita, arrotondati per eccesso.</text>
     <flavorText>
     </flavorText>
@@ -452,8 +452,8 @@ Recupero--Paga metà dei tuoi punti vita, arrotondati per eccesso.</text>
   <item>
     <id>CLD0058</id>
     <name>Macabro Raccolto</name>
-    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero.
-Recupero {2}{B}</text>
+    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero. 
+Recupero {2}{B} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -474,8 +474,8 @@ Recupero {2}{B}</text>
   <item>
     <id>CLD0061</id>
     <name>Haakon, Flagello di Stromgald</name>
-    <text>Puoi lanciare Haakon, Flagello di Stromgald dal tuo cimitero, ma non da qualsiasi altra zona.
-Fintanto che Haakon è sul campo di battaglia, puoi lanciare carte Cavaliere dal tuo cimitero.
+    <text>Puoi lanciare Haakon, Flagello di Stromgald dal tuo cimitero, ma non da qualsiasi altra zona. 
+Fintanto che Haakon è sul campo di battaglia, puoi lanciare carte Cavaliere dal tuo cimitero. 
 Quando Haakon viene messo in un cimitero dal campo di battaglia, perdi 2 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -483,9 +483,9 @@ Quando Haakon viene messo in un cimitero dal campo di battaglia, perdi 2 punti v
   <item>
     <id>CLD0062</id>
     <name>Araldo di Leshrac</name>
-    <text>Volare
-Mantenimento cumulativo-Prendi il controllo di una terra che non controlli.
-L'Araldo di Leshrac prende +1/+1 per ogni terra che controlli ma non possiedi.
+    <text>Volare 
+Mantenimento cumulativo-Prendi il controllo di una terra che non controlli. 
+L'Araldo di Leshrac prende +1/+1 per ogni terra che controlli ma non possiedi. 
 Quando l'Araldo di Leshrac lascia il campo di battaglia, ogni giocatore prende il controllo di ogni terra che possiede e che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -493,8 +493,8 @@ Quando l'Araldo di Leshrac lascia il campo di battaglia, ogni giocatore prende i
   <item>
     <id>CLD0063</id>
     <name>Cancrena di Krov</name>
-    <text>Distruggi la creatura bersaglio con forza pari o inferiore a 2.
-Recupero {1}{B}{B}</text>
+    <text>Distruggi la creatura bersaglio con forza pari o inferiore a 2. 
+Recupero {1}{B}{B} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -516,7 +516,7 @@ Recupero {1}{B}{B}</text>
   <item>
     <id>CLD0066</id>
     <name>Fantasma Fobifero</name>
-    <text>Volare, paura
+    <text>Volare, paura 
 Mantenimento cumulativo {B}  (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)</text>
     <flavorText>
     </flavorText>
@@ -524,8 +524,8 @@ Mantenimento cumulativo {B}  (All'inizio del tuo mantenimento, metti un segnalin
   <item>
     <id>CLD0067</id>
     <name>Incisioni di Phyrexia</name>
-    <text>Mantenimento cumulativo {B} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)
-All'inizio della tua sottofase finale, pesca una carta per ogni segnalino epoca presente sulle Incisioni di Phyrexia.
+    <text>Mantenimento cumulativo {B} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) 
+All'inizio della tua sottofase finale, pesca una carta per ogni segnalino epoca presente sulle Incisioni di Phyrexia. 
 Quando le Incisioni di Phyrexia vengono messe in un cimitero dal campo di battaglia, perdi 2 punti vita per ogni segnalino epoca su di esse.</text>
     <flavorText>
     </flavorText>
@@ -533,7 +533,7 @@ Quando le Incisioni di Phyrexia vengono messe in un cimitero dal campo di battag
   <item>
     <id>CLD0068</id>
     <name>Trafusione di Gelo</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +2/+1 e ha "{S}: Questa creatura non può essere bloccata in questo turno tranne che dalle creature neve." ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -548,7 +548,7 @@ La creatura incantata prende +2/+1 e ha "{S}: Questa creatura non può essere bl
   <item>
     <id>CLD0070</id>
     <name>Inchioda Anima</name>
-    <text>Puoi esiliare due carte nere dalla tua mano anziché pagare il costo di mana dell'Inchioda Anima.
+    <text>Puoi esiliare due carte nere dalla tua mano anziché pagare il costo di mana dell'Inchioda Anima. 
 L'Inchioda Anima infligge 4 danni a una creatura o a un giocatore bersaglio e tu guadagni 4 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -556,8 +556,8 @@ L'Inchioda Anima infligge 4 danni a una creatura o a un giocatore bersaglio e tu
   <item>
     <id>CLD0071</id>
     <name>Crociato di Stromgald</name>
-    <text>Protezione dal bianco
-{B}: Il Crociato di Stromgald guadagna volare fino alla fine del turno.
+    <text>Protezione dal bianco 
+{B}: Il Crociato di Stromgald guadagna volare fino alla fine del turno. 
 {B}{B}: Il Crociato di Stromgald prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -565,7 +565,7 @@ L'Inchioda Anima infligge 4 danni a una creatura o a un giocatore bersaglio e tu
   <item>
     <id>CLD0072</id>
     <name>Impeto di Demenza</name>
-    <text>Propagazione 4 (Quando lanci questa magia, puoi rivelare le prime quattro carte del tuo grimorio. Puoi lanciare ogni carta rivelata che abbia lo stesso nome di questa magia senza pagare il suo costo di mana. Metti le rimanenti in fondo al tuo grimorio.)
+    <text>Propagazione 4 (Quando lanci questa magia, puoi rivelare le prime quattro carte del tuo grimorio. Puoi lanciare ogni carta rivelata che abbia lo stesso nome di questa magia senza pagare il suo costo di mana. Metti le rimanenti in fondo al tuo grimorio.) 
 Il giocatore bersaglio scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -573,7 +573,7 @@ Il giocatore bersaglio scarta una carta.</text>
   <item>
     <id>CLD0073</id>
     <name>Cavalcacieli di Tresserhorn</name>
-    <text>Volare
+    <text>Volare 
 Previeni tutto il danno che verrebbe inflitto al Cavalcacieli di Tresserhorn da creature con attacco improvviso.</text>
     <flavorText>
     </flavorText>
@@ -581,8 +581,8 @@ Previeni tutto il danno che verrebbe inflitto al Cavalcacieli di Tresserhorn da 
   <item>
     <id>CLD0074</id>
     <name>Nulligozzo</name>
-    <text>Travolgere
-Se un'altra creatura sta per essere messa in un cimitero dal campo di battaglia, invece esiliala.
+    <text>Travolgere 
+Se un'altra creatura sta per essere messa in un cimitero dal campo di battaglia, invece esiliala. 
 Metti nel cimitero del suo proprietario una carta esiliata con il Nulligozzo: Il Nulligozzo prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -590,7 +590,7 @@ Metti nel cimitero del suo proprietario una carta esiliata con il Nulligozzo: Il
   <item>
     <id>CLD0075</id>
     <name>Zombie su Slitta</name>
-    <text>Passa-terre neve
+    <text>Passa-terre neve 
 {S}: Rigenera lo Zombie su Slitta.  ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -598,8 +598,8 @@ Metti nel cimitero del suo proprietario una carta esiliata con il Nulligozzo: Il
   <item>
     <id>CLD0076</id>
     <name>Ira di Balduvia</name>
-    <text>La creatura attaccante bersaglio prende +X/+0 fino alla fine del turno.
-Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
+    <text>La creatura attaccante bersaglio prende +X/+0 fino alla fine del turno. 
+Pesca una carta all'inizio del mantenimento del prossimo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -613,22 +613,22 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>CLD0078</id>
     <name>Nastro di Fuoco</name>
-    <text>Mantenimento cumulativo-Aggiungi {R} alla tua riserva di mana.  (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)</text>
+    <text>Mantenimento cumulativo-Aggiungi {R} alla tua riserva di mana.  (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0079</id>
     <name>Crioclasma</name>
-    <text>Distruggi una Pianura o un'Isola bersaglio. Il Crioclasma infligge 3 danni al controllore di quella terra.</text>
+    <text>Distruggi una Pianura o un'Isola bersaglio. Il Crioclasma infligge 3 danni al controllore di quella terra. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0080</id>
     <name>Terraccio</name>
-    <text>Travolgere
-Mantenimento cumulativo {R} o {G} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)
+    <text>Travolgere 
+Mantenimento cumulativo {R} o {G} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) 
 Il Terraccio prende +1/+1 per ogni segnalino epoca su di esso.</text>
     <flavorText>
     </flavorText>
@@ -636,7 +636,7 @@ Il Terraccio prende +1/+1 per ogni segnalino epoca su di esso.</text>
   <item>
     <id>CLD0081</id>
     <name>Furia dell'Orda</name>
-    <text>Puoi esiliare due carte rosse dalla tua mano invece di pagare il costo di mana della Furia dell'Orda.
+    <text>Puoi esiliare due carte rosse dalla tua mano invece di pagare il costo di mana della Furia dell'Orda. 
 STAPpa tutte le creature che hanno attaccato in questo turno. Dopo questa fase principale, c'è una fase di combattimento aggiuntiva seguita da una fase principale aggiuntiva.</text>
     <flavorText>
     </flavorText>
@@ -651,7 +651,7 @@ STAPpa tutte le creature che hanno attaccato in questo turno. Dopo questa fase p
   <item>
     <id>CLD0083</id>
     <name>Scorrigelo Goblin</name>
-    <text>{T}: La creatura bersaglio non può bloccare in questo turno.
+    <text>{T}: La creatura bersaglio non può bloccare in questo turno. 
 {S}: Lo Scorrigelo Goblin guadagna rapidità fino alla fine del turno. ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -659,7 +659,7 @@ STAPpa tutte le creature che hanno attaccato in questo turno. Dopo questa fase p
   <item>
     <id>CLD0084</id>
     <name>Spirito della Pietra Superiore</name>
-    <text>Lo Spirito della Pietra Superiore non può essere bloccato da creature con volare.
+    <text>Lo Spirito della Pietra Superiore non può essere bloccato da creature con volare. 
 {2}{R}: Fino alla fine del turno, la creatura bersaglio prende +0/+2 e guadagna "{R}: Questa creatura prende +1/+0 fino alla fine del turno."</text>
     <flavorText>
     </flavorText>
@@ -667,7 +667,7 @@ STAPpa tutte le creature che hanno attaccato in questo turno. Dopo questa fase p
   <item>
     <id>CLD0085</id>
     <name>Cascaghiaccio</name>
-    <text>Distruggi un artefatto o una terra bersaglio.
+    <text>Distruggi un artefatto o una terra bersaglio. 
 Recupero {R}{R} (Quando una creatura viene messa nel tuo cimitero dal campo di battaglia, puoi pagare {R}{R}. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, esilia questa carta.)</text>
     <flavorText>
     </flavorText>
@@ -675,9 +675,9 @@ Recupero {R}{R} (Quando una creatura viene messa nel tuo cimitero dal campo di b
   <item>
     <id>CLD0086</id>
     <name>Minotauro di Karplusan</name>
-    <text>Mantenimento cumulativo--Lancia una moneta.
-Ogniqualvolta vinci un lancio, il Minotauro di Karplusan infligge 1 danno a una creatura o a un giocatore bersaglio.
-Ogniqualvolta perdi un lancio, il Minotauro di Karplusan infligge 1 danno a una creatura o a un giocatore bersaglio a scelta di un avversario.</text>
+    <text>Mantenimento cumulativo--Lancia una moneta. 
+Ogniqualvolta vinci un lancio, il Minotauro di Karplusan infligge 1 danno a una creatura o a un giocatore bersaglio. 
+Ogniqualvolta perdi un lancio, il Minotauro di Karplusan infligge 1 danno a una creatura o a un giocatore bersaglio a scelta di un avversario. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -691,8 +691,8 @@ Ogniqualvolta perdi un lancio, il Minotauro di Karplusan infligge 1 danno a una 
   <item>
     <id>CLD0088</id>
     <name>Serpente Saetta</name>
-    <text>Travolgere, rapidità
-Il Serpente Saetta entra nel campo di battaglia con X segnalini +1/+0.
+    <text>Travolgere, rapidità 
+Il Serpente Saetta entra nel campo di battaglia con X segnalini +1/+0. 
 All'inizio della sottofase finale, sacrifica il Serpente Saetta.</text>
     <flavorText>
     </flavorText>
@@ -700,7 +700,7 @@ All'inizio della sottofase finale, sacrifica il Serpente Saetta.</text>
   <item>
     <id>CLD0089</id>
     <name>Tempesta di Fulmini</name>
-    <text>La Tempesta di Fulmini infligge X danni a una creatura o a un giocatore bersaglio, dove X è pari a 3 più il numero di segnalini carica presenti su di essa.
+    <text>La Tempesta di Fulmini infligge X danni a una creatura o a un giocatore bersaglio, dove X è pari a 3 più il numero di segnalini carica presenti su di essa. 
 Scarta una carta terra: Metti due segnalini carica sulla Tempesta di Fulmini. Puoi scegliere un nuovo bersaglio per essa.  Qualsiasi giocatore può attivare questa abilità ma solo se la Tempesta di Fulmini è in pila.</text>
     <flavorText>
     </flavorText>
@@ -715,7 +715,7 @@ Scarta una carta terra: Metti due segnalini carica sulla Tempesta di Fulmini. Pu
   <item>
     <id>CLD0091</id>
     <name>Nucleo di Magma</name>
-    <text>Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)
+    <text>Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) 
 All'inizio della tua sottofase finale, il Nucleo di Magma infligge X danni suddivisi a tua scelta tra un qualsiasi numero di creature bersaglio, dove X è pari al numero di segnalini epoca presenti su di esso.</text>
     <flavorText>
     </flavorText>
@@ -744,8 +744,8 @@ All'inizio della tua sottofase finale, il Nucleo di Magma infligge X danni suddi
   <item>
     <id>CLD0095</id>
     <name>Drago Geloscaglia</name>
-    <text>Volare
-{2}{S}: TAPpa una creatura bersaglio e metti un segnalino ghiaccio su di essa.  ({S} può essere pagato con un mana da un permanente neve.)
+    <text>Volare 
+{2}{S}: TAPpa una creatura bersaglio e metti un segnalino ghiaccio su di essa.  ({S} può essere pagato con un mana da un permanente neve.) 
 Le creature con segnalini ghiaccio non STAPpano durante lo STAP dei loro controllori.</text>
     <flavorText>
     </flavorText>
@@ -767,7 +767,7 @@ Le creature con segnalini ghiaccio non STAPpano durante lo STAP dei loro control
   <item>
     <id>CLD0098</id>
     <name>Yeti in Agguato</name>
-    <text>Quando lo Yeti in Agguato entra nel campo di battaglia, se è sul campo di battaglia, infligge un ammontare di danni pari alla propria forza a una creatura bersaglio controllata da un avversario e quella creatura infligge un ammontare di danni pari alla propria forza allo Yeti in Agguato.
+    <text>Quando lo Yeti in Agguato entra nel campo di battaglia, se è sul campo di battaglia, infligge un ammontare di danni pari alla propria forza a una creatura bersaglio controllata da un avversario e quella creatura infligge un ammontare di danni pari alla propria forza allo Yeti in Agguato. 
 {2}{S}: Il proprietario riprende in mano lo Yeti in Agguato.  Attiva questa abilità solo quando potresti lanciare una stregoneria.  ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -775,7 +775,7 @@ Le creature con segnalini ghiaccio non STAPpano durante lo STAP dei loro control
   <item>
     <id>CLD0099</id>
     <name>Impeto di Fiamme</name>
-    <text>Propagazione 4 (Quando lanci questa magia, puoi rivelare le prime quattro carte del tuo grimorio. Puoi lanciare ogni carta rivelata che abbia lo stesso nome di questa magia senza pagare il suo costo di mana. Metti le rimanenti in fondo al tuo grimorio.)
+    <text>Propagazione 4 (Quando lanci questa magia, puoi rivelare le prime quattro carte del tuo grimorio. Puoi lanciare ogni carta rivelata che abbia lo stesso nome di questa magia senza pagare il suo costo di mana. Metti le rimanenti in fondo al tuo grimorio.) 
 L'Impeto di Fiamme infligge 2 danni a una creatura od a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -783,7 +783,7 @@ L'Impeto di Fiamme infligge 2 danni a una creatura od a un giocatore bersaglio.<
   <item>
     <id>CLD0100</id>
     <name>Termopode</name>
-    <text>{S}: Il Termopode guadagna rapidità fino alla fine del turno. ({S} può essere pagato con un mana da un permanente neve.)
+    <text>{S}: Il Termopode guadagna rapidità fino alla fine del turno. ({S} può essere pagato con un mana da un permanente neve.) 
 Sacrifica una creatura: Aggiungi {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -791,7 +791,7 @@ Sacrifica una creatura: Aggiungi {R} alla tua riserva di mana.</text>
   <item>
     <id>CLD0101</id>
     <name>Cavalca Allosauro</name>
-    <text>Puoi esiliare due carte verdi dalla tua mano invece di pagare il costo di mana del Cavalca Allosauro.
+    <text>Puoi esiliare due carte verdi dalla tua mano invece di pagare il costo di mana del Cavalca Allosauro. 
 La forza e la costituzione del Cavalca Allosauro sono ciascuna pari a 1 più il numero di terre che controlli.</text>
     <flavorText>
     </flavorText>
@@ -799,8 +799,8 @@ La forza e la costituzione del Cavalca Allosauro sono ciascuna pari a 1 più il 
   <item>
     <id>CLD0102</id>
     <name>Nishoba Artico</name>
-    <text>Travolgere
-Mantenimento cumulativo {G} o {W} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)
+    <text>Travolgere 
+Mantenimento cumulativo {G} o {W} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) 
 Quando il Nishoba Artico viene messo in un cimitero dal  campo di battaglia, puoi guadagnare 2 punti vita per ogni segnalino epoca presente su di esso.</text>
     <flavorText>
     </flavorText>
@@ -808,8 +808,8 @@ Quando il Nishoba Artico viene messo in un cimitero dal  campo di battaglia, puo
   <item>
     <id>CLD0103</id>
     <name>Mandria di Uri</name>
-    <text>Travolgere
-Quando la Mandria di Uri entra sul campo di battaglia, puoi passare in rassegna il tuo grimorio per cercare una carta Uri, rivelarla, e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.
+    <text>Travolgere 
+Quando la Mandria di Uri entra sul campo di battaglia, puoi passare in rassegna il tuo grimorio per cercare una carta Uri, rivelarla, e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio. 
 Ogniqualvolta la Mandria di Uri attacca, prende +1/+0 fino alla fine del turno per ogni altro Uri attaccante.</text>
     <flavorText>
     </flavorText>
@@ -838,7 +838,7 @@ Ogniqualvolta la Mandria di Uri attacca, prende +1/+0 fino alla fine del turno p
   <item>
     <id>CLD0107</id>
     <name>Maschio Uri</name>
-    <text>Travolgere
+    <text>Travolgere 
 Ogniqualvolta il Maschio Uri attacca, prende +1/+0 fino alla fine del turno per ogni altro Uri che attacca.</text>
     <flavorText>
     </flavorText>
@@ -846,7 +846,7 @@ Ogniqualvolta il Maschio Uri attacca, prende +1/+0 fino alla fine del turno per 
   <item>
     <id>CLD0108</id>
     <name>Fulgore di Freyalise</name>
-    <text>Mantenimento cumulativo {2} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)
+    <text>Mantenimento cumulativo {2} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.) 
 I permanenti neve non STAPpano durante lo STAP dei loro controllori.</text>
     <flavorText>
     </flavorText>
@@ -854,7 +854,7 @@ I permanenti neve non STAPpano durante lo STAP dei loro controllori.</text>
   <item>
     <id>CLD0109</id>
     <name>Ragno Gelotela</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
 Ogniqualvolta il Ragno Gelotela blocca una creatura con volare, metti un segnalino +1/+1 sul Ragno Gelotela alla fine del combattimento</text>
     <flavorText>
     </flavorText>
@@ -862,7 +862,7 @@ Ogniqualvolta il Ragno Gelotela blocca una creatura con volare, metti un segnali
   <item>
     <id>CLD0110</id>
     <name>Fine dell'Ibernazione</name>
-    <text>Mantenimento cumulativo {1}
+    <text>Mantenimento cumulativo {1} 
 Ogniqualvolta paghi il mantenimento cumulativo della Fine dell'Ibernazione, puoi passare in rassegna il tuo grimorio, scegliere una carta creatura con costo di mana convertito pari al numero di segnalini epoca presenti sulla Fine dell'Ibernazione e metterla sul campo di battaglia. Se lo fai, rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -877,7 +877,7 @@ Ogniqualvolta paghi il mantenimento cumulativo della Fine dell'Ibernazione, puoi
   <item>
     <id>CLD0112</id>
     <name>Ramingo di Karplusan</name>
-    <text>Il Ramingo di Karplusan non può essere bersaglio di magie blu o nere.</text>
+    <text>Il Ramingo di Karplusan non può essere bersaglio di magie blu o nere. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -891,7 +891,7 @@ Ogniqualvolta paghi il mantenimento cumulativo della Fine dell'Ibernazione, puoi
   <item>
     <id>CLD0114</id>
     <name>Fusione Mistica</name>
-    <text>Distruggi un artefatto o un incantesimo bersaglio.
+    <text>Distruggi un artefatto o un incantesimo bersaglio. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -899,7 +899,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>CLD0115</id>
     <name>Vipera di Ohran</name>
-    <text>Ogniqualvolta la Vipera di Ohran infligge danno da combattimento a una creatura, distruggi quella creatura alla fine del combattimento.
+    <text>Ogniqualvolta la Vipera di Ohran infligge danno da combattimento a una creatura, distruggi quella creatura alla fine del combattimento. 
 Ogniqualvolta la Vipera di Ohran infligge danno da combattimento ad un giocatore, puoi pescare una carta.</text>
     <flavorText>
     </flavorText>
@@ -907,7 +907,7 @@ Ogniqualvolta la Vipera di Ohran infligge danno da combattimento ad un giocatore
   <item>
     <id>CLD0116</id>
     <name>Wurm Panglaciale</name>
-    <text>Travolgere
+    <text>Travolgere 
 Mentre stai passando in rassegna il tuo grimorio, puoi lanciare il Wurm Panglaciale dal tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -915,7 +915,7 @@ Mentre stai passando in rassegna il tuo grimorio, puoi lanciare il Wurm Panglaci
   <item>
     <id>CLD0117</id>
     <name>Ridimensionare</name>
-    <text>La creatura bersaglio prende +3/+3 fino alla fine del turno.
+    <text>La creatura bersaglio prende +3/+3 fino alla fine del turno. 
 Recupero {1}{G}</text>
     <flavorText>
     </flavorText>
@@ -923,8 +923,8 @@ Recupero {1}{G}</text>
   <item>
     <id>CLD0118</id>
     <name>Uri Gelocorno</name>
-    <text>Travolgere
-Ogniqualvolta l'Uri Gelocorno attacca, prende +1/+0 fino alla fine del turno per ogni altro Uri che sta attaccando.
+    <text>Travolgere 
+Ogniqualvolta l'Uri Gelocorno attacca, prende +1/+0 fino alla fine del turno per ogni altro Uri che sta attaccando. 
 {2}{S}: La creatura bersaglio blocca una creatura bersaglio in questo turno se può farlo.  ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -932,7 +932,7 @@ Ogniqualvolta l'Uri Gelocorno attacca, prende +1/+0 fino alla fine del turno per
   <item>
     <id>CLD0119</id>
     <name>Colosso di Ronom</name>
-    <text>Protezione dalla neve
+    <text>Protezione dalla neve 
 Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)</text>
     <flavorText>
     </flavorText>
@@ -940,8 +940,8 @@ Mantenimento cumulativo {1} (All'inizio del tuo mantenimento, metti un segnalino
   <item>
     <id>CLD0120</id>
     <name>Forma del Wiitigo</name>
-    <text>Incanta creatura
-Quando la Forma del Wiitigo entra nel campo di battaglia, metti sei segnalini +1/+1 sulla creatura incantata.
+    <text>Incanta creatura 
+Quando la Forma del Wiitigo entra nel campo di battaglia, metti sei segnalini +1/+1 sulla creatura incantata. 
 All'inizio del tuo mantenimento, metti un segnalino +1/+1 sulla creatura incantata se ha attaccato o bloccato dal tuo mantenimento precedente.  Altrimenti, rimuovi un segnalino +1/+1 da essa.</text>
     <flavorText>
     </flavorText>
@@ -949,7 +949,7 @@ All'inizio del tuo mantenimento, metti un segnalino +1/+1 sulla creatura incanta
   <item>
     <id>CLD0121</id>
     <name>Antico Protettore</name>
-    <text>Travolgere
+    <text>Travolgere 
 Mantenimento cumulativo-Metti un segnalino +1/+1 su una creatura controllata da un avversario.  (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento per ogni segnalino epoca presente su di esso.)</text>
     <flavorText>
     </flavorText>
@@ -971,7 +971,7 @@ Mantenimento cumulativo-Metti un segnalino +1/+1 su una creatura controllata da 
   <item>
     <id>CLD0124</id>
     <name>Sputavapore</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
 {R}: Lo Sputavapore prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -979,8 +979,8 @@ Mantenimento cumulativo-Metti un segnalino +1/+1 su una creatura controllata da 
   <item>
     <id>CLD0125</id>
     <name>Impeto di Potenza</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/+2.
+    <text>Incanta creatura 
+La creatura incantata prende +2/+2. 
 Propagazione 4 (Quando lanci questa magia, puoi rivelare le prime quattro carte del tuo grimorio. Puoi lanciare ogni carta rivelata che abbia lo stesso nome di questa magia senza pagare il suo costo di mana. Metti le rimanenti in fondo al tuo grimorio.)</text>
     <flavorText>
     </flavorText>
@@ -988,7 +988,7 @@ Propagazione 4 (Quando lanci questa magia, puoi rivelare le prime quattro carte 
   <item>
     <id>CLD0126</id>
     <name>Spettro della Bufera</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta lo Spettro della Bufera infligge danno da combattimento a un giocatore, scegli una - Quel giocatore fa tornare un permanente che controlla in mano al proprietario; o quel giocatore scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -1003,7 +1003,7 @@ Ogniqualvolta lo Spettro della Bufera infligge danno da combattimento a un gioca
   <item>
     <id>CLD0128</id>
     <name>Spiritello di Diamante</name>
-    <text>Volare
+    <text>Volare 
 {1}{S}: Le creature neve che controlli prendono +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1011,8 +1011,8 @@ Ogniqualvolta lo Spettro della Bufera infligge danno da combattimento a un gioca
   <item>
     <id>CLD0129</id>
     <name>Garza Zol, Regina della Peste</name>
-    <text>Volare, rapidità
-Ogniqualvolta una creatura a cui Garza Zol, Regina della Peste ha inflitto danno in questo turno viene messa in un cimitero, metti un segnalino +1/+1 su Garza Zol.
+    <text>Volare, rapidità 
+Ogniqualvolta una creatura a cui Garza Zol, Regina della Peste ha inflitto danno in questo turno viene messa in un cimitero, metti un segnalino +1/+1 su Garza Zol. 
 Ogniqualvolta Garza Zol infligge danno da combattimento ad un giocatore, puoi pescare una carta.</text>
     <flavorText>
     </flavorText>
@@ -1048,7 +1048,7 @@ Ogniqualvolta Garza Zol infligge danno da combattimento ad un giocatore, puoi pe
   <item>
     <id>CLD0134</id>
     <name>Elementale della Terra Selvaggia</name>
-    <text>Travolgere
+    <text>Travolgere 
 La forza dell'Elementale della Terra Selvaggia è pari al numero di terre non base controllate dai tuoi avversari.</text>
     <flavorText>
     </flavorText>
@@ -1056,7 +1056,7 @@ La forza dell'Elementale della Terra Selvaggia è pari al numero di terre non ba
   <item>
     <id>CLD0135</id>
     <name>Zur l'Incantatore</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta Zur l'Incantatore attacca, puoi passare in rassegna il tuo grimorio, prendere una carta incantesimo con costo di mana convertito pari o inferiore a 3 e metterla sul campo di battaglia.  Se lo fai, rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1064,8 +1064,8 @@ Ogniqualvolta Zur l'Incantatore attacca, puoi passare in rassegna il tuo grimori
   <item>
     <id>CLD0136</id>
     <name>Cuore di Gelacciaio</name>
-    <text>Il Cuore di Gelacciaio entra nel campo di battaglia TAPpato.
-Mentre il Cuore di Gelacciaio entra nel campo di battaglia, scegli un colore.
+    <text>Il Cuore di Gelacciaio entra nel campo di battaglia TAPpato. 
+Mentre il Cuore di Gelacciaio entra nel campo di battaglia, scegli un colore. 
 {T} : Aggiungi un mana del colore scelto alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1073,7 +1073,7 @@ Mentre il Cuore di Gelacciaio entra nel campo di battaglia, scegli un colore.
   <item>
     <id>CLD0137</id>
     <name>Scettro del Giullare</name>
-    <text>Quando lo Scettro del Giullare entra nel campo di battaglia, esilia a faccia in giù le prime cinque carte del grimorio di un giocatore bersaglio. Puoi guardare quelle carte fintanto che rimangono esiliate.
+    <text>Quando lo Scettro del Giullare entra nel campo di battaglia, esilia a faccia in giù le prime cinque carte del grimorio di un giocatore bersaglio. Puoi guardare quelle carte fintanto che rimangono esiliate. 
 {2}, {T}, Metti nel cimitero del suo proprietario una carta esiliata con lo Scettro del Giullare : Neutralizza una magia bersaglio se ha lo stesso nome di quella carta.</text>
     <flavorText>
     </flavorText>
@@ -1088,7 +1088,7 @@ Mentre il Cuore di Gelacciaio entra nel campo di battaglia, scegli un colore.
   <item>
     <id>CLD0139</id>
     <name>Ferropode di Phyrexia</name>
-    <text>Il Ferropode di Phyrexia non STAPpa durante il tuo STAP.
+    <text>Il Ferropode di Phyrexia non STAPpa durante il tuo STAP. 
 {1}{S}: STAPpa il Ferropode di Phyrexia. ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -1096,7 +1096,7 @@ Mentre il Cuore di Gelacciaio entra nel campo di battaglia, scegli un colore.
   <item>
     <id>CLD0140</id>
     <name>Spaccaneve di Phyrexia</name>
-    <text>Lo Spaccaneve di Phyrexia attacca in ogni turno se può farlo.
+    <text>Lo Spaccaneve di Phyrexia attacca in ogni turno se può farlo. 
 {1}{S}: Lo Spaccaneve di Phyrexia prende +1/+0 fino alla fine del turno. ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -1118,7 +1118,7 @@ Mentre il Cuore di Gelacciaio entra nel campo di battaglia, scegli un colore.
   <item>
     <id>CLD0143</id>
     <name>Distese Artiche</name>
-    <text>Le Distese Artiche entrano nel campo di battaglia TAPpate.
+    <text>Le Distese Artiche entrano nel campo di battaglia TAPpate. 
 {T}: Aggiungi {G} o {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1126,7 +1126,7 @@ Mentre il Cuore di Gelacciaio entra nel campo di battaglia, scegli un colore.
   <item>
     <id>CLD0144</id>
     <name>Scogliera di Borealia</name>
-    <text>La Scogliera di Borealia entra nel campo di battaglia TAPpata.
+    <text>La Scogliera di Borealia entra nel campo di battaglia TAPpata. 
 {T}: Aggiungi {W} o {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1134,16 +1134,16 @@ Mentre il Cuore di Gelacciaio entra nel campo di battaglia, scegli un colore.
   <item>
     <id>CLD0145</id>
     <name>Profondità Oscure</name>
-    <text>Le Profondità Oscure entrano nel campo di battaglia con dieci segnalini ghiaccio.
-{3}: Rimuovi un segnalino ghiaccio dalle Profondità Oscure.
-Quando non ci sono segnalini ghiaccio sulle Profondità Oscure, sacrificale. Se lo fai, metti sul campo di battaglia una pedina creatura leggendariaAvatar 20/20 nera con volare e "Questa creatura è indistruttibile" di nome Marit Lage.</text>
+    <text>Le Profondità Oscure entrano nel campo di battaglia con dieci segnalini ghiaccio. 
+{3}: Rimuovi un segnalino ghiaccio dalle Profondità Oscure. 
+Quando non ci sono segnalini ghiaccio sulle Profondità Oscure, sacrificale. Se lo fai, metti sul campo di battaglia una pedina creatura leggendaria Avatar 20/20 nera con volare e "Questa creatura è indistruttibile" di nome Marit Lage.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0146</id>
     <name>Palude Ghiacciata</name>
-    <text>La Palude Ghiacciata entra nel campo di battaglia TAPpata.
+    <text>La Palude Ghiacciata entra nel campo di battaglia TAPpata. 
 {T}: Aggiungi {U} o {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1151,7 +1151,7 @@ Quando non ci sono segnalini ghiaccio sulle Profondità Oscure, sacrificale. Se 
   <item>
     <id>CLD0147</id>
     <name>Bosco dell'Altopiano</name>
-    <text>Il Bosco dell'Altopiano entra nel campo di battaglia TAPpato.
+    <text>Il Bosco dell'Altopiano entra nel campo di battaglia TAPpato. 
 {T} : Aggiungi {R} o {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1159,7 +1159,7 @@ Quando non ci sono segnalini ghiaccio sulle Profondità Oscure, sacrificale. Se 
   <item>
     <id>CLD0148</id>
     <name>Bocca di Ronom</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {4}{S}, {T}, Sacrifica la Bocca di Ronom: La Bocca di Ronom infligge 4 danni ad una creatura bersaglio. ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -1167,7 +1167,7 @@ Quando non ci sono segnalini ghiaccio sulle Profondità Oscure, sacrificale. Se 
   <item>
     <id>CLD0149</id>
     <name>Distese delle Profezie</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {1}{S}, {T}: Guarda la prima carta del tuo grimorio. Se è una carta neve, puoi rivelarla e aggiungerla alla tua mano.  ({S} può essere pagato con un mana da un permanente neve.)</text>
     <flavorText>
     </flavorText>
@@ -1175,7 +1175,7 @@ Quando non ci sono segnalini ghiaccio sulle Profondità Oscure, sacrificale. Se 
   <item>
     <id>CLD0150</id>
     <name>Laghi Salati di Tresserhorn</name>
-    <text>I Laghi Salati di Tresserhorn entrano nel campo di battaglia TAPpati.
+    <text>I Laghi Salati di Tresserhorn entrano nel campo di battaglia TAPpati. 
 {T}: Aggiungi {B} o {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1183,40 +1183,35 @@ Quando non ci sono segnalini ghiaccio sulle Profondità Oscure, sacrificale. Se 
   <item>
     <id>CLD0151</id>
     <name>Pianura Innevata</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0152</id>
     <name>Isola Innevata</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0153</id>
     <name>Palude Innevata</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0154</id>
     <name>Montagna Innevata</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>CLD0155</id>
     <name>Foresta Innevata</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>

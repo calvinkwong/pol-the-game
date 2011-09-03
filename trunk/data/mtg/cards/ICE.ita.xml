@@ -2,7 +2,7 @@
   <item>
     <id>ICE0001</id>
     <name>Spettro dell'Abisso</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta lo Spettro dell'Abisso infligge danno a un giocatore, quel giocatore scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -10,21 +10,21 @@ Ogniqualvolta lo Spettro dell'Abisso infligge danno a un giocatore, quel giocato
   <item>
     <id>ICE0002</id>
     <name>Sentinella di Adarkar</name>
-    <text>{1}: La Sentinella di Adarkar prende +0/+1 fino alla fine del turno.</text>
+    <text>{1}: La Sentinella di Adarkar prende +0/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0003</id>
     <name>Unicorno dell'Adarkar</name>
-    <text>{T}: Aggiungi {U} oppure {1}{U} alla tua riserva di mana. Spendi questo mana solo per pagare costi di mantenimento cumulativo.</text>
+    <text>{T}: Aggiungi {U} oppure {1}{U} alla tua riserva di mana. Spendi questo mana solo per pagare costi di mantenimento cumulativo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0004</id>
     <name>Distese dell'Adarkar</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Aggiungi {W} o {U} alla tua riserva di mana. Le Distese dell'Adarkar ti infliggono 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -39,8 +39,8 @@ Ogniqualvolta lo Spettro dell'Abisso infligge danno a un giocatore, quel giocato
   <item>
     <id>ICE0006</id>
     <name>Aggressività</name>
-    <text>Incanta creatura non-Muro
-La creatura incantata ha attacco improvviso e travolgere.
+    <text>Incanta creatura non-Muro 
+La creatura incantata ha attacco improvviso e travolgere. 
 All'inizio della sottofase di fine turno del controllore della creatura incantata, distruggi quella creatura se non ha attaccato in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -48,7 +48,7 @@ All'inizio della sottofase di fine turno del controllore della creatura incantat
   <item>
     <id>ICE0007</id>
     <name>Altare d'Osso</name>
-    <text>Come costo addizionale per lanciare l'Altare d'Osso, sacrifica una creatura.
+    <text>Come costo addizionale per lanciare l'Altare d'Osso, sacrifica una creatura. 
 Passa in rassegna il tuo grimorio per una carta creatura, rivela quella carta e aggiungila alla tua mano. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -56,7 +56,7 @@ Passa in rassegna il tuo grimorio per una carta creatura, rivela quella carta e 
   <item>
     <id>ICE0008</id>
     <name>Amuleto di Quoz</name>
-    <text>Rimuovi l'Amuleto di Quoz dal tuo mazzo prima della partita se non stai giocando per la posta.
+    <text>Rimuovi l'Amuleto di Quoz dal tuo mazzo prima della partita se non stai giocando per la posta. 
 {T}, Sacrifica l'Amuleto di Quoz: L'avversario bersaglio può aggiungere alla posta la prima carta del suo grimorio. Se non lo fa, tu lancia una moneta. Se vinci il lancio, quel giocatore perde la partita. Se perdi il lancio, tu perdi la partita. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -64,14 +64,14 @@ Passa in rassegna il tuo grimorio per una carta creatura, rivela quella carta e 
   <item>
     <id>ICE0009</id>
     <name>Anarchia</name>
-    <text>Distruggi tutti i permanenti bianchi.</text>
+    <text>Distruggi tutti i permanenti bianchi. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0010</id>
     <name>Volpi Artiche</name>
-    <text>Le creature con forza pari o superiore a 2 non possono bloccare le Volpi Artiche fintanto che il giocatore il difesa controlla una terra neve.</text>
+    <text>Le creature con forza pari o superiore a 2 non possono bloccare le Volpi Artiche fintanto che il giocatore il difesa controlla una terra neve. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -85,7 +85,7 @@ Passa in rassegna il tuo grimorio per una carta creatura, rivela quella carta e 
   <item>
     <id>ICE0012</id>
     <name>Banderuola di Arcum</name>
-    <text>{2}, {T}: La terra neve bersaglio non ha più neve.
+    <text>{2}, {T}: La terra neve bersaglio non ha più neve. 
 {2}, {T}: La terra base non neve bersaglio diventa neve.</text>
     <flavorText>
     </flavorText>
@@ -100,7 +100,7 @@ Passa in rassegna il tuo grimorio per una carta creatura, rivela quella carta e 
   <item>
     <id>ICE0014</id>
     <name>Aura di Arenson</name>
-    <text>{W}, Sacrifica un incantesimo: Distruggi un incantesimo bersaglio.
+    <text>{W}, Sacrifica un incantesimo: Distruggi un incantesimo bersaglio. 
 {3}{U}{U}: Neutralizza una magia incantesimo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -108,8 +108,8 @@ Passa in rassegna il tuo grimorio per una carta creatura, rivela quella carta e 
   <item>
     <id>ICE0015</id>
     <name>Corazza della Fede</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+1.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+1. 
 {W}: La creatura incantata prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -117,7 +117,7 @@ La creatura incantata prende +1/+1.
   <item>
     <id>ICE0016</id>
     <name>Ascensione di Arnjlot</name>
-    <text>Mantenimento Cumulativo - {U}
+    <text>Mantenimento Cumulativo - {U} 
 {1}: Una creatura bersaglio guadagna volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -125,54 +125,52 @@ La creatura incantata prende +1/+1.
   <item>
     <id>ICE0017</id>
     <name>Ghoul delle Ceneri</name>
-    <text>Rapidità
-{B}: Rimetti sul campo di battaglia il Ghoul delle Ceneri dal tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento e solo se ci sono tre o più carte creatura sopra il Ghoul delle Ceneri.</text>
+    <text>Rapidità 
+{B}: Rimetti sul campo di battaglia il Ghoul delle Ceneri dal tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento e solo se ci sono tre o più carte creatura sopra il Ghoul delle Ceneri. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0018</id>
     <name>Uri</name>
-    <text>Travolgere
-Ogniqualvolta l'Uri attacca, prende +1/+0 fino alla fine del turno per ogni altro Uri che attacca.</text>
+    <text>Travolgere 
+Ogniqualvolta l'Uri attacca, prende +1/+0 fino alla fine del turno per ogni altro Uri che attacca. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0019</id>
     <name>Valanga</name>
-    <text>Distruggi X terre neve.</text>
+    <text>Distruggi X terre neve. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0020</id>
     <name>Barbari di Balduvia</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0021</id>
     <name>Orsi di Balduvia</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0022</id>
     <name>Evocatore di Balduvia</name>
-    <text>{T}: La terra neve bersaglio diventa una creatura 2/2 fino alla fine del turno. E' ancora una terra.</text>
+    <text>{T}: La terra neve bersaglio diventa una creatura 2/2 fino alla fine del turno. E' ancora una terra. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0023</id>
     <name>Idra di Balduvia</name>
-    <text>L'Idra di Balduvia entra nel campo di battaglia con X segnalini +1/+0 su di essa.
-Rimuovi un segnalino +1/+0 dall'Idra di Balduvia: Previeni il prossimo punto danno che verrebbe inflitto all'Idra di Balduvia in questo turno.
+    <text>L'Idra di Balduvia entra nel campo di battaglia con X segnalini +1/+0 su di essa. 
+Rimuovi un segnalino +1/+0 dall'Idra di Balduvia: Previeni il prossimo punto danno che verrebbe inflitto all'Idra di Balduvia in questo turno. 
 {R}{R}{R}: Metti un segnalino +1/+0 sull'Idra di Balduvia. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -180,7 +178,7 @@ Rimuovi un segnalino +1/+0 dall'Idra di Balduvia: Previeni il prossimo punto dan
   <item>
     <id>ICE0024</id>
     <name>Sciamano di Balduvia</name>
-    <text>{T}: Cambia il testo di un incantesimo bianco bersaglio che controlli e che non ha Mantenimento Cumulativo, sostituendo tutte le ricorrenze di un colore con un altro. (Per esempio, puoi cambiare "neutralizza magie nere" con "neutralizza magie blu".) Quell'incantesimo guadagna "Mantenimento cumulativo {1}."</text>
+    <text>{T}: Cambia il testo di un incantesimo bianco bersaglio che controlli e che non ha Mantenimento Cumulativo, sostituendo tutte le ricorrenze di un colore con un altro. (Per esempio, puoi cambiare "neutralizza magie nere" con "neutralizza magie blu".) Quell'incantesimo guadagna "Mantenimento cumulativo {1}." </text>
     <flavorText>
     </flavorText>
   </item>
@@ -208,7 +206,7 @@ Rimuovi un segnalino +1/+0 dall'Idra di Balduvia: Previeni il prossimo punto dan
   <item>
     <id>ICE0028</id>
     <name>Grido di Battaglia</name>
-    <text>STAPpa tutte le creature bianche che controlli.
+    <text>STAPpa tutte le creature bianche che controlli. 
 Ogniqualvolta una creatura blocca in questo turno, quella creatura prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -216,7 +214,7 @@ Ogniqualvolta una creatura blocca in questo turno, quella creatura prende +0/+1 
   <item>
     <id>ICE0029</id>
     <name>Frenesia della Battaglia</name>
-    <text>Le creature verdi che controlli prendono +1/+1 fino alla fine del turno.
+    <text>Le creature verdi che controlli prendono +1/+1 fino alla fine del turno. 
 Le creature non verdi che controlli prendono +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -224,18 +222,18 @@ Le creature non verdi che controlli prendono +1/+0 fino alla fine del turno.</te
   <item>
     <id>ICE0030</id>
     <name>Vincolo Irresistibile</name>
-    <text>Incanta creatura
-All'inizio del tuo mantenimento, sacrifica il Vincolo Irresistibile a meno che tu paghi {1}{U}.
-Tu controlli la creatura incantata.
-La creatura incantata prende +0/+1.</text>
+    <text>Incanta creatura 
+All'inizio del tuo mantenimento, sacrifica il Vincolo Irresistibile a meno che tu paghi {1}{U}. 
+Tu controlli la creatura incantata. 
+La creatura incantata prende +0/+1. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0031</id>
     <name>Scarabeo Nero</name>
-    <text>Incanta creatura
-La creatura incantata non può essere bloccata da creature nere.
+    <text>Incanta creatura 
+La creatura incantata non può essere bloccata da creature nere. 
 La creatura incantata prende +2/+2 fintanto che un avversario controlla un permanente nero.</text>
     <flavorText>
     </flavorText>
@@ -243,7 +241,7 @@ La creatura incantata prende +2/+2 fintanto che un avversario controlla un perma
   <item>
     <id>ICE0032</id>
     <name>Vino Benedetto</name>
-    <text>Guadagni 1 punto vita.
+    <text>Guadagni 1 punto vita. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -258,8 +256,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0034</id>
     <name>Tormenta</name>
-    <text>Lancia la Tormenta solo se controlli una terra neve.
-Mantenimento cumulativo {2}
+    <text>Lancia la Tormenta solo se controlli una terra neve. 
+Mantenimento cumulativo {2} 
 Le creature con volare non STAPpano durante lo STAP dei loro controllori.</text>
     <flavorText>
     </flavorText>
@@ -267,8 +265,8 @@ Le creature con volare non STAPpano durante lo STAP dei loro controllori.</text>
   <item>
     <id>ICE0035</id>
     <name>Scarabeo Blu</name>
-    <text>Incanta creatura
-La creatura incantata non può essere bloccata dalle creature blu.
+    <text>Incanta creatura 
+La creatura incantata non può essere bloccata dalle creature blu. 
 La creatura incantata prende +2/+2 fintanto che un avversario controlla un permanente blu.</text>
     <flavorText>
     </flavorText>
@@ -283,15 +281,15 @@ La creatura incantata prende +2/+2 fintanto che un avversario controlla un perma
   <item>
     <id>ICE0037</id>
     <name>Tempesta Cerebrale</name>
-    <text>Pesca tre carte, poi metti due carte dalla tua mano in cima al tuo grimorio in un qualsiasi ordine.</text>
+    <text>Pesca tre carte, poi metti due carte dalla tua mano in cima al tuo grimorio in un qualsiasi ordine. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0038</id>
     <name>Il Segno della Cattiva Fortuna</name>
-    <text>Incanta creatura
-Mantenimento cumulativo - {R}
+    <text>Incanta creatura 
+Mantenimento cumulativo - {R} 
 Il controllore della creatura incantata non può lanciare magie creatura.</text>
     <flavorText>
     </flavorText>
@@ -299,14 +297,15 @@ Il controllore della creatura incantata non può lanciare magie creatura.</text>
   <item>
     <id>ICE0039</id>
     <name>Soffio Onirico</name>
-    <text>Mantenimento cumulativo {U} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento cumulativo per ogni segnalino epoca presente su di esso.); Le creature verdi hanno "Mantenimento cumulativo {1}".</text>
+    <text>Mantenimento cumulativo {U} (All'inizio del tuo mantenimento, metti un segnalino epoca su questo permanente, poi sacrificalo a meno che tu paghi il suo costo di mantenimento cumulativo per ogni segnalino epoca presente su di esso.)
+Le creature verdi hanno "Mantenimento cumulativo {1}".</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0040</id>
     <name>Sciamano del Mare</name>
-    <text>{T}, Sacrifica una creatura: La creatura bersaglio prende +2/+2 fino alla fine del turno.
+    <text>{T}, Sacrifica una creatura: La creatura bersaglio prende +2/+2 fino alla fine del turno. 
 {1}{U}{U}, Sacrifica una creatura: Neutralizza una magia creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -321,7 +320,7 @@ Il controllore della creatura incantata non può lanciare magie creatura.</text>
   <item>
     <id>ICE0042</id>
     <name>Boscaglia</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Aggiungi {G} o {W} alla tua riserva di mana. La Boscaglia ti infligge 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -329,7 +328,7 @@ Il controllore della creatura incantata non può lanciare magie creatura.</text>
   <item>
     <id>ICE0043</id>
     <name>Pira Sacrificale</name>
-    <text>Come costo addizionale per lanciare la Pira Sacrificale, sacrifica una creatura.
+    <text>Come costo addizionale per lanciare la Pira Sacrificale, sacrifica una creatura. 
 Aggiungi alla tua riserva X mana in qualsiasi combinazione di {B} e/o {R}, dove X è pari al costo di mana convertito della creatura sacrificata.</text>
     <flavorText>
     </flavorText>
@@ -337,8 +336,8 @@ Aggiungi alla tua riserva X mana in qualsiasi combinazione di {B} e/o {R}, dove 
   <item>
     <id>ICE0044</id>
     <name>Chiamata alle Armi</name>
-    <text>Mentre la Chiamata alle Armi entra nel campo di battaglia, scegli un colore e un avversario.
-Le creature bianche prendono +1/+1.
+    <text>Mentre la Chiamata alle Armi entra nel campo di battaglia, scegli un colore e un avversario. 
+Le creature bianche prendono +1/+1. 
 Quando il colore scelto non è il colore più comune tra tutti i permanenti controllati dal giocatore scelto, sacrifica la Chiamata alle Armi.</text>
     <flavorText>
     </flavorText>
@@ -346,8 +345,8 @@ Quando il colore scelto non è il colore più comune tra tutti i permanenti cont
   <item>
     <id>ICE0045</id>
     <name>Pascolo dei Caribù</name>
-    <text>Incanta terra che controlli
-La terra incantata ha "{W}{W},{T}: Metti sul campo di battaglia una pedina creatura Caribù 0/1 bianca."
+    <text>Incanta terra che controlli 
+La terra incantata ha "{W}{W},{T}: Metti sul campo di battaglia una pedina creatura Caribù 0/1 bianca." 
 Sacrifica una pedina Caribù: Guadagni 1 punto vita.</text>
     <flavorText>
     </flavorText>
@@ -369,9 +368,9 @@ Sacrifica una pedina Caribù: Guadagni 1 punto vita.</text>
   <item>
     <id>ICE0048</id>
     <name>Signore del Caos</name>
-    <text>Attacco improvviso, rapidità.
-All'inizio del mantenimento di ogni giocatore, se il numero dei permanenti è pari, quel giocatore guadagna il controllo del Signore del Caos.
-Quando il Signore del Caos entra nel campo di battaglia, perde rapidità fino alla fine del turno.</text>
+    <text>Attacco improvviso 
+All'inizio del tuo mantenimento, se il numero dei permanenti è pari, un avversario bersaglio guadagna il controllo del Signore del Caos. 
+Il Signore del Caos può attaccare come se avesse rapidità a meno che sia entrato nel campo di battaglia in questo turno.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -385,18 +384,18 @@ Quando il Signore del Caos entra nel campo di battaglia, perde rapidità fino al
   <item>
     <id>ICE0050</id>
     <name>Armatura Cromatica</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
-Mentre l'Armatura Cromatica entra nel campo di battaglia, scegli un colore.
-L'Armatura Cromatica entra nel campo di battaglia con un segnalino mutazione su di essa.
-Previeni tutto il danno che verrebbe inflitto alla creatura incantata da una fonte dell'ultimo colore scelto.
-{X} : Metti un segnalino mutazione sull'Armatura Cromatica e scegli un colore. X è pari al numero di segnalini mutazione presenti sull'Armatura Cromatica. [Oracle 2000/10/24]</text>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
+Mentre l'Armatura Cromatica entra nel campo di battaglia, scegli un colore. 
+L'Armatura Cromatica entra nel campo di battaglia con un segnalino mutazione su di essa. 
+Previeni tutto il danno che verrebbe inflitto alla creatura incantata da una fonte dell'ultimo colore scelto. 
+{X} : Metti un segnalino mutazione sull'Armatura Cromatica e scegli un colore. X è pari al numero di segnalini mutazione presenti sull'Armatura Cromatica. Oracle 2000/10/24</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0051</id>
     <name>Rospo Paffuto</name>
-    <text>Ogniqualvolta il Rospo Paffuto blocca o viene bloccato, prende +2/+2 fino alla fine del turno.</text>
+    <text>Ogniqualvolta il Rospo Paffuto blocca o viene bloccato, prende +2/+2 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -438,7 +437,7 @@ Previeni tutto il danno che verrebbe inflitto alla creatura incantata da una fon
   <item>
     <id>ICE0057</id>
     <name>Chiaroveggenza</name>
-    <text>Guarda la mano del giocatore bersaglio.
+    <text>Guarda la mano del giocatore bersaglio. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -446,7 +445,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0058</id>
     <name>Mantello della Confusione</name>
-    <text>Incanta creatura che controlli
+    <text>Incanta creatura che controlli 
 Ogniqualvolta la creatura incantata attacca e non è bloccata, puoi decidere che essa non infligga danno da combattimento in questo turno. Se lo fai, il giocatore in difesa scarta una carta a caso.</text>
     <flavorText>
     </flavorText>
@@ -454,15 +453,15 @@ Ogniqualvolta la creatura incantata attacca e non è bloccata, puoi decidere che
   <item>
     <id>ICE0059</id>
     <name>Morsi del Freddo</name>
-    <text>Mantenimento cumulativo {2}
-All'inizio del mantenimento di ogni giocatore, i Morsi del Freddo infliggono a quel giocatore un danno pari al numero di terre neve che controlla.</text>
+    <text>Mantenimento cumulativo {2} 
+All'inizio del mantenimento di ogni giocatore, i Morsi del Freddo infliggono a quel giocatore un danno pari al numero di terre neve che controlla. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0060</id>
     <name>Conquista</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 Tu controlli la terra incantata.</text>
     <flavorText>
     </flavorText>
@@ -470,15 +469,15 @@ Tu controlli la terra incantata.</text>
   <item>
     <id>ICE0061</id>
     <name>Cooperazione</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
-La creatura incantata ha Branco. [Oracle 2000/02/01]</text>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
+La creatura incantata ha Branco. Oracle 2000/02/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0062</id>
     <name>Contromagia</name>
-    <text>Neutralizza una magia bersaglio.</text>
+    <text>Neutralizza una magia bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -492,17 +491,17 @@ La creatura incantata ha Branco. [Oracle 2000/02/01]</text>
   <item>
     <id>ICE0064</id>
     <name>Maledizione di Marit Lage</name>
-    <text>Quando la Maledizione di Marit Lage entra nel campo di battaglia, TAPpa tutte le Isole.
-Le Isole non STAPpano durante lo STAP dei loro controllori. [Oracle 2003/07/01]</text>
+    <text>Quando la Maledizione di Marit Lage entra nel campo di battaglia, TAPpa tutte le Isole. 
+Le Isole non STAPpano durante lo STAP dei loro controllori. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0065</id>
     <name>Danza dei Morti</name>
-    <text>Incanta carta creatura in un cimitero.
-Quando la Danza dei Morti entra nel campo di battaglia, se è nel campo di battaglia, perde "incanta carta creatura in un cimitero" e guadagna "incanta creatura messa nel campo di battaglia con la Danza dei Morti". Rimetti la carta creatura incantata sul campo di battaglia sotto il tuo controllo TAPpata e assegna ad essa la Danza dei Morti. Quando la Danza dei Morti lascia il campo di battaglia, il controllore di quella creatura la sacrifica.
-La creatura incantata prende +1/+1 e non STAPpa durante lo STAP del suo controllore.
+    <text>Incanta carta creatura in un cimitero. 
+Quando la Danza dei Morti entra nel campo di battaglia, se è nel campo di battaglia, perde "incanta carta creatura in un cimitero" e guadagna "incanta creatura messa nel campo di battaglia con la Danza dei Morti". Rimetti la carta creatura incantata sul campo di battaglia sotto il tuo controllo TAPpata e assegna ad essa la Danza dei Morti. Quando la Danza dei Morti lascia il campo di battaglia, il controllore di quella creatura la sacrifica. 
+La creatura incantata prende +1/+1 e non STAPpa durante lo STAP del suo controllore. 
 All'inizio del mantenimento del controllore della creatura incantata, quel giocatore può pagare {1}{B}. Se lo fa, STAPpa quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -517,21 +516,21 @@ All'inizio del mantenimento del controllore della creatura incantata, quel gioca
   <item>
     <id>ICE0067</id>
     <name>Rito Oscuro</name>
-    <text>Aggiungi {B}{B}{B} alla tua riserva di mana.</text>
+    <text>Aggiungi {B}{B}{B} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0068</id>
     <name>Sigillo della Morte</name>
-    <text>Rigenera la creatura bersaglio.</text>
+    <text>Rigenera la creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0069</id>
     <name>Deflettere</name>
-    <text>Cambia il bersaglio di una magia bersaglio con un altro singolo bersaglio.</text>
+    <text>Cambia il bersaglio di una magia bersaglio con un altro singolo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -545,7 +544,7 @@ All'inizio del mantenimento del controllore della creatura incantata, quel gioca
   <item>
     <id>ICE0071</id>
     <name>Scettro del Despota</name>
-    <text>{T}: Distruggi un permanente che possiedi. Non può essere rigenerato.</text>
+    <text>{T}: Distruggi un permanente che possiedi. Non può essere rigenerato. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -566,7 +565,7 @@ All'inizio del mantenimento del controllore della creatura incantata, quel gioca
   <item>
     <id>ICE0074</id>
     <name>Disincantare</name>
-    <text>Distruggi un artefatto o un incantesimo bersaglio.</text>
+    <text>Distruggi un artefatto o un incantesimo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -587,7 +586,7 @@ All'inizio del mantenimento del controllore della creatura incantata, quel gioca
   <item>
     <id>ICE0077</id>
     <name>Cumulo di Morti</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 La forza e la costituzione del Cumulo di Morti sono ciascuna pari al numero di terre neve che controlli.</text>
     <flavorText>
     </flavorText>
@@ -595,8 +594,8 @@ La forza e la costituzione del Cumulo di Morti sono ciascuna pari al numero di t
   <item>
     <id>ICE0078</id>
     <name>Siccità</name>
-    <text>All'inizio del tuo mantenimento, sacrifica la Siccità a meno che tu paghi {W}{W}.
-Lanciare le magie costa un "Sacrifica una Palude" addizionale per ogni simbolo di mana nero nei loro costi di mana.
+    <text>All'inizio del tuo mantenimento, sacrifica la Siccità a meno che tu paghi {W}{W}. 
+Lanciare le magie costa un "Sacrifica una Palude" addizionale per ogni simbolo di mana nero nei loro costi di mana. 
 Attivare le abilità attivate costa un "Sacrifica una Palude" addizionale per ogni simbolo di mana nero nei loro costi di attivazione.</text>
     <flavorText>
     </flavorText>
@@ -611,7 +610,7 @@ Attivare le abilità attivate costa un "Sacrifica una Palude" addizionale per og
   <item>
     <id>ICE0080</id>
     <name>Vincolo Terreno</name>
-    <text>All'inizio del tuo mantenimento, sacrifica il Vincolo Terreno a meno che tu paghi {2}.
+    <text>All'inizio del tuo mantenimento, sacrifica il Vincolo Terreno a meno che tu paghi {2}. 
 Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, il controllore di quella creatura sacrifica una terra.</text>
     <flavorText>
     </flavorText>
@@ -619,7 +618,7 @@ Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, il
   <item>
     <id>ICE0081</id>
     <name>Sapere della Terra</name>
-    <text>Incanta terra che controlli.
+    <text>Incanta terra che controlli. 
 La terra incantata ha "{T}: Una creatura bloccante bersaglio prende +1/+2 fino alla fine del turno."</text>
     <flavorText>
     </flavorText>
@@ -655,8 +654,8 @@ La terra incantata ha "{T}: Una creatura bloccante bersaglio prende +1/+2 fino a
   <item>
     <id>ICE0086</id>
     <name>Rinnovamento Perpetuo</name>
-    <text>Gioca con la tua mano rivelata.
-Se stai per pescare una carta, invece rivela la prima carta del tuo grimorio. Se è una carta creatura, mettila nel tuo cimitero. Altrimenti, pesca una carta.
+    <text>Gioca con la tua mano rivelata. 
+Se stai per pescare una carta, invece rivela la prima carta del tuo grimorio. Se è una carta creatura, mettila nel tuo cimitero. Altrimenti, pesca una carta. 
 Ogniqualvolta una creatura viene messa nel tuo cimitero dal campo di battaglia, riprendila in mano.</text>
     <flavorText>
     </flavorText>
@@ -664,16 +663,16 @@ Ogniqualvolta una creatura viene messa nel tuo cimitero dal campo di battaglia, 
   <item>
     <id>ICE0087</id>
     <name>Tempesta di Energia</name>
-    <text>Mantenimento cumulativo {1}
-Previeni tutto il danno che verrebbe inflitto da magie istantaneo e stregoneria.
-Le creature con volare non STAPpano durante lo STAP dei loro controllori.</text>
+    <text>Mantenimento cumulativo {1} 
+Previeni tutto il danno che verrebbe inflitto da magie istantaneo e stregoneria. 
+Le creature con volare non STAPpano durante lo STAP dei loro controllori. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0088</id>
     <name>Debilitare</name>
-    <text>TAPpa un artefatto, una creatura o una terra bersaglio.
+    <text>TAPpa un artefatto, una creatura o una terra bersaglio. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -681,7 +680,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0089</id>
     <name>Servitore Errante</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 All'inizio del mantenimento del controllore della creatura incantata, quel giocatore può pagare {1} o {2}. Il Servitore Errante infligge a quel giocatore un danno pari a 2 meno l'ammontare di mana pagato in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -689,7 +688,7 @@ All'inizio del mantenimento del controllore della creatura incantata, quel gioca
   <item>
     <id>ICE0090</id>
     <name>Cavaliere Errante</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +3/+0 e può attaccare soltanto da sola.</text>
     <flavorText>
     </flavorText>
@@ -704,8 +703,8 @@ La creatura incantata prende +3/+0 e può attaccare soltanto da sola.</text>
   <item>
     <id>ICE0092</id>
     <name>Esplosione Spirituale</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/+0.
+    <text>Incanta creatura 
+La creatura incantata prende +2/+0. 
 All'inizio del mantenimento del controllore della creatura incantata, metti un segnalino -0/-1 sulla creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -720,14 +719,14 @@ All'inizio del mantenimento del controllore della creatura incantata, metti un s
   <item>
     <id>ICE0094</id>
     <name>Fanatismo Febbrile</name>
-    <text>La creatura bersaglio prende +3/+0 e guadagna travolgere fino alla fine del turno.</text>
+    <text>La creatura bersaglio prende +3/+0 e guadagna travolgere fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0095</id>
     <name>Paura</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha paura. (Non può essere bloccata tranne che dalle creature artefatto e/o dalle creature nere.)</text>
     <flavorText>
     </flavorText>
@@ -735,14 +734,14 @@ La creatura incantata ha paura. (Non può essere bloccata tranne che dalle creat
   <item>
     <id>ICE0096</id>
     <name>Giustizia Fiammeggiante</name>
-    <text>La Giustizia Fiammeggiante infligge 5 danni divisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio. Un avversario bersaglio guadagna 5 punti vita.</text>
+    <text>La Giustizia Fiammeggiante infligge 5 danni divisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio. Un avversario bersaglio guadagna 5 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0097</id>
     <name>Patto di Fuoco</name>
-    <text>Come costo addizionale per lanciare il Patto di Fuoco, paga X punti vita.
+    <text>Come costo addizionale per lanciare il Patto di Fuoco, paga X punti vita. 
 Il Patto di Fuoco infligge X danni, divisi a tua scelta tra un qualsiasi numero di creature bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -750,14 +749,14 @@ Il Patto di Fuoco infligge X danni, divisi a tua scelta tra un qualsiasi numero 
   <item>
     <id>ICE0098</id>
     <name>Spirito della Fiamma</name>
-    <text>{R}: Lo Spirito della Fiamma prende +1/+0 fino alla fine del turno.</text>
+    <text>{R}: Lo Spirito della Fiamma prende +1/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0099</id>
     <name>Bagliore</name>
-    <text>Il Bagliore infligge 1 danno a una creatura o a un giocatore bersaglio.
+    <text>Il Bagliore infligge 1 danno a una creatura o a un giocatore bersaglio. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -772,7 +771,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0101</id>
     <name>Fiume di Larve</name>
-    <text>Mantenimento cumulativo  {1}
+    <text>Mantenimento cumulativo  {1} 
 Il Fiume di Larve non può essere bloccato dalle creature non Muro.</text>
     <flavorText>
     </flavorText>
@@ -787,7 +786,7 @@ Il Fiume di Larve non può essere bloccato dalle creature non Muro.</text>
   <item>
     <id>ICE0103</id>
     <name>Sapere Proibito</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata ha "{T}: La creatura bersaglio prende +2/+1 fino alla fine del turno."</text>
     <flavorText>
     </flavorText>
@@ -795,7 +794,7 @@ La terra incantata ha "{T}: La creatura bersaglio prende +2/+1 fino alla fine de
   <item>
     <id>ICE0104</id>
     <name>Campo di Forza *</name>
-    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}.
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -831,7 +830,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0109</id>
     <name>Formazione</name>
-    <text>La creatura bersaglio guadagna branco fino alla fine del turno.
+    <text>La creatura bersaglio guadagna branco fino alla fine del turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -839,7 +838,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0110</id>
     <name>Famiglio Ripugnante</name>
-    <text>Il Famiglio Ripugnante non può bloccare.
+    <text>Il Famiglio Ripugnante non può bloccare. 
 {B}, Paga 1 punto vita: Il proprietario riprende in mano il Famiglio Ripugnante.</text>
     <flavorText>
     </flavorText>
@@ -847,7 +846,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0111</id>
     <name>Fuoco di Paglia</name>
-    <text>STAPpa una creatura attaccante bersaglio. Previeni tutto il danno da combattimento che verrebbe inflitto e ricevuto da quella creatura in questo turno.
+    <text>STAPpa una creatura attaccante bersaglio. Previeni tutto il danno da combattimento che verrebbe inflitto e ricevuto da quella creatura in questo turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -862,7 +861,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0113</id>
     <name>Monile di Freyalise</name>
-    <text>Ogniqualvolta un avversario lancia una magia nera, puoi pagare {G}{G}. Se lo fai, tu peschi una carta.
+    <text>Ogniqualvolta un avversario lancia una magia nera, puoi pagare {G}{G}. Se lo fai, tu peschi una carta. 
 {G}{G}: Il proprietario riprende in mano il Monile di Freyalise.</text>
     <flavorText>
     </flavorText>
@@ -870,7 +869,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0114</id>
     <name>Venti di Freyalise</name>
-    <text>Ogniqualvolta un permanente diventa TAPpato, metti un segnalino vento su di esso.
+    <text>Ogniqualvolta un permanente diventa TAPpato, metti un segnalino vento su di esso. 
 Se un permanente con un segnalino vento sta per STAPpare durante lo STAP del suo controllore, invece rimuovi tutti i segnalini vento da quel permanente.</text>
     <flavorText>
     </flavorText>
@@ -878,7 +877,7 @@ Se un permanente con un segnalino vento sta per STAPpare durante lo STAP del suo
   <item>
     <id>ICE0115</id>
     <name>Fumarola</name>
-    <text>Come costo addizionale per lanciare la Fumarola, paga 3 punti vita.
+    <text>Come costo addizionale per lanciare la Fumarola, paga 3 punti vita. 
 Distruggi una creatura bersaglio e una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -886,9 +885,9 @@ Distruggi una creatura bersaglio e una terra bersaglio.</text>
   <item>
     <id>ICE0116</id>
     <name>Fylgja</name>
-    <text>Incanta creatura
-La Fylgja entra nel campo di battaglia con quattro segnalini cura.
-Rimuovi un segnalino cura dalla Fylgja: Previeni il prossimo punto danno che verrebbe inflitto alla creatura incantata in questo turno.
+    <text>Incanta creatura 
+La Fylgja entra nel campo di battaglia con quattro segnalini cura. 
+Rimuovi un segnalino cura dalla Fylgja: Previeni il prossimo punto danno che verrebbe inflitto alla creatura incantata in questo turno. 
 {2}{W}: Metti un segnalino cura sulla Fylgja.</text>
     <flavorText>
     </flavorText>
@@ -910,7 +909,7 @@ Rimuovi un segnalino cura dalla Fylgja: Previeni il prossimo punto danno che ver
   <item>
     <id>ICE0119</id>
     <name>Antico di Fyndhorn</name>
-    <text>{T}: Aggiungi {G}{G} alla tua riserva di mana.</text>
+    <text>{T}: Aggiungi {G}{G} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -924,8 +923,8 @@ Rimuovi un segnalino cura dalla Fylgja: Previeni il prossimo punto danno che ver
   <item>
     <id>ICE0121</id>
     <name>Polline di Fyndhorn</name>
-    <text>Mantenimento cumulativo {1}
-Tutte le creature prendono -1/-0.
+    <text>Mantenimento cumulativo {1} 
+Tutte le creature prendono -1/-0. 
 {1}{G}: Tutte le creature prendono -1/-0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -940,7 +939,7 @@ Tutte le creature prendono -1/-0.
   <item>
     <id>ICE0123</id>
     <name>Zombi Cancrenosi</name>
-    <text>{T}, Sacrifica gli Zombi Cancrenosi: Gli Zombi Cancrenosi infliggono 1 danno ad ogni creatura e ad ogni giocatore. Se controlli almeno una Palude neve, invece gli Zombi Cancrenosi infliggono 2 danni ad ogni creatura e ad ogni giocatore.</text>
+    <text>{T}, Sacrifica gli Zombi Cancrenosi: Gli Zombi Cancrenosi infliggono 1 danno ad ogni creatura e ad ogni giocatore. Se controlli almeno una Palude neve, invece gli Zombi Cancrenosi infliggono 2 danni ad ogni creatura e ad ogni giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -982,9 +981,9 @@ Tutte le creature prendono -1/-0.
   <item>
     <id>ICE0129</id>
     <name>Baratro Glaciale</name>
-    <text>Mantenimento cumulativo-Paga 2 punti vita.
-Quando il Baratro Glaciale entra nel campo di battaglia, sacrifica una terra. 
-Le creature che controlli non possono attaccare.
+    <text>Mantenimento cumulativo-Paga 2 punti vita. 
+Quando il Baratro Glaciale entra nel campo di battaglia, sacrifica una terra.  
+Le creature che controlli non possono attaccare. 
 Previeni tutto il danno che ti verrebbe inflitto.</text>
     <flavorText>
     </flavorText>
@@ -1006,7 +1005,7 @@ Previeni tutto il danno che ti verrebbe inflitto.</text>
   <item>
     <id>ICE0132</id>
     <name>Ghiacciai</name>
-    <text>All'inizio del tuo mantenimento, sacrifica i Ghiacciai a meno che tu paghi {W}{U}.
+    <text>All'inizio del tuo mantenimento, sacrifica i Ghiacciai a meno che tu paghi {W}{U}. 
 Tutte le Montagne sono Pianure.</text>
     <flavorText>
     </flavorText>
@@ -1014,15 +1013,15 @@ Tutte le Montagne sono Pianure.</text>
   <item>
     <id>ICE0133</id>
     <name>Lira dei Goblin</name>
-    <text>Sacrifica la Lira dei Goblin: Lancia una moneta. Se vinci il lancio, la Lira dei Goblin infligge all'avversario bersaglio un  danno pari al numero di creature che controlli. Se perdi il lancio, la Lira dei Goblin ti infligge un danno pari al numero di creature controllate da quell'avversario.</text>
+    <text>Sacrifica la Lira dei Goblin: Lancia una moneta. Se vinci il lancio, la Lira dei Goblin infligge all'avversario bersaglio un  danno pari al numero di creature che controlli. Se perdi il lancio, la Lira dei Goblin ti infligge un danno pari al numero di creature controllate da quell'avversario. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0134</id>
     <name>Goblin Mutante</name>
-    <text>Travolgere
-Il Goblin Mutante non può attaccare se il giocatore in difesa controlla una creatura STAPpata con forza pari o superiore a 3.
+    <text>Travolgere 
+Il Goblin Mutante non può attaccare se il giocatore in difesa controlla una creatura STAPpata con forza pari o superiore a 3. 
 Il Goblin Mutante non può bloccare le creature con forza pari o superiore a 3.</text>
     <flavorText>
     </flavorText>
@@ -1030,7 +1029,7 @@ Il Goblin Mutante non può bloccare le creature con forza pari o superiore a 3.<
   <item>
     <id>ICE0135</id>
     <name>Goblin Guastatori</name>
-    <text>{R}{R}, {T}: La creatura bersaglio che controlli non può essere bloccata in questo turno. Alla fine del combattimento distruggi quella creatura e i Goblin Guastatori.
+    <text>{R}{R}, {T}: La creatura bersaglio che controlli non può essere bloccata in questo turno. Alla fine del combattimento distruggi quella creatura e i Goblin Guastatori. 
 {R}{R}{R}{R}, {T}: La creatura bersaglio che controlli non può essere bloccata in questo turno. Alla fine del combattimento distruggila.</text>
     <flavorText>
     </flavorText>
@@ -1045,7 +1044,7 @@ Il Goblin Mutante non può bloccare le creature con forza pari o superiore a 3.<
   <item>
     <id>ICE0137</id>
     <name>Pupazzo di Neve dei Goblin</name>
-    <text>Ogniqualvolta il Pupazzo di Neve dei Goblin blocca, previeni tutto il danno da combattimento che dovrebbe infliggere e ricevere in questo turno.
+    <text>Ogniqualvolta il Pupazzo di Neve dei Goblin blocca, previeni tutto il danno da combattimento che dovrebbe infliggere e ricevere in questo turno. 
 {T}: Il Pupazzo di Neve dei Goblin infligge 1 danno alla creatura bersaglio che lui sta bloccando.</text>
     <flavorText>
     </flavorText>
@@ -1053,7 +1052,7 @@ Il Goblin Mutante non può bloccare le creature con forza pari o superiore a 3.<
   <item>
     <id>ICE0138</id>
     <name>Branco di Gorilla</name>
-    <text>Il Branco di Gorilla non può attaccare a meno che il giocatore in difesa controlli una Foresta.
+    <text>Il Branco di Gorilla non può attaccare a meno che il giocatore in difesa controlli una Foresta. 
 Quando non controlli una Foresta, sacrifica il Branco di Gorilla.</text>
     <flavorText>
     </flavorText>
@@ -1061,7 +1060,7 @@ Quando non controlli una Foresta, sacrifica il Branco di Gorilla.</text>
   <item>
     <id>ICE0139</id>
     <name>Vincolo Tombale</name>
-    <text>La creatura bersaglio non può essere rigenerata in questo turno.
+    <text>La creatura bersaglio non può essere rigenerata in questo turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -1069,8 +1068,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0140</id>
     <name>Scarabeo Verde</name>
-    <text>Incanta creatura
-La creatura incantata non può essere bloccata da creature verdi.
+    <text>Incanta creatura 
+La creatura incantata non può essere bloccata da creature verdi. 
 La creatura incantata prende +2/+2 fintanto che un avversario controlla un permanente verde.</text>
     <flavorText>
     </flavorText>
@@ -1092,7 +1091,7 @@ La creatura incantata prende +2/+2 fintanto che un avversario controlla un perma
   <item>
     <id>ICE0143</id>
     <name>Saloni della Nebbia</name>
-    <text>Mantenimento cumulativo {1}
+    <text>Mantenimento cumulativo {1} 
 Le creature che hanno attaccato durante l'ultimo turno del loro controllore non possono attaccare.</text>
     <flavorText>
     </flavorText>
@@ -1100,7 +1099,7 @@ Le creature che hanno attaccato durante l'ultimo turno del loro controllore non 
   <item>
     <id>ICE0144</id>
     <name>Guarigione</name>
-    <text>Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.
+    <text>Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -1108,8 +1107,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0145</id>
     <name>Ecatombe</name>
-    <text>Quando l'Ecatombe entra nel campo di battaglia, sacrifica l'Ecatombe a meno che tu sacrifichi quattro creature.
-TAPpa una Palude STAPpata che controlli : L'Ecatombe infligge 1 danno a una creatura o a un giocatore bersaglio. [Oracle 2003/07/01]</text>
+    <text>Quando l'Ecatombe entra nel campo di battaglia, sacrifica l'Ecatombe a meno che tu sacrifichi quattro creature. 
+TAPpa una Palude STAPpata che controlli : L'Ecatombe infligge 1 danno a una creatura o a un giocatore bersaglio. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1130,14 +1129,14 @@ TAPpa una Palude STAPpata che controlli : L'Ecatombe infligge 1 danno a una crea
   <item>
     <id>ICE0148</id>
     <name>Ombra della Brina</name>
-    <text>{B}: L'Ombra della Brina prende +1/+1 fino alla fine del turno.</text>
+    <text>{B}: L'Ombra della Brina prende +1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0149</id>
     <name>Sorgenti Calde</name>
-    <text>Incanta terra che tu controlli.
+    <text>Incanta terra che tu controlli. 
 La terra incantata ha "{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura od a un giocatore bersaglio in questo turno."</text>
     <flavorText>
     </flavorText>
@@ -1145,14 +1144,14 @@ La terra incantata ha "{T}: Previeni il prossimo punto danno che verrebbe inflit
   <item>
     <id>ICE0150</id>
     <name>Ululato Infernale</name>
-    <text>La creatura bersaglio prende +X/+0 fino alla fine del turno.</text>
+    <text>La creatura bersaglio prende +X/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0151</id>
     <name>Uragano</name>
-    <text>L'Uragano infligge X danni a ogni creatura con volare e a ogni giocatore.</text>
+    <text>L'Uragano infligge X danni a ogni creatura con volare e a ogni giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1180,7 +1179,7 @@ La terra incantata ha "{T}: Previeni il prossimo punto danno che verrebbe inflit
   <item>
     <id>ICE0155</id>
     <name>Calderone di Ghiaccio</name>
-    <text>{X}, {T}: Metti un segnalino carica sul Calderone di Ghiaccio e esilia una carta non terra dalla tua mano. Puoi lanciarla fintanto che quella carta resta esiliata. Segna il tipo e l'ammontare di mana speso per pagare questo costo di attivazione. Attiva questa abilità solo se non ci sono segnalini carica sul Calderone di Ghiaccio.
+    <text>{X}, {T}: Metti un segnalino carica sul Calderone di Ghiaccio e esilia una carta non terra dalla tua mano. Puoi lanciarla fintanto che quella carta resta esiliata. Segna il tipo e l'ammontare di mana speso per pagare questo costo di attivazione. Attiva questa abilità solo se non ci sono segnalini carica sul Calderone di Ghiaccio. 
 {T}, Rimuovi un segnalino carica dal Calderone di Ghiaccio: Aggiungi alla tua riserva di mana, l'ultimo tipo e ammontare segnato. Spendi questo mana solo per lanciare l'ultima carta esiliata con il Calderone di Ghiaccio.</text>
     <flavorText>
     </flavorText>
@@ -1188,7 +1187,7 @@ La terra incantata ha "{T}: Previeni il prossimo punto danno che verrebbe inflit
   <item>
     <id>ICE0156</id>
     <name>Banchisa</name>
-    <text>Puoi scegliere di non STAPpare la Banchisa durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare la Banchisa durante il tuo STAP. 
 {T}: TAPpa una creatura bersaglio senza volare che ti sta attaccando. Fintanto che la Banchisa rimane TAPpata, quella creatura non STAPpa durante lo STAP del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -1196,8 +1195,8 @@ La terra incantata ha "{T}: Previeni il prossimo punto danno che verrebbe inflit
   <item>
     <id>ICE0157</id>
     <name>Iceberg</name>
-    <text>L'Iceberg entra nel campo di battaglia con X segnalini ghiaccio.
-{3}: Metti un segnalino ghiaccio sull'Iceberg.
+    <text>L'Iceberg entra nel campo di battaglia con X segnalini ghiaccio. 
+{3}: Metti un segnalino ghiaccio sull'Iceberg. 
 Rimuovi un segnalino ghiaccio dall'Iceberg: Aggiungi {1} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1219,8 +1218,8 @@ Rimuovi un segnalino ghiaccio dall'Iceberg: Aggiungi {1} alla tua riserva di man
   <item>
     <id>ICE0160</id>
     <name>Prigione di Ghiaccio</name>
-    <text>Quando la Prigione di Ghiaccio entra nel campo di battaglia, esilia una creatura bersaglio.
-All'inizio del tuo mantenimento, sacrifica la Prigione di Ghiaccio a meno che un qualsiasi giocatore paghi {3}.
+    <text>Quando la Prigione di Ghiaccio entra nel campo di battaglia, esilia una creatura bersaglio. 
+All'inizio del tuo mantenimento, sacrifica la Prigione di Ghiaccio a meno che un qualsiasi giocatore paghi {3}. 
 Quando la Prigione di Ghiaccio lascia il campo di battaglia, rimetti nel campo di battaglia la creatura esiliata sotto il controllo del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -1228,7 +1227,7 @@ Quando la Prigione di Ghiaccio lascia il campo di battaglia, rimetti nel campo d
   <item>
     <id>ICE0161</id>
     <name>Forze Illusorie</name>
-    <text>Volare
+    <text>Volare 
 Mantenimento cumulativo {U}</text>
     <flavorText>
     </flavorText>
@@ -1236,7 +1235,7 @@ Mantenimento cumulativo {U}</text>
   <item>
     <id>ICE0162</id>
     <name>Presenza Illusoria</name>
-    <text>Mantenimento cumulativo {U}
+    <text>Mantenimento cumulativo {U} 
 All'inizio del tuo mantenimento, scegli un tipo di terra. La Presenza Illusoria guadagna passa-terre del tipo scelto fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1244,8 +1243,8 @@ All'inizio del tuo mantenimento, scegli un tipo di terra. La Presenza Illusoria 
   <item>
     <id>ICE0163</id>
     <name>Terreno Ingannevole</name>
-    <text>Mantenimento Cumulativo {2}
-Mentre il Terreno Ingannevole entra nel campo di battaglia, scegli due tipi di terra base.
+    <text>Mantenimento Cumulativo {2} 
+Mentre il Terreno Ingannevole entra nel campo di battaglia, scegli due tipi di terra base. 
 Le terre base del primo tipo scelto sono del secondo tipo scelto.</text>
     <flavorText>
     </flavorText>
@@ -1253,16 +1252,16 @@ Le terre base del primo tipo scelto sono del secondo tipo scelto.</text>
   <item>
     <id>ICE0164</id>
     <name>Muro Illusorio</name>
-    <text>Difensore, volare, attacco improvviso.
-Mantenimento Cumulativo {U}</text>
+    <text>Difensore, volare, attacco improvviso. 
+Mantenimento Cumulativo {U} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0165</id>
     <name>Illusione di Grandezza</name>
-    <text>Mantenimento Cumulativo {2}
-Quando l'Illusione di Grandezza entra nel campo di battaglia, guadagni 20 punti vita.
+    <text>Mantenimento Cumulativo {2} 
+Quando l'Illusione di Grandezza entra nel campo di battaglia, guadagni 20 punti vita. 
 Quando l'Illusione di Grandezza lascia il campo di battaglia, perdi 20 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -1270,7 +1269,7 @@ Quando l'Illusione di Grandezza lascia il campo di battaglia, perdi 20 punti vit
   <item>
     <id>ICE0166</id>
     <name>Aspetto Imponente *</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata non può essere bloccata, tranne che da due o più creature.</text>
     <flavorText>
     </flavorText>
@@ -1285,7 +1284,7 @@ La creatura incantata non può essere bloccata, tranne che da due o più creatur
   <item>
     <id>ICE0168</id>
     <name>Oscurità Infernale</name>
-    <text>Mantenimento cumulativo-Paga {B} e 1 punto vita.
+    <text>Mantenimento cumulativo-Paga {B} e 1 punto vita. 
 Se una terra è TAPpata per attingere mana, essa produce {B} invece di qualsiasi altro tipo.</text>
     <flavorText>
     </flavorText>
@@ -1293,7 +1292,7 @@ Se una terra è TAPpata per attingere mana, essa produce {B} invece di qualsiasi
   <item>
     <id>ICE0169</id>
     <name>Abitatore degli Inferi</name>
-    <text>All'inizio del tuo mantenimento, sacrifica due Paludi. Se non puoi farlo, TAPpa l'Abitatore degli Inferi, e un avversario può guadagnare il controllo di una creatura che controlli a sua scelta fintanto che l'Abitatore degli Inferi resta sul campo di battaglia.
+    <text>All'inizio del tuo mantenimento, sacrifica due Paludi. Se non puoi farlo, TAPpa l'Abitatore degli Inferi, e un avversario può guadagnare il controllo di una creatura che controlli a sua scelta fintanto che l'Abitatore degli Inferi resta sul campo di battaglia. 
 {T}: Guadagni il controllo di una creatura bersaglio fintanto che l'Abitatore degli Inferi resta nel campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -1301,8 +1300,8 @@ Se una terra è TAPpata per attingere mana, essa produce {B} invece di qualsiasi
   <item>
     <id>ICE0170</id>
     <name>Clessidra Infinita</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino tempo sulla Clessidra Infinita.
-Tutte le creature prendono +1/+0 per ogni segnalino tempo presente sulla Clessidra Infinita.
+    <text>All'inizio del tuo mantenimento, metti un segnalino tempo sulla Clessidra Infinita. 
+Tutte le creature prendono +1/+0 per ogni segnalino tempo presente sulla Clessidra Infinita. 
 {3}: Rimuovi un segnalino tempo dalla Clessidra Infinita. Qualsiasi giocatore può attivare questa abilità ma soltanto durante un qualsiasi mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -1310,7 +1309,7 @@ Tutte le creature prendono +1/+0 per ogni segnalino tempo presente sulla Clessid
   <item>
     <id>ICE0171</id>
     <name>Energizzare</name>
-    <text>STAPpa un artefatto, una creatura o una terra bersaglio.
+    <text>STAPpa un artefatto, una creatura o una terra bersaglio. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -1346,7 +1345,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0176</id>
     <name>Maschera del Giullare</name>
-    <text>La Maschera del Giullare entra nel campo di battaglia TAPpata.
+    <text>La Maschera del Giullare entra nel campo di battaglia TAPpata. 
 {1},{T}, Sacrifica la Maschera del Giullare: L'avversario bersaglio mette le carte della sua mano in cima al suo grimorio. Passa in rassegna il grimorio di quel giocatore per altrettante carte. Quel giocatore mette quelle carte nella sua mano, poi rimescola il suo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1354,7 +1353,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0177</id>
     <name>Amuleto Ingioiellato</name>
-    <text>{1},{T}: Metti un segnalino carica sull'Amuleto Ingioiellato. Segna il tipo di mana speso per pagare questo costo di attivazione. Attiva questa abilità solo se non ci sono segnalini carica sull'Amuleto Ingioiellato.
+    <text>{1},{T}: Metti un segnalino carica sull'Amuleto Ingioiellato. Segna il tipo di mana speso per pagare questo costo di attivazione. Attiva questa abilità solo se non ci sono segnalini carica sull'Amuleto Ingioiellato. 
 {T}, Rimuovi tutti i segnalini carica dall'Amuleto Ingioiellato: Aggiungi alla tua riserva di mana un mana dell'ultimo tipo segnato.</text>
     <flavorText>
     </flavorText>
@@ -1383,7 +1382,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0181</id>
     <name>Giustizia</name>
-    <text>All'inizio del tuo mantenimento, sacrifica la Giustizia a meno che tu paghi {W}{W}.
+    <text>All'inizio del tuo mantenimento, sacrifica la Giustizia a meno che tu paghi {W}{W}. 
 Ogniqualvolta una creatura rossa o una magia rossa infligge danno, la Giustizia infligge altrettanto danno al controllore di quella creatura o magia.</text>
     <flavorText>
     </flavorText>
@@ -1391,7 +1390,7 @@ Ogniqualvolta una creatura rossa o una magia rossa infligge danno, la Giustizia 
   <item>
     <id>ICE0182</id>
     <name>Foresta di Karplus</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Aggiungi {R} o {G} alla tua riserva di mana. La Foresta di Karplus ti infligge 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -1420,7 +1419,7 @@ Ogniqualvolta una creatura rossa o una magia rossa infligge danno, la Giustizia 
   <item>
     <id>ICE0186</id>
     <name>Morti di Kjeldor</name>
-    <text>Quando i Morti di Kjeldor entrano nel campo di battaglia, sacrifica una creatura.
+    <text>Quando i Morti di Kjeldor entrano nel campo di battaglia, sacrifica una creatura. 
 {B} : Rigenera i Morti di Kjeldor.</text>
     <flavorText>
     </flavorText>
@@ -1449,52 +1448,52 @@ Ogniqualvolta una creatura rossa o una magia rossa infligge danno, la Giustizia 
   <item>
     <id>ICE0190</id>
     <name>Cavaliere di Kjeldor</name>
-    <text>Branco
-{1}{W}: Il Cavaliere di Kjeldor prende +1/+0 fino alla fine del turno.
-{W}{W}: Il Cavaliere di Kjeldor prende +0/+2 fino alla fine del turno.</text>
+    <text>Branco 
+{1}{W}: Il Cavaliere di Kjeldor prende +1/+0 fino alla fine del turno. 
+{W}{W}: Il Cavaliere di Kjeldor prende +0/+2 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0191</id>
     <name>Falange di Kjeldor</name>
-    <text>Branco, attacco improvviso</text>
+    <text>Branco, attacco improvviso </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0192</id>
     <name>Guardia Reale di Kjeldor</name>
-    <text>{T}: Tutto il danno da combattimento che ti verrebbe inflitto da creature non bloccate in questo turno viene invece inflitto alla Guardia Reale di Kjeldor.</text>
+    <text>{T}: Tutto il danno da combattimento che ti verrebbe inflitto da creature non bloccate in questo turno viene invece inflitto alla Guardia Reale di Kjeldor. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0193</id>
     <name>Capitano dei Cieli di Kjeldor</name>
-    <text>Branco, volare, attacco improvviso</text>
+    <text>Branco, volare, attacco improvviso </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0194</id>
     <name>Cavaliere dei Cieli di Kjeldor</name>
-    <text>Branco, volare, attacco improvviso</text>
+    <text>Branco, volare, attacco improvviso </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0195</id>
     <name>Guerriero di Kjeldor</name>
-    <text>Branco</text>
+    <text>Branco </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0196</id>
     <name>Cavaliere di Stromgald</name>
-    <text>Protezione dal bianco
-{B}: Il Cavaliere di Stromgald guadagna attacco improvviso fino alla fine del turno.
+    <text>Protezione dal bianco 
+{B}: Il Cavaliere di Stromgald guadagna attacco improvviso fino alla fine del turno. 
 {B}{B}: Il Cavaliere di Stromgald prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1502,7 +1501,7 @@ Ogniqualvolta una creatura rossa o una magia rossa infligge danno, la Giustizia 
   <item>
     <id>ICE0197</id>
     <name>Elementalista di Krov</name>
-    <text>{2}{R}: La creatura bersaglio prende +1/+0 fino alla fine del turno.
+    <text>{2}{R}: La creatura bersaglio prende +1/+0 fino alla fine del turno. 
 {U}{U}: La creatura bersaglio che controlli, guadagna volare fino alla fine del turno. Sacrificala all'inizio della sottofase finale.</text>
     <flavorText>
     </flavorText>
@@ -1510,16 +1509,16 @@ Ogniqualvolta una creatura rossa o una magia rossa infligge danno, la Giustizia 
   <item>
     <id>ICE0198</id>
     <name>Feticcio di Krov</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra sul campo di battaglia assegnata a quella creatura.)
-Quando il Feticcio di Krov entra nel campo di battaglia, pesca una carta all'inizio del mantenimento del prossimo turno.
-La creatura incantata prende +1/+1. [Oracle 2000/02/01]</text>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra sul campo di battaglia assegnata a quella creatura.) 
+Quando il Feticcio di Krov entra nel campo di battaglia, pesca una carta all'inizio del mantenimento del prossimo turno. 
+La creatura incantata prende +1/+1. Oracle 2000/02/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0199</id>
     <name>Stregone di Krov</name>
-    <text>{T}, Scarta una carta non nera: Pesca un carta.
+    <text>{T}, Scarta una carta non nera: Pesca un carta. 
 {T}, Scarta una carta nera: Pesca due carte, poi scarta una di esse.</text>
     <flavorText>
     </flavorText>
@@ -1534,8 +1533,8 @@ La creatura incantata prende +1/+1. [Oracle 2000/02/01]</text>
   <item>
     <id>ICE0201</id>
     <name>Promontorio</name>
-    <text>Il Promontorio non STAPpa durante il tuo STAP se ha un segnalino desolazione su di esso.
-All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Promontorio.
+    <text>Il Promontorio non STAPpa durante il tuo STAP se ha un segnalino desolazione su di esso. 
+All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Promontorio. 
 {T}: Aggiungi {W} o {U} alla tua riserva di mana. Metti un segnalino desolazione sul Promontorio.</text>
     <flavorText>
     </flavorText>
@@ -1543,7 +1542,7 @@ All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Promontori
   <item>
     <id>ICE0202</id>
     <name>Talismano di Lapislazzuli</name>
-    <text>Ogniqualvolta viene lanciata una magia blu, puoi pagare {3}. Se lo fai, STAPpa un permanente bersaglio.</text>
+    <text>Ogniqualvolta viene lanciata una magia blu, puoi pagare {3}. Se lo fai, STAPpa un permanente bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1557,8 +1556,8 @@ All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Promontori
   <item>
     <id>ICE0204</id>
     <name>Canali Lavici</name>
-    <text>I Canali Lavici non STAPpano durante il tuo STAP se hanno un segnalino desolazione.
-All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dai Canali Lavici.
+    <text>I Canali Lavici non STAPpano durante il tuo STAP se hanno un segnalino desolazione. 
+All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dai Canali Lavici. 
 {T}: Aggiungi {B} o {R} alla tua riserva di mana. Metti un segnalino desolazione sui Canali Lavici.</text>
     <flavorText>
     </flavorText>
@@ -1573,15 +1572,15 @@ All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dai Canali Lav
   <item>
     <id>ICE0206</id>
     <name>Rito di Leshrac</name>
-    <text>Incanta creatura
-La creatura incantata ha passa-paludi.</text>
+    <text>Incanta creatura 
+La creatura incantata ha passa-paludi. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0207</id>
     <name>Sigillo di Leshrac</name>
-    <text>Ogniqualvolta un avversario lancia una magia verde, puoi pagare {B}{B}. Se lo fai, guarda la mano di quel giocatore e scegli una carta da essa. Il giocatore scarta quella carta.
+    <text>Ogniqualvolta un avversario lancia una magia verde, puoi pagare {B}{B}. Se lo fai, guarda la mano di quel giocatore e scegli una carta da essa. Il giocatore scarta quella carta. 
 {B}{B}: Il proprietario riprende in mano Sigillo di Leshrac.</text>
     <flavorText>
     </flavorText>
@@ -1589,14 +1588,14 @@ La creatura incantata ha passa-paludi.</text>
   <item>
     <id>ICE0208</id>
     <name>Lhurgoyf</name>
-    <text>La forza del Lhurgoyf è pari al numero di carte creatura presenti in tutti i cimiteri, e la sua costituzione è pari a quel numero più uno.</text>
+    <text>La forza del Lhurgoyf è pari al numero di carte creatura presenti in tutti i cimiteri, e la sua costituzione è pari a quel numero più uno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0209</id>
     <name>Attacco Fulmineo</name>
-    <text>Una creatura bersaglio guadagna attacco improvviso fino alla fine del turno.
+    <text>Una creatura bersaglio guadagna attacco improvviso fino alla fine del turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -1618,7 +1617,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0212</id>
     <name>Ordine Perduto di Jarkeld</name>
-    <text>Mentre l'Ordine Perduto di Jarkeld entra nel campo di battaglia, scegli un avversario.
+    <text>Mentre l'Ordine Perduto di Jarkeld entra nel campo di battaglia, scegli un avversario. 
 La forza e la costituzione dell'Ordine Perduto di Jarkeld sono pari ciascuna a 1 più il numero di creature controllate dal giocatore scelto.</text>
     <flavorText>
     </flavorText>
@@ -1626,7 +1625,7 @@ La forza e la costituzione dell'Ordine Perduto di Jarkeld sono pari ciascuna a 1
   <item>
     <id>ICE0213</id>
     <name>Richiamo</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Tutte le creature in grado di bloccare la creatura incantata lo fanno.</text>
     <flavorText>
     </flavorText>
@@ -1634,8 +1633,8 @@ Tutte le creature in grado di bloccare la creatura incantata lo fanno.</text>
   <item>
     <id>ICE0214</id>
     <name>Vento Sconvolgente</name>
-    <text>Incanta creatura
-Mantenimento cumulativo {G}
+    <text>Incanta creatura 
+Mantenimento cumulativo {G} 
 All'inizio del mantenimento del controllore della creatura incantata, il Vento Sconvolgente infligge 2 danni a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -1657,7 +1656,7 @@ All'inizio del mantenimento del controllore della creatura incantata, il Vento S
   <item>
     <id>ICE0217</id>
     <name>Marton Stromgald</name>
-    <text>Ogniqualvolta Marton Stromgald attacca, le altre creature attaccanti prendono +1/+1 fino alla fine del turno per ogni creatura attaccante diversa da Marton Stromgald.
+    <text>Ogniqualvolta Marton Stromgald attacca, le altre creature attaccanti prendono +1/+1 fino alla fine del turno per ogni creatura attaccante diversa da Marton Stromgald. 
 Ogniqualvolta Marton Stromgald blocca, le altre creature bloccanti prendono +1/+1 fino alla fine del turno per ogni creatura bloccante diversa da Marton Stromgald.</text>
     <flavorText>
     </flavorText>
@@ -1665,8 +1664,8 @@ Ogniqualvolta Marton Stromgald blocca, le altre creature bloccanti prendono +1/+
   <item>
     <id>ICE0218</id>
     <name>Corpo a Corpo</name>
-    <text>Lancia il Corpo a Corpo solo durante la tua fase di combattimento, prima che siano dichiarati i bloccanti.
-Invece del giocatore in difesa, sei tu a scegliere come ciascuna creatura blocca in questo turno.
+    <text>Lancia il Corpo a Corpo solo durante la tua fase di combattimento, prima che siano dichiarati i bloccanti. 
+Invece del giocatore in difesa, sei tu a scegliere come ciascuna creatura blocca in questo turno. 
 Ogniqualvolta una creatura attacca e non viene bloccata in questo turno, STAPpala e rimuovila dal combattimento.</text>
     <flavorText>
     </flavorText>
@@ -1681,14 +1680,14 @@ Ogniqualvolta una creatura attacca e non viene bloccata in questo turno, STAPpal
   <item>
     <id>ICE0220</id>
     <name>Mercenari</name>
-    <text>{3}: Previeni tutto il danno che ti verrebbe inflitto in questo turno da questa creatura. Qualsiasi giocatore può attivare questa abilità.</text>
+    <text>{3}: La prossima volta che i Mercenari ti infliggerebbero danno in questo turno, previeni quel danno. Qualsiasi giocatore può attivare questa abilità.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0221</id>
     <name>Merieke Ri Berit</name>
-    <text>Merieke Ri Berit non STAPpa durante il tuo STAP.
+    <text>Merieke Ri Berit non STAPpa durante il tuo STAP. 
 {T}: Prendi il controllo di una creatura bersaglio fintanto che controlli Merieke Ri Berit. Quando Merieke Ri Berit lascia il campo di battaglia o diventa STAPpata, distruggi quella creatura. Non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -1696,7 +1695,7 @@ Ogniqualvolta una creatura attacca e non viene bloccata in questo turno, STAPpal
   <item>
     <id>ICE0222</id>
     <name>Trance Ipnotico</name>
-    <text>Mantenimento Cumulativo {1}
+    <text>Mantenimento Cumulativo {1} 
 {U}, Scarta una carta: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1711,7 +1710,7 @@ Ogniqualvolta una creatura attacca e non viene bloccata in questo turno, STAPpal
   <item>
     <id>ICE0224</id>
     <name>Groviglio Mentale</name>
-    <text>Il giocatore bersaglio scarta una carta.
+    <text>Il giocatore bersaglio scarta una carta. 
 Tu peschi una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -1726,7 +1725,7 @@ Tu peschi una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0226</id>
     <name>Frusta Mentale</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 All'inizio del mantenimento del controllore della creatura incantata, quel giocatore può pagare {3}. Se non lo fa, la Frusta Mentale gli infligge 2 danni e tu TAPpi quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -1734,8 +1733,8 @@ All'inizio del mantenimento del controllore della creatura incantata, quel gioca
   <item>
     <id>ICE0227</id>
     <name>Servitore di Leshrac</name>
-    <text>Protezione dal nero
-All'inizio del tuo mantenimento, il Servitore di Leshrac ti infligge 5 danni a meno che tu sacrifichi una creatura diversa dal Servitore di Leshrac. Se il Servitore di Leshrac ti infligge danno in questo modo, TAPpalo.
+    <text>Protezione dal nero 
+All'inizio del tuo mantenimento, il Servitore di Leshrac ti infligge 5 danni a meno che tu sacrifichi una creatura diversa dal Servitore di Leshrac. Se il Servitore di Leshrac ti infligge danno in questo modo, TAPpalo. 
 {T}: Distruggi una creatura o una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1743,7 +1742,7 @@ All'inizio del tuo mantenimento, il Servitore di Leshrac ti infligge 5 danni a m
   <item>
     <id>ICE0228</id>
     <name>Servitore di Tevesh Szat</name>
-    <text>All'inizio del tuo mantenimento, il Servitore di Tevesh Szat ti infligge 2 danni a meno che tu paghi {B}{B}.
+    <text>All'inizio del tuo mantenimento, il Servitore di Tevesh Szat ti infligge 2 danni a meno che tu paghi {B}{B}. 
 {T}: La creatura bersaglio prende +3/-2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1758,7 +1757,7 @@ All'inizio del tuo mantenimento, il Servitore di Leshrac ti infligge 5 danni a m
   <item>
     <id>ICE0230</id>
     <name>Vermi Talpa</name>
-    <text>Puoi scegliere di non STAPpare i Vermi Talpa durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare i Vermi Talpa durante il tuo STAP. 
 {T}: TAPpa una terra bersaglio. Quella terra non STAPpa durante lo STAP del suo controllore fintanto che i Vermi Talpa restano TAPpati.</text>
     <flavorText>
     </flavorText>
@@ -1766,7 +1765,7 @@ All'inizio del tuo mantenimento, il Servitore di Leshrac ti infligge 5 danni a m
   <item>
     <id>ICE0231</id>
     <name>Monsone</name>
-    <text>All'inizio della sottofase finale di ogni giocatore, TAPpa tutte le Isole STAPpate che quel giocatore controlla e il Monsone infligge X danni a quel giocatore, dove X è il numero di Isole TAPpate in questo modo. [Oracle 2003/07/01]</text>
+    <text>All'inizio della sottofase finale di ogni giocatore, TAPpa tutte le Isole STAPpate che quel giocatore controlla e il Monsone infligge X danni a quel giocatore, dove X è il numero di Isole TAPpate in questo modo. Oracle 2003/07/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1801,7 +1800,7 @@ All'inizio del tuo mantenimento, il Servitore di Leshrac ti infligge 5 danni a m
   <item>
     <id>ICE0236</id>
     <name>Capra di Montagna</name>
-    <text>Passa-montagne.</text>
+    <text>Passa-montagne. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1815,7 +1814,7 @@ All'inizio del tuo mantenimento, il Servitore di Leshrac ti infligge 5 danni a m
   <item>
     <id>ICE0238</id>
     <name>Valanga di Fango</name>
-    <text>Le creature senza volare non STAPpano durante lo STAP dei loro controllori.
+    <text>Le creature senza volare non STAPpano durante lo STAP dei loro controllori. 
 All'inizio del mantenimento di ogni giocatore, quel giocatore può scegliere un qualsiasi numero di creature senza volare TAPpate che controlla e pagare {2} per ogni creatura scelta in questo modo. Se il giocatore lo fa, STAPpa quelle creature.</text>
     <flavorText>
     </flavorText>
@@ -1823,7 +1822,7 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore può scegliere un 
   <item>
     <id>ICE0239</id>
     <name>Musico</name>
-    <text>Mantenimento Cumulativo {1}
+    <text>Mantenimento Cumulativo {1} 
 {T}: Metti un segnalino musica su una creatura bersaglio. Se non ha "All'inizio del tuo mantenimento, distruggi questa creatura a meno che tu paghi {1} per ogni segnalino musica presente su di essa", guadagna questa abilità.</text>
     <flavorText>
     </flavorText>
@@ -1831,7 +1830,8 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore può scegliere un 
   <item>
     <id>ICE0240</id>
     <name>Potenza Mistica</name>
-    <text>Incanta terra che controlli; Mantenimento cumulativo {1}{U}
+    <text>Incanta terra che controlli
+Mantenimento cumulativo {1}{U} 
 La terra incantata ha "{T}: La creatura bersaglio prende +2/+2 fino alla fine del turno."</text>
     <flavorText>
     </flavorText>
@@ -1839,7 +1839,7 @@ La terra incantata ha "{T}: La creatura bersaglio prende +2/+2 fino alla fine de
   <item>
     <id>ICE0241</id>
     <name>Remora Mistica</name>
-    <text>Mantenimento Cumulativo {1}
+    <text>Mantenimento Cumulativo {1} 
 Ogniqualvolta un avversario lancia una magia non creatura, puoi pescare una carta a meno che quel giocatore paghi {4}.</text>
     <flavorText>
     </flavorText>
@@ -1854,7 +1854,7 @@ Ogniqualvolta un avversario lancia una magia non creatura, puoi pescare una cart
   <item>
     <id>ICE0243</id>
     <name>Paradosso Energetico</name>
-    <text>Mantenimento Cumulativo {3}.
+    <text>Mantenimento Cumulativo {3}. 
 Se vengono TAPpate per attingere mana, le Pianure producono {R}, le Isole producono {G}, le Paludi producono {W}, le Montagne producono {U} e le Foreste producono {B} anziché qualsiasi altro tipo.</text>
     <flavorText>
     </flavorText>
@@ -1869,8 +1869,8 @@ Se vengono TAPpate per attingere mana, le Pianure producono {R}, le Isole produc
   <item>
     <id>ICE0245</id>
     <name>Necropotenza</name>
-    <text>Salta la tua acquisizione.
-Ogniqualvolta scarti una carta, esilia quella carta dal tuo cimitero.
+    <text>Salta la tua acquisizione. 
+Ogniqualvolta scarti una carta, esilia quella carta dal tuo cimitero. 
 Paga 1 punto vita: Esilia a faccia in giù la prima carta del tuo grimorio. Aggiungila alla tua mano all'inizio della tua prossima sottofase finale.</text>
     <flavorText>
     </flavorText>
@@ -1878,7 +1878,7 @@ Paga 1 punto vita: Esilia a faccia in giù la prima carta del tuo grimorio. Aggi
   <item>
     <id>ICE0246</id>
     <name>Norritt</name>
-    <text>{T}: STAPpa una creatura blu.
+    <text>{T}: STAPpa una creatura blu. 
 {T}: Scegli una creatura non-Muro bersaglio che il giocatore attivo ha controllato ininterrottamente fino dall'inizio del turno. Quella creatura attacca in questo turno se può farlo. Se non lo fa, distruggila all'inizio della prossima sottofase finale. Attiva questa abilità solo prima della dichiarazione degli attaccanti.</text>
     <flavorText>
     </flavorText>
@@ -1886,7 +1886,7 @@ Paga 1 punto vita: Esilia a faccia in giù la prima carta del tuo grimorio. Aggi
   <item>
     <id>ICE0247</id>
     <name>Giuramento di Lim-Dûl</name>
-    <text>Ogniqualvolta perdi punti vita, per ogni singolo punto vita che hai perso, sacrifica un permanente diverso dal Giuramento di Lim-Dûl a meno che tu scarti una carta. (Il danno che ti viene inflitto ti causa una perdita di punti vita)
+    <text>Ogniqualvolta perdi punti vita, per ogni singolo punto vita che hai perso, sacrifica un permanente diverso dal Giuramento di Lim-Dûl a meno che tu scarti una carta. (Il danno che ti viene inflitto ti causa una perdita di punti vita) 
 {B}{B}: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1908,7 +1908,7 @@ Paga 1 punto vita: Esilia a faccia in giù la prima carta del tuo grimorio. Aggi
   <item>
     <id>ICE0250</id>
     <name>Orchi Coscritti</name>
-    <text>Gli Orchi Coscritti non possono attaccare a meno che almeno altre due creature attacchino.
+    <text>Gli Orchi Coscritti non possono attaccare a meno che almeno altre due creature attacchino. 
 Gli Orchi Coscritti non possono bloccare a meno che almeno altre due creature blocchino.</text>
     <flavorText>
     </flavorText>
@@ -1923,8 +1923,8 @@ Gli Orchi Coscritti non possono bloccare a meno che almeno altre due creature bl
   <item>
     <id>ICE0252</id>
     <name>Orco Guaritore</name>
-    <text>{R}{R}, {T}: Una creatura bersaglio non può essere rigenerata in questo turno.
-{B}{B}{R}, {T}: Rigenera una creatura nera o verde bersaglio.
+    <text>{R}{R}, {T}: Una creatura bersaglio non può essere rigenerata in questo turno. 
+{B}{B}{R}, {T}: Rigenera una creatura nera o verde bersaglio. 
 {R}{G}{G}, {T}: Rigenera una creatura nera o verde bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1953,16 +1953,16 @@ Gli Orchi Coscritti non possono bloccare a meno che almeno altre due creature bl
   <item>
     <id>ICE0256</id>
     <name>Ordine della Torcia Sacra</name>
-    <text>{T}, Paga 1 punto vita: Neutralizza una magia nera bersaglio.</text>
+    <text>{T}, Paga 1 punto vita: Neutralizza una magia nera bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0257</id>
     <name>Ordine dello Scudo Bianco</name>
-    <text>Protezione dal nero
-{W}: L'Ordine dello Scudo Bianco guadagna attacco improvviso fino alla fine del turno.
-{W}{W}: L'Ordine dello Scudo Bianco prende +1/+0 fino alla fine del turno.</text>
+    <text>Protezione dal nero 
+{W}: L'Ordine dello Scudo Bianco guadagna attacco improvviso fino alla fine del turno. 
+{W}{W}: L'Ordine dello Scudo Bianco prende +1/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1976,8 +1976,8 @@ Gli Orchi Coscritti non possono bloccare a meno che almeno altre due creature bl
   <item>
     <id>ICE0259</id>
     <name>Panico</name>
-    <text>Lancia questa magia solo durante il combattimento, prima che siano dichiarati i bloccanti.
-La creatura bersaglio non può bloccare in questo turno.
+    <text>Lancia questa magia solo durante il combattimento, prima che siano dichiarati i bloccanti. 
+La creatura bersaglio non può bloccare in questo turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -1999,8 +1999,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0262</id>
     <name>Destriero Spettrale</name>
-    <text>Volare
-{T}: La creatura bersaglio che controlli con costituzione pari o inferiore a 2, prende +1/+1 e guadagna volare fino alla fine del turno. Quando il Destriero Spettrale lascia il campo di battaglia in questo turno, sacrifica quella creatura.
+    <text>Volare 
+{T}: La creatura bersaglio che controlli con costituzione pari o inferiore a 2, prende +1/+1 e guadagna volare fino alla fine del turno. Quando il Destriero Spettrale lascia il campo di battaglia in questo turno, sacrifica quella creatura. 
 Quando la creatura lascia il campo di battaglia in questo turno, sacrifica il Destriero Spettrale.</text>
     <flavorText>
     </flavorText>
@@ -2036,16 +2036,16 @@ Quando la creatura lascia il campo di battaglia in questo turno, sacrifica il De
   <item>
     <id>ICE0267</id>
     <name>Kraken Polare</name>
-    <text>Travolgere
-Il Kraken Polare entra nel campo di battaglia TAPpato.
-Mantenimento cumulativo-Sacrifica una terra.</text>
+    <text>Travolgere 
+Il Kraken Polare entra nel campo di battaglia TAPpato. 
+Mantenimento cumulativo-Sacrifica una terra. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0268</id>
     <name>Portento</name>
-    <text>Guarda le prime 3 carte del grimorio di un giocatore bersaglio, poi rimettile a posto in un qualsiasi ordine. Puoi decidere che quel giocatore rimescoli il proprio grimorio.
+    <text>Guarda le prime 3 carte del grimorio di un giocatore bersaglio, poi rimettile a posto in un qualsiasi ordine. Puoi decidere che quel giocatore rimescoli il proprio grimorio. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -2067,8 +2067,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0271</id>
     <name>Sigillo Prismatico</name>
-    <text>Incanta creatura
-Mentre il Sigillo Prismatico entra nel campo di battaglia, scegli un colore.
+    <text>Incanta creatura 
+Mentre il Sigillo Prismatico entra nel campo di battaglia, scegli un colore. 
 Previeni tutto il danno che verrebbe inflitto alla creatura incantata dalle fonti del colore scelto.</text>
     <flavorText>
     </flavorText>
@@ -2097,7 +2097,7 @@ Previeni tutto il danno che verrebbe inflitto alla creatura incantata dalle font
   <item>
     <id>ICE0275</id>
     <name>Piroclasma</name>
-    <text>Il Piroclasma infligge 2 danni a ogni creatura.</text>
+    <text>Il Piroclasma infligge 2 danni a ogni creatura. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2111,14 +2111,14 @@ Previeni tutto il danno che verrebbe inflitto alla creatura incantata dalle font
   <item>
     <id>ICE0277</id>
     <name>Raggio del Comando</name>
-    <text>STAPpa una creatura bersaglio controllata da un avversario e prendine il controllo fino alla fine del turno. Quella creatura guadagna rapidità fino alla fine del turno. Quando perdi il controllo della creatura, TAPpala.</text>
+    <text>STAPpa una creatura bersaglio controllata da un avversario e prendine il controllo fino alla fine del turno. Quella creatura guadagna rapidità fino alla fine del turno. Quando perdi il controllo della creatura, TAPpala. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0278</id>
     <name>Raggio dell'Annullamento</name>
-    <text>Il giocatore bersaglio mette nel suo cimitero la prima carta del suo grimorio.
+    <text>Il giocatore bersaglio mette nel suo cimitero la prima carta del suo grimorio. 
 Tu peschi una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -2126,7 +2126,7 @@ Tu peschi una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0279</id>
     <name>Distorsione della Realtà</name>
-    <text>Mantenimento cumulativo {1}{U}{U}
+    <text>Mantenimento cumulativo {1}{U}{U} 
 Se vengono TAPpate per attingere mana, le Pianure producono {R}, le Paludi producono {G}, le Montagne producono {W}, e le Foreste producono {B} anziché qualsiasi altro tipo.</text>
     <flavorText>
     </flavorText>
@@ -2141,8 +2141,8 @@ Se vengono TAPpate per attingere mana, le Pianure producono {R}, le Paludi produ
   <item>
     <id>ICE0281</id>
     <name>Scarabeo Rosso</name>
-    <text>Incanta creatura
-La creatura incantata non può essere bloccata da creature rosse.
+    <text>Incanta creatura 
+La creatura incantata non può essere bloccata da creature rosse. 
 La creatura incantata prende +2/+2 fintanto che un avversario controlla un permanente rosso.</text>
     <flavorText>
     </flavorText>
@@ -2150,7 +2150,7 @@ La creatura incantata prende +2/+2 fintanto che un avversario controlla un perma
   <item>
     <id>ICE0282</id>
     <name>Rigenerazione</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
 {G}: Rigenera la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -2165,7 +2165,7 @@ La creatura incantata prende +2/+2 fintanto che un avversario controlla un perma
   <item>
     <id>ICE0284</id>
     <name>Rituale di Sottomissione</name>
-    <text>Mantenimento cumulativo {2}
+    <text>Mantenimento cumulativo {2} 
 Se una terra viene TAPpata per attingere mana, essa produce mana incolore anziché di qualsiasi altro tipo.</text>
     <flavorText>
     </flavorText>
@@ -2173,8 +2173,8 @@ Se una terra viene TAPpata per attingere mana, essa produce mana incolore anzich
   <item>
     <id>ICE0285</id>
     <name>Delta del Fiume</name>
-    <text>Il Delta del Fiume non STAPpa durante il tuo STAP se ha un segnalino desolazione su di esso.
-All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Delta del Fiume.
+    <text>Il Delta del Fiume non STAPpa durante il tuo STAP se ha un segnalino desolazione su di esso. 
+All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Delta del Fiume. 
 {T}: Aggiungi {U} o {B} alla tua riserva di mana. Metti un segnalino desolazione sul Delta del Fiume.</text>
     <flavorText>
     </flavorText>
@@ -2182,7 +2182,7 @@ All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Delta del 
   <item>
     <id>ICE0286</id>
     <name>Volta Runica</name>
-    <text>La Volta Runica entra nel campo di battaglia TAPpata.
+    <text>La Volta Runica entra nel campo di battaglia TAPpata. 
 {X}, {T}, Sacrifica la Volta Runica: X creature bersaglio con forza pari o inferiore a 2 non possono essere bloccate in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -2204,22 +2204,21 @@ All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Delta del 
   <item>
     <id>ICE0289</id>
     <name>Wurm Squamato</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0290</id>
     <name>Spirito del Mare</name>
-    <text>{U}: Lo Spirito del Mare prende +1/+0 fino alla fine del turno.</text>
+    <text>{U}: Lo Spirito del Mare prende +1/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0291</id>
     <name>Convulsioni</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta la creatura incantata diventa TAPpata, le Convulsioni infliggono 3 danni al controllore della creatura incantata a meno che quel giocatore paghi {3}.</text>
     <flavorText>
     </flavorText>
@@ -2227,7 +2226,7 @@ Ogniqualvolta la creatura incantata diventa TAPpata, le Convulsioni infliggono 3
   <item>
     <id>ICE0292</id>
     <name>Serafino</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta una creatura danneggiata dal Serafino in questo turno viene messa in un cimitero, metti sul campo di battaglia quella creatura sotto il tuo controllo all'inizio della prossima sottofase finale. Sacrifica la creatura quando perdi il controllo del Serafino.</text>
     <flavorText>
     </flavorText>
@@ -2242,14 +2241,14 @@ Ogniqualvolta una creatura danneggiata dal Serafino in questo turno viene messa 
   <item>
     <id>ICE0294</id>
     <name>Distruggi Artefatto</name>
-    <text>Distruggi un artefatto bersaglio.</text>
+    <text>Distruggi un artefatto bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0295</id>
     <name>Portatore di Scudo</name>
-    <text>Branco</text>
+    <text>Branco </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2270,8 +2269,8 @@ Ogniqualvolta una creatura danneggiata dal Serafino in questo turno viene messa 
   <item>
     <id>ICE0298</id>
     <name>Spirito Sibilante</name>
-    <text>Volare
-Ogniqualvolta lo Spirito Sibilante attacca, il giocatore in difesa può pescare una carta.</text>
+    <text>Volare 
+Ogniqualvolta lo Spirito Sibilante attacca, il giocatore in difesa può pescare una carta. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2285,7 +2284,7 @@ Ogniqualvolta lo Spirito Sibilante attacca, il giocatore in difesa può pescare 
   <item>
     <id>ICE0300</id>
     <name>Nave Scheletrica</name>
-    <text>Quando non controlli Isole, sacrifica la Nave Scheletrica.
+    <text>Quando non controlli Isole, sacrifica la Nave Scheletrica. 
 {T}: Metti un segnalino -1/-1 su una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2307,8 +2306,8 @@ Ogniqualvolta lo Spirito Sibilante attacca, il giocatore in difesa può pescare 
   <item>
     <id>ICE0303</id>
     <name>Diavolo delle Nevi</name>
-    <text>Incanta creatura
-La creatura incantata ha volare.
+    <text>Incanta creatura 
+La creatura incantata ha volare. 
 La creatura incantata ha attacco improvviso fintanto che sta bloccando e tu controlli una terra neve.</text>
     <flavorText>
     </flavorText>
@@ -2316,9 +2315,9 @@ La creatura incantata ha attacco improvviso fintanto che sta bloccando e tu cont
   <item>
     <id>ICE0304</id>
     <name>Fortezza delle Nevi</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-{1}: La Fortezza delle nevi prende +1/+0 fino alla fine del turno.
-{1}: La Fortezza delle nevi prende +0/+1 fino alla fine del turno.
+    <text>Difensore (Questa creatura non può attaccare.) 
+{1}: La Fortezza delle nevi prende +1/+0 fino alla fine del turno. 
+{1}: La Fortezza delle nevi prende +0/+1 fino alla fine del turno. 
 {3}: La Fortezza delle Nevi infligge 1 danno a una creatura bersaglio senza volare che ti sta attaccando.</text>
     <flavorText>
     </flavorText>
@@ -2333,7 +2332,7 @@ La creatura incantata ha attacco improvviso fintanto che sta bloccando e tu cont
   <item>
     <id>ICE0306</id>
     <name>Tormenta Accecante</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende -X/-Y. Se quella creatura sta attaccando, X è il numero di terre neve controllate dal giocatore in difesa. Altrimenti, X è il numero di terre neve controllate dal suo controllore. Y è pari a X o alla costituzione della creatura incantata meno 1, quale dei due è il minore.</text>
     <flavorText>
     </flavorText>
@@ -2341,47 +2340,42 @@ La creatura incantata prende -X/-Y. Se quella creatura sta attaccando, X è il n
   <item>
     <id>ICE0307</id>
     <name>Foresta Innevata</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0308</id>
     <name>Isola Innevata</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0309</id>
     <name>Montagna Innevata</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0310</id>
     <name>Pianura Innevata</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0311</id>
     <name>Palude Innevata</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0312</id>
     <name>Nevicata</name>
-    <text>Mantenimento Cumulativo {U}
+    <text>Mantenimento Cumulativo {U} 
 Ogniqualvolta un'Isola viene TAPpata per attingere mana, il suo controllore può aggiungere {U} alla sua riserva di mana (in aggiunta al mana prodotto dalla terra). Se quella Isola è neve, il suo controllore può invece aggiungere {U}{U} alla sua riserva di mana. Spendi questo mana solo per pagare costi di mantenimenti cumulativi.</text>
     <flavorText>
     </flavorText>
@@ -2389,7 +2383,7 @@ Ogniqualvolta un'Isola viene TAPpata per attingere mana, il suo controllore può
   <item>
     <id>ICE0313</id>
     <name>Golem di Soldevi</name>
-    <text>Il Golem di Soldevi non STAPpa durante il tuo STAP.
+    <text>Il Golem di Soldevi non STAPpa durante il tuo STAP. 
 All'inizio del tuo mantenimento, puoi STAPpare una creatura TAPpata bersaglio controllata da un avversario. Se lo fai, STAPpa il Golem di Soldevi.</text>
     <flavorText>
     </flavorText>
@@ -2404,7 +2398,7 @@ All'inizio del tuo mantenimento, puoi STAPpare una creatura TAPpata bersaglio co
   <item>
     <id>ICE0315</id>
     <name>Simulacro di Soldevi</name>
-    <text>Mantenimento Cumulativo {1}
+    <text>Mantenimento Cumulativo {1} 
 {1}: Il Simulacro di Soldevi prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2426,7 +2420,7 @@ All'inizio del tuo mantenimento, puoi STAPpare una creatura TAPpata bersaglio co
   <item>
     <id>ICE0318</id>
     <name>Bruciare l'Anima</name>
-    <text>Spendi solo mana nero e/o rosso per X.
+    <text>Spendi solo mana nero e/o rosso per X. 
 Bruciare l'Anima infligge X danni a una creatura o ad un giocatore bersaglio. Guadagni punti vita pari al danno inflitto, ma non più dell'ammontare di {B} pagati per X, o dei punti vita totali del giocatore prima che Bruciare l'Anima infliggesse il danno, o della costituzione della creatura.</text>
     <flavorText>
     </flavorText>
@@ -2434,7 +2428,7 @@ Bruciare l'Anima infligge X danni a una creatura o ad un giocatore bersaglio. Gu
   <item>
     <id>ICE0319</id>
     <name>Bacio dell'Anima</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {B}, Paga 1 punto vita: La creatura incantata prende +2/+2 fino alla fine del turno. Attiva questa abilità non più di tre volte ogni turno.</text>
     <flavorText>
     </flavorText>
@@ -2442,7 +2436,7 @@ Bruciare l'Anima infligge X danni a una creatura o ad un giocatore bersaglio. Gu
   <item>
     <id>ICE0320</id>
     <name>Scudo Spettrale</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +0/+2 e non può essere bersaglio di magie.</text>
     <flavorText>
     </flavorText>
@@ -2457,7 +2451,7 @@ La creatura incantata prende +0/+2 e non può essere bersaglio di magie.</text>
   <item>
     <id>ICE0322</id>
     <name>Bottino di Guerra</name>
-    <text>X è il numero di carte creatura e/o artefatto nel cimitero di un avversario mentre lanci il Bottino di Guerra.
+    <text>X è il numero di carte creatura e/o artefatto nel cimitero di un avversario mentre lanci il Bottino di Guerra. 
 Distribuisci X segnalini +1/+1 su un qualsiasi numero di creature bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2479,7 +2473,7 @@ Distribuisci X segnalini +1/+1 su un qualsiasi numero di creature bersaglio.</te
   <item>
     <id>ICE0325</id>
     <name>Fetore Mefitico</name>
-    <text>Distruggi tutte le Pianure.
+    <text>Distruggi tutte le Pianure. 
 Per ogni terra messa in un cimitero in questo modo, il Fetore Mefitico infligge 1 danno al controllore di quella terra a meno che egli paghi {2}.</text>
     <flavorText>
     </flavorText>
@@ -2487,7 +2481,7 @@ Per ogni terra messa in un cimitero in questo modo, il Fetore Mefitico infligge 
   <item>
     <id>ICE0326</id>
     <name>Pioggia di Pietre</name>
-    <text>Distruggi una terra bersaglio.</text>
+    <text>Distruggi una terra bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2501,8 +2495,8 @@ Per ogni terra messa in un cimitero in questo modo, il Fetore Mefitico infligge 
   <item>
     <id>ICE0328</id>
     <name>Mani di Pietra</name>
-    <text>Incanta creatura
-La creatura incantata prende +0/+2.
+    <text>Incanta creatura 
+La creatura incantata prende +0/+2. 
 {R}: La creatura incantata prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2510,7 +2504,7 @@ La creatura incantata prende +0/+2.
   <item>
     <id>ICE0329</id>
     <name>Spirito della Tempesta</name>
-    <text>Volare
+    <text>Volare 
 {T}: Lo Spirito della Tempesta infligge 2 danni ad una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2518,7 +2512,7 @@ La creatura incantata prende +0/+2.
   <item>
     <id>ICE0330</id>
     <name>Legame della Tempesta</name>
-    <text>{2}, Scarta una carta a caso: Il Legame della Tempesta infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <text>{2}, Scarta una carta a caso: Il Legame della Tempesta infligge 2 danni a una creatura o a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2539,7 +2533,7 @@ La creatura incantata prende +0/+2.
   <item>
     <id>ICE0333</id>
     <name>Sorgenti Sulfuree</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Aggiungi {B} o {R} alla tua riserva di mana. Le Sorgenti Sulfuree ti infliggono 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -2603,8 +2597,8 @@ La creatura incantata prende +0/+2.
   <item>
     <id>ICE0342</id>
     <name>Muro di Tuoni</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Volare
+    <text>Difensore (Questa creatura non può attaccare.) 
+Volare 
 {U}: Il Muro di Tuoni prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2612,8 +2606,8 @@ Volare
   <item>
     <id>ICE0343</id>
     <name>Crinale Alberato</name>
-    <text>Il Crinale Alberato non STAPpa durante il tuo STAP se ha un segnalino desolazione su di esso.
-All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Crinale Alberato.
+    <text>Il Crinale Alberato non STAPpa durante il tuo STAP se ha un segnalino desolazione su di esso. 
+All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Crinale Alberato. 
 {T}: Aggiungi {R} o {G} alla tua riserva di mana. Metti un segnalino desolazione sul Crinale Alberato.</text>
     <flavorText>
     </flavorText>
@@ -2621,7 +2615,7 @@ All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Crinale Al
   <item>
     <id>ICE0344</id>
     <name>Bomba a Tempo</name>
-    <text>All'inizio del tuo mantenimento metti un segnalino tempo su Bomba a Tempo.
+    <text>All'inizio del tuo mantenimento metti un segnalino tempo su Bomba a Tempo. 
 {1}, {T}, Sacrifica la Bomba a Tempo: La Bomba a Tempo infligge a tutte le creature e a tutti i giocatori un danno pari al numero di segnalini tempo sulla Bomba a Tempo.</text>
     <flavorText>
     </flavorText>
@@ -2629,8 +2623,8 @@ All'inizio del tuo mantenimento, rimuovi un segnalino desolazione dal Crinale Al
   <item>
     <id>ICE0345</id>
     <name>Muro Infiammabile</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Sacrifica il Muro Infiammabile: Aggiungi {R}{R} alla tua riserva di mana.
+    <text>Difensore (Questa creatura non può attaccare.) 
+Sacrifica il Muro Infiammabile: Aggiungi {R}{R} alla tua riserva di mana. 
 {R}, Sacrifica il Muro Infiammabile: Il Muro Infiammabile infligge 2 danni alla creatura bersaglio che esso sta bloccando.</text>
     <flavorText>
     </flavorText>
@@ -2653,7 +2647,7 @@ Sacrifica il Muro Infiammabile: Aggiungi {R}{R} alla tua riserva di mana.
   <item>
     <id>ICE0348</id>
     <name>Tocco della Morte</name>
-    <text>Il Tocco della Morte infligge 1 danno a un giocatore bersaglio. Tu guadagni 1 punto vita.
+    <text>Il Tocco della Morte infligge 1 danno a un giocatore bersaglio. Tu guadagni 1 punto vita. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -2661,7 +2655,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0349</id>
     <name>Tocco Vitale</name>
-    <text>Fino alla fine del turno, la creatura bersaglio guadagna rapidità e "{0}: STAPpa questa creatura. Attiva questa abilità solo una volta."
+    <text>Fino alla fine del turno, la creatura bersaglio guadagna rapidità e "{0}: STAPpa questa creatura. Attiva questa abilità solo una volta." 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -2676,7 +2670,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0351</id>
     <name>Fiume Sotterraneo</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Aggiungi {U} o {B} alla tua riserva di mana. Il Fiume Sotterraneo ti infligge 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -2684,7 +2678,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0352</id>
     <name>Balzo Improvviso</name>
-    <text>La creatura bersaglio guadagna volare fino alla fine del turno.
+    <text>La creatura bersaglio guadagna volare fino alla fine del turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -2699,8 +2693,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>ICE0354</id>
     <name>Prateria</name>
-    <text>La Prateria non STAPpa durante il tuo STAP se ha un segnalino desolazione su di essa.
-All'inizio del tuo mentenimento, rimuovi un segnalino desolazione dalla Prateria.
+    <text>La Prateria non STAPpa durante il tuo STAP se ha un segnalino desolazione su di essa. 
+All'inizio del tuo mentenimento, rimuovi un segnalino desolazione dalla Prateria. 
 {T}: Aggiungi {W} o {G} alla tua riserva di mana. Metti un segnalino desolazione sulla Prateria.</text>
     <flavorText>
     </flavorText>
@@ -2708,7 +2702,7 @@ All'inizio del tuo mentenimento, rimuovi un segnalino desolazione dalla Prateria
   <item>
     <id>ICE0355</id>
     <name>Soffio Velenoso</name>
-    <text>Alla fine del combattimento, distruggi tutte le creature che hanno bloccato o sono state bloccate dalla creatura bersaglio in questo turno.</text>
+    <text>Alla fine del combattimento, distruggi tutte le creature che hanno bloccato o sono state bloccate dalla creatura bersaglio in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2729,7 +2723,7 @@ All'inizio del tuo mentenimento, rimuovi un segnalino desolazione dalla Prateria
   <item>
     <id>ICE0358</id>
     <name>Sfera Vibrante</name>
-    <text>Fintanto che è il tuo turno, le creature che controlli prendono +2/+0.
+    <text>Fintanto che è il tuo turno, le creature che controlli prendono +2/+0. 
 Fintanto che non è il tuo turno, le creature che controlli prendono -0/-2.</text>
     <flavorText>
     </flavorText>
@@ -2737,7 +2731,7 @@ Fintanto che non è il tuo turno, le creature che controlli prendono -0/-2.</tex
   <item>
     <id>ICE0359</id>
     <name>Muro che Cammina</name>
-    <text>Difensore
+    <text>Difensore 
 {3}: Il Muro che Cammina prende +3/-1 fino alla fine del turno e può attaccare in questo turno come se non avesse difensore. Attiva questa abilità solo una volta per turno.</text>
     <flavorText>
     </flavorText>
@@ -2745,7 +2739,7 @@ Fintanto che non è il tuo turno, le creature che controlli prendono -0/-2.</tex
   <item>
     <id>ICE0360</id>
     <name>Muro di Lava</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {R}: Il Muro di Lava prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2753,7 +2747,7 @@ Fintanto che non è il tuo turno, le creature che controlli prendono -0/-2.</tex
   <item>
     <id>ICE0361</id>
     <name>Muro di Aghi di Pino</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {G}: Rigenera il Muro di Aghi di Pino.</text>
     <flavorText>
     </flavorText>
@@ -2761,7 +2755,7 @@ Fintanto che non è il tuo turno, le creature che controlli prendono -0/-2.</tex
   <item>
     <id>ICE0362</id>
     <name>Muraglia di Scudi</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Branco</text>
     <flavorText>
     </flavorText>
@@ -2776,7 +2770,7 @@ Branco</text>
   <item>
     <id>ICE0364</id>
     <name>Allarme</name>
-    <text>Previeni tutto il danno da combattimento che verrebbe inflitto dalla creatura attaccante bersaglio in questo turno. [Oracle 2000/02/01]</text>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto dalla creatura attaccante bersaglio in questo turno. Oracle 2000/02/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -2790,8 +2784,8 @@ Branco</text>
   <item>
     <id>ICE0366</id>
     <name>Scarabeo Bianco</name>
-    <text>Incanta creatura
-La creatura incantata non può essere bloccata dalle creature bianche.
+    <text>Incanta creatura 
+La creatura incantata non può essere bloccata dalle creature bianche. 
 La creatura incantata prende +2/+2 fintanto che un avversario controlla un permanente bianco.</text>
     <flavorText>
     </flavorText>
@@ -2799,7 +2793,7 @@ La creatura incantata prende +2/+2 fintanto che un avversario controlla un perma
   <item>
     <id>ICE0367</id>
     <name>Riflesso Abbagliante</name>
-    <text>Tutte le creature perdono volare fino alla fine del turno.
+    <text>Tutte le creature perdono volare fino alla fine del turno. 
 Sacrifica una terra neve: Riprendi in mano il Riflesso Abbagliante dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -2807,7 +2801,7 @@ Sacrifica una terra neve: Riprendi in mano il Riflesso Abbagliante dal tuo cimit
   <item>
     <id>ICE0368</id>
     <name>Wiitigo</name>
-    <text>Il Wiitigo entra nel campo di battaglia con sei segnalini +1/+1.
+    <text>Il Wiitigo entra nel campo di battaglia con sei segnalini +1/+1. 
 All'inizio del tuo mantenimento, metti un segnalino +1/+1 sullo Wiitigo se ha bloccato o è stato bloccato dal tuo ultimo mantenimento. Altrimenti rimuovi un segnalino +1/+1 dallo Wiitigo.</text>
     <flavorText>
     </flavorText>
@@ -2815,7 +2809,7 @@ All'inizio del tuo mantenimento, metti un segnalino +1/+1 sullo Wiitigo se ha bl
   <item>
     <id>ICE0369</id>
     <name>Crescita Rigogliosa</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo controllore aggiunge {G} alla propria riserva di mana (in aggiunta al mana prodotto dalla terra).</text>
     <flavorText>
     </flavorText>
@@ -2823,15 +2817,15 @@ Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo contro
   <item>
     <id>ICE0370</id>
     <name>Spirito del Vento</name>
-    <text>Volare
-Lo Spirito del Vento non può essere bloccato tranne che da due o più creature.</text>
+    <text>Volare 
+Lo Spirito del Vento non può essere bloccato tranne che da due o più creature. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ICE0371</id>
     <name>Ali degli Aesthir</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +1/+0 e ha volare e attacco improvviso.</text>
     <flavorText>
     </flavorText>
@@ -2839,8 +2833,8 @@ La creatura incantata prende +1/+0 e ha volare e attacco improvviso.</text>
   <item>
     <id>ICE0372</id>
     <name>Brivido dell'Inverno</name>
-    <text>Lancia il Brivido dell'Inverno solo durante il combattimento, prima che siano dichiarati i bloccanti.
-X non può essere maggiore del numero di terre neve che controlli.
+    <text>Lancia il Brivido dell'Inverno solo durante il combattimento, prima che siano dichiarati i bloccanti. 
+X non può essere maggiore del numero di terre neve che controlli. 
 Distruggi X creature attaccanti alla fine del combattimento. Per ogni creatura attaccante, il suo controllore può pagare {1} o {2} per prevenire questo effetto. Se quel giocatore paga solo {1} per quella creatura, previeni tutto il danno da combattimento che verrebbe inflitto e subìto da quella creatura in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -2848,7 +2842,7 @@ Distruggi X creature attaccanti alla fine del combattimento. Per ogni creatura a
   <item>
     <id>ICE0373</id>
     <name>Fuochi Fatui Avvizzenti</name>
-    <text>All'inizio della sottofase finale, se non ci sono creature sul campo di battaglia, sacrifica i Fuochi Fatui Avvizzenti.
+    <text>All'inizio della sottofase finale, se non ci sono creature sul campo di battaglia, sacrifica i Fuochi Fatui Avvizzenti. 
 {B}: I Fuochi Fatui Avvizzenti infliggono 1 danno a ogni creatura e a ogni giocatore. Attiva questa abilità in ogni turno per un numero di volte non superiore al numero di Paludi neve che controlli.</text>
     <flavorText>
     </flavorText>
@@ -2863,7 +2857,7 @@ Distruggi X creature attaccanti alla fine del combattimento. Per ogni creatura a
   <item>
     <id>ICE0375</id>
     <name>Ragno Lanoso</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
 Ogniqualvolta il Ragno Lanoso blocca una creatura con volare, il Ragno Lanoso prende +0/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2871,7 +2865,7 @@ Ogniqualvolta il Ragno Lanoso blocca una creatura con volare, il Ragno Lanoso pr
   <item>
     <id>ICE0376</id>
     <name>Ordine di Distruzione</name>
-    <text>Distruggi un Muro bersaglio. Non può essere rigenerato. L'Ordine di Distruzione infligge al controllore di quel Muro un danno pari al costo di mana convertito di quel Muro.</text>
+    <text>Distruggi un Muro bersaglio. Non può essere rigenerato. L'Ordine di Distruzione infligge al controllore di quel Muro un danno pari al costo di mana convertito di quel Muro. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2885,7 +2879,7 @@ Ogniqualvolta il Ragno Lanoso blocca una creatura con volare, il Ragno Lanoso pr
   <item>
     <id>ICE0378</id>
     <name>Ira di Marit Lage</name>
-    <text>Quando l'Ira di Marit Lage entra nel campo di battaglia, TAPpa tutte le creature rosse.
+    <text>Quando l'Ira di Marit Lage entra nel campo di battaglia, TAPpa tutte le creature rosse. 
 Le creature rosse non STAPpano durante lo STAP dei loro controllori.</text>
     <flavorText>
     </flavorText>
@@ -2893,7 +2887,7 @@ Le creature rosse non STAPpano durante lo STAP dei loro controllori.</text>
   <item>
     <id>ICE0379</id>
     <name>Gnatte del Yavimaya</name>
-    <text>Volare
+    <text>Volare 
 {G}: Rigenera le Gnatte del Yavimaya.</text>
     <flavorText>
     </flavorText>
@@ -2922,7 +2916,7 @@ Le creature rosse non STAPpano durante lo STAP dei loro controllori.</text>
   <item>
     <id>ICE0383</id>
     <name>Malia di Zur</name>
-    <text>I giocatori giocano a carte scoperte.
+    <text>I giocatori giocano a carte scoperte. 
 Se un giocatore sta per pescare una carta, invece la rivela. Poi ogni altro giocatore può pagare 2 punti vita. Se un giocatore lo fa, metti quella carta nel cimitero del suo proprietario. Altrimenti, quel giocatore pesca una carta.</text>
     <flavorText>
     </flavorText>

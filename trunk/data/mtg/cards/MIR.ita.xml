@@ -16,8 +16,8 @@
   <item>
     <id>MIR0003</id>
     <name>Frutteto di Afiya</name>
-    <text>Il Frutteto di Afiya entra nel campo di battaglia con tre segnalini +1/+1.
-All'inizio del tuo mantenimento, sposta un segnalino +1/+1 dal Frutteto di Afiya su una creatura bersaglio.
+    <text>Il Frutteto di Afiya entra nel campo di battaglia con tre segnalini +1/+1. 
+All'inizio del tuo mantenimento, sposta un segnalino +1/+1 dal Frutteto di Afiya su una creatura bersaglio. 
 Quando non ci sono più segnalini +1/+1 sul Frutteto di Afiya, sacrificalo.</text>
     <flavorText>
     </flavorText>
@@ -32,7 +32,7 @@ Quando non ci sono più segnalini +1/+1 sul Frutteto di Afiya, sacrificalo.</tex
   <item>
     <id>MIR0005</id>
     <name>Agilità</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +1/+1 e ha aggirare.</text>
     <flavorText>
     </flavorText>
@@ -47,8 +47,8 @@ La creatura incantata prende +1/+1 e ha aggirare.</text>
   <item>
     <id>MIR0007</id>
     <name>Alea</name>
-    <text>Lancia l'Alea solo durante il combattimento, dopo che la difesa è stata dichiarata.
-Lancia una moneta. Se vinci il lancio, la creatura bersaglio prende +1/+1 fino alla fine del turno.
+    <text>Lancia l'Alea solo durante il combattimento, dopo che la difesa è stata dichiarata. 
+Lancia una moneta. Se vinci il lancio, la creatura bersaglio prende +1/+1 fino alla fine del turno. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -56,7 +56,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0008</id>
     <name>Prigione d'Ambra</name>
-    <text>Puoi scegliere di non STAPpare la Prigione d'Ambra durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare la Prigione d'Ambra durante il tuo STAP. 
 {4}, {T}: TAPpa un artefatto, una creatura o una terra bersaglio. Quel permanente non STAPpa durante lo STAP del suo controllore fintanto che la Prigione d'Ambra resta TAPpata.</text>
     <flavorText>
     </flavorText>
@@ -71,15 +71,15 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0010</id>
     <name>Memorie Ancestrali</name>
-    <text>Guarda le prime sette carte del tuo grimorio. Aggiungi due di esse alla tua mano e metti le rimanenti nel tuo cimitero.</text>
+    <text>Guarda le prime sette carte del tuo grimorio. Aggiungi due di esse alla tua mano e metti le rimanenti nel tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0011</id>
     <name>Corazza di Spine</name>
-    <text>Puoi lanciare la Corazza di Spine quando potresti giocare un istantaneo. Se è stata lanciata quando non poteva essere lanciata una stregoneria, sacrificala all'inizio della prossima sottofase di cancellazione.
-Incanta creatura non nera
+    <text>Puoi lanciare la Corazza di Spine quando potresti giocare un istantaneo. Se è stata lanciata quando non poteva essere lanciata una stregoneria, sacrificala all'inizio della prossima sottofase di cancellazione. 
+Incanta creatura non nera 
 La creatura incantata prende +2/+2.</text>
     <flavorText>
     </flavorText>
@@ -87,7 +87,7 @@ La creatura incantata prende +2/+2.</text>
   <item>
     <id>MIR0012</id>
     <name>Mago della Gilda degli Armaioli</name>
-    <text>{B},{T}: Una creatura bersaglio prende +1/+0 fino alla fine del turno.
+    <text>{B},{T}: Una creatura bersaglio prende +1/+0 fino alla fine del turno. 
 {G},{T}: Una creatura bersaglio prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -95,22 +95,22 @@ La creatura incantata prende +2/+2.</text>
   <item>
     <id>MIR0013</id>
     <name>Polvere Cinerea</name>
-    <text>Metti una carta creatura bersaglio, presa dal cimitero di uno dei tuoi avversari, sul campo di battaglia sotto il tuo controllo.</text>
+    <text>Metti una carta creatura bersaglio, presa dal cimitero di uno dei tuoi avversari, sul campo di battaglia sotto il tuo controllo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0014</id>
     <name>Asmira, Vendicatrice Sacra</name>
-    <text>Volare
-All'inizio della sottofase di fine turno, metti un segnalino +1/+1 su Asmira, Vendicatrice Sacra per ogni creatura messa nel tuo cimitero dal campo di battaglia in questo turno.</text>
+    <text>Volare 
+All'inizio della sottofase di fine turno, metti un segnalino +1/+1 su Asmira, Vendicatrice Sacra per ogni creatura messa nel tuo cimitero dal campo di battaglia in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0015</id>
     <name>Antenato Propiziatore</name>
-    <text>Quando l'Antenato Propiziatore viene messo in un cimitero dal campo di battaglia, guadagni 3 punti vita.
+    <text>Quando l'Antenato Propiziatore viene messo in un cimitero dal campo di battaglia, guadagni 3 punti vita. 
 Ogniqualvolta un giocatore lancia una magia bianca, puoi pagare {1}. Se lo fai, guadagni 1 punto vita.</text>
     <flavorText>
     </flavorText>
@@ -118,7 +118,7 @@ Ogniqualvolta un giocatore lancia una magia bianca, puoi pagare {1}. Se lo fai, 
   <item>
     <id>MIR0016</id>
     <name>Draghetto di Azimaet</name>
-    <text>Volare
+    <text>Volare 
 {U}: Il Draghetto di Azimaet prende +1/+0 fino alla fine del turno. Attiva questa abilità solo una volta per turno.</text>
     <flavorText>
     </flavorText>
@@ -126,7 +126,7 @@ Ogniqualvolta un giocatore lancia una magia bianca, puoi pagare {1}. Se lo fai, 
   <item>
     <id>MIR0017</id>
     <name>Fiume Acquitrinoso</name>
-    <text>Il Fiume Acquitrinoso entra nel campo di battaglia TAPpato.
+    <text>Il Fiume Acquitrinoso entra nel campo di battaglia TAPpato. 
 {T}, Sacrifica il Fiume Acquitrinoso: Passa in rassegna il tuo grimorio per una carta Isola o Palude e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -134,7 +134,7 @@ Ogniqualvolta un giocatore lancia una magia bianca, puoi pagare {1}. Se lo fai, 
   <item>
     <id>MIR0018</id>
     <name>Fogliame Spinato</name>
-    <text>Ogniqualvolta una creatura ti attacca, essa perde aggirare fino alla fine del turno.
+    <text>Ogniqualvolta una creatura ti attacca, essa perde aggirare fino alla fine del turno. 
 Ogniqualvolta una creatura senza volare ti attacca, il Fogliame Spinato le infligge 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -156,7 +156,7 @@ Ogniqualvolta una creatura senza volare ti attacca, il Fogliame Spinato le infli
   <item>
     <id>MIR0021</id>
     <name>Golem di Basalto</name>
-    <text>Il Golem di Basalto non può essere bloccato dalle creature artefatto.
+    <text>Il Golem di Basalto non può essere bloccato dalle creature artefatto. 
 Ogniqualvolta il Golem di Basalto viene bloccato da una creatura, il controllore di quella creatura la sacrifica alla fine del combattimento. Se quel giocatore lo fa, mette sul campo di battaglia una pedina creatura artefatto Muro 0/2 incolore con difensore.</text>
     <flavorText>
     </flavorText>
@@ -171,7 +171,7 @@ Ogniqualvolta il Golem di Basalto viene bloccato da una creatura, il controllore
   <item>
     <id>MIR0023</id>
     <name>Bazaar delle Meraviglie</name>
-    <text>Quando il Bazaar delle Meraviglie entra nel campo di battaglia, esilia tutte le carte presenti in tutti i cimiteri.
+    <text>Quando il Bazaar delle Meraviglie entra nel campo di battaglia, esilia tutte le carte presenti in tutti i cimiteri. 
 Ogniqualvolta viene lanciata una magia, neutralizzala se una carta con lo stesso nome è in un cimitero o se un permanente non pedina con lo stesso nome è sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -186,7 +186,7 @@ Ogniqualvolta viene lanciata una magia, neutralizzala se una carta con lo stesso
   <item>
     <id>MIR0025</id>
     <name>Genio di Benthic</name>
-    <text>Passa-isole
+    <text>Passa-isole 
 All'inizio del tuo mantenimento, perdi 2 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -194,7 +194,7 @@ All'inizio del tuo mantenimento, perdi 2 punti vita.</text>
   <item>
     <id>MIR0026</id>
     <name>Legame d'Agonia</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta viene inflitto danno alla creatura incantata, il Legame d'Agonia infligge un pari danno al controllore di quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -202,15 +202,16 @@ Ogniqualvolta viene inflitto danno alla creatura incantata, il Legame d'Agonia i
   <item>
     <id>MIR0027</id>
     <name>Sciamano Corrotto</name>
-    <text>{T}, Sacrifica una Palude: La creatura bersaglio prende +1/+1 fino alla fine del turno.; {T}, Sacrifica una creatura: La creatura bersaglio prende +2/+2 fino alla fine del turno.</text>
+    <text>{T}, Sacrifica una Palude: La creatura bersaglio prende +1/+1 fino alla fine del turno.
+{T}, Sacrifica una creatura: La creatura bersaglio prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0028</id>
     <name>Furia Cieca</name>
-    <text>Lancia la Furia Cieca solo prima della fase di combattimento.
-Tutte le creature perdono travolgere fino alla fine del turno.
+    <text>Lancia la Furia Cieca solo prima della fase di combattimento. 
+Tutte le creature perdono travolgere fino alla fine del turno. 
 Se una creatura sta per infliggere danno da combattimento a una creatura in questo turno, invece infligge il doppio di quel danno a quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -218,7 +219,7 @@ Se una creatura sta per infliggere danno da combattimento a una creatura in ques
   <item>
     <id>MIR0029</id>
     <name>Luce Accecante</name>
-    <text>TAPpa tutte le creature non bianche.</text>
+    <text>TAPpa tutte le creature non bianche. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -232,7 +233,7 @@ Se una creatura sta per infliggere danno da combattimento a una creatura in ques
   <item>
     <id>MIR0031</id>
     <name>Campi di Ossa</name>
-    <text>Metti un qualsiasi numero di carte creatura bersaglio dal tuo cimitero in cima al tuo grimorio .
+    <text>Metti un qualsiasi numero di carte creatura bersaglio dal tuo cimitero in cima al tuo grimorio . 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -247,7 +248,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0033</id>
     <name>Boomerang</name>
-    <text>Il proprietario riprende in mano un permanente bersaglio.</text>
+    <text>Il proprietario riprende in mano un permanente bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -282,7 +283,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0038</id>
     <name>Ascari dallo Scudo Ardente</name>
-    <text>Aggirare
+    <text>Aggirare 
 {R}{R}: Gli Ascari dallo Scudo Ardente guadagnano attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -290,21 +291,22 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0039</id>
     <name>Fiore Cadaverico</name>
-    <text>Esilia una carta nella tua mano : Aggiungi alla tua riserva di mana {B}{B} o {G}{G}. [Oracle 1999/07/01]</text>
+    <text>Esilia una carta nella tua mano : Aggiungi alla tua riserva di mana {B}{B} o {G}{G}. Oracle 1999/07/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0040</id>
     <name>Cavaliere Cadaverico</name>
-    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno); {1}{B}{B}: Rigenera il Cavaliere Cadaverico.</text>
+    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno)
+{1}{B}{B}: Rigenera il Cavaliere Cadaverico.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0041</id>
     <name>Drago delle Fronde</name>
-    <text>Travolgere
+    <text>Travolgere 
 {1}{G}: Il Drago delle Fronde guadagna volare e perde travolgere fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -312,7 +314,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0042</id>
     <name>Carogna</name>
-    <text>Come costo addizionale per lanciare la Carogna, sacrifica una creatura.
+    <text>Come costo addizionale per lanciare la Carogna, sacrifica una creatura. 
 Metti sul campo di battaglia X pedine creatura Verme 0/1 nere, dove X è la forza della creatura sacrificata.</text>
     <flavorText>
     </flavorText>
@@ -320,7 +322,7 @@ Metti sul campo di battaglia X pedine creatura Verme 0/1 nere, dove X è la forz
   <item>
     <id>MIR0043</id>
     <name>Drago delle Catacombe</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta il Drago delle Catacombe viene bloccato da una creatura non artefatto e non Drago, quella creatura prende -X/-0 fino alla fine del turno, dove X è la metà della forza della creatura, arrotondata per difetto.</text>
     <flavorText>
     </flavorText>
@@ -328,8 +330,8 @@ Ogniqualvolta il Drago delle Catacombe viene bloccato da una creatura non artefa
   <item>
     <id>MIR0044</id>
     <name>Alba Celestiale</name>
-    <text>Le terre che controlli sono Pianure.
-Le carte non-terra che possiedi che non sono nel campo di battaglia, le magie che controlli, e i permanenti non-terra che controlli sono bianchi.
+    <text>Le terre che controlli sono Pianure. 
+Le carte non-terra che possiedi che non sono nel campo di battaglia, le magie che controlli, e i permanenti non-terra che controlli sono bianchi. 
 Puoi spendere mana bianco come se fosse mana di qualsiasi colore. Puoi spendere altro mana solo come se fosse mana incolore.</text>
     <flavorText>
     </flavorText>
@@ -351,7 +353,7 @@ Puoi spendere mana bianco come se fosse mana di qualsiasi colore. Puoi spendere 
   <item>
     <id>MIR0047</id>
     <name>Sfera del Caos</name>
-    <text>Le creature con volare possono bloccare solo le creature con volare.
+    <text>Le creature con volare possono bloccare solo le creature con volare. 
 Le creature senza volare hanno raggiungere. (Possono bloccare le creature con volare.)</text>
     <flavorText>
     </flavorText>
@@ -359,7 +361,7 @@ Le creature senza volare hanno raggiungere. (Possono bloccare le creature con vo
   <item>
     <id>MIR0048</id>
     <name>Diamante della Cenere</name>
-    <text>Il Diamante della Cenere entra nel campo di battaglia TAPpato.
+    <text>Il Diamante della Cenere entra nel campo di battaglia TAPpato. 
 {T} : Aggiungi {B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -395,24 +397,24 @@ Le creature senza volare hanno raggiungere. (Possono bloccare le creature con vo
   <item>
     <id>MIR0053</id>
     <name>Mago della Gilda Civica</name>
-    <text>{G}, {T}: La creatura bersaglio prende +0/+1 fino alla fine del turno.
-{U}, {T}: Metti la creatura bersaglio che controlli in cima al grimorio del suo proprietario.</text>
+    <text>{G}, {T}: La creatura bersaglio prende +0/+1 fino alla fine del turno. 
+{U}, {T}: Metti la creatura bersaglio che controlli in cima al grimorio del suo proprietario. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0054</id>
     <name>Mantello dell'Invisibilità</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
-La creatura incantata ha Fase e non può essere bloccata tranne che dai muri. [Oracle 1999/07/01]</text>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
+La creatura incantata ha Fase e non può essere bloccata tranne che dai muri. Oracle 1999/07/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0055</id>
     <name>Ferocia Divorante</name>
-    <text>Incanta creatura non-Muro
-La creatura incantata prende +1/+0.
+    <text>Incanta creatura non-Muro 
+La creatura incantata prende +1/+0. 
 All'inizio del tuo mantenimento, metti un segnalino +1/+0 sulla creatura incantata. Se quella creatura ha tre o più segnalini +1/+0, infligge al proprio controllore un danno pari alla propria forza, poi distruggi quella creatura incantata e non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -420,7 +422,7 @@ All'inizio del tuo mantenimento, metti un segnalino +1/+0 sulla creatura incanta
   <item>
     <id>MIR0056</id>
     <name>Guerrieri di Corallo</name>
-    <text>Ogniqualvolta i Guerrieri di Corallo attaccano e non sono bloccati, guarda la prima carta del grimorio del giocatore in difesa. Puoi mettere quella carta in fondo al grimorio di quel giocatore.</text>
+    <text>Ogniqualvolta i Guerrieri di Corallo attaccano e non sono bloccati, guarda la prima carta del grimorio del giocatore in difesa. Puoi mettere quella carta in fondo al grimorio di quel giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -434,7 +436,7 @@ All'inizio del tuo mantenimento, metti un segnalino +1/+0 sulla creatura incanta
   <item>
     <id>MIR0058</id>
     <name>Nibbio Infernale Scarlatto</name>
-    <text>Volare
+    <text>Volare 
 {X}, {T}: Il Nibbio Infernale Scarlatto infligge X danni a una creatura bersaglio. Spendi solo mana rosso in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -442,29 +444,29 @@ All'inizio del tuo mantenimento, metti un segnalino +1/+0 sulla creatura incanta
   <item>
     <id>MIR0059</id>
     <name>Roc Scarlatto</name>
-    <text>Volare
-Ogniqualvolta il Roc Scarlatto blocca una creatura senza volare, il Roc Scarlatto prende +1/+0 e guadagna attacco improvviso fino alla fine del turno.</text>
+    <text>Volare 
+Ogniqualvolta il Roc Scarlatto blocca una creatura senza volare, il Roc Scarlatto prende +1/+0 e guadagna attacco improvviso fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0060</id>
     <name>Cobra delle Cripte</name>
-    <text>Ogniqualvolta il Cobra delle Cripte attacca e non è bloccato, il giocatore in difesa prende un segnalino veleno. (Un giocatore con 10 o più segnalini veleno perde la partita.)</text>
+    <text>Ogniqualvolta il Cobra delle Cripte attacca e non è bloccato, il giocatore in difesa prende un segnalino veleno. (Un giocatore con 10 o più segnalini veleno perde la partita.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0061</id>
     <name>Golem di Cristallo</name>
-    <text>Alla fine del tuo turno, il Golem di Cristallo scompare. [Oracle 1999/07/01]</text>
+    <text>Alla fine del tuo turno, il Golem di Cristallo scompare. Oracle 1999/07/01 </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0062</id>
     <name>Vena di Cristallo</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}, Sacrifica la Vena di Cristallo: Aggiungi {2} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -472,14 +474,14 @@ Ogniqualvolta il Roc Scarlatto blocca una creatura senza volare, il Roc Scarlatt
   <item>
     <id>MIR0063</id>
     <name>Totem Maledetto</name>
-    <text>Le abilità attivate delle creature non possono essere attivate.</text>
+    <text>Le abilità attivate delle creature non possono essere attivate. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0064</id>
     <name>Ciclo della Vita</name>
-    <text>Rimanda il Ciclo della Vita in mano al proprietario : La creatura bersaglio che hai lanciato in questo turno diventa 0/1 fino al tuo prossimo mantenimento. All'inizio del tuo prossimo mantenimento, metti un segnalino +1/+1 su quella creatura. [Oracle 1999/07/01]</text>
+    <text>Rimanda il Ciclo della Vita in mano al proprietario : La creatura bersaglio che hai lanciato in questo turno diventa 0/1 fino al tuo prossimo mantenimento. All'inizio del tuo prossimo mantenimento, metti un segnalino +1/+1 su quella creatura. Oracle 1999/07/01 </text>
     <flavorText>
     </flavorText>
   </item>
@@ -500,15 +502,15 @@ Ogniqualvolta il Roc Scarlatto blocca una creatura senza volare, il Roc Scarlatt
   <item>
     <id>MIR0067</id>
     <name>Rito Oscuro</name>
-    <text>Aggiungi {B}{B}{B} alla tua riserva di mana.</text>
+    <text>Aggiungi {B}{B}{B} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0068</id>
     <name>Bellezza Abbagliante</name>
-    <text>Lancia la Bellezza Abbagliante solo durante la dichiarazione dei bloccanti.
-La creatura attaccante non bloccata bersaglio viene bloccata.
+    <text>Lancia la Bellezza Abbagliante solo durante la dichiarazione dei bloccanti. 
+La creatura attaccante non bloccata bersaglio viene bloccata. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -516,8 +518,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0069</id>
     <name>Decomposizione</name>
-    <text>Incanta creatura nera
-La creatura incantata ha "Mantenimento Cumulativo-Paga 1 punto vita.".
+    <text>Incanta creatura nera 
+La creatura incantata ha "Mantenimento Cumulativo-Paga 1 punto vita.". 
 Quando la creatura incantata viene messa in un cimitero, il suo controllore perde 2 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -525,15 +527,15 @@ Quando la creatura incantata viene messa in un cimitero, il suo controllore perd
   <item>
     <id>MIR0070</id>
     <name>Delirio</name>
-    <text>Lancia il Delirio solo nel turno di un avversario.
-TAPpa una creatura bersaglio controllata da quel giocatore. Quella creatura infligge a quel giocatore un danno pari alla propria forza. Previeni tutto il danno da combattimento che verrebbe inflitto o subìto dalla creatura in questo turno.</text>
+    <text>Lancia il Delirio solo nel turno di un avversario. 
+TAPpa una creatura bersaglio controllata da quel giocatore. Quella creatura infligge a quel giocatore un danno pari alla propria forza. Previeni tutto il danno da combattimento che verrebbe inflitto o subìto dalla creatura in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0071</id>
     <name>Spettro delle Acque Putride</name>
-    <text>Passa-paludi
+    <text>Passa-paludi 
 {B}: Lo Spettro delle Acque Putride prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -541,7 +543,7 @@ TAPpa una creatura bersaglio controllata da quel giocatore. Quella creatura infl
   <item>
     <id>MIR0072</id>
     <name>Spirito Dissenziente</name>
-    <text>All'inizio della sottofase di fine turno, se era il turno di un avversario, metti sullo Spirito Dissenziente un segnalino +1/+1 per ogni punto danno che ti è stato inflitto in questo turno.
+    <text>All'inizio della sottofase di fine turno, se era il turno di un avversario, metti sullo Spirito Dissenziente un segnalino +1/+1 per ogni punto danno che ti è stato inflitto in questo turno. 
 All'inizio della tua sottofase di fine turno, rimuovi tutti i segnalini +1/+1 dallo Spirito Dissenziente.</text>
     <flavorText>
     </flavorText>
@@ -556,7 +558,7 @@ All'inizio della tua sottofase di fine turno, rimuovi tutti i segnalini +1/+1 da
   <item>
     <id>MIR0074</id>
     <name>Disincantare</name>
-    <text>Distruggi un artefatto o un incantesimo bersaglio.</text>
+    <text>Distruggi un artefatto o un incantesimo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -570,21 +572,21 @@ All'inizio della tua sottofase di fine turno, rimuovi tutti i segnalini +1/+1 da
   <item>
     <id>MIR0076</id>
     <name>Offerta Divina</name>
-    <text>Distruggi un artefatto bersaglio. Guadagni un ammontare di punti vita pari al suo costo di mana convertito.</text>
+    <text>Distruggi un artefatto bersaglio. Guadagni punti vita pari al suo costo di mana convertito.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0077</id>
     <name>Punizione Divina</name>
-    <text>La Punizione Divina infligge a una creatura attaccante bersaglio un danno pari al numero di creature attaccanti.</text>
+    <text>La Punizione Divina infligge a una creatura attaccante bersaglio un danno pari al numero di creature attaccanti. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0078</id>
     <name>Risucchia Vita</name>
-    <text>Spendi solo mana nero per X.
+    <text>Spendi solo mana nero per X. 
 Il Risucchia Vita infligge X danni a una creatura o un giocatore bersaglio. Tu guadagni punti vita pari al danno inflitto, ma non più dei punti vita totali di quel giocatore prima che il Risucchia Vita gli infliggesse danno o della costituzione di quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -627,7 +629,7 @@ Il Risucchia Vita infligge X danni a una creatura o un giocatore bersaglio. Tu g
   <item>
     <id>MIR0084</id>
     <name>Raccolto di Primizie</name>
-    <text>Il giocatore bersaglio STAPpa tutte le terre base che controlla.</text>
+    <text>Il giocatore bersaglio STAPpa tutte le terre base che controlla. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -655,8 +657,8 @@ Il Risucchia Vita infligge X danni a una creatura o un giocatore bersaglio. Tu g
   <item>
     <id>MIR0088</id>
     <name>Elisir di Lunga Vita</name>
-    <text>L'Elisir di Lunga Vita entra nel campo di battaglia TAPpato.
-{T}, Sacrifica l'Elisir di Lunga Vita: Guadagni 4 punti vita.
+    <text>L'Elisir di Lunga Vita entra nel campo di battaglia TAPpato. 
+{T}, Sacrifica l'Elisir di Lunga Vita: Guadagni 4 punti vita. 
 {8}, {T}, Sacrifica l'Elisir di Lunga Vita: Guadagni 8 Punti Vita.</text>
     <flavorText>
     </flavorText>
@@ -664,16 +666,16 @@ Il Risucchia Vita infligge X danni a una creatura o un giocatore bersaglio. Tu g
   <item>
     <id>MIR0089</id>
     <name>Califfo di Emberwilde</name>
-    <text>Volare, travolgere.
-Il Califfo di Emberwilde attacca in ogni turno se può farlo.
-Ogniqualvolta il Califfo di Emberwilde infligge danno, tu perdi altrettanti punti vita.</text>
+    <text>Volare, travolgere. 
+Il Califfo di Emberwilde attacca in ogni turno se può farlo. 
+Ogniqualvolta il Califfo di Emberwilde infligge danno, tu perdi altrettanti punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0090</id>
     <name>Genio di Emberwilde</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del mantenimento di ogni giocatore, quel giocatore può pagare {R}{R} o 2 punti vita. Se lo fa, quel giocatore guadagna il controllo del Genio di Emberwilde.</text>
     <flavorText>
     </flavorText>
@@ -688,9 +690,9 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore può pagare {R}{R}
   <item>
     <id>MIR0092</id>
     <name>Vortice di Energia</name>
-    <text>Mentre il Vortice di Energia entra nel campo di battaglia, scegli un avversario.
-All'inizio del tuo mantenimento, rimuovi tutti i segnalini energia dal Vortice di Energia.
-All'inizio del mantenimento del giocatore scelto, il Vortice di Energia infligge 3 danni a quel giocatore a meno che egli paghi {1} per ogni segnalino energia presente sul Vortice di Energia.
+    <text>Mentre il Vortice di Energia entra nel campo di battaglia, scegli un avversario. 
+All'inizio del tuo mantenimento, rimuovi tutti i segnalini energia dal Vortice di Energia. 
+All'inizio del mantenimento del giocatore scelto, il Vortice di Energia infligge 3 danni a quel giocatore a meno che egli paghi {1} per ogni segnalino energia presente sul Vortice di Energia. 
 {X}: Metti X segnalini energia sul Vortice di Energia. Attiva quest'abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -698,7 +700,7 @@ All'inizio del mantenimento del giocatore scelto, il Vortice di Energia infligge
   <item>
     <id>MIR0093</id>
     <name>Debilitazione</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende -2/-2.</text>
     <flavorText>
     </flavorText>
@@ -706,29 +708,29 @@ La creatura incantata prende -2/-2.</text>
   <item>
     <id>MIR0094</id>
     <name>Tutore Illuminato</name>
-    <text>Passa in rassegna il tuo grimorio per una carta artefatto o incantesimo e rivela quella carta. Rimescola il tuo grimorio, poi metti la carta scelta in cima ad esso.</text>
+    <text>Passa in rassegna il tuo grimorio per una carta artefatto o incantesimo e rivela quella carta. Rimescola il tuo grimorio, poi metti la carta scelta in cima ad esso. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0095</id>
     <name>Gnomi Sintetici</name>
-    <text>{T}: La magia bersaglio è incolore.
-{T}: Il permanente bersaglio è incolore fino alla fine del turno.</text>
+    <text>{T}: La magia bersaglio è incolore. 
+{T}: Il permanente bersaglio è incolore fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0096</id>
     <name>Pozzo dell'Etere</name>
-    <text>Metti la creatura bersaglio in cima al grimorio del suo proprietario. Se quella creatura è rossa, puoi metterla in fondo al grimorio del suo proprietario.</text>
+    <text>Metti la creatura bersaglio in cima al grimorio del suo proprietario. Se quella creatura è rossa, puoi metterla in fondo al grimorio del suo proprietario. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0097</id>
     <name>Campione Etereo</name>
-    <text>Paga 1 punto vita: Previeni il prossimo punto danno che verrebbe inflitto al Campione Etereo in questo turno.</text>
+    <text>Paga 1 punto vita: Previeni il prossimo punto danno che verrebbe inflitto al Campione Etereo in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -742,8 +744,8 @@ La creatura incantata prende -2/-2.</text>
   <item>
     <id>MIR0099</id>
     <name>Destino Propizio</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+2 fintanto che è bianca.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+2 fintanto che è bianca. 
 La creatura incantata ha velo fintanto che il suo controllore controlla un'altra creatura. (Non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -751,21 +753,21 @@ La creatura incantata ha velo fintanto che il suo controllore controlla un'altra
   <item>
     <id>MIR0100</id>
     <name>Arcieri di Femeref</name>
-    <text>{T}: Gli Arcieri di Femeref infliggono 4 danni a una creatura attaccante bersaglio con volare.</text>
+    <text>{T}: Gli Arcieri di Femeref infliggono 4 danni a una creatura attaccante bersaglio con volare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0101</id>
     <name>Guaritrice Femeref</name>
-    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.</text>
+    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0102</id>
     <name>Cavaliere Femeref</name>
-    <text>Aggirare
+    <text>Aggirare 
 {W}: Il Cavaliere Femeref guadagna cautela fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -802,7 +804,7 @@ La creatura incantata ha velo fintanto che il suo controllore controlla un'altra
   <item>
     <id>MIR0107</id>
     <name>Diamante del Fuoco</name>
-    <text>Il Diamante del Fuoco entra nel campo di battaglia TAPpato.
+    <text>Il Diamante del Fuoco entra nel campo di battaglia TAPpato. 
 {T}: Aggiungi {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -810,7 +812,7 @@ La creatura incantata ha velo fintanto che il suo controllore controlla un'altra
   <item>
     <id>MIR0108</id>
     <name>Soffio del Drago</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {R}: La creatura incantata prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -825,7 +827,7 @@ La creatura incantata ha velo fintanto che il suo controllore controlla un'altra
   <item>
     <id>MIR0110</id>
     <name>Bagliore</name>
-    <text>Il Bagliore infligge 1 danno a una creatura o a un giocatore bersaglio.
+    <text>Il Bagliore infligge 1 danno a una creatura o a un giocatore bersaglio. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -840,7 +842,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0112</id>
     <name>Pianura Alluvionale</name>
-    <text>La Pianura Alluvionale entra nel campo di battaglia TAPpata.
+    <text>La Pianura Alluvionale entra nel campo di battaglia TAPpata. 
 {T}, Sacrifica la Pianura Alluvionale: Passa in rassegna il tuo grimorio per una carta Isola o Pianura e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -848,8 +850,8 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0113</id>
     <name>Chiusa</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Quando la Chiusa guadagna volare, sacrificala.
+    <text>Difensore (Questa creatura non può attaccare.) 
+Quando la Chiusa guadagna volare, sacrificala. 
 Quando la Chiusa lascia il campo di battaglia, infligge 1 danno per ogni due Isole che controlli ad ogni creatura non blu senza volare.</text>
     <flavorText>
     </flavorText>
@@ -857,7 +859,7 @@ Quando la Chiusa lascia il campo di battaglia, infligge 1 danno per ogni due Iso
   <item>
     <id>MIR0114</id>
     <name>Nebbia</name>
-    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -871,7 +873,7 @@ Quando la Chiusa lascia il campo di battaglia, infligge 1 danno per ogni due Iso
   <item>
     <id>MIR0116</id>
     <name>Cripta Proibita</name>
-    <text>Se stai per pescare una carta, invece riprendi in mano una carta dal tuo cimitero. Se non puoi farlo, perdi la partita.
+    <text>Se stai per pescare una carta, invece riprendi in mano una carta dal tuo cimitero. Se non puoi farlo, perdi la partita. 
 Se una carta sta per finire nel tuo cimitero da una qualsiasi zona, invece esilia quella carta.</text>
     <flavorText>
     </flavorText>
@@ -907,16 +909,16 @@ Se una carta sta per finire nel tuo cimitero da una qualsiasi zona, invece esili
   <item>
     <id>MIR0121</id>
     <name>Distese Dimenticate</name>
-    <text>I giocatori non possono guadagnare punti vita.
-All'inizio del mantenimento di ogni giocatore, quel giocatore perde 1 punto vita.
-Ogniqualvolta le Distese Dimenticate diventano bersaglio di una magia, il controllore di quella magia perde 5 punti vita.</text>
+    <text>I giocatori non possono guadagnare punti vita. 
+All'inizio del mantenimento di ogni giocatore, quel giocatore perde 1 punto vita. 
+Ogniqualvolta le Distese Dimenticate diventano bersaglio di una magia, il controllore di quella magia perde 5 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0122</id>
     <name>Efreet Frenetico</name>
-    <text>Volare
+    <text>Volare 
 {0}: Lancia una moneta. Se vinci il lancio, l'Efreet Frenetico scompare. Se perdi il lancio, sacrifica l'Efreet Frenetico.</text>
     <flavorText>
     </flavorText>
@@ -938,14 +940,14 @@ Ogniqualvolta le Distese Dimenticate diventano bersaglio di una magia, il contro
   <item>
     <id>MIR0125</id>
     <name>Fanteria Scelta dei Goblin</name>
-    <text>Ogniqualvolta la Fanteria Scelta dei Goblin blocca o viene bloccata, prende -1/-1 fino alla fine del turno.</text>
+    <text>Ogniqualvolta la Fanteria Scelta dei Goblin blocca o viene bloccata, prende -1/-1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0126</id>
     <name>Goblin Esploratori</name>
-    <text>Metti sul campo di battaglia tre pedine creatura Goblin Esploratore 1/1 rosse con passa-montagne.</text>
+    <text>Metti sul campo di battaglia tre pedine creatura Goblin Esploratore 1/1 rosse con passa-montagne. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -959,14 +961,14 @@ Ogniqualvolta le Distese Dimenticate diventano bersaglio di una magia, il contro
   <item>
     <id>MIR0128</id>
     <name>Goblin Tuttofare</name>
-    <text>{R}, {T}: Distruggi un artefatto bersaglio. Quell'artefatto infligge un danno pari al proprio costo di mana convertito al Goblin Tuttofare.</text>
+    <text>{R}, {T}: Distruggi un artefatto bersaglio. Quell'artefatto infligge un danno pari al proprio costo di mana convertito al Goblin Tuttofare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0129</id>
     <name>Mago della Gilda della Flora</name>
-    <text>{W}, {T}: La creatura bersaglio guadagna attacco improvviso fino alla fine del turno.
+    <text>{W}, {T}: La creatura bersaglio guadagna attacco improvviso fino alla fine del turno. 
 {R}, {T}: Il Mago della Gilda della Flora infligge 1 danno a un giocatore o a una creatura bersaglio e 1 danno a te.</text>
     <flavorText>
     </flavorText>
@@ -974,7 +976,7 @@ Ogniqualvolta le Distese Dimenticate diventano bersaglio di una magia, il contro
   <item>
     <id>MIR0130</id>
     <name>Prateria Equatoriale</name>
-    <text>La Prateria Equatoriale entra nel campo di battaglia TAPpata.
+    <text>La Prateria Equatoriale entra nel campo di battaglia TAPpata. 
 {T}, Sacrifica la Prateria Equatoriale: Passa in rassegna il tuo grimorio per una carta Pianura o Foresta, e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -982,23 +984,23 @@ Ogniqualvolta le Distese Dimenticate diventano bersaglio di una magia, il contro
   <item>
     <id>MIR0131</id>
     <name>Schiavitù del Sepolcro</name>
-    <text>Puoi lanciare la Schiavitù del Sepolcro in qualsiasi momento in cui potresti lanciare un istantaneo. Se è stata lanciata quando non poteva essere lanciata una stregoneria, sacrificala all'inizio della prossima sottofase di cancellazione.
-Incanta creatura.
-La creatura incantata prende +3/-1 ed è nera.</text>
+    <text>Puoi lanciare la Schiavitù del Sepolcro in qualsiasi momento in cui potresti lanciare un istantaneo. Se è stata lanciata quando non poteva essere lanciata una stregoneria, sacrificala all'inizio della prossima sottofase di cancellazione. 
+Incanta creatura. 
+La creatura incantata prende +3/-1 ed è nera. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0132</id>
     <name>Zombi delle Tombe</name>
-    <text>Se gli Zombi delle Tombe stanno per andare in un cimitero dal campo di battaglia, invece metti gli Zombi delle Tombe in cima al grimorio del loro proprietario.</text>
+    <text>Se gli Zombi delle Tombe stanno per andare in un cimitero dal campo di battaglia, invece metti gli Zombi delle Tombe in cima al grimorio del loro proprietario. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0133</id>
     <name>Fiero Pasto</name>
-    <text>All'inizio del tuo mantenimento, il Fiero Pasto ti infligge 1 danno.
+    <text>All'inizio del tuo mantenimento, il Fiero Pasto ti infligge 1 danno. 
 Ogniqualvolta una creatura viene messa nel cimitero di un avversario dal campo di battaglia, guadagni punti vita pari alla sua costituzione.</text>
     <flavorText>
     </flavorText>
@@ -1013,8 +1015,8 @@ Ogniqualvolta una creatura viene messa nel cimitero di un avversario dal campo d
   <item>
     <id>MIR0135</id>
     <name>Hakim, Tessitore di Incanti</name>
-    <text>Volare
-{U}{U} : Rimetti sul campo di battaglia assegnata a Hakim, Tessitore di Incanti la carta Aura bersaglio dal tuo cimitero. Attiva questa abilità soltanto durante il tuo mantenimento e soltanto se Hakim non è incantato.
+    <text>Volare 
+{U}{U} : Rimetti sul campo di battaglia assegnata a Hakim, Tessitore di Incanti la carta Aura bersaglio dal tuo cimitero. Attiva questa abilità soltanto durante il tuo mantenimento e soltanto se Hakim non è incantato. 
 {U}{U},{T} : Distruggi tutte le Aura assegnate a Hakim, Tessitore di Incanti.</text>
     <flavorText>
     </flavorText>
@@ -1029,7 +1031,7 @@ Ogniqualvolta una creatura viene messa nel cimitero di un avversario dal campo d
   <item>
     <id>MIR0137</id>
     <name>Martello di Bogardan</name>
-    <text>Il Martello di Bogardan infligge 3 danni a un giocatore o a una creatura bersaglio.
+    <text>Il Martello di Bogardan infligge 3 danni a un giocatore o a una creatura bersaglio. 
 {2}{R}{R}{R} : Riprendi in mano il Martello di Bogardan dal tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -1044,7 +1046,7 @@ Ogniqualvolta una creatura viene messa nel cimitero di un avversario dal campo d
   <item>
     <id>MIR0139</id>
     <name>Guardiano del Porto</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
 Ogniqualvolta il Guardiano del Porto attacca, il giocatore in difesa può pescare una carta.</text>
     <flavorText>
     </flavorText>
@@ -1052,7 +1054,7 @@ Ogniqualvolta il Guardiano del Porto attacca, il giocatore in difesa può pescar
   <item>
     <id>MIR0140</id>
     <name>Efreet Harmattan</name>
-    <text>Volare
+    <text>Volare 
 {1}{U}{U}: La creatura bersaglio guadagna volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1060,8 +1062,8 @@ Ogniqualvolta il Guardiano del Porto attacca, il giocatore in difesa può pescar
   <item>
     <id>MIR0141</id>
     <name>Apparizione Spettrale</name>
-    <text>Volare
-Mentre l'Apparizione Spettrale entra nel campo di battaglia, scegli un avversario.
+    <text>Volare 
+Mentre l'Apparizione Spettrale entra nel campo di battaglia, scegli un avversario. 
 La forza dell'Apparizione Spettrale è pari a 1 più il numero di carte creatura verdi presenti nel cimitero dell'avversario scelto.</text>
     <flavorText>
     </flavorText>
@@ -1083,8 +1085,8 @@ La forza dell'Apparizione Spettrale è pari a 1 più il numero di carte creatura
   <item>
     <id>MIR0144</id>
     <name>Hivis della Scaglia</name>
-    <text>Puoi scegliere di non STAPpare Hivis della Scaglia durante il tuo STAP.
-{T}: Guadagni il controllo del Drago bersaglio fintanto che tu controlli Hivis della Scaglia e fintanto che Hivis della Scaglia rimane TAPpato.</text>
+    <text>Puoi scegliere di non STAPpare Hivis della Scaglia durante il tuo STAP. 
+{T}: Guadagni il controllo del Drago bersaglio fintanto che tu controlli Hivis della Scaglia e fintanto che Hivis della Scaglia rimane TAPpato. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1126,7 +1128,7 @@ La forza dell'Apparizione Spettrale è pari a 1 più il numero di carte creatura
   <item>
     <id>MIR0150</id>
     <name>Contratto Infernale</name>
-    <text>Pesca quattro carte. Perdi metà dei tuoi punti vita, arrotondati per eccesso.</text>
+    <text>Pesca quattro carte. Perdi metà dei tuoi punti vita, arrotondati per eccesso. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1175,23 +1177,23 @@ La forza dell'Apparizione Spettrale è pari a 1 più il numero di carte creatura
   <item>
     <id>MIR0157</id>
     <name>Influsso di Jabari</name>
-    <text>Lancia l'Influsso di Jabari solo dopo il combattimento.
-Prendi il controllo di una creatura bersaglio non artefatto e non nera che ti attaccato in questo turno e metti un segnalino -1/-0 su di essa. [Oracle 2000/10/24]</text>
+    <text>Lancia l'Influsso di Jabari solo dopo il combattimento. 
+Prendi il controllo di una creatura bersaglio non artefatto e non nera che ti attaccato in questo turno e metti un segnalino -1/-0 su di essa. Oracle 2000/10/24</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0158</id>
     <name>Centauro di Jolrael</name>
-    <text>Velo (Questo permanente non può essere bersaglio di magie o di abilità.)
-Aggirare</text>
+    <text>Velo (Questo permanente non può essere bersaglio di magie o di abilità.) 
+Aggirare </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0159</id>
     <name>Scossa</name>
-    <text>Puoi TAPpare o STAPpare un artefatto, una creatura, o una terra bersaglio.
+    <text>Puoi TAPpare o STAPpare un artefatto, una creatura, o una terra bersaglio. 
 Pesca una carta all'inizio del tuo prossimo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -1199,7 +1201,7 @@ Pesca una carta all'inizio del tuo prossimo mantenimento.</text>
   <item>
     <id>MIR0160</id>
     <name>Pattuglia della Giungla</name>
-    <text>{1}{G},{T} : Metti sul campo di battaglia una pedina creatura Muro Pianta 0/1 verde con difensore. 
+    <text>{1}{G},{T} : Metti sul campo di battaglia una pedina creatura Muro Pianta 0/1 verde con difensore.  
 Sacrifica una pedina Muro Pianta : Aggiungi {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1207,7 +1209,7 @@ Sacrifica una pedina Muro Pianta : Aggiungi {R} alla tua riserva di mana.</text>
   <item>
     <id>MIR0161</id>
     <name>Troll della Giungla</name>
-    <text>{R}: Rigenera il Troll della Giungla.
+    <text>{R}: Rigenera il Troll della Giungla. 
 {G}: Rigenera il Troll della Giungla.</text>
     <flavorText>
     </flavorText>
@@ -1229,15 +1231,15 @@ Sacrifica una pedina Muro Pianta : Aggiungi {R} alla tua riserva di mana.</text>
   <item>
     <id>MIR0164</id>
     <name>Epurazione di Kaervek</name>
-    <text>Distruggi una creatura bersaglio con un costo di mana convertito pari a X. Se quella creatura viene messa in un cimitero in questo modo, l'Epurazione di Kaervek infligge al controllore di quella creatura un danno pari alla forza della creatura.</text>
+    <text>Distruggi una creatura bersaglio con un costo di mana convertito pari a X. Se quella creatura viene messa in un cimitero in questo modo, l'Epurazione di Kaervek infligge al controllore di quella creatura un danno pari alla forza della creatura. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0165</id>
     <name>Torcia di Kaervek</name>
-    <text>Fintanto che la Torcia di Kaervek è nella pila, le magie che hanno come bersaglio la Torcia di Kaervek hanno un costo addizionale di {2} per essere lanciate.
-La Torcia di Kaervek infligge X danni a una creatura o a un giocatore bersaglio. [Oracle 2003/02/01]</text>
+    <text>Fintanto che la Torcia di Kaervek è nella pila, le magie che hanno come bersaglio la Torcia di Kaervek hanno un costo addizionale di {2} per essere lanciate. 
+La Torcia di Kaervek infligge X danni a una creatura o a un giocatore bersaglio. Oracle 2003/02/01</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1258,8 +1260,8 @@ La Torcia di Kaervek infligge X danni a una creatura o a un giocatore bersaglio.
   <item>
     <id>MIR0168</id>
     <name>Serpente di Kukemssa</name>
-    <text>Il Serpente di Kukemssa non può attaccare a meno che il giocatore in difesa controlli un'Isola.
-{U}, Sacrifica un'Isola: La terra bersaglio controllata da un avversario diventa un'Isola fino alla fine del turno.
+    <text>Il Serpente di Kukemssa non può attaccare a meno che il giocatore in difesa controlli un'Isola. 
+{U}, Sacrifica un'Isola: La terra bersaglio controllata da un avversario diventa un'Isola fino alla fine del turno. 
 Quando non controlli Isole, sacrifica il Serpente di Kukemssa.</text>
     <flavorText>
     </flavorText>
@@ -1267,14 +1269,14 @@ Quando non controlli Isole, sacrifica il Serpente di Kukemssa.</text>
   <item>
     <id>MIR0169</id>
     <name>Golem di Piombo</name>
-    <text>Ogniqualvolta il Golem di Piombo attacca, non STAPpa durante il prossimo STAP del suo controllore.</text>
+    <text>Ogniqualvolta il Golem di Piombo attacca, non STAPpa durante il prossimo STAP del suo controllore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0170</id>
     <name>Gargoyle Lascivo</name>
-    <text>Volare
+    <text>Volare 
 {T}: Il Gargoyle Lascivo prende -2/+2 e perde volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1282,9 +1284,9 @@ Quando non controlli Isole, sacrifica il Serpente di Kukemssa.</text>
   <item>
     <id>MIR0171</id>
     <name>Riflessi Fulminei</name>
-    <text>Puoi lanciare i Riflessi Fulminei quando potresti lanciare un istantaneo. Se sono stati lanciati in un momento in cui non poteva essere lanciata una stregoneria, sacrificali all'inizio della prossima sottofase di cancellazione.
-Incanta creatura
-La creatura incantata prende +1/+0 e ha attacco improvviso.</text>
+    <text>Puoi lanciare i Riflessi Fulminei quando potresti lanciare un istantaneo. Se sono stati lanciati in un momento in cui non poteva essere lanciata una stregoneria, sacrificali all'inizio della prossima sottofase di cancellazione. 
+Incanta creatura 
+La creatura incantata prende +1/+0 e ha attacco improvviso. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1298,16 +1300,16 @@ La creatura incantata prende +1/+0 e ha attacco improvviso.</text>
   <item>
     <id>MIR0173</id>
     <name>Sciame di Cavallette</name>
-    <text>Volare
-{G}: Rigenera lo Sciame di Cavallette.
-{G}: STAPpa lo Sciame di Cavallette. Attiva questa abilità solo una volta per turno.</text>
+    <text>Volare 
+{G}: Rigenera lo Sciame di Cavallette. 
+{G}: STAPpa lo Sciame di Cavallette. Attiva questa abilità solo una volta per turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0174</id>
     <name>Richiamo della Preda</name>
-    <text>Lancia il Richiamo della Preda soltanto se un avversario ha lanciato una magia creatura in questo turno.
+    <text>Lancia il Richiamo della Preda soltanto se un avversario ha lanciato una magia creatura in questo turno. 
 Puoi mettere sul campo di battaglia una carta creatura verde dalla tua mano.</text>
     <flavorText>
     </flavorText>
@@ -1315,16 +1317,16 @@ Puoi mettere sul campo di battaglia una carta creatura verde dalla tua mano.</te
   <item>
     <id>MIR0175</id>
     <name>Crescita Maligna</name>
-    <text>Mantenimento Cumulativo {1}
-All'inizio del tuo mantenimento, metti un segnalino crescita sulla Crescita Maligna.
-All'inizio della acquisizione di ogni avversario, quel giocatore pesca una carta addizionale per ogni segnalino crescita presente sulla Crescita Maligna, poi la Crescita Maligna infligge un danno al giocatore pari al numero di carte pescate in questo modo.</text>
+    <text>Mantenimento Cumulativo {1} 
+All'inizio del tuo mantenimento, metti un segnalino crescita sulla Crescita Maligna. 
+All'inizio della acquisizione di ogni avversario, quel giocatore pesca una carta addizionale per ogni segnalino crescita presente sulla Crescita Maligna, poi la Crescita Maligna infligge un danno al giocatore pari al numero di carte pescate in questo modo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0176</id>
     <name>Prisma del Mana</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {1}, {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1332,16 +1334,16 @@ All'inizio della acquisizione di ogni avversario, quel giocatore pesca una carta
   <item>
     <id>MIR0177</id>
     <name>Benedizione di Mangara</name>
-    <text>Guadagni 5 punti vita.
-Quando una magia o una abilità controllata da un avversario ti costringe a scartare la Benedizione di Mangara dalla tua mano, guadagni 2 punti vita e riprendi in mano dal tuo cimitero la Benedizione di Mangara all'inizio della sottofase finale. [Oracle 2002/03/01]</text>
+    <text>Guadagni 5 punti vita. 
+Quando una magia o una abilità controllata da un avversario ti costringe a scartare la Benedizione di Mangara dalla tua mano, guadagni 2 punti vita e riprendi in mano dal tuo cimitero la Benedizione di Mangara all'inizio della sottofase finale. Oracle 2002/03/01</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0178</id>
     <name>Equità di Mangara</name>
-    <text>Mentre l'Equità di Mangara entra nel campo di battaglia, scegli rosso o nero.
-All'inizio del tuo mantenimento, sacrifica l'Equità di Mangara a meno che tu paghi {1}{W}.
+    <text>Mentre l'Equità di Mangara entra nel campo di battaglia, scegli rosso o nero. 
+All'inizio del tuo mantenimento, sacrifica l'Equità di Mangara a meno che tu paghi {1}{W}. 
 Ogniqualvolta una creatura del colore scelto infligge danno a te o ad una creatura bianca che controlli, l'Equità di Mangara infligge altrettanti danni a quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -1349,15 +1351,15 @@ Ogniqualvolta una creatura del colore scelto infligge danno a te o ad una creatu
   <item>
     <id>MIR0179</id>
     <name>Tomo di Mangara</name>
-    <text>Quando il Tomo di Mangara entra nel campo di battaglia, passa in rassegna il tuo grimorio per 5 carte. Esilia quelle carte a faccia in giù, poi mescolale. Poi rimescola il tuo grimorio.
-{2} : La prossima volta che stai per pescare una carta in questo turno, metti invece la prima carta esiliata con il Tomo di Mangara nella mano del suo proprietario. [Oracle 2000/10/24]</text>
+    <text>Quando il Tomo di Mangara entra nel campo di battaglia, passa in rassegna il tuo grimorio per 5 carte. Esilia quelle carte a faccia in giù, poi mescolale. Poi rimescola il tuo grimorio. 
+{2} : La prossima volta che stai per pescare una carta in questo turno, metti invece la prima carta esiliata con il Tomo di Mangara nella mano del suo proprietario. Oracle 2000/10/24 </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0180</id>
     <name>Diamante del Marmo</name>
-    <text>Il Diamante del Marmo entra nel campo di battaglia TAPpato.
+    <text>Il Diamante del Marmo entra nel campo di battaglia TAPpato. 
 {T} : Aggiungi {W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1386,14 +1388,14 @@ Ogniqualvolta una creatura del colore scelto infligge danno a te o ad una creatu
   <item>
     <id>MIR0184</id>
     <name>Vuoto di Memoria</name>
-    <text>Neutralizza una magia bersaglio. Se quella magia viene neutralizzata in questo modo, mettila in cima al grimorio del suo proprietario invece che nel cimitero di quel giocatore.</text>
+    <text>Neutralizza una magia bersaglio. Se quella magia viene neutralizzata in questo modo, mettila in cima al grimorio del suo proprietario invece che nel cimitero di quel giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0185</id>
     <name>Tritoni Razziatori</name>
-    <text>Fase, passa-isole.</text>
+    <text>Fase, passa-isole. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1414,7 +1416,8 @@ Ogniqualvolta una creatura del colore scelto infligge danno a te o ad una creatu
   <item>
     <id>MIR0188</id>
     <name>Briglia Mentale</name>
-    <text>Incanta creatura rossa o verde; Mantenimento cumulativo {1}
+    <text>Incanta creatura rossa o verde
+Mantenimento cumulativo {1} 
 Tu controlli la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -1422,8 +1425,8 @@ Tu controlli la creatura incantata.</text>
   <item>
     <id>MIR0189</id>
     <name>Spore della Confusione</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Volare
+    <text>Difensore (Questa creatura non può attaccare.) 
+Volare 
 Ogniqualvolta le Spore della Confusione bloccano una creatura, metti 4 segnalini fungus su quella creatura. La creatura guadagna "Questa creatura non STAPpa durante il tuo STAP se ha un segnalino fungus su di sé." e "All'inizio del tuo mantenimento, rimuovi un segnalino fungus da questa creatura."</text>
     <flavorText>
     </flavorText>
@@ -1445,16 +1448,16 @@ Ogniqualvolta le Spore della Confusione bloccano una creatura, metti 4 segnalini
   <item>
     <id>MIR0192</id>
     <name>Drago della Nebbia</name>
-    <text>{0} : Il Drago della Nebbia guadagna Volare. 
-{0} : Il Drago della Nebbia perde Volare. 
-{3}{U}{U} : Il Drago della Nebbia scompare.</text>
+    <text>{0} : Il Drago della Nebbia guadagna Volare.  
+{0} : Il Drago della Nebbia perde Volare.  
+{3}{U}{U} : Il Drago della Nebbia scompare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0193</id>
     <name>Diamante del Muschio</name>
-    <text>Il Diamante del Muschio entra nel campo di battaglia TAPpato.
+    <text>Il Diamante del Muschio entra nel campo di battaglia TAPpato. 
 {T} : Aggiungi {G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1490,7 +1493,7 @@ Ogniqualvolta le Spore della Confusione bloccano una creatura, metti 4 segnalini
   <item>
     <id>MIR0198</id>
     <name>Vallata di Montagna</name>
-    <text>La Vallata di Montagna entra nel campo di battaglia TAPpata.
+    <text>La Vallata di Montagna entra nel campo di battaglia TAPpata. 
 {T}, Sacrifica la Vallata di Montagna : Passa in rassegna il tuo grimorio per una carta Montagna o Foresta e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1498,7 +1501,7 @@ Ogniqualvolta le Spore della Confusione bloccano una creatura, metti 4 segnalini
   <item>
     <id>MIR0199</id>
     <name>Grifone Mtenda</name>
-    <text>Volare
+    <text>Volare 
 {W},{T} : Il proprietario riprende in mano il Grifone Mtenda e tu riprendi in mano una carta Grifone bersaglio presente nel tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -1513,7 +1516,7 @@ Ogniqualvolta le Spore della Confusione bloccano una creatura, metti 4 segnalini
   <item>
     <id>MIR0201</id>
     <name>Leone di Mtenda</name>
-    <text>Ogniqualvolta il Leone di Mtenda attacca, il giocatore in difesa può pagare {U}. Se quel giocatore lo fa, previeni tutto il danno da combattimento che verrebbe inflitto dal Leone di Mtenda in questo turno.</text>
+    <text>Ogniqualvolta il Leone di Mtenda attacca, il giocatore in difesa può pagare {U}. Se quel giocatore lo fa, previeni tutto il danno da combattimento che verrebbe inflitto dal Leone di Mtenda in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1548,14 +1551,14 @@ Ogniqualvolta le Spore della Confusione bloccano una creatura, metti 4 segnalini
   <item>
     <id>MIR0206</id>
     <name>Raid Notturno</name>
-    <text>Le creature nere prendono +2/+0 fino alla fine del turno.</text>
+    <text>Le creature nere prendono +2/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0207</id>
     <name>Camera dell'Annullamento</name>
-    <text>Mentre la Camera dell'Annullamento entra nel campo di battaglia, tu e il tuo avversario nominate una carta a testa diversa da una terra base.
+    <text>Mentre la Camera dell'Annullamento entra nel campo di battaglia, tu e il tuo avversario nominate una carta a testa diversa da una terra base. 
 Le carte nominate non possono essere lanciate.</text>
     <flavorText>
     </flavorText>
@@ -1563,15 +1566,15 @@ Le carte nominate non possono essere lanciate.</text>
   <item>
     <id>MIR0208</id>
     <name>Pacifismo</name>
-    <text>Incanta creatura
-La creatura incantata non può attaccare o bloccare.</text>
+    <text>Incanta creatura 
+La creatura incantata non può attaccare o bloccare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0209</id>
     <name>Ricordi Dolorosi</name>
-    <text>Guarda la mano di un avversario bersaglio e scegli una carta da essa. Metti quella carta in cima al grimorio di quel giocatore.</text>
+    <text>Guarda la mano di un avversario bersaglio e scegli una carta da essa. Metti quella carta in cima al grimorio di quel giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1592,7 +1595,7 @@ La creatura incantata non può attaccare o bloccare.</text>
   <item>
     <id>MIR0212</id>
     <name>Drago Perlaceo</name>
-    <text>Volare
+    <text>Volare 
 {1}{W}: Il Drago Perlaceo prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1600,7 +1603,7 @@ La creatura incantata non può attaccare o bloccare.</text>
   <item>
     <id>MIR0213</id>
     <name>Sterminatore di Phyrexia</name>
-    <text>Travolgere
+    <text>Travolgere 
 Quando lo Sterminatore di Phyrexia entra nel campo di battaglia, sacrificalo a meno che tu sacrifichi un qualsiasi numero di creature per una forza totale pari o superiore a 12.</text>
     <flavorText>
     </flavorText>
@@ -1608,7 +1611,7 @@ Quando lo Sterminatore di Phyrexia entra nel campo di battaglia, sacrificalo a m
   <item>
     <id>MIR0214</id>
     <name>Epurazione di Phyrexia</name>
-    <text>Distruggi un qualsiasi numero di creature bersaglio.
+    <text>Distruggi un qualsiasi numero di creature bersaglio. 
 Lanciare l'Epurazione di Phyrexia ha un costo addizionale di 3 punti vita per ogni bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1616,7 +1619,7 @@ Lanciare l'Epurazione di Phyrexia ha un costo addizionale di 3 punti vita per og
   <item>
     <id>MIR0215</id>
     <name>Tributo a Phyrexia</name>
-    <text>Come costo addizionale per lanciare il Tributo a Phyrexia, sacrifica 2 creature.
+    <text>Come costo addizionale per lanciare il Tributo a Phyrexia, sacrifica 2 creature. 
 Distruggi un artefatto bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1666,7 +1669,7 @@ Distruggi un artefatto bersaglio.</text>
   <item>
     <id>MIR0222</id>
     <name>Polimorfismo</name>
-    <text>Distruggi una creatura bersaglio. Non può essere rigenerata. Il suo controllore rivela carte dalla cima del suo grimorio fino a che non rivela una carta creatura. Il giocatore mette quella carta sul campo di battaglia, poi rimescola tutte le altre carte rivelate in questo modo nel suo grimorio.</text>
+    <text>Distruggi una creatura bersaglio. Non può essere rigenerata. Il suo controllore rivela carte dalla cima del suo grimorio fino a che non rivela una carta creatura. Il giocatore mette quella carta sul campo di battaglia, poi rimescola tutte le altre carte rivelate in questo modo nel suo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1694,8 +1697,8 @@ Distruggi un artefatto bersaglio.</text>
   <item>
     <id>MIR0226</id>
     <name>Circolo di Protezione Prismatico</name>
-    <text>Mantenimento cumulativo {1}
-Mentre il Circolo di Protezione Prismatico entra nel campo di battaglia, scegli un colore.
+    <text>Mantenimento cumulativo {1} 
+Mentre il Circolo di Protezione Prismatico entra nel campo di battaglia, scegli un colore. 
 {1}: La prossima volta che una fonte a tua scelta del colore scelto ti infligge danno in questo turno, previeni quel danno.</text>
     <flavorText>
     </flavorText>
@@ -1703,7 +1706,7 @@ Mentre il Circolo di Protezione Prismatico entra nel campo di battaglia, scegli 
   <item>
     <id>MIR0227</id>
     <name>Segno Prismatico</name>
-    <text>Il permanente bersaglio diventa del colore o dei colori a tua scelta. (Questo effetto non ha termine.)</text>
+    <text>Il permanente bersaglio diventa del colore o dei colori a tua scelta. (Questo effetto non ha termine.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1717,7 +1720,7 @@ Mentre il Circolo di Protezione Prismatico entra nel campo di battaglia, scegli 
   <item>
     <id>MIR0229</id>
     <name>Purgatorio</name>
-    <text>Ogniqualvolta una creatura non pedina viene messa in un cimitero dal campo di battaglia, esilia quella carta.
+    <text>Ogniqualvolta una creatura non pedina viene messa in un cimitero dal campo di battaglia, esilia quella carta. 
 All'inizio del tuo mantenimento puoi pagare {4} e 2 punti vita. Se lo fai, rimetti sul campo di battaglia una carta esiliata con il Purgatorio.</text>
     <flavorText>
     </flavorText>
@@ -1725,8 +1728,8 @@ All'inizio del tuo mantenimento puoi pagare {4} e 2 punti vita. Se lo fai, rimet
   <item>
     <id>MIR0230</id>
     <name>Purraj di Urborg</name>
-    <text>Il Purraj di Urborg ha attacco improvviso fintanto che sta attaccando.
-Ogniqualvolta un giocatore lancia una magia nera, puoi pagare {B}. Se lo fai, metti un segnalino +1/+1 sul Purraj di Urborg.</text>
+    <text>Il Purraj di Urborg ha attacco improvviso fintanto che sta attaccando. 
+Ogniqualvolta un giocatore lancia una magia nera, puoi pagare {B}. Se lo fai, metti un segnalino +1/+1 sul Purraj di Urborg. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1740,8 +1743,8 @@ Ogniqualvolta un giocatore lancia una magia nera, puoi pagare {B}. Se lo fai, me
   <item>
     <id>MIR0232</id>
     <name>Elfi di Quirion</name>
-    <text>Mentre gli Elfi di Quirion entrano nel campo di battaglia, scegli un colore.
-{T}: Aggiungi {G} alla tua riserva di mana.
+    <text>Mentre gli Elfi di Quirion entrano nel campo di battaglia, scegli un colore. 
+{T}: Aggiungi {G} alla tua riserva di mana. 
 {T}: Aggiungi un mana del colore scelto alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1770,14 +1773,14 @@ Ogniqualvolta un giocatore lancia una magia nera, puoi pagare {B}. Se lo fai, me
   <item>
     <id>MIR0236</id>
     <name>Rashida Flagello dei Draghi</name>
-    <text>{T}: Distruggi un Drago bersaglio cha sta attaccando o che sta bloccando. Non può essere rigenerato. Guadagni un ammontare di punti vita pari alla sua forza.</text>
+    <text>{T}: Distruggi un Drago bersaglio cha sta attaccando o che sta bloccando. Non può essere rigenerato. Guadagni un ammontare di punti vita pari alla sua forza. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0237</id>
     <name>Vampiro Famelico</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del tuo mantenimento, puoi sacrificare una creatura non artefatto. Se lo fai, metti un segnalino +1/+1 sul Vampiro Famelico. Se non lo fai, TAPpa il Vampiro Famelico.</text>
     <flavorText>
     </flavorText>
@@ -1785,7 +1788,7 @@ All'inizio del tuo mantenimento, puoi sacrificare una creatura non artefatto. Se
   <item>
     <id>MIR0238</id>
     <name>Raggio del Comando</name>
-    <text>STAPpa una creatura bersaglio controllata da un avversario e prendine il controllo fino alla fine del turno. Quella creatura guadagna rapidità fino alla fine del turno. Quando perdi il controllo della creatura, TAPpala.</text>
+    <text>STAPpa una creatura bersaglio controllata da un avversario e prendine il controllo fino alla fine del turno. Quella creatura guadagna rapidità fino alla fine del turno. Quando perdi il controllo della creatura, TAPpala. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1820,7 +1823,7 @@ All'inizio del tuo mantenimento, puoi sacrificare una creatura non artefatto. Se
   <item>
     <id>MIR0243</id>
     <name>Rigenerazione</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
 {G}: Rigenera la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -1856,8 +1859,8 @@ All'inizio del tuo mantenimento, puoi sacrificare una creatura non artefatto. Se
   <item>
     <id>MIR0248</id>
     <name>Rituale dell'Acciaio</name>
-    <text>Incanta creatura
-Quando il Rituale dell'Acciaio entra nel campo di battaglia, pesca una carta all'inizio del mantenimento del prossimo turno.
+    <text>Incanta creatura 
+Quando il Rituale dell'Acciaio entra nel campo di battaglia, pesca una carta all'inizio del mantenimento del prossimo turno. 
 La creatura incantata prende +0/+2.</text>
     <flavorText>
     </flavorText>
@@ -1872,7 +1875,7 @@ La creatura incantata prende +0/+2.</text>
   <item>
     <id>MIR0250</id>
     <name>Cava di Rocce Catramose</name>
-    <text>La Cava di Rocce Catramose entra nel campo di battaglia TAPpata.
+    <text>La Cava di Rocce Catramose entra nel campo di battaglia TAPpata. 
 {T}, Sacrifica la Cava di Rocce Catramose: Passa in rassegna il tuo grimorio per una carta Montagna o una carta Palude e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1880,7 +1883,7 @@ La creatura incantata prende +0/+2.</text>
   <item>
     <id>MIR0251</id>
     <name>Radici della Vita</name>
-    <text>Mentre le Radici della Vita entrano nel campo di battaglia, scegli Isole o Paludi.
+    <text>Mentre le Radici della Vita entrano nel campo di battaglia, scegli Isole o Paludi. 
 Ogniqualvolta una terra del tipo scelto controllata da un avversario viene TAPpata, guadagni 1 punto vita.</text>
     <flavorText>
     </flavorText>
@@ -1895,7 +1898,7 @@ Ogniqualvolta una terra del tipo scelto controllata da un avversario viene TAPpa
   <item>
     <id>MIR0253</id>
     <name>Mesa Inviolabile</name>
-    <text>All'inizio del tuo mantenimento, sacrifica la Mesa Inviolabile a meno che non sacrifichi un Pegaso.
+    <text>All'inizio del tuo mantenimento, sacrifica la Mesa Inviolabile a meno che non sacrifichi un Pegaso. 
 {1}{W}: Metti sul campo di battaglia una pedina creatura Pegaso 1/1 bianca con volare.</text>
     <flavorText>
     </flavorText>
@@ -1917,7 +1920,7 @@ Ogniqualvolta una terra del tipo scelto controllata da un avversario viene TAPpa
   <item>
     <id>MIR0256</id>
     <name>Tempesta di Sabbia</name>
-    <text>La Tempesta di Sabbia infligge 1 danno ad ogni creatura attaccante.</text>
+    <text>La Tempesta di Sabbia infligge 1 danno ad ogni creatura attaccante. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1931,14 +1934,14 @@ Ogniqualvolta una terra del tipo scelto controllata da un avversario viene TAPpa
   <item>
     <id>MIR0258</id>
     <name>Tornado Scatenato</name>
-    <text>Il Tornado Scatenato infligge X danni a ogni creatura.</text>
+    <text>Il Tornado Scatenato infligge X danni a ogni creatura. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0259</id>
     <name>Manticora Spinata</name>
-    <text>{4}: La Manticora Spinata guadagna volare fino alla fine del turno.
+    <text>{4}: La Manticora Spinata guadagna volare fino alla fine del turno. 
 {1}: La Manticora Spinata infligge 2 danni a una creatura bersaglio che sta attaccando o bloccando. Attiva questa abilità solo una volta per turno e solo se la Manticora Spinata sta attaccando o bloccando.</text>
     <flavorText>
     </flavorText>
@@ -1946,7 +1949,7 @@ Ogniqualvolta una terra del tipo scelto controllata da un avversario viene TAPpa
   <item>
     <id>MIR0260</id>
     <name>Esploratore Marino</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {1}, {T}: Aggiungi {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1961,8 +1964,8 @@ Ogniqualvolta una terra del tipo scelto controllata da un avversario viene TAPpa
   <item>
     <id>MIR0262</id>
     <name>Ascari dalla Lancia Infuocata</name>
-    <text>Aggirare
-{1}{R}: In questo turno gli Ascari dalla Lancia Infuocata non possono essere bloccati tranne che da due o più creature.</text>
+    <text>Aggirare 
+{1}{R}: In questo turno gli Ascari dalla Lancia Infuocata non possono essere bloccati tranne che da due o più creature. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1997,7 +2000,7 @@ Ogniqualvolta una terra del tipo scelto controllata da un avversario viene TAPpa
   <item>
     <id>MIR0267</id>
     <name>Mago della Gilda dell'Ombra</name>
-    <text>{U}, {T}: Metti una creatura bersaglio che controlli in cima al grimorio del suo proprietario.
+    <text>{U}, {T}: Metti una creatura bersaglio che controlli in cima al grimorio del suo proprietario. 
 {R}, {T}: Il Mago della Gilda dell'Ombra infligge 1 danno a una creatura o a un giocatore bersaglio e 1 danno a te.</text>
     <flavorText>
     </flavorText>
@@ -2019,7 +2022,7 @@ Ogniqualvolta una terra del tipo scelto controllata da un avversario viene TAPpa
   <item>
     <id>MIR0270</id>
     <name>Mago della Gilda dei Plasmatori</name>
-    <text>{W}, {T}: Una creatura bersaglio guadagna attacco improvviso fino alla fine del turno.
+    <text>{W}, {T}: Una creatura bersaglio guadagna attacco improvviso fino alla fine del turno. 
 {B}, {T}: Una creatura bersaglio prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2027,9 +2030,9 @@ Ogniqualvolta una terra del tipo scelto controllata da un avversario viene TAPpa
   <item>
     <id>MIR0271</id>
     <name>Shauku, Portatrice di Morte</name>
-    <text>Volare
-Shauku, Portatrice di Morte non può attaccare se c'è un'altra creatura sul campo di battaglia.
-All'inizio del tuo mantenimento, perdi 3 punti vita.
+    <text>Volare 
+Shauku, Portatrice di Morte non può attaccare se c'è un'altra creatura sul campo di battaglia. 
+All'inizio del tuo mantenimento, perdi 3 punti vita. 
 {T}: Esilia una creatura bersaglio e metti un segnalino +1/+1 su Shauku, Portatrice di Morte.</text>
     <flavorText>
     </flavorText>
@@ -2044,7 +2047,7 @@ All'inizio del tuo mantenimento, perdi 3 punti vita.
   <item>
     <id>MIR0273</id>
     <name>Riflesso Tremolante</name>
-    <text>Mentre il Riflesso Tremolante entra nel campo di battaglia, scegli un tipo di terra.
+    <text>Mentre il Riflesso Tremolante entra nel campo di battaglia, scegli un tipo di terra. 
 Ogni terra del tipo scelto ha fase.</text>
     <flavorText>
     </flavorText>
@@ -2052,8 +2055,8 @@ Ogni terra del tipo scelto ha fase.</text>
   <item>
     <id>MIR0274</id>
     <name>Sidar Jabari</name>
-    <text>Aggirare
-Ogniqualvolta Sidar Jabari attacca, TAPpa una creatura bersaglio controllata dal giocatore in difesa.</text>
+    <text>Aggirare 
+Ogniqualvolta Sidar Jabari attacca, TAPpa una creatura bersaglio controllata dal giocatore in difesa. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2067,7 +2070,7 @@ Ogniqualvolta Sidar Jabari attacca, TAPpa una creatura bersaglio controllata dal
   <item>
     <id>MIR0276</id>
     <name>Fantasma Codardo</name>
-    <text>Volare
+    <text>Volare 
 Quando il Fantasma Codardo diventa il bersaglio di una magia o di un'abilità, sacrificalo.</text>
     <flavorText>
     </flavorText>
@@ -2075,7 +2078,7 @@ Quando il Fantasma Codardo diventa il bersaglio di una magia o di un'abilità, s
   <item>
     <id>MIR0277</id>
     <name>Diamante del Cielo</name>
-    <text>Il Diamante del Cielo entra nel campo di battaglia TAPpato.
+    <text>Il Diamante del Cielo entra nel campo di battaglia TAPpato. 
 {T}: Aggiungi {U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2083,25 +2086,25 @@ Quando il Fantasma Codardo diventa il bersaglio di una magia o di un'abilità, s
   <item>
     <id>MIR0278</id>
     <name>Leggerezza</name>
-    <text>Puoi lanciare la Leggerezza in ogni momento in cui potresti lanciare un istantaneo. Se è stata lanciata quando non poteva essere lanciata una stregoneria, sacrificala all'inizio della prossima sottofase di cancellazione.
-Incanta creatura
-La creatura prende +0/+1 ed ha volare.</text>
+    <text>Puoi lanciare la Leggerezza in ogni momento in cui potresti lanciare un istantaneo. Se è stata lanciata quando non poteva essere lanciata una stregoneria, sacrificala all'inizio della prossima sottofase di cancellazione. 
+Incanta creatura 
+La creatura prende +0/+1 ed ha volare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0279</id>
     <name>Eco dell'Anima</name>
-    <text>L'Eco dell'Anima entra nel campo di battaglia con X segnalini eco.
-Non perdi la partita per avere 0 o meno punti vita.
-All'inizio del tuo mantenimento, sacrifica l'Eco dell'Anima se non ha segnalini eco. Altrimenti, un avversario può scegliere che per ogni punto danno che ti verrebbe inflitto fino al tuo prossimo mantenimento, invece tu rimuovi un segnalino eco dall'Eco dell'Anima.</text>
+    <text>L'Eco dell'Anima entra nel campo di battaglia con X segnalini eco. 
+Non perdi la partita per avere 0 o meno punti vita. 
+All'inizio del tuo mantenimento, sacrifica l'Eco dell'Anima se non ha segnalini eco. Altrimenti, un avversario può scegliere che per ogni punto danno che ti verrebbe inflitto fino al tuo prossimo mantenimento, invece tu rimuovi un segnalino eco dall'Eco dell'Anima. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0280</id>
     <name>Strappare l'Anima</name>
-    <text>Distruggi una creatura bersaglio se è bianca. Una creatura distrutta in questo modo non può essere rigenerata.
+    <text>Distruggi una creatura bersaglio se è bianca. Una creatura distrutta in questo modo non può essere rigenerata. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -2130,7 +2133,7 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0284</id>
     <name>Spirito della Notte</name>
-    <text>Volare, travolgere, rapidità, protezione dal nero
+    <text>Volare, travolgere, rapidità, protezione dal nero 
 Lo Spirito della Notte ha attacco improvviso fintanto che sta attaccando.</text>
     <flavorText>
     </flavorText>
@@ -2152,21 +2155,21 @@ Lo Spirito della Notte ha attacco improvviso fintanto che sta attaccando.</text>
   <item>
     <id>MIR0287</id>
     <name>Pioggia di Pietre</name>
-    <text>Distruggi una terra bersaglio.</text>
+    <text>Distruggi una terra bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0288</id>
     <name>Torpore</name>
-    <text>Un avversario bersaglio scarta una carta a caso, poi scarta una carta.</text>
+    <text>Un avversario bersaglio scarta una carta a caso, poi scarta una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0289</id>
     <name>Spirito Sotterraneo</name>
-    <text>Protezione dal rosso
+    <text>Protezione dal rosso 
 {T}: Lo Spirito Sotterraneo infligge 1 danno a ogni creatura senza volare.</text>
     <flavorText>
     </flavorText>
@@ -2174,8 +2177,8 @@ Lo Spirito della Notte ha attacco improvviso fintanto che sta attaccando.</text>
   <item>
     <id>MIR0290</id>
     <name>Ragnatela Solare</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Volare
+    <text>Difensore (Questa creatura non può attaccare.) 
+Volare 
 La Ragnatela Solare non può bloccare creature con forza pari o inferiore a 2.</text>
     <flavorText>
     </flavorText>
@@ -2190,7 +2193,7 @@ La Ragnatela Solare non può bloccare creature con forza pari o inferiore a 2.</
   <item>
     <id>MIR0292</id>
     <name>Calcafuoco di Suq'Ata</name>
-    <text>Il Calcafuoco di Suq'Ata non può essere bersaglio di magie rosse o abilità da fonti rosse.
+    <text>Il Calcafuoco di Suq'Ata non può essere bersaglio di magie rosse o abilità da fonti rosse. 
 {T}: il Calcafuoco di Suq'Ata infligge 1 danno ad una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2226,7 +2229,7 @@ La Ragnatela Solare non può bloccare creature con forza pari o inferiore a 2.</
   <item>
     <id>MIR0297</id>
     <name>Spettro Contaminato</name>
-    <text>Volare
+    <text>Volare 
 {1}{B}{B}, {T}: Il giocatore bersaglio scarta una carta a meno che metta una carta dalla sua mano in cima al suo grimorio. Se quel giocatore scarta una carta in questo modo, lo Spettro Contaminato infligge 1 danno a ogni creatura ed a ogni giocatore. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
     <flavorText>
     </flavorText>
@@ -2241,8 +2244,8 @@ La Ragnatela Solare non può bloccare creature con forza pari o inferiore a 2.</
   <item>
     <id>MIR0299</id>
     <name>Taniwha</name>
-    <text>Travolgere
-Fase
+    <text>Travolgere 
+Fase 
 All'inizio del tuo mantenimento, tutte le terre che controlli scompaiono.</text>
     <flavorText>
     </flavorText>
@@ -2257,7 +2260,7 @@ All'inizio del tuo mantenimento, tutte le terre che controlli scompaiono.</text>
   <item>
     <id>MIR0301</id>
     <name>Maledizione di Teferi</name>
-    <text>Incanta artefatto o creatura.
+    <text>Incanta artefatto o creatura. 
 Il permanente incantato ha fase.</text>
     <flavorText>
     </flavorText>
@@ -2265,7 +2268,7 @@ Il permanente incantato ha fase.</text>
   <item>
     <id>MIR0302</id>
     <name>Draghetto di Teferi</name>
-    <text>Volare
+    <text>Volare 
 Fase</text>
     <flavorText>
     </flavorText>
@@ -2273,8 +2276,8 @@ Fase</text>
   <item>
     <id>MIR0303</id>
     <name>Demonietto di Teferi</name>
-    <text>Volare
-Fase
+    <text>Volare 
+Fase 
 Quando il Demonietto di Teferi scompare, scarta una carta. Quando il Demonietto di Teferi riappare, pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -2282,8 +2285,8 @@ Quando il Demonietto di Teferi scompare, scarta una carta. Quando il Demonietto 
   <item>
     <id>MIR0304</id>
     <name>Isola di Teferi</name>
-    <text>Fase
-L'Isola di Teferi entra nel campo di battaglia TAPpata.
+    <text>Fase 
+L'Isola di Teferi entra nel campo di battaglia TAPpata. 
 {T}: Aggiungi {U}{U} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2291,7 +2294,7 @@ L'Isola di Teferi entra nel campo di battaglia TAPpata.
   <item>
     <id>MIR0305</id>
     <name>Telim'Tor</name>
-    <text>Aggirare
+    <text>Aggirare 
 Ogniqualvolta Telim'Tor attacca, tutte le creature attaccanti con aggirare prendono +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2306,7 +2309,7 @@ Ogniqualvolta Telim'Tor attacca, tutte le creature attaccanti con aggirare prend
   <item>
     <id>MIR0307</id>
     <name>Editto di Telim'Tor</name>
-    <text>Esilia un permanente bersaglio che possiedi o controlli.
+    <text>Esilia un permanente bersaglio che possiedi o controlli. 
 Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -2321,9 +2324,9 @@ Pesca una carta all'inizio del mantenimento del prossimo turno.</text>
   <item>
     <id>MIR0309</id>
     <name>Sete</name>
-    <text>Incanta creatura
-Quando la Sete entra nel campo di battaglia, TAPpa la creatura incantata.
-La creatura incantata non STAPpa durante lo STAP del suo controllore.
+    <text>Incanta creatura 
+Quando la Sete entra nel campo di battaglia, TAPpa la creatura incantata. 
+La creatura incantata non STAPpa durante lo STAP del suo controllore. 
 All'inizio del tuo mantenimento, sacrifica la Sete a meno che tu paghi {U}.</text>
     <flavorText>
     </flavorText>
@@ -2338,16 +2341,16 @@ All'inizio del tuo mantenimento, sacrifica la Sete a meno che tu paghi {U}.</tex
   <item>
     <id>MIR0311</id>
     <name>Scalinata di Lapidi</name>
-    <text>Mantenimento cumulativo {1}{B}
-All'inizio di ogni mantenimento, se La Scalinata di Lapidi è sul campo di battaglia, ogni giocatore mette sul campo di battaglia una pedina creatura Zombie 2/2 nera con rapidità di nome Lapide per ogni creatura presente nel proprio cimitero.
-All'inizio della sottofase finale o quando la Scalinata di Lapidi lascia il campo di battaglia, distruggi tutte le pedine messe sul campo di battaglia con la Scalinata di Lapidi. Non possono essere rigenerate.</text>
+    <text>Mantenimento cumulativo {1}{B} 
+All'inizio di ogni mantenimento, se La Scalinata di Lapidi è sul campo di battaglia, ogni giocatore mette sul campo di battaglia una pedina creatura Zombie 2/2 nera con rapidità di nome Lapide per ogni creatura presente nel proprio cimitero. 
+All'inizio della sottofase finale o quando la Scalinata di Lapidi lascia il campo di battaglia, distruggi tutte le pedine messe sul campo di battaglia con la Scalinata di Lapidi. Non possono essere rigenerate. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0312</id>
     <name>Torrente di Lava</name>
-    <text>Il Torrente di Lava infligge X danni ad ogni creatura senza volare.
+    <text>Il Torrente di Lava infligge X danni ad ogni creatura senza volare. 
 Fintanto che il Torrente di Lava è in pila, ogni creatura ha "{T}: Previeni il prossimo punto danno che verrebbe inflitto a questa creatura dal Torrente di Lava in questo turno."</text>
     <flavorText>
     </flavorText>
@@ -2369,7 +2372,7 @@ Fintanto che il Torrente di Lava è in pila, ogni creatura ha "{T}: Previeni il 
   <item>
     <id>MIR0315</id>
     <name>Spiritello di Uktabi</name>
-    <text>Volare
+    <text>Volare 
 {3}{G}, Sacrifica lo Spiritello di Uktabi: Distruggi un artefatto bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2377,7 +2380,7 @@ Fintanto che il Torrente di Lava è in pila, ogni creatura ha "{T}: Previeni il 
   <item>
     <id>MIR0316</id>
     <name>Gatti Selvatici di Uktabi</name>
-    <text>La forza e la costituzione dei Gatti Selvatici di Uktabi sono pari ciascuna al numero di Foreste che controlli.
+    <text>La forza e la costituzione dei Gatti Selvatici di Uktabi sono pari ciascuna al numero di Foreste che controlli. 
 {G}, Sacrifica una Foresta: Rigenera i Gatti Selvatici di Uktabi.</text>
     <flavorText>
     </flavorText>
@@ -2399,7 +2402,7 @@ Fintanto che il Torrente di Lava è in pila, ogni creatura ha "{T}: Previeni il 
   <item>
     <id>MIR0319</id>
     <name>Camminatrice Invisibile</name>
-    <text>Passa-foreste
+    <text>Passa-foreste 
 {1}{G}{G}: La creatura bersaglio guadagna Passa-foreste fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2414,7 +2417,7 @@ Fintanto che il Torrente di Lava è in pila, ogni creatura ha "{T}: Previeni il 
   <item>
     <id>MIR0321</id>
     <name>Grifone di Unyaro</name>
-    <text>Volare
+    <text>Volare 
 Sacrifica il Grifone di Unyaro: Neutralizza una magia istantaneo o stregoneria rossa bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2422,7 +2425,7 @@ Sacrifica il Grifone di Unyaro: Neutralizza una magia istantaneo o stregoneria r
   <item>
     <id>MIR0322</id>
     <name>Pantera di Urborg</name>
-    <text>{B}, Sacrifica la Pantera di Urborg: Distruggi una creatura bersaglio che sta bloccando la Pantera di Urborg.
+    <text>{B}, Sacrifica la Pantera di Urborg: Distruggi una creatura bersaglio che sta bloccando la Pantera di Urborg. 
 Sacrifica una creatura di nome Ombra Ferale, una creatura di nome Ladro di Respiri, e la Pantera di Urborg: Passa in rassegna il tuo grimorio per una carta di nome Spirito della Notte e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -2430,7 +2433,7 @@ Sacrifica una creatura di nome Ombra Ferale, una creatura di nome Ladro di Respi
   <item>
     <id>MIR0323</id>
     <name>Genio di Vapore</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del tuo mantenimento il Genio di Vapore scompare a meno che tu paghi {U}{U}.</text>
     <flavorText>
     </flavorText>
@@ -2438,7 +2441,7 @@ All'inizio del tuo mantenimento il Genio di Vapore scompare a meno che tu paghi 
   <item>
     <id>MIR0324</id>
     <name>Otre dei Venti</name>
-    <text>{1}{X}, {T}: Metti X segnalini carica sull'Otre dei Venti. Attiva questa abilità solo quando potresti lanciare una stregoneria.
+    <text>{1}{X}, {T}: Metti X segnalini carica sull'Otre dei Venti. Attiva questa abilità solo quando potresti lanciare una stregoneria. 
 All'inizio della tua fase principale pre-combattimento, se l'Otre dei Venti ha un segnalino carica su di sé, TAPpalo e rimuovi da esso tutti i segnalini carica. Poi aggiungi {1} alla tua riserva di mana per ogni segnalino carica rimosso in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -2454,15 +2457,15 @@ All'inizio della tua fase principale pre-combattimento, se l'Otre dei Venti ha u
   <item>
     <id>MIR0326</id>
     <name>Sentinella Martire</name>
-    <text>Sacrifica la Sentinella Martire: Rigenera una creatura bersaglio.
-{W}{W}, {T}, Sacrifica la Sentinella Martire: Neutralizza una magia bersaglio che bersaglia un incantesimo.</text>
+    <text>Sacrifica la Sentinella Martire: Rigenera una creatura bersaglio. 
+{W}{W}, {T}, Sacrifica la Sentinella Martire: Neutralizza una magia bersaglio che bersaglia un incantesimo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0327</id>
     <name>Anziano del Villaggio</name>
-    <text>{G}, {T}, Sacrifica una Foresta: Rigenera una creatura bersaglio.</text>
+    <text>{G}, {T}, Sacrifica una Foresta: Rigenera una creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2483,21 +2486,21 @@ All'inizio della tua fase principale pre-combattimento, se l'Otre dei Venti ha u
   <item>
     <id>MIR0330</id>
     <name>Geyser Vulcanico</name>
-    <text>Il Geyser Vulcanico infligge X danni a una creatura o a un giocatore bersaglio.</text>
+    <text>Il Geyser Vulcanico infligge X danni a una creatura o a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0331</id>
     <name>Agguato nel Sottobosco</name>
-    <text>Ogni giocatore mette sul campo di battaglia una pedina creatura Felino 1/1 verde per ogni Foresta STAPpata che controlla.</text>
+    <text>Ogni giocatore mette sul campo di battaglia una pedina creatura Felino 1/1 verde per ogni Foresta STAPpata che controlla. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0332</id>
     <name>Muro di Cadaveri</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {B}, Sacrifica il Muro di Cadaveri: Distruggi una creatura bersaglio che il Muro di Cadaveri sta bloccando.</text>
     <flavorText>
     </flavorText>
@@ -2505,8 +2508,8 @@ All'inizio della tua fase principale pre-combattimento, se l'Otre dei Venti ha u
   <item>
     <id>MIR0333</id>
     <name>Muro della Resistenza</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Volare
+    <text>Difensore (Questa creatura non può attaccare.) 
+Volare 
 All'inizio della sottofase finale, se è stato inflitto danno al Muro della Resistenza in questo turno, metti un segnalino +0/+1 su di esso.</text>
     <flavorText>
     </flavorText>
@@ -2514,7 +2517,7 @@ All'inizio della sottofase finale, se è stato inflitto danno al Muro della Resi
   <item>
     <id>MIR0334</id>
     <name>Muro di Radici</name>
-    <text>Difensore
+    <text>Difensore 
 Metti un segnalino -0/-1 sul Muro di Radici: Aggiungi {G} alla tua riserva di mana. Attiva questa abilità solo una volta per turno.</text>
     <flavorText>
     </flavorText>
@@ -2522,9 +2525,9 @@ Metti un segnalino -0/-1 sul Muro di Radici: Aggiungi {G} alla tua riserva di ma
   <item>
     <id>MIR0335</id>
     <name>Sigillo di Luci</name>
-    <text>Puoi lanciare il Sigillo di Luci in ogni momento in cui potresti lanciare un istantaneo. Se è stato lanciato in un momento in cui non poteva essere lanciata una stregoneria, sacrificalo all'inizio della prossima sottofase di cancellazione.
-Incanta creatura
-Mentre il Sigillo di Luci entra nel campo di battaglia, scegli un colore.
+    <text>Puoi lanciare il Sigillo di Luci in ogni momento in cui potresti lanciare un istantaneo. Se è stato lanciato in un momento in cui non poteva essere lanciata una stregoneria, sacrificalo all'inizio della prossima sottofase di cancellazione. 
+Incanta creatura 
+Mentre il Sigillo di Luci entra nel campo di battaglia, scegli un colore. 
 La creatura incantata ha protezione dal colore scelto. Questo effetto non rimuove il Sigillo di Luci.</text>
     <flavorText>
     </flavorText>
@@ -2532,8 +2535,8 @@ La creatura incantata ha protezione dal colore scelto. Questo effetto non rimuov
   <item>
     <id>MIR0336</id>
     <name>Wurm Temporale</name>
-    <text>Fase
-All'inizio del tuo di mantenimento, puoi pagare {2}{U}{G}. Se non lo fai, il Wurm Temporale scompare.
+    <text>Fase 
+All'inizio del tuo di mantenimento, puoi pagare {2}{U}{G}. Se non lo fai, il Wurm Temporale scompare. 
 Quando il Wurm Temporale riappare, metti un segnalino +1/1 su di esso.</text>
     <flavorText>
     </flavorText>
@@ -2548,8 +2551,8 @@ Quando il Wurm Temporale riappare, metti un segnalino +1/1 su di esso.</text>
   <item>
     <id>MIR0338</id>
     <name>Pozzo Artesiano</name>
-    <text>Incanta terra
-Quando il Pozzo Artesiano entra nel campo di battaglia, guadagni il controllo della terra incantata fino alla fine del turno.
+    <text>Incanta terra 
+Quando il Pozzo Artesiano entra nel campo di battaglia, guadagni il controllo della terra incantata fino alla fine del turno. 
 All'inizio del tuo mantenimento, STAPpa la terra incantata. Guadagni il controllo della terra incantata fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2564,8 +2567,8 @@ All'inizio del tuo mantenimento, STAPpa la terra incantata. Guadagni il controll
   <item>
     <id>MIR0340</id>
     <name>Emissario della Fiamma</name>
-    <text>Protezione dal bianco
-{1}{R}: L'Emissario della Fiamma prende +1/+0 fino alla fine del turno.</text>
+    <text>Protezione dal bianco 
+{1}{R}: L'Emissario della Fiamma prende +1/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2579,7 +2582,7 @@ All'inizio del tuo mantenimento, STAPpa la terra incantata. Guadagni il controll
   <item>
     <id>MIR0342</id>
     <name>Dono Avvizzente</name>
-    <text>Come costo addizionale per lanciare il Dono Avvizzente, paga 3 punti vita.
+    <text>Come costo addizionale per lanciare il Dono Avvizzente, paga 3 punti vita. 
 Neutralizza una magia creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2608,15 +2611,15 @@ Neutralizza una magia creatura bersaglio.</text>
   <item>
     <id>MIR0346</id>
     <name>Comandante di Zhalfir</name>
-    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.)
-{1}{W}{W}: Una creatura Cavaliere bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <text>Aggirare (Ogniqualvolta una creatura senza aggirare blocca questa creatura, la creatura bloccante prende -1/-1 fino alla fine del turno.) 
+{1}{W}{W}: Una creatura Cavaliere bersaglio prende +1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0347</id>
     <name>Cavaliere di Zhalfir</name>
-    <text>Aggirare
+    <text>Aggirare 
 {W}{W}: Il Cavaliere di Zhalfir guadagna attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2624,14 +2627,14 @@ Neutralizza una magia creatura bersaglio.</text>
   <item>
     <id>MIR0348</id>
     <name>Zirilan dell'Artiglio</name>
-    <text>{1}{R}{R},{T}: Passa in rassegna il tuo grimorio per una carta permanente Drago e mettila sul campo di battaglia. Poi rimescola il tuo grimorio. Quel Drago guadagna rapidità fino alla fine del turno. All'inizio della sottofase finale, esilialo.</text>
+    <text>{1}{R}{R},{T}: Passa in rassegna il tuo grimorio per una carta permanente Drago e mettila sul campo di battaglia. Poi rimescola il tuo grimorio. Quel Drago guadagna rapidità fino alla fine del turno. All'inizio della sottofase finale, esilialo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>MIR0349</id>
     <name>Orda di Zombi</name>
-    <text>L'Orda di Zombi entra nel campo di battaglia con un segnalino +1/+1 su di essa per ogni carta creatura presente nel tuo cimitero.
+    <text>L'Orda di Zombi entra nel campo di battaglia con un segnalino +1/+1 su di essa per ogni carta creatura presente nel tuo cimitero. 
 Quando l'Orda di Zombi entra nel campo di battaglia, esilia tutte le carte creatura dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -2639,7 +2642,7 @@ Quando l'Orda di Zombi entra nel campo di battaglia, esilia tutte le carte creat
   <item>
     <id>MIR0350</id>
     <name>Zuberi, Piuma Dorata</name>
-    <text>Volare
+    <text>Volare 
 Le altre creature Grifone prendono +1/+1.</text>
     <flavorText>
     </flavorText>

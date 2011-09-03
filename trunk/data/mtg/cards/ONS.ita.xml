@@ -2,15 +2,15 @@
   <item>
     <id>ONS0001</id>
     <name>Benedizione di Akroma</name>
-    <text>Le creature che controlli guadagnano protezione da un colore a tua scelta fino alla fine del turno.
-Ciclo {W}</text>
+    <text>Le creature che controlli guadagnano protezione da un colore a tua scelta fino alla fine del turno. 
+Ciclo {W} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0002</id>
     <name>Vendetta di Akroma</name>
-    <text>Distruggi tutti gli artefatti, le creature e gli incantesimi.
+    <text>Distruggi tutti gli artefatti, le creature e gli incantesimi. 
 Ciclo {3}</text>
     <flavorText>
     </flavorText>
@@ -18,7 +18,7 @@ Ciclo {3}</text>
   <item>
     <id>ONS0003</id>
     <name>Profeta dell'Antenata</name>
-    <text>TAPpa cinque Chierici STAPpati che controlli: Guadagni 10 punti vita.</text>
+    <text>TAPpa cinque Chierici STAPpati che controlli: Guadagni 10 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -32,16 +32,16 @@ Ciclo {3}</text>
   <item>
     <id>ONS0005</id>
     <name>Estrazione dell'Aura</name>
-    <text>Metti un incantesimo bersaglio in cima al grimorio del suo proprietario.
-Ciclo {2}</text>
+    <text>Metti un incantesimo bersaglio in cima al grimorio del suo proprietario. 
+Ciclo {2} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0006</id>
     <name>Aurificazione</name>
-    <text>Ogniqualvolta una creatura ti infligge danno, metti un segnalino oro su di essa.
-Ogni creatura con almeno un segnalino oro è un Muro in aggiunta ai suoi altri tipi di creatura ed ha difensore. (Quelle creature non possono attaccare.)
+    <text>Ogniqualvolta una creatura ti infligge danno, metti un segnalino oro su di essa. 
+Ogni creatura con almeno un segnalino oro è un Muro in aggiunta ai suoi altri tipi di creatura ed ha difensore. (Quelle creature non possono attaccare.) 
 Quando l'Aurificazione lascia il campo di battaglia, rimuovi tutti i segnalini oro da tutte le creature.</text>
     <flavorText>
     </flavorText>
@@ -49,16 +49,16 @@ Quando l'Aurificazione lascia il campo di battaglia, rimuovi tutti i segnalini o
   <item>
     <id>ONS0007</id>
     <name>Generale di Brigata Aviano</name>
-    <text>Volare
-Le altre creature Uccello prendono +1/+1.
-Le altre creature Soldato prendono +1/+1.</text>
+    <text>Volare 
+Le altre creature Uccello prendono +1/+1. 
+Le altre creature Soldato prendono +1/+1. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0008</id>
     <name>Scrutanima Aviano</name>
-    <text>Volare
+    <text>Volare 
 {2}{W}: Guarda una creatura bersaglio a faccia in giù.</text>
     <flavorText>
     </flavorText>
@@ -94,7 +94,7 @@ Le altre creature Soldato prendono +1/+1.</text>
   <item>
     <id>ONS0013</id>
     <name>Circolo di Conforto</name>
-    <text>Mentre il Circolo di Conforto entra nel campo di battaglia, scegli un tipo di creatura.
+    <text>Mentre il Circolo di Conforto entra nel campo di battaglia, scegli un tipo di creatura. 
 {1}{W} : La prossima volta che una creatura del tipo scelto ti infliggerebbe danno in questo turno, previeni quel danno.</text>
     <flavorText>
     </flavorText>
@@ -109,7 +109,7 @@ Le altre creature Soldato prendono +1/+1.</text>
   <item>
     <id>ONS0015</id>
     <name>Beniamini della Folla</name>
-    <text>{3}{W}: TAPpa una creatura bersaglio.
+    <text>{3}{W}: TAPpa una creatura bersaglio. 
 {3}{W}: I Beniamini della Folla prendono +0/+5 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -117,8 +117,8 @@ Le altre creature Soldato prendono +1/+1.</text>
   <item>
     <id>ONS0016</id>
     <name>Corona della Soggezione</name>
-    <text>Incanta creatura
-La creatura incantata ha protezione dal nero e dal rosso.
+    <text>Incanta creatura 
+La creatura incantata ha protezione dal nero e dal rosso. 
 Sacrifica la Corona della Soggezione: La creatura incantata e le altre creature che condividono un tipo di creatura con essa guadagnano protezione dal nero e dal rosso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -126,15 +126,15 @@ Sacrifica la Corona della Soggezione: La creatura incantata e le altre creature 
   <item>
     <id>ONS0017</id>
     <name>Rozzo Riparo</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Metamorfosi {4}{W} [Oracle 2004/10/06]</text>
+    <text>Difensore (Questa creatura non può attaccare.) 
+Metamorfosi {4}{W} Oracle 2004/10/06 </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0018</id>
     <name>Cavaliere Daru</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Quando il Cavaliere Daru entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio, scegliere una carta di nome Cavaliere Daru, rivelarla e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -142,16 +142,16 @@ Quando il Cavaliere Daru entra nel campo di battaglia, puoi passare in rassegna 
   <item>
     <id>ONS0019</id>
     <name>Guaritore Daru</name>
-    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.
-Metamorfosi {W}</text>
+    <text>{T}: Previeni il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno. 
+Metamorfosi {W} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0020</id>
     <name>Lanciere Daru</name>
-    <text>Attacco improvviso
-Metamorfosi {2}{W}{W}</text>
+    <text>Attacco improvviso 
+Metamorfosi {2}{W}{W} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -165,8 +165,8 @@ Metamorfosi {2}{W}{W}</text>
   <item>
     <id>ONS0022</id>
     <name>Purista Emergente</name>
-    <text>Ogniqualvolta il Purista Emergente infligge danno da combattimento a un giocatore, puoi distruggere un incantesimo bersaglio che quel giocatore controlla.
-Metamorfosi {1}{W}</text>
+    <text>Ogniqualvolta il Purista Emergente infligge danno da combattimento a un giocatore, puoi distruggere un incantesimo bersaglio che quel giocatore controlla. 
+Metamorfosi {1}{W} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -180,22 +180,22 @@ Metamorfosi {1}{W}</text>
   <item>
     <id>ONS0024</id>
     <name>Demistificare</name>
-    <text>Distruggi un incantesimo bersaglio.</text>
+    <text>Distruggi un incantesimo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0025</id>
     <name>Discepolo della Grazia</name>
-    <text>Protezione dal nero
-Ciclo {2}</text>
+    <text>Protezione dal nero 
+Ciclo {2} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0026</id>
     <name>Bombardiere in Picchiata</name>
-    <text>Volare
+    <text>Volare 
 {T}, Sacrifica il Bombardiere in Picchiata: Il Bombardiere in Picchiata infligge 2 danni a una creatura attaccante o bloccante.</text>
     <flavorText>
     </flavorText>
@@ -203,7 +203,7 @@ Ciclo {2}</text>
   <item>
     <id>ONS0027</id>
     <name>Il Risoluto</name>
-    <text>La forza e la costituzione del Risoluto sono pari ciascuna al numero di Chierici sul campo di battaglia.
+    <text>La forza e la costituzione del Risoluto sono pari ciascuna al numero di Chierici sul campo di battaglia. 
 Ogniqualvolta Il Risoluto infligge danno, tu guadagni altrettanti punti vita.</text>
     <flavorText>
     </flavorText>
@@ -211,8 +211,8 @@ Ogniqualvolta Il Risoluto infligge danno, tu guadagni altrettanti punti vita.</t
   <item>
     <id>ONS0028</id>
     <name>Angelo Eminente</name>
-    <text>Volare
-Ogniqualvolta l'Angelo Eminente infligge danno, guadagni altrettanti punti vita.
+    <text>Volare 
+Ogniqualvolta l'Angelo Eminente infligge danno, guadagni altrettanti punti vita. 
 Metamorfosi {2}{W}{W}</text>
     <flavorText>
     </flavorText>
@@ -220,15 +220,15 @@ Metamorfosi {2}{W}{W}</text>
   <item>
     <id>ONS0029</id>
     <name>Guida della Collina</name>
-    <text>Protezione dai Goblin
-Metamorfosi {W}</text>
+    <text>Protezione dai Goblin 
+Metamorfosi {W} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0030</id>
     <name>Scrutatore</name>
-    <text>Volare
+    <text>Volare 
 {5}{W}: La prossima volta che verrebbe inflitto danno allo Scrutatore e/o a te in questo turno, invece quel danno viene inflitto a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -236,8 +236,7 @@ Metamorfosi {W}</text>
   <item>
     <id>ONS0031</id>
     <name>Cacciatore di Gloria</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -251,15 +250,15 @@ Metamorfosi {W}</text>
   <item>
     <id>ONS0033</id>
     <name>Fromboliere di Ghiaia</name>
-    <text>{T}: Il Fromboliere di Ghiaia infligge 1 danno a una creatura attaccante o bloccante bersaglio.
-Metamorfosi {1}{W}</text>
+    <text>{T}: Il Fromboliere di Ghiaia infligge 1 danno a una creatura attaccante o bloccante bersaglio. 
+Metamorfosi {1}{W} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0034</id>
     <name>Predatore Mantovento</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta il Predatore Mantovento viene bloccato, puoi STAPparlo e rimuoverlo dal combattimento.</text>
     <flavorText>
     </flavorText>
@@ -274,7 +273,7 @@ Ogniqualvolta il Predatore Mantovento viene bloccato, puoi STAPparlo e rimuoverl
   <item>
     <id>ONS0036</id>
     <name>Liberatore di Mantovento</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta una creatura che controlli viene bloccata, puoi STAPpare quella creatura e rimuoverla dal combattimento.</text>
     <flavorText>
     </flavorText>
@@ -289,7 +288,7 @@ Ogniqualvolta una creatura che controlli viene bloccata, puoi STAPpare quella cr
   <item>
     <id>ONS0038</id>
     <name>Schermidore di Mantovento</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta lo Schermidore di Mantovento viene bloccato, puoi STAPparlo e rimuoverlo dal combattimento.</text>
     <flavorText>
     </flavorText>
@@ -304,8 +303,8 @@ Ogniqualvolta lo Schermidore di Mantovento viene bloccato, puoi STAPparlo e rimu
   <item>
     <id>ONS0040</id>
     <name>Armatura Improvvisata</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/+5.
+    <text>Incanta creatura 
+La creatura incantata prende +2/+5. 
 Ciclo {3}</text>
     <flavorText>
     </flavorText>
@@ -313,22 +312,22 @@ Ciclo {3}</text>
   <item>
     <id>ONS0041</id>
     <name>Infondere Coraggio</name>
-    <text>STAPpa una creatura bersaglio. Quella creatura prende +2/+4 fino alla fine del turno.</text>
+    <text>STAPpa una creatura bersaglio. Quella creatura prende +2/+4 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0042</id>
     <name>Frantumatore Pugno di Ferro</name>
-    <text>Il Frantumatore Pugno di Ferro può bloccare un qualsiasi numero di creature.
-Metamorfosi {3}{W}</text>
+    <text>Il Frantumatore Pugno di Ferro può bloccare un qualsiasi numero di creature. 
+Metamorfosi {3}{W} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0043</id>
     <name>Jareth, Titano Leonino</name>
-    <text>Ogniqualvolta Jareth, Titano Leonino blocca, prende +7/+7 fino alla fine del turno.
+    <text>Ogniqualvolta Jareth, Titano Leonino blocca, prende +7/+7 fino alla fine del turno. 
 {W}: Jareth, Titano Leonino guadagna protezione da un colore a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -336,7 +335,7 @@ Metamorfosi {3}{W}</text>
   <item>
     <id>ONS0044</id>
     <name>Mobilitazione</name>
-    <text>Le creature Soldato hanno cautela. (Attaccano senza TAPpare.)
+    <text>Le creature Soldato hanno cautela. (Attaccano senza TAPpare.) 
 {2}{W}: Metti sul campo di battaglia una pedina creatura Soldato 1/1 bianca.</text>
     <flavorText>
     </flavorText>
@@ -358,15 +357,15 @@ Metamorfosi {3}{W}</text>
   <item>
     <id>ONS0047</id>
     <name>Pacifismo</name>
-    <text>Incanta creatura
-La creatura incantata non può attaccare o bloccare.</text>
+    <text>Incanta creatura 
+La creatura incantata non può attaccare o bloccare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0048</id>
     <name>Messaggero Dardoperla</name>
-    <text>Puoi scegliere di non STAPpare il Messaggero Dardoperla durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare il Messaggero Dardoperla durante il tuo STAP. 
 {2}{W}, {T}: La creatura Soldato bersaglio prende +2/+2 e ha cautela fintanto che il Messaggero Dardoperla rimane TAPpato.</text>
     <flavorText>
     </flavorText>
@@ -381,8 +380,8 @@ La creatura incantata non può attaccare o bloccare.</text>
   <item>
     <id>ONS0050</id>
     <name>Fede Rinnovata</name>
-    <text>Guadagni 6 punti vita.
-Ciclo {1}{W}
+    <text>Guadagni 6 punti vita. 
+Ciclo {1}{W} 
 Quando cicli la Fede Rinnovata, puoi guadagnare 2 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -397,7 +396,7 @@ Quando cicli la Fede Rinnovata, puoi guadagnare 2 punti vita.</text>
   <item>
     <id>ONS0052</id>
     <name>Pellesabbia</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Previeni tutto il danno da combattimento che verrebbe inflitto e subìto dalla creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -405,7 +404,7 @@ Previeni tutto il danno da combattimento che verrebbe inflitto e subìto dalla c
   <item>
     <id>ONS0053</id>
     <name>Trionfo Condiviso</name>
-    <text>Mentre il Trionfo Condiviso entra nel campo di battaglia, scegli un tipo di creatura.
+    <text>Mentre il Trionfo Condiviso entra nel campo di battaglia, scegli un tipo di creatura. 
 Le creature del tipo scelto prendono +1/+1.</text>
     <flavorText>
     </flavorText>
@@ -413,7 +412,7 @@ Le creature del tipo scelto prendono +1/+1.</text>
   <item>
     <id>ONS0054</id>
     <name>Anziano di Magiscudo</name>
-    <text>TAPpa due Chierici STAPpati che controlli: Previeni tutto il danno che una creatura bersaglio infliggerebbe in questo turno.
+    <text>TAPpa due Chierici STAPpati che controlli: Previeni tutto il danno che una creatura bersaglio infliggerebbe in questo turno. 
 TAPpa due Maghi STAPpati che controlli: Previeni tutto il danno che una magia bersaglio infliggerebbe in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -428,8 +427,8 @@ TAPpa due Maghi STAPpati che controlli: Previeni tutto il danno che una magia be
   <item>
     <id>ONS0056</id>
     <name>Balsamo di Fuocosole</name>
-    <text>Previeni i prossimi 4 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno.
-Ciclo {1}{W}
+    <text>Previeni i prossimi 4 danni che verrebbero inflitti a una creatura o a un giocatore bersaglio in questo turno. 
+Ciclo {1}{W} 
 Quando cicli il Balsamo di Fuocosole, puoi prevenire il prossimo punto danno che verrebbe inflitto a una creatura o a un giocatore bersaglio in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -458,7 +457,7 @@ Quando cicli il Balsamo di Fuocosole, puoi prevenire il prossimo punto danno che
   <item>
     <id>ONS0060</id>
     <name>Frustacorda</name>
-    <text>{W}, {T}: TAPpa una creatura bersaglio.
+    <text>{W}, {T}: TAPpa una creatura bersaglio. 
 Metamorfosi {W}</text>
     <flavorText>
     </flavorText>
@@ -480,7 +479,7 @@ Metamorfosi {W}</text>
   <item>
     <id>ONS0063</id>
     <name>Annessione</name>
-    <text>Incanta terra (Mentre lanci questa carta, bersaglia una terra. Questa carta entra nel campo di battaglia assegnata a quella terra.)
+    <text>Incanta terra (Mentre lanci questa carta, bersaglia una terra. Questa carta entra nel campo di battaglia assegnata a quella terra.) 
 Tu controlli la terra incantata.</text>
     <flavorText>
     </flavorText>
@@ -488,23 +487,23 @@ Tu controlli la terra incantata.</text>
   <item>
     <id>ONS0064</id>
     <name>Alchimista di Aphetto</name>
-    <text>{T}: STAPpa un artefatto o una creatura bersaglio.
-Metamorfosi {U}</text>
+    <text>{T}: STAPpa un artefatto o una creatura bersaglio. 
+Metamorfosi {U} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0065</id>
     <name>Biscazziere di Aphetto</name>
-    <text>TAPpa due Maghi STAPpati che controlli: TAPpa un permanente bersaglio.</text>
+    <text>TAPpa due Maghi STAPpati che controlli: TAPpa un permanente bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0066</id>
     <name>Arcanis l'Onnipotente</name>
-    <text>{T}: Pesca tre carte.
-{2}{U}{U}: Il proprietario riprende in mano Arcanis l'Onnipotente.</text>
+    <text>{T}: Pesca tre carte. 
+{2}{U}{U}: Il proprietario riprende in mano Arcanis l'Onnipotente. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -518,17 +517,17 @@ Metamorfosi {U}</text>
   <item>
     <id>ONS0068</id>
     <name>Aviano Ascendente</name>
-    <text>Volare
-L'Aviano Ascendente può bloccare solo creature con volare.
-Metamorfosi {2}{U}</text>
+    <text>Volare 
+L'Aviano Ascendente può bloccare solo creature con volare. 
+Metamorfosi {2}{U} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0069</id>
     <name>Plasmafato Aviano</name>
-    <text>Volare
-Quando il Plasmafato Aviano entra sul campo di battaglia, guarda le prime quattro carte del tuo grimorio, poi rimettile a posto in un qualsiasi ordine.
+    <text>Volare 
+Quando il Plasmafato Aviano entra sul campo di battaglia, guarda le prime quattro carte del tuo grimorio, poi rimettile a posto in un qualsiasi ordine. 
 {4}{U}: Guarda le prime quattro carte del tuo grimorio, poi rimettile a posto in un qualsiasi ordine.</text>
     <flavorText>
     </flavorText>
@@ -536,8 +535,8 @@ Quando il Plasmafato Aviano entra sul campo di battaglia, guarda le prime quattr
   <item>
     <id>ONS0070</id>
     <name>Ricaduta</name>
-    <text>Gira a faccia in giù una creatura bersaglio con Metamorfosi.
-Ciclo {U}</text>
+    <text>Gira a faccia in giù una creatura bersaglio con Metamorfosi. 
+Ciclo {U} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -551,8 +550,8 @@ Ciclo {U}</text>
   <item>
     <id>ONS0072</id>
     <name>Oppressore Spietato</name>
-    <text>Puoi scegliere di non STAPpare l'Oppressore Spietato durante il tuo STAP.
-Mentre l'Oppressore Spietato entra nel campo di battaglia, un avversario sceglie un tipo di creatura.
+    <text>Puoi scegliere di non STAPpare l'Oppressore Spietato durante il tuo STAP. 
+Mentre l'Oppressore Spietato entra nel campo di battaglia, un avversario sceglie un tipo di creatura. 
 {T} : Prendi il controllo di una creatura bersaglio che non sia del tipo scelto fintanto che l'Oppressore Spietato rimane TAPpato.</text>
     <flavorText>
     </flavorText>
@@ -567,8 +566,8 @@ Mentre l'Oppressore Spietato entra nel campo di battaglia, un avversario sceglie
   <item>
     <id>ONS0074</id>
     <name>Pastoie Soffocanti</name>
-    <text>TAPpa fino a quattro creature bersaglio.
-Ciclo {1}{U}
+    <text>TAPpa fino a quattro creature bersaglio. 
+Ciclo {1}{U} 
 Quando cicli le Pastoie Soffocanti, puoi TAPpare una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -583,8 +582,8 @@ Quando cicli le Pastoie Soffocanti, puoi TAPpare una creatura bersaglio.</text>
   <item>
     <id>ONS0076</id>
     <name>Complicare</name>
-    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {3}.
-Ciclo {2}{U}
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {3}. 
+Ciclo {2}{U} 
 Quando usi l'abilità ciclo del Complicare, puoi neutralizzare una magia bersaglio a meno che il suo controllore paghi {1}.</text>
     <flavorText>
     </flavorText>
@@ -592,15 +591,15 @@ Quando usi l'abilità ciclo del Complicare, puoi neutralizzare una magia bersagl
   <item>
     <id>ONS0077</id>
     <name>Mago dei Sentieri Astuto</name>
-    <text>{T}: Una creatura bersaglio con forza pari o inferiore a 2 non può essere bloccata in questo turno.</text>
+    <text>{T}: Una creatura bersaglio con forza pari o inferiore a 2 non può essere bloccata in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0078</id>
     <name>Corona dell'Ascensione</name>
-    <text>Incanta creatura
-La creatura incantata ha volare.
+    <text>Incanta creatura 
+La creatura incantata ha volare. 
 Sacrifica la Corona dell'Ascensione: La creatura incantata e le altre creature che condividono un tipo di creatura con essa guadagnano volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -608,7 +607,7 @@ Sacrifica la Corona dell'Ascensione: La creatura incantata e le altre creature c
   <item>
     <id>ONS0079</id>
     <name>Scombussolare</name>
-    <text>Neutralizza una magia bersaglio. Guarda le prime quattro carte del tuo grimorio, poi rimettile a posto in un qualsiasi ordine.</text>
+    <text>Neutralizza una magia bersaglio. Guarda le prime quattro carte del tuo grimorio, poi rimettile a posto in un qualsiasi ordine. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -622,15 +621,15 @@ Sacrifica la Corona dell'Ascensione: La creatura incantata e le altre creature c
   <item>
     <id>ONS0081</id>
     <name>Mago dell'Arena Disgregatore</name>
-    <text>{T}: Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}.
-Metamorfosi {U}</text>
+    <text>{T}: Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}. 
+Metamorfosi {U} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0082</id>
     <name>Frattura dell'Essenza</name>
-    <text>I rispettivi proprietari riprendono in mano due creature bersaglio.
+    <text>I rispettivi proprietari riprendono in mano due creature bersaglio. 
 Ciclo {2}{U}</text>
     <flavorText>
     </flavorText>
@@ -638,7 +637,7 @@ Ciclo {2}{U}</text>
   <item>
     <id>ONS0083</id>
     <name>Aviano Sfuggente</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta un giocatore cicla una carta, il proprietario riprende in mano l'Aviano Sfuggente.</text>
     <flavorText>
     </flavorText>
@@ -646,7 +645,7 @@ Ogniqualvolta un giocatore cicla una carta, il proprietario riprende in mano l'A
   <item>
     <id>ONS0084</id>
     <name>Visione Futura</name>
-    <text>Gioca con la prima carta del tuo grimorio scoperta.
+    <text>Gioca con la prima carta del tuo grimorio scoperta. 
 Puoi giocare la prima carta del tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -654,7 +653,7 @@ Puoi giocare la prima carta del tuo grimorio.</text>
   <item>
     <id>ONS0085</id>
     <name>Messaggero Fantelmo</name>
-    <text>Puoi scegliere di non STAPpare il Messaggero Fantelmo durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare il Messaggero Fantelmo durante il tuo STAP. 
 {2}{U}, {T}: La creatura Mago bersaglio prende +2/+2 e ha velo fintanto che il Messaggero Fantelmo rimane TAPpato. (Non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -683,7 +682,7 @@ Puoi giocare la prima carta del tuo grimorio.</text>
   <item>
     <id>ONS0089</id>
     <name>Ixidor, Manipolatore della Realtà</name>
-    <text>Le creature a faccia in giù prendono +1/+1.
+    <text>Le creature a faccia in giù prendono +1/+1. 
 {2}{U}: Gira a faccia in su una creatura a faccia in giù bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -698,7 +697,7 @@ Puoi giocare la prima carta del tuo grimorio.</text>
   <item>
     <id>ONS0091</id>
     <name>Astuzia del Mago</name>
-    <text>Una creatura bersaglio guadagna velo fino alla fine del turno. (Non può essere bersaglio di magie o abilità.)
+    <text>Una creatura bersaglio guadagna velo fino alla fine del turno. (Non può essere bersaglio di magie o abilità.) 
 Ciclo {U}</text>
     <flavorText>
     </flavorText>
@@ -713,7 +712,7 @@ Ciclo {U}</text>
   <item>
     <id>ONS0093</id>
     <name>Sognatore Nebbiforme</name>
-    <text>Volare
+    <text>Volare 
 {1}: Il Sognatore Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -721,7 +720,7 @@ Ciclo {U}</text>
   <item>
     <id>ONS0094</id>
     <name>Maschera Nebbiforme</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {1}: La creatura incantata diventa di un tipo di creatura a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -736,16 +735,16 @@ Ciclo {U}</text>
   <item>
     <id>ONS0096</id>
     <name>Urlatore Nebbiforme</name>
-    <text>Volare
-{1}: L'Urlatore Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno.
-Metamorfosi {3}{U}{U}</text>
+    <text>Volare 
+{1}: L'Urlatore Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno. 
+Metamorfosi {3}{U}{U} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0097</id>
     <name>Squartacielo Nebbiforme</name>
-    <text>Volare
+    <text>Volare 
 {1}: Lo Squartacielo Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -753,7 +752,7 @@ Metamorfosi {3}{U}{U}</text>
   <item>
     <id>ONS0098</id>
     <name>Cacciatore Nebbiforme</name>
-    <text>{1}: Il Cacciatore Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno.
+    <text>{1}: Il Cacciatore Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno. 
 {2}{U}{U}: Il Cacciatore Nebbiforme prende +2/+2 e guadagna volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -761,7 +760,7 @@ Metamorfosi {3}{U}{U}</text>
   <item>
     <id>ONS0099</id>
     <name>Muro Nebbiforme</name>
-    <text>Il Muro Nebbiforme ha difensore fintanto che è un Muro
+    <text>Il Muro Nebbiforme ha difensore fintanto che è un Muro 
 {1}: Il Muro Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -769,7 +768,7 @@ Metamorfosi {3}{U}{U}</text>
   <item>
     <id>ONS0100</id>
     <name>L'Innominato</name>
-    <text>La forza e la costituzione dell'Innominato sono pari ciascuna al numero di Maghi nel campo di battaglia.
+    <text>La forza e la costituzione dell'Innominato sono pari ciascuna al numero di Maghi nel campo di battaglia. 
 Metamorfosi {2}{U}</text>
     <flavorText>
     </flavorText>
@@ -791,8 +790,8 @@ Metamorfosi {2}{U}</text>
   <item>
     <id>ONS0103</id>
     <name>Drago di Mercurio</name>
-    <text>Volare
-{U}: Se la magia bersaglio ha un solo bersaglio e quel bersaglio è il Drago di Mercurio, cambia il bersaglio di quella magia con un'altra creatura.
+    <text>Volare 
+{U}: Se la magia bersaglio ha un solo bersaglio e quel bersaglio è il Drago di Mercurio, cambia il bersaglio di quella magia con un'altra creatura. 
 Metamorfosi {4}{U}</text>
     <flavorText>
     </flavorText>
@@ -807,14 +806,14 @@ Metamorfosi {4}{U}</text>
   <item>
     <id>ONS0105</id>
     <name>Reminiscenza</name>
-    <text>Il giocatore bersaglio rimescola il proprio cimitero nel proprio grimorio.</text>
+    <text>Il giocatore bersaglio rimescola il proprio cimitero nel proprio grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0106</id>
     <name>Biologo della Marea</name>
-    <text>Protezione dalle Bestie
+    <text>Protezione dalle Bestie 
 Metamorfosi {2}{U}</text>
     <flavorText>
     </flavorText>
@@ -829,7 +828,7 @@ Metamorfosi {2}{U}</text>
   <item>
     <id>ONS0108</id>
     <name>Ipnotizzatore della Marea</name>
-    <text>Ogniqualvolta l'Ipnotizzatore della Marea infligge danno da combattimento a un giocatore, puoi sacrificarlo. Se lo fai, guadagni il controllo di una creatura bersaglio controllata da quel giocatore. (Questo effetto non ha termine.)
+    <text>Ogniqualvolta l'Ipnotizzatore della Marea infligge danno da combattimento a un giocatore, puoi sacrificarlo. Se lo fai, guadagni il controllo di una creatura bersaglio controllata da quel giocatore. (Questo effetto non ha termine.) 
 Metamorfosi {U}{U}</text>
     <flavorText>
     </flavorText>
@@ -851,7 +850,7 @@ Metamorfosi {U}{U}</text>
   <item>
     <id>ONS0111</id>
     <name>Aviano Saggio</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che dalle creature con volare o con raggiungere.)
+    <text>Volare (Questa creatura non può essere bloccata tranne che dalle creature con volare o con raggiungere.) 
 Quando l'Aviano Saggio entra nel campo di battaglia, guarda le prime quattro carte del tuo grimorio, poi rimettile a posto in qualsiasi ordine.</text>
     <flavorText>
     </flavorText>
@@ -859,7 +858,7 @@ Quando l'Aviano Saggio entra nel campo di battaglia, guarda le prime quattro car
   <item>
     <id>ONS0112</id>
     <name>Falco di Mare Stridente</name>
-    <text>Volare
+    <text>Volare 
 Quando il Falco di Mare Stridente entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta di nome Falco di Mare Stridente, rivelarla, e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -867,7 +866,7 @@ Quando il Falco di Mare Stridente entra nel campo di battaglia, puoi passare in 
   <item>
     <id>ONS0113</id>
     <name>Reclamato dal Mare</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata è un'Isola.</text>
     <flavorText>
     </flavorText>
@@ -875,7 +874,7 @@ La terra incantata è un'Isola.</text>
   <item>
     <id>ONS0114</id>
     <name>Anguilla della Scia</name>
-    <text>L'Anguilla della Scia non può attaccare a meno che il giocatore in difesa controlli un'Isola.
+    <text>L'Anguilla della Scia non può attaccare a meno che il giocatore in difesa controlli un'Isola. 
 Ciclo {1}{U}</text>
     <flavorText>
     </flavorText>
@@ -918,7 +917,7 @@ Ciclo {1}{U}</text>
   <item>
     <id>ONS0120</id>
     <name>Prodigio di Svuotamagie</name>
-    <text>{U}{U}, Sacrifica un Mago: Neutralizza una magia bersaglio.
+    <text>{U}{U}, Sacrifica un Mago: Neutralizza una magia bersaglio. 
 Metamorfosi {U} (Puoi lanciare questa magia a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)</text>
     <flavorText>
     </flavorText>
@@ -926,7 +925,7 @@ Metamorfosi {U} (Puoi lanciare questa magia a faccia in giù come una creatura 2
   <item>
     <id>ONS0121</id>
     <name>Svuota e Ruota</name>
-    <text>Un qualsiasi numero di avversari bersaglio scartano tutte le carte e pescano ciascuno sette.
+    <text>Un qualsiasi numero di avversari bersaglio scartano tutte le carte e pescano ciascuno sette carte. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -948,21 +947,21 @@ Pesca una carta.</text>
   <item>
     <id>ONS0124</id>
     <name>Sguazzabuio Anuro</name>
-    <text>Passa-paludi</text>
+    <text>Passa-paludi </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0125</id>
     <name>Dragaggio di Aphetto</name>
-    <text>Riprendi in mano fino a tre carte creatura bersaglio di un tipo di creatura a tua scelta dal tuo cimitero.</text>
+    <text>Riprendi in mano fino a tre carte creatura bersaglio di un tipo di creatura a tua scelta dal tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0126</id>
     <name>Avvoltoio di Aphetto</name>
-    <text>Volare
+    <text>Volare 
 Quando l'Avvoltoio di Aphetto viene messo in un cimitero dal  campo di battaglia, puoi mettere una carta Zombie bersaglio dal tuo cimitero in cima del tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -970,14 +969,14 @@ Quando l'Avvoltoio di Aphetto viene messo in un cimitero dal  campo di battaglia
   <item>
     <id>ONS0127</id>
     <name>Ricatto</name>
-    <text>Il giocatore bersaglio rivela tre carte dalla propria mano e tu scegli una di esse. Quel giocatore scarta quella carta.</text>
+    <text>Il giocatore bersaglio rivela tre carte dalla propria mano e tu scegli una di esse. Quel giocatore scarta quella carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0128</id>
     <name>Saldaossa</name>
-    <text>{1}{B}: Rigenera uno Zombie bersaglio.
+    <text>{1}{B}: Rigenera uno Zombie bersaglio. 
 Metamorfosi {2}{B}</text>
     <flavorText>
     </flavorText>
@@ -992,8 +991,8 @@ Metamorfosi {2}{B}</text>
   <item>
     <id>ONS0130</id>
     <name>Carnefice della Cabala</name>
-    <text>Ogniqualvolta il Carnefice della Cabala infligge danno da combattimento a un giocatore, quel giocatore sacrifica una creatura.
-Metamorfosi {3}{B}{B}</text>
+    <text>Ogniqualvolta il Carnefice della Cabala infligge danno da combattimento a un giocatore, quel giocatore sacrifica una creatura. 
+Metamorfosi {3}{B}{B} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1014,7 +1013,7 @@ Metamorfosi {3}{B}{B}</text>
   <item>
     <id>ONS0133</id>
     <name>Favore delle Tenebre</name>
-    <text>Mentre il Favore delle Tenebre entra nel campo di battaglia, scegli un tipo di creatura.
+    <text>Mentre il Favore delle Tenebre entra nel campo di battaglia, scegli un tipo di creatura. 
 Le creature del tipo scelto hanno paura.</text>
     <flavorText>
     </flavorText>
@@ -1022,8 +1021,8 @@ Le creature del tipo scelto hanno paura.</text>
   <item>
     <id>ONS0134</id>
     <name>Corona del Sospetto</name>
-    <text>Incanta creatura
-La creatura incantata prende +2/-1.
+    <text>Incanta creatura 
+La creatura incantata prende +2/-1. 
 Sacrifica la Corona del Sospetto: La creatura incantata e le altre creature che condividono un tipo di creatura con essa prendono +2/-1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1045,8 +1044,8 @@ Sacrifica la Corona del Sospetto: La creatura incantata e le altre creature che 
   <item>
     <id>ONS0137</id>
     <name>Impulso Mortale</name>
-    <text>La creatura bersaglio prende -4/-4 fino alla fine del turno.
-Ciclo {1}{B}{B}
+    <text>La creatura bersaglio prende -4/-4 fino alla fine del turno. 
+Ciclo {1}{B}{B} 
 Quando cicli l'Impulso Mortale, puoi far prendere -1/-1 a una creatura bersaglio fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1054,8 +1053,8 @@ Quando cicli l'Impulso Mortale, puoi far prendere -1/-1 a una creatura bersaglio
   <item>
     <id>ONS0138</id>
     <name>Lamento di Terrore</name>
-    <text>Tutte le creature guadagnano paura fino alla fine del turno.
-Ciclo {1}{B}
+    <text>Tutte le creature guadagnano paura fino alla fine del turno. 
+Ciclo {1}{B} 
 Quando cicli il Lamento di Terrore, puoi far guadagnare paura a una creatura bersaglio fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1063,7 +1062,7 @@ Quando cicli il Lamento di Terrore, puoi far guadagnare paura a una creatura ber
   <item>
     <id>ONS0139</id>
     <name>Discepolo della Malizia</name>
-    <text>Protezione dal bianco
+    <text>Protezione dal bianco 
 Ciclo {2}</text>
     <flavorText>
     </flavorText>
@@ -1071,23 +1070,23 @@ Ciclo {2}</text>
   <item>
     <id>ONS0140</id>
     <name>Negromante Condannato</name>
-    <text>{B}, {T}, Sacrifica il Negromante Condannato: Rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero.</text>
+    <text>{B}, {T}, Sacrifica il Negromante Condannato: Rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0141</id>
     <name>Mietitore Lama d'Ebano</name>
-    <text>Ogniqualvolta il Mietitore Lama d'Ebano attacca, perdi metà dei tuoi punti vita, arrotondati per eccesso.
-Ogniqualvolta il Mietitore Lama d'Ebano infligge danno da combattimento a un giocatore, quel giocatore perde metà dei propri punti vita, arrotondati per eccesso.
-Metamorfosi {3}{B}{B}</text>
+    <text>Ogniqualvolta il Mietitore Lama d'Ebano attacca, perdi metà dei tuoi punti vita, arrotondati per eccesso. 
+Ogniqualvolta il Mietitore Lama d'Ebano infligge danno da combattimento a un giocatore, quel giocatore perde metà dei propri punti vita, arrotondati per eccesso. 
+Metamorfosi {3}{B}{B} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0142</id>
     <name>Peste Endemica</name>
-    <text>Come costo addizionale per lanciare la Peste Endemica, sacrifica una creatura.
+    <text>Come costo addizionale per lanciare la Peste Endemica, sacrifica una creatura. 
 Distruggi tutte le creature che hanno almeno un tipo di creatura in comune con la creatura sacrificata. Non possono essere rigenerate.</text>
     <flavorText>
     </flavorText>
@@ -1102,7 +1101,7 @@ Distruggi tutte le creature che hanno almeno un tipo di creatura in comune con l
   <item>
     <id>ONS0144</id>
     <name>Svanire dalla Memoria</name>
-    <text>Esilia una carta bersaglio da un cimitero.
+    <text>Esilia una carta bersaglio da un cimitero. 
 Ciclo {B}</text>
     <flavorText>
     </flavorText>
@@ -1110,8 +1109,8 @@ Ciclo {B}</text>
   <item>
     <id>ONS0145</id>
     <name>Chierico Caduto</name>
-    <text>Protezione dai Chierici
-Metamorfosi {4}{B}</text>
+    <text>Protezione dai Chierici 
+Metamorfosi {4}{B} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1139,7 +1138,7 @@ Metamorfosi {4}{B}</text>
   <item>
     <id>ONS0149</id>
     <name>Messaggero Mantorrore</name>
-    <text>Puoi scegliere di non STAPpare il Messaggero Mantorrore durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare il Messaggero Mantorrore durante il tuo STAP. 
 {2}{B}, {T}: Una creatura Zombie bersaglio prende +2/+2 e ha paura fintanto che il Messaggero Mantorrore rimane TAPpato.</text>
     <flavorText>
     </flavorText>
@@ -1154,7 +1153,7 @@ Metamorfosi {4}{B}</text>
   <item>
     <id>ONS0151</id>
     <name>Zombie Vorace</name>
-    <text>Paura (Questa creatura non può essere bloccata tranne che dalle creature nere e/o dalle creature artefatto.)</text>
+    <text>Paura (Questa creatura non può essere bloccata tranne che dalle creature nere e/o dalle creature artefatto.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1168,38 +1167,38 @@ Metamorfosi {4}{B}</text>
   <item>
     <id>ONS0153</id>
     <name>Demone Sghignazzante</name>
-    <text>All'inizio del tuo mantenimento, perdi 2 punti vita.
-Metamorfosi {2}{B}{B}</text>
+    <text>All'inizio del tuo mantenimento, perdi 2 punti vita. 
+Metamorfosi {2}{B}{B} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0154</id>
     <name>Cadavere Posseduto</name>
-    <text>Ogniqualvolta il Cadavere Posseduto infligge danno da combattimento a un giocatore, puoi sacrificarlo. Se lo fai, quel giocatore scarta tre carte.
-Metamorfosi {1}{B}</text>
+    <text>Ogniqualvolta il Cadavere Posseduto infligge danno da combattimento a un giocatore, puoi sacrificarlo. Se lo fai, quel giocatore scarta tre carte. 
+Metamorfosi {1}{B} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0155</id>
     <name>Giochi di Comando</name>
-    <text>L'avversario bersaglio mette le carte dalla propria mano in cima al proprio grimorio. Passa in rassegna il grimorio di quel giocatore per altrettante carte. Il giocatore prende in mano quelle carte, poi rimescola il proprio grimorio.</text>
+    <text>L'avversario bersaglio mette le carte dalla propria mano in cima al proprio grimorio. Passa in rassegna il grimorio di quel giocatore per altrettante carte. Il giocatore prende in mano quelle carte, poi rimescola il proprio grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0156</id>
     <name>Cacciatore di Teste</name>
-    <text>Ogniqualvolta il Cacciatore di Teste infligge danno da combattimento a un giocatore, quel giocatore scarta una carta.
-Metamorfosi {B}</text>
+    <text>Ogniqualvolta il Cacciatore di Teste infligge danno da combattimento a un giocatore, quel giocatore scarta una carta. 
+Metamorfosi {B} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0157</id>
     <name>Infestare</name>
-    <text>Tutte le creature prendono -2/-2 fino alla fine del turno.</text>
+    <text>Tutte le creature prendono -2/-2 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1227,7 +1226,7 @@ Metamorfosi {B}</text>
   <item>
     <id>ONS0161</id>
     <name>Comando del Patriarca</name>
-    <text>Ogni giocatore sceglie un tipo di creatura. Ogni giocatore rimette nel campo di battaglia tutte le carte creatura del tipo scelto in questo modo presenti nel proprio cimitero.</text>
+    <text>Ogni giocatore sceglie un tipo di creatura. Ogni giocatore rimette sul campo di battaglia tutte le carte creatura di un tipo scelto in questo modo dal proprio cimitero.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1255,7 +1254,7 @@ Metamorfosi {B}</text>
   <item>
     <id>ONS0165</id>
     <name>Poiana Stridente</name>
-    <text>Volare
+    <text>Volare 
 Quando la Poiana Stridente viene messa in un cimitero dal campo di battaglia, ogni avversario scarta una carta.</text>
     <flavorText>
     </flavorText>
@@ -1263,7 +1262,7 @@ Quando la Poiana Stridente viene messa in un cimitero dal campo di battaglia, og
   <item>
     <id>ONS0166</id>
     <name>Legione di Arti</name>
-    <text>Paura (Questa creatura non può essere bloccata tranne che da creature artefatto e/o creature nere.)</text>
+    <text>Paura (Questa creatura non può essere bloccata tranne che da creature artefatto e/o creature nere.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1284,8 +1283,8 @@ Quando la Poiana Stridente viene messa in un cimitero dal campo di battaglia, og
   <item>
     <id>ONS0169</id>
     <name>Spettro Silenzioso</name>
-    <text>Volare
-Ogniqualvolta lo Spettro Silenzioso infligge danno da combattimento a un giocatore, quel giocatore scarta due carte.
+    <text>Volare 
+Ogniqualvolta lo Spettro Silenzioso infligge danno da combattimento a un giocatore, quel giocatore scarta due carte. 
 Metamorfosi {3}{B}{B}</text>
     <flavorText>
     </flavorText>
@@ -1321,7 +1320,7 @@ Metamorfosi {3}{B}{B}</text>
   <item>
     <id>ONS0174</id>
     <name>Spiaccicare</name>
-    <text>Distruggi una creatura bersaglio con forza pari o inferiore a 2.
+    <text>Distruggi una creatura bersaglio con forza pari o inferiore a 2. 
 Ciclo {2}</text>
     <flavorText>
     </flavorText>
@@ -1343,7 +1342,7 @@ Ciclo {2}</text>
   <item>
     <id>ONS0177</id>
     <name>Fangogeno Devastatore</name>
-    <text>Ogniqualvolta viene inflitto danno al Fangogeno Devastatore, perdi altrettanti punti vita.
+    <text>Ogniqualvolta viene inflitto danno al Fangogeno Devastatore, perdi altrettanti punti vita. 
 Metamorfosi {1}{B}{B}</text>
     <flavorText>
     </flavorText>
@@ -1351,7 +1350,7 @@ Metamorfosi {1}{B}{B}</text>
   <item>
     <id>ONS0178</id>
     <name>Gladiatore Non Morto</name>
-    <text>{1}{B}, Scarta una carta: Riprendi in mano il Gladiatore Non Morto dal tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento.
+    <text>{1}{B}, Scarta una carta: Riprendi in mano il Gladiatore Non Morto dal tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento. 
 Ciclo {1}{B}</text>
     <flavorText>
     </flavorText>
@@ -1359,7 +1358,7 @@ Ciclo {1}{B}</text>
   <item>
     <id>ONS0179</id>
     <name>Visara la Temibile</name>
-    <text>Volare
+    <text>Volare 
 {T}: Distruggi una creatura bersaglio. Non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -1374,8 +1373,8 @@ Ciclo {1}{B}</text>
   <item>
     <id>ONS0181</id>
     <name>Maleficio Avvizzente</name>
-    <text>Incanta creatura
-Ogniqualvolta un giocatore cicla una carta, metti un segnalino peste sul Maleficio Avvizzente.
+    <text>Incanta creatura 
+Ogniqualvolta un giocatore cicla una carta, metti un segnalino peste sul Maleficio Avvizzente. 
 La creatura incantata prende -1/-1 per ogni segnalino peste sul Maleficio Avvizzente.</text>
     <flavorText>
     </flavorText>
@@ -1396,10 +1395,9 @@ La creatura incantata prende -1/-1 per ogni segnalino peste sul Maleficio Avvizz
   </item>
   <item>
     <id>ONS0184</id>
-    <name>Carica Eterea</name>
-    <text>Ogniqualvolta una Bestia entra nel campo di battaglia sotto il tuo controllo, puoi farle infliggere 4 danni a un avversario bersaglio.</text>
-    <flavorText>
-    </flavorText>
+    <name>Æther Charge</name>
+    <text>Whenever a Beast enters the battlefield under your control, you may have it deal 4 damage to target opponent.</text>
+    <flavorText>"Is it just me, or does that meteor have teeth?"</flavorText>
   </item>
   <item>
     <id>ONS0185</id>
@@ -1411,16 +1409,16 @@ La creatura incantata prende -1/-1 per ogni segnalino peste sul Maleficio Avvizz
   <item>
     <id>ONS0186</id>
     <name>Condor in Picchiata</name>
-    <text>Volare
-{1}{R}, Sacrifica una creatura Goblin: Il Condor in Picchiata infligge un danno pari alla forza della creatura sacrificata a una creatura o a un giocatore bersaglio.</text>
+    <text>Volare 
+{1}{R}, Sacrifica una creatura Goblin: Il Condor in Picchiata infligge un danno pari alla forza della creatura sacrificata a una creatura o a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0187</id>
     <name>Avarax</name>
-    <text>Rapidità
-Quando l'Avarax entra sul campo di battaglia, puoi passare in rassegna il tuo grimorio, scegliere una carta di nome Avarax, rivelarla e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.
+    <text>Rapidità 
+Quando l'Avarax entra sul campo di battaglia, puoi passare in rassegna il tuo grimorio, scegliere una carta di nome Avarax, rivelarla e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio. 
 {1}{R}: L'Avarax prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1428,16 +1426,16 @@ Quando l'Avarax entra sul campo di battaglia, puoi passare in rassegna il tuo gr
   <item>
     <id>ONS0188</id>
     <name>Rupecorno da Sfondamento</name>
-    <text>Attacco improvviso
-Metamorfosi {1}{R}{R}</text>
+    <text>Attacco improvviso 
+Metamorfosi {1}{R}{R} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0189</id>
     <name>Pirolince Ustionante</name>
-    <text>Travolgere, rapidità
-All'inizio della sottofase di fine turno, sacrifica la Pirolince Ustionante.
+    <text>Travolgere, rapidità 
+All'inizio della sottofase di fine turno, sacrifica la Pirolince Ustionante. 
 Metamorfosi {R}{R}</text>
     <flavorText>
     </flavorText>
@@ -1473,8 +1471,8 @@ Metamorfosi {R}{R}</text>
   <item>
     <id>ONS0194</id>
     <name>Dorsardesia in Carica</name>
-    <text>Il Dorsardesia in Carica non può bloccare.
-Metamorfosi {4}{R}</text>
+    <text>Il Dorsardesia in Carica non può bloccare. 
+Metamorfosi {4}{R}  </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1488,8 +1486,8 @@ Metamorfosi {4}{R}</text>
   <item>
     <id>ONS0196</id>
     <name>Corona della Furia</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+0 e ha attacco improvviso.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+0 e ha attacco improvviso. 
 Sacrifica la Corona della Furia: La creatura incantata e le altre creature che condividono un tipo di creatura con essa prendono +1/+0 e guadagnano attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1497,7 +1495,7 @@ Sacrifica la Corona della Furia: La creatura incantata e le altre creature che c
   <item>
     <id>ONS0197</id>
     <name>Battaglia per la Custodia</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha "All'inizio del tuo mantenimento, l'avversario bersaglio guadagna il controllo di questa creatura a meno che tu sacrifichi una terra".</text>
     <flavorText>
     </flavorText>
@@ -1512,15 +1510,15 @@ La creatura incantata ha "All'inizio del tuo mantenimento, l'avversario bersagli
   <item>
     <id>ONS0199</id>
     <name>Scoppiaroccia Nanesco</name>
-    <text>{2}{R}, {T}: Distruggi una terra non base bersaglio.
-Metamorfosi {R}</text>
+    <text>{2}{R}, {T}: Distruggi una terra non base bersaglio. 
+Metamorfosi {R} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0200</id>
     <name>Goblin Mago delle Braci</name>
-    <text>Quando il Goblin Mago delle Braci entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta di nome Goblin Mago delle Braci, rivelarla e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.
+    <text>Quando il Goblin Mago delle Braci entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio per una carta di nome Goblin Mago delle Braci, rivelarla e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio. 
 {T}: Il Goblin Mago delle Braci infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1542,7 +1540,7 @@ Metamorfosi {R}</text>
   <item>
     <id>ONS0203</id>
     <name>Messaggero Pirolancia</name>
-    <text>Puoi scegliere di non STAPpare il Messaggero Pirolancia durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare il Messaggero Pirolancia durante il tuo STAP. 
 {2}{R}, {T}: La creatura Goblin bersaglio prende +2/+2 e ha rapidità fintanto che il Messaggero Pirolancia rimane TAPpato.</text>
     <flavorText>
     </flavorText>
@@ -1557,7 +1555,7 @@ Metamorfosi {R}</text>
   <item>
     <id>ONS0205</id>
     <name>Scagliaorda Goblin</name>
-    <text>Protezione dal blu
+    <text>Protezione dal blu 
 Ogniqualvolta lo Scagliaorda Goblin attacca, prende +2/+0 fino alla fine del turno per ogni altro Goblin che attacca.</text>
     <flavorText>
     </flavorText>
@@ -1565,7 +1563,7 @@ Ogniqualvolta lo Scagliaorda Goblin attacca, prende +2/+0 fino alla fine del tur
   <item>
     <id>ONS0206</id>
     <name>Piromante Goblin</name>
-    <text>Quando il Piromante Goblin entra nel campo di battaglia, le creature Goblin prendono +3/+0 fino alla fine del turno.
+    <text>Quando il Piromante Goblin entra nel campo di battaglia, le creature Goblin prendono +3/+0 fino alla fine del turno. 
 All'inizio della sottofase finale, distruggi tutti i Goblin.</text>
     <flavorText>
     </flavorText>
@@ -1573,8 +1571,8 @@ All'inizio della sottofase finale, distruggi tutti i Goblin.</text>
   <item>
     <id>ONS0207</id>
     <name>Tiratore Scelto Goblin</name>
-    <text>Il Tiratore Scelto Goblin non STAPpa durante il tuo STAP.
-Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, STAPpa il Tiratore Scelto Goblin.
+    <text>Il Tiratore Scelto Goblin non STAPpa durante il tuo STAP. 
+Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, STAPpa il Tiratore Scelto Goblin. 
 {T}: Il Tiratore Scelto Goblin infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1582,7 +1580,7 @@ Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, ST
   <item>
     <id>ONS0208</id>
     <name>Predone dei Cieli Goblin</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)</text>
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1596,15 +1594,15 @@ Ogniqualvolta una creatura viene messa in un cimitero dal campo di battaglia, ST
   <item>
     <id>ONS0210</id>
     <name>Sorvegliante Goblin</name>
-    <text>{1}{R}: Una creatura Goblin bersaglio prende +1/+0 fino alla fine del turno.
-Metamorfosi {R}</text>
+    <text>{1}{R}: Una creatura Goblin bersaglio prende +1/+0 fino alla fine del turno. 
+Metamorfosi {R} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0211</id>
     <name>Bolgia</name>
-    <text>Tutte le creature attaccano ogni turno se possono farlo.
+    <text>Tutte le creature attaccano ogni turno se possono farlo. 
 Tutte le creature bloccano ogni turno se possono farlo.</text>
     <flavorText>
     </flavorText>
@@ -1633,8 +1631,8 @@ Tutte le creature bloccano ogni turno se possono farlo.</text>
   <item>
     <id>ONS0215</id>
     <name>Abilità del Lavamante</name>
-    <text>Incanta creatura
-La creatura incantata ha "{T}: Questa creatura infligge 1 danno a una creatura bersaglio".
+    <text>Incanta creatura 
+La creatura incantata ha "{T}: Questa creatura infligge 1 danno a una creatura bersaglio". 
 Se la creatura incantata è un Mago, ha "{T}: Questa creatura infligge 2 danni a una creatura bersaglio".</text>
     <flavorText>
     </flavorText>
@@ -1642,7 +1640,7 @@ Se la creatura incantata è un Mago, ha "{T}: Questa creatura infligge 2 danni a
   <item>
     <id>ONS0216</id>
     <name>Devastare</name>
-    <text>Distruggi una terra bersaglio.
+    <text>Distruggi una terra bersaglio. 
 Ciclo {2}</text>
     <flavorText>
     </flavorText>
@@ -1664,7 +1662,7 @@ Ciclo {2}</text>
   <item>
     <id>ONS0219</id>
     <name>Ogre Minaccioso</name>
-    <text>Travolgere, rapidità
+    <text>Travolgere, rapidità 
 Quando l'Ogre Minaccioso entra nel campo di battaglia, ogni giocatore sceglie segretamente un numero. Poi quei numeri vengono rivelati. Ogni giocatore con il numero più alto perde un ammontare di punti vita pari al proprio numero. Se sei uno di quei giocatori, metti due segnalini +1/+1 sull'Ogre Minaccioso.</text>
     <flavorText>
     </flavorText>
@@ -1686,7 +1684,7 @@ Quando l'Ogre Minaccioso entra nel campo di battaglia, ogni giocatore sceglie se
   <item>
     <id>ONS0222</id>
     <name>Lo Sprezzante</name>
-    <text>Rapidità
+    <text>Rapidità 
 La forza e la costituzione del Lo Sprezzante sono pari ciascuna al numero di Goblin sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -1694,7 +1692,7 @@ La forza e la costituzione del Lo Sprezzante sono pari ciascuna al numero di Gob
   <item>
     <id>ONS0223</id>
     <name>Mossa Azzardata</name>
-    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore guadagna il controllo della Mossa Azzardata.
+    <text>All'inizio del mantenimento di ogni giocatore, quel giocatore guadagna il controllo della Mossa Azzardata. 
 Quando tu guadagni il controllo della Mossa Azzardata da un altro giocatore, scegli una creatura che controlli e un avversario. Lancia una moneta. Se perdi il lancio, quell'avversario guadagna il controllo di quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -1716,7 +1714,7 @@ Quando tu guadagni il controllo della Mossa Azzardata da un altro giocatore, sce
   <item>
     <id>ONS0226</id>
     <name>Colosso Pellescisto</name>
-    <text>Travolgere
+    <text>Travolgere 
 Ogniqualvolta il Colosso Pellescisto attacca, prende +3/+0 fino alla fine del turno per ogni altra Bestia che sta attaccando.</text>
     <flavorText>
     </flavorText>
@@ -1724,14 +1722,14 @@ Ogniqualvolta il Colosso Pellescisto attacca, prende +3/+0 fino alla fine del tu
   <item>
     <id>ONS0227</id>
     <name>Shock</name>
-    <text>Lo Shock infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
+    <text>Lo Shock infligge 2 danni a una creatura o a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0228</id>
     <name>Commando di Skirk</name>
-    <text>Ogniqualvolta il Commando di Skirk infligge danno da combattimento a un giocatore, puoi fargli infliggere 2 danni a una creatura bersaglio che quel giocatore controlla.
+    <text>Ogniqualvolta il Commando di Skirk infligge danno da combattimento a un giocatore, puoi fargli infliggere 2 danni a una creatura bersaglio che quel giocatore controlla. 
 Metamorfosi {2}{R}</text>
     <flavorText>
     </flavorText>
@@ -1739,7 +1737,7 @@ Metamorfosi {2}{R}</text>
   <item>
     <id>ONS0229</id>
     <name>Maresciallo del Fuoco di Skirk</name>
-    <text>Protezione dal rosso
+    <text>Protezione dal rosso 
 TAPpa cinque Goblin STAPpati che controlli: Il Maresciallo del Fuoco di Skirk infligge 10 danni a ogni creatura e a ogni giocatore.</text>
     <flavorText>
     </flavorText>
@@ -1754,7 +1752,7 @@ TAPpa cinque Goblin STAPpati che controlli: Il Maresciallo del Fuoco di Skirk in
   <item>
     <id>ONS0231</id>
     <name>Valesk Capriccioso</name>
-    <text>All'inizio del tuo mantenimento, lancia una moneta. Se perdi il lancio, gira a faccia in giù il Valesk Capriccioso.
+    <text>All'inizio del tuo mantenimento, lancia una moneta. Se perdi il lancio, gira a faccia in giù il Valesk Capriccioso. 
 Metamorfosi {5}{R}</text>
     <flavorText>
     </flavorText>
@@ -1762,8 +1760,8 @@ Metamorfosi {5}{R}</text>
   <item>
     <id>ONS0232</id>
     <name>Fare a Fette</name>
-    <text>Il Fare a Fette infligge 4 danni a ogni creatura.
-Ciclo {2}{R}
+    <text>Il Fare a Fette infligge 4 danni a ogni creatura. 
+Ciclo {2}{R} 
 Quando cicli Fare a Fette, puoi fargli infliggere 1 danno a ogni creatura.</text>
     <flavorText>
     </flavorText>
@@ -1771,7 +1769,7 @@ Quando cicli Fare a Fette, puoi fargli infliggere 1 danno a ogni creatura.</text
   <item>
     <id>ONS0233</id>
     <name>Thragg Azzannatore</name>
-    <text>Ogniqualvolta il Thragg Azzannante infligge danno da combattimento a un giocatore, puoi fargli infliggere 3 danni a una creatura bersaglio controllata da quel giocatore.
+    <text>Ogniqualvolta il Thragg Azzannante infligge danno da combattimento a un giocatore, puoi fargli infliggere 3 danni a una creatura bersaglio controllata da quel giocatore. 
 Metamorfosi {4}{R}{R}</text>
     <flavorText>
     </flavorText>
@@ -1779,8 +1777,8 @@ Metamorfosi {4}{R}{R}</text>
   <item>
     <id>ONS0234</id>
     <name>Esplosione Solare</name>
-    <text>L'Esplosione Solare infligge 3 danni a una creatura o a un giocatore bersaglio.
-Ciclo {1}{R}{R}
+    <text>L'Esplosione Solare infligge 3 danni a una creatura o a un giocatore bersaglio. 
+Ciclo {1}{R}{R} 
 Quando cicli l'Esplosione Solare, puoi farle infliggere 1 danno a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1795,7 +1793,7 @@ Quando cicli l'Esplosione Solare, puoi farle infliggere 1 danno a una creatura o
   <item>
     <id>ONS0236</id>
     <name>Addestratore di Sputafuoco</name>
-    <text>L'Addestratore di Sputafuoco non può bloccare creature con forza superiore alla forza dell'Addestratore di Sputafuoco.
+    <text>L'Addestratore di Sputafuoco non può bloccare creature con forza superiore alla forza dell'Addestratore di Sputafuoco. 
 {R}: L'Addestratore di Sputafuoco prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1810,7 +1808,7 @@ Quando cicli l'Esplosione Solare, puoi farle infliggere 1 danno a una creatura o
   <item>
     <id>ONS0238</id>
     <name>Tempesta Stellare</name>
-    <text>La Tempesta Stellare infligge X danni a ogni creatura.
+    <text>La Tempesta Stellare infligge X danni a ogni creatura. 
 Ciclo {3}</text>
     <flavorText>
     </flavorText>
@@ -1818,7 +1816,7 @@ Ciclo {3}</text>
   <item>
     <id>ONS0239</id>
     <name>Tefraderma</name>
-    <text>Ogniqualvolta una creatura infligge danno al Tefraderma, il Tefraderma infligge un pari danno a quella creatura.
+    <text>Ogniqualvolta una creatura infligge danno al Tefraderma, il Tefraderma infligge un pari danno a quella creatura. 
 Ogniqualvolta una magia infligge danno al Tefraderma, il Tefraderma infligge un pari danno al controllore di quella magia.</text>
     <flavorText>
     </flavorText>
@@ -1826,7 +1824,7 @@ Ogniqualvolta una magia infligge danno al Tefraderma, il Tefraderma infligge un 
   <item>
     <id>ONS0240</id>
     <name>Primoc Psicoforzato</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del tuo mantenimento, se un giocatore controlla più Maghi di ogni altro giocatore, quel giocatore prende il controllo del Primoc Psicoforzato.</text>
     <flavorText>
     </flavorText>
@@ -1834,7 +1832,7 @@ All'inizio del tuo mantenimento, se un giocatore controlla più Maghi di ogni al
   <item>
     <id>ONS0241</id>
     <name>Minacciare</name>
-    <text>STAPpa una creatura bersaglio e prendine il controllo fino alla fine del turno. Quella creatura ha rapidità fino alla fine del turno. (Può attaccare e {T} in questo turno.)</text>
+    <text>STAPpa una creatura bersaglio e prendine il controllo fino alla fine del turno. Quella creatura ha rapidità fino alla fine del turno. (Può attaccare e {T} in questo turno.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1876,15 +1874,15 @@ All'inizio del tuo mantenimento, se un giocatore controlla più Maghi di ogni al
   <item>
     <id>ONS0247</id>
     <name>Bioritmo</name>
-    <text>Il totale dei punti vita di ogni giocatore diventa pari al numero di creature che controlla.</text>
+    <text>Il totale dei punti vita di ogni giocatore diventa pari al numero di creature che controlla. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0248</id>
     <name>Ranger Scrutabetulla</name>
-    <text>TAPpa due Elfi STAPpati che controlli: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.
-Metamorfosi {G}</text>
+    <text>TAPpa due Elfi STAPpati che controlli: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana. 
+Metamorfosi {G} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1898,7 +1896,7 @@ Metamorfosi {G}</text>
   <item>
     <id>ONS0250</id>
     <name>Nantuko Covanidiata</name>
-    <text>Ogniqualvolta viene inflitto danno al Nantuko Covanidiata, puoi mettere sul campo di battaglia altrettante pedine creatura Insetto 1/1 verdi.
+    <text>Ogniqualvolta viene inflitto danno al Nantuko Covanidiata, puoi mettere sul campo di battaglia altrettante pedine creatura Insetto 1/1 verdi. 
 Metamorfosi {2}{G}</text>
     <flavorText>
     </flavorText>
@@ -1920,8 +1918,8 @@ Metamorfosi {2}{G}</text>
   <item>
     <id>ONS0253</id>
     <name>Corona del Vigore</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+1.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+1. 
 Sacrifica la Corona del Vigore: La creatura incantata e le altre creature che condividono un tipo di creatura con essa prendono +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1929,14 +1927,14 @@ Sacrifica la Corona del Vigore: La creatura incantata e le altre creature che co
   <item>
     <id>ONS0254</id>
     <name>Cavalieri Elfici</name>
-    <text>I Cavalieri Elfici non possono essere bloccati tranne che da Muri e/o creature con volare.</text>
+    <text>I Cavalieri Elfici non possono essere bloccati tranne che da Muri e/o creature con volare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0255</id>
     <name>Guida Elfica</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo controllore aggiunge {G} alla propria riserva di mana per ogni Elfo sul campo di battaglia (in aggiunta al mana prodotto dalla terra).</text>
     <flavorText>
     </flavorText>
@@ -1972,8 +1970,7 @@ Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo contro
   <item>
     <id>ONS0260</id>
     <name>Guerriero Elfico</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1987,7 +1984,7 @@ Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo contro
   <item>
     <id>ONS0262</id>
     <name>Messaggero Guantoforte</name>
-    <text>Puoi scegliere di non STAPpare il Messaggero Guantoforte durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare il Messaggero Guantoforte durante il tuo STAP. 
 {2}{G}, {T}: La creatura Elfo bersaglio prende +2/+2 e ha travolgere fintanto che il Messaggero Guantoforte rimane TAPpato.</text>
     <flavorText>
     </flavorText>
@@ -2002,7 +1999,7 @@ Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo contro
   <item>
     <id>ONS0264</id>
     <name>Gigapode</name>
-    <text>Velo (Questo permanente non può essere bersaglio di magie o abilità.)
+    <text>Velo (Questo permanente non può essere bersaglio di magie o abilità.) 
 All'inizio del tuo mantenimento, se il Gigapode si trova nel tuo cimitero, puoi scartare una carta. Se lo fai, riprendi in mano il Gigapode.</text>
     <flavorText>
     </flavorText>
@@ -2010,7 +2007,7 @@ All'inizio del tuo mantenimento, se il Gigapode si trova nel tuo cimitero, puoi 
   <item>
     <id>ONS0265</id>
     <name>L'Avventata</name>
-    <text>Travolgere
+    <text>Travolgere 
 La forza e la costituzione dell'Avventata sono pari ciascuna al numero di Elfi nel campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -2018,9 +2015,9 @@ La forza e la costituzione dell'Avventata sono pari ciascuna al numero di Elfi n
   <item>
     <id>ONS0266</id>
     <name>Istricodonte</name>
-    <text>Travolgere
-Ogniqualvolta l'Istricodonte infligge danno da combattimento a un giocatore, puoi pescare una carta.
-Metamorfosi {1}{G}{G}</text>
+    <text>Travolgere 
+Ogniqualvolta l'Istricodonte infligge danno da combattimento a un giocatore, puoi pescare una carta. 
+Metamorfosi {1}{G}{G} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2034,7 +2031,7 @@ Metamorfosi {1}{G}{G}</text>
   <item>
     <id>ONS0268</id>
     <name>Kamahl, Mano di Krosa</name>
-    <text>{G}: La terra bersaglio diventa una creatura 1/1 fino alla fine del turno. È ancora una terra.
+    <text>{G}: La terra bersaglio diventa una creatura 1/1 fino alla fine del turno. È ancora una terra. 
 {2}{G}{G}{G}: Le creature che controlli prendono +3/+3 e guadagnano travolgere fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2049,7 +2046,7 @@ Metamorfosi {1}{G}{G}</text>
   <item>
     <id>ONS0270</id>
     <name>Colosso di Krosa</name>
-    <text>Metamorfosi {6}{G}{G}</text>
+    <text>Metamorfosi {6}{G}{G} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2063,7 +2060,7 @@ Metamorfosi {1}{G}{G}</text>
   <item>
     <id>ONS0272</id>
     <name>Zannuto di Krosa</name>
-    <text>Ciclo {2}{G}
+    <text>Ciclo {2}{G} 
 Quando usi l'abilità ciclo dello Zannuto di Krosa, puoi passare in rassegna il tuo grimorio, scegliere una carta terra base, rivelare quella carta e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -2078,7 +2075,7 @@ Quando usi l'abilità ciclo dello Zannuto di Krosa, puoi passare in rassegna il 
   <item>
     <id>ONS0274</id>
     <name>Dimensioni Leggendarie</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +8/+8 e ha travolgere.</text>
     <flavorText>
     </flavorText>
@@ -2086,7 +2083,7 @@ La creatura incantata prende +8/+8 e ha travolgere.</text>
   <item>
     <id>ONS0275</id>
     <name>Ritorno alla Natura</name>
-    <text>Distruggi un artefatto o un incantesimo bersaglio.</text>
+    <text>Distruggi un artefatto o un incantesimo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2100,8 +2097,8 @@ La creatura incantata prende +8/+8 e ha travolgere.</text>
   <item>
     <id>ONS0277</id>
     <name>Spinta Primeva</name>
-    <text>Una creatura bersaglio prende +4/+4 fino alla fine del turno.
-Ciclo {2}{G}
+    <text>Una creatura bersaglio prende +4/+4 fino alla fine del turno. 
+Ciclo {2}{G} 
 Quando usi l'abilità ciclo della Spinta Primeva, puoi far prendere +1/+1 a una creatura bersaglio fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2123,7 +2120,7 @@ Quando usi l'abilità ciclo della Spinta Primeva, puoi far prendere +1/+1 a una 
   <item>
     <id>ONS0280</id>
     <name>Basilisco Serpentino</name>
-    <text>Ogniqualvolta il Basilisco Serpentino infligge danno da combattimento a una creatura, distruggi quella creatura alla fine del combattimento.
+    <text>Ogniqualvolta il Basilisco Serpentino infligge danno da combattimento a una creatura, distruggi quella creatura alla fine del combattimento. 
 Metamorfosi {1}{G}{G}</text>
     <flavorText>
     </flavorText>
@@ -2131,15 +2128,15 @@ Metamorfosi {1}{G}{G}</text>
   <item>
     <id>ONS0281</id>
     <name>Ragno Setafrusta</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
-{X}{G}{G}: Il Ragno Setafrusta infligge X danni a ogni creatura con volare.</text>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
+{X}{G}{G}: Il Ragno Setafrusta infligge X danni a ogni creatura con volare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ONS0282</id>
     <name>Silvos, Elementale Esiliato</name>
-    <text>Travolgere
+    <text>Travolgere 
 {G}: Rigenera Silvos, Elementale Esiliato.</text>
     <flavorText>
     </flavorText>
@@ -2147,7 +2144,7 @@ Metamorfosi {1}{G}{G}</text>
   <item>
     <id>ONS0283</id>
     <name>Undorak Ringhiante</name>
-    <text>{2}{G}: Una creatura Bestia bersaglio prende +1/+1 fino alla fine del turno.
+    <text>{2}{G}: Una creatura Bestia bersaglio prende +1/+1 fino alla fine del turno. 
 Metamorfosi {1}{G}{G}</text>
     <flavorText>
     </flavorText>
@@ -2155,7 +2152,7 @@ Metamorfosi {1}{G}{G}</text>
   <item>
     <id>ONS0284</id>
     <name>Gurna Sputatore</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
 Metamorfosi {4}{G}</text>
     <flavorText>
     </flavorText>
@@ -2170,7 +2167,7 @@ Metamorfosi {4}{G}</text>
   <item>
     <id>ONS0286</id>
     <name>Determinazione Ferrea</name>
-    <text>Mentre la Determinazione Ferrea entra nel campo di battaglia, scegli un tipo di creatura.
+    <text>Mentre la Determinazione Ferrea entra nel campo di battaglia, scegli un tipo di creatura. 
 Le creature del tipo scelto hanno velo. (Non possono essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -2199,7 +2196,7 @@ Le creature del tipo scelto hanno velo. (Non possono essere bersaglio di magie o
   <item>
     <id>ONS0290</id>
     <name>Elfo Provocatore</name>
-    <text>Tutte le creature in grado di bloccare l'Elfo Provocatore lo fanno.</text>
+    <text>Tutte le creature in grado di bloccare l'Elfo Provocatore lo fanno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2234,7 +2231,7 @@ Le creature del tipo scelto hanno velo. (Non possono essere bersaglio di magie o
   <item>
     <id>ONS0295</id>
     <name>Brako Sputaveleno</name>
-    <text>{1}{G}, {T}: Il Brako Sputaveleno infligge 5 danni a una creatura attaccante o bloccante con volare.
+    <text>{1}{G}, {T}: Il Brako Sputaveleno infligge 5 danni a una creatura attaccante o bloccante con volare. 
 Metamorfosi {3}{G}{G}</text>
     <flavorText>
     </flavorText>
@@ -2256,7 +2253,7 @@ Metamorfosi {3}{G}{G}</text>
   <item>
     <id>ONS0298</id>
     <name>Muro di Pacciame</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {G}, Sacrifica un Muro: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -2320,7 +2317,7 @@ Metamorfosi {3}{G}{G}</text>
   <item>
     <id>ONS0307</id>
     <name>Cannone del Destino</name>
-    <text>Mentre il Cannone del Destino entra nel campo di battaglia, scegli un tipo di creatura.
+    <text>Mentre il Cannone del Destino entra nel campo di battaglia, scegli un tipo di creatura. 
 {3}, {T}, Sacrifica una creatura del tipo scelto: Il Cannone del Destino infligge 3 danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -2335,8 +2332,8 @@ Metamorfosi {3}{G}{G}</text>
   <item>
     <id>ONS0309</id>
     <name>Replicatore di Marea</name>
-    <text>Mentre il Replicatore di Marea entra nel campo di battaglia, scegli un colore e un tipo di creatura.
-Il Replicatore di Marea entra nel campo di battaglia con X segnalini carica.
+    <text>Mentre il Replicatore di Marea entra nel campo di battaglia, scegli un colore e un tipo di creatura. 
+Il Replicatore di Marea entra nel campo di battaglia con X segnalini carica. 
 {4}, {T}: Metti sul campo di battaglia una pedina creatura X/X del tipo e del colore scelti, dove X è il numero di segnalini carica presenti sul Replicatore di Marea.</text>
     <flavorText>
     </flavorText>
@@ -2358,8 +2355,8 @@ Il Replicatore di Marea entra nel campo di battaglia con X segnalini carica.
   <item>
     <id>ONS0312</id>
     <name>Brughiera Brulla</name>
-    <text>La Brughiera Brulla entra nel campo di battaglia TAPpata.
-{T}: Aggiungi {B} alla tua riserva di mana.
+    <text>La Brughiera Brulla entra nel campo di battaglia TAPpata. 
+{T}: Aggiungi {B} alla tua riserva di mana. 
 Ciclo {B}</text>
     <flavorText>
     </flavorText>
@@ -2374,7 +2371,7 @@ Ciclo {B}</text>
   <item>
     <id>ONS0314</id>
     <name>Scogliere Contese</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {R}{G},{T}: Scegli una creatura Bestia bersaglio che controlli e una creatura bersaglio che un avversario controlla. Ciascuna di queste creature infligge all'altra un danno pari alla propria forza.</text>
     <flavorText>
     </flavorText>
@@ -2382,7 +2379,7 @@ Ciclo {B}</text>
   <item>
     <id>ONS0315</id>
     <name>Accampamento Daru</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {W}, {T}: La creatura Soldato bersaglio prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2397,8 +2394,8 @@ Ciclo {B}</text>
   <item>
     <id>ONS0317</id>
     <name>Caverna Dimenticata</name>
-    <text>La Caverna Dimenticata entra nel campo di battaglia TAPpata.
-{T}: Aggiungi {R} alla tua riserva di mana.
+    <text>La Caverna Dimenticata entra nel campo di battaglia TAPpata. 
+{T}: Aggiungi {R} alla tua riserva di mana. 
 Ciclo {R}</text>
     <flavorText>
     </flavorText>
@@ -2406,7 +2403,7 @@ Ciclo {R}</text>
   <item>
     <id>ONS0318</id>
     <name>Cunicoli dei Goblin</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {1}{R}, {T}: Una creatura Goblin bersaglio prende +2/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2414,8 +2411,8 @@ Ciclo {R}</text>
   <item>
     <id>ONS0319</id>
     <name>Gran Colosseo</name>
-    <text>Il Gran Colosseo entra nel campo di battaglia TAPpato.
-{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>Il Gran Colosseo entra nel campo di battaglia TAPpato. 
+{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana. Il Gran Colosseo ti infligge 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -2423,8 +2420,8 @@ Ciclo {R}</text>
   <item>
     <id>ONS0320</id>
     <name>Secca Solitaria</name>
-    <text>La Secca Solitaria entra nel campo di battaglia TAPpata.
-{T}: Aggiungi {U} alla tua riserva di mana.
+    <text>La Secca Solitaria entra nel campo di battaglia TAPpata. 
+{T}: Aggiungi {U} alla tua riserva di mana. 
 Ciclo {U}</text>
     <flavorText>
     </flavorText>
@@ -2439,7 +2436,7 @@ Ciclo {U}</text>
   <item>
     <id>ONS0322</id>
     <name>Laboratorio della Marea</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {1}{U}, {T}: Il proprietario riprende in mano un Mago bersaglio che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -2447,7 +2444,7 @@ Ciclo {U}</text>
   <item>
     <id>ONS0323</id>
     <name>Porto del Litorale</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {W}{U}, {T}, Sacrifica un Uccello: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -2455,8 +2452,8 @@ Ciclo {U}</text>
   <item>
     <id>ONS0324</id>
     <name>Steppa Isolata</name>
-    <text>La Steppa Isolata entra nel campo di battaglia TAPpata.
-{T}: Aggiungi {W} alla tua riserva di mana.
+    <text>La Steppa Isolata entra nel campo di battaglia TAPpata. 
+{T}: Aggiungi {W} alla tua riserva di mana. 
 Ciclo {W}</text>
     <flavorText>
     </flavorText>
@@ -2464,8 +2461,8 @@ Ciclo {W}</text>
   <item>
     <id>ONS0325</id>
     <name>Santuario Stellato</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{W}, {T}, Sacrifica una creatura Chierico: Guadagni punti vita pari alla costituzione della creatura sacrificata.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{W}, {T}, Sacrifica una creatura Chierico: Guadagni punti vita pari alla costituzione della creatura sacrificata. 
 {B}, {T}, Sacrifica una creatura Chierico: Un giocatore bersaglio perde punti vita pari alla forza della creatura sacrificata.</text>
     <flavorText>
     </flavorText>
@@ -2473,8 +2470,8 @@ Ciclo {W}</text>
   <item>
     <id>ONS0326</id>
     <name>Boschetto Tranquillo</name>
-    <text>Il Boschetto Tranquillo entra nel campo di battaglia TAPpato.
-{T}: Aggiungi {G} alla tua riserva di mana.
+    <text>Il Boschetto Tranquillo entra nel campo di battaglia TAPpato. 
+{T}: Aggiungi {G} alla tua riserva di mana. 
 Ciclo {G}</text>
     <flavorText>
     </flavorText>
@@ -2482,7 +2479,7 @@ Ciclo {G}</text>
   <item>
     <id>ONS0327</id>
     <name>Grotta Maledetta</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {B}, {T}: Metti una carta Zombie bersaglio dal tuo cimitero in cima al tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -2497,7 +2494,7 @@ Ciclo {G}</text>
   <item>
     <id>ONS0329</id>
     <name>Tana di Boscocavo</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {G}, {T}: STAPpa un Elfo bersaglio.</text>
     <flavorText>
     </flavorText>

@@ -16,7 +16,7 @@
   <item>
     <id>LGN0003</id>
     <name>Redentore Aviano</name>
-    <text>Volare
+    <text>Volare 
 {T}: Previeni i prossimi 2 danni che verrebbero inflitti alla creatura o al giocatore bersaglio in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -24,7 +24,7 @@
   <item>
     <id>LGN0004</id>
     <name>Falco da Battaglia Aviano</name>
-    <text>Sviluppo 1 (Mentre questa carta entra nel campo di battaglia, metti su di essa un segnalino +1/+1 per ogni carta Soldato e/o Uccello che riveli dalla tua mano.)
+    <text>Sviluppo 1 (Mentre questa carta entra nel campo di battaglia, metti su di essa un segnalino +1/+1 per ogni carta Soldato e/o Uccello che riveli dalla tua mano.) 
 Volare</text>
     <flavorText>
     </flavorText>
@@ -39,7 +39,7 @@ Volare</text>
   <item>
     <id>LGN0006</id>
     <name>Custode del Portale Celeste</name>
-    <text>Volare
+    <text>Volare 
 Quando il Custode del Portale Celeste viene messo in un cimitero dal campo di battaglia, esilialo, poi rimetti sul campo di battaglia fino a due carte permanente Uccello e/o Chierico dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -54,39 +54,39 @@ Quando il Custode del Portale Celeste viene messo in un cimitero dal campo di ba
   <item>
     <id>LGN0008</id>
     <name>Riparatore Daru</name>
-    <text>Metamorfosi {W}
-Quando il Riparatore Daru viene girato a faccia in su, rigenera una creatura bersaglio.</text>
+    <text>Metamorfosi {W} 
+Quando il Riparatore Daru viene girato a faccia in su, rigenera una creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0009</id>
     <name>Santificatore Daru</name>
-    <text>Metamorfosi {1}{W}
-Quando il Santificatore Daru viene girato a faccia in su, distruggi un incantesimo bersaglio.</text>
+    <text>Metamorfosi {1}{W} 
+Quando il Santificatore Daru viene girato a faccia in su, distruggi un incantesimo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0010</id>
     <name>Pugnalatore Daru</name>
-    <text>Sviluppo 1
-{T}: Il Pugnalatore Daru infligge un danno pari al numero di segnalini +1/+1 presenti su di sé a una creatura attaccante o bloccante bersaglio.</text>
+    <text>Sviluppo 1 
+{T}: Il Pugnalatore Daru infligge un danno pari al numero di segnalini +1/+1 presenti su di sé a una creatura attaccante o bloccante bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0011</id>
     <name>Difensore dell'Ordine</name>
-    <text>Metamorfosi {W}{W}
-Quando il Difensore dell'Ordine viene girato a faccia in su, le creature che tu controlli prendono +0/+2 fino alla fine del turno.</text>
+    <text>Metamorfosi {W}{W} 
+Quando il Difensore dell'Ordine viene girato a faccia in su, le creature che tu controlli prendono +0/+2 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0012</id>
     <name>Elite di Fortelama</name>
-    <text>Provocazione
+    <text>Provocazione 
 {1}{W}: Previeni tutto il danno da combattimento che verrebbe inflitto e ricevuto dall'Elite di Fortelama in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -101,7 +101,7 @@ Quando il Difensore dell'Ordine viene girato a faccia in su, le creature che tu 
   <item>
     <id>LGN0014</id>
     <name>Vendicatore di Palmagemma</name>
-    <text>Ciclo {2}{W}
+    <text>Ciclo {2}{W} 
 Quando cicli il Vendicatore di Palmagemma, le creature Soldato prendono +1/+1 e guadagnano attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -116,17 +116,17 @@ Quando cicli il Vendicatore di Palmagemma, le creature Soldato prendono +1/+1 e 
   <item>
     <id>LGN0016</id>
     <name>Dominatore dell'Ascia</name>
-    <text>Cautela (Questa creatura attacca senza TAPpare.) 
-Metamorfosi {1}{W}
-Quando il Dominatore dell'Ascia viene girato a faccia in su, STAPpalo.</text>
+    <text>Cautela (Questa creatura attacca senza TAPpare.)  
+Metamorfosi {1}{W} 
+Quando il Dominatore dell'Ascia viene girato a faccia in su, STAPpalo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0017</id>
     <name>Guida della Pianura</name>
-    <text>Attacco improvviso
-Provocazione</text>
+    <text>Attacco improvviso 
+Provocazione </text>
     <flavorText>
     </flavorText>
   </item>
@@ -147,7 +147,7 @@ Provocazione</text>
   <item>
     <id>LGN0020</id>
     <name>Evocatore di Luce Stellare</name>
-    <text>{7}{W}: Guadagni 5 punti vita.</text>
+    <text>{7}{W}: Guadagni 5 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -161,8 +161,8 @@ Provocazione</text>
   <item>
     <id>LGN0022</id>
     <name>Legionario Fendisole</name>
-    <text>Il Legionario Fendisole non STAPpa durante il tuo STAP.
-Ogniqualvolta un'altra creatura entra nel campo di battaglia, STAPpa il Legionario Fendisole.
+    <text>Il Legionario Fendisole non STAPpa durante il tuo STAP. 
+Ogniqualvolta un'altra creatura entra nel campo di battaglia, STAPpa il Legionario Fendisole. 
 {T}: TAPpa la creatura bersaglio con costo di mana convertito pari o inferiore a 3.</text>
     <flavorText>
     </flavorText>
@@ -170,8 +170,8 @@ Ogniqualvolta un'altra creatura entra nel campo di battaglia, STAPpa il Legionar
   <item>
     <id>LGN0023</id>
     <name>Grinfia in Picchiata</name>
-    <text>Volare
-{1}: La Grinfia in Picchiata perde volare fino alla fine del turno.
+    <text>Volare 
+{1}: La Grinfia in Picchiata perde volare fino alla fine del turno. 
 Provocazione</text>
     <flavorText>
     </flavorText>
@@ -179,15 +179,15 @@ Provocazione</text>
   <item>
     <id>LGN0024</id>
     <name>Muro della Speranza</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Ogniqualvolta viene inflitto danno al Muro della Speranza, tu guadagni altrettanti punti vita.</text>
+    <text>Difensore (Questa creatura non può attaccare.) 
+Ogniqualvolta viene inflitto danno al Muro della Speranza, tu guadagni altrettanti punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0025</id>
     <name>Tramutante di Protezione</name>
-    <text>Mentre il Tramutante di Protezione entra nel campo di battaglia, scegli un colore.
+    <text>Mentre il Tramutante di Protezione entra nel campo di battaglia, scegli un colore. 
 Tutti i Tramutanti hanno protezione dal colore scelto.</text>
     <flavorText>
     </flavorText>
@@ -202,7 +202,7 @@ Tutti i Tramutanti hanno protezione dal colore scelto.</text>
   <item>
     <id>LGN0027</id>
     <name>Cavaliere Bianco</name>
-    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)
+    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.) 
 Protezione dal nero (Questa creatura non può essere bloccata, bersagliata, non le può essere inflitto danno, né può essere incantata da nulla di nero.)</text>
     <flavorText>
     </flavorText>
@@ -210,7 +210,7 @@ Protezione dal nero (Questa creatura non può essere bloccata, bersagliata, non 
   <item>
     <id>LGN0028</id>
     <name>Musa Eologena</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) 
 Le creature non possono attaccarti a meno che il loro controllore paghi {2} per ogni creatura che controlla che ti sta attaccando.</text>
     <flavorText>
     </flavorText>
@@ -218,8 +218,8 @@ Le creature non possono attaccarti a meno che il loro controllore paghi {2} per 
   <item>
     <id>LGN0029</id>
     <name>Guerriero Alalesta</name>
-    <text>Volare
-Metamorfosi {2}{W}
+    <text>Volare 
+Metamorfosi {2}{W} 
 Quando il Guerriero Alalesta viene girato a faccia in su, una creatura bersaglio guadagna attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -227,14 +227,14 @@ Quando il Guerriero Alalesta viene girato a faccia in su, una creatura bersaglio
   <item>
     <id>LGN0030</id>
     <name>Inviato Aviano</name>
-    <text>Volare</text>
+    <text>Volare </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0031</id>
     <name>Mago dei Sentieri Cefalide</name>
-    <text>Il Mago dei Sentieri Cefalide non può essere bloccato.
+    <text>Il Mago dei Sentieri Cefalide non può essere bloccato. 
 {T}, Sacrifica il Mago dei Sentieri Cefalide: La creatura bersaglio non può essere bloccata in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -242,8 +242,8 @@ Quando il Guerriero Alalesta viene girato a faccia in su, una creatura bersaglio
   <item>
     <id>LGN0032</id>
     <name>Granchio Gusciocromato</name>
-    <text>Metamorfosi {4}{U}
-Quando il Granchio Gusciocromato viene girato a faccia in su, puoi scambiare il controllo di una creatura bersaglio che tu controlli con quello di una creatura bersaglio controllata da un avversario.</text>
+    <text>Metamorfosi {4}{U} 
+Quando il Granchio Gusciocromato viene girato a faccia in su, puoi scambiare il controllo di una creatura bersaglio che tu controlli con quello di una creatura bersaglio controllata da un avversario. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -257,8 +257,8 @@ Quando il Granchio Gusciocromato viene girato a faccia in su, puoi scambiare il 
   <item>
     <id>LGN0034</id>
     <name>Anziano Artiglio Curvo</name>
-    <text>Volare
-TAPpa due Uccelli STAPpati che controlli: Pesca una carta.
+    <text>Volare 
+TAPpa due Uccelli STAPpati che controlli: Pesca una carta. 
 TAPpa due Maghi STAPpati che controlli: La creatura bersaglio guadagna volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -266,8 +266,8 @@ TAPpa due Maghi STAPpati che controlli: La creatura bersaglio guadagna volare fi
   <item>
     <id>LGN0035</id>
     <name>Dermoplasma</name>
-    <text>Volare
-Metamorfosi {2}{U}{U}
+    <text>Volare 
+Metamorfosi {2}{U}{U} 
 Quando il Dermoplasma viene girato a faccia in su, puoi mettere sul campo di battaglia dalla tua mano una carta creatura con metamorfosi a faccia in su. Se lo fai, il proprietario riprende in mano il Dermoplasma.</text>
     <flavorText>
     </flavorText>
@@ -282,8 +282,8 @@ Quando il Dermoplasma viene girato a faccia in su, puoi mettere sul campo di bat
   <item>
     <id>LGN0037</id>
     <name>Inseguitore dell'Eco</name>
-    <text>Metamorfosi {2}{U}
-Quando l'Inseguitore dell'Eco viene girato a faccia in su, il proprietario riprende in mano una creatura bersaglio.</text>
+    <text>Metamorfosi {2}{U} 
+Quando l'Inseguitore dell'Eco viene girato a faccia in su, il proprietario riprende in mano una creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -298,7 +298,7 @@ Quando l'Inseguitore dell'Eco viene girato a faccia in su, il proprietario ripre
   <item>
     <id>LGN0039</id>
     <name>Stregone di Palmagemma</name>
-    <text>Ciclo {2}{U}
+    <text>Ciclo {2}{U} 
 Quando usi l'abilità Ciclo dello Stregone di Palmagemma, le creature Mago guadagnano volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -313,7 +313,7 @@ Quando usi l'abilità Ciclo dello Stregone di Palmagemma, le creature Mago guada
   <item>
     <id>LGN0041</id>
     <name>Aviano Occhio Acuto</name>
-    <text>Volare
+    <text>Volare 
 Ciclo {2}</text>
     <flavorText>
     </flavorText>
@@ -321,7 +321,7 @@ Ciclo {2}</text>
   <item>
     <id>LGN0042</id>
     <name>Guardiano dei Nove Venti</name>
-    <text>Volare
+    <text>Volare 
 {T}, TAPpa due Uccelli STAPpati che controlli: Il proprietario riprende in mano un permanente bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -329,8 +329,8 @@ Ciclo {2}</text>
   <item>
     <id>LGN0043</id>
     <name>Maestro del Velo</name>
-    <text>Metamorfosi {2}{U}
-Quando il Maestro del Velo viene girato a faccia in su, puoi girare a faccia in giù una creatura con metamorfosi bersaglio.</text>
+    <text>Metamorfosi {2}{U} 
+Quando il Maestro del Velo viene girato a faccia in su, puoi girare a faccia in giù una creatura con metamorfosi bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -344,8 +344,8 @@ Quando il Maestro del Velo viene girato a faccia in su, puoi girare a faccia in 
   <item>
     <id>LGN0045</id>
     <name>Solcamari Nebbiforme</name>
-    <text>Volare
-{1}: Il Solcamari Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno.
+    <text>Volare 
+{1}: Il Solcamari Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno. 
 Metamorfosi {1}{U} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)</text>
     <flavorText>
     </flavorText>
@@ -367,8 +367,8 @@ Metamorfosi {1}{U} (Puoi lanciare questa carta a faccia in giù come una creatur
   <item>
     <id>LGN0048</id>
     <name>Scagliascia Nebbiforme</name>
-    <text>Volare
-{1}: Lo Scagliascia Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno.
+    <text>Volare 
+{1}: Lo Scagliascia Nebbiforme diventa di un tipo di creatura a tua scelta fino alla fine del turno. 
 {2}{U}{U}, {T}: Scegli un tipo di creatura. Ogni creatura che controlli diventa di quel tipo fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -376,7 +376,7 @@ Metamorfosi {1}{U} (Puoi lanciare questa carta a faccia in giù come una creatur
   <item>
     <id>LGN0049</id>
     <name>Fuggitivo Primoc</name>
-    <text>Volare
+    <text>Volare 
 Ciclo {2}</text>
     <flavorText>
     </flavorText>
@@ -412,7 +412,7 @@ Ciclo {2}</text>
   <item>
     <id>LGN0054</id>
     <name>Apprendista di Svuotamagie</name>
-    <text>Metamorfosi {2}{U}{U}
+    <text>Metamorfosi {2}{U}{U} 
 Quando l'Apprendista di Svuotamagie viene girato a faccia in su, neutralizza una magia bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -420,8 +420,8 @@ Quando l'Apprendista di Svuotamagie viene girato a faccia in su, neutralizza una
   <item>
     <id>LGN0055</id>
     <name>Muro di Inganni</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-{3}: Gira il Muro di Inganni a faccia in giù.
+    <text>Difensore (Questa creatura non può attaccare.) 
+{3}: Gira il Muro di Inganni a faccia in giù. 
 Metamorfosi {U}</text>
     <flavorText>
     </flavorText>
@@ -436,7 +436,7 @@ Metamorfosi {U}</text>
   <item>
     <id>LGN0057</id>
     <name>Tessitore di Menzogne</name>
-    <text>Metamorfosi {4}{U}
+    <text>Metamorfosi {4}{U} 
 Quando il Tessitore di Menzogne viene girato a faccia in su, gira a faccia in giù un qualsiasi numero di creature con metamorfosi tranne il Tessitore di Menzogne.</text>
     <flavorText>
     </flavorText>
@@ -444,7 +444,7 @@ Quando il Tessitore di Menzogne viene girato a faccia in su, gira a faccia in gi
   <item>
     <id>LGN0058</id>
     <name>Soggiogatore</name>
-    <text>Metamorfosi {1}{U} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)
+    <text>Metamorfosi {1}{U} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando {3}. Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.) 
 Quando il Soggiogatore viene girato a faccia in su, cambia il bersaglio di una magia o un'abilità bersaglio che ha un singolo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -452,7 +452,7 @@ Quando il Soggiogatore viene girato a faccia in su, cambia il bersaglio di una m
   <item>
     <id>LGN0059</id>
     <name>Sterminatore di Aphetto</name>
-    <text>Metamorfosi {3}{B}
+    <text>Metamorfosi {3}{B} 
 Quando lo Sterminatore di Aphetto viene girato a faccia in su, una creatura bersaglio prende -3/-3 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -460,8 +460,8 @@ Quando lo Sterminatore di Aphetto viene girato a faccia in su, una creatura bers
   <item>
     <id>LGN0060</id>
     <name>Sventura dei Viventi</name>
-    <text>Metamorfosi {X}{B}{B}
-Quando la Sventura dei Viventi viene girata a faccia in su, tutte le creature prendono -X/-X fino alla fine del turno.</text>
+    <text>Metamorfosi {X}{B}{B} 
+Quando la Sventura dei Viventi viene girata a faccia in su, tutte le creature prendono -X/-X fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -503,7 +503,7 @@ Quando la Sventura dei Viventi viene girata a faccia in su, tutte le creature pr
   <item>
     <id>LGN0066</id>
     <name>Suggitore di Disperazione</name>
-    <text>Il Suggitore di Disperazione non può bloccare.
+    <text>Il Suggitore di Disperazione non può bloccare. 
 Ogniqualvolta il Suggitore di Disperazione infligge danno da combattimento, sacrifica un permanente.</text>
     <flavorText>
     </flavorText>
@@ -511,7 +511,7 @@ Ogniqualvolta il Suggitore di Disperazione infligge danno da combattimento, sacr
   <item>
     <id>LGN0067</id>
     <name>Morto Grondante</name>
-    <text>Il Morto Grondante non può bloccare.
+    <text>Il Morto Grondante non può bloccare. 
 Ogniqualvolta il Morto Grondante infligge danno da combattimento a una creatura, distruggi quella creatura. Non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -526,7 +526,7 @@ Ogniqualvolta il Morto Grondante infligge danno da combattimento a una creatura,
   <item>
     <id>LGN0069</id>
     <name>Lottatore Imbalsamato</name>
-    <text>Sviluppo 1
+    <text>Sviluppo 1 
 Ogniqualvolta il Lottatore Imbalsamato attacca o blocca, perdi 1 punto vita per ogni segnalino +1/+1 presente su di esso.</text>
     <flavorText>
     </flavorText>
@@ -534,7 +534,7 @@ Ogniqualvolta il Lottatore Imbalsamato attacca o blocca, perdi 1 punto vita per 
   <item>
     <id>LGN0070</id>
     <name>Inquinatore di Palmagemma</name>
-    <text>Ciclo {B}{B}
+    <text>Ciclo {B}{B} 
 Quando cicli l'Inquinatore di Palmagemma, puoi far perdere 1 punto vita a un giocatore bersaglio per ogni Zombie nel campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -542,7 +542,7 @@ Quando cicli l'Inquinatore di Palmagemma, puoi far perdere 1 punto vita a un gio
   <item>
     <id>LGN0071</id>
     <name>Resti Tetri</name>
-    <text>Sviluppo 1
+    <text>Sviluppo 1 
 All'inizio del tuo mantenimento, se i Resti Tetri sono nel tuo cimitero, puoi pagare {B}{B}{B}. Se lo fai, riprendi in mano i Resti Tetri.</text>
     <flavorText>
     </flavorText>
@@ -564,7 +564,7 @@ All'inizio del tuo mantenimento, se i Resti Tetri sono nel tuo cimitero, puoi pa
   <item>
     <id>LGN0074</id>
     <name>Demone della Distruzione</name>
-    <text>Volare
+    <text>Volare 
 Quando il Demone della Distruzione viene messo in un cimitero dal campo di battaglia, tutte le creature prendono -5/-5 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -572,7 +572,7 @@ Quando il Demone della Distruzione viene messo in un cimitero dal campo di batta
   <item>
     <id>LGN0075</id>
     <name>Spettro Famelico</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta lo Spettro Famelico infligge danno da combattimento a un giocatore, puoi pagare {X}. Se lo fai, quel giocatore rivela X carte dalla propria mano e tu ne scegli una. Quel giocatore scarta quella carta.</text>
     <flavorText>
     </flavorText>
@@ -580,7 +580,7 @@ Ogniqualvolta lo Spettro Famelico infligge danno da combattimento a un giocatore
   <item>
     <id>LGN0076</id>
     <name>Custode Infernale</name>
-    <text>Metamorfosi {3}{B}
+    <text>Metamorfosi {3}{B} 
 Quando il Custode Infernale viene girato a faccia in su, i proprietari riprendono in mano tutte le carte Zombie da tutti i cimiteri.</text>
     <flavorText>
     </flavorText>
@@ -595,8 +595,8 @@ Quando il Custode Infernale viene girato a faccia in su, i proprietari riprendon
   <item>
     <id>LGN0078</id>
     <name>Phage l'Intoccabile</name>
-    <text>Quando Phage l'Intoccabile entra nel campo di battaglia, se non l'hai lanciata dalla tua mano, perdi la partita.
-Ogniqualvolta Phage infligge danno da combattimento a una creatura, distruggi quella creatura. Non può essere rigenerata.
+    <text>Quando Phage l'Intoccabile entra nel campo di battaglia, se non l'hai lanciata dalla tua mano, perdi la partita. 
+Ogniqualvolta Phage infligge danno da combattimento a una creatura, distruggi quella creatura. Non può essere rigenerata. 
 Ogniqualvolta Phage infligge danno da combattimento a un giocatore, quel giocatore perde la partita.</text>
     <flavorText>
     </flavorText>
@@ -604,8 +604,8 @@ Ogniqualvolta Phage infligge danno da combattimento a un giocatore, quel giocato
   <item>
     <id>LGN0079</id>
     <name>Progenie dell'Oscurità</name>
-    <text>Travolgere
-Ogniqualvolta la Progenie dell'Oscurità infligge danno da combattimento a un giocatore, puoi mettere sul campo di battaglia sotto il tuo controllo una carta creatura bersaglio dal cimitero di quel giocatore.
+    <text>Travolgere 
+Ogniqualvolta la Progenie dell'Oscurità infligge danno da combattimento a un giocatore, puoi mettere sul campo di battaglia sotto il tuo controllo una carta creatura bersaglio dal cimitero di quel giocatore. 
 Ciclo {3}</text>
     <flavorText>
     </flavorText>
@@ -613,7 +613,7 @@ Ciclo {3}</text>
   <item>
     <id>LGN0080</id>
     <name>Scuoiatore</name>
-    <text>Metamorfosi {3}{B}{B}
+    <text>Metamorfosi {3}{B}{B} 
 Quando lo Scuoiatore viene girato a faccia in su, distruggi una creatura non nera bersaglio. Non può essere rigenerata.</text>
     <flavorText>
     </flavorText>
@@ -628,7 +628,7 @@ Quando lo Scuoiatore viene girato a faccia in su, distruggi una creatura non ner
   <item>
     <id>LGN0082</id>
     <name>Stormo di Piumafosca</name>
-    <text>Volare
+    <text>Volare 
 Metamorfosi {3}{B}</text>
     <flavorText>
     </flavorText>
@@ -664,8 +664,8 @@ Metamorfosi {3}{B}</text>
   <item>
     <id>LGN0087</id>
     <name>Belva Zombie</name>
-    <text>Sviluppo 1
-Travolgere</text>
+    <text>Sviluppo 1 
+Travolgere </text>
     <flavorText>
     </flavorText>
   </item>
@@ -679,15 +679,15 @@ Travolgere</text>
   <item>
     <id>LGN0089</id>
     <name>Ululatore Cacciasangue</name>
-    <text>Metamorfosi {6}{R}
-Quando l'Ululatore Cacciasangue viene girato a faccia in su, le creature Bestia che controlli prendono +3/+0 fino alla fine del turno.</text>
+    <text>Metamorfosi {6}{R} 
+Quando l'Ululatore Cacciasangue viene girato a faccia in su, le creature Bestia che controlli prendono +3/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0090</id>
     <name>Scattaserpe</name>
-    <text>Rapidità
+    <text>Rapidità 
 Sacrifica un Goblin: Lo Scattaserpe prende +2/+2 e guadagna travolgere fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -695,7 +695,7 @@ Sacrifica un Goblin: Lo Scattaserpe prende +2/+2 e guadagna travolgere fino alla
   <item>
     <id>LGN0091</id>
     <name>Rupecorno Crestato</name>
-    <text>Rapidità
+    <text>Rapidità 
 Provocazione</text>
     <flavorText>
     </flavorText>
@@ -703,7 +703,7 @@ Provocazione</text>
   <item>
     <id>LGN0092</id>
     <name>Evocatore di Ondafuoco</name>
-    <text>{7}{R}: L'Evocatore di Ondafuoco infligge 5 danni a un giocatore bersaglio.</text>
+    <text>{7}{R}: L'Evocatore di Ondafuoco infligge 5 danni a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -717,7 +717,7 @@ Provocazione</text>
   <item>
     <id>LGN0094</id>
     <name>Inceneritore di Palmagemma</name>
-    <text>Ciclo {1}{R}
+    <text>Ciclo {1}{R} 
 Quando cicli l'Inceneritore di Palmagemma, puoi fargli infliggere X danni a una creatura bersaglio, dove X è pari al numero di Goblin nel campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -739,7 +739,7 @@ Quando cicli l'Inceneritore di Palmagemma, puoi fargli infliggere X danni a una 
   <item>
     <id>LGN0097</id>
     <name>Dinamo dei Goblin</name>
-    <text>{T}: La Dinamo dei Goblin infligge 1 danno a una creatura o a un giocatore bersaglio.
+    <text>{T}: La Dinamo dei Goblin infligge 1 danno a una creatura o a un giocatore bersaglio. 
 {X}{R}, {T}, Sacrifica la Dinamo dei Goblin: La Dinamo dei Goblin infligge X danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -754,7 +754,7 @@ Quando cicli l'Inceneritore di Palmagemma, puoi fargli infliggere X danni a una 
   <item>
     <id>LGN0099</id>
     <name>Sicario Goblin</name>
-    <text>Il Sicario Goblin non può attaccare a meno che tu controlli più creature del giocatore in difesa.
+    <text>Il Sicario Goblin non può attaccare a meno che tu controlli più creature del giocatore in difesa. 
 Il Sicario Goblin non può bloccare a meno che tu controlli più creature del giocatore attaccante.</text>
     <flavorText>
     </flavorText>
@@ -783,32 +783,32 @@ Il Sicario Goblin non può bloccare a meno che tu controlli più creature del gi
   <item>
     <id>LGN0103</id>
     <name>Nibbio Infernale Imperiale</name>
-    <text>Volare
-Metamorfosi {6}{R}{R}
-Quando il Nibbio Infernale Imperiale viene girato a faccia in su, puoi passare in rassegna il tuo grimorio, scegliere una carta Drago, rivelarla e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio.</text>
+    <text>Volare 
+Metamorfosi {6}{R}{R} 
+Quando il Nibbio Infernale Imperiale viene girato a faccia in su, puoi passare in rassegna il tuo grimorio, scegliere una carta Drago, rivelarla e aggiungerla alla tua mano. Se lo fai, rimescola il tuo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0104</id>
     <name>Drago Pirofauce</name>
-    <text>Sviluppo 3
-Volare
-{T} : Il Drago Pirofauce infligge un danno pari al numero di segnalini +1/+1 presenti su di esso a una creatura o a un giocatore bersaglio.</text>
+    <text>Sviluppo 3 
+Volare 
+{T} : Il Drago Pirofauce infligge un danno pari al numero di segnalini +1/+1 presenti su di esso a una creatura o a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0105</id>
     <name>Musa Pirogena</name>
-    <text>All'inizio del mantenimento di ogni avversario, se quel giocatore ha due o meno carte in mano, la Musa Pirogena gli infligge 3 danni.</text>
+    <text>All'inizio del mantenimento di ogni avversario, se quel giocatore ha due o meno carte in mano, la Musa Pirogena gli infligge 3 danni. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0106</id>
     <name>Istricodonte Codamazza</name>
-    <text>Attacco improvviso, rapidità
+    <text>Attacco improvviso, rapidità 
 Ciclo {3}</text>
     <flavorText>
     </flavorText>
@@ -830,7 +830,7 @@ Ciclo {3}</text>
   <item>
     <id>LGN0109</id>
     <name>Elementale Scheggiaroccia</name>
-    <text>Doppio attacco (Questa creatura infligge sia il danno da attacco improvviso sia il normale danno da combattimento).
+    <text>Doppio attacco (Questa creatura infligge sia il danno da attacco improvviso sia il normale danno da combattimento). 
 Metamorfosi {4}{R}{R}</text>
     <flavorText>
     </flavorText>
@@ -838,7 +838,7 @@ Metamorfosi {4}{R}{R}</text>
   <item>
     <id>LGN0110</id>
     <name>Fenditerra Pellescisto</name>
-    <text>Metamorfosi {4}{R}
+    <text>Metamorfosi {4}{R} 
 Quando il Fenditerra Pellescisto viene girato a faccia in su, distruggi una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -846,7 +846,7 @@ Quando il Fenditerra Pellescisto viene girato a faccia in su, distruggi una terr
   <item>
     <id>LGN0111</id>
     <name>Allarmista di Skirk</name>
-    <text>Rapidità
+    <text>Rapidità 
 {T}: Gira a faccia in su una creatura bersaglio a faccia in giù che controlli. All'inizio della prossima sottofase finale, sacrificala.</text>
     <flavorText>
     </flavorText>
@@ -861,7 +861,7 @@ Quando il Fenditerra Pellescisto viene girato a faccia in su, distruggi una terr
   <item>
     <id>LGN0113</id>
     <name>Uccisore di Skirk</name>
-    <text>Metamorfosi {2}{R}
+    <text>Metamorfosi {2}{R} 
 Quando l'Uccisore di Skirk viene girato a faccia in su, infligge 2 danni a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -876,7 +876,7 @@ Quando l'Uccisore di Skirk viene girato a faccia in su, infligge 2 danni a una c
   <item>
     <id>LGN0115</id>
     <name>Bestione Instabile</name>
-    <text>Metamorfosi {3}{R}{R}
+    <text>Metamorfosi {3}{R}{R} 
 Quando il Bestione Instabile viene girato a faccia in su, prende +6/+6 e guadagna travolgere fino alla fine del turno. Salta il tuo prossimo turno.</text>
     <flavorText>
     </flavorText>
@@ -884,7 +884,7 @@ Quando il Bestione Instabile viene girato a faccia in su, prende +6/+6 e guadagn
   <item>
     <id>LGN0116</id>
     <name>Trombettiere Belligerante</name>
-    <text>Metamorfosi {X}{X}{R}
+    <text>Metamorfosi {X}{X}{R} 
 Quando il Trombettiere Belligerante viene girato a faccia in su, metti sul campo di battaglia X pedine creatura Goblin 1/1 rosse.</text>
     <flavorText>
     </flavorText>
@@ -899,15 +899,15 @@ Quando il Trombettiere Belligerante viene girato a faccia in su, metti sul campo
   <item>
     <id>LGN0118</id>
     <name>Bradipode Spezzaramo</name>
-    <text>Travolgere
-Metamorfosi {G}</text>
+    <text>Travolgere 
+Metamorfosi {G} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0119</id>
     <name>Brontoterio</name>
-    <text>Travolgere
+    <text>Travolgere 
 Provocazione</text>
     <flavorText>
     </flavorText>
@@ -922,7 +922,7 @@ Provocazione</text>
   <item>
     <id>LGN0121</id>
     <name>Convocatore dell'Artiglio</name>
-    <text>Lampo
+    <text>Lampo 
 Quando il Convocatore dell'Artiglio entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Orso 2/2 verde per ogni creatura non pedina finita nel tuo cimitero dal campo di battaglia in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -930,8 +930,8 @@ Quando il Convocatore dell'Artiglio entra nel campo di battaglia, metti sul camp
   <item>
     <id>LGN0122</id>
     <name>Strisciante delle Fronde</name>
-    <text>Sviluppo 1
-{T} : La creatura bersaglio prende +1/+1 fino alla fine del turno per ogni segnalino +1/+1 presente sullo Strisciante delle Fronde.</text>
+    <text>Sviluppo 1 
+{T} : La creatura bersaglio prende +1/+1 fino alla fine del turno per ogni segnalino +1/+1 presente sullo Strisciante delle Fronde. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -960,15 +960,15 @@ Quando il Convocatore dell'Artiglio entra nel campo di battaglia, metti sul camp
   <item>
     <id>LGN0126</id>
     <name>Belva Regredita</name>
-    <text>Sviluppo 2
-Provocazione</text>
+    <text>Sviluppo 2 
+Provocazione </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0127</id>
     <name>Viandante Palmagemma</name>
-    <text>Ciclo {2}{G}{G}
+    <text>Ciclo {2}{G}{G} 
 Quando usi l'abilità ciclo del Viandante Palmagemma, le creature Elfo prendono +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -976,7 +976,7 @@ Quando usi l'abilità ciclo del Viandante Palmagemma, le creature Elfo prendono 
   <item>
     <id>LGN0128</id>
     <name>Rogon Bieco</name>
-    <text>Sviluppo 1</text>
+    <text>Sviluppo 1 </text>
     <flavorText>
     </flavorText>
   </item>
@@ -990,7 +990,7 @@ Quando usi l'abilità ciclo del Viandante Palmagemma, le creature Elfo prendono 
   <item>
     <id>LGN0130</id>
     <name>Grattanubi di Krosa</name>
-    <text>All'inizio del tuo mantenimento, sacrifica il Grattanubi di Krosa a meno che non paghi {G}{G}.
+    <text>All'inizio del tuo mantenimento, sacrifica il Grattanubi di Krosa a meno che non paghi {G}{G}. 
 Metamorfosi {7}{G}{G} (Puoi lanciare questa carta a faccia in giù come una creatura 2/2 pagando . Girala a faccia in su in qualsiasi momento pagando il suo costo di metamorfosi.)</text>
     <flavorText>
     </flavorText>
@@ -998,14 +998,15 @@ Metamorfosi {7}{G}{G} (Puoi lanciare questa carta a faccia in giù come una crea
   <item>
     <id>LGN0131</id>
     <name>Voroso di Krosa</name>
-    <text>Provocazione; Il Voroso di Krosa non può essere bloccato da più di una creatura.</text>
+    <text>Provocazione
+Il Voroso di Krosa non può essere bloccato da più di una creatura.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LGN0132</id>
     <name>Vigilante Nantuko</name>
-    <text>Metamorfosi {1}{G}
+    <text>Metamorfosi {1}{G} 
 Quando il Vigilante Nantuko viene girato a faccia in su, distruggi un artefatto o un incantesimo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1020,7 +1021,7 @@ Quando il Vigilante Nantuko viene girato a faccia in su, distruggi un artefatto 
   <item>
     <id>LGN0134</id>
     <name>Patrono della Selva</name>
-    <text>Metamorfosi {2}{G}
+    <text>Metamorfosi {2}{G} 
 Quando il Patrono della Selva viene girato a faccia in su, una creatura bersaglio prende +3/+3 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1028,7 +1029,7 @@ Quando il Patrono della Selva viene girato a faccia in su, una creatura bersagli
   <item>
     <id>LGN0135</id>
     <name>Sussurratore Primordiale</name>
-    <text>Il Sussurratore Primordiale prende +2/+2 per ogni creatura a faccia in giù sul campo di battaglia.
+    <text>Il Sussurratore Primordiale prende +2/+2 per ogni creatura a faccia in giù sul campo di battaglia. 
 Metamorfosi {3}{G}</text>
     <flavorText>
     </flavorText>
@@ -1036,7 +1037,7 @@ Metamorfosi {3}{G}</text>
   <item>
     <id>LGN0136</id>
     <name>Tramutante Rapido</name>
-    <text>Lampo
+    <text>Lampo 
 Qualsiasi giocatore può giocare le carte Tramutante come se avessero lampo.</text>
     <flavorText>
     </flavorText>
@@ -1044,7 +1045,7 @@ Qualsiasi giocatore può giocare le carte Tramutante come se avessero lampo.</te
   <item>
     <id>LGN0137</id>
     <name>Tramutante Radice</name>
-    <text>Il Tramutante Radice non può essere neutralizzato.
+    <text>Il Tramutante Radice non può essere neutralizzato. 
 Le magie Tramutante non possono essere neutralizzate da magie o abilità.</text>
     <flavorText>
     </flavorText>
@@ -1052,7 +1053,7 @@ Le magie Tramutante non possono essere neutralizzate da magie o abilità.</text>
   <item>
     <id>LGN0138</id>
     <name>Musa Semigena</name>
-    <text>STAPpa tutti i permanenti che controlli durante lo STAP di ogni altro giocatore.</text>
+    <text>STAPpa tutti i permanenti che controlli durante lo STAP di ogni altro giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1080,7 +1081,7 @@ Le magie Tramutante non possono essere neutralizzate da magie o abilità.</text>
   <item>
     <id>LGN0142</id>
     <name>Mago della Forza Tribale</name>
-    <text>Metamorfosi {1}{G}
+    <text>Metamorfosi {1}{G} 
 Quando il Mago della Forza Tribale viene girato a faccia in su, le creature di un tipo a tua scelta prendono +2/+2 e guadagnano travolgere fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1088,7 +1089,7 @@ Quando il Mago della Forza Tribale viene girato a faccia in su, le creature di u
   <item>
     <id>LGN0143</id>
     <name>Coleottero Vessatore</name>
-    <text>Il Coleottero Vessatore non può essere neutralizzato.
+    <text>Il Coleottero Vessatore non può essere neutralizzato. 
 Il Coleottero Vessatore prende +3/+3 fintanto che nessun avversario controlla una creatura.</text>
     <flavorText>
     </flavorText>

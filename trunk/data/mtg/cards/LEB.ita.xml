@@ -9,23 +9,23 @@
   <item>
     <id>LEB0002</id>
     <name>Richiamo Ancestrale</name>
-    <text>Un giocatore bersaglio pesca tre carte.</text>
+    <text>Un giocatore bersaglio pesca tre carte. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0003</id>
     <name>Animare Artefatto</name>
-    <text>Incanta artefatto
-Fintanto che l'artefatto incantato non è una creatura, è una creatura artefatto con forza e costituzione pari ciascuna al suo costo di mana convertito.</text>
+    <text>Incanta artefatto 
+Fintanto che l'artefatto incantato non è una creatura, è una creatura artefatto con forza e costituzione pari ciascuna al suo costo di mana convertito. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0004</id>
     <name>Animare i Morti</name>
-    <text>Incanta carta creatura in un cimitero
-Quando Animare i Morti entra nel campo di battaglia, se è sul campo di battaglia, perde "incanta carta creatura in un cimitero" e guadagna "incanta creatura messa sul campo di battaglia con Animare i Morti". Rimetti sul campo di battaglia sotto il tuo controllo la carta creatura incantata e assegna ad essa Animare i Morti. Quando Animare i Morti lascia il  campo di battaglia, il controllore di quella creatura la sacrifica.
+    <text>Incanta carta creatura in un cimitero 
+Quando Animare i Morti entra nel campo di battaglia, se è sul campo di battaglia, perde "incanta carta creatura in un cimitero" e guadagna "incanta creatura messa sul campo di battaglia con Animare i Morti". Rimetti sul campo di battaglia sotto il tuo controllo la carta creatura incantata e assegna ad essa Animare i Morti. Quando Animare i Morti lascia il  campo di battaglia, il controllore di quella creatura la sacrifica. 
 La creatura incantata prende -1/-0.</text>
     <flavorText>
     </flavorText>
@@ -33,8 +33,8 @@ La creatura incantata prende -1/-0.</text>
   <item>
     <id>LEB0005</id>
     <name>Animare i Muri</name>
-    <text>Incanta Muro
-Il Muro incantato può attaccare come se non avesse difensore.</text>
+    <text>Incanta Muro 
+Il Muro incantato può attaccare come se non avesse difensore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -55,7 +55,7 @@ Il Muro incantato può attaccare come se non avesse difensore.</text>
   <item>
     <id>LEB0008</id>
     <name>Aspetto del Lupo</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +X/+Y, dove X è la metà del numero di Foreste che controlli, arrotondato per difetto, e Y è la metà del numero di Foreste che controlli, arrotondato per eccesso.</text>
     <flavorText>
     </flavorText>
@@ -63,31 +63,30 @@ La creatura incantata prende +X/+Y, dove X è la metà del numero di Foreste che
   <item>
     <id>LEB0009</id>
     <name>Luna Nera</name>
-    <text>Le creature nere prendono +1/+1.</text>
+    <text>Le creature nere prendono +1/+1. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0010</id>
     <name>Malaterra</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0011</id>
     <name>Bilancia dell'Equilibrio</name>
-    <text>Ogni giocatore sceglie un numero di terre che controlla pari al numero di terre controllate dal giocatore che ne controlla di meno, poi sacrifica le rimanenti. I giocatori scartano le carte e sacrificano le creature allo stesso modo.</text>
+    <text>Ogni giocatore sceglie un numero di terre che controlla pari al numero di terre controllate dal giocatore che ne controlla di meno, poi sacrifica le rimanenti. I giocatori scartano le carte e sacrificano le creature allo stesso modo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0012</id>
     <name>Monolito di Basalto</name>
-    <text>Il Monolito di Basalto non STAPpa durante il tuo STAP.
-{3}: STAPpa il Monolito di Basalto.
-{T}: Aggiungi {3} alla tua riserva di mana.</text>
+    <text>Il Monolito di Basalto non STAPpa durante il tuo STAP. 
+{3}: STAPpa il Monolito di Basalto. 
+{T}: Aggiungi {3} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -102,14 +101,14 @@ La creatura incantata prende +X/+Y, dove X è la metà del numero di Foreste che
   <item>
     <id>LEB0014</id>
     <name>Eroina di Benalia</name>
-    <text>Branco</text>
+    <text>Branco </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0015</id>
     <name>Berserk</name>
-    <text>Lancia il Berserk solo prima della sottofase del danno da combattimento.
+    <text>Lancia il Berserk solo prima della sottofase del danno da combattimento. 
 La creatura bersaglio guadagna travolgere e prende +X/+0 fino alla fine del turno, dove X è pari alla sua forza. All'inizio della prossima sottofase finale, distruggi quella creatura se ha attaccato in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -117,7 +116,7 @@ La creatura bersaglio guadagna travolgere e prende +X/+0 fino alla fine del turn
   <item>
     <id>LEB0016</id>
     <name>Uccelli del Paradiso</name>
-    <text>Volare
+    <text>Volare 
 {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -125,8 +124,8 @@ La creatura bersaglio guadagna travolgere e prende +X/+0 fino alla fine del turn
   <item>
     <id>LEB0017</id>
     <name>Cavaliere Nero</name>
-    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)
-Protezione dal bianco (Questa creatura non può essere bloccata, bersagliata, non le può essere inflitto danno, né può essere incantata da nulla di bianco.)</text>
+    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.) 
+Protezione dal bianco (Questa creatura non può essere bloccata, bersagliata, non le può essere inflitto danno, né può essere incantata da nulla di bianco.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -140,7 +139,7 @@ Protezione dal bianco (Questa creatura non può essere bloccata, bersagliata, no
   <item>
     <id>LEB0019</id>
     <name>Morsa Maledetta</name>
-    <text>Mentre la Morsa Maledetta entra nel campo di battaglia, scegli un avversario.
+    <text>Mentre la Morsa Maledetta entra nel campo di battaglia, scegli un avversario. 
 All'inizio del mantenimento del giocatore scelto, la Morsa Maledetta infligge X danni a quel giocatore, dove X è pari al numero di carte che ha nella sua mano meno 4.</text>
     <flavorText>
     </flavorText>
@@ -148,7 +147,7 @@ All'inizio del mantenimento del giocatore scelto, la Morsa Maledetta infligge X 
   <item>
     <id>LEB0020</id>
     <name>Sigillo Nero</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha protezione dal nero. Questo effetto non rimuove il Sigillo Nero.</text>
     <flavorText>
     </flavorText>
@@ -163,7 +162,7 @@ La creatura incantata ha protezione dal nero. Questo effetto non rimuove il Sigi
   <item>
     <id>LEB0022</id>
     <name>Benedizione</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {W}: La creatura incantata prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -178,7 +177,7 @@ La creatura incantata ha protezione dal nero. Questo effetto non rimuove il Sigi
   <item>
     <id>LEB0024</id>
     <name>Sigillo Blu</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata guadagna protezione dal blu. Questo effetto non rimuove il Sigillo Blu.</text>
     <flavorText>
     </flavorText>
@@ -186,7 +185,7 @@ La creatura incantata guadagna protezione dal blu. Questo effetto non rimuove il
   <item>
     <id>LEB0025</id>
     <name>Necrospettro delle Paludi</name>
-    <text>Passa-Paludi (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla una Palude.)</text>
+    <text>Passa-Paludi (Questa creatura non può essere bloccata fintanto che il giocatore in difesa controlla una Palude.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -200,7 +199,7 @@ La creatura incantata guadagna protezione dal blu. Questo effetto non rimuove il
   <item>
     <id>LEB0027</id>
     <name>Scavagallerie</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha passa-montagne.</text>
     <flavorText>
     </flavorText>
@@ -208,7 +207,7 @@ La creatura incantata ha passa-montagne.</text>
   <item>
     <id>LEB0028</id>
     <name>Camouflage</name>
-    <text>Lancia Camouflage solo durante la dichiarazione degli attaccanti.
+    <text>Lancia Camouflage solo durante la dichiarazione degli attaccanti. 
 In questo turno, anziché dichiarare i bloccanti, il giocatore in difesa sceglie un qualsiasi numero di creature che controlla e le divide in un numero di pile pari al numero di creature attaccanti. Assegna ciascuna pila a una differente creatura attaccante a caso, e ogni creatura di quella pila in grado di bloccare la creatura attaccante lo fa. (Le pile possono essere vuote.)</text>
     <flavorText>
     </flavorText>
@@ -216,7 +215,7 @@ In questo turno, anziché dichiarare i bloccanti, il giocatore in difesa sceglie
   <item>
     <id>LEB0029</id>
     <name>Castello</name>
-    <text>Le creature STAPpate che controlli prendono +0/+2.</text>
+    <text>Le creature STAPpate che controlli prendono +0/+2. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -237,7 +236,7 @@ In questo turno, anziché dichiarare i bloccanti, il giocatore in difesa sceglie
   <item>
     <id>LEB0032</id>
     <name>Globo del Caos</name>
-    <text>{1},{T} : Se il Globo del Caos è nel campo di battaglia, lancia il Globo del Caos sul campo di battaglia da un'altezza di almeno 1 piede (circa 30 cm). Se il Globo del Caos gira completamente almeno una volta durante il lancio, distruggi tutti i permanenti che tocca. Poi distruggi il Globo del Caos. [Oracle 2001/08/24]</text>
+    <text>{1},{T} : Se il Globo del Caos è nel campo di battaglia, lancia il Globo del Caos sul campo di battaglia da un'altezza di almeno 1 piede (circa 30 cm). Se il Globo del Caos gira completamente almeno una volta durante il lancio, distruggi tutti i permanenti che tocca. Poi distruggi il Globo del Caos. Oracle 2001/08/24</text>
     <flavorText>
     </flavorText>
   </item>
@@ -286,8 +285,8 @@ In questo turno, anziché dichiarare i bloccanti, il giocatore in difesa sceglie
   <item>
     <id>LEB0039</id>
     <name>Bestia Meccanica</name>
-    <text>La Bestia Meccanica entra nel campo di battaglia con sette segnalini +1/+0 su di essa.
-Alla fine del combattimento, se la Bestia Meccanica ha attaccato o bloccato in questo combattimento, rimuovi un segnalino +1/+0 da essa.
+    <text>La Bestia Meccanica entra nel campo di battaglia con sette segnalini +1/+0 su di essa. 
+Alla fine del combattimento, se la Bestia Meccanica ha attaccato o bloccato in questo combattimento, rimuovi un segnalino +1/+0 da essa. 
 {X},{T}: Metti fino a X segnalini +1/+0 sulla Bestia Meccanica. Questa abilità non può far sì che il numero complessivo di segnalini +1/+0 sulla Bestia Meccanica sia superiore a sette. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -302,16 +301,16 @@ Alla fine del combattimento, se la Bestia Meccanica ha attaccato o bloccato in q
   <item>
     <id>LEB0041</id>
     <name>Coccatrice</name>
-    <text>Volare
-Ogniqualvolta la Coccatrice blocca o viene bloccata da una creatura non Muro, distruggi quella creatura alla fine del combattimento.</text>
+    <text>Volare 
+Ogniqualvolta la Coccatrice blocca o viene bloccata da una creatura non Muro, distruggi quella creatura alla fine del combattimento. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0042</id>
     <name>Terra Consacrata</name>
-    <text>Incanta terra
-La terra incantata è indistruttibile e non può essere incantata da altre Aura.</text>
+    <text>Incanta terra 
+La terra incantata è indistruttibile e non può essere incantata da altre Aura. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -325,7 +324,7 @@ La terra incantata è indistruttibile e non può essere incantata da altre Aura.
   <item>
     <id>LEB0044</id>
     <name>Contratto con gli Abissi</name>
-    <text>Rimuovi questa carta dal tuo mazzo prima della partita, se non giochi per la posta.
+    <text>Rimuovi questa carta dal tuo mazzo prima della partita, se non giochi per la posta. 
 Scarta la tua mano, aggiungi alla posta la prima carta del tuo grimorio, poi pesca sette carte.</text>
     <flavorText>
     </flavorText>
@@ -333,7 +332,7 @@ Scarta la tua mano, aggiungi alla posta la prima carta del tuo grimorio, poi pes
   <item>
     <id>LEB0045</id>
     <name>Controlla Creatura</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Tu controlli la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -341,7 +340,7 @@ Tu controlli la creatura incantata.</text>
   <item>
     <id>LEB0046</id>
     <name>Mutazione Geomorfica</name>
-    <text>All'inizio del tuo mantenimento, sacrifica la Mutazione Geomorfica a meno che tu paghi {W}{W}.
+    <text>All'inizio del tuo mantenimento, sacrifica la Mutazione Geomorfica a meno che tu paghi {W}{W}. 
 Tutte le Montagne sono Pianure.</text>
     <flavorText>
     </flavorText>
@@ -349,36 +348,35 @@ Tutte le Montagne sono Pianure.</text>
   <item>
     <id>LEB0047</id>
     <name>Tavoletta di Rame</name>
-    <text>All'inizio del mantenimento di ogni giocatore, la Tavoletta di Rame infligge 1 danno a quel giocatore.</text>
+    <text>All'inizio del mantenimento di ogni giocatore, la Tavoletta di Rame infligge 1 danno a quel giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0048</id>
     <name>Copia Artefatto</name>
-    <text>Mentre il Copia Artefatto entra nel campo di battaglia, puoi scegliere un artefatto sul campo di battaglia. Se lo fai, il Copia Artefatto entra nel campo di battaglia come una copia di quell'artefatto. E' ancora un incantesimo. [Oracle 2001/08/24]</text>
+    <text>Mentre il Copia Artefatto entra nel campo di battaglia, puoi scegliere un artefatto sul campo di battaglia. Se lo fai, il Copia Artefatto entra nel campo di battaglia come una copia di quell'artefatto. E' ancora un incantesimo. Oracle 2001/08/24</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0049</id>
     <name>Contromagia</name>
-    <text>Neutralizza una magia bersaglio.</text>
+    <text>Neutralizza una magia bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0050</id>
     <name>Wurm Devastatore</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0051</id>
     <name>Legame Empatico</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Quando la creatura incantata viene messa in un cimitero, il Legame Empatico infligge al controllore della creatura un danno pari alla costituzione di quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -386,7 +384,7 @@ Quando la creatura incantata viene messa in un cimitero, il Legame Empatico infl
   <item>
     <id>LEB0052</id>
     <name>Crociata</name>
-    <text>Le creature bianche prendono +1/+1.</text>
+    <text>Le creature bianche prendono +1/+1. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -400,7 +398,7 @@ Quando la creatura incantata viene messa in un cimitero, il Legame Empatico infl
   <item>
     <id>LEB0054</id>
     <name>Terra Maledetta</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 All'inizio del mantenimento del controllore della terra incantata, la Terra Maledetta infligge 1 danno a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -408,7 +406,7 @@ All'inizio del mantenimento del controllore della terra incantata, la Terra Male
   <item>
     <id>LEB0055</id>
     <name>Tomba dei Ciclopi</name>
-    <text>{2},{T}: Metti un segnalino melma su una terra bersaglio che non sia una Palude. Quella terra è una Palude fintanto che ha un segnalino melma su di essa. Attiva questa abilità soltanto durante il tuo mantenimento.
+    <text>{2},{T}: Metti un segnalino melma su una terra bersaglio che non sia una Palude. Quella terra è una Palude fintanto che ha un segnalino melma su di essa. Attiva questa abilità soltanto durante il tuo mantenimento. 
 Quando la Tomba dei Ciclopi viene messa in un cimitero dal campo di battaglia, all'inizio di ogni tuo mantenimento e per il resto della partita, rimuovi tutti i segnalini melma da una terra sulla quale è stato messo un segnalino melma con la Tomba dei Ciclopi ma dalla quale non è stato rimosso un segnalino melma dalla Tomba dei Ciclopi.</text>
     <flavorText>
     </flavorText>
@@ -416,22 +414,22 @@ Quando la Tomba dei Ciclopi viene messa in un cimitero dal campo di battaglia, a
   <item>
     <id>LEB0056</id>
     <name>Rito Oscuro</name>
-    <text>Aggiungi {B}{B}{B} alla tua riserva di mana.</text>
+    <text>Aggiungi {B}{B}{B} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0057</id>
     <name>Patto con le Tenebre</name>
-    <text>Rimuovi questa carta dal tuo mazzo prima della partita se non giochi per la posta.
-Prendi la proprietà della carta bersaglio nella posta. Scambia quella carta con la prima carta in cima al tuo grimorio.</text>
+    <text>Rimuovi questa carta dal tuo mazzo prima della partita se non giochi per la posta. 
+Prendi la proprietà della carta bersaglio nella posta. Scambia quella carta con la prima carta in cima al tuo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0058</id>
     <name>Sigillo della Morte</name>
-    <text>Rigenera la creatura bersaglio.</text>
+    <text>Rigenera la creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -452,15 +450,15 @@ Prendi la proprietà della carta bersaglio nella posta. Scambia quella carta con
   <item>
     <id>LEB0061</id>
     <name>Avvocato del Diavolo</name>
-    <text>Rimuovi questa carta dal tuo mazzo prima della partita se non giochi per la posta.
-Ogni giocatore aggiunge alla posta la prima carta del proprio grimorio.</text>
+    <text>Rimuovi questa carta dal tuo mazzo prima della partita se non giochi per la posta. 
+Ogni giocatore aggiunge alla posta la prima carta del proprio grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0062</id>
     <name>Orde Demoniache</name>
-    <text>{T}: Distruggi una terra bersaglio.
+    <text>{T}: Distruggi una terra bersaglio. 
 All'inizio del tuo mantenimento, a meno che tu paghi {B}{B}{B}, TAPpa le Orde Demoniache e sacrifica una terra a scelta di un avversario.</text>
     <flavorText>
     </flavorText>
@@ -482,7 +480,7 @@ All'inizio del tuo mantenimento, a meno che tu paghi {B}{B}{B}, TAPpa le Orde De
   <item>
     <id>LEB0065</id>
     <name>Disincantare</name>
-    <text>Distruggi un artefatto o un incantesimo bersaglio.</text>
+    <text>Distruggi un artefatto o un incantesimo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -503,7 +501,7 @@ All'inizio del tuo mantenimento, a meno che tu paghi {B}{B}{B}, TAPpa le Orde De
   <item>
     <id>LEB0068</id>
     <name>Cucciolo di Drago</name>
-    <text>Volare
+    <text>Volare 
 {R}: Il Cucciolo di Drago prende +1/+0 fino alla fine del turno. Se questa abilità è stata attivata quattro o più volte in questo turno, sacrifica il Cucciolo di Drago all'inizio della prossima sottofase finale.</text>
     <flavorText>
     </flavorText>
@@ -511,7 +509,7 @@ All'inizio del tuo mantenimento, a meno che tu paghi {B}{B}{B}, TAPpa le Orde De
   <item>
     <id>LEB0069</id>
     <name>Risucchia Vita</name>
-    <text>Spendi solo mana nero per X.
+    <text>Spendi solo mana nero per X. 
 Il Risucchia Vita infligge X danni a una creatura o un giocatore bersaglio. Tu guadagni punti vita pari al danno inflitto, ma non più dei punti vita totali di quel giocatore prima che il Risucchia Vita gli infliggesse danno o della costituzione di quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -526,7 +524,7 @@ Il Risucchia Vita infligge X danni a una creatura o un giocatore bersaglio. Tu g
   <item>
     <id>LEB0071</id>
     <name>Scheletri Maledetti</name>
-    <text>{B}: Rigenera gli Scheletri Maledetti. (La prossima volta che questa creatura sta per essere distrutta in questo turno, non viene distrutta. Invece TAPpala, rimuovi da essa tutto il danno e rimuovila dal combattimento.)</text>
+    <text>{B}: Rigenera gli Scheletri Maledetti. (La prossima volta che questa creatura sta per essere distrutta in questo turno, non viene distrutta. Invece TAPpala, rimuovi da essa tutto il danno e rimuovila dal combattimento.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -547,15 +545,14 @@ Il Risucchia Vita infligge X danni a una creatura o un giocatore bersaglio. Tu g
   <item>
     <id>LEB0074</id>
     <name>Elementale della Terra</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0075</id>
     <name>Tentacoli della Terra</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Quando i Tentacoli della Terra entrano nel campo di battaglia, se la creatura incantata ha volare, i Tentacoli della Terra infliggono 2 danni a quella creatura e i Tentacoli della Terra guadagnano "La creatura incantata perde volare".</text>
     <flavorText>
     </flavorText>
@@ -563,21 +560,21 @@ Quando i Tentacoli della Terra entrano nel campo di battaglia, se la creatura in
   <item>
     <id>LEB0076</id>
     <name>Terremoto</name>
-    <text>Il Terremoto infligge X danni a ogni creatura senza volare e a ogni giocatore.</text>
+    <text>Il Terremoto infligge X danni a ogni creatura senza volare e a ogni giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0077</id>
     <name>Arcieri Elfici</name>
-    <text>Attacco improvviso</text>
+    <text>Attacco improvviso </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0078</id>
     <name>Presenza Malefica</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata è una Palude.</text>
     <flavorText>
     </flavorText>
@@ -585,7 +582,7 @@ La terra incantata è una Palude.</text>
   <item>
     <id>LEB0079</id>
     <name>False Orders</name>
-    <text>Lancia i False Orders soltanto durante la dichiarazione delle difesa.
+    <text>Lancia i False Orders soltanto durante la dichiarazione delle difesa. 
 Rimuovi dal combattimento una creatura bersaglio controllata dal giocatore in difesa. Le creature che essa bloccava, e che non erano bloccate da altre creature in questo combattimento, diventano non bloccate. Puoi metterla a bloccare una creatura attaccante a tua scelta.</text>
     <flavorText>
     </flavorText>
@@ -593,7 +590,7 @@ Rimuovi dal combattimento una creatura bersaglio controllata dal giocatore in di
   <item>
     <id>LEB0080</id>
     <name>Fattoria</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata ha "All'inizio del tuo mantenimento, puoi pagare {W}{W}. Se lo fai, guadagni 1 punto vita."</text>
     <flavorText>
     </flavorText>
@@ -601,7 +598,7 @@ La terra incantata ha "All'inizio del tuo mantenimento, puoi pagare {W}{W}. Se l
   <item>
     <id>LEB0081</id>
     <name>Legame Rapido</name>
-    <text>Puoi giocare un qualsiasi numero di terre addizionali in ciascuno dei tuoi turni.
+    <text>Puoi giocare un qualsiasi numero di terre addizionali in ciascuno dei tuoi turni. 
 Ogniqualvolta giochi una terra, se non era la prima terra giocata in questo turno, il Legame Rapido ti infligge 1 danno.</text>
     <flavorText>
     </flavorText>
@@ -609,7 +606,7 @@ Ogniqualvolta giochi una terra, se non era la prima terra giocata in questo turn
   <item>
     <id>LEB0082</id>
     <name>Paura</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha paura. (Non può essere bloccata tranne che dalle creature artefatto e/o dalle creature nere.)</text>
     <flavorText>
     </flavorText>
@@ -617,7 +614,7 @@ La creatura incantata ha paura. (Non può essere bloccata tranne che dalle creat
   <item>
     <id>LEB0083</id>
     <name>Feedback</name>
-    <text>Incanta incantesimo
+    <text>Incanta incantesimo 
 All'inizio del mantenimento del controllore dell'incantesimo incantato, il Feedback infligge 1 danno a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -625,15 +622,14 @@ All'inizio del mantenimento del controllore dell'incantesimo incantato, il Feedb
   <item>
     <id>LEB0084</id>
     <name>Elementale del Fuoco</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0085</id>
     <name>Palla di Fuoco</name>
-    <text>La Palla di Fuoco infligge X danni suddivisi equamente, arrotondati per difetto, tra un qualsiasi numero di creature e/o giocatori bersaglio.
+    <text>La Palla di Fuoco infligge X danni suddivisi equamente, arrotondati per difetto, tra un qualsiasi numero di creature e/o giocatori bersaglio. 
 La Palla di Fuoco costa {1} in più per essere lanciata per ogni bersaglio oltre il primo.</text>
     <flavorText>
     </flavorText>
@@ -641,7 +637,7 @@ La Palla di Fuoco costa {1} in più per essere lanciata per ogni bersaglio oltre
   <item>
     <id>LEB0086</id>
     <name>Soffio del Drago</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {R}: La creatura incantata prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -649,29 +645,29 @@ La Palla di Fuoco costa {1} in più per essere lanciata per ogni bersaglio oltre
   <item>
     <id>LEB0087</id>
     <name>Incendio</name>
-    <text>Distruggi tutte le Pianure.</text>
+    <text>Distruggi tutte le Pianure. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0088</id>
     <name>Volare</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
-La creatura incantata ha volare. (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.)</text>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
+La creatura incantata ha volare. (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0089</id>
     <name>Nebbia</name>
-    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0090</id>
     <name>Forza della Natura</name>
-    <text>Travolgere
+    <text>Travolgere 
 All'inizio del tuo mantenimento, la Forza della Natura ti infligge 8 danni a meno che tu paghi {G}{G}{G}{G}.</text>
     <flavorText>
     </flavorText>
@@ -707,7 +703,7 @@ All'inizio del tuo mantenimento, la Forza della Natura ti infligge 8 danni a men
   <item>
     <id>LEB0095</id>
     <name>Duplicatore</name>
-    <text>Copia una magia stregoneria o istantaneo bersaglio, tranne che la copia è rossa. Puoi scegliere nuovi bersagli per la copia.</text>
+    <text>Copia una magia stregoneria o istantaneo bersaglio, tranne che la copia è rossa. Puoi scegliere nuovi bersagli per la copia. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -721,14 +717,14 @@ All'inizio del tuo mantenimento, la Forza della Natura ti infligge 8 danni a men
   <item>
     <id>LEB0097</id>
     <name>Fungosauro</name>
-    <text>Ogniqualvolta viene inflitto danno al Fungosauro, metti un segnalino +1/+1 su di esso.</text>
+    <text>Ogniqualvolta viene inflitto danno al Fungosauro, metti un segnalino +1/+1 su di esso. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0098</id>
     <name>Vassallo di Gea</name>
-    <text>La forza e la costituzione del Vassallo di Gea sono pari al numero di Foreste che controlli. Fintanto che il Vassallo di Gea attacca, la sua forza e la sua costituzione sono invece pari al numero di Foreste controllate dal giocatore in difesa.
+    <text>La forza e la costituzione del Vassallo di Gea sono pari al numero di Foreste che controlli. Fintanto che il Vassallo di Gea attacca, la sua forza e la sua costituzione sono invece pari al numero di Foreste controllate dal giocatore in difesa. 
 {T}: Una terra bersaglio diventa una Foresta fino a che il Vassallo di Gea lascia il campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -736,7 +732,7 @@ All'inizio del tuo mantenimento, la Forza della Natura ti infligge 8 danni a men
   <item>
     <id>LEB0099</id>
     <name>Magli del Potere</name>
-    <text>Le creature rosse prendono +1/+1.
+    <text>Le creature rosse prendono +1/+1. 
 Ogniqualvolta una Montagna viene TAPpata per attingere mana, il suo controllore aggiunge {R} alla propria riserva di mana (in aggiunta al mana prodotto dalla terra).</text>
     <flavorText>
     </flavorText>
@@ -751,7 +747,7 @@ Ogniqualvolta una Montagna viene TAPpata per attingere mana, il suo controllore 
   <item>
     <id>LEB0101</id>
     <name>Ragno Gigante</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)</text>
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -765,7 +761,7 @@ Ogniqualvolta una Montagna viene TAPpata per attingere mana, il suo controllore 
   <item>
     <id>LEB0103</id>
     <name>Malinconia</name>
-    <text>Le magie bianche costano {3} in più per essere lanciate.
+    <text>Le magie bianche costano {3} in più per essere lanciate. 
 Le abilità attivate degli incantesimi bianchi costano {3} in più per essere attivate.</text>
     <flavorText>
     </flavorText>
@@ -780,14 +776,14 @@ Le abilità attivate degli incantesimi bianchi costano {3} in più per essere at
   <item>
     <id>LEB0105</id>
     <name>Re dei Goblin</name>
-    <text>Le altre creature Goblin prendono +1/+1 e hanno passa-Montagne. (Non possono essere bloccate fintanto che il giocatore in difesa controlla una Montagna.)</text>
+    <text>Le altre creature Goblin prendono +1/+1 e hanno passa-Montagne. (Non possono essere bloccate fintanto che il giocatore in difesa controlla una Montagna.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0106</id>
     <name>Gargoyle di Granito</name>
-    <text>Volare
+    <text>Volare 
 {R}: Il Gargoyle di Granito prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -795,15 +791,14 @@ Le abilità attivate degli incantesimi bianchi costano {3} in più per essere at
   <item>
     <id>LEB0107</id>
     <name>Ogre Grigio</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0108</id>
     <name>Sigillo Verde</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha protezione dal verde. Questo effetto non rimuove il Sigillo Verde.</text>
     <flavorText>
     </flavorText>
@@ -811,8 +806,7 @@ La creatura incantata ha protezione dal verde. Questo effetto non rimuove il Sig
   <item>
     <id>LEB0109</id>
     <name>Orso Grizzly</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -833,23 +827,22 @@ La creatura incantata ha protezione dal verde. Questo effetto non rimuove il Sig
   <item>
     <id>LEB0112</id>
     <name>Elmo di Chatzuk</name>
-    <text>{1},{T} : La creatura bersaglio guadagna Branco fino alla fine del turno.</text>
+    <text>{1},{T} : La creatura bersaglio guadagna Branco fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0113</id>
     <name>Gigante delle Colline</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0114</id>
     <name>Armatura Sacra</name>
-    <text>Incanta creatura
-La creatura incantata prende +0/+2.
+    <text>Incanta creatura 
+La creatura incantata prende +0/+2. 
 {W}: La creatura incantata prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -857,7 +850,7 @@ La creatura incantata prende +0/+2.
   <item>
     <id>LEB0115</id>
     <name>Forza Sacra</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
 La creatura incantata prende +1/+2.</text>
     <flavorText>
     </flavorText>
@@ -865,44 +858,43 @@ La creatura incantata prende +1/+2.</text>
   <item>
     <id>LEB0116</id>
     <name>Ululato Infernale</name>
-    <text>La creatura bersaglio prende +X/+0 fino alla fine del turno.</text>
+    <text>La creatura bersaglio prende +X/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0117</id>
     <name>Miniera Ululante</name>
-    <text>All'inizio dell'acquisizione di ogni giocatore, se la Miniera Ululante è STAPpata, quel giocatore pesca una carta addizionale.</text>
+    <text>All'inizio dell'acquisizione di ogni giocatore, se la Miniera Ululante è STAPpata, quel giocatore pesca una carta addizionale. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0118</id>
     <name>Minotauro di Hurloon</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0119</id>
     <name>Uragano</name>
-    <text>L'Uragano infligge X danni a ogni creatura con volare e a ogni giocatore.</text>
+    <text>L'Uragano infligge X danni a ogni creatura con volare e a ogni giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0120</id>
     <name>Spettro Ipnotico</name>
-    <text>Volare
-Ogniqualvolta lo Spettro Ipnotico infligge danno a un avversario, quel giocatore scarta una carta a caso.</text>
+    <text>Volare 
+Ogniqualvolta lo Spettro Ipnotico infligge danno a un avversario, quel giocatore scarta una carta a caso. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0121</id>
     <name>Tempesta di Ghiaccio</name>
-    <text>Distruggi una terra bersaglio.</text>
+    <text>Distruggi una terra bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -923,8 +915,8 @@ Ogniqualvolta lo Spettro Ipnotico infligge danno a un avversario, quel giocatore
   <item>
     <id>LEB0124</id>
     <name>Infondere Energia</name>
-    <text>Incanta creatura
-La creatura incantata ha rapidità.
+    <text>Incanta creatura 
+La creatura incantata ha rapidità. 
 {0}: STAPpa la creatura incantata. Attiva questa abilità solo durante il tuo turno e solo una volta per turno.</text>
     <flavorText>
     </flavorText>
@@ -932,7 +924,7 @@ La creatura incantata ha rapidità.
   <item>
     <id>LEB0125</id>
     <name>Invisibilità</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata non può essere bloccata tranne che dai Muri.</text>
     <flavorText>
     </flavorText>
@@ -947,15 +939,14 @@ La creatura incantata non può essere bloccata tranne che dai Muri.</text>
   <item>
     <id>LEB0127</id>
     <name>Orchi dell'Artiglio di Ferro</name>
-    <text>Gli Orchi dell'Artiglio di Ferro non possono bloccare le creature con forza pari o superiore a 2.</text>
+    <text>Gli Orchi dell'Artiglio di Ferro non possono bloccare le creature con forza pari o superiore a 2. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0128</id>
     <name>Silvantropi Radice di Ferro</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -983,7 +974,7 @@ La creatura incantata non può essere bloccata tranne che dai Muri.</text>
   <item>
     <id>LEB0132</id>
     <name>Isola Santuario</name>
-    <text>Se stai peri pescare una carta durante la tua acquisizione, invece puoi saltare quella pescata. Se lo fai, fino al tuo prossimo turno, non puoi essere attaccato tranne che dalle creature con volare e/o con passa-isole.</text>
+    <text>Se stai per pescare una carta durante la tua acquisizione, invece puoi saltare quella pescata. Se lo fai, fino al tuo prossimo turno, non puoi essere attaccato tranne che dalle creature con volare e/o con passa-isole.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1018,7 +1009,7 @@ La creatura incantata non può essere bloccata tranne che dai Muri.</text>
   <item>
     <id>LEB0137</id>
     <name>Juggernaut</name>
-    <text>Il Juggernaut attacca ogni turno, se può farlo.
+    <text>Il Juggernaut attacca ogni turno, se può farlo. 
 Il Juggernaut non può essere bloccato dai Muri.</text>
     <flavorText>
     </flavorText>
@@ -1026,7 +1017,7 @@ Il Juggernaut non può essere bloccato dai Muri.</text>
   <item>
     <id>LEB0138</id>
     <name>Salto Prodigioso</name>
-    <text>Una creatura bersaglio ha volare fino alla fine del turno.</text>
+    <text>Una creatura bersaglio ha volare fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1047,14 +1038,14 @@ Il Juggernaut non può essere bloccato dai Muri.</text>
   <item>
     <id>LEB0141</id>
     <name>Campana di Kormus</name>
-    <text>Tutte le Paludi sono creature 1/1 che sono ancora come terre.</text>
+    <text>Tutte le Paludi sono creature 1/1 nere che sono ancora terre.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0142</id>
     <name>Kudzu</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 Quando la terra incantata diventa TAPpata, distruggila. Il controllore di quella terra assegna il Kudzu ad una terra a sua scelta.</text>
     <flavorText>
     </flavorText>
@@ -1062,7 +1053,7 @@ Quando la terra incantata diventa TAPpata, distruggila. Il controllore di quella
   <item>
     <id>LEB0143</id>
     <name>Lancia</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura bersaglio ha attacco improvviso.</text>
     <flavorText>
     </flavorText>
@@ -1077,18 +1068,18 @@ La creatura bersaglio ha attacco improvviso.</text>
   <item>
     <id>LEB0145</id>
     <name>Biblioteca di Leng</name>
-    <text>Non hai un limite massimo di carte in mano.
-Se un effetto ti fa scartare una carta, scartala, ma puoi metterla in cima al tuo grimorio invece che nel tuo cimitero.</text>
+    <text>Non hai un limite massimo di carte in mano. 
+Se un effetto ti fa scartare una carta, scartala, ma puoi metterla in cima al tuo grimorio invece che nel tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0146</id>
     <name>Lich</name>
-    <text>Mentre il Lich entra nel campo di battaglia, i tuoi punti vita totali diventano zero.
-Non perdi la partita se hai zero o meno punti vita.
-Se stai per guadagnare punti vita, invece pesca altrettante carte.
-Ogniqualvolta ti viene inflitto danno, sacrifica un numero di permanenti pari ai punti danno.
+    <text>Mentre il Lich entra nel campo di battaglia, i tuoi punti vita totali diventano zero. 
+Non perdi la partita se hai zero o meno punti vita. 
+Se stai per guadagnare punti vita, invece pesca altrettante carte. 
+Ogniqualvolta ti viene inflitto danno, sacrifica un numero di permanenti pari ai punti danno. 
 Quando il Lich lascia il campo di battaglia, perdi la partita.</text>
     <flavorText>
     </flavorText>
@@ -1103,7 +1094,7 @@ Quando il Lich lascia il campo di battaglia, perdi la partita.</text>
   <item>
     <id>LEB0148</id>
     <name>Segno della Vita</name>
-    <text>La magia o il permanente bersaglio diventa verde. (I simboli del mana su quel permanente non cambiano)</text>
+    <text>La magia o il permanente bersaglio diventa verde. (I simboli del mana su quel permanente non cambiano) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1124,8 +1115,9 @@ Quando il Lich lascia il campo di battaglia, perdi la partita.</text>
   <item>
     <id>LEB0151</id>
     <name>Artefatto Vivente</name>
-    <text>Incanta artefatto
-Ogniqualvolta ti viene inflitto danno, metti altrettanti segnalini vitalità sull'Artefatto Vivente.; All'inizio del tuo mantenimento, puoi rimuovere un segnalino vitalità dall'Artefatto Vivente. Se lo fai, guadagni 1 punto vita.</text>
+    <text>Incanta artefatto 
+Ogniqualvolta ti viene inflitto danno, metti altrettanti segnalini vitalità sull'Artefatto Vivente.
+All'inizio del tuo mantenimento, puoi rimuovere un segnalino vitalità dall'Artefatto Vivente. Se lo fai, guadagni 1 punto vita.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1139,7 +1131,7 @@ Ogniqualvolta ti viene inflitto danno, metti altrettanti segnalini vitalità sul
   <item>
     <id>LEB0153</id>
     <name>Muro Vivente</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {1}: Rigenera il Muro Vivente.</text>
     <flavorText>
     </flavorText>
@@ -1161,15 +1153,15 @@ Ogniqualvolta ti viene inflitto danno, metti altrettanti segnalini vitalità sul
   <item>
     <id>LEB0156</id>
     <name>Signore dell'Abisso</name>
-    <text>Volare, travolgere
-All'inizio del tuo mantenimento, sacrifica una creatura diversa dal Signore dell'Abisso. Se non puoi farlo, il Signore dell'Abisso ti infligge 7 danni.</text>
+    <text>Volare, travolgere 
+All'inizio del tuo mantenimento, sacrifica una creatura diversa dal Signore dell'Abisso. Se non puoi farlo, il Signore dell'Abisso ti infligge 7 danni. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0157</id>
     <name>Richiamo</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Tutte le creature in grado di bloccare la creatura incantata lo fanno.</text>
     <flavorText>
     </flavorText>
@@ -1184,14 +1176,14 @@ Tutte le creature in grado di bloccare la creatura incantata lo fanno.</text>
   <item>
     <id>LEB0159</id>
     <name>Genio Mahamoti</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)</text>
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0160</id>
     <name>Eruzione di Mana</name>
-    <text>Ogniqualvolta un giocatore TAPpa una terra per attingere mana, quel giocatore aggiunge alla sua riserva un mana di qualsiasi tipo prodotto da quella terra.</text>
+    <text>Ogniqualvolta un giocatore TAPpa una terra per attingere mana, quel giocatore aggiunge alla sua riserva un mana di qualsiasi tipo prodotto da quella terra. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1205,9 +1197,9 @@ Tutte le creature in grado di bloccare la creatura incantata lo fanno.</text>
   <item>
     <id>LEB0162</id>
     <name>Forziere del Mana</name>
-    <text>Il Forziere del Mana non STAPpa durante il tuo STAP.
-All'inizio del tuo mantenimento, puoi pagare {4}. Se lo fai, STAPpa il Forziere del Mana.
-All'inizio della tua acquisizione, se il Forziere del Mana è TAPpato, ti infligge 1 danno.
+    <text>Il Forziere del Mana non STAPpa durante il tuo STAP. 
+All'inizio del tuo mantenimento, puoi pagare {4}. Se lo fai, STAPpa il Forziere del Mana. 
+All'inizio della tua acquisizione, se il Forziere del Mana è TAPpato, ti infligge 1 danno. 
 {T}: Aggiungi {3} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1215,7 +1207,7 @@ All'inizio della tua acquisizione, se il Forziere del Mana è TAPpato, ti inflig
   <item>
     <id>LEB0163</id>
     <name>Mana Spinato</name>
-    <text>Ogniqualvolta un giocatore TAPpa una terra per attingere mana, il Mana Spinato infligge 1 danno a quel giocatore.</text>
+    <text>Ogniqualvolta un giocatore TAPpa una terra per attingere mana, il Mana Spinato infligge 1 danno a quel giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1229,22 +1221,21 @@ All'inizio della tua acquisizione, se il Forziere del Mana è TAPpato, ti inflig
   <item>
     <id>LEB0165</id>
     <name>Tritone dal Tridente Perlaceo</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0166</id>
     <name>Pegaso delle Mese</name>
-    <text>Volare, Branco.</text>
+    <text>Volare, Branco. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0167</id>
     <name>Distorcere la Mente</name>
-    <text>Il giocatore bersaglio scarta X carte a caso.</text>
+    <text>Il giocatore bersaglio scarta X carte a caso. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1322,7 +1313,7 @@ All'inizio della tua acquisizione, se il Forziere del Mana è TAPpato, ti inflig
   <item>
     <id>LEB0178</id>
     <name>Ombra Infernale</name>
-    <text>Rapidità
+    <text>Rapidità 
 All'inizio del tuo mantenimento, se l'Ombra Infernale è nel tuo cimitero con tre o più carte creature sopra di sé, puoi rimettere l'Ombra Infernale nel campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -1337,7 +1328,7 @@ All'inizio del tuo mantenimento, se l'Ombra Infernale è nel tuo cimitero con tr
   <item>
     <id>LEB0180</id>
     <name>Disco di Nevinyrral</name>
-    <text>Il Disco di Nevinyrral entra nel campo di battaglia TAPpato.
+    <text>Il Disco di Nevinyrral entra nel campo di battaglia TAPpato. 
 {1}, {T}: Distruggi tutti gli artefatti, le creature e gli incantesimi.</text>
     <flavorText>
     </flavorText>
@@ -1345,7 +1336,7 @@ All'inizio del tuo mantenimento, se l'Ombra Infernale è nel tuo cimitero con tr
   <item>
     <id>LEB0181</id>
     <name>Incubo</name>
-    <text>Volare
+    <text>Volare 
 La forza e la costituzione dell'Incubo sono pari al numero di Paludi che controlli.</text>
     <flavorText>
     </flavorText>
@@ -1353,15 +1344,14 @@ La forza e la costituzione dell'Incubo sono pari al numero di Paludi che control
   <item>
     <id>LEB0182</id>
     <name>Paladino del Nord</name>
-    <text>{W}{W}, {T}: Distruggi un permanente bersaglio nero.</text>
+    <text>{W}{W}, {T}: Distruggi un permanente bersaglio nero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0183</id>
     <name>Golem di Obsiana</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1375,16 +1365,16 @@ La forza e la costituzione dell'Incubo sono pari al numero di Paludi che control
   <item>
     <id>LEB0185</id>
     <name>Orifiamma Orchesco</name>
-    <text>Le creature attaccanti che controlli prendono +1/+0.</text>
+    <text>Le creature attaccanti che controlli prendono +1/+0. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0186</id>
     <name>Paralisi</name>
-    <text>Incanta creatura
-Quando la Paralisi entra nel campo di battaglia, TAPpa la creatura incantata.
-La creatura incantata non STAPpa durante lo STAP del suo controllore.
+    <text>Incanta creatura 
+Quando la Paralisi entra nel campo di battaglia, TAPpa la creatura incantata. 
+La creatura incantata non STAPpa durante lo STAP del suo controllore. 
 All'inizio del mantenimento del controllore della creatura incantata, quel giocatore può pagare {4}. Se lo fa, STAPpa la creatura.</text>
     <flavorText>
     </flavorText>
@@ -1392,15 +1382,14 @@ All'inizio del mantenimento del controllore della creatura incantata, quel gioca
   <item>
     <id>LEB0187</id>
     <name>Unicorno Perlaceo</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0188</id>
     <name>Avatar</name>
-    <text>{0}: Il prossimo punto danno che verrebbe inflitto all'Avatar in questo turno, viene invece inflitto al suo proprietario. Qualsiasi giocatore può attivare quest'abilità, ma solo se possiede l'Avatar.
+    <text>{0}: Il prossimo punto danno che verrebbe inflitto all'Avatar in questo turno, viene invece inflitto al suo proprietario. Qualsiasi giocatore può attivare quest'abilità, ma solo se possiede l'Avatar. 
 Quando l'Avatar viene messo in un cimitero dal campo di battaglia, il suo proprietario perde metà dei suoi punti vita, arrotondati per eccesso.</text>
     <flavorText>
     </flavorText>
@@ -1408,7 +1397,7 @@ Quando l'Avatar viene messo in un cimitero dal campo di battaglia, il suo propri
   <item>
     <id>LEB0189</id>
     <name>Peste</name>
-    <text>All'inizio della sottofase finale, se non ci sono creature sul campo di battaglia, sacrifica la Peste.
+    <text>All'inizio della sottofase finale, se non ci sono creature sul campo di battaglia, sacrifica la Peste. 
 {B}: La Peste infligge 1 danno a ogni creatura e a ogni giocatore.</text>
     <flavorText>
     </flavorText>
@@ -1416,7 +1405,7 @@ Quando l'Avatar viene messo in un cimitero dal campo di battaglia, il suo propri
   <item>
     <id>LEB0190</id>
     <name>Squadriglia Fantasma</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del tuo mantenimento, sacrifica la Squadriglia Fantasma a meno che tu paghi {U}.</text>
     <flavorText>
     </flavorText>
@@ -1424,8 +1413,8 @@ All'inizio del tuo mantenimento, sacrifica la Squadriglia Fantasma a meno che tu
   <item>
     <id>LEB0191</id>
     <name>Terreno Illusorio</name>
-    <text>Incanta terra
-Mentre il Terreno Illusorio entra nel campo di battaglia, scegli un tipo di terra base.
+    <text>Incanta terra 
+Mentre il Terreno Illusorio entra nel campo di battaglia, scegli un tipo di terra base. 
 La terra incantata è del tipo scelto.</text>
     <flavorText>
     </flavorText>
@@ -1433,15 +1422,15 @@ La terra incantata è del tipo scelto.</text>
   <item>
     <id>LEB0192</id>
     <name>Mostro Fantasma</name>
-    <text>Volare</text>
+    <text>Volare </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0193</id>
     <name>Nave dei Pirati</name>
-    <text>La Nave dei Pirati non può attaccare a meno che il giocatore in difesa controlli un'Isola.
-{T}: La Nave dei Pirati infligge 1 danno a una creatura o a un giocatore bersaglio.
+    <text>La Nave dei Pirati non può attaccare a meno che il giocatore in difesa controlli un'Isola. 
+{T}: La Nave dei Pirati infligge 1 danno a una creatura o a un giocatore bersaglio. 
 Quando non controlli Isole, sacrifica la Nave dei Pirati.</text>
     <flavorText>
     </flavorText>
@@ -1477,15 +1466,14 @@ Quando non controlli Isole, sacrifica la Nave dei Pirati.</text>
   <item>
     <id>LEB0198</id>
     <name>Altopiano</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0199</id>
     <name>Fuga di Energia</name>
-    <text>Incanta incantesimo
+    <text>Incanta incantesimo 
 All'inizio del mantenimento del controllore dell'incantesimo incantato, quel giocatore può pagare fino a {2}. Per ogni mana inferiore a {2} che paga in questo modo, la Fuga di Energia gli infligge un danno.</text>
     <flavorText>
     </flavorText>
@@ -1507,21 +1495,21 @@ All'inizio del mantenimento del controllore dell'incantesimo incantato, quel gio
   <item>
     <id>LEB0202</id>
     <name>Stregone Errante</name>
-    <text>{T}: Lo Stregone Errante infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <text>{T}: Lo Stregone Errante infligge 1 danno a una creatura o a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0203</id>
     <name>Esplosione Psionica</name>
-    <text>L'Esplosione Psionica infligge 4 danni a una creatura o a un giocatore bersaglio e 2 danni a te.</text>
+    <text>L'Esplosione Psionica infligge 4 danni a una creatura o a un giocatore bersaglio e 2 danni a te. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0204</id>
     <name>Veleno Psichico</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 Ogniqualvolta la terra incantata viene TAPpata, il Veleno Psichico infligge 2 danni al controllore di quella terra.</text>
     <flavorText>
     </flavorText>
@@ -1543,7 +1531,7 @@ Ogniqualvolta la terra incantata viene TAPpata, il Veleno Psichico infligge 2 da
   <item>
     <id>LEB0207</id>
     <name>Risveglio dei Morti</name>
-    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <text>Riprendi in mano una carta creatura bersaglio dal tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1557,7 +1545,7 @@ Ogniqualvolta la terra incantata viene TAPpata, il Veleno Psichico infligge 2 da
   <item>
     <id>LEB0209</id>
     <name>Sigillo Rosso</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha protezione dal rosso. Questo effetto non rimuove il Sigillo Rosso.</text>
     <flavorText>
     </flavorText>
@@ -1565,7 +1553,7 @@ La creatura incantata ha protezione dal rosso. Questo effetto non rimuove il Sig
   <item>
     <id>LEB0210</id>
     <name>Rigenerazione</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
 {G}: Rigenera la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -1594,23 +1582,23 @@ La creatura incantata ha protezione dal rosso. Questo effetto non rimuove il Sig
   <item>
     <id>LEB0214</id>
     <name>Rettitudine</name>
-    <text>Una creatura bloccante bersaglio prende +7/+7 fino alla fine del turno.</text>
+    <text>Una creatura bloccante bersaglio prende +7/+7 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0215</id>
     <name>Roc delle Creste di Kher</name>
-    <text>Volare</text>
+    <text>Volare </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0216</id>
     <name>Idra delle Rocce</name>
-    <text>L'Idra delle Rocce entra nel campo di battaglia con X segnalini +1/+1.
-Per ogni punto danno che sta per essere inflitto all'Idra delle Rocce, se ha un segnalino +1/+1, rimuovi un segnalino +1/+1 e previeni quel danno.
-{R}: Previeni il prossimo punto danno che verrebbe inflitto all'Idra delle Rocce in questo turno.
+    <text>L'Idra delle Rocce entra nel campo di battaglia con X segnalini +1/+1. 
+Per ogni punto danno che sta per essere inflitto all'Idra delle Rocce, se ha un segnalino +1/+1, rimuovi un segnalino +1/+1 e previeni quel danno. 
+{R}: Previeni il prossimo punto danno che verrebbe inflitto all'Idra delle Rocce in questo turno. 
 {R}{R}{R}: Metti un segnalino +1/+1 sull'Idra delle Rocce. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -1618,22 +1606,22 @@ Per ogni punto danno che sta per essere inflitto all'Idra delle Rocce, se ha un 
   <item>
     <id>LEB0217</id>
     <name>Scettro della Rovina</name>
-    <text>{3}, {T}: Lo Scettro della Rovina infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
+    <text>{3}, {T}: Lo Scettro della Rovina infligge 1 danno a una creatura o a un giocatore bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0218</id>
     <name>Assassino Reale</name>
-    <text>{T}: Distruggi una creatura TAPpata bersaglio.</text>
+    <text>{T}: Distruggi una creatura TAPpata bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0219</id>
     <name>Sacrificio</name>
-    <text>Come costo addizionale per lanciare il Sacrificio, sacrifica una creatura.
-Aggiungi alla tua riserva un ammontare di mana nero pari al costo di mana convertito della creatura sacrificata.</text>
+    <text>Come costo addizionale per lanciare il Sacrificio, sacrifica una creatura. 
+Aggiungi alla tua riserva un ammontare di {B} pari al costo di mana convertito della creatura sacrificata.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -1647,31 +1635,28 @@ Aggiungi alla tua riserva un ammontare di mana nero pari al costo di mana conver
   <item>
     <id>LEB0221</id>
     <name>Savana</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0222</id>
     <name>Leoni della Savana</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0223</id>
     <name>Zombie della Distruzione</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0224</id>
     <name>Ghoul Mangia Carogne</name>
-    <text>All'inizio della sottofase finale, metti sul Ghoul Mangia Carogne un segnalino carogna per ogni creatura messa in un cimitero dal campo di battaglia in questo turno.
+    <text>All'inizio della sottofase finale, metti sul Ghoul Mangia Carogne un segnalino carogna per ogni creatura messa in un cimitero dal campo di battaglia in questo turno. 
 Rimuovi un segnalino carogna dal Ghoul Mangia Carogne: Rigenera il Ghoul Mangia Carogne.</text>
     <flavorText>
     </flavorText>
@@ -1694,7 +1679,7 @@ Rimuovi un segnalino carogna dal Ghoul Mangia Carogne: Rigenera il Ghoul Mangia 
   <item>
     <id>LEB0227</id>
     <name>Serpente Marino</name>
-    <text>Il Serpente Marino non può attaccare a meno che il giocatore in difesa controlli un'Isola.
+    <text>Il Serpente Marino non può attaccare a meno che il giocatore in difesa controlli un'Isola. 
 Quando non controlli Isole, sacrifica il Serpente Marino.</text>
     <flavorText>
     </flavorText>
@@ -1702,7 +1687,7 @@ Quando non controlli Isole, sacrifica il Serpente Marino.</text>
   <item>
     <id>LEB0228</id>
     <name>Troll delle Paludi</name>
-    <text>Il Troll delle Paludi prende +1/+1 fintanto che controlli una Palude.
+    <text>Il Troll delle Paludi prende +1/+1 fintanto che controlli una Palude. 
 {B}: Rigenera il Troll delle Paludi.</text>
     <flavorText>
     </flavorText>
@@ -1710,15 +1695,15 @@ Quando non controlli Isole, sacrifica il Serpente Marino.</text>
   <item>
     <id>LEB0229</id>
     <name>Vampiro di Sengir</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
-Ogniqualvolta una creatura a cui è stato inflitto danno dal Vampiro di Sengir in questo turno viene messa in un cimitero, metti un segnalino +1/+1 sul Vampiro di Sengir.</text>
+    <text>Volare 
+Ogniqualvolta muore una creatura a cui il Vampiro di Sengir ha inflitto danno in questo turno, metti un segnalino +1/+1 sul Vampiro di Sengir.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0230</id>
     <name>Angelo di Serra</name>
-    <text>Volare
+    <text>Volare 
 Cautela (Questa creatura attacca senza TAPpare.)</text>
     <flavorText>
     </flavorText>
@@ -1733,15 +1718,15 @@ Cautela (Questa creatura attacca senza TAPpare.)</text>
   <item>
     <id>LEB0232</id>
     <name>Distruggi Artefatto</name>
-    <text>Distruggi un artefatto bersaglio.</text>
+    <text>Distruggi un artefatto bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0233</id>
     <name>Drago di Shivan</name>
-    <text>Volare
-{R}: Il Drago di Shivan prende +1/+0 fino alla fine del turno.</text>
+    <text>Volare 
+{R}: Il Drago di Shivan prende +1/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1762,8 +1747,8 @@ Cautela (Questa creatura attacca senza TAPpare.)</text>
   <item>
     <id>LEB0236</id>
     <name>Canto della Sirena</name>
-    <text>Lancia il Canto della Sirena solo durante il turno di un avversario, prima che siano dichiarati gli attaccanti.
-Le creature controllate dal giocatore attivo attaccano in questo turno se possono farlo.
+    <text>Lancia il Canto della Sirena solo durante il turno di un avversario, prima che siano dichiarati gli attaccanti. 
+Le creature controllate dal giocatore attivo attaccano in questo turno se possono farlo. 
 All'inizio della prossima sottofase finale, distruggi tutte le creature non-Muro controllate da quel giocatore che non hanno attaccato questo turno. Ignora questo effetto per ogni creatura che il giocatore non ha controllato ininterrottamente dall'inizio del turno.</text>
     <flavorText>
     </flavorText>
@@ -1785,7 +1770,7 @@ All'inizio della prossima sottofase finale, distruggi tutte le creature non-Muro
   <item>
     <id>LEB0239</id>
     <name>Anello Solare</name>
-    <text>{T}: Aggiungi {2} alla tua riserva di mana.</text>
+    <text>{T}: Aggiungi {2} alla tua riserva di mana. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1806,7 +1791,7 @@ All'inizio della prossima sottofase finale, distruggi tutte le creature non-Muro
   <item>
     <id>LEB0242</id>
     <name>Stasi</name>
-    <text>I giocatori saltano il loro STAP.
+    <text>I giocatori saltano il loro STAP. 
 All'inizio del tuo mantenimento, sacrifica la Stasi a meno che tu paghi {U}.</text>
     <flavorText>
     </flavorText>
@@ -1814,36 +1799,36 @@ All'inizio del tuo mantenimento, sacrifica la Stasi a meno che tu paghi {U}.</te
   <item>
     <id>LEB0243</id>
     <name>Rubare Artefatto</name>
-    <text>Incanta artefatto
+    <text>Incanta artefatto 
 Tu controlli l'artefatto incantato.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0244</id>
-    <name>Gigante di Pietra</name>
-    <text>{T}: Una creatura bersaglio che controlli con costituzione inferiore alla forza del Gigante delle Rocce ha volare fino alla fine del turno. Distruggi quella creatura all'inizio della sottofase finale.</text>
+    <name>Gigante delle Rocce</name>
+    <text>{T}: Una creatura bersaglio che controlli con costituzione inferiore alla forza del Gigante delle Rocce ha volare fino alla fine del turno. Distruggi quella creatura all'inizio della sottofase finale. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0245</id>
     <name>Pioggia di Pietre</name>
-    <text>Distruggi una terra bersaglio.</text>
+    <text>Distruggi una terra bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0246</id>
     <name>Fonte della Vita</name>
-    <text>Il giocatore bersaglio guadagna X punti vita.</text>
+    <text>Il giocatore bersaglio guadagna X punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0247</id>
     <name>Occhiali da Sole di Urza</name>
-    <text>Puoi spendere mana bianco come se fosse mana rosso.</text>
+    <text>Puoi spendere mana bianco come se fosse mana rosso. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1886,7 +1871,7 @@ Tu controlli l'artefatto incantato.</text>
   <item>
     <id>LEB0253</id>
     <name>Terrore</name>
-    <text>Distruggi una creatura bersaglio non artefatto e non nera. Non può essere rigenerata.</text>
+    <text>Distruggi una creatura bersaglio non artefatto e non nera. Non può essere rigenerata. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1900,7 +1885,7 @@ Tu controlli l'artefatto incantato.</text>
   <item>
     <id>LEB0255</id>
     <name>Basilisco dei Boschi</name>
-    <text>Ogniqualvolta il Basilisco dei Boschi blocca o viene bloccato da una creatura non Muro, distruggi quella creatura alla fine del combattimento.</text>
+    <text>Ogniqualvolta il Basilisco dei Boschi blocca o viene bloccato da una creatura non Muro, distruggi quella creatura alla fine del combattimento. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1928,9 +1913,9 @@ Tu controlli l'artefatto incantato.</text>
   <item>
     <id>LEB0259</id>
     <name>Volta Temporale</name>
-    <text>La Volta Temporale entra nel campo di battaglia TAPpata.
-La Volta Temporale non STAPpa durante il tuo STAP.
-Se stai per iniziare il tuo turno mentre la Volta Temporale è TAPpata, invece puoi saltare quel turno. Se lo fai, STAPpa la Volta Temporale.
+    <text>La Volta Temporale entra nel campo di battaglia TAPpata. 
+La Volta Temporale non STAPpa durante il tuo STAP. 
+Se stai per iniziare il tuo turno mentre la Volta Temporale è TAPpata, invece puoi saltare quel turno. Se lo fai, STAPpa la Volta Temporale. 
 {T}: Gioca un altro turno dopo questo.</text>
     <flavorText>
     </flavorText>
@@ -1938,7 +1923,7 @@ Se stai per iniziare il tuo turno mentre la Volta Temporale è TAPpata, invece p
   <item>
     <id>LEB0260</id>
     <name>Passo Temporale</name>
-    <text>Gioca un altro turno dopo questo.</text>
+    <text>Gioca un altro turno dopo questo. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1959,15 +1944,14 @@ Se stai per iniziare il tuo turno mentre la Volta Temporale è TAPpata, invece p
   <item>
     <id>LEB0263</id>
     <name>Isola Tropicale</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0264</id>
     <name>Tsunami</name>
-    <text>Distruggi tutte le Isole.</text>
+    <text>Distruggi tutte le Isole. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1989,15 +1973,15 @@ Se stai per iniziare il tuo turno mentre la Volta Temporale è TAPpata, invece p
   <item>
     <id>LEB0267</id>
     <name>Manipolatore</name>
-    <text>Puoi TAPpare o STAPpare una terra, un artefatto, o una creatura bersaglio.</text>
+    <text>Puoi TAPpare o STAPpare una terra, un artefatto, o una creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0268</id>
     <name>Gigante a due Teste</name>
-    <text>Travolgere
-Il Gigante a due Teste può bloccare una creatura addizionale.</text>
+    <text>Travolgere 
+Il Gigante a due Teste può bloccare una creatura addizionale. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2012,7 +1996,7 @@ Il Gigante a due Teste può bloccare una creatura addizionale.</text>
   <item>
     <id>LEB0270</id>
     <name>Forza Diabolica</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +2/+1.</text>
     <flavorText>
     </flavorText>
@@ -2048,14 +2032,14 @@ La creatura incantata prende +2/+1.</text>
   <item>
     <id>LEB0275</id>
     <name>Guardia del Corpo Veterana</name>
-    <text>Fintanto che la Guardia del Corpo Veterana è STAPpata, tutto il danno che ti verrebbe inflitto dalle creature non bloccate invece è inflitto alla Guardia del Corpo Veterana.</text>
+    <text>Fintanto che la Guardia del Corpo Veterana è STAPpata, tutto il danno che ti verrebbe inflitto dalle creature non bloccate invece è inflitto alla Guardia del Corpo Veterana. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0276</id>
     <name>Eruzione Vulcanica</name>
-    <text>Distruggi X Montagne bersaglio. L'Eruzione Vulcanica infligge a ogni creatura e a ogni giocatore un danno pari al numero di Montagne distrutte in questo modo.</text>
+    <text>Distruggi X Montagne bersaglio. L'Eruzione Vulcanica infligge a ogni creatura e a ogni giocatore un danno pari al numero di Montagne distrutte in questo modo. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2070,22 +2054,22 @@ La creatura incantata prende +2/+1.</text>
   <item>
     <id>LEB0278</id>
     <name>Muro d'Aria</name>
-    <text>Difensore, volare (Questa creatura non può attaccare, e può bloccare le creature con volare.)</text>
+    <text>Difensore, volare (Questa creatura non può attaccare, e può bloccare le creature con volare.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0279</id>
     <name>Muro d'Ossa</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-{B}: Rigenera il Muro d'Ossa. (La prossima volta che questa creatura sta per essere distrutta in questo turno, non viene distrutta. Invece TAPpala, rimuovi da essa tutto il danno e rimuovila dal combattimento.)</text>
+    <text>Difensore (Questa creatura non può attaccare.) 
+{B}: Rigenera il Muro d'Ossa. (La prossima volta che questa creatura sta per essere distrutta in questo turno, non viene distrutta. Invece TAPpala, rimuovi da essa tutto il danno e rimuovila dal combattimento.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0280</id>
     <name>Muro di Rovi</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {G}: Rigenera il Muro di Rovi.</text>
     <flavorText>
     </flavorText>
@@ -2093,8 +2077,8 @@ La creatura incantata prende +2/+1.</text>
   <item>
     <id>LEB0281</id>
     <name>Muro di Fuoco</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-{R}: Il Muro di Fuoco prende +1/+0 fino alla fine del turno.</text>
+    <text>Difensore (Questa creatura non può attaccare.) 
+{R}: Il Muro di Fuoco prende +1/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2108,21 +2092,21 @@ La creatura incantata prende +2/+1.</text>
   <item>
     <id>LEB0283</id>
     <name>Muro di Pietra</name>
-    <text>Difensore (Questa creatura non può attaccare.)</text>
+    <text>Difensore (Questa creatura non può attaccare.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0284</id>
     <name>Muro di Spade</name>
-    <text>Difensore, volare (Questa creatura non può attaccare, e può bloccare le creature con volare.)</text>
+    <text>Difensore, volare (Questa creatura non può attaccare, e può bloccare le creature con volare.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0285</id>
     <name>Muro d'Acqua</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {U}: Il Muro d'Acqua prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2130,14 +2114,14 @@ La creatura incantata prende +2/+1.</text>
   <item>
     <id>LEB0286</id>
     <name>Muro di Legno</name>
-    <text>Difensore (Questa creatura non può attaccare.)</text>
+    <text>Difensore (Questa creatura non può attaccare.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0287</id>
     <name>Vagabondare</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 All'inizio del mantenimento del controllore della creatura incantata, il Vagabondare infligge 1 danno a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -2145,14 +2129,14 @@ All'inizio del mantenimento del controllore della creatura incantata, il Vagabon
   <item>
     <id>LEB0288</id>
     <name>Mammut da Guerra</name>
-    <text>Travolgere</text>
+    <text>Travolgere </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0289</id>
     <name>Distorci Artefatto</name>
-    <text>Incanta artefatto
+    <text>Incanta artefatto 
 All'inizio del mantenimento del controllore dell'artefatto incantato, il Distorci Artefatto infligge 1 danno a quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -2160,23 +2144,22 @@ All'inizio del mantenimento del controllore dell'artefatto incantato, il Distorc
   <item>
     <id>LEB0290</id>
     <name>Elementale dell'Acqua</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0291</id>
     <name>Indebolimento</name>
-    <text>Incanta creatura
-La creatura incantata prende -2/-1.</text>
+    <text>Incanta creatura 
+La creatura incantata prende -2/-1. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0292</id>
     <name>Ragnatela</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +0/+2 e ha raggiungere. (Può bloccare le creature con volare.)</text>
     <flavorText>
     </flavorText>
@@ -2191,7 +2174,7 @@ La creatura incantata prende +0/+2 e ha raggiungere. (Può bloccare le creature 
   <item>
     <id>LEB0294</id>
     <name>Cavaliere Bianco</name>
-    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.)
+    <text>Attacco improvviso (Questa creatura infligge danno da combattimento prima delle creature senza attacco improvviso.) 
 Protezione dal nero (Questa creatura non può essere bloccata, bersagliata, non le può essere inflitto danno, né può essere incantata da nulla di nero.)</text>
     <flavorText>
     </flavorText>
@@ -2199,7 +2182,7 @@ Protezione dal nero (Questa creatura non può essere bloccata, bersagliata, non 
   <item>
     <id>LEB0295</id>
     <name>Sigillo Bianco</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha protezione dal bianco. Questo effetto non rimuove il Sigillo Bianco.</text>
     <flavorText>
     </flavorText>
@@ -2207,23 +2190,26 @@ La creatura incantata ha protezione dal bianco. Questo effetto non rimuove il Si
   <item>
     <id>LEB0296</id>
     <name>Crescita Rigogliosa</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo controllore aggiunge {G} alla propria riserva di mana (in aggiunta al mana prodotto dalla terra).</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0297</id>
-    <name>Fuoco Fatuo</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che dalle creature con volare o con raggiungere.)
-{B}: Rigenera il Fuoco Fatuo.</text>
-    <flavorText>
-    </flavorText>
+    <name>Will-o'-the-Wisp</name>
+    <text>Flying (This creature can't be blocked except by creatures with flying or reach.)
+{B}: Regenerate Will-o'-the-Wisp. (The next time this creature would be destroyed this turn, it isn't. Instead tap it, remove all damage from it, and remove it from combat.)</text>
+    <flavorText>"About, about in reel and rout
+The death-fires danced at night;
+The water, like a witch's oils,
+Burnt green, and blue and white."
+—Samuel Coleridge, "The Rime of the Ancient Mariner"</flavorText>
   </item>
   <item>
     <id>LEB0298</id>
     <name>Globo dell'Inverno</name>
-    <text>Fintanto che il Globo dell'Inverno è STAPpato, i giocatori non possono STAPpare più di una terra durante il proprio STAP.</text>
+    <text>I giocatori non possono STAPpare più di una terra durante il proprio STAP. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2244,15 +2230,15 @@ Ogniqualvolta la terra incantata viene TAPpata per attingere mana, il suo contro
   <item>
     <id>LEB0301</id>
     <name>Ira di Dio</name>
-    <text>Distruggi tutte le creature. Non possono essere rigenerate.</text>
+    <text>Distruggi tutte le creature. Non possono essere rigenerate. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEB0302</id>
     <name>Signore degli Zombi</name>
-    <text>Le altre creature Zombie hanno passa-paludi.
-Gli altri Zombie hanno "{B}: Rigenera questo permanente".</text>
+    <text>Le altre creature Zombie hanno passa-paludi. 
+Gli altri Zombie hanno "{B}: Rigenera questo permanente". </text>
     <flavorText>
     </flavorText>
   </item>

@@ -9,21 +9,21 @@
   <item>
     <id>ATQ0002</id>
     <name>Archeologo di Argivia</name>
-    <text>{W}{W},{T}: Riprendi in mano una carta artefatto bersaglio dal tuo cimitero.</text>
+    <text>{W}{W},{T}: Riprendi in mano una carta artefatto bersaglio dal tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ATQ0003</id>
     <name>Fabbro di Argivia</name>
-    <text>{T}: Previeni i prossimi 2 danni che verrebbero inflitti alla creatura artefatto bersaglio in questo turno.</text>
+    <text>{T}: Previeni i prossimi 2 danni che verrebbero inflitti alla creatura artefatto bersaglio in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ATQ0004</id>
     <name>Fate Argothiane</name>
-    <text>Le Fate Argothiane non possono essere bloccate dalle creature artefatto.
+    <text>Le Fate Argothiane non possono essere bloccate dalle creature artefatto. 
 Previeni tutto il danno che verrebbe inflitto alle Fate Argothiane dalle creature artefatto.</text>
     <flavorText>
     </flavorText>
@@ -38,8 +38,8 @@ Previeni tutto il danno che verrebbe inflitto alle Fate Argothiane dalle creatur
   <item>
     <id>ATQ0006</id>
     <name>Orologio dell'Armageddon</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino destino sull'Orologio dell'Armageddon.
-All'inizio della tua acquisizione, l'Orologio dell'Armageddon infligge ad ogni giocatore un danno pari al numero di segnalini destino presenti su di esso.
+    <text>All'inizio del tuo mantenimento, metti un segnalino destino sull'Orologio dell'Armageddon. 
+All'inizio della tua acquisizione, l'Orologio dell'Armageddon infligge ad ogni giocatore un danno pari al numero di segnalini destino presenti su di esso. 
 {4}: Rimuovi un segnalino destino dall'Orologio dell'Armageddon. Qualsiasi giocatore può attivare questa abilità, ma solo durante un qualsiasi mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -54,7 +54,7 @@ All'inizio della tua acquisizione, l'Orologio dell'Armageddon infligge ad ogni g
   <item>
     <id>ATQ0008</id>
     <name>Possedere Artefatto</name>
-    <text>Incanta artefatto
+    <text>Incanta artefatto 
 Ogniqualvolta l'artefatto incantato viene TAPpato o un giocatore attiva un'abilità dell'artefatto incantato senza {T} nel suo costo di attivazione, il Possedere Artefatto infligge 2 danni al controllore di quell'artefatto.</text>
     <flavorText>
     </flavorText>
@@ -62,7 +62,7 @@ Ogniqualvolta l'artefatto incantato viene TAPpato o un giocatore attiva un'abili
   <item>
     <id>ATQ0009</id>
     <name>Sigillo degli Artefatti</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha protezione dagli artefatti. Questo effetto non rimuove il Sigillo degli Artefatti.</text>
     <flavorText>
     </flavorText>
@@ -77,7 +77,7 @@ La creatura incantata ha protezione dagli artefatti. Questo effetto non rimuove 
   <item>
     <id>ATQ0011</id>
     <name>Armatura da Battaglia di Ashnod</name>
-    <text>Puoi scegliere di non STAPpare l'Armatura da Battaglia di Ashnod durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare l'Armatura da Battaglia di Ashnod durante il tuo STAP. 
 {2}, {T}: La creatura bersaglio che controlli prende +2/-2 fintanto che l'Armatura da Battaglia di Ashnod resta TAPpata.</text>
     <flavorText>
     </flavorText>
@@ -85,7 +85,7 @@ La creatura incantata ha protezione dagli artefatti. Questo effetto non rimuove 
   <item>
     <id>ATQ0012</id>
     <name>Trasmutatore di Ashnod</name>
-    <text>{T}, Sacrifica il Trasmutatore di Ashnod: Metti un segnalino +1/+1 su una creatura non artefatto bersaglio. Quella creatura diventa un artefatto in aggiunta ai suoi altri tipi.</text>
+    <text>{T}, Sacrifica il Trasmutatore di Ashnod: Metti un segnalino +1/+1 su una creatura non artefatto bersaglio. Quella creatura diventa un artefatto in aggiunta ai suoi altri tipi. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -99,16 +99,16 @@ La creatura incantata ha protezione dagli artefatti. Questo effetto non rimuove 
   <item>
     <id>ATQ0014</id>
     <name>Ariete da Assedio</name>
-    <text>All'inizio della tua fase di combattimento, l'Ariete da Assedio guadagna branco fino alla fine del combattimento.
-Ogniqualvolta l'Ariete da Assedio viene bloccato da un Muro, distruggi quel Muro alla fine del combattimento.</text>
+    <text>All'inizio della tua fase di combattimento, l'Ariete da Assedio guadagna branco fino alla fine del combattimento. 
+Ogniqualvolta l'Ariete da Assedio viene bloccato da un Muro, distruggi quel Muro alla fine del combattimento. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ATQ0015</id>
     <name>Tavoletta di Bronzo</name>
-    <text>Prima di giocare rimuovi dal tuo mazzo la Tavoletta di Bronzo se non giochi per la posta.
-La Tavoletta di Bronzo entra nel campo di battaglia TAPpata.
+    <text>Prima di giocare rimuovi dal tuo mazzo la Tavoletta di Bronzo se non giochi per la posta. 
+La Tavoletta di Bronzo entra nel campo di battaglia TAPpata. 
 {4}, {T}: Esialia la Tavoletta di Bronzo ed un permanente non pedina bersaglio che un avversario possiede. Quel giocatore può pagare 10 punti vita. Se lo fa, metti la Tavoletta di Bronzo nel cimitero del suo proprietario. Altrimenti, quel giocatore è proprietario della Tavoletta di Bronzo e tu sei il proprietario dell'altra carta esiliata.</text>
     <flavorText>
     </flavorText>
@@ -137,16 +137,16 @@ La Tavoletta di Bronzo entra nel campo di battaglia TAPpata.
   <item>
     <id>ATQ0019</id>
     <name>Statua di Argilla</name>
-    <text>{2}: Rigenera la Statua di Argilla.</text>
+    <text>{2}: Rigenera la Statua di Argilla. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ATQ0020</id>
     <name>Creatura Alata Meccanica</name>
-    <text>Volare
-La Creatura Alata Meccanica entra nel campo di battaglia con quattro segnalini +1/+0 su di essa.
-Alla fine del combattimento, se la Creatura Alata Meccanica ha attaccato o bloccato in questo combattimento, rimuovi un segnalino +1/+0 da essa.
+    <text>Volare 
+La Creatura Alata Meccanica entra nel campo di battaglia con quattro segnalini +1/+0 su di essa. 
+Alla fine del combattimento, se la Creatura Alata Meccanica ha attaccato o bloccato in questo combattimento, rimuovi un segnalino +1/+0 da essa. 
 {X},{T}: Metti fino a X segnalini +1/+0 sulla Creatura Alata Meccanica. Questa abilità non può far sì che il numero complessivo dei segnalini +1/+0 sulla Creatura Alata Meccanica sia superiore a quattro. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -154,7 +154,8 @@ Alla fine del combattimento, se la Creatura Alata Meccanica ha attaccato o blocc
   <item>
     <id>ATQ0021</id>
     <name>Colosso di Sardia</name>
-    <text>Travolgere; Il Colosso di Sardia non STAPpa durante il tuo STAP.
+    <text>Travolgere
+Il Colosso di Sardia non STAPpa durante il tuo STAP. 
 {9}: STAPpa il Colosso di Sardia. attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -162,7 +163,7 @@ Alla fine del combattimento, se la Creatura Alata Meccanica ha attaccato o blocc
   <item>
     <id>ATQ0022</id>
     <name>Elmo di Corallo</name>
-    <text>{3}, Scarta una carta a caso: La creatura bersaglio prende +2/+2 fino alla fine del turno.</text>
+    <text>{3}, Scarta una carta a caso: La creatura bersaglio prende +2/+2 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -176,7 +177,7 @@ Alla fine del combattimento, se la Creatura Alata Meccanica ha attaccato o blocc
   <item>
     <id>ATQ0024</id>
     <name>Griglia Maledetta</name>
-    <text>Mentre la Griglia Maledetta entra nel campo di battaglia, scegli un avversario.
+    <text>Mentre la Griglia Maledetta entra nel campo di battaglia, scegli un avversario. 
 Il limite massimo di carte in mano del giocatore scelto è quattro.</text>
     <flavorText>
     </flavorText>
@@ -191,7 +192,7 @@ Il limite massimo di carte in mano del giocatore scelto è quattro.</text>
   <item>
     <id>ATQ0026</id>
     <name>Detonazione</name>
-    <text>Distruggi un artefatto bersaglio avente il costo di mana convertito X. Non può essere rigenerato. La Detonazione infligge X danni al controllore di quell'artefatto.</text>
+    <text>Distruggi un artefatto bersaglio avente il costo di mana convertito X. Non può essere rigenerato. La Detonazione infligge X danni al controllore di quell'artefatto. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -205,7 +206,7 @@ Il limite massimo di carte in mano del giocatore scelto è quattro.</text>
   <item>
     <id>ATQ0028</id>
     <name>Drago Meccanico</name>
-    <text>{2}: Il Drago Meccanico prende +1/+0 fino alla fine del turno.</text>
+    <text>{2}: Il Drago Meccanico prende +1/+0 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -261,14 +262,14 @@ Il limite massimo di carte in mano del giocatore scelto è quattro.</text>
   <item>
     <id>ATQ0036</id>
     <name>Catapulta a Mitraglia</name>
-    <text>{T}: La Catapulta a Mitraglia infligge 1 danno a una creatura bersaglio con volare.</text>
+    <text>{T}: La Catapulta a Mitraglia infligge 1 danno a una creatura bersaglio con volare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ATQ0037</id>
     <name>Haunting Wind</name>
-    <text>Ogniqualvolta un artefatto viene TAPpato o un giocatore attiva un'abilità attivata di un artefatto senza {T} nel suo costo di attivazione, Haunting Wind infligge 1 danno al controllore di quell'artefatto. [Oracle 2001/08/24]</text>
+    <text>Ogniqualvolta un artefatto viene TAPpato o un giocatore attiva un'abilità attivata di un artefatto senza {T} nel suo costo di attivazione, Haunting Wind infligge 1 danno al controllore di quell'artefatto. Oracle 2001/08/24 </text>
     <flavorText>
     </flavorText>
   </item>
@@ -282,7 +283,7 @@ Il limite massimo di carte in mano del giocatore scelto è quattro.</text>
   <item>
     <id>ATQ0039</id>
     <name>Torre d'Avorio</name>
-    <text>All'inizio del tuo mantenimento, guadagni X punti vita, dove X è il numero di carte nella tua mano meno quattro.</text>
+    <text>All'inizio del tuo mantenimento, guadagni X punti vita, dove X è il numero di carte nella tua mano meno quattro. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -317,8 +318,8 @@ Il limite massimo di carte in mano del giocatore scelto è quattro.</text>
   <item>
     <id>ATQ0044</id>
     <name>Fabbrica di Mishra</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}: La Fabbrica di Mishra diventa una creatura artefatto Addetto-al-Montaggio 2/2 fino alla fine del turno. E' ancora una terra.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}: La Fabbrica di Mishra diventa una creatura artefatto Addetto-al-Montaggio 2/2 fino alla fine del turno. E' ancora una terra. 
 {T}: Una creatura Addetto-al-Montaggio bersaglio prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -326,8 +327,8 @@ Il limite massimo di carte in mano del giocatore scelto è quattro.</text>
   <item>
     <id>ATQ0045</id>
     <name>Fabbrica di Mishra</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}: La Fabbrica di Mishra diventa una creatura artefatto Addetto-al-Montaggio 2/2 fino alla fine del turno. E' ancora una terra.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}: La Fabbrica di Mishra diventa una creatura artefatto Addetto-al-Montaggio 2/2 fino alla fine del turno. E' ancora una terra. 
 {T}: Una creatura Addetto-al-Montaggio bersaglio prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -335,8 +336,8 @@ Il limite massimo di carte in mano del giocatore scelto è quattro.</text>
   <item>
     <id>ATQ0046</id>
     <name>Fabbrica di Mishra</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}: La Fabbrica di Mishra diventa una creatura artefatto Addetto-al-Montaggio 2/2 fino alla fine del turno. E' ancora una terra.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}: La Fabbrica di Mishra diventa una creatura artefatto Addetto-al-Montaggio 2/2 fino alla fine del turno. E' ancora una terra. 
 {T}: Una creatura Addetto-al-Montaggio bersaglio prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -344,8 +345,8 @@ Il limite massimo di carte in mano del giocatore scelto è quattro.</text>
   <item>
     <id>ATQ0047</id>
     <name>Fabbrica di Mishra</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
-{1}: La Fabbrica di Mishra diventa una creatura artefatto Addetto-al-Montaggio 2/2 fino alla fine del turno. E' ancora una terra.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
+{1}: La Fabbrica di Mishra diventa una creatura artefatto Addetto-al-Montaggio 2/2 fino alla fine del turno. E' ancora una terra. 
 {T}: Una creatura Addetto-al-Montaggio bersaglio prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -353,8 +354,8 @@ Il limite massimo di carte in mano del giocatore scelto è quattro.</text>
   <item>
     <id>ATQ0048</id>
     <name>Macchina da Guerra di Mishra</name>
-    <text>Branco
-All'inizio del tuo mantenimento, a meno che tu scarti una carta, TAPpa la Macchina da Guerra di Mishra ed essa ti infligge 3 danni.</text>
+    <text>Branco 
+All'inizio del tuo mantenimento, a meno che tu scarti una carta, TAPpa la Macchina da Guerra di Mishra ed essa ti infligge 3 danni. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -396,7 +397,7 @@ All'inizio del tuo mantenimento, a meno che tu scarti una carta, TAPpa la Macchi
   <item>
     <id>ATQ0054</id>
     <name>Gremlins di Phyrexia</name>
-    <text>Puoi scegliere di non STAPpare i Gremlins di Phyrexia durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare i Gremlins di Phyrexia durante il tuo STAP. 
 {T}: TAPpa un artefatto bersaglio. Non STAPpa durante lo STAP del suo controllore fintanto che i Gremlins di Phyrexia restano TAPpati.</text>
     <flavorText>
     </flavorText>
@@ -404,7 +405,7 @@ All'inizio del tuo mantenimento, a meno che tu scarti una carta, TAPpa la Macchi
   <item>
     <id>ATQ0055</id>
     <name>Potenziare Artefatto</name>
-    <text>Incanta artefatto (Mentre lanci questa carta, bersaglia un artefatto. Questa carta entra nel campo di battaglia assegnata a quell'artefatto.)
+    <text>Incanta artefatto (Mentre lanci questa carta, bersaglia un artefatto. Questa carta entra nel campo di battaglia assegnata a quell'artefatto.) 
 Le abilità attivate dell'artefatto incantato costano {2} in meno per essere attivate. Questo effetto non può ridurre il costo di attivazione di un'abilità a meno di 1 mana.</text>
     <flavorText>
     </flavorText>
@@ -419,7 +420,7 @@ Le abilità attivate dell'artefatto incantato costano {2} in meno per essere att
   <item>
     <id>ATQ0057</id>
     <name>Priest of Yawgmoth</name>
-    <text>{T}, Sacrifica un artefatto: Aggiungi alla tua riserva di mana un ammontare di mana nero pari al costo di mana convertito dell'artefatto sacrificato.</text>
+    <text>{T}, Sacrifica un artefatto: Aggiungi alla tua riserva di mana un ammontare di {B} pari al costo di mana convertito dell'artefatto sacrificato.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -461,15 +462,15 @@ Le abilità attivate dell'artefatto incantato costano {2} in meno per essere att
   <item>
     <id>ATQ0063</id>
     <name>Saggio di Lat-Nam</name>
-    <text>{T}, Sacrifica un artefatto: Pesca una carta.</text>
+    <text>{T}, Sacrifica un artefatto: Pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ATQ0064</id>
     <name>Polimorfo</name>
-    <text>Mentre il Polimorfo entra nel campo di battaglia, scegli un numero tra 0 e 7.
-All'inizio del tuo mantenimento, puoi scegliere un numero tra 0 e 7.
+    <text>Mentre il Polimorfo entra nel campo di battaglia, scegli un numero tra 0 e 7. 
+All'inizio del tuo mantenimento, puoi scegliere un numero tra 0 e 7. 
 La forza del Polimorfo è pari all'ultimo numero scelto, e la sua costituzione è pari a 7 meno quel numero.</text>
     <flavorText>
     </flavorText>
@@ -491,7 +492,7 @@ La forza del Polimorfo è pari all'ultimo numero scelto, e la sua costituzione �
   <item>
     <id>ATQ0067</id>
     <name>Miniera a Cielo Aperto</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}, Sacrifica la Miniera a Cielo Aperto: Distruggi una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -499,7 +500,7 @@ La forza del Polimorfo è pari all'ultimo numero scelto, e la sua costituzione �
   <item>
     <id>ATQ0068</id>
     <name>Miniera a Cielo Aperto</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}, Sacrifica la Miniera a Cielo Aperto: Distruggi una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -507,7 +508,7 @@ La forza del Polimorfo è pari all'ultimo numero scelto, e la sua costituzione �
   <item>
     <id>ATQ0069</id>
     <name>Miniera a Cielo Aperto</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}, Sacrifica la Miniera a Cielo Aperto: Distruggi una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -515,7 +516,7 @@ La forza del Polimorfo è pari all'ultimo numero scelto, e la sua costituzione �
   <item>
     <id>ATQ0070</id>
     <name>Miniera a Cielo Aperto</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {T}, Sacrifica la Miniera a Cielo Aperto: Distruggi una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -537,7 +538,7 @@ La forza del Polimorfo è pari all'ultimo numero scelto, e la sua costituzione �
   <item>
     <id>ATQ0073</id>
     <name>Sarcofago di Tawnos</name>
-    <text>Puoi scegliere di non STAPpare il Sarcofago di Tawnos durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare il Sarcofago di Tawnos durante il tuo STAP. 
 {3}, {T}: Esilia una creatura bersaglio e tutte le Aura ad essa assegnate. Prendi nota del numero e del tipo di segnalini che erano su quella creatura. Quando il Sarcofago di Tawnos lascia il campo di battaglia o diventa STAPpato, rimetti la carta esiliata sul campo di battaglia sotto il controllo del suo proprietario, TAPpata e con il numero e il tipo di segnalini annotati, e se lo fai, rimetti le carte Aura esiliate sul campo di battaglia sotto il controllo del loro proprietario assegnate a quel permanente.</text>
     <flavorText>
     </flavorText>
@@ -552,7 +553,7 @@ La forza del Polimorfo è pari all'ultimo numero scelto, e la sua costituzione �
   <item>
     <id>ATQ0075</id>
     <name>Arsenale di Tawnos</name>
-    <text>Puoi scegliere di non STAPpare l'Arsenale di Tawnos durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare l'Arsenale di Tawnos durante il tuo STAP. 
 {2}, {T}: La creatura bersaglio prende +1/+1 fintanto che l'Arsenale di Tawnos resta TAPpato.</text>
     <flavorText>
     </flavorText>
@@ -560,9 +561,9 @@ La forza del Polimorfo è pari all'ultimo numero scelto, e la sua costituzione �
   <item>
     <id>ATQ0076</id>
     <name>Tetravus</name>
-    <text>Volare
-Il Tetravus entra nel campo di battaglia con tre segnalini +1/+1.
-All'inizio del tuo mantenimento, puoi rimuovere un qualsiasi numero di segnalini +1/+1 dal Tetravus. Se lo fai, metti sul campo di battaglia altrettante pedine creatura artefatto Tetravite 1/1 incolori. Ognuna di esse ha volare e "Il Tetravite non può essere incantato."
+    <text>Volare 
+Il Tetravus entra nel campo di battaglia con tre segnalini +1/+1. 
+All'inizio del tuo mantenimento, puoi rimuovere un qualsiasi numero di segnalini +1/+1 dal Tetravus. Se lo fai, metti sul campo di battaglia altrettante pedine creatura artefatto Tetravite 1/1 incolori. Ognuna di esse ha volare e "Il Tetravite non può essere incantato." 
 All'inizio del tuo mantenimento, puoi esiliare un qualsiasi numero di pedine messe sul campo di battaglia con il Tetravus. Se lo fai, metti altrettanti segnalini +1/+1 sul Tetravus.</text>
     <flavorText>
     </flavorText>
@@ -570,7 +571,7 @@ All'inizio del tuo mantenimento, puoi esiliare un qualsiasi numero di pedine mes
   <item>
     <id>ATQ0077</id>
     <name>La Griglia</name>
-    <text>Mentre la Griglia entra nel campo di battaglia, scegli un avversario.
+    <text>Mentre la Griglia entra nel campo di battaglia, scegli un avversario. 
 All'inizio del mantenimento del giocatore scelto, La Griglia infligge X danni a quel giocatore, dove X è 3 meno il numero di carte nella sua mano.</text>
     <flavorText>
     </flavorText>
@@ -585,15 +586,14 @@ All'inizio del mantenimento del giocatore scelto, La Griglia infligge X danni a 
   <item>
     <id>ATQ0079</id>
     <name>Trasforma Artefatto</name>
-    <text>Come costo addizionale per lanciare il Trasforma Artefatto, sacrifica un artefatto.
-Passa in rassegna il tuo grimorio per una carta artefatto. Se il costo di mana convertito di quella carta è minore o uguale al costo di mana convertito dell'artefatto sacrificato, mettila sul campo di battaglia. Se è maggiore, puoi pagare {X}, dove X è la differenza dei costi. Se lo fai, mettila sul campo di battaglia. Se non lo fai, mettila nel cimitero del proprietario. Poi rimescola il tuo grimorio.</text>
+    <text>Sacrifica un artefatto. Se lo fai, passa in rassegna il tuo grimorio per una carta artefatto. Se il costo di mana convertito di quella carta è minore o uguale al costo di mana convertito dell'artefatto sacrificato, mettila sul campo di battaglia. Se è maggiore, puoi pagare {X}, dove X è la differenza dei costi. Se lo fai, mettila sul campo di battaglia. Se non lo fai, mettila nel cimitero del proprietario. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ATQ0080</id>
     <name>Triskelion</name>
-    <text>Il Triskelion entra nel campo di battaglia con tre segnalini +1/+1.
+    <text>Il Triskelion entra nel campo di battaglia con tre segnalini +1/+1. 
 Rimuovi un segnalino +1/+1 dal Triskelion: Il Triskelion infligge 1 danno a una creatura o a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -706,7 +706,7 @@ Rimuovi un segnalino +1/+1 dal Triskelion: Il Triskelion infligge 1 danno a una 
   <item>
     <id>ATQ0096</id>
     <name>Muro di Lance</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Attacco improvviso</text>
     <flavorText>
     </flavorText>
@@ -721,16 +721,16 @@ Attacco improvviso</text>
   <item>
     <id>ATQ0098</id>
     <name>Poltergeist di Xenic</name>
-    <text>{T}: Fino al tuo prossimo mantenimento, l'artefatto non creatura bersaglio diventa una creatura artefatto con forza e costituzione ciascuna pari al suo costo di mana convertito.</text>
+    <text>{T}: Fino al tuo prossimo mantenimento, l'artefatto non creatura bersaglio diventa una creatura artefatto con forza e costituzione ciascuna pari al suo costo di mana convertito. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>ATQ0099</id>
     <name>Demone di Yawgmoth</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che dalle creature con volare o con raggiungere)
-Attacco improvviso
-All'inizio del tuo mantenimento, puoi sacrificare un artefatto. Se non lo fai, TAPpa il Demone di Yawgmoth ed esso ti infligge 2 danni.</text>
+    <text>Volare (Questa creatura non può essere bloccata tranne che dalle creature con volare o con raggiungere) 
+Attacco improvviso 
+All'inizio del tuo mantenimento, puoi sacrificare un artefatto. Se non lo fai, TAPpa il Demone di Yawgmoth ed esso ti infligge 2 danni. </text>
     <flavorText>
     </flavorText>
   </item>

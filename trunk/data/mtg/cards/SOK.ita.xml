@@ -1,22 +1,24 @@
 <cards name="Liberatori di Kamigawa">
   <item>
     <id>SOK0001</id>
-    <name>Onda d'Urto Eterea</name>
-    <text>Scegli uno - TAPpa tutti gli Spiriti; oppure TAPpa tutte le creature non Spirito.</text>
-    <flavorText>
-    </flavorText>
+    <name>Æther Shockwave</name>
+    <text>Choose one — Tap all Spirits; or tap all non-Spirit creatures.</text>
+    <flavorText>"The strain upon the veil between worlds began to show near the end of the Kami War. Strange happenings that neither side could control lashed out across Kamigawa."
+—Observations of the Kami War</flavorText>
   </item>
   <item>
     <id>SOK0002</id>
     <name>Cavalcafalene di Araba</name>
-    <text>Volare; Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)</text>
+    <text>Volare
+Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOK0003</id>
     <name>Kirin Celestiale</name>
-    <text>Volare; Ogniqualvolta lanci una magia Spirito o Arcano, distruggi tutti i permanenti con lo stesso costo di mana convertito di quella magia.</text>
+    <text>Volare
+Ogniqualvolta lanci una magia Spirito o Arcano, distruggi tutti i permanenti con lo stesso costo di mana convertito di quella magia.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -30,7 +32,7 @@
   <item>
     <id>SOK0005</id>
     <name>Intimidito dalla Saggezza</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata non può attaccare o bloccare a meno che il suo controllore paghi {1} per ogni carta nella tua mano.</text>
     <flavorText>
     </flavorText>
@@ -38,7 +40,7 @@ La creatura incantata non può attaccare o bloccare a meno che il suo controllor
   <item>
     <id>SOK0006</id>
     <name>Telo di Luce</name>
-    <text>La creatura attaccante non bloccata bersaglio diventa bloccata.
+    <text>La creatura attaccante non bloccata bersaglio diventa bloccata. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -53,7 +55,7 @@ Pesca una carta.</text>
   <item>
     <id>SOK0008</id>
     <name>Cavalieri Liberi di Eiganjo</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del tuo mantenimento, il proprietario riprende in mano una creatura bianca che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -61,7 +63,7 @@ All'inizio del tuo mantenimento, il proprietario riprende in mano una creatura b
   <item>
     <id>SOK0009</id>
     <name>Ideale Perpetuo</name>
-    <text>Passa in rassegna il tuo grimorio per una carta incantesimo e mettila nel campo di battaglia. Poi rimescola il tuo grimorio.
+    <text>Passa in rassegna il tuo grimorio per una carta incantesimo e mettila nel campo di battaglia. Poi rimescola il tuo grimorio. 
 Epopea (Per il resto della partita, non puoi lanciare magie. All'inizio di ogni tuo mantenimento, copia questa magia tranne la sua abilità epopea.)</text>
     <flavorText>
     </flavorText>
@@ -69,7 +71,7 @@ Epopea (Per il resto della partita, non puoi lanciare magie. All'inizio di ogni 
   <item>
     <id>SOK0010</id>
     <name>Redentrice Lumifera</name>
-    <text>{W}, {T}: Guadagni 2 punti vita.
+    <text>{W}, {T}: Guadagni 2 punti vita. 
 Incanalare - {1}{W}, Scarta la Redentrice Lumifera: Guadagni 4 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -77,14 +79,14 @@ Incanalare - {1}{W}, Scarta la Redentrice Lumifera: Guadagni 4 punti vita.</text
   <item>
     <id>SOK0011</id>
     <name>Salva di Frecce</name>
-    <text>La Salva di Frecce infligge X danni suddivisi a tua scelta tra un qualsiasi numero di creature attaccanti bersaglio.</text>
+    <text>La Salva di Frecce infligge X danni suddivisi a tua scelta tra un qualsiasi numero di creature attaccanti bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOK0012</id>
     <name>Mano dell'Onore</name>
-    <text>Protezione dal nero
+    <text>Protezione dal nero 
 Bushido 1(Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)</text>
     <flavorText>
     </flavorText>
@@ -113,7 +115,7 @@ Bushido 1(Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.
   <item>
     <id>SOK0016</id>
     <name>Lama dell'Alba Kitsune</name>
-    <text>Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+    <text>Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.) 
 Quando la Lama dell'Alba Kitsune entra nel campo di battaglia, puoi TAPpare una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -128,8 +130,8 @@ Quando la Lama dell'Alba Kitsune entra nel campo di battaglia, puoi TAPpare una 
   <item>
     <id>SOK0018</id>
     <name>Kiyomaro, Primo ad Alzarsi</name>
-    <text>La forza e la costituzione di Kiyomaro, Primo ad Alzarsi sono pari ciascuna al numero di carte che hai in mano.
-Fintanto che hai almeno quattro carte in mano, Kiyomaro ha cautela.
+    <text>La forza e la costituzione di Kiyomaro, Primo ad Alzarsi sono pari ciascuna al numero di carte che hai in mano. 
+Fintanto che hai almeno quattro carte in mano, Kiyomaro ha cautela. 
 Ogniqualvolta Kiyomaro infligge danno, se hai almeno sette carte in mano, guadagni 7 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -144,7 +146,7 @@ Ogniqualvolta Kiyomaro infligge danno, se hai almeno sette carte in mano, guadag
   <item>
     <id>SOK0020</id>
     <name>Falena Aladiluna</name>
-    <text>Volare
+    <text>Volare 
 {W}: La Falena Aladiluna prende +0/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -152,7 +154,7 @@ Ogniqualvolta Kiyomaro infligge danno, se hai almeno sette carte in mano, guadag
   <item>
     <id>SOK0021</id>
     <name>Nikko-Onna</name>
-    <text>Quando Nikko-Onna entra nel campo di battaglia, distruggi un incantesimo bersaglio.
+    <text>Quando Nikko-Onna entra nel campo di battaglia, distruggi un incantesimo bersaglio. 
 Ogniqualvolta lanci una magia Spirito o Arcano, puoi far tornare Nikko-Onna in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -181,7 +183,7 @@ Ogniqualvolta lanci una magia Spirito o Arcano, puoi far tornare Nikko-Onna in m
   <item>
     <id>SOK0025</id>
     <name>Intenzioni Pure</name>
-    <text>Ogniqualvolta una magia o un'abilità controllata da un avversario ti fa scartare carte in questo turno, riprendi in mano quelle carte dal tuo cimitero.
+    <text>Ogniqualvolta una magia o un'abilità controllata da un avversario ti fa scartare carte in questo turno, riprendi in mano quelle carte dal tuo cimitero. 
 Ogniqualvolta una magia o un'abilità controllata da un avversario ti fa scartare le Intenzioni Pure, riprendi in mano le Intenzioni Pure dal tuo cimitero all'inizio della prossima sottofase finale.</text>
     <flavorText>
     </flavorText>
@@ -196,9 +198,10 @@ Ogniqualvolta una magia o un'abilità controllata da un avversario ti fa scartar
   <item>
     <id>SOK0027</id>
     <name>Coda-Runa, Antenato Kitsune</name>
-    <text>Quando hai almeno 30 punti vita, ruota Coda-Runa, Antenato Kitsune.
-/flip/; Essenza di Coda-Runa
-Incantesimo Leggendario
+    <text>2/2. Quando hai almeno 30 punti vita, ruota Coda-Runa, Antenato Kitsune. 
+/flip/
+Essenza di Coda-Runa 
+Incantesimo Leggendario 
 Previeni tutto il danno che verrebbe inflitto alle creature che controlli.</text>
     <flavorText>
     </flavorText>
@@ -213,7 +216,7 @@ Previeni tutto il danno che verrebbe inflitto alle creature che controlli.</text
   <item>
     <id>SOK0029</id>
     <name>Shinen della Luce delle Stelle</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Incanalare - {1}{W}, Scarta lo Shinen della Luce delle Stelle: La creatura bersaglio guadagna attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -221,7 +224,7 @@ Incanalare - {1}{W}, Scarta lo Shinen della Luce delle Stelle: La creatura bersa
   <item>
     <id>SOK0030</id>
     <name>Visita Spirituale</name>
-    <text>Metti sul campo di battaglia una pedina creatura Spirito 1/1 incolore.
+    <text>Metti sul campo di battaglia una pedina creatura Spirito 1/1 incolore. 
 Unire nell'Arcano {W} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi l'effetto di questa carta a quella magia.)</text>
     <flavorText>
     </flavorText>
@@ -229,7 +232,7 @@ Unire nell'Arcano {W} (Mentre lanci una magia Arcano, puoi rivelare questa carta
   <item>
     <id>SOK0031</id>
     <name>Guardiana del Torii</name>
-    <text>Cautela
+    <text>Cautela 
 Muta-anima 4 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 4 dal tuo cimitero.)</text>
     <flavorText>
     </flavorText>
@@ -237,7 +240,7 @@ Muta-anima 4 (Quando questa viene messa in un cimitero dal campo di battaglia, p
   <item>
     <id>SOK0032</id>
     <name>Kirin Zampanube</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta lanci una magia Spirito o Arcano, puoi mettere le prime X carte del grimorio del giocatore bersaglio nel suo cimitero, dove X è il costo di mana convertito di quella magia.</text>
     <flavorText>
     </flavorText>
@@ -266,10 +269,11 @@ Ogniqualvolta lanci una magia Spirito o Arcano, puoi mettere le prime X carte de
   <item>
     <id>SOK0036</id>
     <name>Erayo, Antenata di Soratami</name>
-    <text>Volare
-Ogniqualvolta viene lanciata la quarta magia del turno, ruota Erayo, Antenata di Soratami.
-/flip/; Essenza di Erayo
-Incantesimo Leggendario
+    <text>1/1. Volare 
+Ogniqualvolta viene lanciata la quarta magia del turno, ruota Erayo, Antenata di Soratami. 
+/flip/
+Essenza di Erayo 
+Incantesimo Leggendario 
 Ogniqualvolta un avversario lancia una magia per la prima volta in un turno, neutralizza quella magia.</text>
     <flavorText>
     </flavorText>
@@ -284,7 +288,7 @@ Ogniqualvolta un avversario lancia una magia per la prima volta in un turno, neu
   <item>
     <id>SOK0038</id>
     <name>Dominio Eterno</name>
-    <text>Passa in rassegna il grimorio di un avversario bersaglio per una carta artefatto, creatura, incantesimo o terra. Metti quella carta nel campo di battaglia sotto il tuo controllo. Poi quel giocatore rimescola il suo grimorio.
+    <text>Passa in rassegna il grimorio di un avversario bersaglio per una carta artefatto, creatura, incantesimo o terra. Metti quella carta nel campo di battaglia sotto il tuo controllo. Poi quel giocatore rimescola il suo grimorio. 
 Epopea (Per il resto della partita, non puoi lanciare magie. All'inizio di ogni tuo mantenimento, copia questa magia tranne la sua abilità epopea.)</text>
     <flavorText>
     </flavorText>
@@ -292,9 +296,9 @@ Epopea (Per il resto della partita, non puoi lanciare magie. All'inizio di ogni 
   <item>
     <id>SOK0039</id>
     <name>Menteterna</name>
-    <text>(I costi di mana inesistenti non possono essere pagati.)
-Pesca una carta.
-Menteterna è blu.
+    <text>(I costi di mana inesistenti non possono essere pagati.) 
+Pesca una carta. 
+Menteterna è blu. 
 Unire nell'Arcano {1}{U} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi l'effetto di questa carta a quella magia.)</text>
     <flavorText>
     </flavorText>
@@ -302,8 +306,8 @@ Unire nell'Arcano {1}{U} (Mentre lanci una magia Arcano, puoi rivelare questa ca
   <item>
     <id>SOK0040</id>
     <name>Libero dalla Realtà</name>
-    <text>Incanta creatura
-{U}: TAPpa la creatura incantata.
+    <text>Incanta creatura 
+{U}: TAPpa la creatura incantata. 
 {U}: STAPpa la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -311,7 +315,7 @@ Unire nell'Arcano {1}{U} (Mentre lanci una magia Arcano, puoi rivelare questa ca
   <item>
     <id>SOK0041</id>
     <name>Carceriere Lumifero</name>
-    <text>{3}{U}, {T}: Neutralizza una magia bersaglio a meno che il suo controllore paghi {2}.
+    <text>{3}{U}, {T}: Neutralizza una magia bersaglio a meno che il suo controllore paghi {2}. 
 Incanalare - {3}{U}, Scarta il Carceriere Lumifero: Neutralizza una magia bersaglio a meno che il suo controllore paghi {4}.</text>
     <flavorText>
     </flavorText>
@@ -326,7 +330,7 @@ Incanalare - {3}{U}, Scarta il Carceriere Lumifero: Neutralizza una magia bersag
   <item>
     <id>SOK0043</id>
     <name>Kaho, Storica di Minamo</name>
-    <text>Quando Kaho, Storica di Minamo entra nel campo di battaglia, passa in rassegna il tuo grimorio per un massimo di tre carte istantaneo ed esiliale. Poi rimescola il tuo grimorio.
+    <text>Quando Kaho, Storica di Minamo entra nel campo di battaglia, passa in rassegna il tuo grimorio per un massimo di tre carte istantaneo ed esiliale. Poi rimescola il tuo grimorio. 
 {X}, {T} : Puoi lanciare una carta con costo di mana convertito pari a X esiliata con Kaho senza pagare il suo costo di mana.</text>
     <flavorText>
     </flavorText>
@@ -341,7 +345,7 @@ Incanalare - {3}{U}, Scarta il Carceriere Lumifero: Neutralizza una magia bersag
   <item>
     <id>SOK0045</id>
     <name>Kiri-Onna</name>
-    <text>Quando Kiri-Onna entra nel campo di battaglia, il proprietario riprende in mano una creatura bersaglio.
+    <text>Quando Kiri-Onna entra nel campo di battaglia, il proprietario riprende in mano una creatura bersaglio. 
 Ogniqualvolta lanci una magia Spirito o Arcano, puoi far tornare Kiri-Onna in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -356,7 +360,7 @@ Ogniqualvolta lanci una magia Spirito o Arcano, puoi far tornare Kiri-Onna in ma
   <item>
     <id>SOK0047</id>
     <name>Curapergamene di Minamo</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Il numero massimo di carte che puoi tenere in mano è aumentato di uno.</text>
     <flavorText>
     </flavorText>
@@ -364,8 +368,8 @@ Il numero massimo di carte che puoi tenere in mano è aumentato di uno.</text>
   <item>
     <id>SOK0048</id>
     <name>Illusionista Arcodiluna</name>
-    <text>Volare
-{2}, Il proprietario riprende in mano una terra che tu controlli: La terra bersaglio diventa un tipo di terra base a tua scelta fino alla fine del turno.</text>
+    <text>Volare 
+{2}, Il proprietario riprende in mano una terra che tu controlli: La terra bersaglio diventa un tipo di terra base a tua scelta fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -379,7 +383,7 @@ Il numero massimo di carte che puoi tenere in mano è aumentato di uno.</text>
   <item>
     <id>SOK0050</id>
     <name>Evocabrezza di Oboro</name>
-    <text>Volare
+    <text>Volare 
 {2}, Il proprietario riprende in mano una terra che tu controlli: STAPpa una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -387,7 +391,7 @@ Il numero massimo di carte che puoi tenere in mano è aumentato di uno.</text>
   <item>
     <id>SOK0051</id>
     <name>Inviato di Oboro</name>
-    <text>Volare &lt;BR{2}, Il proprietario riprende in mano una terra che tu controlli: La creatura bersaglio prende -X/-0 fino alla fine del turno, dove X è il numero di carte che hai in mano.</text>
+    <text>Volare 2}, Il proprietario riprende in mano una terra che tu controlli: La creatura bersaglio prende -X/-0 fino alla fine del turno, dove X è il numero di carte che hai in mano.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -436,7 +440,7 @@ Il numero massimo di carte che puoi tenere in mano è aumentato di uno.</text>
   <item>
     <id>SOK0058</id>
     <name>Confini Cangianti</name>
-    <text>Scambia il controllo di due terre bersaglio.
+    <text>Scambia il controllo di due terre bersaglio. 
 Unire nell'Arcano {3}{U} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi l'effetto di questa carta a quella magia.)</text>
     <flavorText>
     </flavorText>
@@ -444,7 +448,7 @@ Unire nell'Arcano {3}{U} (Mentre lanci una magia Arcano, puoi rivelare questa ca
   <item>
     <id>SOK0059</id>
     <name>Shinen delle Ali del Volo</name>
-    <text>Volare
+    <text>Volare 
 Incanalare - {U}, Scarta lo Shinen delle Ali del Volo: La creatura bersaglio guadagna volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -452,8 +456,8 @@ Incanalare - {U}, Scarta lo Shinen delle Ali del Volo: La creatura bersaglio gua
   <item>
     <id>SOK0060</id>
     <name>Soramaro, Primo a Sognare</name>
-    <text>Volare
-La forza e la costituzione di Soramaro, Primo a Sognare sono ciascuna pari al numero di carte nella tua mano.
+    <text>Volare 
+La forza e la costituzione di Soramaro, Primo a Sognare sono ciascuna pari al numero di carte nella tua mano. 
 {4}, Il proprietario riprende in mano una terra che tu controlli: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -461,7 +465,7 @@ La forza e la costituzione di Soramaro, Primo a Sognare sono ciascuna pari al nu
   <item>
     <id>SOK0061</id>
     <name>Consigliere Fidato</name>
-    <text>Il limite massimo di carte nella tua mano è aumentato di due.
+    <text>Il limite massimo di carte nella tua mano è aumentato di due. 
 All'inizio del tuo mantenimento, fai tornare una creatura blu che controlli in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -469,14 +473,14 @@ All'inizio del tuo mantenimento, fai tornare una creatura blu che controlli in m
   <item>
     <id>SOK0062</id>
     <name>Doppio Lancio</name>
-    <text>Copia una magia istantaneo o stregoneria bersaglio. Puoi scegliere nuovi bersagli per la copia.</text>
+    <text>Copia una magia istantaneo o stregoneria bersaglio. Puoi scegliere nuovi bersagli per la copia. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOK0063</id>
     <name>Akuta, Nato dalla Cenere</name>
-    <text>Rapidità
+    <text>Rapidità 
 All'inizio del tuo mantenimento, se hai in mano più carte di ogni avversario, puoi sacrificare una Palude. Se lo fai, rimetti Akuta, Nato dalla Cenere nel campo di battaglia dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -498,7 +502,7 @@ All'inizio del tuo mantenimento, se hai in mano più carte di ogni avversario, p
   <item>
     <id>SOK0066</id>
     <name>Morte dei Mille Pungiglioni</name>
-    <text>L'avversario bersaglio perde 1 punto vita e tu guadagni 1 punto vita.
+    <text>L'avversario bersaglio perde 1 punto vita e tu guadagni 1 punto vita. 
 All'inizio del tuo mantenimento, se hai in mano più carte di ogni avversario, puoi riprendere in mano dal tuo cimitero la Morte dei Mille Pungiglioni.</text>
     <flavorText>
     </flavorText>
@@ -506,8 +510,8 @@ All'inizio del tuo mantenimento, se hai in mano più carte di ogni avversario, p
   <item>
     <id>SOK0067</id>
     <name>Kami del Rintocco Funebre</name>
-    <text>Volare
-{2}: Il Kami del Rintocco Funebre prende +1/+1 fino alla fine del turno. Sacrificalo all'inizio della prossima sottofase finale.
+    <text>Volare 
+{2}: Il Kami del Rintocco Funebre prende +1/+1 fino alla fine del turno. Sacrificalo all'inizio della prossima sottofase finale. 
 Muta-anima 1 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 1 dal tuo cimitero.)</text>
     <flavorText>
     </flavorText>
@@ -515,14 +519,14 @@ Muta-anima 1 (Quando questa viene messa in un cimitero dal campo di battaglia, p
   <item>
     <id>SOK0068</id>
     <name>Nezumi Maschera di Morte</name>
-    <text>Fintanto che hai sette o più carte in mano, il Nezumi Maschera di Morte prende +2/+1 e ha paura.</text>
+    <text>Fintanto che hai sette o più carte in mano, il Nezumi Maschera di Morte prende +2/+1 e ha paura. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOK0069</id>
     <name>Esilio nelle Tenebre</name>
-    <text>L'avversario bersaglio sacrifica una creatura con costo di mana convertito pari o inferiore a 3.
+    <text>L'avversario bersaglio sacrifica una creatura con costo di mana convertito pari o inferiore a 3. 
 All'inizio del tuo mantenimento, se hai in mano più carte di ciascun avversario, puoi riprendere in mano dal tuo cimitero l'Esilio nelle Tenebre.</text>
     <flavorText>
     </flavorText>
@@ -537,7 +541,7 @@ All'inizio del tuo mantenimento, se hai in mano più carte di ciascun avversario
   <item>
     <id>SOK0071</id>
     <name>Cacciatore Lumifero</name>
-    <text>{4}{B}, {T}: L'avversario bersaglio scarta due carte. Attiva questa abilità solo quando potresti lanciare una stregoneria.
+    <text>{4}{B}, {T}: L'avversario bersaglio scarta due carte. Attiva questa abilità solo quando potresti lanciare una stregoneria. 
 Incanalare - {5}{B}{B}, Scarta il Cacciatore Lumifero: Il giocatore bersaglio scarta quattro carte. Attiva questa abilità solo quando potresti lanciare una stregoneria.</text>
     <flavorText>
     </flavorText>
@@ -552,15 +556,15 @@ Incanalare - {5}{B}{B}, Scarta il Cacciatore Lumifero: Il giocatore bersaglio sc
   <item>
     <id>SOK0073</id>
     <name>Mano della Crudeltà</name>
-    <text>Protezione dal bianco
-Bushido 1 &lt;i&gt;(Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)&lt;/i&gt;</text>
+    <text>Protezione dal bianco 
+Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOK0074</id>
     <name>Kirin Infernale</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta lanci una magia Spirito o Arcano, il giocatore bersaglio rivela la sua mano e scarta tutte le carte con il costo di mana convertito di quella magia.</text>
     <flavorText>
     </flavorText>
@@ -568,7 +572,7 @@ Ogniqualvolta lanci una magia Spirito o Arcano, il giocatore bersaglio rivela la
   <item>
     <id>SOK0075</id>
     <name>Kagemaro, Primo a Soffrire</name>
-    <text>La forza e la costituzione di Kagemaro, Primo a Soffrire sono pari ciascuna al numero di carte che hai in mano.
+    <text>La forza e la costituzione di Kagemaro, Primo a Soffrire sono pari ciascuna al numero di carte che hai in mano. 
 {B}, Sacrifica Kagemaro: Tutte le creature prendono -X/-X fino alla fine del turno, dove X è pari al numero di carte che hai in mano.</text>
     <flavorText>
     </flavorText>
@@ -576,7 +580,7 @@ Ogniqualvolta lanci una magia Spirito o Arcano, il giocatore bersaglio rivela la
   <item>
     <id>SOK0076</id>
     <name>Stretta di Kagemaro</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende -X/-X, dove X è il numero di carte nella tua mano.</text>
     <flavorText>
     </flavorText>
@@ -591,7 +595,8 @@ La creatura incantata prende -X/-X, dove X è il numero di carte nella tua mano.
   <item>
     <id>SOK0078</id>
     <name>Kemuri-Onna</name>
-    <text>Quando Kemuri-Onna entra nel campo di battaglia, il giocatore bersaglio scarta una carta.; Ogniqualvolta lanci una magia Spirito o Arcano, puoi riprendere in mano Kemuri-Onna dal tuo cimitero.</text>
+    <text>Quando Kemuri-Onna entra nel campo di battaglia, il giocatore bersaglio scarta una carta.
+Ogniqualvolta lanci una magia Spirito o Arcano, puoi riprendere in mano Kemuri-Onna dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -605,9 +610,10 @@ La creatura incantata prende -X/-X, dove X è il numero di carte nella tua mano.
   <item>
     <id>SOK0080</id>
     <name>Kuon, Antenato Ogre</name>
-    <text>All'inizio della sottofase finale, se sono state messe nei cimiteri dal campo di battaglia tre o più creature in questo turno, ruota Kuon, Antenato Ogre.
-/flip/; Essenza di Kuon
-Incantesimo Leggendario
+    <text>2/4. All'inizio della sottofase finale, se sono state messe nei cimiteri dal campo di battaglia tre o più creature in questo turno, ruota Kuon, Antenato Ogre. 
+/flip/
+Essenza di Kuon 
+Incantesimo Leggendario 
 All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica una creatura.</text>
     <flavorText>
     </flavorText>
@@ -622,7 +628,7 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica una crea
   <item>
     <id>SOK0082</id>
     <name>Sottoposto di Kuro</name>
-    <text>Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+    <text>Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.) 
 {1}{B}: Rigenera il Sottoposto di Kuro.</text>
     <flavorText>
     </flavorText>
@@ -637,7 +643,7 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica una crea
   <item>
     <id>SOK0084</id>
     <name>Maga, Traditore dei Mortali</name>
-    <text>La Maga, Traditore dei Mortali entra nel campo di battaglia con X segnalini +1/+1 su di essa.
+    <text>La Maga, Traditore dei Mortali entra nel campo di battaglia con X segnalini +1/+1 su di essa. 
 Quando Maga entra nel campo di battaglia, il giocatore bersaglio perde un ammontare di punti vita pari al numero di segnalini +1/+1 su di esso.</text>
     <flavorText>
     </flavorText>
@@ -645,7 +651,7 @@ Quando Maga entra nel campo di battaglia, il giocatore bersaglio perde un ammont
   <item>
     <id>SOK0085</id>
     <name>Indicatore di Malevolenza</name>
-    <text>All'inizio della sottofase finale, sacrifica l'Indicatore di Malevolenza e perdi 8 punti vita.
+    <text>All'inizio della sottofase finale, sacrifica l'Indicatore di Malevolenza e perdi 8 punti vita. 
 Ogniqualvolta un'altra carta viene messa nel tuo cimitero da qualsiasi zona, l'avversario bersaglio prende il controllo dell'Indicatore di Malevolenza.</text>
     <flavorText>
     </flavorText>
@@ -653,7 +659,7 @@ Ogniqualvolta un'altra carta viene messa nel tuo cimitero da qualsiasi zona, l'a
   <item>
     <id>SOK0086</id>
     <name>Tormento Senza Fine</name>
-    <text>Passa in rassegna il grimorio del giocatore bersaglio per X carte, dove X è il numero di carte nella tua mano, e esiliale. Poi quel giocatore rimescola il suo grimorio.
+    <text>Passa in rassegna il grimorio del giocatore bersaglio per X carte, dove X è il numero di carte nella tua mano, e esiliale. Poi quel giocatore rimescola il suo grimorio. 
 Epopea (Per il resto della partita, non puoi lanciare magie. All'inizio di ogni tuo mantenimento, copia questa magia tranne la sua abilità epopea.)</text>
     <flavorText>
     </flavorText>
@@ -675,7 +681,7 @@ Epopea (Per il resto della partita, non puoi lanciare magie. All'inizio di ogni 
   <item>
     <id>SOK0089</id>
     <name>Schiavo Delirante degli Oni</name>
-    <text>Quando lo Schiavo Delirante degli Oni entra nel campo di battaglia, se non controlli almeno un Demone perdi 3 punti vita.
+    <text>Quando lo Schiavo Delirante degli Oni entra nel campo di battaglia, se non controlli almeno un Demone perdi 3 punti vita. 
 Quando lo Schiavo Delirante degli Oni lascia il campo di battaglia, se non controlli almeno un Demone perdi 3 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -690,7 +696,7 @@ Quando lo Schiavo Delirante degli Oni lascia il campo di battaglia, se non contr
   <item>
     <id>SOK0091</id>
     <name>Shinen della Paura Infantile</name>
-    <text>Lo Shinen della Paura Infantile non può bloccare.
+    <text>Lo Shinen della Paura Infantile non può bloccare. 
 Incanalare - {1}{B}, Scarta lo Shinen della Paura Infantile: La creatura bersaglio non può bloccare in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -705,7 +711,7 @@ Incanalare - {1}{B}, Scarta lo Shinen della Paura Infantile: La creatura bersagl
   <item>
     <id>SOK0093</id>
     <name>Collezionista di Teschi</name>
-    <text>All'inizio del tuo mantenimento, il proprietario riprende in mano una creatura nera che tu controlli.
+    <text>All'inizio del tuo mantenimento, il proprietario riprende in mano una creatura nera che tu controlli. 
 {1}{B}: Rigenera il Collezionista di Teschi.</text>
     <flavorText>
     </flavorText>
@@ -713,7 +719,7 @@ Incanalare - {1}{B}, Scarta lo Shinen della Paura Infantile: La creatura bersagl
   <item>
     <id>SOK0094</id>
     <name>Adamaro, Primo a Desiderare</name>
-    <text>La forza e la costituzione di Adamaro, Primo a Desiderare sono ciascuna pari al numero di carte in mano all'avversario con il maggior numero di carte in mano.</text>
+    <text>La forza e la costituzione di Adamaro, Primo a Desiderare sono ciascuna pari al numero di carte in mano all'avversario con il maggior numero di carte in mano. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -734,7 +740,7 @@ Incanalare - {1}{B}, Scarta lo Shinen della Paura Infantile: La creatura bersagl
   <item>
     <id>SOK0097</id>
     <name>Sokenzan Spianato</name>
-    <text>Spazzar via - Fai tornare in mano al proprietario un qualsiasi numero di Montagne che controlli. Lo Sokenzan Spianato infligge a una creatura bersaglio un danno pari al doppio del numero di Montagne riprese in questo modo.</text>
+    <text>Spazzar via - Fai tornare in mano al proprietario un qualsiasi numero di Montagne che controlli. Lo Sokenzan Spianato infligge a una creatura bersaglio un danno pari al doppio del numero di Montagne riprese in questo modo. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -769,7 +775,7 @@ Incanalare - {1}{B}, Scarta lo Shinen della Paura Infantile: La creatura bersagl
   <item>
     <id>SOK0102</id>
     <name>Predone Lumifero</name>
-    <text>{2}{R}, {T}: Il Predone Lumifero infligge 2 danni a una creatura bersaglio.
+    <text>{2}{R}, {T}: Il Predone Lumifero infligge 2 danni a una creatura bersaglio. 
 Incanalare - {3}{R}, Scarta il Predone Lumifero: Il Predone Lumifero infligge 4 danni a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -777,7 +783,7 @@ Incanalare - {3}{R}, Scarta il Predone Lumifero: Il Predone Lumifero infligge 4 
   <item>
     <id>SOK0103</id>
     <name>Brillafauci</name>
-    <text>Rapidità
+    <text>Rapidità 
 All'inizio della sottofase finale, il proprietario riprende in mano il Brillafauci.</text>
     <flavorText>
     </flavorText>
@@ -799,10 +805,11 @@ All'inizio della sottofase finale, il proprietario riprende in mano il Brillafau
   <item>
     <id>SOK0106</id>
     <name>Homura, Antenato Umano</name>
-    <text>Homura, Antenato Umano non può bloccare.
-Quando Homura viene messo in un cimitero dal campo di battaglia, rimettilo sul campo di battaglia ruotato.
-/flip/; Essenza di Homura
-Incantesimo Leggendario
+    <text>4/4. Homura, Antenato Umano non può bloccare. 
+Quando Homura viene messo in un cimitero dal campo di battaglia, rimettilo sul campo di battaglia ruotato. 
+/flip/
+Essenza di Homura 
+Incantesimo Leggendario 
 Le creature che controlli prendono +2/+2 e hanno volare e "{R}: Questa creatura prende +1/+0 fino alla fine del turno."</text>
     <flavorText>
     </flavorText>
@@ -818,7 +825,7 @@ Le creature che controlli prendono +2/+2 e hanno volare e "{R}: Questa creatura 
   <item>
     <id>SOK0108</id>
     <name>Iizuka lo Spietato</name>
-    <text>Bushido 2 (Quando blocca o viene bloccata, prende +2/+2 fino alla fine del turno.)
+    <text>Bushido 2 (Quando blocca o viene bloccata, prende +2/+2 fino alla fine del turno.) 
 {2}{R}, Sacrifica un Samurai: Le creature Samurai che controlli guadagnano doppio attacco fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -833,7 +840,7 @@ Le creature che controlli prendono +2/+2 e hanno volare e "{R}: Questa creatura 
   <item>
     <id>SOK0110</id>
     <name>Nella Mischia</name>
-    <text>La creatura bersaglio attacca in questo turno se può farlo.
+    <text>La creatura bersaglio attacca in questo turno se può farlo. 
 Unire nell'Arcano {R} (Mentre lanci una magia Arcano, puoi rivelare questa carta dalla tua mano e pagare il suo costo di unione. Se lo fai, aggiungi l'effetto di questa carta a quella magia.)</text>
     <flavorText>
     </flavorText>
@@ -841,7 +848,7 @@ Unire nell'Arcano {R} (Mentre lanci una magia Arcano, puoi rivelare questa carta
   <item>
     <id>SOK0111</id>
     <name>Jiwari, la Terra Che Arde</name>
-    <text>{X}{R}, {T}: Jiwari, la Terra Che Arde infligge X danni alla creatura bersaglio senza volare.
+    <text>{X}{R}, {T}: Jiwari, la Terra Che Arde infligge X danni alla creatura bersaglio senza volare. 
 Incanalare - {X}{R}{R}{R}, Scarta Jiwari: Jiwari infligge X danni a ogni creatura senza volare.</text>
     <flavorText>
     </flavorText>
@@ -849,7 +856,7 @@ Incanalare - {X}{R}{R}{R}, Scarta Jiwari: Jiwari infligge X danni a ogni creatur
   <item>
     <id>SOK0112</id>
     <name>Oni dei Luoghi Selvaggi</name>
-    <text>Rapidità
+    <text>Rapidità 
 All'inizio del tuo mantenimento, il proprietario riprende in mano una creatura rossa che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -864,7 +871,7 @@ All'inizio del tuo mantenimento, il proprietario riprende in mano una creatura r
   <item>
     <id>SOK0114</id>
     <name>Radunare l'Orda</name>
-    <text>Esilia le prime tre carte del tuo grimorio. Se l'ultima carta esiliata non è una terra, ripeti questo procedimento fino a che l'ultima carta esiliata è una terra. Metti sul campo di battaglia una pedina creatura Guerriero 1/1 rossa per ogni carta non terra esiliata in questo modo.</text>
+    <text>Esilia la prima carta del tuo grimorio. Esilia la prima carta del tuo grimorio. Esilia la prima carta del tuo grimorio. Se l'ultima carta esiliata non è una terra, ripeti questo procedimento fino a che l'ultima carta esiliata è una terra. Metti sul campo di battaglia una pedina creatura Guerriero 1/1 rossa per ogni carta non terra esiliata in questo modo.</text>
     <flavorText>
     </flavorText>
   </item>
@@ -878,7 +885,7 @@ All'inizio del tuo mantenimento, il proprietario riprende in mano una creatura r
   <item>
     <id>SOK0116</id>
     <name>Shinen della Furia del Fuoco</name>
-    <text>Rapidità
+    <text>Rapidità 
 Incanalare - {R}, Scarta lo Shinen della Furia del Fuoco: La creatura bersaglio guadagna rapidità fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -886,7 +893,7 @@ Incanalare - {R}, Scarta lo Shinen della Furia del Fuoco: La creatura bersaglio 
   <item>
     <id>SOK0117</id>
     <name>Kirin Bruciacielo</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta lanci una magia Spirito o Arcano, puoi prendere il controllo di una creatura bersaglio con il costo di mana convertito di quella magia fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -894,7 +901,7 @@ Ogniqualvolta lanci una magia Spirito o Arcano, puoi prendere il controllo di un
   <item>
     <id>SOK0118</id>
     <name>Rinnegato di Sokenzan</name>
-    <text>Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+    <text>Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.) 
 All'inizio del tuo mantenimento, se un giocatore ha in mano più carte in mano di ogni altro, il giocatore con più carte in mano prende il controllo del Rinnegato di Sokenzan.</text>
     <flavorText>
     </flavorText>
@@ -902,7 +909,7 @@ All'inizio del tuo mantenimento, se un giocatore ha in mano più carte in mano d
   <item>
     <id>SOK0119</id>
     <name>Spadamagia Sokenzan</name>
-    <text>Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.)
+    <text>Bushido 1 (Quando blocca o viene bloccata, prende +1/+1 fino alla fine del turno.) 
 {1}{R}: Lo Spadamagia Sokenzan prende +X/+0 fino alla fine del turno, dove X è il numero di carte nella tua mano.</text>
     <flavorText>
     </flavorText>
@@ -931,7 +938,7 @@ All'inizio del tuo mantenimento, se un giocatore ha in mano più carte in mano d
   <item>
     <id>SOK0123</id>
     <name>Fiamme Imperiture</name>
-    <text>Esilia le carte in cima al tuo grimorio fino a che rimuovi una carta non terra. Le Fiamme Imperiture infliggono un danno pari al costo di mana convertito di quella carta a una creatura o a un giocatore bersaglio.
+    <text>Esilia le carte in cima al tuo grimorio fino a che rimuovi una carta non terra. Le Fiamme Imperiture infliggono un danno pari al costo di mana convertito di quella carta a una creatura o a un giocatore bersaglio. 
 Epopea (Per il resto della partita, non puoi lanciare magie. All'inizio di ogni tuo mantenimento, copia questa magia tranne la sua abilità epopea. Puoi scegliere un nuovo bersaglio per la copia.)</text>
     <flavorText>
     </flavorText>
@@ -939,7 +946,7 @@ Epopea (Per il resto della partita, non puoi lanciare magie. All'inizio di ogni 
   <item>
     <id>SOK0124</id>
     <name>Yuki-Onna</name>
-    <text>Quando Yuki-Onna entra nel campo di battaglia, distruggi un artefatto bersaglio.
+    <text>Quando Yuki-Onna entra nel campo di battaglia, distruggi un artefatto bersaglio. 
 Ogniqualvolta lanci una magia Spirito o Arcano, puoi far tornare Yuki-Onna in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -947,7 +954,7 @@ Ogniqualvolta lanci una magia Spirito o Arcano, puoi far tornare Yuki-Onna in ma
   <item>
     <id>SOK0125</id>
     <name>Arashi, lo Squartacielo</name>
-    <text>{X}{G}, {T}: Arashi, lo Squartacielo infligge X danni a una creatura bersaglio con volare.
+    <text>{X}{G}, {T}: Arashi, lo Squartacielo infligge X danni a una creatura bersaglio con volare. 
 Incanalare - {X}{G}{G}, Scarta Arashi: Arashi infligge X danni a ogni creatura con volare.</text>
     <flavorText>
     </flavorText>
@@ -955,14 +962,14 @@ Incanalare - {X}{G}{G}, Scarta Arashi: Arashi infligge X danni a ogni creatura c
   <item>
     <id>SOK0126</id>
     <name>Ayumi, l'Ultima Presenza</name>
-    <text>Passa-terre leggendarie</text>
+    <text>Passa-terre leggendarie </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>SOK0127</id>
     <name>Kirin Munifico</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta lanci una magia Spirito o Arcano, puoi guadagnare un ammontare di punti vita pari al costo di mana convertito di quella magia.</text>
     <flavorText>
     </flavorText>
@@ -991,7 +998,7 @@ Ogniqualvolta lanci una magia Spirito o Arcano, puoi guadagnare un ammontare di 
   <item>
     <id>SOK0131</id>
     <name>Antico Canto di Dosan</name>
-    <text>Guadagni 6 punti vita.
+    <text>Guadagni 6 punti vita. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -999,7 +1006,7 @@ Pesca una carta.</text>
   <item>
     <id>SOK0132</id>
     <name>Pino Antico di Jukai</name>
-    <text>Ogniqualvolta lanci una magia Spirito o Arcano, rivela le prime tre carte del tuo grimorio. Aggiungi alla tua mano tutte le carte terra rivelate in questo modo e metti le rimanenti in fondo al tuo grimorio in un qualsiasi ordine.
+    <text>Ogniqualvolta lanci una magia Spirito o Arcano, rivela le prime tre carte del tuo grimorio. Aggiungi alla tua mano tutte le carte terra rivelate in questo modo e metti le rimanenti in fondo al tuo grimorio in un qualsiasi ordine. 
 Muta-anima 2</text>
     <flavorText>
     </flavorText>
@@ -1007,7 +1014,7 @@ Muta-anima 2</text>
   <item>
     <id>SOK0133</id>
     <name>Sciame Infinito</name>
-    <text>Metti sul campo di battaglia una pedina creatura Serpente 1/1 verde per ogni carta nella tua mano.
+    <text>Metti sul campo di battaglia una pedina creatura Serpente 1/1 verde per ogni carta nella tua mano. 
 Epopea (Per il resto della partita, non puoi lanciare magie. All'inizio di ogni tuo mantenimento, copia questa magia tranne la sua abilità epopea.)</text>
     <flavorText>
     </flavorText>
@@ -1022,7 +1029,7 @@ Epopea (Per il resto della partita, non puoi lanciare magie. All'inizio di ogni 
   <item>
     <id>SOK0135</id>
     <name>Divoratrice Lumifera</name>
-    <text>{2}{G}, {T}: La creatura bersaglio prende +2/+2 fino alla fine del turno.
+    <text>{2}{G}, {T}: La creatura bersaglio prende +2/+2 fino alla fine del turno. 
 Incanalare - {3}{G}, Scarta la Divoratrice Lumifera: La creatura bersaglio prende +4/+4 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1030,7 +1037,7 @@ Incanalare - {3}{G}, Scarta la Divoratrice Lumifera: La creatura bersaglio prend
   <item>
     <id>SOK0136</id>
     <name>Haru-Onna</name>
-    <text>Quando Haru-Onna entra nel campo di battaglia, pesca una carta.
+    <text>Quando Haru-Onna entra nel campo di battaglia, pesca una carta. 
 Ogniqualvolta lanci una magia Spirito o Arcano, puoi far tornare Haru-Onna in mano al suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -1045,7 +1052,7 @@ Ogniqualvolta lanci una magia Spirito o Arcano, puoi far tornare Haru-Onna in ma
   <item>
     <id>SOK0138</id>
     <name>Kami del Giardino Gentile</name>
-    <text>All'inizio del tuo mantenimento, sacrifica il Kami del Giardino Gentile a meno che tu paghi {G}.
+    <text>All'inizio del tuo mantenimento, sacrifica il Kami del Giardino Gentile a meno che tu paghi {G}. 
 Muta-anima 3 (Quando questa viene messa in un cimitero dal campo di battaglia, puoi riprendere in mano una carta Spirito bersaglio con costo di mana convertito pari o inferiore a 3 dal tuo cimitero.)</text>
     <flavorText>
     </flavorText>
@@ -1053,7 +1060,7 @@ Muta-anima 3 (Quando questa viene messa in un cimitero dal campo di battaglia, p
   <item>
     <id>SOK0139</id>
     <name>Elite della Tribù-Kashi</name>
-    <text>I Serpenti leggendari che controlli hanno velo (Non possono essere bersaglio di magie o abilità.)
+    <text>I Serpenti leggendari che controlli hanno velo (Non possono essere bersaglio di magie o abilità.) 
 Ogniqualvolta l'Elite della Tribù-Kashi infligge danno da combattimento a una creatura, TAPpa quella creatura e essa non STAPpa durante il prossimo STAP del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -1068,7 +1075,7 @@ Ogniqualvolta l'Elite della Tribù-Kashi infligge danno da combattimento a una c
   <item>
     <id>SOK0141</id>
     <name>Cacciatore della Tribù-Matsu</name>
-    <text>Ogniqualvolta il Cacciatore della Tribù-Matsu infligge danno da combattimento a una creatura, TAPpa quella creatura e essa non STAPpa durante il prossimo STAP del suo controllore.
+    <text>Ogniqualvolta il Cacciatore della Tribù-Matsu infligge danno da combattimento a una creatura, TAPpa quella creatura e essa non STAPpa durante il prossimo STAP del suo controllore. 
 {G}: Il Cacciatore della Tribù-Matsu guadagna raggiungere fino alla fine del turno. (Può bloccare le creature con volare.)</text>
     <flavorText>
     </flavorText>
@@ -1111,7 +1118,7 @@ Ogniqualvolta l'Elite della Tribù-Kashi infligge danno da combattimento a una c
   <item>
     <id>SOK0147</id>
     <name>Liane Dirompenti</name>
-    <text>Distruggi un artefatto o un incantesimo bersaglio se il suo costo di mana convertito è pari o inferiore al numero di carte nella tua mano.
+    <text>Distruggi un artefatto o un incantesimo bersaglio se il suo costo di mana convertito è pari o inferiore al numero di carte nella tua mano. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1126,9 +1133,10 @@ Pesca una carta.</text>
   <item>
     <id>SOK0149</id>
     <name>Sasaya, Antenato Orochi</name>
-    <text>Rivela la tua mano: Se hai sette o più carte terra in mano, ruota Sasaya, Antenato Orochi.
-/flip/; Essenza di Sasaya
-Incantesimo Leggendario
+    <text>2/3. Rivela la tua mano: Se hai sette o più carte terra in mano, ruota Sasaya, Antenato Orochi. 
+/flip/
+Essenza di Sasaya 
+Incantesimo Leggendario 
 Ogniqualvolta una terra che controlli viene TAPpata per attingere mana, per ogni altra terra che controlli avente lo stesso nome, aggiungi alla tua riserva un mana di qualsiasi tipo prodotto da quella terra.</text>
     <flavorText>
     </flavorText>
@@ -1157,8 +1165,8 @@ Ogniqualvolta una terra che controlli viene TAPpata per attingere mana, per ogni
   <item>
     <id>SOK0153</id>
     <name>Sekki, Guida delle Stagioni</name>
-    <text>Sekki, Guida delle Stagioni entra sul campo di battaglia con otto segnalini +1/+1.
-Se sta per essere inflitto danno a Sekki, previeni quel danno, rimuovi altrettanti segnalini +1/+1 da Sekki e metti sul campo di battaglia altrettante pedine creatura Spirito 1/1 incolori.
+    <text>Sekki, Guida delle Stagioni entra sul campo di battaglia con otto segnalini +1/+1. 
+Se sta per essere inflitto danno a Sekki, previeni quel danno, rimuovi altrettanti segnalini +1/+1 da Sekki e metti sul campo di battaglia altrettante pedine creatura Spirito 1/1 incolori. 
 Sacrifica otto Spiriti: Rimetti sul campo di battaglia Sekki dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1166,7 +1174,7 @@ Sacrifica otto Spiriti: Rimetti sul campo di battaglia Sekki dal tuo cimitero.</
   <item>
     <id>SOK0154</id>
     <name>Shinen del Ruggito di Vita</name>
-    <text>Tutte le creature in grado di bloccare lo Shinen del Ruggito di Vita lo fanno.
+    <text>Tutte le creature in grado di bloccare lo Shinen del Ruggito di Vita lo fanno. 
 Incanalare - {2}{G}{G}, Scarta lo Shinen del Ruggito di Vita: Tutte le creature in grado di bloccare la creatura bersaglio in questo turno lo fanno.</text>
     <flavorText>
     </flavorText>
@@ -1174,7 +1182,7 @@ Incanalare - {2}{G}{G}, Scarta lo Shinen del Ruggito di Vita: Tutte le creature 
   <item>
     <id>SOK0155</id>
     <name>Carica di Capricorni</name>
-    <text>Travolgere
+    <text>Travolgere 
 All'inizio del tuo mantenimento, il proprietario riprende in mano una creatura verde che tu controlli.</text>
     <flavorText>
     </flavorText>
@@ -1182,7 +1190,7 @@ All'inizio del tuo mantenimento, il proprietario riprende in mano una creatura v
   <item>
     <id>SOK0156</id>
     <name>Iname Come Unico</name>
-    <text>Quando Iname Come Unico entra nel campo di battaglia, se lo hai lanciato dalla tua mano, puoi passare in rassegna il tuo grimorio per una carta permanente Spirito, metterla nel campo di battaglia, poi rimescolare il tuo grimorio.
+    <text>Quando Iname Come Unico entra nel campo di battaglia, se lo hai lanciato dalla tua mano, puoi passare in rassegna il tuo grimorio per una carta permanente Spirito, metterla nel campo di battaglia, poi rimescolare il tuo grimorio. 
 Quando Iname Come Unico viene messo in un cimitero dal campo di battaglia, puoi esiliarlo. Se lo fai, rimetti nel campo di battaglia una carta permanente Spirito bersaglio dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -1190,7 +1198,7 @@ Quando Iname Come Unico viene messo in un cimitero dal campo di battaglia, puoi 
   <item>
     <id>SOK0157</id>
     <name>Ceneri dei Caduti</name>
-    <text>Mentre le Ceneri dei Caduti entrano nel campo di battaglia, scegli un tipo di creatura.
+    <text>Mentre le Ceneri dei Caduti entrano nel campo di battaglia, scegli un tipo di creatura. 
 Ogni carta creatura presente nel tuo cimitero ha il tipo di creatura scelto in aggiunta ai propri altri tipi.</text>
     <flavorText>
     </flavorText>
@@ -1219,7 +1227,7 @@ Ogni carta creatura presente nel tuo cimitero ha il tipo di creatura scelto in a
   <item>
     <id>SOK0161</id>
     <name>Manriki-Gusari</name>
-    <text>La creatura equipaggiata prende +1/+2 e ha "{T}: Distruggi un Equipaggiamento bersaglio."
+    <text>La creatura equipaggiata prende +1/+2 e ha "{T}: Distruggi un Equipaggiamento bersaglio." 
 Equipaggiare {1}</text>
     <flavorText>
     </flavorText>
@@ -1227,8 +1235,8 @@ Equipaggiare {1}</text>
   <item>
     <id>SOK0162</id>
     <name>O-Naginata</name>
-    <text>O-Naginata può essere assegnato solo ad una creatura con forza pari o superiore a 3.
-La creatura equipaggiata prende +3/+0 e ha travolgere.
+    <text>O-Naginata può essere assegnato solo ad una creatura con forza pari o superiore a 3. 
+La creatura equipaggiata prende +3/+0 e ha travolgere. 
 Equipaggiare {2} ({2}: Assegnalo a una creatura bersaglio che controlli. Equipaggialo solo come una stregoneria.)</text>
     <flavorText>
     </flavorText>
@@ -1236,7 +1244,7 @@ Equipaggiare {2} ({2}: Assegnalo a una creatura bersaglio che controlli. Equipag
   <item>
     <id>SOK0163</id>
     <name>Ago Spinale</name>
-    <text>Mentre l'Ago Spinale entra nel campo di battaglia, nomina una carta.
+    <text>Mentre l'Ago Spinale entra nel campo di battaglia, nomina una carta. 
 Le abilità attivate delle fonti col nome scelto non possono essere attivate a meno che non siano abilità di mana.</text>
     <flavorText>
     </flavorText>
@@ -1251,7 +1259,7 @@ Le abilità attivate delle fonti col nome scelto non possono essere attivate a m
   <item>
     <id>SOK0165</id>
     <name>Cocchio di Nubi Soratami</name>
-    <text>{2}: La creatura bersaglio che controlli guadagna volare fino alla fine del turno.
+    <text>{2}: La creatura bersaglio che controlli guadagna volare fino alla fine del turno. 
 {2}: Previeni tutto il danno da combattimento che verrebbe inflitto e ricevuto in questo turno dalla creatura bersaglio che controlli.</text>
     <flavorText>
     </flavorText>
@@ -1266,7 +1274,7 @@ Le abilità attivate delle fonti col nome scelto non possono essere attivate a m
   <item>
     <id>SOK0167</id>
     <name>Mikokoro, Centro del Mare</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {2}, {T}: Ogni giocatore pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1274,7 +1282,7 @@ Le abilità attivate delle fonti col nome scelto non possono essere attivate a m
   <item>
     <id>SOK0168</id>
     <name>Miren, il Pozzo Che Geme</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {3}, {T}, Sacrifica una creatura: Guadagni un ammontare di punti vita pari alla costituzione della creatura sacrificata.</text>
     <flavorText>
     </flavorText>
@@ -1282,7 +1290,7 @@ Le abilità attivate delle fonti col nome scelto non possono essere attivate a m
   <item>
     <id>SOK0169</id>
     <name>Oboro, Palazzo nelle Nuvole</name>
-    <text>{T}: Aggiungi {U} alla tua riserva di mana.
+    <text>{T}: Aggiungi {U} alla tua riserva di mana. 
 {1}: Il proprietario riprende in mano Oboro, Palazzo nelle Nuvole.</text>
     <flavorText>
     </flavorText>
@@ -1290,7 +1298,7 @@ Le abilità attivate delle fonti col nome scelto non possono essere attivate a m
   <item>
     <id>SOK0170</id>
     <name>Tomba di Urami</name>
-    <text>{T}: Aggiungi {B} alla tua riserva di mana. La Tomba di Urami ti infligge 1 danno se non controlli almeno un Ogre.
+    <text>{T}: Aggiungi {B} alla tua riserva di mana. La Tomba di Urami ti infligge 1 danno se non controlli almeno un Ogre. 
 {2}{B}{B}, {T}, Sacrifica tutte le terre che controlli: Metti sul campo di battaglia una pedina creatura leggendaria Spirito Demone 5/5 nera con volare di nome Urami.</text>
     <flavorText>
     </flavorText>

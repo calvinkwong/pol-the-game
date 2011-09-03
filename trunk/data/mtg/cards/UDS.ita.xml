@@ -9,8 +9,8 @@
   <item>
     <id>UDS0002</id>
     <name>Addestramento con l'Arco</name>
-    <text>Incanta creatura
-All'inizio del tuo mantenimento, puoi mettere un segnalino freccia sull'Addestramento con l'Arco.
+    <text>Incanta creatura 
+All'inizio del tuo mantenimento, puoi mettere un segnalino freccia sull'Addestramento con l'Arco. 
 La creatura incantata ha "{T}: Questa creatura infligge X danni alla creatura attaccante o bloccante bersaglio, dove X è pari al numero di segnalini freccia presenti sull'Addestramento con l'Arco."</text>
     <flavorText>
     </flavorText>
@@ -18,7 +18,7 @@ La creatura incantata ha "{T}: Questa creatura infligge X danni alla creatura at
   <item>
     <id>UDS0003</id>
     <name>Cavaliere Capash</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 {1}{W}: Il Cavaliere Capash prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -26,8 +26,8 @@ La creatura incantata ha "{T}: Questa creatura infligge X danni alla creatura at
   <item>
     <id>UDS0004</id>
     <name>Stendardo Capash</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
-La creatura incantata prende +1/+1.
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
+La creatura incantata prende +1/+1. 
 {2}, Sacrifica lo Stendardo Capash : Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -49,15 +49,15 @@ La creatura incantata prende +1/+1.
   <item>
     <id>UDS0007</id>
     <name>Parare</name>
-    <text>Previeni tutto il danno da combattimento che verrebbe inflitto dalla creatura bersaglio in questo turno.
-Ciclo {2}</text>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto dalla creatura bersaglio in questo turno. 
+Ciclo {2} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>UDS0008</id>
     <name>Chirurgo da Campo</name>
-    <text>TAPpa una creatura STAPpata che controlli: Previeni il prossimo punto danno che verrebbe inflitto a una creatura bersaglio in questo turno.</text>
+    <text>TAPpa una creatura STAPpata che controlli: Previeni il prossimo punto danno che verrebbe inflitto a una creatura bersaglio in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -78,7 +78,7 @@ Ciclo {2}</text>
   <item>
     <id>UDS0011</id>
     <name>Maschera di Giustizia e Grazia</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha protezione dal nero e dal rosso.</text>
     <flavorText>
     </flavorText>
@@ -107,7 +107,7 @@ La creatura incantata ha protezione dal nero e dal rosso.</text>
   <item>
     <id>UDS0015</id>
     <name>Riempire</name>
-    <text>Rimetti sul campo di battaglia tutte le carte incantesimo dal tuo cimitero.
+    <text>Rimetti sul campo di battaglia tutte le carte incantesimo dal tuo cimitero. 
 (Le Aura con niente da incantare restano nel tuo cimitero.)</text>
     <flavorText>
     </flavorText>
@@ -115,7 +115,7 @@ La creatura incantata ha protezione dal nero e dal rosso.</text>
   <item>
     <id>UDS0016</id>
     <name>Bigotteria</name>
-    <text>Ogniqualvolta un avversario TAPpa una Montagna per attingere mana, puoi guadagnare 1 punto vita.</text>
+    <text>Ogniqualvolta un avversario TAPpa una Montagna per attingere mana, puoi guadagnare 1 punto vita. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -136,7 +136,7 @@ La creatura incantata ha protezione dal nero e dal rosso.</text>
   <item>
     <id>UDS0019</id>
     <name>Sostenitore di Serra</name>
-    <text>Volare
+    <text>Volare 
 {T}: Una creatura attaccante o bloccante bersaglio prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -144,14 +144,14 @@ La creatura incantata ha protezione dal nero e dal rosso.</text>
   <item>
     <id>UDS0020</id>
     <name>Solidarietà</name>
-    <text>Le creature che controlli prendono +0/+5 fino alla fine del turno.</text>
+    <text>Le creature che controlli prendono +0/+5 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>UDS0021</id>
     <name>Grifone Imbrigliato</name>
-    <text>Volare
+    <text>Volare 
 Quando non controlli alcun incantesimo, sacrifica il Grifone Imbrigliato.</text>
     <flavorText>
     </flavorText>
@@ -180,7 +180,7 @@ Quando non controlli alcun incantesimo, sacrifica il Grifone Imbrigliato.</text>
   <item>
     <id>UDS0025</id>
     <name>Muro Abbagliante</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Il Muro Abbagliante può bloccare un qualsiasi numero di creature.</text>
     <flavorText>
     </flavorText>
@@ -188,7 +188,7 @@ Il Muro Abbagliante può bloccare un qualsiasi numero di creature.</text>
   <item>
     <id>UDS0026</id>
     <name>Ladro d'Aura</name>
-    <text>Volare
+    <text>Volare 
 Quando il Ladro d'Aura viene messo nel cimitero dal campo di battaglia, guadagni il controllo di tutti gli incantesimi (Non puoi spostare le Aura.)</text>
     <flavorText>
     </flavorText>
@@ -196,7 +196,7 @@ Quando il Ladro d'Aura viene messo nel cimitero dal campo di battaglia, guadagni
   <item>
     <id>UDS0027</id>
     <name>Elementale della Tormenta</name>
-    <text>Volare
+    <text>Volare 
 {3}{U}: STAPpa l'Elementale della Tormenta.</text>
     <flavorText>
     </flavorText>
@@ -211,14 +211,14 @@ Quando il Ladro d'Aura viene messo nel cimitero dal campo di battaglia, guadagni
   <item>
     <id>UDS0029</id>
     <name>Biboli Ribollenti</name>
-    <text>I Biboli Ribollenti non possono essere bloccati fintanto che il giocatore in difesa controlla almeno un incantesimo.</text>
+    <text>I Biboli Ribollenti non possono essere bloccati fintanto che il giocatore in difesa controlla almeno un incantesimo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>UDS0030</id>
     <name>Svanire</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {U}: I proprietari riprendono in mano la creatura incantata e lo Svanire.</text>
     <flavorText>
     </flavorText>
@@ -226,7 +226,7 @@ Quando il Ladro d'Aura viene messo nel cimitero dal campo di battaglia, guadagni
   <item>
     <id>UDS0031</id>
     <name>Donare</name>
-    <text>Il giocatore bersaglio prende il controllo di un permanente bersaglio che tu controlli.</text>
+    <text>Il giocatore bersaglio prende il controllo di un permanente bersaglio che tu controlli. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -240,15 +240,15 @@ Quando il Ladro d'Aura viene messo nel cimitero dal campo di battaglia, guadagni
   <item>
     <id>UDS0033</id>
     <name>Piccolo di Falco Pescatore</name>
-    <text>Il Piccolo di Falco Pescatore ha volare fintanto che è incantato.</text>
+    <text>Il Piccolo di Falco Pescatore ha volare fintanto che è incantato. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>UDS0034</id>
     <name>Ali Illuminate</name>
-    <text>Incanta creatura
-La creatura incantata ha volare.
+    <text>Incanta creatura 
+La creatura incantata ha volare. 
 {2}, Sacrifica le Ali Illuminate: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -256,7 +256,7 @@ La creatura incantata ha volare.
   <item>
     <id>UDS0035</id>
     <name>Draghetto Iridescente</name>
-    <text>Volare
+    <text>Volare 
 Quando il Draghetto Iridescente entra nel campo di battaglia, metti sul campo di battaglia da un cimitero una carta Aura bersaglio e assegnala al Draghetto Iridescente. (Tu controlli quell'Aura)</text>
     <flavorText>
     </flavorText>
@@ -264,7 +264,7 @@ Quando il Draghetto Iridescente entra nel campo di battaglia, metti sul campo di
   <item>
     <id>UDS0036</id>
     <name>Martin Pescatore</name>
-    <text>Volare
+    <text>Volare 
 Quando il Martin Pescatore viene messo in un cimitero dal campo di battaglia, pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -300,8 +300,8 @@ Quando il Martin Pescatore viene messo in un cimitero dal campo di battaglia, pe
   <item>
     <id>UDS0041</id>
     <name>Ricerca Privata</name>
-    <text>Incanta creatura
-All'inizio del tuo mantenimento, puoi mettere un segnalino pagina sulla Ricerca Privata.
+    <text>Incanta creatura 
+All'inizio del tuo mantenimento, puoi mettere un segnalino pagina sulla Ricerca Privata. 
 Quando la creatura incantata viene messa in un cimitero, pesca una carta per ogni segnalino pagina presente sulla Ricerca Privata.</text>
     <flavorText>
     </flavorText>
@@ -337,7 +337,7 @@ Quando la creatura incantata viene messa in un cimitero, pesca una carta per ogn
   <item>
     <id>UDS0046</id>
     <name>Sigillo del Sonno</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta la creatura incantata infligge danno a un giocatore, il proprietario riprende in mano una creatura bersaglio controllata da quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -359,7 +359,7 @@ Ogniqualvolta la creatura incantata infligge danno a un giocatore, il proprietar
   <item>
     <id>UDS0049</id>
     <name>Gazza Ladra</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) 
 Ogniqualvolta la Gazza Ladra infligge danno a un avversario, tu peschi una carta.</text>
     <flavorText>
     </flavorText>
@@ -367,8 +367,8 @@ Ogniqualvolta la Gazza Ladra infligge danno a un avversario, tu peschi una carta
   <item>
     <id>UDS0050</id>
     <name>Slealtà</name>
-    <text>Incanta creatura
-Quando la Slealtà entra nel campo di battaglia, STAPpa fino a cinque terre.
+    <text>Incanta creatura 
+Quando la Slealtà entra nel campo di battaglia, STAPpa fino a cinque terre. 
 Tu controlli la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -376,7 +376,7 @@ Tu controlli la creatura incantata.</text>
   <item>
     <id>UDS0051</id>
     <name>Apprendista Necromante</name>
-    <text>{B},{T}, Sacrifica l'Apprendista Necromante: Rimetti sul campo di battaglia una carta creatura bersaglio presente nel tuo cimitero. Quella creatura guadagna rapidità. All'inizio della sottofase di fine turno, sacrificala.</text>
+    <text>{B},{T}, Sacrifica l'Apprendista Necromante: Rimetti sul campo di battaglia una carta creatura bersaglio presente nel tuo cimitero. Quella creatura guadagna rapidità. All'inizio della sottofase di fine turno, sacrificala. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -390,7 +390,7 @@ Tu controlli la creatura incantata.</text>
   <item>
     <id>UDS0053</id>
     <name>Ultracorpo</name>
-    <text>Quando l'Ultracorpo entra nel campo di battaglia, puoi scartare una carta creatura. Se non lo fai, esilia l'Ultracorpo.
+    <text>Quando l'Ultracorpo entra nel campo di battaglia, puoi scartare una carta creatura. Se non lo fai, esilia l'Ultracorpo. 
 Quando l'Ultracorpo viene messo in un cimitero dal campo di battaglia, esilia l'Ultracorpo e rimetti sul campo di battaglia una carta creatura bersaglio dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -412,7 +412,7 @@ Quando l'Ultracorpo viene messo in un cimitero dal campo di battaglia, esilia l'
   <item>
     <id>UDS0056</id>
     <name>Campanello Notturno</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
 Quando il Campanello Notturno viene messo in un cimitero dal campo di battaglia, distruggi una creatura bersaglio non nera.</text>
     <flavorText>
     </flavorText>
@@ -427,7 +427,7 @@ Quando il Campanello Notturno viene messo in un cimitero dal campo di battaglia,
   <item>
     <id>UDS0058</id>
     <name>Gemito di Morte</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Quando la creatura incantata viene messa in un cimitero, il giocatore bersaglio scarta due carte.</text>
     <flavorText>
     </flavorText>
@@ -435,7 +435,7 @@ Quando la creatura incantata viene messa in un cimitero, il giocatore bersaglio 
   <item>
     <id>UDS0059</id>
     <name>Usurpare</name>
-    <text>Il giocatore bersaglio rivela la sua mano. Tu scegli da essa una carta terra non base. Quel giocatore scarta quella carta.</text>
+    <text>Il giocatore bersaglio rivela la sua mano. Tu scegli da essa una carta terra non base. Quel giocatore scarta quella carta. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -449,8 +449,8 @@ Quando la creatura incantata viene messa in un cimitero, il giocatore bersaglio 
   <item>
     <id>UDS0061</id>
     <name>Ferita Infetta</name>
-    <text>Incanta creatura
-All'inizio del tuo mantenimento, puoi mettere un segnalino infezione sulla Ferita Infetta.
+    <text>Incanta creatura 
+All'inizio del tuo mantenimento, puoi mettere un segnalino infezione sulla Ferita Infetta. 
 All'inizio del mantenimento del controllore della creatura incantata, la Ferita Infetta infligge X danni a quel giocatore, dove X è pari al numero di segnalini infezione presenti sulla Ferita Infetta.</text>
     <flavorText>
     </flavorText>
@@ -479,7 +479,7 @@ All'inizio del mantenimento del controllore della creatura incantata, la Ferita 
   <item>
     <id>UDS0065</id>
     <name>Eliminatore di Phyrexia</name>
-    <text>Travolgere
+    <text>Travolgere 
 Ogniqualvolta viene inflitto danno all'Eliminatore di Phyrexia, sacrifica altrettanti permanenti.</text>
     <flavorText>
     </flavorText>
@@ -487,7 +487,7 @@ Ogniqualvolta viene inflitto danno all'Eliminatore di Phyrexia, sacrifica altret
   <item>
     <id>UDS0066</id>
     <name>Cani della Peste</name>
-    <text>Quando i Cani della Peste vengono messi in un cimitero dal campo di battaglia, tutte le creature prendono -1/-1 fino alla fine del turno.
+    <text>Quando i Cani della Peste vengono messi in un cimitero dal campo di battaglia, tutte le creature prendono -1/-1 fino alla fine del turno. 
 {2}, Sacrifica i Cani della Peste: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -495,7 +495,7 @@ Ogniqualvolta viene inflitto danno all'Eliminatore di Phyrexia, sacrifica altret
   <item>
     <id>UDS0067</id>
     <name>Decomposizione Rapida</name>
-    <text>Ciclo {2}
+    <text>Ciclo {2} 
 Esilia fino a tre carte bersaglio da un singolo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -524,7 +524,7 @@ Esilia fino a tre carte bersaglio da un singolo cimitero.</text>
   <item>
     <id>UDS0071</id>
     <name>Skirge Furtivo</name>
-    <text>Volare
+    <text>Volare 
 {2}, Sacrifica lo Skirge Furtivo: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -532,7 +532,7 @@ Esilia fino a tre carte bersaglio da un singolo cimitero.</text>
   <item>
     <id>UDS0072</id>
     <name>Banchetto dell'Anima</name>
-    <text>Il giocatore bersaglio perde 4 punti vita e tu guadagni 4 punti vita.</text>
+    <text>Il giocatore bersaglio perde 4 punti vita e tu guadagni 4 punti vita. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -546,7 +546,7 @@ Esilia fino a tre carte bersaglio da un singolo cimitero.</text>
   <item>
     <id>UDS0074</id>
     <name>Esperimento Perverso</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +3/-1.</text>
     <flavorText>
     </flavorText>
@@ -554,22 +554,21 @@ La creatura incantata prende +3/-1.</text>
   <item>
     <id>UDS0075</id>
     <name>Scambio di Yawgmoth</name>
-    <text>Salta la tua acquisizione.
+    <text>Salta la tua acquisizione. 
 Paga 1 punto vita: Pesca una carta.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>UDS0076</id>
-    <name>Puntura Eterea</name>
-    <text>Ogniqualvolta un avversario lancia una magia creatura, la Puntura Eterea infligge 1 danno a quel giocatore.</text>
-    <flavorText>
-    </flavorText>
+    <name>Æther Sting</name>
+    <text>Whenever an opponent casts a creature spell, Æther Sting deals 1 damage to that player.</text>
+    <flavorText>When Gatha fell, he was called to account for each abomination he created.</flavorText>
   </item>
   <item>
     <id>UDS0077</id>
     <name>Ciclopi Sanguinari</name>
-    <text>{T}, Sacrifica una creatura: I Ciclopi Sanguinari infliggono a una creatura o a un giocatore bersaglio un danno pari alla forza della creatura sacrificata.</text>
+    <text>{T}, Sacrifica una creatura: I Ciclopi Sanguinari infliggono a una creatura o a un giocatore bersaglio un danno pari alla forza della creatura sacrificata. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -583,7 +582,7 @@ Paga 1 punto vita: Pesca una carta.</text>
   <item>
     <id>UDS0079</id>
     <name>Cucciolo di Colos</name>
-    <text>Passa-montagne
+    <text>Passa-montagne 
 {R}: Il Cucciolo di Colos prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -591,7 +590,7 @@ Paga 1 punto vita: Pesca una carta.</text>
   <item>
     <id>UDS0080</id>
     <name>Drago Avido</name>
-    <text>Volare
+    <text>Volare 
 Quando non controlli artefatti, sacrifica il Drago Avido.</text>
     <flavorText>
     </flavorText>
@@ -599,7 +598,7 @@ Quando non controlli artefatti, sacrifica il Drago Avido.</text>
   <item>
     <id>UDS0081</id>
     <name>Getto di Fiamme</name>
-    <text>Ciclo {2}
+    <text>Ciclo {2} 
 Il Getto di Fiamme infligge 3 danni a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -607,14 +606,14 @@ Il Getto di Fiamme infligge 3 danni a un giocatore bersaglio.</text>
   <item>
     <id>UDS0082</id>
     <name>Goblin Berserk</name>
-    <text>Attacco improvviso, rapidità</text>
+    <text>Attacco improvviso, rapidità </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>UDS0083</id>
     <name>Celebrazione Goblin</name>
-    <text>{2}: La Celebrazione Goblin infligge 1 danno a una creatura o a un giocatore bersaglio. Lancia una moneta. Se perdi, scegli uno dei tuoi avversari. Quel giocatore guadagna il controllo della Celebrazione Goblin.</text>
+    <text>{2}: La Celebrazione Goblin infligge 1 danno a una creatura o a un giocatore bersaglio. Lancia una moneta. Se perdi, scegli uno dei tuoi avversari. Quel giocatore guadagna il controllo della Celebrazione Goblin. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -628,7 +627,7 @@ Il Getto di Fiamme infligge 3 danni a un giocatore bersaglio.</text>
   <item>
     <id>UDS0085</id>
     <name>Sceriffo Goblin</name>
-    <text>Eco {4}{R}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.)
+    <text>Eco {4}{R}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.) 
 Quando lo Sceriffo Goblin entra nel campo di battaglia o viene messo in un nel cimitero dal campo di battaglia, metti sul campo di battaglia due pedine creatura Goblin 1/1 rosse.</text>
     <flavorText>
     </flavorText>
@@ -643,7 +642,7 @@ Quando lo Sceriffo Goblin entra nel campo di battaglia o viene messo in un nel c
   <item>
     <id>UDS0087</id>
     <name>Ogre Goffo</name>
-    <text>L'Ogre Goffo non può bloccare.</text>
+    <text>L'Ogre Goffo non può bloccare. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -657,8 +656,8 @@ Quando lo Sceriffo Goblin entra nel campo di battaglia o viene messo in un nel c
   <item>
     <id>UDS0089</id>
     <name>Incendiario</name>
-    <text>Incanta creatura
-All'inizio del tuo mantenimento, puoi mettere un segnalino fusione sull'Incendiario.
+    <text>Incanta creatura 
+All'inizio del tuo mantenimento, puoi mettere un segnalino fusione sull'Incendiario. 
 Quando la creatura incantata viene messa nel cimitero, l'Incendiario infligge X danni a una creatura o a un giocatore bersaglio, dove X è pari al numero di segnalini fusione presenti sull'Incendiario.</text>
     <flavorText>
     </flavorText>
@@ -666,8 +665,8 @@ Quando la creatura incantata viene messa nel cimitero, l'Incendiario infligge X 
   <item>
     <id>UDS0090</id>
     <name>Campione di Keld</name>
-    <text>Rapidità
-Eco {2}{R}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.)
+    <text>Rapidità 
+Eco {2}{R}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.) 
 Quando il Campione di Keld entra nel campo di battaglia, infligge 3 danni a un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -675,7 +674,7 @@ Quando il Campione di Keld entra nel campo di battaglia, infligge 3 danni a un g
   <item>
     <id>UDS0091</id>
     <name>Vandali di Keld</name>
-    <text>Eco {2}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.)
+    <text>Eco {2}{R} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.) 
 Quando i Vandali di Keld entrano nel campo di battaglia, distruggi un artefatto bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -690,16 +689,16 @@ Quando i Vandali di Keld entrano nel campo di battaglia, distruggi un artefatto 
   <item>
     <id>UDS0093</id>
     <name>Segno della Furia</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
-La creatura incantata ha rapidità.
-All'inizio della sottofase finale, il proprietario riprende in mano il Segno della Furia. [Oracle 1999/07/21]</text>
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
+La creatura incantata ha rapidità. 
+All'inizio della sottofase finale, il proprietario riprende in mano il Segno della Furia. Oracle 1999/07/21</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>UDS0094</id>
     <name>Entusiasmo Avventato</name>
-    <text>Come costo addizionale per lanciare l'Entusiasmo Avventato, sacrifica una creatura.
+    <text>Come costo addizionale per lanciare l'Entusiasmo Avventato, sacrifica una creatura. 
 L'Entusiasmo Avventato infligge 4 danni a una creatura o ad un giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -763,7 +762,7 @@ L'Entusiasmo Avventato infligge 4 danni a una creatura o ad un giocatore bersagl
   <item>
     <id>UDS0103</id>
     <name>Sentinella Elfica</name>
-    <text>Velo (Questo permanente non può essere bersaglio di magie o abilità.)</text>
+    <text>Velo (Questo permanente non può essere bersaglio di magie o abilità.) </text>
     <flavorText>
     </flavorText>
   </item>
@@ -777,7 +776,7 @@ L'Entusiasmo Avventato infligge 4 danni a una creatura o ad un giocatore bersagl
   <item>
     <id>UDS0105</id>
     <name>Coccodrillo Imperatore</name>
-    <text>Quando non controlli altre creature, sacrifica il Coccodrillo Imperatore.</text>
+    <text>Quando non controlli altre creature, sacrifica il Coccodrillo Imperatore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -798,7 +797,7 @@ L'Entusiasmo Avventato infligge 4 danni a una creatura o ad un giocatore bersagl
   <item>
     <id>UDS0108</id>
     <name>Custode del Cuore</name>
-    <text>{T}: Aggiungi {G} alla tua riserva di mana.
+    <text>{T}: Aggiungi {G} alla tua riserva di mana. 
 {2}, Sacrifica il Custode del Cuore: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -806,7 +805,7 @@ L'Entusiasmo Avventato infligge 4 danni a una creatura o ad un giocatore bersagl
   <item>
     <id>UDS0109</id>
     <name>Moa Cacciatore</name>
-    <text>Eco {2}{G} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.)
+    <text>Eco {2}{G} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.) 
 Ogniqualvolta il Moa Cacciatore entra nel campo di battaglia o viene messo in un cimitero dal campo di battaglia, metti un segnalino +1/+1 su una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -828,7 +827,7 @@ Ogniqualvolta il Moa Cacciatore entra nel campo di battaglia o viene messo in un
   <item>
     <id>UDS0112</id>
     <name>Scarabei Marchiatori</name>
-    <text>Quando gli Scarabei Marchiatori finiscono in un cimitero dal campo di battaglia, la creatura bersaglio prende +1/+1 fino alla fine del turno.
+    <text>Quando gli Scarabei Marchiatori finiscono in un cimitero dal campo di battaglia, la creatura bersaglio prende +1/+1 fino alla fine del turno. 
 {2}, Sacrifica gli Scarabei Marchiatori : Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -836,8 +835,8 @@ Ogniqualvolta il Moa Cacciatore entra nel campo di battaglia o viene messo in un
   <item>
     <id>UDS0113</id>
     <name>Inerzia</name>
-    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.)
-All'inizio del tuo mantenimento, puoi mettere un segnalino crescita sull'Inerzia.
+    <text>Incanta creatura (Mentre lanci questa carta, bersaglia una creatura. Questa carta entra nel campo di battaglia assegnata a quella creatura.) 
+All'inizio del tuo mantenimento, puoi mettere un segnalino crescita sull'Inerzia. 
 La creatura incantata prende +1/+1 per ogni segnalino crescita presente su Inerzia.</text>
     <flavorText>
     </flavorText>
@@ -852,7 +851,7 @@ La creatura incantata prende +1/+1 per ogni segnalino crescita presente su Inerz
   <item>
     <id>UDS0115</id>
     <name>Ciclo di Rinascita</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Quando la creatura incantata viene messa in un cimitero, il controllore di quella creatura può passare in rassegna il proprio grimorio, cercare una carta creatura e metterla nel campo di battaglia. Se quel giocatore lo fa, poi rimescola il proprio grimorio.</text>
     <flavorText>
     </flavorText>
@@ -867,7 +866,7 @@ Quando la creatura incantata viene messa in un cimitero, il controllore di quell
   <item>
     <id>UDS0117</id>
     <name>Rivoltare la Terra</name>
-    <text>Metti due terre bersaglio in cima ai grimori dei loro proprietari.</text>
+    <text>Metti due terre bersaglio in cima ai grimori dei loro proprietari. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -902,7 +901,7 @@ Quando la creatura incantata viene messa in un cimitero, il controllore di quell
   <item>
     <id>UDS0122</id>
     <name>Elfo Provocatore</name>
-    <text>Tutte le creature in grado di bloccare l'Elfo Provocatore lo fanno.</text>
+    <text>Tutte le creature in grado di bloccare l'Elfo Provocatore lo fanno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -916,7 +915,7 @@ Quando la creatura incantata viene messa in un cimitero, il controllore di quell
   <item>
     <id>UDS0124</id>
     <name>Anziano di Yavimaya</name>
-    <text>Quando l'Anziano di Yavimaya viene messo in un cimitero dal campo di battaglia, puoi passare in rassegna il tuo grimorio per un massimo di due carte terra base, rivelarle e aggiungerle alla tua mano. Se lo fai, rimescola il tuo grimorio.
+    <text>Quando l'Anziano di Yavimaya viene messo in un cimitero dal campo di battaglia, puoi passare in rassegna il tuo grimorio per un massimo di due carte terra base, rivelarle e aggiungerle alla tua mano. Se lo fai, rimescola il tuo grimorio. 
 {2}, Sacrifica l'Anziano di Yavimaya: Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -945,22 +944,22 @@ Quando la creatura incantata viene messa in un cimitero, il controllore di quell
   <item>
     <id>UDS0128</id>
     <name>Segretario d'Ottone</name>
-    <text>{2}, Sacrifica il Segretario d'Ottone: Pesca una carta.</text>
+    <text>{2}, Sacrifica il Segretario d'Ottone: Pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>UDS0129</id>
     <name>Chiodi a Quattro Punte</name>
-    <text>Ogniqualvolta una creatura attacca, i Chiodi a Quattro Punte le infliggono 1 danno.</text>
+    <text>Ogniqualvolta una creatura attacca, i Chiodi a Quattro Punte le infliggono 1 danno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>UDS0130</id>
     <name>Espulsore</name>
-    <text>Eco {4} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.)
-Sacrifica un artefatto: Metti un segnalino +1/+1 su una creatura bersaglio.</text>
+    <text>Eco {4} (All'inizio del tuo mantenimento, se questo permanente è entrato sotto il tuo controllo dall'inizio del tuo ultimo mantenimento, sacrificalo a meno che non paghi il suo costo di eco.) 
+Sacrifica un artefatto: Metti un segnalino +1/+1 su una creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -974,7 +973,7 @@ Sacrifica un artefatto: Metti un segnalino +1/+1 su una creatura bersaglio.</tex
   <item>
     <id>UDS0132</id>
     <name>Pescarifiuti</name>
-    <text>Volare
+    <text>Volare 
 Quando il Pescarifiuti viene messo in un cimitero dal campo di battaglia, riprendi in mano un'altra carta artefatto bersaglio dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -982,7 +981,7 @@ Quando il Pescarifiuti viene messo in un cimitero dal campo di battaglia, ripren
   <item>
     <id>UDS0133</id>
     <name>Mantide Meccanica</name>
-    <text>{2}: La Mantide Meccanica guadagna volare fino alla fine del turno. (Non può essere bloccata tranne che da creature con volare o raggiungere.)
+    <text>{2}: La Mantide Meccanica guadagna volare fino alla fine del turno. (Non può essere bloccata tranne che da creature con volare o raggiungere.) 
 {2}: La Mantide Meccanica guadagna attacco improvviso fino alla fine del turno. (Infligge danno da combattimento prima delle creature senza attacco improvviso.)</text>
     <flavorText>
     </flavorText>
@@ -990,8 +989,8 @@ Quando il Pescarifiuti viene messo in un cimitero dal campo di battaglia, ripren
   <item>
     <id>UDS0134</id>
     <name>Masticora</name>
-    <text>All'inizio del tuo mantenimento, puoi scartare una carta. Se non lo fai, sacrifica la Masticora.
-{2}: La Masticora infligge 1 danno a una creatura bersaglio.
+    <text>All'inizio del tuo mantenimento, puoi scartare una carta. Se non lo fai, sacrifica la Masticora. 
+{2}: La Masticora infligge 1 danno a una creatura bersaglio. 
 {2}: Rigenera la Masticora.</text>
     <flavorText>
     </flavorText>
@@ -1006,7 +1005,7 @@ Quando il Pescarifiuti viene messo in un cimitero dal campo di battaglia, ripren
   <item>
     <id>UDS0136</id>
     <name>Polveriera</name>
-    <text>All'inizio del tuo mantenimento, puoi mettere un segnalino miccia sulla Polveriera.
+    <text>All'inizio del tuo mantenimento, puoi mettere un segnalino miccia sulla Polveriera. 
 {T}, Sacrifica la Polveriera: Distruggi ogni artefatto e ogni creatura con costo di mana convertito uguale al numero di segnalini miccia sulla Polveriera.</text>
     <flavorText>
     </flavorText>
@@ -1049,7 +1048,7 @@ Quando il Pescarifiuti viene messo in un cimitero dal campo di battaglia, ripren
   <item>
     <id>UDS0142</id>
     <name>Incubatrice di Urza</name>
-    <text>Mentre l'Incubatrice di Urza entra nel campo di battaglia, scegli un tipo di creatura.
+    <text>Mentre l'Incubatrice di Urza entra nel campo di battaglia, scegli un tipo di creatura. 
 Le magie creatura del tipo scelto costano {2} in meno per essere lanciate.</text>
     <flavorText>
     </flavorText>
@@ -1057,7 +1056,7 @@ Le magie creatura del tipo scelto costano {2} in meno per essere lanciate.</text
   <item>
     <id>UDS0143</id>
     <name>Vallata di Yavimaya</name>
-    <text>{T} : Aggiungi {1} alla tua riserva di mana.
+    <text>{T} : Aggiungi {1} alla tua riserva di mana. 
 {G},{T} : Rigenera una creatura bersaglio.</text>
     <flavorText>
     </flavorText>

@@ -9,14 +9,14 @@
   <item>
     <id>RAV0002</id>
     <name>Crogiolarsi nella Luce</name>
-    <text>Radianza - Scegli un colore. La creatura bersaglio e ogni altra creatura che abbia almeno un colore in comune con essa guadagnano protezione dal colore scelto fino alla fine del turno.</text>
+    <text>Radianza - Scegli un colore. La creatura bersaglio e ogni altra creatura che abbia almeno un colore in comune con essa guadagnano protezione dal colore scelto fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>RAV0003</id>
     <name>Antenato Benevolo</name>
-    <text>Difensore
+    <text>Difensore 
 {T}: Previeni il prossimo punto danno che verrebbe inflitto alla creatura o al giocatore bersaglio in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -24,7 +24,7 @@
   <item>
     <id>RAV0004</id>
     <name>Arconte Sfavillante</name>
-    <text>Volare
+    <text>Volare 
 Le creature non possono attaccarti.</text>
     <flavorText>
     </flavorText>
@@ -38,15 +38,15 @@ Le creature non possono attaccarti.</text>
   </item>
   <item>
     <id>RAV0006</id>
-    <name>Soccorritore</name>
-    <text>{W}, Sacrifica una creatura : Previeni il prossimo punto danno che verrebbe inflitto alla creatura o al giocatore bersaglio in questo turno.</text>
+    <name>Soccorritrice</name>
+    <text>{W}, Sacrifica una creatura: Previeni il prossimo punto danno che verrebbe inflitto alla creatura o al giocatore bersaglio in questo turno.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>RAV0007</id>
     <name>Canto di Vitu-Ghazi</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Previeni tutto il danno che verrebbe inflitto dalle creature in questo turno. Guadagni un ammontare di punti vita pari al danno prevenuto in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -61,7 +61,7 @@ Previeni tutto il danno che verrebbe inflitto dalle creature in questo turno. Gu
   <item>
     <id>RAV0009</id>
     <name>Equinauta del Conclave</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Volare</text>
     <flavorText>
     </flavorText>
@@ -69,7 +69,7 @@ Volare</text>
   <item>
     <id>RAV0010</id>
     <name>Falange del Conclave</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Quando la Falange del Conclave entra nel campo di battaglia, guadagni 1 punto vita per ogni creatura che controlli.</text>
     <flavorText>
     </flavorText>
@@ -77,8 +77,8 @@ Quando la Falange del Conclave entra nel campo di battaglia, guadagni 1 punto vi
   <item>
     <id>RAV0011</id>
     <name>Benedizione del Conclave</name>
-    <text>Incanta creatura
-Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Incanta creatura 
+Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 La creatura incantata prende +0/+2 per ogni altra creatura che controlli.</text>
     <flavorText>
     </flavorText>
@@ -93,7 +93,7 @@ La creatura incantata prende +0/+2 per ogni altra creatura che controlli.</text>
   <item>
     <id>RAV0013</id>
     <name>Luce Divoratrice</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Esilia una creatura attaccante o bloccante bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -101,7 +101,7 @@ Esilia una creatura attaccante o bloccante bersaglio.</text>
   <item>
     <id>RAV0014</id>
     <name>Grifone Bombardiere</name>
-    <text>Volare
+    <text>Volare 
 {T}, Sacrifica il Grifone Bombardiere: Il Grifone Bombardiere infligge 3 danni a una creatura bersaglio che sta attaccando o bloccando.</text>
     <flavorText>
     </flavorText>
@@ -116,9 +116,9 @@ Esilia una creatura attaccante o bloccante bersaglio.</text>
   <item>
     <id>RAV0016</id>
     <name>Pastoie della Fede</name>
-    <text>Incanta permanente
-Quando le Pastoie della Fede entrano nel campo di battaglia guadagni 4 punti vita.
-Le abilità attivate del permanente incantato non possono essere attivate a meno che siano abilità di mana.
+    <text>Incanta permanente 
+Quando le Pastoie della Fede entrano nel campo di battaglia guadagni 4 punti vita. 
+Le abilità attivate del permanente incantato non possono essere attivate a meno che siano abilità di mana. 
 Se il permanente incantato è una creatura, non può attaccare o bloccare.</text>
     <flavorText>
     </flavorText>
@@ -126,7 +126,7 @@ Se il permanente incantato è una creatura, non può attaccare o bloccare.</text
   <item>
     <id>RAV0017</id>
     <name>Festa del Patto delle Gilde</name>
-    <text>Previeni i prossimi X danni che ti verrebbero inflitti in questo turno.
+    <text>Previeni i prossimi X danni che ti verrebbero inflitti in questo turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -134,7 +134,7 @@ Pesca una carta.</text>
   <item>
     <id>RAV0018</id>
     <name>Guizzoforma</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {2}{W}{W}: Esilia la creatura incantata e tutte le Aura ad essa assegnate. All'inizio della prossima sottofase finale, rimetti quella carta sul campo di battaglia sotto il controllo del suo proprietario. Se lo fai, rimetti quelle Aure sul campo di battaglia sotto il controllo dei rispettivi proprietari assegnate a quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -156,7 +156,7 @@ Pesca una carta.</text>
   <item>
     <id>RAV0021</id>
     <name>L'Ora dei Conti</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Distruggi tutte le creature non pedina.</text>
     <flavorText>
     </flavorText>
@@ -164,7 +164,7 @@ Distruggi tutte le creature non pedina.</text>
   <item>
     <id>RAV0022</id>
     <name>Lammasu Braccato</name>
-    <text>Volare
+    <text>Volare 
 Quando il Lammasu Braccato entra nel campo di battaglia, metti sul campo di battaglia una pedina creatura Orrore 4/4 nera sotto il controllo di un avversario bersaglio</text>
     <flavorText>
     </flavorText>
@@ -200,7 +200,7 @@ Quando il Lammasu Braccato entra nel campo di battaglia, metti sul campo di batt
   <item>
     <id>RAV0027</id>
     <name>Gigante Giurato</name>
-    <text>Cautela
+    <text>Cautela 
 Le altre creature che controlli prendono +0/+2 e hanno cautela.</text>
     <flavorText>
     </flavorText>
@@ -215,7 +215,7 @@ Le altre creature che controlli prendono +0/+2 e hanno cautela.</text>
   <item>
     <id>RAV0029</id>
     <name>Grifone Stridente</name>
-    <text>Volare
+    <text>Volare 
 {R}: Una creatura bersaglio non può bloccare il Grifone Stridente in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -244,7 +244,7 @@ Le altre creature che controlli prendono +0/+2 e hanno cautela.</text>
   <item>
     <id>RAV0033</id>
     <name>Pastore del Crepuscolo</name>
-    <text>Ogniqualvolta una pedina creatura lascia il campo di battaglia, metti un segnalino +1/+1 sul Pastore del Crepuscolo.
+    <text>Ogniqualvolta una pedina creatura lascia il campo di battaglia, metti un segnalino +1/+1 sul Pastore del Crepuscolo. 
 {2}{W}, Rimuovi un segnalino +1/+1 dal Pastore del Crepuscolo: Metti sul campo di battaglia due pedine creatura Spirito 1/1 bianche con volare.</text>
     <flavorText>
     </flavorText>
@@ -280,7 +280,7 @@ Le altre creature che controlli prendono +0/+2 e hanno cautela.</text>
   <item>
     <id>RAV0038</id>
     <name>Sfinge del Campanile</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta una fonte infligge danno alla Sfinge del Campanile, il controllore di quella fonte mette altrettante carte dalla cima del suo grimorio nel suo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -288,7 +288,7 @@ Ogniqualvolta una fonte infligge danno alla Sfinge del Campanile, il controllore
   <item>
     <id>RAV0039</id>
     <name>Sfinge Cerulea</name>
-    <text>Volare
+    <text>Volare 
 {U}: Il proprietario della Sfinge Cerulea la rimescola nel proprio grimorio.</text>
     <flavorText>
     </flavorText>
@@ -317,15 +317,15 @@ Ogniqualvolta una fonte infligge danno alla Sfinge del Campanile, il controllore
   <item>
     <id>RAV0043</id>
     <name>Magia Stordente</name>
-    <text>La creatura bersaglio prende -3/-0 fino alla fine del turno.
-Trasmutare {1}{U}{U}</text>
+    <text>La creatura bersaglio prende -3/-0 fino alla fine del turno. 
+Trasmutare {1}{U}{U} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>RAV0044</id>
     <name>Famiglio Draghetto</name>
-    <text>Volare
+    <text>Volare 
 Quando il Famiglio Draghetto entra nel campo di battaglia, sacrificalo a meno che tu faccia riprendere in mano al proprietario un incantesimo.</text>
     <flavorText>
     </flavorText>
@@ -333,8 +333,8 @@ Quando il Famiglio Draghetto entra nel campo di battaglia, sacrificalo a meno ch
   <item>
     <id>RAV0045</id>
     <name>Guinzaglio Onirico</name>
-    <text>Incanta permanente
-Mentre lanci il Guinzaglio Onirico, non puoi scegliere un permanente STAPato come bersaglio del Guinzaglio Onirico.
+    <text>Incanta permanente 
+Mentre lanci il Guinzaglio Onirico, non puoi scegliere un permanente STAPato come bersaglio del Guinzaglio Onirico. 
 Tu controlli il permanente incantato.</text>
     <flavorText>
     </flavorText>
@@ -342,15 +342,15 @@ Tu controlli il permanente incantato.</text>
   <item>
     <id>RAV0046</id>
     <name>Deriva dei Fantasmi</name>
-    <text>Difensore, volare
-Trasmutare {1}{U}{U}</text>
+    <text>Difensore, volare 
+Trasmutare {1}{U}{U} </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>RAV0047</id>
     <name>Cerimoniere Etereo</name>
-    <text>{U}: La creatura bersaglio non può essere bloccata in questo turno.
+    <text>{U}: La creatura bersaglio non può essere bloccata in questo turno. 
 Trasmutare {1}{U}{U}</text>
     <flavorText>
     </flavorText>
@@ -365,8 +365,8 @@ Trasmutare {1}{U}{U}</text>
   <item>
     <id>RAV0049</id>
     <name>Volo di Fantasia</name>
-    <text>Incanta creatura
-Quando il Volo di Fantasia entra nel campo di battaglia, pesca due carte.
+    <text>Incanta creatura 
+Quando il Volo di Fantasia entra nel campo di battaglia, pesca due carte. 
 La creatura incantata ha volare.</text>
     <flavorText>
     </flavorText>
@@ -374,14 +374,14 @@ La creatura incantata ha volare.</text>
   <item>
     <id>RAV0050</id>
     <name>Flusso di Idee</name>
-    <text>Pesca una carta per ogni Isola che controlli.</text>
+    <text>Pesca una carta per ogni Isola che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>RAV0051</id>
     <name>Orme Seguite</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 All'inizio del tuo mantenimento, metti sul campo di battaglia una pedina creatura che è una copia della creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -396,9 +396,9 @@ All'inizio del tuo mantenimento, metti sul campo di battaglia una pedina creatur
   <item>
     <id>RAV0053</id>
     <name>Grozoth</name>
-    <text>Difensore
-Quando Grozoth entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio, scegliere un qualsiasi numero di carte che abbiano un costo di mana convertito pari a 9, rivelarle e aggiungerle alla tua mano. Se lo fai, rimescola il tuo grimorio.
-{4}: Grozoth perde l'abilità difensore fino alla fine del turno.
+    <text>Difensore 
+Quando Grozoth entra nel campo di battaglia, puoi passare in rassegna il tuo grimorio, scegliere un qualsiasi numero di carte che abbiano un costo di mana convertito pari a 9, rivelarle e aggiungerle alla tua mano. Se lo fai, rimescola il tuo grimorio. 
+{4}: Grozoth perde l'abilità difensore fino alla fine del turno. 
 Trasmutare {1}{U}{U}</text>
     <flavorText>
     </flavorText>
@@ -413,7 +413,7 @@ Trasmutare {1}{U}{U}</text>
   <item>
     <id>RAV0055</id>
     <name>Fantasma Braccato</name>
-    <text>Il Fantasma Braccato non può essere bloccato.
+    <text>Il Fantasma Braccato non può essere bloccato. 
 Quando il Fantasma Braccato entra nel campo di battaglia, metti sul campo di battaglia cinque pedine creatura Goblin 1/1 rosse sotto il controllo di un avversario bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -421,7 +421,7 @@ Quando il Fantasma Braccato entra nel campo di battaglia, metti sul campo di bat
   <item>
     <id>RAV0056</id>
     <name>Indurre Paranoia</name>
-    <text>Neutralizza una magia bersaglio.
+    <text>Neutralizza una magia bersaglio. 
 Se è stato speso {B} per lanciare Indurre Paranoia, il controllore di quella magia mette le prime X carte del suo grimorio nel suo cimitero, dove X è il costo di mana convertito di quella magia.</text>
     <flavorText>
     </flavorText>
@@ -436,7 +436,7 @@ Se è stato speso {B} per lanciare Indurre Paranoia, il controllore di quella ma
   <item>
     <id>RAV0058</id>
     <name>Segno di Evizione</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 All'inizio del tuo mantenimento, i proprietari riprendono in mano la creatura incantata e tutte le Aura assegnate a quella creatura.</text>
     <flavorText>
     </flavorText>
@@ -451,8 +451,8 @@ All'inizio del tuo mantenimento, i proprietari riprendono in mano la creatura in
   <item>
     <id>RAV0060</id>
     <name>Rimescolare il Miscuglio</name>
-    <text>Neutralizza la magia istantaneo o stregoneria bersaglio.
-Trasmutare {1}{U}{U}</text>
+    <text>Neutralizza la magia istantaneo o stregoneria bersaglio. 
+Trasmutare {1}{U}{U} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -466,7 +466,7 @@ Trasmutare {1}{U}{U}</text>
   <item>
     <id>RAV0062</id>
     <name>Sveltocambio</name>
-    <text>La creatura bersaglio diventa del colore o dei colori a tua scelta fino alla fine del turno.
+    <text>La creatura bersaglio diventa del colore o dei colori a tua scelta fino alla fine del turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -474,7 +474,7 @@ Pesca una carta.</text>
   <item>
     <id>RAV0063</id>
     <name>Rimandare</name>
-    <text>Neutralizza una magia bersaglio. Se quella magia viene neutralizzata in questo modo, aggiungila alla mano del suo proprietario invece di metterla nel cimitero di quel giocatore.
+    <text>Neutralizza una magia bersaglio. Se quella magia viene neutralizzata in questo modo, aggiungila alla mano del suo proprietario invece di metterla nel cimitero di quel giocatore. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -496,8 +496,8 @@ Pesca una carta.</text>
   <item>
     <id>RAV0066</id>
     <name>Cella di Stasi</name>
-    <text>Incanta creatura
-La creatura incantata non STAPpa durante lo STAP del suo controllore.
+    <text>Incanta creatura 
+La creatura incantata non STAPpa durante lo STAP del suo controllore. 
 {3}{U}: Assegna la Cella di Stasi a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -505,7 +505,7 @@ La creatura incantata non STAPpa durante lo STAP del suo controllore.
   <item>
     <id>RAV0067</id>
     <name>Spiritello Sorvegliante</name>
-    <text>Volare
+    <text>Volare 
 Quando lo Spiritello Sorvegliante viene messo in un cimitero dal campo di battaglia, puoi pescare una carta.</text>
     <flavorText>
     </flavorText>
@@ -513,7 +513,7 @@ Quando lo Spiritello Sorvegliante viene messo in un cimitero dal campo di battag
   <item>
     <id>RAV0068</id>
     <name>Draghetto Lacero</name>
-    <text>Volare
+    <text>Volare 
 {B}: Rigenera il Draghetto Lacero.</text>
     <flavorText>
     </flavorText>
@@ -535,8 +535,8 @@ Quando lo Spiritello Sorvegliante viene messo in un cimitero dal campo di battag
   <item>
     <id>RAV0071</id>
     <name>Servitore della Marea</name>
-    <text>Difensore
-{4}: Il Servitore della Marea perde difensore fino alla fine del turno.
+    <text>Difensore 
+{4}: Il Servitore della Marea perde difensore fino alla fine del turno. 
 {T}: STAPpa un permanente bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -565,7 +565,7 @@ Quando lo Spiritello Sorvegliante viene messo in un cimitero dal campo di battag
   <item>
     <id>RAV0075</id>
     <name>Spioni Avvizziti</name>
-    <text>Volare
+    <text>Volare 
 I giocatori giocano con la prima carta del loro grimorio scoperta.</text>
     <flavorText>
     </flavorText>
@@ -580,7 +580,7 @@ I giocatori giocano con la prima carta del loro grimorio scoperta.</text>
   <item>
     <id>RAV0077</id>
     <name>Travasa Sangue</name>
-    <text>Le magie non creatura che lanci costano {2} in meno per essere lanciate.
+    <text>Le magie non creatura che lanci costano {2} in meno per essere lanciate. 
 Ogniqualvolta lanci una magia non creatura, neutralizza quella magia a meno che tu sacrifichi una creatura.</text>
     <flavorText>
     </flavorText>
@@ -588,7 +588,7 @@ Ogniqualvolta lanci una magia non creatura, neutralizza quella magia a meno che 
   <item>
     <id>RAV0078</id>
     <name>Sciupacervello</name>
-    <text>Distruggi una creatura bersaglio che non è incantata. Non può essere rigenerata.
+    <text>Distruggi una creatura bersaglio che non è incantata. Non può essere rigenerata. 
 Trasmutare {1}{B}{B}</text>
     <flavorText>
     </flavorText>
@@ -603,7 +603,7 @@ Trasmutare {1}{B}{B}</text>
   <item>
     <id>RAV0080</id>
     <name>Oscurità Avvolgente</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende -4/-1.</text>
     <flavorText>
     </flavorText>
@@ -618,7 +618,7 @@ La creatura incantata prende -4/-1.</text>
   <item>
     <id>RAV0082</id>
     <name>Esplosione Oscura</name>
-    <text>La creatura bersaglio prende -1/-1 fino alla fine del turno.
+    <text>La creatura bersaglio prende -1/-1 fino alla fine del turno. 
 Dragare 3 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente tre carte dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -626,8 +626,8 @@ Dragare 3 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0083</id>
     <name>Domoguardia Dimir</name>
-    <text>Paura
-Sacrifica una creatura: Rigenera la Domoguardia Dimir.
+    <text>Paura 
+Sacrifica una creatura: Rigenera la Domoguardia Dimir. 
 Trasmutare {1}{B}{B}</text>
     <flavorText>
     </flavorText>
@@ -635,7 +635,7 @@ Trasmutare {1}{B}{B}</text>
   <item>
     <id>RAV0084</id>
     <name>Macchinazioni Dimir</name>
-    <text>Guarda le prime tre carte del grimorio del giocatore bersaglio. Esilia un qualsiasi numero di quelle carte, poi metti le rimanenti in cima al grimorio in un qualsiasi ordine.
+    <text>Guarda le prime tre carte del grimorio del giocatore bersaglio. Esilia un qualsiasi numero di quelle carte, poi metti le rimanenti in cima al grimorio in un qualsiasi ordine. 
 Trasmutare {1}{B}{B}</text>
     <flavorText>
     </flavorText>
@@ -657,7 +657,7 @@ Trasmutare {1}{B}{B}</text>
   <item>
     <id>RAV0087</id>
     <name>Thug Golgari</name>
-    <text>Quando il Thug Golgari viene messo in un cimitero dal campo di battaglia, metti una creatura bersaglio dal tuo cimitero in cima al tuo grimorio.
+    <text>Quando il Thug Golgari viene messo in un cimitero dal campo di battaglia, metti una creatura bersaglio dal tuo cimitero in cima al tuo grimorio. 
 Dragare 4 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente quattro carte dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -679,7 +679,7 @@ Dragare 4 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0090</id>
     <name>Orrore Braccato</name>
-    <text>Travolgere
+    <text>Travolgere 
 Quando l'Orrore Braccato entra nel campo di battaglia, metti sul campo di battaglia due pedine creatura Centauro 3/3 verdi con protezione dal nero sotto il controllo di un avversario bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -694,7 +694,7 @@ Quando l'Orrore Braccato entra nel campo di battaglia, metti sul campo di battag
   <item>
     <id>RAV0092</id>
     <name>Banshee Lancinante</name>
-    <text>Volare
+    <text>Volare 
 Quando la Banshee Lancinante entra nel campo di battaglia, la creatura bersaglio prende -2/-2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -730,7 +730,7 @@ Quando la Banshee Lancinante entra nel campo di battaglia, la creatura bersaglio
   <item>
     <id>RAV0097</id>
     <name>Sete Necromantica</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta la creatura incantata infligge danno da combattimento ad un giocatore, puoi riprendere in mano una carta creatura bersaglio dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -738,8 +738,8 @@ Ogniqualvolta la creatura incantata infligge danno da combattimento ad un giocat
   <item>
     <id>RAV0098</id>
     <name>Necroplasma</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino +1/+1 sul Necroplasma.
-All'inizio della tua sottofase finale, distruggi ogni creatura con costo di mana convertito pari al numero di segnalini +1/+1 presenti sul Necroplasma.
+    <text>All'inizio del tuo mantenimento, metti un segnalino +1/+1 sul Necroplasma. 
+All'inizio della tua sottofase finale, distruggi ogni creatura con costo di mana convertito pari al numero di segnalini +1/+1 presenti sul Necroplasma. 
 Dragare 2 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente due carte dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -747,7 +747,7 @@ Dragare 2 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0099</id>
     <name>Falange degli Inferi</name>
-    <text>Quando la Falange degli Inferi entra nel campo di battaglia, ogni avversario perde 1 punto vita per ogni creatura che controlla.
+    <text>Quando la Falange degli Inferi entra nel campo di battaglia, ogni avversario perde 1 punto vita per ogni creatura che controlla. 
 Trasmutare {1}{B}{B}</text>
     <flavorText>
     </flavorText>
@@ -755,7 +755,7 @@ Trasmutare {1}{B}{B}</text>
   <item>
     <id>RAV0100</id>
     <name>Vuoto d'Incubo</name>
-    <text>Un giocatore bersaglio rivela la propria mano. Tu scegli una carta da essa. Quel giocatore scarta quella carta.
+    <text>Un giocatore bersaglio rivela la propria mano. Tu scegli una carta da essa. Quel giocatore scarta quella carta. 
 Dragare 2 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente due carte dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -784,7 +784,7 @@ Dragare 2 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0104</id>
     <name>Feccia di Fogna</name>
-    <text>Passa-paludi
+    <text>Passa-paludi 
 Sacrifica la Feccia di Fogna: Esilia una carta bersaglio da un cimitero.</text>
     <flavorText>
     </flavorText>
@@ -792,7 +792,7 @@ Sacrifica la Feccia di Fogna: Esilia una carta bersaglio da un cimitero.</text>
   <item>
     <id>RAV0105</id>
     <name>Strappare il Ricordo</name>
-    <text>Esilia fino a quattro carte bersaglio da un singolo cimitero.
+    <text>Esilia fino a quattro carte bersaglio da un singolo cimitero. 
 Trasmutare {1}{B}{B}</text>
     <flavorText>
     </flavorText>
@@ -807,8 +807,8 @@ Trasmutare {1}{B}{B}</text>
   <item>
     <id>RAV0107</id>
     <name>Demonietto di Brassicacea</name>
-    <text>Volare
-Ogniqualvolta il Demonietto di Brassicacea infligge danno da combattimento a una creatura, distruggi quella creatura.
+    <text>Volare 
+Ogniqualvolta il Demonietto di Brassicacea infligge danno da combattimento a una creatura, distruggi quella creatura. 
 Dragare 5 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente cinque carte dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -816,8 +816,8 @@ Dragare 5 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0108</id>
     <name>Trefoli di Non Morti</name>
-    <text>Incanta creatura
-Quando i Trefoli di Non Morti entrano nel campo di battaglia, il giocatore bersaglio scarta due carte.
+    <text>Incanta creatura 
+Quando i Trefoli di Non Morti entrano nel campo di battaglia, il giocatore bersaglio scarta due carte. 
 {B}: Rigenera la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -832,7 +832,7 @@ Quando i Trefoli di Non Morti entrano nel campo di battaglia, il giocatore bersa
   <item>
     <id>RAV0110</id>
     <name>Bruma della Città Sepolta</name>
-    <text>Paura
+    <text>Paura 
 {B}: La Bruma della Città Sepolta prende +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -847,7 +847,7 @@ Quando i Trefoli di Non Morti entrano nel campo di battaglia, il giocatore bersa
   <item>
     <id>RAV0112</id>
     <name>Folla Vendicativa</name>
-    <text>Quando la Folla Vendicativa entra nel campo di battaglia, sacrifica una creatura.
+    <text>Quando la Folla Vendicativa entra nel campo di battaglia, sacrifica una creatura. 
 La Folla Vendicativa non può essere bloccata dai Saprolingi.</text>
     <flavorText>
     </flavorText>
@@ -855,7 +855,7 @@ La Folla Vendicativa non può essere bloccata dai Saprolingi.</text>
   <item>
     <id>RAV0113</id>
     <name>Demone Recadolore</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica una creatura. Se quel giocatore non può farlo, sacrifica il Demone Recadolore.</text>
     <flavorText>
     </flavorText>
@@ -877,7 +877,7 @@ All'inizio del mantenimento di ogni giocatore, quel giocatore sacrifica una crea
   <item>
     <id>RAV0116</id>
     <name>Soffio della Furia</name>
-    <text>Incanta una creatura che controlli
+    <text>Incanta una creatura che controlli 
 Quando la creatura incantata infligge danno da combattimento a un giocatore, sacrificala e assegna il Soffio della Furia a una creatura che controlli. Se lo fai, STAPpa tutte le creature che controlli e dopo questa fase c'è una fase di combattimento aggiuntiva.</text>
     <flavorText>
     </flavorText>
@@ -920,7 +920,7 @@ Quando la creatura incantata infligge danno da combattimento a un giocatore, sac
   <item>
     <id>RAV0122</id>
     <name>Esito Ardente</name>
-    <text>Come costo addizionale per lanciare l'Esito Ardente, sacrifica una creatura.
+    <text>Come costo addizionale per lanciare l'Esito Ardente, sacrifica una creatura. 
 L'Esito Ardente infligge 5 danni a una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -949,8 +949,8 @@ L'Esito Ardente infligge 5 danni a una creatura bersaglio.</text>
   <item>
     <id>RAV0126</id>
     <name>Arco Galvanico</name>
-    <text>Incanta creatura
-Quando l'Arco Galvanico entra nel campo di battaglia, infligge 3 danni a una creatura o a un giocatore bersaglio.
+    <text>Incanta creatura 
+Quando l'Arco Galvanico entra nel campo di battaglia, infligge 3 danni a una creatura o a un giocatore bersaglio. 
 La creatura incantata ha attacco improvviso.</text>
     <flavorText>
     </flavorText>
@@ -958,8 +958,8 @@ La creatura incantata ha attacco improvviso.</text>
   <item>
     <id>RAV0127</id>
     <name>Demone di Fuoco Goblin</name>
-    <text>Rapidità
-Il Demone di Fuoco Goblin deve essere bloccato se possibile.
+    <text>Rapidità 
+Il Demone di Fuoco Goblin deve essere bloccato se possibile. 
 {R}: Il Demone di Fuoco Goblin prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -988,7 +988,7 @@ Il Demone di Fuoco Goblin deve essere bloccato se possibile.
   <item>
     <id>RAV0131</id>
     <name>Drago Braccato</name>
-    <text>Volare, rapidità
+    <text>Volare, rapidità 
 Quando il Drago Braccato entra nel campo di battaglia, metti sul campo di battaglia tre pedine creatura Cavaliere 2/2 bianche con attacco improvviso sotto il controllo di un avversario bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1010,7 +1010,7 @@ Quando il Drago Braccato entra nel campo di battaglia, metti sul campo di battag
   <item>
     <id>RAV0134</id>
     <name>Inculcare il Furore</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha "All'inizio della tua sottofase finale, sacrifica questa creatura a meno che abbia attaccato in questo turno."</text>
     <flavorText>
     </flavorText>
@@ -1046,7 +1046,7 @@ La creatura incantata ha "All'inizio della tua sottofase finale, sacrifica quest
   <item>
     <id>RAV0139</id>
     <name>Ridirigere</name>
-    <text>Cambia il bersaglio dell'abilità attivata bersaglio che ha un singolo bersaglio.
+    <text>Cambia il bersaglio dell'abilità attivata bersaglio che ha un singolo bersaglio. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1054,7 +1054,7 @@ Pesca una carta.</text>
   <item>
     <id>RAV0140</id>
     <name>Gattaccio Denti a Sciabola</name>
-    <text>Il Gattaccio Denti a Sciabola attacca in ogni turno se può farlo.
+    <text>Il Gattaccio Denti a Sciabola attacca in ogni turno se può farlo. 
 {1}{R}: Le creature senza difensore non possono bloccare il Gattaccio Denti a Sciabola in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -1076,8 +1076,8 @@ Pesca una carta.</text>
   <item>
     <id>RAV0143</id>
     <name>Spaccare</name>
-    <text>Distruggi un artefatto bersaglio.
-Pesca una carta.</text>
+    <text>Distruggi un artefatto bersaglio. 
+Pesca una carta. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1105,7 +1105,7 @@ Pesca una carta.</text>
   <item>
     <id>RAV0147</id>
     <name>Moloc Intorpidito</name>
-    <text>Difensore
+    <text>Difensore 
 Sacrifica tre terre: Il Moloc Intorpidito perde difensore fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1148,7 +1148,7 @@ Sacrifica tre terre: Il Moloc Intorpidito perde difensore fino alla fine del tur
   <item>
     <id>RAV0153</id>
     <name>Uccelli del Paradiso</name>
-    <text>Volare
+    <text>Volare 
 {T}: Aggiungi un mana di un qualsiasi colore alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -1163,7 +1163,7 @@ Sacrifica tre terre: Il Moloc Intorpidito perde difensore fino alla fine del tur
   <item>
     <id>RAV0155</id>
     <name>Cariatide Intagliata</name>
-    <text>Difensore
+    <text>Difensore 
 Quando la Cariatide Intagliata entra nel campo di battaglia, pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1171,7 +1171,7 @@ Quando la Cariatide Intagliata entra nel campo di battaglia, pesca una carta.</t
   <item>
     <id>RAV0156</id>
     <name>Corda della Convocazione</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Passa in rassegna il tuo grimorio per una carta creatura con costo di mana convertito pari o inferiore a X e mettila sul campo di battaglia. Poi rimescola il tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1186,7 +1186,7 @@ Passa in rassegna il tuo grimorio per una carta creatura con costo di mana conve
   <item>
     <id>RAV0158</id>
     <name>Stagione del Raddoppio</name>
-    <text>Se un effetto sta per mettere sul campo di battaglia sotto il tuo controllo una o più pedine, invece mette sul campo di battaglia il doppio di quelle pedine.
+    <text>Se un effetto sta per mettere sul campo di battaglia sotto il tuo controllo una o più pedine, invece mette sul campo di battaglia il doppio di quelle pedine. 
 Se un effetto sta per mettere su un permanente che controlli uno o più segnalini, invece mette su quel permanente il doppio di quei segnalini.</text>
     <flavorText>
     </flavorText>
@@ -1229,8 +1229,8 @@ Se un effetto sta per mettere su un permanente che controlli uno o più segnalin
   <item>
     <id>RAV0164</id>
     <name>Pugni di Ferrobosco</name>
-    <text>Incanta creatura
-Quando i Pugni di Ferrobosco entrano nel campo di battaglia, metti sul campo di battaglia due pedine creatura Saprolingio 1/1 verdi.
+    <text>Incanta creatura 
+Quando i Pugni di Ferrobosco entrano nel campo di battaglia, metti sul campo di battaglia due pedine creatura Saprolingio 1/1 verdi. 
 La creatura incantata ha travolgere.</text>
     <flavorText>
     </flavorText>
@@ -1238,7 +1238,7 @@ La creatura incantata ha travolgere.</text>
   <item>
     <id>RAV0165</id>
     <name>Raccogliere il Coraggio</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 La creatura bersaglio prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1246,7 +1246,7 @@ La creatura bersaglio prende +2/+2 fino alla fine del turno.</text>
   <item>
     <id>RAV0166</id>
     <name>Scagliebrune Golgari</name>
-    <text>Quando lo Scagliebrune Golgari viene messo nella tua mano da un cimitero, tu guadagni 2 punti vita.
+    <text>Quando lo Scagliebrune Golgari viene messo nella tua mano da un cimitero, tu guadagni 2 punti vita. 
 Dragare 2 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente due carte dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -1254,8 +1254,8 @@ Dragare 2 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0167</id>
     <name>Troll della Tomba Golgari</name>
-    <text>Il Troll della Tomba Golgari entra nel campo di battaglia con un segnalino +1/+1 per ogni carta creatura presente nel tuo cimitero.
-{1}, Rimuovi un segnalino +1/+1 dal Troll della Tomba Golgari: Rigenera il Troll della Tomba Golgari.
+    <text>Il Troll della Tomba Golgari entra nel campo di battaglia con un segnalino +1/+1 per ogni carta creatura presente nel tuo cimitero. 
+{1}, Rimuovi un segnalino +1/+1 dal Troll della Tomba Golgari: Rigenera il Troll della Tomba Golgari. 
 Dragare 6 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente sei carte dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -1277,7 +1277,7 @@ Dragare 6 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0170</id>
     <name>Troll Braccato</name>
-    <text>Quando il Troll Braccato entra nel campo di battaglia, metti sul campo di battaglia sotto il controllo dell'avversario bersaglio quattro pedine creatura Spiritello 1/1 blu con volare.
+    <text>Quando il Troll Braccato entra nel campo di battaglia, metti sul campo di battaglia sotto il controllo dell'avversario bersaglio quattro pedine creatura Spiritello 1/1 blu con volare. 
 {G} : Rigenera il Troll Braccato.</text>
     <flavorText>
     </flavorText>
@@ -1292,7 +1292,7 @@ Dragare 6 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0172</id>
     <name>Vita dall'Argilla</name>
-    <text>Riprendi in mano fino a tre carte terra bersaglio dal tuo cimitero.
+    <text>Riprendi in mano fino a tre carte terra bersaglio dal tuo cimitero. 
 Dragare 3 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente tre carte dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -1300,8 +1300,8 @@ Dragare 3 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0173</id>
     <name>Mantello di Vitemarcia</name>
-    <text>Incanta creatura
-La creatura incantata prende +3/+3.
+    <text>Incanta creatura 
+La creatura incantata prende +3/+3. 
 Dragare 2 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente due carte dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -1316,7 +1316,7 @@ Dragare 2 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0175</id>
     <name>Soverchiare</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Le creature che controlli prendono +3/+3 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1338,7 +1338,7 @@ Le creature che controlli prendono +3/+3 fino alla fine del turno.</text>
   <item>
     <id>RAV0178</id>
     <name>Rammentare</name>
-    <text>Riprendi in mano una carta bersaglio dal tuo cimitero.</text>
+    <text>Riprendi in mano una carta bersaglio dal tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1352,7 +1352,7 @@ Le creature che controlli prendono +3/+3 fino alla fine del turno.</text>
   <item>
     <id>RAV0180</id>
     <name>Alleato Stirpe-Radice</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 TAPpa due creature STAPpate che controlli: L'Alleato Stirpe-Radice prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1360,7 +1360,7 @@ TAPpa due creature STAPpate che controlli: L'Alleato Stirpe-Radice prende +2/+2 
   <item>
     <id>RAV0181</id>
     <name>Spargere i Semi</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Metti sul campo di battaglia tre pedine creatura Saprolingio 1/1 verdi.</text>
     <flavorText>
     </flavorText>
@@ -1368,14 +1368,14 @@ Metti sul campo di battaglia tre pedine creatura Saprolingio 1/1 verdi.</text>
   <item>
     <id>RAV0182</id>
     <name>Erede della Selva</name>
-    <text>La forza e la costituzione dell'Erede della Selva sono pari ciascuna al numero di creature che controlli.</text>
+    <text>La forza e la costituzione dell'Erede della Selva sono pari ciascuna al numero di creature che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>RAV0183</id>
     <name>Wurm da Assedio</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Travolgere</text>
     <flavorText>
     </flavorText>
@@ -1383,7 +1383,7 @@ Travolgere</text>
   <item>
     <id>RAV0184</id>
     <name>Gerofante Semina-Pietra</name>
-    <text>Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, STAPpa il Gerofante Semina-Pietra.
+    <text>Ogniqualvolta una terra entra nel campo di battaglia sotto il tuo controllo, STAPpa il Gerofante Semina-Pietra. 
 {T}: STAPpa una terra bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1391,7 +1391,7 @@ Travolgere</text>
   <item>
     <id>RAV0185</id>
     <name>Energia di Scissione</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Distruggi un artefatto o un incantesimo bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1406,7 +1406,7 @@ Distruggi un artefatto o un incantesimo bersaglio.</text>
   <item>
     <id>RAV0187</id>
     <name>Cacciatrice di Trofei</name>
-    <text>{1}{G}: La Cacciatrice di Trofei infligge 1 danno a una creatura bersaglio con volare.
+    <text>{1}{G}: La Cacciatrice di Trofei infligge 1 danno a una creatura bersaglio con volare. 
 Ogniqualvolta una creatura con volare che ha ricevuto danno dalla Cacciatrice di Trofei in questo turno viene messa in un cimitero, metti un segnalino +1/+1 sulla Cacciatrice di Trofei.</text>
     <flavorText>
     </flavorText>
@@ -1435,7 +1435,7 @@ Ogniqualvolta una creatura con volare che ha ricevuto danno dalla Cacciatrice di
   <item>
     <id>RAV0191</id>
     <name>Wurm Aborigeno</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lancii questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lancii questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Travolgere</text>
     <flavorText>
     </flavorText>
@@ -1457,14 +1457,14 @@ Travolgere</text>
   <item>
     <id>RAV0194</id>
     <name>Fiamma Radiosa</name>
-    <text>Radianza - La Fiamma Radiosa infligge X danni a una creatura bersaglio e a ogni altra creatura che abbia almeno un colore in comune con essa. Guadagni un ammontare di punti vita pari ai danni inflitti in questo modo.</text>
+    <text>Radianza - La Fiamma Radiosa infligge X danni a una creatura bersaglio e a ogni altra creatura che abbia almeno un colore in comune con essa. Guadagni un ammontare di punti vita pari ai danni inflitti in questo modo. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>RAV0195</id>
     <name>Coro del Conclave</name>
-    <text>Passa-foreste
+    <text>Passa-foreste 
 Come costo addizionale per lanciare le magie creatura, puoi pagare un qualsiasi ammontare di mana. Se lo fai, quella creatura entra nel campo di battaglia con un segnalino +1/+1 per ogni mana addizionale speso.</text>
     <flavorText>
     </flavorText>
@@ -1472,8 +1472,8 @@ Come costo addizionale per lanciare le magie creatura, puoi pagare un qualsiasi 
   <item>
     <id>RAV0196</id>
     <name>Circu, Lobotomista Dimir</name>
-    <text>Ogniqualvolta lanci una magia blu, esilia la prima carta di un grimorio bersaglio.
-Ogniqualvolta lanci una magia nera, esilia la prima carta di un grimorio bersaglio.
+    <text>Ogniqualvolta lanci una magia blu, esilia la prima carta di un grimorio bersaglio. 
+Ogniqualvolta lanci una magia nera, esilia la prima carta di un grimorio bersaglio. 
 I tuoi avversari non possono lanciare carte non terra con lo stesso nome di una delle carte esiliate con Circu, Lobotomista Dimir.</text>
     <flavorText>
     </flavorText>
@@ -1481,8 +1481,8 @@ I tuoi avversari non possono lanciare carte non terra con lo stesso nome di una 
   <item>
     <id>RAV0197</id>
     <name>Morsa della Città Sepolta</name>
-    <text>Fai riprendere il permanente bersaglio in mano al suo proprietario. Il suo controllore perde 3 punti vita.
-Trasmutare {1}{U}{B}</text>
+    <text>Fai riprendere il permanente bersaglio in mano al suo proprietario. Il suo controllore perde 3 punti vita. 
+Trasmutare {1}{U}{B} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1524,8 +1524,8 @@ Trasmutare {1}{U}{B}</text>
   <item>
     <id>RAV0203</id>
     <name>Infiltrato Dimir</name>
-    <text>L'Infiltrato Dimir non può essere bloccato.
-Trasmutare {1}{U}{B}</text>
+    <text>L'Infiltrato Dimir non può essere bloccato. 
+Trasmutare {1}{U}{B} </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1539,8 +1539,8 @@ Trasmutare {1}{U}{B}</text>
   <item>
     <id>RAV0205</id>
     <name>Angelo Chioma di Fuoco</name>
-    <text>Volare, attacco improvviso
-All'inizio del tuo mantenimento, se l'Angelo Chioma di Fuoco si trova nel tuo cimitero o nel campo di battaglia, puoi guadagnare 1 punto vita.
+    <text>Volare, attacco improvviso 
+All'inizio del tuo mantenimento, se l'Angelo Chioma di Fuoco si trova nel tuo cimitero o nel campo di battaglia, puoi guadagnare 1 punto vita. 
 {6}{R}{R}{W}{W}: Rimetti nel campo di battaglia l'Angelo Chioma di Fuoco dal tuo cimitero. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -1583,7 +1583,7 @@ All'inizio del tuo mantenimento, se l'Angelo Chioma di Fuoco si trova nel tuo ci
   <item>
     <id>RAV0211</id>
     <name>Scarabeo Guscio-Tomba</name>
-    <text>{1}, Sacrifica lo Scarabeo Guscio-Tomba: Pesca una carta.
+    <text>{1}, Sacrifica lo Scarabeo Guscio-Tomba: Pesca una carta. 
 Dragare 1 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente una carta dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -1591,7 +1591,7 @@ Dragare 1 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0212</id>
     <name>Guardiano di Vitu-Ghazi</name>
-    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.)
+    <text>Convocazione (Ciascuna creatura che TAPpi mentre lanci questa magia riduce il suo costo di {1} o di un mana del colore di quella creatura.) 
 Cautela</text>
     <flavorText>
     </flavorText>
@@ -1606,7 +1606,7 @@ Cautela</text>
   <item>
     <id>RAV0214</id>
     <name>Gerarca Lossodonte</name>
-    <text>Quando il Gerarca Lossodonte entra nel campo di battaglia, guadagni 4 punti vita.
+    <text>Quando il Gerarca Lossodonte entra nel campo di battaglia, guadagni 4 punti vita. 
 {G}{W}, Sacrifica il Gerarca Lossodonte: Rigenera ogni creatura che controlli.</text>
     <flavorText>
     </flavorText>
@@ -1614,7 +1614,7 @@ Cautela</text>
   <item>
     <id>RAV0215</id>
     <name>Moltitudine Suggimente</name>
-    <text>Travolgere
+    <text>Travolgere 
 Ogniqualvolta la Moltitudine Suggimente infligge danno da combattimento ad un giocatore, puoi guardare la mano di quel giocatore. Se lo fai, puoi lanciare una carta non terra da essa senza pagare il costo di mana di quella carta.</text>
     <flavorText>
     </flavorText>
@@ -1622,7 +1622,7 @@ Ogniqualvolta la Moltitudine Suggimente infligge danno da combattimento ad un gi
   <item>
     <id>RAV0216</id>
     <name>Moroii</name>
-    <text>Volare
+    <text>Volare 
 All'inizio del tuo mantenimento, perdi 1 punto vita.</text>
     <flavorText>
     </flavorText>
@@ -1630,7 +1630,7 @@ All'inizio del tuo mantenimento, perdi 1 punto vita.</text>
   <item>
     <id>RAV0217</id>
     <name>Sconcertare</name>
-    <text>Neutralizza la magia bersaglio a meno che il suo controllore scarti la sua mano.
+    <text>Neutralizza la magia bersaglio a meno che il suo controllore scarti la sua mano. 
 Trasmutare {1}{U}{B}</text>
     <flavorText>
     </flavorText>
@@ -1645,8 +1645,8 @@ Trasmutare {1}{U}{B}</text>
   <item>
     <id>RAV0219</id>
     <name>Ali Splendipolline</name>
-    <text>Incanta creatura
-La creatura incantata ha volare.
+    <text>Incanta creatura 
+La creatura incantata ha volare. 
 Ogniqualvolta la creatura incantata infligge danno da combattimento ad un giocatore, metti sul campo di battaglia un pari numero di pedine creatura Saprolingio 1/1 verdi.</text>
     <flavorText>
     </flavorText>
@@ -1675,7 +1675,7 @@ Ogniqualvolta la creatura incantata infligge danno da combattimento ad un giocat
   <item>
     <id>RAV0223</id>
     <name>Razia, Arcangelo Boros</name>
-    <text>Volare, cautela, rapidità
+    <text>Volare, cautela, rapidità 
 {T}: I prossimi 3 danni che verrebbero inflitti in questo turno a una creatura bersaglio che controlli vengono invece inflitti a un'altra creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1690,7 +1690,7 @@ Ogniqualvolta la creatura incantata infligge danno da combattimento ad un giocat
   <item>
     <id>RAV0225</id>
     <name>Savra, Regina dei Golgari</name>
-    <text>Ogniqualvolta sacrifichi una creatura nera, puoi pagare 2 punti vita. Se lo fai, ogni altro giocatore sacrifica una creatura.
+    <text>Ogniqualvolta sacrifichi una creatura nera, puoi pagare 2 punti vita. Se lo fai, ogni altro giocatore sacrifica una creatura. 
 Ogniqualvolta sacrifichi una creatura verde, puoi guadagnare 2 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -1705,9 +1705,9 @@ Ogniqualvolta sacrifichi una creatura verde, puoi guadagnare 2 punti vita.</text
   <item>
     <id>RAV0227</id>
     <name>Semi della Forza</name>
-    <text>La creatura bersaglio prende +1/+1 fino alla fine del turno.
-La creatura bersaglio prende +1/+1 fino alla fine del turno.
-La creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
+    <text>La creatura bersaglio prende +1/+1 fino alla fine del turno. 
+La creatura bersaglio prende +1/+1 fino alla fine del turno. 
+La creatura bersaglio prende +1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1721,7 +1721,7 @@ La creatura bersaglio prende +1/+1 fino alla fine del turno.</text>
   <item>
     <id>RAV0229</id>
     <name>Sagitti di Selesnya</name>
-    <text>Raggiungere (Questa creatura può bloccare le creature con volare.)
+    <text>Raggiungere (Questa creatura può bloccare le creature con volare.) 
 I Sagitti di Selesnya possono bloccare una creatura addizionale.</text>
     <flavorText>
     </flavorText>
@@ -1729,7 +1729,7 @@ I Sagitti di Selesnya possono bloccare una creatura addizionale.</text>
   <item>
     <id>RAV0230</id>
     <name>Guscio Barcollante</name>
-    <text>Sacrifica il Guscio Barcollante : Metti un segnalino +1/+1 sulla creatura bersaglio.
+    <text>Sacrifica il Guscio Barcollante : Metti un segnalino +1/+1 sulla creatura bersaglio. 
 Dragare 3 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero esattamente tre carte dalla cima del tuo grimorio. Se lo fai, riprendi in mano questa carta dal tuo cimitero. Altrimenti, pesca una carta.)</text>
     <flavorText>
     </flavorText>
@@ -1737,8 +1737,8 @@ Dragare 3 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0231</id>
     <name>Sorelle di Pietramorte</name>
-    <text>{G}: La creatura bersaglio blocca le Sorelle di Pietramorte in questo turno se può farlo.
-{B}{G}: Esilia la creatura bersaglio che blocca o è bloccata dalle Sorelle di Pietramorte.
+    <text>{G}: La creatura bersaglio blocca le Sorelle di Pietramorte in questo turno se può farlo. 
+{B}{G}: Esilia la creatura bersaglio che blocca o è bloccata dalle Sorelle di Pietramorte. 
 {2}{B}: Metti sul campo di battaglia sotto il tuo controllo una carta creatura esiliata con le Sorelle di Pietramorte.</text>
     <flavorText>
     </flavorText>
@@ -1753,7 +1753,7 @@ Dragare 3 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0233</id>
     <name>Tutore di Sol-Dimora</name>
-    <text>Ogniqualvolta il Tutore di Sol-Dimora infligge danno da combattimento, guadagni altrettanti punti vita.
+    <text>Ogniqualvolta il Tutore di Sol-Dimora infligge danno da combattimento, guadagni altrettanti punti vita. 
 {1}{R}: Il Tutore di Sol-Dimora prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1761,7 +1761,7 @@ Dragare 3 (Se stai per pescare una carta, invece puoi mettere nel tuo cimitero e
   <item>
     <id>RAV0234</id>
     <name>Szadek, Signore dei Segreti</name>
-    <text>Volare
+    <text>Volare 
 Se Szadek, Signore dei Segreti sta per infliggere danno da combattimento a un giocatore, invece metti altrettanti segnalini +1/+1 su Szadek e quel giocatore mette nel proprio cimitero altrettante carte dalla cima del proprio grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1776,8 +1776,8 @@ Se Szadek, Signore dei Segreti sta per infliggere danno da combattimento a un gi
   <item>
     <id>RAV0236</id>
     <name>Tolsimir Sanguelupo</name>
-    <text>Le altre creature verdi che controlli prendono +1/+1.
-Le altre creature bianche che controlli prendono +1/+1.
+    <text>Le altre creature verdi che controlli prendono +1/+1. 
+Le altre creature bianche che controlli prendono +1/+1. 
 {T}: Metti sul campo di battaglia una pedina creatura Lupo leggendaria 2/2 bianca e verde di nome Voja.</text>
     <flavorText>
     </flavorText>
@@ -1792,7 +1792,7 @@ Le altre creature bianche che controlli prendono +1/+1.
   <item>
     <id>RAV0238</id>
     <name>Zombie Rapace</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta una carta viene messa nel cimitero di un avversario da una qualsiasi zona, metti un segnalino +1/+1 sullo Zombie Rapace.</text>
     <flavorText>
     </flavorText>
@@ -1822,8 +1822,8 @@ Ogniqualvolta una carta viene messa nel cimitero di un avversario da una qualsia
   <item>
     <id>RAV0242</id>
     <name>Maga della Gilda Boros</name>
-    <text>({R|B} può essere pagato con {R} o {W})
-{1}{R}: La creatura bersaglio guadagna rapidità fino alla fine del turno.
+    <text>({RW} può essere pagato con {R} o {W}) 
+{1}{R}: La creatura bersaglio guadagna rapidità fino alla fine del turno. 
 {1}{W}: La creatura bersaglio guadagna attacco improvviso fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1831,15 +1831,15 @@ Ogniqualvolta una carta viene messa nel cimitero di un avversario da una qualsia
   <item>
     <id>RAV0243</id>
     <name>Recluta Boros</name>
-    <text>({R|B} può essere pagato con {R} o {W})
-Attacco improvviso</text>
+    <text>({RW} può essere pagato con {R} o {W}) 
+Attacco improvviso </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>RAV0244</id>
     <name>Sorvegliante Centauro</name>
-    <text>({V|B} può essere pagato con {G} o {W})
+    <text>({V|B} può essere pagato con {G} o {W}) 
 Quando il Sorvegliante Centauro viene messo in un cimitero dal campo di battaglia, puoi guadagnare 3 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -1847,8 +1847,8 @@ Quando il Sorvegliante Centauro viene messo in un cimitero dal campo di battagli
   <item>
     <id>RAV0245</id>
     <name>Mago della Gilda Dimir</name>
-    <text>({L|N} può essere pagato con {U} o {B})
-{3}{U}: Il giocatore bersaglio pesca una carta. Attiva questa abilità solo quando potresti giocare una stregoneria.
+    <text>({L|N} può essere pagato con {U} o {B}) 
+{3}{U}: Il giocatore bersaglio pesca una carta. Attiva questa abilità solo quando potresti giocare una stregoneria. 
 {3}{B}: Il giocatore bersaglio scarta una carta. Attiva questa abilità solo quando potresti giocare una stregoneria.</text>
     <flavorText>
     </flavorText>
@@ -1856,16 +1856,16 @@ Quando il Sorvegliante Centauro viene messo in un cimitero dal campo di battagli
   <item>
     <id>RAV0246</id>
     <name>Sguardo della Gorgone</name>
-    <text>({N|V} può essere pagato con {B} o {G})
-Rigenera una creatura bersaglio. Alla fine del combattimento, distruggi tutte le creature che hanno bloccato o sono state bloccate da quella creatura in questo turno.</text>
+    <text>({BG} può essere pagato con {B} o {G}) 
+Rigenera una creatura bersaglio. Alla fine del combattimento, distruggi tutte le creature che hanno bloccato o sono state bloccate da quella creatura in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>RAV0247</id>
     <name>Raccimolante</name>
-    <text>({N|V} può essere pagato con {B} o {G})
-Travolgere
+    <text>({BG} può essere pagato con {B} o {G}) 
+Travolgere 
 All'inizio della tua sottofase finale, riprendi in mano dal tuo cimitero tutte le carte creatura che vi sono state messe dal campo di battaglia in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -1873,8 +1873,8 @@ All'inizio della tua sottofase finale, riprendi in mano dal tuo cimitero tutte l
   <item>
     <id>RAV0248</id>
     <name>Mago della Gilda Golgari</name>
-    <text>({N|V} può essere pagato con {B} o {G})
-{4}{B}, Sacrifica una creatura: Riprendi in mano dal tuo cimitero una carta creatura bersaglio.
+    <text>({BG} può essere pagato con {B} o {G}) 
+{4}{B}, Sacrifica una creatura: Riprendi in mano dal tuo cimitero una carta creatura bersaglio. 
 {4}{G}: Metti un segnalino +1/+1 su una creatura bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1882,7 +1882,7 @@ All'inizio della tua sottofase finale, riprendi in mano dal tuo cimitero tutte l
   <item>
     <id>RAV0249</id>
     <name>Informatore in Agguato</name>
-    <text>({L|N} può essere pagato con {U} o {B})
+    <text>({L|N} può essere pagato con {U} o {B}) 
 {2}, {T}: Guarda la prima carta del grimorio di un giocatore bersaglio. Puoi mettere quella carta nel cimitero di quel giocatore.</text>
     <flavorText>
     </flavorText>
@@ -1890,8 +1890,8 @@ All'inizio della tua sottofase finale, riprendi in mano dal tuo cimitero tutte l
   <item>
     <id>RAV0250</id>
     <name>Maestro di Tattiche</name>
-    <text>({R|B} può essere pagato con {R} o {W})
-Lancia il Maestro di Tattiche solo prima che vengano dichiarate le creature attaccanti.
+    <text>({RW} può essere pagato con {R} o {W}) 
+Lancia il Maestro di Tattiche solo prima che vengano dichiarate le creature attaccanti. 
 Scegli quali creature attaccano in questo turno. Scegli come blocca ciascuna creatura in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -1899,7 +1899,7 @@ Scegli quali creature attaccano in questo turno. Scegli come blocca ciascuna cre
   <item>
     <id>RAV0251</id>
     <name>Posizione Privilegiata</name>
-    <text>({V|B} può essere pagato con {G} o {W})
+    <text>({V|B} può essere pagato con {G} o {W}) 
 Gli altri permanenti che controlli non possono essere bersaglio di magie o abilità controllate dai tuoi avversari.</text>
     <flavorText>
     </flavorText>
@@ -1907,8 +1907,8 @@ Gli altri permanenti che controlli non possono essere bersaglio di magie o abili
   <item>
     <id>RAV0252</id>
     <name>Mago della Gilda di Selesnya</name>
-    <text>({V|B} può essere pagato con {G} o {W})
-{3}{G}: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.
+    <text>({V|B} può essere pagato con {G} o {W}) 
+{3}{G}: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde. 
 {3}{W}: Le creature che controlli prendono +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1916,8 +1916,8 @@ Gli altri permanenti che controlli non possono essere bersaglio di magie o abili
   <item>
     <id>RAV0253</id>
     <name>Ombra del Dubbio</name>
-    <text>({L|N} può essere pagato con {U} o {B})
-I giocatori non possono passare in rassegna i grimori in questo turno.
+    <text>({L|N} può essere pagato con {U} o {B}) 
+I giocatori non possono passare in rassegna i grimori in questo turno. 
 Pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1925,7 +1925,7 @@ Pesca una carta.</text>
   <item>
     <id>RAV0254</id>
     <name>Penna Tracciasangue</name>
-    <text>{2}, {T}, Metti un segnalino sangue sulla Penna Tracciasangue: Pesca una carta, poi perdi 1 punto vita per ogni segnalino sangue sulla Penna Tracciasangue.
+    <text>{2}, {T}, Metti un segnalino sangue sulla Penna Tracciasangue: Pesca una carta, poi perdi 1 punto vita per ogni segnalino sangue sulla Penna Tracciasangue. 
 {U}{B}: Rimuovi un segnalino sangue dalla Penna Tracciasangue.</text>
     <flavorText>
     </flavorText>
@@ -1940,7 +1940,7 @@ Pesca una carta.</text>
   <item>
     <id>RAV0256</id>
     <name>Chiostro Imbottigliato</name>
-    <text>All'inizio del mantenimento di ogni avversario, esilia a faccia in giù tutte le carte nella tua mano.
+    <text>All'inizio del mantenimento di ogni avversario, esilia a faccia in giù tutte le carte nella tua mano. 
 All'inizio del tuo mantenimento, riprendi in mano tutte le carte che possiedi esiliate con il Chiostro Imbottigliato, poi pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -1955,8 +1955,8 @@ All'inizio del tuo mantenimento, riprendi in mano tutte le carte che possiedi es
   <item>
     <id>RAV0258</id>
     <name>Corona della Convergenza</name>
-    <text>Gioca con la prima carta del tuo grimorio scoperta.
-Fintanto che la prima carta del tuo grimorio è una carta creatura, le creature che controlli che hanno almeno un colore in comune con quella carta prendono +1/+1.
+    <text>Gioca con la prima carta del tuo grimorio scoperta. 
+Fintanto che la prima carta del tuo grimorio è una carta creatura, le creature che controlli che hanno almeno un colore in comune con quella carta prendono +1/+1. 
 {G}{W}: Metti la prima carta del tuo grimorio in fondo al tuo grimorio.</text>
     <flavorText>
     </flavorText>
@@ -1978,8 +1978,7 @@ Fintanto che la prima carta del tuo grimorio è una carta creatura, le creature 
   <item>
     <id>RAV0261</id>
     <name>Golem di Vetro</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1993,9 +1992,9 @@ Fintanto che la prima carta del tuo grimorio è una carta creatura, le creature 
   <item>
     <id>RAV0263</id>
     <name>Lama del Biscazziere</name>
-    <text>Lampo
-Mentre la Lama del Biscazziere entra nel campo di battaglia, scegli una creatura che controlli alla quale potrebbe essere assegnata. Se lo fai, entra nel campo di battaglia assegnata a quella creatura.
-La creatura equipaggiata prende +1/+1.
+    <text>Lampo 
+Mentre la Lama del Biscazziere entra nel campo di battaglia, scegli una creatura che controlli alla quale potrebbe essere assegnata. Se lo fai, entra nel campo di battaglia assegnata a quella creatura. 
+La creatura equipaggiata prende +1/+1. 
 Equipaggiare {1}</text>
     <flavorText>
     </flavorText>
@@ -2003,7 +2002,7 @@ Equipaggiare {1}</text>
   <item>
     <id>RAV0264</id>
     <name>Setacciarifiuti</name>
-    <text>Difensore
+    <text>Difensore 
 {T}: Metti una carta bersaglio presente in un cimitero in fondo al grimorio del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -2018,7 +2017,7 @@ Equipaggiare {1}</text>
   <item>
     <id>RAV0266</id>
     <name>Gargoyle di Pietravuota</name>
-    <text>Volare
+    <text>Volare 
 Ogniqualvolta viene lanciata la prima magia non creatura di ciascun turno, neutralizza quella magia.</text>
     <flavorText>
     </flavorText>
@@ -2026,7 +2025,7 @@ Ogniqualvolta viene lanciata la prima magia non creatura di ciascun turno, neutr
   <item>
     <id>RAV0267</id>
     <name>Scudo del Pariah</name>
-    <text>Tutto il danno che verrebbe inflitto a te viene invece inflitto alla creatura equipaggiata.
+    <text>Tutto il danno che verrebbe inflitto a te viene invece inflitto alla creatura equipaggiata. 
 Equipaggiare {3}</text>
     <flavorText>
     </flavorText>
@@ -2034,7 +2033,7 @@ Equipaggiare {3}</text>
   <item>
     <id>RAV0268</id>
     <name>Maschera del Pellegrino</name>
-    <text>La creatura equipaggiata ha difensore, volare, e attacco improvviso.
+    <text>La creatura equipaggiata ha difensore, volare, e attacco improvviso. 
 Equipaggiare {2}</text>
     <flavorText>
     </flavorText>
@@ -2042,8 +2041,8 @@ Equipaggiare {2}</text>
   <item>
     <id>RAV0269</id>
     <name>Caldaia della Peste</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino peste sulla Caldaia della Peste.
-{1}{B}{G}: Metti un segnalino peste sulla Caldaia della Peste o rimuovi un segnalino peste da essa.
+    <text>All'inizio del tuo mantenimento, metti un segnalino peste sulla Caldaia della Peste. 
+{1}{B}{G}: Metti un segnalino peste sulla Caldaia della Peste o rimuovi un segnalino peste da essa. 
 Quando la Caldaia della Peste ha tre o più segnalini peste, sacrificala. Se lo fai, distruggi tutti i permanenti non terra.</text>
     <flavorText>
     </flavorText>
@@ -2065,8 +2064,8 @@ Quando la Caldaia della Peste ha tre o più segnalini peste, sacrificala. Se lo 
   <item>
     <id>RAV0272</id>
     <name>Plasmasole</name>
-    <text>La creatura equipaggiata prende +4/+0.
-{R}{W}, Togli il Plasmasole: Passa in rassegna il tuo grimorio per una carta istantaneo rossa o bianca con costo di mana convertito pari o inferiore a 4 e lancia quella carta senza pagare il suo costo di mana. Poi rimescola il tuo grimorio.
+    <text>La creatura equipaggiata prende +4/+0. 
+{R}{W}, Togli il Plasmasole: Passa in rassegna il tuo grimorio per una carta istantaneo rossa o bianca con costo di mana convertito pari o inferiore a 4 e lancia quella carta senza pagare il suo costo di mana. Poi rimescola il tuo grimorio. 
 Equipaggiare {3}</text>
     <flavorText>
     </flavorText>
@@ -2074,8 +2073,8 @@ Equipaggiare {3}</text>
   <item>
     <id>RAV0273</id>
     <name>Terraglio</name>
-    <text>Il Terraglio entra nel campo di battaglia TAPpato.
-{2}, {T}, Sacrifica il Terraglio: Aggiungi alla tua riserva due mana in una qualsiasi combinazione di colori.
+    <text>Il Terraglio entra nel campo di battaglia TAPpato. 
+{2}, {T}, Sacrifica il Terraglio: Aggiungi alla tua riserva due mana in una qualsiasi combinazione di colori. 
 Quando il Terraglio viene messo in un cimitero dal campo di battaglia, pesca una carta.</text>
     <flavorText>
     </flavorText>
@@ -2090,8 +2089,8 @@ Quando il Terraglio viene messo in un cimitero dal campo di battaglia, pesca una
   <item>
     <id>RAV0275</id>
     <name>Presidio Boros</name>
-    <text>Il Presidio Boros entra nel campo di battaglia TAPpato.
-Quando il Presidio Boros entra nel campo di battaglia, fai riprendere il mano al suo proprietario una terra che controlli.
+    <text>Il Presidio Boros entra nel campo di battaglia TAPpato. 
+Quando il Presidio Boros entra nel campo di battaglia, fai riprendere il mano al suo proprietario una terra che controlli. 
 {T}: Aggiungi {R}{W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2099,8 +2098,8 @@ Quando il Presidio Boros entra nel campo di battaglia, fai riprendere il mano al
   <item>
     <id>RAV0276</id>
     <name>Acquedotto Dimir</name>
-    <text>L'Acquedotto Dimir entra nel campo di battaglia TAPpato.
-Quando l'Acquedotto Dimir entra nel campo di battaglia, fai riprendere il mano al suo proprietario una terra che controlli.
+    <text>L'Acquedotto Dimir entra nel campo di battaglia TAPpato. 
+Quando l'Acquedotto Dimir entra nel campo di battaglia, fai riprendere il mano al suo proprietario una terra che controlli. 
 {T}: Aggiungi {U}{B} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2108,7 +2107,7 @@ Quando l'Acquedotto Dimir entra nel campo di battaglia, fai riprendere il mano a
   <item>
     <id>RAV0277</id>
     <name>Mantoscuro, Casa dell'Ombra</name>
-    <text>{T} : Aggiungi {1} alla tua riserva di mana.
+    <text>{T} : Aggiungi {1} alla tua riserva di mana. 
 {U}{B}, {T}: Il giocatore bersaglio mette la prima carta del suo grimorio nel suo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -2116,8 +2115,8 @@ Quando l'Acquedotto Dimir entra nel campo di battaglia, fai riprendere il mano a
   <item>
     <id>RAV0278</id>
     <name>Mortificio Golgari</name>
-    <text>Il Mortificio Golgari entra nel campo di battaglia TAPpato.
-Quando il Mortificio Golgari entra nel campo di battaglia, fai riprendere in mano al suo proprietario una terra che controlli.
+    <text>Il Mortificio Golgari entra nel campo di battaglia TAPpato. 
+Quando il Mortificio Golgari entra nel campo di battaglia, fai riprendere in mano al suo proprietario una terra che controlli. 
 {T}: Aggiungi {B}{G} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2125,7 +2124,7 @@ Quando il Mortificio Golgari entra nel campo di battaglia, fai riprendere in man
   <item>
     <id>RAV0279</id>
     <name>Tomba Infestata da Erbacce</name>
-    <text>({T}: Aggiungi {B} o {G} alla tua riserva di mana.)
+    <text>({T}: Aggiungi {B} o {G} alla tua riserva di mana.) 
 Mentre la Tomba Infestata da Erbacce entra nel campo di battaglia, puoi pagare 2 punti vita. Se non lo fai, la Tomba Infestata da Erbacce entra nel campo di battaglia TAPpata.</text>
     <flavorText>
     </flavorText>
@@ -2133,7 +2132,7 @@ Mentre la Tomba Infestata da Erbacce entra nel campo di battaglia, puoi pagare 2
   <item>
     <id>RAV0280</id>
     <name>Fonderia Sacra</name>
-    <text>({T}: Aggiungi {R} o {W} alla tua riserva di mana.)
+    <text>({T}: Aggiungi {R} o {W} alla tua riserva di mana.) 
 Mentre la Fonderia Sacra entra nel campo di battaglia, puoi pagare 2 punti vita. Se non lo fai, la Fonderia Sacra entra nel campo di battaglia TAPpata.</text>
     <flavorText>
     </flavorText>
@@ -2141,8 +2140,8 @@ Mentre la Fonderia Sacra entra nel campo di battaglia, puoi pagare 2 punti vita.
   <item>
     <id>RAV0281</id>
     <name>Santuario di Selesnya</name>
-    <text>Il Santuario di Salesnya entra nel campo di battaglia TAPpato.
-Quando il Santuario di Salesnya entra nel campo di battaglia, fai riprendere in mano al suo proprietario una terra che controlli.
+    <text>Il Santuario di Salesnya entra nel campo di battaglia TAPpato. 
+Quando il Santuario di Salesnya entra nel campo di battaglia, fai riprendere in mano al suo proprietario una terra che controlli. 
 {T}: Aggiungi {G}{W} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -2150,7 +2149,7 @@ Quando il Santuario di Salesnya entra nel campo di battaglia, fai riprendere in 
   <item>
     <id>RAV0282</id>
     <name>Sol-Dimora, Rocca della Legione</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {2}{R}{W}, {T}: La creatura bersaglio guadagna doppio attacco fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2158,7 +2157,7 @@ Quando il Santuario di Salesnya entra nel campo di battaglia, fai riprendere in 
   <item>
     <id>RAV0283</id>
     <name>Svogthos, la Tomba Inquieta</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {3}{B}{G}: Fino alla fine del turno, Svogthos, la Tomba Inquieta diventa una creatura Zombie Pianta verde e nera con "La forza e la costituzione di questa creatura sono ciascuna pari al numero di carte creatura nel tuo cimitero." E' ancora una terra.</text>
     <flavorText>
     </flavorText>
@@ -2166,7 +2165,7 @@ Quando il Santuario di Salesnya entra nel campo di battaglia, fai riprendere in 
   <item>
     <id>RAV0284</id>
     <name>Giardino del Tempio</name>
-    <text>({T}: Aggiungi {G} o {W} alla tua riserva di mana.)
+    <text>({T}: Aggiungi {G} o {W} alla tua riserva di mana.) 
 Mentre il Giardino del Tempio entra nel campo di battaglia, puoi pagare 2 punti vita. Se non lo fai, il Giardino del Tempio entra nel campo di battaglia TAPpato.</text>
     <flavorText>
     </flavorText>
@@ -2174,7 +2173,7 @@ Mentre il Giardino del Tempio entra nel campo di battaglia, puoi pagare 2 punti 
   <item>
     <id>RAV0285</id>
     <name>Vitu-Ghazi, l'Albero-Città</name>
-    <text>{T}: Aggiungi {1} alla tua riserva di mana.
+    <text>{T}: Aggiungi {1} alla tua riserva di mana. 
 {2}{G}{W}, {T}: Metti sul campo di battaglia una pedina creatura Saprolingio 1/1 verde.</text>
     <flavorText>
     </flavorText>
@@ -2182,7 +2181,7 @@ Mentre il Giardino del Tempio entra nel campo di battaglia, puoi pagare 2 punti 
   <item>
     <id>RAV0286</id>
     <name>Tomba d'Acqua</name>
-    <text>({T}: Aggiungi {U} o {B} alla tua riserva di mana.)
+    <text>({T}: Aggiungi {U} o {B} alla tua riserva di mana.) 
 Mentre la Tomba d'Acqua entra nel campo di battaglia, puoi pagare 2 punti vita. Se non lo fai, la Tomba d'Acqua entra nel campo di battaglia TAPpata.</text>
     <flavorText>
     </flavorText>

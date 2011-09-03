@@ -16,30 +16,29 @@
   <item>
     <id>LEG0003</id>
     <name>Vulcano Attivo</name>
-    <text>Scegli uno - Distruggi un permanente blu bersaglio; oppure il proprietario riprende in mano un'Isola bersaglio.</text>
+    <text>Scegli uno - Distruggi un permanente blu bersaglio; oppure il proprietario riprende in mano un'Isola bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0004</id>
     <name>Adun Oakenshield</name>
-    <text>{B}{R}{G}, {T}: Riprendi in mano una carta creatura bersaglio dal tuo cimitero.</text>
+    <text>{B}{R}{G}, {T}: Riprendi in mano una carta creatura bersaglio dal tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0005</id>
     <name>Ritrovo degli Avventurieri</name>
-    <text>Le creature leggendarie verdi che controlli hanno "branco con altre creature leggendarie".</text>
+    <text>Le creature leggendarie verdi che controlli hanno "branco con altre creature leggendarie". </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0006</id>
-    <name>Berserker Aerathi</name>
-    <text>Furia 3</text>
-    <flavorText>
-    </flavorText>
+    <name>Ærathi Berserker</name>
+    <text>Rampage 3 (Whenever this creature becomes blocked, it gets +3/+3 until end of turn for each creature blocking it beyond the first.)</text>
+    <flavorText>Ærathi children who show promise are left to survive for a year in the wilderness. Those who return are shown the way of the Berserker</flavorText>
   </item>
   <item>
     <id>LEG0007</id>
@@ -51,7 +50,7 @@
   <item>
     <id>LEG0008</id>
     <name>Legionario di Akron</name>
-    <text>Le creature che controlli non possono attaccare, tranne le creature di nome Legionario di Akron e le creature artefatto.</text>
+    <text>Le creature che controlli non possono attaccare, tranne le creature di nome Legionario di Akron e le creature artefatto. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -79,7 +78,7 @@
   <item>
     <id>LEG0012</id>
     <name>Vigilia di Halloween</name>
-    <text>Esilia la Vigilia di Halloween con due segnalini urlo su di essa.
+    <text>Esilia la Vigilia di Halloween con due segnalini urlo su di essa. 
 All'inizio del tuo mantenimento, se la Vigilia di Halloween è esiliata e ha almeno un segnalino urlo, rimuovi un segnalino urlo da essa. Se non ci sono più segnalini urlo sulla Vigilia di Halloween, mettila nel tuo cimitero e ogni giocatore rimette tutte le carte creatura dal proprio cimitero sul campo di battaglia.</text>
     <flavorText>
     </flavorText>
@@ -87,7 +86,7 @@ All'inizio del tuo mantenimento, se la Vigilia di Halloween è esiliata e ha alm
   <item>
     <id>LEG0013</id>
     <name>Amrou Kithkin</name>
-    <text>Amrou Kithkin non può essere bloccata da creature con forza pari o superiore a 3.</text>
+    <text>Amrou Kithkin non può essere bloccata da creature con forza pari o superiore a 3. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -101,14 +100,14 @@ All'inizio del tuo mantenimento, se la Vigilia di Halloween è esiliata e ha alm
   <item>
     <id>LEG0015</id>
     <name>Angus Mackenzie</name>
-    <text>{G}{W}{U},{T}: Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <text>{G}{W}{U},{T}: Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0016</id>
     <name>Aura Antimagia</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata non può essere bersaglio di magie e non può essere incantata. Questo effetto non rimuove l'Aura Antimagia.</text>
     <flavorText>
     </flavorText>
@@ -123,17 +122,17 @@ La creatura incantata non può essere bersaglio di magie e non può essere incan
   <item>
     <id>LEG0018</id>
     <name>Arcades Sabboth</name>
-    <text>Volare
-All'inizio del tuo mantenimento, sacrifica Arcades Sabboth a meno che tu paghi {G}{W}{U}.
-Le creature STAPpate non attaccanti che controlli prendono +0/+2. 
-{W}: Arcades Sabboth prende +0/+1 fino alla fine del turno.</text>
+    <text>Volare 
+All'inizio del tuo mantenimento, sacrifica Arcades Sabboth a meno che tu paghi {G}{W}{U}. 
+Le creature STAPpate non attaccanti che controlli prendono +0/+2.  
+{W}: Arcades Sabboth prende +0/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0019</id>
     <name>Arena degli Antichi</name>
-    <text>Le creature leggendarie non STAPpano durante lo STAP dei loro controllori.
+    <text>Le creature leggendarie non STAPpano durante lo STAP dei loro controllori. 
 Quando l'Arena degli Antichi entra nel campo di battaglia, TAPpa tutte le creature leggendarie.</text>
     <flavorText>
     </flavorText>
@@ -141,14 +140,14 @@ Quando l'Arena degli Antichi entra nel campo di battaglia, TAPpa tutte le creatu
   <item>
     <id>LEG0020</id>
     <name>Sfuggire al Destino</name>
-    <text>Neutralizza una magia istantaneo o Aura che ha come bersaglio un permanente che controlli.</text>
+    <text>Neutralizza una magia istantaneo o Aura che ha come bersaglio un permanente che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0021</id>
     <name>Axelrod Gunnarson</name>
-    <text>Travolgere
+    <text>Travolgere 
 Ogniqualvolta una creatura alla quale Axelrod Gunnarson ha inflitto danno in questo turno viene messa in un cimitero, tu guadagni 1 punto vita e Axelrod Gunnarson infligge 1 danno al giocatore bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -156,29 +155,29 @@ Ogniqualvolta una creatura alla quale Axelrod Gunnarson ha inflitto danno in que
   <item>
     <id>LEG0022</id>
     <name>Ayesha Tanaka</name>
-    <text>Branco
-{T}: Neutralizza l'abilità attivata bersaglio di una fonte artefatto a meno che il controllore di quell'abilità paghi {W}.</text>
+    <text>Branco 
+{T}: Neutralizza l'abilità attivata bersaglio di una fonte artefatto a meno che il controllore di quell'abilità paghi {W}. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0023</id>
     <name>Drago Azzurro</name>
-    <text>Volare (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.)</text>
+    <text>Volare (Questa creatura non può essere bloccata, tranne che dalle creature con volare o con raggiungere.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0024</id>
     <name>Ritorsione</name>
-    <text>In questo turno, ogniqualvolta la magia stregoneria bersaglio infligge danno, la Ritorsione infligge metà di quel danno arrotondato per difetto al controllore di quella magia.</text>
+    <text>In questo turno, ogniqualvolta la magia stregoneria bersaglio infligge danno, la Ritorsione infligge metà di quel danno arrotondato per difetto al controllore di quella magia. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0025</id>
     <name>Ritorno di Fiamma</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta la creatura incantata ti infligge danno, il Ritorno di Fiamma infligge un pari danno al controllore della creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -202,7 +201,7 @@ Ogniqualvolta la creatura incantata ti infligge danno, il Ritorno di Fiamma infl
   <item>
     <id>LEG0028</id>
     <name>Bartel Runeaxe</name>
-    <text>Cautela (Questa creatura attacca senza TAPpare.)
+    <text>Cautela (Questa creatura attacca senza TAPpare.) 
 Bartel Runeaxe non può essere bersaglio di magie Aura.</text>
     <flavorText>
     </flavorText>
@@ -210,15 +209,15 @@ Bartel Runeaxe non può essere bersaglio di magie Aura.</text>
   <item>
     <id>LEG0029</id>
     <name>Bestie di Bogardan</name>
-    <text>Protezione dal rosso
-Le Bestie di Bogardan prendono +1/+1 fintanto che un avversario controlla un permanente bianco.</text>
+    <text>Protezione dal rosso 
+Le Bestie di Bogardan prendono +1/+1 fintanto che un avversario controlla un permanente bianco. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0030</id>
     <name>Accumulatore di Mana Nero</name>
-    <text>{2}, {T}: Metti un segnalino carica sull'Accumulatore di Mana Nero.
+    <text>{2}, {T}: Metti un segnalino carica sull'Accumulatore di Mana Nero. 
 {T}, Rimuovi un qualsiasi numero di segnalini carica dall'Accumulatore di Mana Nero: Aggiungi {B} alla tua riserva, poi aggiungi alla tua riserva di mana un {B} addizionale per ciascun segnalino carica rimosso in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -233,7 +232,7 @@ Le Bestie di Bogardan prendono +1/+1 fintanto che un avversario controlla un per
   <item>
     <id>LEG0032</id>
     <name>Influenza Maligna</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 Quando la terra incantata diventa TAPpata, distruggila.</text>
     <flavorText>
     </flavorText>
@@ -241,14 +240,14 @@ Quando la terra incantata diventa TAPpata, distruggila.</text>
   <item>
     <id>LEG0033</id>
     <name>Sete di Sangue</name>
-    <text>Se la creatura bersaglio ha costituzione pari o superiore a 5, prende +4/-4 fino alla fine del turno. Altrimenti, essa prende +4/-X fino alla fine del turno, dove X è la sua costituzione meno 1.</text>
+    <text>Se la creatura bersaglio ha costituzione pari o superiore a 5, prende +4/-4 fino alla fine del turno. Altrimenti, essa prende +4/-X fino alla fine del turno, dove X è la sua costituzione meno 1. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0034</id>
     <name>Accumulatore di Mana Blu</name>
-    <text>{2}, {T}: Metti un segnalino carica sull'Accumulatore di Mana Blu.
+    <text>{2}, {T}: Metti un segnalino carica sull'Accumulatore di Mana Blu. 
 {T}, Rimuovi un qualsiasi numero di segnalini carica dall'Accumulatore di Mana Blu: Aggiungi {U} alla tua riserva, poi aggiungi alla tua riserva di mana {U} addizionale per ciascun segnalino carica rimosso in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -256,7 +255,7 @@ Quando la terra incantata diventa TAPpata, distruggila.</text>
   <item>
     <id>LEG0035</id>
     <name>Boomerang</name>
-    <text>Il proprietario riprende in mano un permanente bersaglio.</text>
+    <text>Il proprietario riprende in mano un permanente bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -277,36 +276,36 @@ Quando la terra incantata diventa TAPpata, distruggila.</text>
   <item>
     <id>LEG0038</id>
     <name>Cavallo di Bronzo</name>
-    <text>Travolgere
-Se controlli un'altra creatura, previeni tutto il danno che verrebbe inflitto al Cavallo di Bronzo da magie che lo bersagliano.</text>
+    <text>Travolgere 
+Se controlli un'altra creatura, previeni tutto il danno che verrebbe inflitto al Cavallo di Bronzo da magie che lo bersagliano. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0039</id>
     <name>Formiche Assassine</name>
-    <text>{1}: Le Formiche Assassine prendono +1/+1 fino alla fine del turno.</text>
+    <text>{1}: Le Formiche Assassine prendono +1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0040</id>
     <name>Gatti Guerrieri</name>
-    <text>Passa-foreste</text>
+    <text>Passa-foreste </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0041</id>
     <name>Cattedrale di Serra</name>
-    <text>Le creature leggendarie bianche che controlli hanno "branco con altre creature leggendarie".</text>
+    <text>Le creature leggendarie bianche che controlli hanno "branco con altre creature leggendarie". </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0042</id>
     <name>Caverne della Disperazione</name>
-    <text>Non più di due creature possono attaccare in ogni combattimento.
+    <text>Non più di due creature possono attaccare in ogni combattimento. 
 Non più di due creature possono bloccare in ogni combattimento.</text>
     <flavorText>
     </flavorText>
@@ -314,7 +313,7 @@ Non più di due creature possono bloccare in ogni combattimento.</text>
   <item>
     <id>LEG0043</id>
     <name>Fulmini a Catena</name>
-    <text>I Fulmini a Catena infliggono 3 danni a una creatura o a un giocatore bersaglio.
+    <text>I Fulmini a Catena infliggono 3 danni a una creatura o a un giocatore bersaglio. 
 Poi quel giocatore o il controllore di quella creatura, può pagare {R}{R}. Se il giocatore lo fa, può copiare questa magia e può scegliere un nuovo bersaglio per quella copia.</text>
     <flavorText>
     </flavorText>
@@ -329,8 +328,9 @@ Poi quel giocatore o il controllore di quella creatura, può pagare {R}{R}. Se i
   <item>
     <id>LEG0045</id>
     <name>Chromium</name>
-    <text>Volare
-Furia 2 (Ogniqualvolta questa creatura diventa bloccata, prende +2/+2 fino alla fine del turno per ogni creatura che la sta bloccando oltre la prima.); All'inizio del tuo mantenimento, sacrifica il Chromium a meno che tu paghi {W}{U}{B}</text>
+    <text>Volare 
+Furia 2 (Ogniqualvolta questa creatura diventa bloccata, prende +2/+2 fino alla fine del turno per ogni creatura che la sta bloccando oltre la prima.)
+All'inizio del tuo mantenimento, sacrifica il Chromium a meno che tu paghi {W}{U}{B}</text>
     <flavorText>
     </flavorText>
   </item>
@@ -344,7 +344,7 @@ Furia 2 (Ogniqualvolta questa creatura diventa bloccata, prende +2/+2 fino alla 
   <item>
     <id>LEG0047</id>
     <name>Clero della Sacra Aureola</name>
-    <text>Se il Clero della Sacra Aureola venisse distrutto, rigeneralo.
+    <text>Se il Clero della Sacra Aureola venisse distrutto, rigeneralo. 
 {1}: Il Clero della Sacra Aureola non può essere rigenerato in questo turno. Soltanto un qualsiasi avversario può attivare questa abilità.</text>
     <flavorText>
     </flavorText>
@@ -352,10 +352,10 @@ Furia 2 (Ogniqualvolta questa creatura diventa bloccata, prende +2/+2 fino alla 
   <item>
     <id>LEG0048</id>
     <name>Bozzolo</name>
-    <text>Incanta creatura che controlli.
-La creatura incantata non STAPpa durante il tuo STAP se il Bozzolo ha un segnalino crisalide.
-Quando il Bozzolo entra nel campo di battaglia, TAPpa la creatura incantata e metti tre segnalini crisalide sul Bozzolo.
-All'inizio del tuo mantenimento, rimuovi un segnalino crisalide dal Bozzolo. Se non puoi farlo, sacrificalo e la creatura incantata prende +1/+1 e guadagna volare. (Questo effetto non ha termine)</text>
+    <text>Incanta creatura che controlli. 
+La creatura incantata non STAPpa durante il tuo STAP se il Bozzolo ha un segnalino crisalide. 
+Quando il Bozzolo entra nel campo di battaglia, TAPpa la creatura incantata e metti tre segnalini crisalide sul Bozzolo. 
+All'inizio del tuo mantenimento, rimuovi un segnalino crisalide dal Bozzolo. Se non puoi farlo, sacrificalo, metti un segnalino +1/+1 sulla creatura incantata, e quella creatura guadagna volare. (Questo effetto non ha termine)</text>
     <flavorText>
     </flavorText>
   </item>
@@ -369,7 +369,7 @@ All'inizio del tuo mantenimento, rimuovi un segnalino crisalide dal Bozzolo. Se 
   <item>
     <id>LEG0050</id>
     <name>Orrore Cosmico</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 All'inizio del tuo mantenimento, a meno che tu paghi {3}{B}{B}{B}, sacrifica l'Orrore Cosmico ed esso ti infligge 7 danni.</text>
     <flavorText>
     </flavorText>
@@ -377,15 +377,15 @@ All'inizio del tuo mantenimento, a meno che tu paghi {3}{B}{B}{B}, sacrifica l'O
   <item>
     <id>LEG0051</id>
     <name>Gigante Devastatore</name>
-    <text>Travolgere
-Furia 2 (Ogniqualvolta questa creatura viene bloccata, prende +2/+2 fino alla fine del turno per ogni creatura che la blocca oltre la prima.)</text>
+    <text>Travolgere 
+Furia 2 (Ogniqualvolta questa creatura viene bloccata, prende +2/+2 fino alla fine del turno per ogni creatura che la blocca oltre la prima.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0052</id>
     <name>Crepaccio</name>
-    <text>Le creature con passa-montagne possono essere bloccate come se non avessero passa-montagne.</text>
+    <text>Le creature con passa-montagne possono essere bloccate come se non avessero passa-montagne. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -399,7 +399,7 @@ Furia 2 (Ogniqualvolta questa creatura viene bloccata, prende +2/+2 fino alla fi
   <item>
     <id>LEG0054</id>
     <name>Manticora Cremisi</name>
-    <text>Volare
+    <text>Volare 
 {R}, {T}: La Manticora Cremisi infligge 1 danno a una creatura attaccante o bloccante bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -421,21 +421,21 @@ Furia 2 (Ogniqualvolta questa creatura viene bloccata, prende +2/+2 fino alla fi
   <item>
     <id>LEG0057</id>
     <name>Dakkon Blackblade</name>
-    <text>La forza e costituzione di Dakkon Blackblade sono ciascuna pari al numero di terre che controlli.</text>
+    <text>La forza e costituzione di Dakkon Blackblade sono ciascuna pari al numero di terre che controlli. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0058</id>
     <name>Tenebre</name>
-    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0059</id>
     <name>Arciere di D'Avenant</name>
-    <text>{T}: L'Arciere di D'Avenant infligge 1 danno a una creatura bersaglio che sta attaccando o bloccando.</text>
+    <text>{T}: L'Arciere di D'Avenant infligge 1 danno a una creatura bersaglio che sta attaccando o bloccando. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -449,8 +449,8 @@ Furia 2 (Ogniqualvolta questa creatura viene bloccata, prende +2/+2 fino alla fi
   <item>
     <id>LEG0061</id>
     <name>Tormento Demoniaco</name>
-    <text>Incanta creatura
-La creatura incantata non può attaccare.
+    <text>Incanta creatura 
+La creatura incantata non può attaccare. 
 Previeni tutto il danno da combattimento che verrebbe inflitto dalla creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -465,7 +465,7 @@ Previeni tutto il danno da combattimento che verrebbe inflitto dalla creatura in
   <item>
     <id>LEG0063</id>
     <name>Disarmonia</name>
-    <text>Lancia la Disarmonia soltanto durante il combattimento, prima che siano dichiarati i bloccanti.
+    <text>Lancia la Disarmonia soltanto durante il combattimento, prima che siano dichiarati i bloccanti. 
 STAPpa una creatura attaccante bersaglio e rimuovila dal combattimento. Guadagni il controllo di quella creatura fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -473,7 +473,7 @@ STAPpa una creatura attaccante bersaglio e rimuovila dal combattimento. Guadagni
   <item>
     <id>LEG0064</id>
     <name>Intervento Divino</name>
-    <text>L'Intervento Divino entra nel campo di battaglia con due segnalini intervento.
+    <text>L'Intervento Divino entra nel campo di battaglia con due segnalini intervento. 
 All'inizio del tuo mantenimento, rimuovi un segnalino intervento dall'Intervento Divino. Se non ha più segnalini intervento, la partita è patta.</text>
     <flavorText>
     </flavorText>
@@ -481,14 +481,14 @@ All'inizio del tuo mantenimento, rimuovi un segnalino intervento dall'Intervento
   <item>
     <id>LEG0065</id>
     <name>Offerta Divina</name>
-    <text>Distruggi un artefatto bersaglio. Guadagni un ammontare di punti vita pari al suo costo di mana convertito.</text>
+    <text>Distruggi un artefatto bersaglio. Guadagni punti vita pari al suo costo di mana convertito.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0066</id>
     <name>Trasformazione Divina</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +3/+3.</text>
     <flavorText>
     </flavorText>
@@ -496,7 +496,7 @@ La creatura incantata prende +3/+3.</text>
   <item>
     <id>LEG0067</id>
     <name>Manto Onirico</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 {0}: La creatura incantata diventa del colore o dei colori a tua scelta. Attiva questa abilità solo una volta per turno.</text>
     <flavorText>
     </flavorText>
@@ -504,8 +504,7 @@ La creatura incantata prende +3/+3.</text>
   <item>
     <id>LEG0068</id>
     <name>Cinghiali di Durkwood</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
@@ -519,15 +518,15 @@ La creatura incantata prende +3/+3.</text>
   <item>
     <id>LEG0070</id>
     <name>Antico Wurm di Terra</name>
-    <text>Difensore, travolgere
-Quando l'Antico Wurm di Terra blocca, perde difensore.</text>
+    <text>Difensore, travolgere 
+Quando l'Antico Wurm di Terra blocca, perde difensore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0071</id>
     <name>Progenie degli Antichi</name>
-    <text>All'inizio del tuo mantenimento, a meno che tu sacrifichi un'Isola, sacrifica la Progenie degli Antichi e questa ti infligge 6 danni.
+    <text>All'inizio del tuo mantenimento, a meno che tu sacrifichi un'Isola, sacrifica la Progenie degli Antichi e questa ti infligge 6 danni. 
 La Progenie degli Antichi non può essere bloccata da creature rosse.</text>
     <flavorText>
     </flavorText>
@@ -535,15 +534,15 @@ La Progenie degli Antichi non può essere bloccata da creature rosse.</text>
   <item>
     <id>LEG0072</id>
     <name>Cavalieri Elfici</name>
-    <text>I Cavalieri Elfici non possono essere bloccati tranne che da Muri e/o creature con volare.</text>
+    <text>I Cavalieri Elfici non possono essere bloccati tranne che da Muri e/o creature con volare. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0073</id>
     <name>Libellula Smeraldo</name>
-    <text>Volare
-{G}{G}: La Libellula Smeraldo guadagna attacco improvviso fino alla fine del turno.</text>
+    <text>Volare 
+{G}{G}: La Libellula Smeraldo guadagna attacco improvviso fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -557,7 +556,7 @@ La Progenie degli Antichi non può essere bloccata da creature rosse.</text>
   <item>
     <id>LEG0075</id>
     <name>Spostare Incantesimo</name>
-    <text>Assegna l'Aura bersaglio assegnata a una creatura o a una terra ad un altro permanente di quel tipo.</text>
+    <text>Assegna l'Aura bersaglio assegnata a una creatura o a una terra ad un altro permanente di quel tipo. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -571,7 +570,7 @@ La Progenie degli Antichi non può essere bloccata da creature rosse.</text>
   <item>
     <id>LEG0077</id>
     <name>Equinozio</name>
-    <text>Incanta terra
+    <text>Incanta terra 
 La terra incantata ha "{T}: Neutralizza una magia bersaglio se sta per distruggere una terra che controlli".</text>
     <flavorText>
     </flavorText>
@@ -579,7 +578,7 @@ La terra incantata ha "{T}: Neutralizza una magia bersaglio se sta per distrugge
   <item>
     <id>LEG0078</id>
     <name>Guerriero Eterno</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha cautela.</text>
     <flavorText>
     </flavorText>
@@ -593,17 +592,16 @@ La creatura incantata ha cautela.</text>
   </item>
   <item>
     <id>LEG0080</id>
-    <name>Occhio Malefico di Orms</name>
-    <text>Le creature non Occhio che controlli non possono attaccare.
-L'Occhio Malefico di Orms non può essere bloccato tranne che dai Muri.</text>
-    <flavorText>
-    </flavorText>
+    <name>Evil Eye of Orms-by-Gore</name>
+    <text>Non-Eye creatures you control can't attack.
+Evil Eye of Orms-by-Gore can't be blocked except by Walls.</text>
+    <flavorText>"The highway of fear is the shortest route to defeat."</flavorText>
   </item>
   <item>
     <id>LEG0081</id>
     <name>Angelo Caduto</name>
-    <text>Volare
-Sacrifica una creatura: L'Angelo Caduto prende +2/+1 fino alla fine del turno.</text>
+    <text>Volare 
+Sacrifica una creatura: L'Angelo Caduto prende +2/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -631,7 +629,7 @@ Sacrifica una creatura: L'Angelo Caduto prende +2/+1 fino alla fine del turno.</
   <item>
     <id>LEG0085</id>
     <name>Spiritelli di Fuoco</name>
-    <text>Volare
+    <text>Volare 
 {G}, {T}: Aggiungi {R} alla tua riserva di mana.</text>
     <flavorText>
     </flavorText>
@@ -639,15 +637,15 @@ Sacrifica una creatura: L'Angelo Caduto prende +2/+1 fino alla fine del turno.</
   <item>
     <id>LEG0086</id>
     <name>Fenice di Fuoco</name>
-    <text>Volare
-Se la Fenice di Fuoco sta per essere messa in un cimitero dal campo di battaglia, invece ritorna in mano al proprietario. Non può essere nuovamente giocata fino al prossimo turno del proprietario.</text>
+    <text>Volare 
+Se la Fenice di Fuoco sta per essere messa in un cimitero dal campo di battaglia, invece ritorna in mano al proprietario. Non può essere nuovamente giocata fino al prossimo turno del proprietario. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0087</id>
     <name>Neutralizzazione Fulminea</name>
-    <text>Neutralizza la magia istantaneo bersaglio.</text>
+    <text>Neutralizza la magia istantaneo bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -668,14 +666,14 @@ Se la Fenice di Fuoco sta per essere messa in un cimitero dal campo di battaglia
   <item>
     <id>LEG0090</id>
     <name>Aculeo della Forza</name>
-    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}.</text>
+    <text>Neutralizza una magia bersaglio a meno che il suo controllore paghi {1}. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0091</id>
     <name>Amuleto della Preveggenza</name>
-    <text>All'inizio del tuo mantenimento, sacrifica l'Amuleto della Preveggenza a meno che tu paghi {3}.
+    <text>All'inizio del tuo mantenimento, sacrifica l'Amuleto della Preveggenza a meno che tu paghi {3}. 
 Se una fonte istantaneo o stregoneria sta per infliggerti 3 o più danni, invece essa ti infligge 2 danni.</text>
     <flavorText>
     </flavorText>
@@ -697,14 +695,14 @@ Se una fonte istantaneo o stregoneria sta per infliggerti 3 o più danni, invece
   <item>
     <id>LEG0094</id>
     <name>Gabriel Angelfire</name>
-    <text>All'inizio del tuo mantenimento, scegli tra volare, attacco improvviso, travolgere o furia 3. Gabriel Angelfire guadagna quella abilità fino al tuo prossimo mantenimento.</text>
+    <text>All'inizio del tuo mantenimento, scegli tra volare, attacco improvviso, travolgere o furia 3. Gabriel Angelfire guadagna quella abilità fino al tuo prossimo mantenimento. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0095</id>
     <name>Forma Gassosa</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Previeni tutto il danno da combattimento che verrebbe subìto e inflitto dalla creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -733,7 +731,7 @@ Previeni tutto il danno da combattimento che verrebbe subìto e inflitto dalla c
   <item>
     <id>LEG0099</id>
     <name>Forza del Gigante</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +2/+2.</text>
     <flavorText>
     </flavorText>
@@ -776,7 +774,7 @@ La creatura incantata prende +2/+2.</text>
   <item>
     <id>LEG0105</id>
     <name>Glifo della Reincarnazione</name>
-    <text>Lancia il Glifo della Reincarnazione solo durante l'interfase di fine del combattimento.
+    <text>Lancia il Glifo della Reincarnazione solo durante l'interfase di fine del combattimento. 
 Distruggi tutte le creature che sono state bloccate dal Muro bersaglio in questo turno. Non possono essere rigenerate. Per ogni creatura messa nel cimitero in questo modo, scegli una carta creatura dal cimitero del controllore di quella creatura e rimetti quella carta nel campo di battaglia sotto il controllo del suo proprietario.</text>
     <flavorText>
     </flavorText>
@@ -784,7 +782,7 @@ Distruggi tutte le creature che sono state bloccate dal Muro bersaglio in questo
   <item>
     <id>LEG0106</id>
     <name>Gosta Dirk</name>
-    <text>Attacco improvviso
+    <text>Attacco improvviso 
 Le creature con passa-isole possono essere bloccate come se non avessero passa-isole.</text>
     <flavorText>
     </flavorText>
@@ -806,7 +804,7 @@ Le creature con passa-isole possono essere bloccate come se non avessero passa-i
   <item>
     <id>LEG0109</id>
     <name>Grande Muraglia</name>
-    <text>Le creature con Passa-pianure possono essere bloccate come se non avessero passa-pianure.</text>
+    <text>Le creature con Passa-pianure possono essere bloccate come se non avessero passa-pianure. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -827,17 +825,16 @@ Le creature con passa-isole possono essere bloccate come se non avessero passa-i
   <item>
     <id>LEG0112</id>
     <name>Accumulatore di Mana Verde</name>
-    <text>{2}, {T}: Metti un segnalino carica sull'Accumulatore di Mana Verde.
+    <text>{2}, {T}: Metti un segnalino carica sull'Accumulatore di Mana Verde. 
 {T}, Rimuovi un qualsiasi numero di segnalini carica dall'Accumulatore di Mana Verde: Aggiungi {G} alla tua riserva di mana, poi aggiungi alla tua riserva di mana un {G} addizionale per ciascun segnalino carica rimosso in questo modo.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0113</id>
-    <name>Gwendlyn di Corci</name>
-    <text>{T}: Un giocatore bersaglio scarta una carta a caso. Attiva questa abilità soltanto durante il tuo turno.</text>
-    <flavorText>
-    </flavorText>
+    <name>Gwendlyn Di Corci</name>
+    <text>{T}: Target player discards a card at random. Activate this ability only during your turn.</text>
+    <flavorText>Urborg became the final resting place of many swordsmen of renown, their steel outmatched by the wiles of Gwendlyn.</flavorText>
   </item>
   <item>
     <id>LEG0114</id>
@@ -849,7 +846,7 @@ Le creature con passa-isole possono essere bloccate come se non avessero passa-i
   <item>
     <id>LEG0115</id>
     <name>Hammerheim</name>
-    <text>{T}: Aggiungi {R} alla tua riserva di mana.
+    <text>{T}: Aggiungi {R} alla tua riserva di mana. 
 {T}: La creatura bersaglio perde tutte le abilità passa-terre fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -857,7 +854,7 @@ Le creature con passa-isole possono essere bloccate come se non avessero passa-i
   <item>
     <id>LEG0116</id>
     <name>Hazezon Tamar</name>
-    <text>All'inizio del tuo mantenimento, se Hazezon Tamar è entrato nel campo di battaglia dall'inizio del tuo ultimo mantenimento, metti sul campo di battaglia una pedina creatura Guerriero di Sabbia 1/1 rossa, verde e bianca per ogni terra che controlli.
+    <text>All'inizio del tuo mantenimento, se Hazezon Tamar è entrato nel campo di battaglia dall'inizio del tuo ultimo mantenimento, metti sul campo di battaglia una pedina creatura Guerriero di Sabbia 1/1 rossa, verde e bianca per ogni terra che controlli. 
 Quelle creature hanno "Quando un permanente di nome Hazezon Tamar non è nel campo di battaglia, esilia questa creatura".</text>
     <flavorText>
     </flavorText>
@@ -901,7 +898,7 @@ Quelle creature hanno "Quando un permanente di nome Hazezon Tamar non è nel cam
   <item>
     <id>LEG0122</id>
     <name>Giorno Sacro</name>
-    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno.</text>
+    <text>Previeni tutto il danno da combattimento che verrebbe inflitto in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -950,7 +947,7 @@ Quelle creature hanno "Quando un permanente di nome Hazezon Tamar non è nel cam
   <item>
     <id>LEG0129</id>
     <name>Immolazione</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata prende +2/-2.</text>
     <flavorText>
     </flavorText>
@@ -958,8 +955,8 @@ La creatura incantata prende +2/-2.</text>
   <item>
     <id>LEG0130</id>
     <name>Imprigionare</name>
-    <text>Incanta creatura
-Ogniqualvolta un giocatore attiva un'abilità della creatura incantata che ha {T} nel suo costo di attivazione e che non è un'abilità di mana, puoi pagare {1}. Se lo fai, neutralizza quell'abilità. Se non lo fai, distruggi l'Imprigionare.
+    <text>Incanta creatura 
+Ogniqualvolta un giocatore attiva un'abilità della creatura incantata che ha {T} nel suo costo di attivazione e che non è un'abilità di mana, puoi pagare {1}. Se lo fai, neutralizza quell'abilità. Se non lo fai, distruggi l'Imprigionare. 
 Ogniqualvolta la creatura incantata attacca o blocca, puoi pagare {1}. Se lo fai, TAPpa la creatura e rimuovila dal combattimento. Le creature che essa bloccava e che non erano bloccate da altre creature in questo combattimento, diventano non bloccate. Se non paghi {1}, distruggi l'Imprigionare.</text>
     <flavorText>
     </flavorText>
@@ -988,7 +985,7 @@ Ogniqualvolta la creatura incantata attacca o blocca, puoi pagare {1}. Se lo fai
   <item>
     <id>LEG0134</id>
     <name>Autorità Infinita</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta la creatura incantata blocca o è bloccata da una creatura con costituzione pari o inferiore a 3, distruggi l'altra creatura alla fine del combattimento. All'inizio della prossima sottofase finale, se quella creatura è stata messa in un cimitero in questo modo, metti un segnalino +1/+1 sulla prima creatura.</text>
     <flavorText>
     </flavorText>
@@ -1003,7 +1000,7 @@ Ogniqualvolta la creatura incantata blocca o è bloccata da una creatura con cos
   <item>
     <id>LEG0136</id>
     <name>Guardiani d'Avorio</name>
-    <text>Protezione dal rosso
+    <text>Protezione dal rosso 
 Le creature di nome Guardiani d'Avorio prendono +1/+1 fintanto che un avversario controlla almeno un permanente non pedina rosso.</text>
     <flavorText>
     </flavorText>
@@ -1063,7 +1060,7 @@ Le creature di nome Guardiani d'Avorio prendono +1/+1 fintanto che un avversario
   <item>
     <id>LEG0144</id>
     <name>Karakas</name>
-    <text>{T}: Aggiungi {W} alla tua riserva di mana.
+    <text>{T}: Aggiungi {W} alla tua riserva di mana. 
 {T}: Fai riprendere in mano al suo proprietario una creatura leggendaria bersaglio.</text>
     <flavorText>
     </flavorText>
@@ -1079,38 +1076,37 @@ Le creature di nome Guardiani d'Avorio prendono +1/+1 fintanto che un avversario
   <item>
     <id>LEG0146</id>
     <name>Custodi della Fede</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0147</id>
     <name>Kei Takahashi</name>
-    <text>{T}: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura bersaglio in questo turno.</text>
+    <text>{T}: Previeni i prossimi 2 danni che verrebbero inflitti a una creatura bersaglio in questo turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0148</id>
     <name>Api Assassine</name>
-    <text>Volare
-{G}: Le Api Assassine prendono +1/+1 fino alla fine del turno.</text>
+    <text>Volare 
+{G}: Le Api Assassine prendono +1/+1 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0149</id>
     <name>Kismet</name>
-    <text>Le creature, le terre e gli artefatti controllati dai tuoi avversari entrano nel campo di battaglia TAPpati. [Oracle 1999/06/30]</text>
+    <text>Le creature, le terre e gli artefatti controllati dai tuoi avversari entrano nel campo di battaglia TAPpati. Oracle 1999/06/30</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0150</id>
     <name>Cripta della Conoscenza</name>
-    <text>{2},{T}: Esilia a faccia in giù la prima carta del tuo grimorio.
-{0}: Sacrifica la Cripta della Conoscenza. Se lo fai, scarta la tua mano, poi metti nelle mani dei rispettivi proprietari tutte le carte esiliate con la Cripta della Conoscenza.
+    <text>{2},{T}: Esilia a faccia in giù la prima carta del tuo grimorio. 
+{0}: Sacrifica la Cripta della Conoscenza. Se lo fai, scarta la tua mano, poi metti nelle mani dei rispettivi proprietari tutte le carte esiliate con la Cripta della Conoscenza. 
 Quando la Cripta della Conoscenza lascia il campo di battaglia, metti tutte le carte esiliate con la Cripta della Conoscenza nei cimiteri dei loro proprietari.</text>
     <flavorText>
     </flavorText>
@@ -1125,7 +1121,7 @@ Quando la Cripta della Conoscenza lascia il campo di battaglia, metti tutte le c
   <item>
     <id>LEG0152</id>
     <name>Signore Supremo dei Coboldi</name>
-    <text>Attacco improvviso.
+    <text>Attacco improvviso. 
 Le altre creature Coboldo che controlli hanno attacco improvviso.</text>
     <flavorText>
     </flavorText>
@@ -1133,7 +1129,7 @@ Le altre creature Coboldo che controlli hanno attacco improvviso.</text>
   <item>
     <id>LEG0153</id>
     <name>Sorvegliante dei Coboldi</name>
-    <text>Le altre creature Coboldo che tu controlli prendono +1/+0.</text>
+    <text>Le altre creature Coboldo che tu controlli prendono +1/+0. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1239,8 +1235,8 @@ Le altre creature Coboldo che controlli hanno attacco improvviso.</text>
   <item>
     <id>LEG0168</id>
     <name>Lord Magnus</name>
-    <text>Attacco improvviso
-Le creature con passa-pianure possono essere bloccate come se non avessero passa-pianure.
+    <text>Attacco improvviso 
+Le creature con passa-pianure possono essere bloccate come se non avessero passa-pianure. 
 Le creature con passa-foreste possono essere bloccate come se non avessero passa-foreste.</text>
     <flavorText>
     </flavorText>
@@ -1248,7 +1244,7 @@ Le creature con passa-foreste possono essere bloccate come se non avessero passa
   <item>
     <id>LEG0169</id>
     <name>Anima Errante</name>
-    <text>Passa-paludi</text>
+    <text>Passa-paludi </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1262,14 +1258,14 @@ Le creature con passa-foreste possono essere bloccate come se non avessero passa
   <item>
     <id>LEG0171</id>
     <name>Matrice del Mana</name>
-    <text>Le magie istantaneo e le magie incantesimo che lanci costano fino a {2} in meno per essere lanciate. [Oracle 2001/08/24]</text>
+    <text>Le magie istantaneo e le magie incantesimo che lanci costano fino a {2} in meno per essere lanciate. Oracle 2001/08/24 </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0172</id>
     <name>Sacerdote di Marmo</name>
-    <text>Tutti i Muri che possono bloccare il Sacerdote di Marmo devono farlo.
+    <text>Tutti i Muri che possono bloccare il Sacerdote di Marmo devono farlo. 
 Previeni tutto il danno da combattimento che verrebbe inflitto dai Muri al Sacerdote di Marmo.</text>
     <flavorText>
     </flavorText>
@@ -1312,22 +1308,21 @@ Previeni tutto il danno da combattimento che verrebbe inflitto dai Muri al Sacer
   <item>
     <id>LEG0178</id>
     <name>Mostro di Muschio</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0179</id>
     <name>Fortezza Montana</name>
-    <text>Le creature leggendarie rosse che controlli hanno "branco con altre creature leggendarie".</text>
+    <text>Le creature leggendarie rosse che controlli hanno "branco con altre creature leggendarie". </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0180</id>
     <name>Yeti dei Monti</name>
-    <text>Passa-montagne, protezione dal bianco.</text>
+    <text>Passa-montagne, protezione dal bianco. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1348,8 +1343,8 @@ Previeni tutto il danno da combattimento che verrebbe inflitto dai Muri al Sacer
   <item>
     <id>LEG0183</id>
     <name>Nicol Bolas</name>
-    <text>Volare
-All'inizio del tuo mantenimento, sacrifica Nicol Bolas a meno che tu paghi {U}{B}{R}.
+    <text>Volare 
+All'inizio del tuo mantenimento, sacrifica Nicol Bolas a meno che tu paghi {U}{B}{R}. 
 Ogniqualvolta Nicol Bolas infligge danno ad un avversario, quel giocatore scarta la sua mano.</text>
     <flavorText>
     </flavorText>
@@ -1371,8 +1366,8 @@ Ogniqualvolta Nicol Bolas infligge danno ad un avversario, quel giocatore scarta
   <item>
     <id>LEG0186</id>
     <name>Avvoltoi delle Osai</name>
-    <text>Volare
-All'inizio della sottofase finale, se una creatura è stata messa in un cimitero dal campo di battaglia in questo turno, metti un segnalino carogna sugli Avvoltoi delle Osai.
+    <text>Volare 
+All'inizio della sottofase finale, se una creatura è stata messa in un cimitero dal campo di battaglia in questo turno, metti un segnalino carogna sugli Avvoltoi delle Osai. 
 Rimuovi 2 segnalini carogna dagli Avvoltoi delle Osai: Gli Avvoltoi delle Osai prendono +1/+1 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1380,8 +1375,8 @@ Rimuovi 2 segnalini carogna dagli Avvoltoi delle Osai: Gli Avvoltoi delle Osai p
   <item>
     <id>LEG0187</id>
     <name>Palladia-Mors</name>
-    <text>Volare, travolgere
-All'inizio del tuo mantenimento, sacrifica Palladia-Mors a meno che tu paghi {W}{G}{R}.</text>
+    <text>Volare, travolgere 
+All'inizio del tuo mantenimento, sacrifica Palladia-Mors a meno che tu paghi {W}{G}{R}. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1402,8 +1397,8 @@ All'inizio del tuo mantenimento, sacrifica Palladia-Mors a meno che tu paghi {W}
   <item>
     <id>LEG0190</id>
     <name>Pendelhaven</name>
-    <text>{T}: Aggiungi {G} alla tua riserva di mana.
-{T}: Una creatura 1/1 bersaglio prende +1/+2 fino alla fine del turno.</text>
+    <text>{T}: Aggiungi {G} alla tua riserva di mana. 
+{T}: Una creatura 1/1 bersaglio prende +1/+2 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1417,14 +1412,14 @@ All'inizio del tuo mantenimento, sacrifica Palladia-Mors a meno che tu paghi {W}
   <item>
     <id>LEG0192</id>
     <name>Scorpione dell'Abisso</name>
-    <text>Ogniqualvolta lo Scorpione dell'Abisso infligge danno a un giocatore, quel giocatore prende 1 segnalino veleno. (Un giocatore con 10 o più segnalini veleno, perde la partita.)</text>
+    <text>Ogniqualvolta lo Scorpione dell'Abisso infligge danno a un giocatore, quel giocatore prende 1 segnalino veleno. (Un giocatore con 10 o più segnalini veleno, perde la partita.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0193</id>
     <name>Regina delle Fate</name>
-    <text>Volare
+    <text>Volare 
 {G}{G}{G}, {T}: Una creatura bersaglio guadagna volare fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -1453,7 +1448,7 @@ All'inizio del tuo mantenimento, sacrifica Palladia-Mors a meno che tu paghi {W}
   <item>
     <id>LEG0197</id>
     <name>Melma Primordiale</name>
-    <text>La Melma Primordiale attacca ogni turno se può farlo.
+    <text>La Melma Primordiale attacca ogni turno se può farlo. 
 All'inizio del tuo mantenimento, metti un segnalino +1/+1 sulla Melma Primordiale. Poi puoi pagare {X}, dove X è il numero di segnalini +1/+1 sulla Melma Primordiale. Se non lo fai, TAPpa la Melma Primordiale ed essa ti infligge X danni.</text>
     <flavorText>
     </flavorText>
@@ -1475,7 +1470,7 @@ All'inizio del tuo mantenimento, metti un segnalino +1/+1 sulla Melma Primordial
   <item>
     <id>LEG0200</id>
     <name>Purificazione Psichica</name>
-    <text>La Purificazione Psichica infligge 1 danno a una creatura o a un giocatore bersaglio.
+    <text>La Purificazione Psichica infligge 1 danno a una creatura o a un giocatore bersaglio. 
 Quando una magia o un'abilità controllata da un avversario ti fa scartare la Purificazione Psichica, quel giocatore perde 5 punti vita.</text>
     <flavorText>
     </flavorText>
@@ -1483,15 +1478,15 @@ Quando una magia o un'abilità controllata da un avversario ti fa scartare la Pu
   <item>
     <id>LEG0201</id>
     <name>Burattinaio *</name>
-    <text>Incanta creatura
-Quando la creatura incantata viene messa in un cimitero, il proprietario riprende in mano quella carta. Se quella carta ritorna in mano al proprietario in questo modo, puoi pagare {U}{U}{U}. Se lo fai, riprendi in mano il Burattinaio dal tuo cimitero.</text>
+    <text>Incanta creatura 
+Quando la creatura incantata viene messa in un cimitero, il proprietario riprende in mano quella carta. Se quella carta ritorna in mano al proprietario in questo modo, puoi pagare {U}{U}{U}. Se lo fai, riprendi in mano il Burattinaio dal tuo cimitero. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0202</id>
     <name>Fuochi d'Artificio</name>
-    <text>I Fuochi d'Artificio infliggono 4 danni divisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio.</text>
+    <text>I Fuochi d'Artificio infliggono 4 danni divisi a tua scelta tra un qualsiasi numero di creature e/o giocatori bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1512,8 +1507,8 @@ Quando la creatura incantata viene messa in un cimitero, il proprietario riprend
   <item>
     <id>LEG0205</id>
     <name>Vombato Rabbioso</name>
-    <text>Cautela
-Il Vombato Rabbioso prende +2/+2 per ogni Aura assegnata ad esso.</text>
+    <text>Cautela 
+Il Vombato Rabbioso prende +2/+2 per ogni Aura assegnata ad esso. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1556,7 +1551,7 @@ Il Vombato Rabbioso prende +2/+2 per ogni Aura assegnata ad esso.</text>
   <item>
     <id>LEG0211</id>
     <name>Attacco Rapido</name>
-    <text>Lancia l'Attacco Rapido solo prima che siano dichiarati i bloccanti.
+    <text>Lancia l'Attacco Rapido solo prima che siano dichiarati i bloccanti. 
 La creatura bersaglio guadagna attacco improvviso fino alla fine del turno. Se non ha furia, quella creatura guadagna furia 2 fino alla fine del turno. (Ogniqualvolta questa creatura viene bloccata, prende +2/+2 fino alla fine del turno per ogni creatura che la blocca oltre la prima.)</text>
     <flavorText>
     </flavorText>
@@ -1564,9 +1559,9 @@ La creatura bersaglio guadagna attacco improvviso fino alla fine del turno. Se n
   <item>
     <id>LEG0212</id>
     <name>Rasputin Dreamweaver</name>
-    <text>Rasputin Dreamweaver entra nel campo di battaglia con sette segnalini sogno.
-Rimuovi un segnalino sogno da Rasputin Dreamweaver: Aggiungi {1} alla tua riserva di mana.
-Rimuovi un segnalino sogno da Rasputin Dreamweaver: Previeni il prossimo punto danno che verrebbe inflitto a Rasputin Dreamweaver in questo turno.
+    <text>Rasputin Dreamweaver entra nel campo di battaglia con sette segnalini sogno. 
+Rimuovi un segnalino sogno da Rasputin Dreamweaver: Aggiungi {1} alla tua riserva di mana. 
+Rimuovi un segnalino sogno da Rasputin Dreamweaver: Previeni il prossimo punto danno che verrebbe inflitto a Rasputin Dreamweaver in questo turno. 
 All'inizio del tuo mantenimento, se Rasputin Dreamweaver ha iniziato il turno STAPpato, metti un segnalino sogno su di esso. Rasputin Dreamweaver non può avere più di sette segnalini sogno su di esso.</text>
     <flavorText>
     </flavorText>
@@ -1574,7 +1569,7 @@ All'inizio del tuo mantenimento, se Rasputin Dreamweaver ha iniziato il turno ST
   <item>
     <id>LEG0213</id>
     <name>Rinascita</name>
-    <text>Rimuovi la Rinascita dal tuo mazzo prima della partita se non stai giocando per la posta.
+    <text>Rimuovi la Rinascita dal tuo mazzo prima della partita se non stai giocando per la posta. 
 Ogni giocatore può mettere nella propria posta la carta in cima al proprio grimorio. Se un giocatore lo fa, i suoi punti vita totali diventano 20.</text>
     <flavorText>
     </flavorText>
@@ -1589,7 +1584,7 @@ Ogni giocatore può mettere nella propria posta la carta in cima al proprio grim
   <item>
     <id>LEG0215</id>
     <name>Accumulatore di Mana Rosso</name>
-    <text>{2}, {T}: Metti un segnalino carica sull'Accumulatore di Mana Rosso.
+    <text>{2}, {T}: Metti un segnalino carica sull'Accumulatore di Mana Rosso. 
 {T}, Rimuovi un numero qualsiasi di segnalini carica dall'Accumulatore di Mana Rosso: Aggiungi {R} alla tua riserva di mana, poi aggiungi alla tua riserva di mana un {R} addizionale per ciascun segnalino carica rimosso in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -1611,29 +1606,29 @@ Ogni giocatore può mettere nella propria posta la carta in cima al proprio grim
   <item>
     <id>LEG0218</id>
     <name>Vincola Reliquia</name>
-    <text>Incanta artefatto controllato da un avversario
+    <text>Incanta artefatto controllato da un avversario 
 Ogniqualvolta l'artefatto incantato diventa TAPpato, scegli una - Il Vincola Reliquia infligge 1 danno ad un giocatore bersaglio; oppure un giocatore bersaglio guadagna 1 punto vita.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0219</id>
-    <name>Rimuovi Incantesimo</name>
-    <text>Riprendi in mano tutti gli incantesimi che possiedi e controlli, tutte le Aura che possiedi e che sono assegnate ai permanenti che controlli, e tutte le Aura che possiedi e che sono assegnate alle creature attaccanti controllate dai tuoi avversari. Poi distruggi tutti gli altri incantesimi che controlli, tutte le altre Aura assegnate a permanenti che controlli, e tutte le altre Aura assegnate alle creature attaccanti controllate dai tuoi avversari.</text>
+    <name>Rimuovi Incantesimi</name>
+    <text>Riprendi in mano tutti gli incantesimi che possiedi e controlli, tutte le Aura che possiedi e che sono assegnate ai permanenti che controlli, e tutte le Aura che possiedi e che sono assegnate alle creature attaccanti controllate dai tuoi avversari. Poi distruggi tutti gli altri incantesimi che controlli, tutte le altre Aura assegnate a permanenti che controlli, e tutte le altre Aura assegnate alle creature attaccanti controllate dai tuoi avversari. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0220</id>
     <name>Estirpare l'Anima</name>
-    <text>Neutralizza la magia creatura bersaglio.</text>
+    <text>Neutralizza la magia creatura bersaglio. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0221</id>
     <name>Riassetto</name>
-    <text>Lancia il Riassetto solo durante il turno dell'avversario dopo il suo mantenimento.
+    <text>Lancia il Riassetto solo durante il turno dell'avversario dopo il suo mantenimento. 
 STAPpa tutte le terre che controlli.</text>
     <flavorText>
     </flavorText>
@@ -1676,7 +1671,7 @@ STAPpa tutte le terre che controlli.</text>
   <item>
     <id>LEG0227</id>
     <name>Rohgahh di Kher</name>
-    <text>All'inizio del tuo mantenimento, a meno che tu paghi {R}{R}{R}, un avversario guadagna il controllo di Rohgahh di Kher e di tutte le creature chiamate Coboldi della Roccaforte di Kher che tu controlli. Se un giocatore guadagna il controllo di una creatura in questo modo, TAPpala. (Questo effetto non ha termine.)
+    <text>All'inizio del tuo mantenimento, a meno che tu paghi {R}{R}{R}, un avversario guadagna il controllo di Rohgahh di Kher e di tutte le creature chiamate Coboldi della Roccaforte di Kher che tu controlli. Se un giocatore guadagna il controllo di una creatura in questo modo, TAPpala. (Questo effetto non ha termine.) 
 Le creature chiamate Coboldi della Roccaforte di Kher che controlli prendono +2/+2.</text>
     <flavorText>
     </flavorText>
@@ -1684,7 +1679,7 @@ Le creature chiamate Coboldi della Roccaforte di Kher che controlli prendono +2/
   <item>
     <id>LEG0228</id>
     <name>Rubinia Soulsinger</name>
-    <text>Puoi scegliere di non STAPpare Rubinia Soulsinger durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare Rubinia Soulsinger durante il tuo STAP. 
 {T}: Guadagni il controllo di una creatura bersaglio fintanto che controlli Rubinia Soulsinger e Rubinia Soulsinger rimane TAPpata.</text>
     <flavorText>
     </flavorText>
@@ -1713,7 +1708,7 @@ Le creature chiamate Coboldi della Roccaforte di Kher che controlli prendono +2/
   <item>
     <id>LEG0232</id>
     <name>Cercatore</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata non può essere bloccata tranne che dalle creature artefatto e/o da creature bianche.</text>
     <flavorText>
     </flavorText>
@@ -1721,7 +1716,7 @@ La creatura incantata non può essere bloccata tranne che dalle creature artefat
   <item>
     <id>LEG0233</id>
     <name>Leviatano Segoviano</name>
-    <text>Passa-isole</text>
+    <text>Passa-isole </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1749,7 +1744,7 @@ La creatura incantata non può essere bloccata tranne che dalle creature artefat
   <item>
     <id>LEG0237</id>
     <name>Muro di Scudi</name>
-    <text>Le creature che controlli prendono +0/+2 fino alla fine del turno.</text>
+    <text>Le creature che controlli prendono +0/+2 fino alla fine del turno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1778,15 +1773,14 @@ La creatura incantata non può essere bloccata tranne che dalle creature artefat
   <item>
     <id>LEG0241</id>
     <name>Sivitri Scarzam</name>
-    <text>
-    </text>
+    <text> </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0242</id>
     <name>Sol'kanar, il Re delle Paludi</name>
-    <text>Passa-Paludi
+    <text>Passa-Paludi 
 Ogniqualvolta un giocatore lancia una magia nera, guadagni 1 punto vita.</text>
     <flavorText>
     </flavorText>
@@ -1794,7 +1788,7 @@ Ogniqualvolta un giocatore lancia una magia nera, guadagni 1 punto vita.</text>
   <item>
     <id>LEG0243</id>
     <name>Mantello Spettrale</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 La creatura incantata ha velo fintanto che è STAPpata. (Non può essere bersaglio di magie o abilità.)</text>
     <flavorText>
     </flavorText>
@@ -1809,7 +1803,7 @@ La creatura incantata ha velo fintanto che è STAPpata. (Non può essere bersagl
   <item>
     <id>LEG0245</id>
     <name>Legame Spirituale</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta la creatura incantata infligge danno, guadagni un pari ammontare di punti vita.</text>
     <flavorText>
     </flavorText>
@@ -1817,7 +1811,7 @@ Ogniqualvolta la creatura incantata infligge danno, guadagni un pari ammontare d
   <item>
     <id>LEG0246</id>
     <name>Incatenare lo Spirito</name>
-    <text>Incanta creatura
+    <text>Incanta creatura 
 Ogniqualvolta la creatura incantata diventa TAPpata, metti un segnalino -0/-2 su di essa.</text>
     <flavorText>
     </flavorText>
@@ -1839,7 +1833,7 @@ Ogniqualvolta la creatura incantata diventa TAPpata, metti un segnalino -0/-2 su
   <item>
     <id>LEG0249</id>
     <name>Cacciatrice di Tempeste</name>
-    <text>La Cacciatrice di Tempeste infligge a un giocatore bersaglio un danno pari al numero di carte nella sua mano.</text>
+    <text>La Cacciatrice di Tempeste infligge a un giocatore bersaglio un danno pari al numero di carte nella sua mano. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1867,7 +1861,7 @@ Ogniqualvolta la creatura incantata diventa TAPpata, metti un segnalino -0/-2 su
   <item>
     <id>LEG0253</id>
     <name>Spada delle Ere</name>
-    <text>La Spada delle Ere entra nel campo di battaglia TAPpata.
+    <text>La Spada delle Ere entra nel campo di battaglia TAPpata. 
 {T}, Esilia la Spada delle Ere e un qualsiasi numero di creature che controlli: La Spada delle Ere infligge X danni ad una creatura o ad un giocatore bersaglio, dove X è la forza totale delle creature esiliate in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -1875,7 +1869,7 @@ Ogniqualvolta la creatura incantata diventa TAPpata, metti un segnalino -0/-2 su
   <item>
     <id>LEG0254</id>
     <name>Biblioteca Silvestre</name>
-    <text>All'inizio della tua acquisizione, puoi pescare due carte addizionali. Se lo fai, scegli due carte nella tua mano pescate in questo turno. Per ognuna di quelle carte, paga 4 punti vita o metti la carta in cima al tuo grimorio.</text>
+    <text>All'inizio della tua acquisizione, puoi pescare due carte addizionali. Se lo fai, scegli due carte nella tua mano pescate in questo turno. Per ognuna di quelle carte, paga 4 punti vita o metti la carta in cima al tuo grimorio. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1896,8 +1890,8 @@ Ogniqualvolta la creatura incantata diventa TAPpata, metti un segnalino -0/-2 su
   <item>
     <id>LEG0257</id>
     <name>Larva Parassita</name>
-    <text>Incanta creatura
-All'inizio del mantenimento del controllore della creatura incantata, metti un segnalino -0/-1 sulla creatura incantata.
+    <text>Incanta creatura 
+All'inizio del mantenimento del controllore della creatura incantata, metti un segnalino -0/-1 sulla creatura incantata. 
 Quando la creatura incantata viene messa in un cimitero, il controllore di quella creatura sceglie una creatura che la Larva Parassita potrebbe incantare. Se lo fa, rimetti la Larva Parassita sul campo di battaglia sotto il tuo controllo assegnata a quella creatura. Se non lo fa, rimetti la Larva Parassita sul campo di battaglia sotto il tuo controllo come un incantesimo non-Aura. Perde "incanta creatura" e guadagna "All'inizio del mantenimento di quel giocatore, la Larva Parassita gli infligge 1 danno".</text>
     <flavorText>
     </flavorText>
@@ -1912,7 +1906,7 @@ Quando la creatura incantata viene messa in un cimitero, il controllore di quell
   <item>
     <id>LEG0259</id>
     <name>Teletrasporto</name>
-    <text>Lancia il Teletrasporto solo dopo che sono stati dichiarati gli attaccanti e prima che siano dichiarati i bloccanti.
+    <text>Lancia il Teletrasporto solo dopo che sono stati dichiarati gli attaccanti e prima che siano dichiarati i bloccanti. 
 La creatura bersaglio non può essere bloccata in questo turno.</text>
     <flavorText>
     </flavorText>
@@ -1920,7 +1914,7 @@ La creatura bersaglio non può essere bloccata in questo turno.</text>
   <item>
     <id>LEG0260</id>
     <name>Efreet delle Tempeste</name>
-    <text>Rimuovi dal mazzo l'Efreet delle Tempeste prima di giocare se non giochi con la posta.
+    <text>Rimuovi dal mazzo l'Efreet delle Tempeste prima di giocare se non giochi con la posta. 
 {T}, Sacrifica l'Efreet delle Tempeste: L'avversario bersaglio può pagare 10 punti vita. Se quel giocatore non lo fa, rivela una carta a caso dalla sua mano. Scambia la proprietà della carta rivelata e dell'Efreet delle Tempeste. Aggiungi la carta rivelata alla tua mano e metti l'Efreet delle Tempeste nel cimitero di quel giocatore da dovunque si trovi.</text>
     <flavorText>
     </flavorText>
@@ -1928,7 +1922,7 @@ La creatura bersaglio non può essere bloccata in questo turno.</text>
   <item>
     <id>LEG0261</id>
     <name>Tetsuo Umezawa</name>
-    <text>Tetsuo Umezawa non può essere bersaglio di magie Aura.
+    <text>Tetsuo Umezawa non può essere bersaglio di magie Aura. 
 {U}{B}{B}{R}, {T}: Distruggi una creatura bersaglio TAPpata o che sta bloccando.</text>
     <flavorText>
     </flavorText>
@@ -1943,8 +1937,8 @@ La creatura bersaglio non può essere bloccata in questo turno.</text>
   <item>
     <id>LEG0263</id>
     <name>Il Bruto</name>
-    <text>Incanta creatura
-La creatura incantata prende +1/+0.
+    <text>Incanta creatura 
+La creatura incantata prende +1/+0. 
 {R}{R}{R}: Rigenera la creatura incantata.</text>
     <flavorText>
     </flavorText>
@@ -1967,7 +1961,7 @@ La creatura incantata prende +1/+0.
   <item>
     <id>LEG0266</id>
     <name>Il Corruttore</name>
-    <text>Alla fine del combattimento, guadagni il controllo di tutte le creature che stanno bloccando Il Corruttore fintanto che controlli Il Corruttore.</text>
+    <text>Alla fine del combattimento, guadagni il controllo di tutte le creature che stanno bloccando Il Corruttore fintanto che controlli Il Corruttore. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1981,8 +1975,8 @@ La creatura incantata prende +1/+0.
   <item>
     <id>LEG0268</id>
     <name>Elementale del Tempo</name>
-    <text>Quando l'Elementale del Tempo attacca o blocca, alla fine del combattimento, sacrificalo ed esso ti infligge 5 danni.
-{2}{U}{U}, {T}: Il proprietario riprende in mano il permanente bersaglio che non è incantato.</text>
+    <text>Quando l'Elementale del Tempo attacca o blocca, alla fine del combattimento, sacrificalo ed esso ti infligge 5 danni. 
+{2}{U}{U}, {T}: Il proprietario riprende in mano il permanente bersaglio che non è incantato. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -1997,7 +1991,7 @@ La creatura incantata prende +1/+0.
   <item>
     <id>LEG0270</id>
     <name>Tolaria</name>
-    <text>{T}: Aggiungi {U} alla tua riserva di mana.
+    <text>{T}: Aggiungi {U} alla tua riserva di mana. 
 {T}: La creatura bersaglio perde branco e tutte le abilità "branco con altri" fino alla fine del turno. Attiva questa abilità solo durante il tuo mantenimento.</text>
     <flavorText>
     </flavorText>
@@ -2034,7 +2028,7 @@ La creatura incantata prende +1/+0.
   <item>
     <id>LEG0275</id>
     <name>Uovo del Triassico</name>
-    <text>{3}, {T}: Metti un segnalino covata sull'Uovo del Triassico.
+    <text>{3}, {T}: Metti un segnalino covata sull'Uovo del Triassico. 
 Rimuovi due segnalini covata dall'Uovo del Triassico, Sacrifica l'Uovo del Triassico: Puoi mettere sul campo di battaglia una carta creatura dalla tua mano o dal tuo cimitero.</text>
     <flavorText>
     </flavorText>
@@ -2042,7 +2036,7 @@ Rimuovi due segnalini covata dall'Uovo del Triassico, Sacrifica l'Uovo del Trias
   <item>
     <id>LEG0276</id>
     <name>Tuknir Deathlock</name>
-    <text>Volare
+    <text>Volare 
 {G}{R}, {T}: Una creatura bersaglio prende +2/+2 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2071,7 +2065,7 @@ Rimuovi due segnalini covata dall'Uovo del Triassico, Sacrifica l'Uovo del Trias
   <item>
     <id>LEG0280</id>
     <name>Sogni del Mondo Sotterraneo</name>
-    <text>Ogniqualvolta un avversario pesca una carta, i Sogni del Mondo Sotterraneo gli infliggono 1 danno.</text>
+    <text>Ogniqualvolta un avversario pesca una carta, i Sogni del Mondo Sotterraneo gli infliggono 1 danno. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2092,7 +2086,7 @@ Rimuovi due segnalini covata dall'Uovo del Triassico, Sacrifica l'Uovo del Trias
   <item>
     <id>LEG0283</id>
     <name>Urborg</name>
-    <text>{T}: Aggiungi {B} alla tua riserva di mana.
+    <text>{T}: Aggiungi {B} alla tua riserva di mana. 
 {T}: La creatura bersaglio perde attacco improvviso o passa-paludi fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2100,18 +2094,18 @@ Rimuovi due segnalini covata dall'Uovo del Triassico, Sacrifica l'Uovo del Trias
   <item>
     <id>LEG0284</id>
     <name>Ur-Drago</name>
-    <text>Attacco improvviso
-Le creature con passa-paludi possono essere bloccate come se non avessero passa-paludi.</text>
+    <text>Attacco improvviso 
+Le creature con passa-paludi possono essere bloccate come se non avessero passa-paludi. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0285</id>
     <name>Vaevictis Asmadi</name>
-    <text>Volare
-All'inizio del tuo mantenimento, sacrifica Vaevictis Asmadi a meno che tu paghi {B}{R}{G}.
-{B}: Vaevictis Asmadi prende +1/+0 fino alla fine del turno.
-{R}: Vaevictis Asmadi prende +1/+0 fino alla fine del turno.
+    <text>Volare 
+All'inizio del tuo mantenimento, sacrifica Vaevictis Asmadi a meno che tu paghi {B}{R}{G}. 
+{B}: Vaevictis Asmadi prende +1/+0 fino alla fine del turno. 
+{R}: Vaevictis Asmadi prende +1/+0 fino alla fine del turno. 
 {G}: Vaevictis Asmadi prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2119,7 +2113,7 @@ All'inizio del tuo mantenimento, sacrifica Vaevictis Asmadi a meno che tu paghi 
   <item>
     <id>LEG0286</id>
     <name>Pipistrelli Vampiro</name>
-    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.)
+    <text>Volare (Questa creatura non può essere bloccata tranne che da creature con volare o raggiungere.) 
 {B}: I Pipistrelli Vampiro prendono +1/+0 fino alla fine del turno. Attiva questa abilità non più di due volte per turno.</text>
     <flavorText>
     </flavorText>
@@ -2127,26 +2121,25 @@ All'inizio del tuo mantenimento, sacrifica Vaevictis Asmadi a meno che tu paghi 
   <item>
     <id>LEG0287</id>
     <name>Oro di Venaria</name>
-    <text>Incanta creatura
-L'Oro di Venaria entra nel campo di battaglia con X segnalini sonno.
-Quando l'Oro di Venaria entra nel campo di battaglia, TAPpa la creatura incantata.
-La creatura incantata non STAPpa durante lo STAP del suo controllore fintanto che l'Oro di Venaria ha un segnalino sonno su di esso.
-All'inizio del mantenimento del controllore della creatura incantata, rimuovi un segnalino sonno dall'Oro di Venaria.</text>
+    <text>Incanta creatura 
+Quando l'Oro di Venaria entra nel campo di battaglia, TAPpa la creatura incantata e metti X segnalini sonno su di essa. 
+La creatura incantata non STAPpa durante lo STAP del suo controllore se ha un segnalino sonno su di essa. 
+All'inizio del mantenimento del controllore della creatura incantata, rimuovi un segnalino sonno da quella creatura.</text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0288</id>
     <name>Visioni</name>
-    <text>Guarda le prime cinque carte del grimorio del giocatore bersaglio. Poi puoi fare rimescolare quel grimorio a quel giocatore.</text>
+    <text>Guarda le prime cinque carte del grimorio del giocatore bersaglio. Poi puoi fare rimescolare quel grimorio a quel giocatore. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0289</id>
     <name>Bambola Voodoo</name>
-    <text>All'inizio del tuo mantenimento, metti un segnalino spillo sulla Bambola Voodoo.
-All'inizio della tua sottofase finale, se la Bambola Voodoo è STAPpata, sacrificala ed essa ti infligge un danno pari al numero dei segnalini spillo su di essa.
+    <text>All'inizio del tuo mantenimento, metti un segnalino spillo sulla Bambola Voodoo. 
+All'inizio della tua sottofase finale, se la Bambola Voodoo è STAPpata, sacrificala ed essa ti infligge un danno pari al numero dei segnalini spillo su di essa. 
 {X}{X}, {T}: La Bambola Voodoo infligge X danni a una creatura o a un giocatore bersaglio. X è il numero dei segnalini spillo presenti sulla Bambola Voodoo.</text>
     <flavorText>
     </flavorText>
@@ -2161,7 +2154,7 @@ All'inizio della tua sottofase finale, se la Bambola Voodoo è STAPpata, sacrifi
   <item>
     <id>LEG0291</id>
     <name>Muro di Spine di Frisia</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Ogniqualvolta il Muro di Spine di Frisia blocca una creatura, se nessuna creatura non-Muro sta bloccando quella creatura, il Muro di Spine di Frisia guadagna branco fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2169,7 +2162,7 @@ Ogniqualvolta il Muro di Spine di Frisia blocca una creatura, se nessuna creatur
   <item>
     <id>LEG0292</id>
     <name>Muro di Polvere</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Ogniqualvolta il Muro di Polvere blocca una creatura, quella creatura non può attaccare durante il prossimo turno del suo controllore.</text>
     <flavorText>
     </flavorText>
@@ -2184,14 +2177,14 @@ Ogniqualvolta il Muro di Polvere blocca una creatura, quella creatura non può a
   <item>
     <id>LEG0294</id>
     <name>Muro di Calore</name>
-    <text>Difensore (Questa creatura non può attaccare.)</text>
+    <text>Difensore (Questa creatura non può attaccare.) </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0295</id>
     <name>Muro di Luce</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 Protezione dal nero.</text>
     <flavorText>
     </flavorText>
@@ -2199,7 +2192,7 @@ Protezione dal nero.</text>
   <item>
     <id>LEG0296</id>
     <name>Muro dell'Opposizione</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {1}: Il Muro dell'Opposizione prende +1/+0 fino alla fine del turno.</text>
     <flavorText>
     </flavorText>
@@ -2207,8 +2200,8 @@ Protezione dal nero.</text>
   <item>
     <id>LEG0297</id>
     <name>Muro di Carne Putrescente</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Protezione dal bianco.
+    <text>Difensore (Questa creatura non può attaccare.) 
+Protezione dal bianco. 
 Previeni tutto il danno che verrebbe inflitto al Muro di Carne Putrescente dalle creature incantate.</text>
     <flavorText>
     </flavorText>
@@ -2216,8 +2209,8 @@ Previeni tutto il danno che verrebbe inflitto al Muro di Carne Putrescente dalle
   <item>
     <id>LEG0298</id>
     <name>Muro d'Ombre</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Previeni tutto il danno che verrebbe inflitto al Muro d'Ombre dalle creature che sta bloccando.
+    <text>Difensore (Questa creatura non può attaccare.) 
+Previeni tutto il danno che verrebbe inflitto al Muro d'Ombre dalle creature che sta bloccando. 
 Il Muro d'Ombre non può essere bersaglio di magie che possono avere come bersaglio solamente i Muri o di abilità che possono bersagliare solo i Muri.</text>
     <flavorText>
     </flavorText>
@@ -2225,7 +2218,7 @@ Il Muro d'Ombre non può essere bersaglio di magie che possono avere come bersag
   <item>
     <id>LEG0299</id>
     <name>Muro di Lapidi</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 All'inizio del tuo mantenimento, la costituzione del Muro di Lapidi diventa 1 più il numero di carte creatura nel tuo cimitero. (Questo effetto non ha termine.)</text>
     <flavorText>
     </flavorText>
@@ -2233,15 +2226,15 @@ All'inizio del tuo mantenimento, la costituzione del Muro di Lapidi diventa 1 pi
   <item>
     <id>LEG0300</id>
     <name>Muro di Vapore</name>
-    <text>Difensore (Questa creatura non può attaccare.)
-Previeni tutto il danno che verrebbe inflitto al Muro di Vapore dalle creature che sta bloccando.</text>
+    <text>Difensore (Questa creatura non può attaccare.) 
+Previeni tutto il danno che verrebbe inflitto al Muro di Vapore dalle creature che sta bloccando. </text>
     <flavorText>
     </flavorText>
   </item>
   <item>
     <id>LEG0301</id>
     <name>Muro delle Meraviglie</name>
-    <text>Difensore (Questa creatura non può attaccare.)
+    <text>Difensore (Questa creatura non può attaccare.) 
 {2}{U}{U}: Il Muro delle Meraviglie prende +4/-4 fino alla fine del turno e può attaccare in questo turno come se non avesse difensore.</text>
     <flavorText>
     </flavorText>
@@ -2249,7 +2242,7 @@ Previeni tutto il danno che verrebbe inflitto al Muro di Vapore dalle creature c
   <item>
     <id>LEG0302</id>
     <name>Derviscio Turbinante</name>
-    <text>Protezione dal nero
+    <text>Protezione dal nero 
 All'inizio della sottofase finale, se il Derviscio Turbinante ha inflitto danno a un avversario in questo turno, metti un segnalino +1/+1 sul Derviscio Turbinante.</text>
     <flavorText>
     </flavorText>
@@ -2257,7 +2250,7 @@ All'inizio della sottofase finale, se il Derviscio Turbinante ha inflitto danno 
   <item>
     <id>LEG0303</id>
     <name>Accumulatore di Mana Bianco</name>
-    <text>{2}, {T}: Metti un segnalino carica sull'Accumulatore di Mana Bianco.
+    <text>{2}, {T}: Metti un segnalino carica sull'Accumulatore di Mana Bianco. 
 {T}, Rimuovi un qualsiasi numero di segnalini carica dall'Accumulatore di Mana Bianco: Aggiungi {W} alla tua riserva di mana, poi aggiungi alla tua riserva di mana un {W} addizionale per ciascun segnalino carica rimosso in questo modo.</text>
     <flavorText>
     </flavorText>
@@ -2265,7 +2258,7 @@ All'inizio della sottofase finale, se il Derviscio Turbinante ha inflitto danno 
   <item>
     <id>LEG0304</id>
     <name>Satiro del Salice</name>
-    <text>Puoi scegliere di non STAPpare il Satiro del Salice durante il tuo STAP.
+    <text>Puoi scegliere di non STAPpare il Satiro del Salice durante il tuo STAP. 
 {T}: Guadagni il controllo di una creatura leggendaria bersaglio fintanto che controlli il Satiro del Salice e il Satiro del Salice resta TAPpato.</text>
     <flavorText>
     </flavorText>
@@ -2280,7 +2273,7 @@ All'inizio della sottofase finale, se il Derviscio Turbinante ha inflitto danno 
   <item>
     <id>LEG0306</id>
     <name>Flagello Invernale</name>
-    <text>TAPpa X creature bersaglio. Il Flagello Invernale infligge 2 danni a ciascuna di quelle creature con volare.</text>
+    <text>TAPpa X creature bersaglio. Il Flagello Invernale infligge 2 danni a ciascuna di quelle creature con volare. </text>
     <flavorText>
     </flavorText>
   </item>
@@ -2301,7 +2294,7 @@ All'inizio della sottofase finale, se il Derviscio Turbinante ha inflitto danno 
   <item>
     <id>LEG0309</id>
     <name>Xira Arien</name>
-    <text>Volare
+    <text>Volare 
 {B}{R}{G}, {T}: Il giocatore bersaglio pesca una carta.</text>
     <flavorText>
     </flavorText>
