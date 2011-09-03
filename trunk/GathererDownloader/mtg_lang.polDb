@@ -1,0 +1,283 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<game>
+  <card_rarities_lang>
+    <item code="C" language="ENG" name="Common" />
+    <item code="C" language="ITA" name="Comune" />
+    <item code="R" language="ENG" name="Rare" />
+    <item code="R" language="ITA" name="Rara" />
+    <item code="U" language="ENG" name="Uncommon" />
+    <item code="U" language="ITA" name="Non Comune" />
+    <item code="M" language="ENG" name="Mythic Rare" />
+    <item code="M" language="ITA" name="Rara Mitica" />
+    <item code="S" language="ENG" name="Special" />
+    <item code="S" language="ITA" name="Speciale" />
+  </card_rarities_lang>
+  <card_types_lang>
+    <item code="CRE" language="ENG" name="Creature" />
+    <item code="CRE" language="ITA" name="Creatura" />
+    <item code="INS" language="ENG" name="Instant" />
+    <item code="INS" language="ITA" name="Istantaneo" />
+    <item code="ENC" language="ENG" name="Enchantment" />
+    <item code="ENC" language="ITA" name="Incantesimo" />
+    <item code="SOR" language="ENG" name="Sorcery" />
+    <item code="SOR" language="ITA" name="Stregoneria" />
+    <item code="ART" language="ENG" name="Artifact" />
+    <item code="ART" language="ITA" name="Artefatto" />
+    <item code="ARC" language="ENG" name="Artifact Creature" />
+    <item code="ARC" language="ITA" name="Creatura Artefatto" />
+    <item code="LND" language="ENG" name="Land" />
+    <item code="LND" language="ITA" name="Terra" />
+    <item code="BLA" language="ENG" name="Basic Land" />
+    <item code="BLA" language="ITA" name="Terra Base" />
+    <item code="LCR" language="ENG" name="Legendary Creature" />
+    <item code="LCR" language="ITA" name="Creatura Leggendaria" />
+    <item code="LEN" language="ENG" name="Legendary Enchantment" />
+    <item code="LEN" language="ITA" name="Incantesimo Leggendario" />
+    <item code="LLA" language="ENG" name="Legendary Land" />
+    <item code="LLA" language="ITA" name="Terra Leggendaria" />
+    <item code="LAR" language="ENG" name="Legendary Artifact" />
+    <item code="LAR" language="ITA" name="Artefatto Leggendario" />
+    <item code="WEN" language="ENG" name="World Enchantment" />
+    <item code="WEN" language="ITA" name="Incanta Mondo" />
+    <item code="BSL" language="ENG" name="Basic Snow Land" />
+    <item code="BSL" language="ITA" name="Terra Base Innevata" />
+    <item code="SCR" language="ENG" name="Snow Creature" />
+    <item code="SCR" language="ITA" name="Creatura Neve" />
+    <item code="SLA" language="ENG" name="Snow Land" />
+    <item code="SLA" language="ITA" name="Terra Neve" />
+    <item code="SEN" language="ENG" name="Snow Enchantment" />
+    <item code="SEN" language="ITA" name="Incantesimo Neve" />
+    <item code="SAC" language="ENG" name="Snow Artifact Creature" />
+    <item code="SAC" language="ITA" name="Creature Artefatto Neve" />
+    <item code="LSL" language="ENG" name="Legendary Snow Land" />
+    <item code="LSL" language="ITA" name="Terra Neve Leggendaria" />
+    <item code="SAR" language="ENG" name="Snow Artifact" />
+    <item code="SAR" language="ITA" name="Artefatto Neve" />
+    <item code="TEN" language="ENG" name="Tribal Enchantment" />
+    <item code="TEN" language="ITA" name="Incantesimo Tribale" />
+    <item code="PLA" language="ENG" name="Planeswalker" />
+    <item code="PLA" language="ITA" name="Viandante" />
+    <item code="TSO" language="ENG" name="Tribal Sorcery" />
+    <item code="TSO" language="ITA" name="Stregoneria Tribale" />
+    <item code="TIN" language="ENG" name="Tribal Instant" />
+    <item code="TIN" language="ITA" name="Istantaneo Tribale" />
+    <item code="TAR" language="ENG" name="Tribal Artifact" />
+    <item code="TAR" language="ITA" name="Artefatto Tribale" />
+  </card_types_lang> 
+  <card_colors_lang>
+    <item code="B" language="ENG" name="Black" />
+    <item code="B" language="ITA" name="Nero" />
+    <item code="W" language="ENG" name="White" />
+    <item code="W" language="ITA" name="Bianco" />
+    <item code="R" language="ENG" name="Red" />
+    <item code="R" language="ITA" name="Rosso" />
+    <item code="U" language="ENG" name="Blue" />
+    <item code="U" language="ITA" name="Blu" />
+    <item code="G" language="ENG" name="Green" />
+    <item code="G" language="ITA" name="Verde" />
+    <item code="A" language="ENG" name="Artifact" />
+    <item code="A" language="ITA" name="Artefatto" />
+    <item code="l" language="ENG" name="Colorless" />
+    <item code="l" language="ITA" name="Incolore" />
+  </card_colors_lang>       
+  <card_styles_lang>
+    <item code="PRE_8" language="ENG" name="Previous Eight Edition" />
+    <item code="PRE_8" language="ITA" name="Precedente l&apos;ottava edizione" />
+    <item code="POST_8" language="ENG" name="Post Eight Edition" />
+    <item code="POST_8" language="ITA" name="Successiva all&apos;ottava edizione" />
+    <item code="PAWN" language="ENG" name="Pawn" />
+    <item code="PAWN" language="ITA" name="Pedina" />
+  </card_styles_lang>
+  <sectors_lang>
+    <item code="DECK" language="ENG" name="Library" />
+    <item code="DECK" language="ITA" name="Grimorio" />
+    <item code="DISCARDS" language="ENG" name="Graveyard" />
+    <item code="DISCARDS" language="ITA" name="Cimitero" />
+    <item code="REMOVED" language="ENG" name="Exile" />
+    <item code="REMOVED" language="ITA" name="Esilio" />
+    <item code="BATTLEFIELD" language="ENG" name="Battlefield" />
+    <item code="BATTLEFIELD" language="ITA" name="Campo di battaglia" />
+    <item code="HAND" language="ENG" name="Hand" />
+    <item code="HAND" language="ITA" name="Mano" />
+  </sectors_lang>        
+  <card_sets_lang>
+    <item code="LEA" language="ENG" name="Limited Edition Alpha" />
+    <item code="LEA" language="ITA" name="Alpha (solo inglese)(Limited Edition)" />
+    <item code="LEB" language="ENG" name="Limited Edition Beta" />  
+    <item code="LEB" language="ITA" name="Beta (solo inglese)(Limited Edition)" />  
+    <item code="2ED" language="ENG" name="Unlimited Edition" />  
+    <item code="2ED" language="ITA" name="Unlimited Edition (solo inglese)" />  
+    <item code="3ED" language="ENG" name="Revised Edition" />  
+    <item code="3ED" language="ITA" name="Revised Edition" />  
+    <item code="4ED" language="ENG" name="Fourth Edition" />  
+    <item code="4ED" language="ITA" name="Quarta Edizione" />  
+    <item code="5ED" language="ENG" name="Fifth Edition" />  
+    <item code="5ED" language="ITA" name="Quinta Edizione" />  
+    <item code="6ED" language="ENG" name="Classic Sixth Edition" />  
+    <item code="6ED" language="ITA" name="Classic (Sesta Edizione)" />  
+    <item code="7ED" language="ENG" name="Seventh Edition" />  
+    <item code="7ED" language="ITA" name="Settima Edizione" />  
+    <item code="8ED" language="ENG" name="Eighth Edition" />  
+    <item code="8ED" language="ITA" name="Ottava Edizione" />  
+    <item code="9ED" language="ENG" name="Ninth Edition" />  
+    <item code="9ED" language="ITA" name="Nona Edizione" />  
+    <item code="10E" language="ENG" name="Tenth Edition" />  
+    <item code="10E" language="ITA" name="Decima Edizione" />  
+    <item code="M10" language="ENG" name="Magic 2010" />  
+    <item code="M10" language="ITA" name="Magic 2010" />  
+    <item code="ARN" language="ENG" name="Arabian Nights" />  
+    <item code="ARN" language="ITA" name="Arabian Nights" />  
+    <item code="ATQ" language="ENG" name="Antiquities" />  
+    <item code="ATQ" language="ITA" name="Antiquities" />  
+    <item code="LEG" language="ENG" name="Legends" />  
+    <item code="LEG" language="ITA" name="Leggende" />  
+    <item code="DRK" language="ENG" name="The Dark" />  
+    <item code="DRK" language="ITA" name="L&apos;Oscurità" />  
+    <item code="FEM" language="ENG" name="Fallen Empires" />  
+    <item code="FEM" language="ITA" name="Fallen Empires" />  
+    <item code="HML" language="ENG" name="Homelands" />  
+    <item code="HML" language="ITA" name="Origini" />  
+    <item code="ICE" language="ENG" name="Ice Age" />  
+    <item code="ICE" language="ITA" name="Era Glaciale" />  
+    <item code="ALL" language="ENG" name="Alliances" />  
+    <item code="ALL" language="ITA" name="Alleanze" />  
+    <item code="CLD" language="ENG" name="Coldsnap" />  
+    <item code="CLD" language="ITA" name="Ondata Glaciale" />  
+    <item code="MIR" language="ENG" name="Mirage" />  
+    <item code="MIR" language="ITA" name="Mirage" />    
+    <item code="VIS" language="ENG" name="Visions" />  
+    <item code="VIS" language="ITA" name="Visioni" />
+    <item code="WTH" language="ENG" name="Weatherlight" />  
+    <item code="WTH" language="ITA" name="Cavalcavento" />
+    <item code="TMP" language="ENG" name="Tempest" />  
+    <item code="TMP" language="ITA" name="Tempesta" />
+    <item code="STH" language="ENG" name="Stronghold" />  
+    <item code="STH" language="ITA" name="Fortezza" />
+    <item code="EXO" language="ENG" name="Exodus" />  
+    <item code="EXO" language="ITA" name="Esodo" />
+    <item code="USG" language="ENG" name="Urza&apos;s Saga" />  
+    <item code="USG" language="ITA" name="Saga di Urza" />
+    <item code="ULG" language="ENG" name="Urza&apos;s Legacy" />  
+    <item code="ULG" language="ITA" name="Eredità di Urza" />
+    <item code="UDS" language="ENG" name="Urza&apos;s Destiny" />  
+    <item code="UDS" language="ITA" name="Destino di Urza" />
+    <item code="MMQ" language="ENG" name="Mercadian Masques" />  
+    <item code="MMQ" language="ITA" name="Maschere di Mercadia" />
+    <item code="NMS" language="ENG" name="Nemesis" />  
+    <item code="NMS" language="ITA" name="Nemesis" />
+    <item code="PCY" language="ENG" name="Prophecy" />  
+    <item code="PCY" language="ITA" name="Profezia" />
+    <item code="INV" language="ENG" name="Invasion" />  
+    <item code="INV" language="ITA" name="Invasione" />
+    <item code="PLS" language="ENG" name="Planeshift" />  
+    <item code="PLS" language="ITA" name="Congiunzione" />
+    <item code="APC" language="ENG" name="Apocalypse" />  
+    <item code="APC" language="ITA" name="Apocalisse" />
+    <item code="ODY" language="ENG" name="Odyssey" />  
+    <item code="ODY" language="ITA" name="Odissea" />
+    <item code="TOR" language="ENG" name="Torment" />  
+    <item code="TOR" language="ITA" name="Tormento" />
+    <item code="JUD" language="ENG" name="Judgment" />  
+    <item code="JUD" language="ITA" name="Sentenza" />
+    <item code="ONS" language="ENG" name="Onslaught" />  
+    <item code="ONS" language="ITA" name="Assalto" />
+    <item code="LGN" language="ENG" name="Legions" />  
+    <item code="LGN" language="ITA" name="Legioni" />
+    <item code="SCG" language="ENG" name="Scourge" />  
+    <item code="SCG" language="ITA" name="Flagello" />
+    <item code="MRD" language="ENG" name="Mirrodin" />  
+    <item code="MRD" language="ITA" name="Mirrodin" />
+    <item code="DST" language="ENG" name="Darksteel" />  
+    <item code="DST" language="ITA" name="Darksteel" />
+    <item code="5DN" language="ENG" name="Fifth Dawn" />  
+    <item code="5DN" language="ITA" name="Quinta Alba" />  
+    <item code="CHK" language="ENG" name="Champions of Kamigawa" />  
+    <item code="CHK" language="ITA" name="Campioni di Kamigawa" />  
+    <item code="BOK" language="ENG" name="Betrayers of Kamigawa" />  
+    <item code="BOK" language="ITA" name="Traditori di Kamigawa" />  
+    <item code="SOK" language="ENG" name="Saviors of Kamigawa" />  
+    <item code="SOK" language="ITA" name="Liberatori di Kamigawa" />  
+    <item code="RAV" language="ENG" name="Ravnica: City of Guilds" />  
+    <item code="RAV" language="ITA" name="Ravnica: Città delle Gilde" />  
+    <item code="GPT" language="ENG" name="Guildpact" />  
+    <item code="GPT" language="ITA" name="Patto delle Gilde" />  
+    <item code="DIS" language="ENG" name="Dissension" />  
+    <item code="DIS" language="ITA" name="Discordia" />
+    <item code="TSP" language="ENG" name="Time Spiral" />  
+    <item code="TSP" language="ITA" name="Spirale Temporale" />
+    <item code="TSB" language="ENG" name="Time Spiral &quot;Timeshifted&quot;" />  
+    <item code="TSB" language="ITA" name="Spirale Temporale - Cronotraslate" />
+    <item code="PLC" language="ENG" name="Planar Chaos" />  
+    <item code="PLC" language="ITA" name="Caos Dimensionale" />
+    <item code="FUT" language="ENG" name="Future Sight" />  
+    <item code="FUT" language="ITA" name="Visione Futura" />
+    <item code="LRW" language="ENG" name="Lorwyn" />  
+    <item code="LRW" language="ITA" name="Lorwyn" />  
+    <item code="MOR" language="ENG" name="Morningtide" />  
+    <item code="MOR" language="ITA" name="Aurora" /> 
+    <item code="SHM" language="ENG" name="Shadowmoor" />  
+    <item code="SHM" language="ITA" name="Landa Tenebrosa" /> 
+    <item code="EVE" language="ENG" name="Eventide" />  
+    <item code="EVE" language="ITA" name="Vespro" /> 
+    <item code="ALA" language="ENG" name="Shards of Alara" />  
+    <item code="ALA" language="ITA" name="Frammenti di Alara" /> 
+    <item code="CFX" language="ENG" name="Conflux" />  
+    <item code="CFX" language="ITA" name="Conflux" /> 
+    <item code="ARB" language="ENG" name="Alara Reborn" />  
+    <item code="ARB" language="ITA" name="Rinascita di Alara" /> 
+    <item code="ZEN" language="ENG" name="Zendikar" />  
+    <item code="ZEN" language="ITA" name="Zendikar" /> 
+    <item code="WWK" language="ENG" name="Worldwake" />  
+    <item code="WWK" language="ITA" name="Worldwake" />
+    <item code="ROE" language="ENG" name="Rise of the Eldrazi" />  
+    <item code="ROE" language="ITA" name="Ascesa degli Eldrazi" />    
+    <item code="CHR" language="ENG" name="Chronicles" />  
+    <item code="CHR" language="ITA" name="Chronicles" />
+    <item code="BRB" language="ENG" name="Battle Royale Box Set" />  
+    <item code="BRB" language="ITA" name="Battle Royale Box Set" />
+    <item code="BTD" language="ENG" name="Beatdown Box Set" />  
+    <item code="BTD" language="ITA" name="Beatdown Box Set" />
+    <item code="HOP" language="ENG" name="Planechase" />  
+    <item code="HOP" language="ITA" name="Planechase" />
+    <item code="EVG" language="ENG" name="Duel Decks: Elves vs. Goblins" />  
+    <item code="EVG" language="ITA" name="Duel Decks: Elves vs. Goblins" />
+    <item code="JVC" language="ENG" name="Duel Decks: Jace vs. Chandra" />  
+    <item code="JVC" language="ITA" name="Duel Decks: Jace vs. Chandra" />
+    <item code="DVD" language="ENG" name="Duel Decks: Divine vs. Demonic" />  
+    <item code="DVD" language="ITA" name="Duel Decks: Divine vs. Demonic" />
+    <item code="GVL" language="ENG" name="Duel Decks: Garruk vs. Liliana" />  
+    <item code="GVL" language="ITA" name="Duel Decks: Garruk vs. Liliana" />     
+    <item code="FVD" language="ENG" name="From the Vault: Dragons" />  
+    <item code="FVD" language="ITA" name="From the Vault: Dragons" />
+    <item code="FVE" language="ENG" name="From the Vault: Exiled" />  
+    <item code="FVE" language="ITA" name="From the Vault: Exiled" />  
+    <item code="PDS" language="ENG" name="Premium Deck Series: Slivers" />  
+    <item code="PDS" language="ITA" name="Premium Deck Series: Slivers" />  
+    <item code="POR" language="ENG" name="Portal" />  
+    <item code="POR" language="ITA" name="Portal" />
+    <item code="P02" language="ENG" name="Portal Second Age" />  
+    <item code="P02" language="ITA" name="Portal Second Age" />                       
+    <item code="PTK" language="ENG" name="Portal Three Kingdoms" />  
+    <item code="PTK" language="ITA" name="Portal Three Kingdoms" />
+    <item code="S99" language="ENG" name="Starter 1999" />  
+    <item code="S99" language="ITA" name="Starter 1999" />
+    <item code="S00" language="ENG" name="Starter 2000" />  
+    <item code="S00" language="ITA" name="Starter 2000" />
+    <item code="MED" language="ENG" name="Masters Edition" />  
+    <item code="MED" language="ITA" name="Masters Edition" />
+    <item code="ME2" language="ENG" name="Masters Edition II" />  
+    <item code="ME2" language="ITA" name="Masters Edition II" />  
+    <item code="ME3" language="ENG" name="Masters Edition III" />  
+    <item code="ME3" language="ITA" name="Masters Edition III" />
+    <item code="UGL" language="ENG" name="Unglued" />  
+    <item code="UGL" language="ITA" name="Unglued" />
+    <item code="UNH" language="ENG" name="Unhinged" />  
+    <item code="UNH" language="ITA" name="Unhinged" />       
+    <item code="M11" language="ENG" name="Magic 2011" />  
+    <item code="M11" language="ITA" name="Magic 2011" />
+    <item code="SOM" language="ENG" name="Scars of Mirrodin" />
+    <item code="SOM" language="ITA" name="Cicatrici di Mirrodin" />
+    <item code="MBS" language="ENG" name="Mirrodin Besieged" />
+    <item code="MBS" language="ITA" name="Mirrodin Assediato" />    
+  </card_sets_lang>    
+</game>

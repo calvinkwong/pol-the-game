@@ -1,0 +1,355 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<game> 
+  <card_rarities>
+    <item code="C" />
+    <item code="R" />
+    <item code="U" />
+    <item code="M" />
+    <item code="S" />
+  </card_rarities>
+  <card_types>
+    <item code="CRE" />
+    <item code="INS" />
+    <item code="ENC" />
+    <item code="SOR" />
+    <item code="ART" />
+    <item code="ARC" />
+    <item code="LND" />
+    <item code="BLA" />
+    <item code="LCR" />
+    <item code="LEN" />
+    <item code="LLA" />
+    <item code="LAR" />
+    <item code="WEN" />
+    <item code="BSL" />
+    <item code="SCR" />
+    <item code="SLA" />
+    <item code="SEN" />
+    <item code="SAC" />
+    <item code="LSL" />
+    <item code="SAR" />
+    <item code="TEN" />
+    <item code="PLA" />
+    <item code="TSO" />
+    <item code="TIN" />
+    <item code="TAR" />
+  </card_types>
+  <card_colors>
+    <item code="B" />
+    <item code="W" />
+    <item code="R" />
+    <item code="U" />
+    <item code="G" />
+    <item code="A" />
+    <item code="l" />
+  </card_colors>
+  <card_sets>
+    <item code="ZEN" releaseDate="2009-10-02T00:00:00" />
+    <item code="M10" releaseDate="2009-07-17T00:00:00" />
+    <item code="ARB" releaseDate="2009-04-30T00:00:00" />
+    <item code="CFX" releaseDate="2009-02-06T00:00:00" />
+    <item code="ALA" releaseDate="2008-10-03T00:00:00" />
+    <item code="EVE" releaseDate="2008-07-25T00:00:00" />
+    <item code="SHM" releaseDate="2008-05-02T00:00:00" />
+    <item code="MOR" releaseDate="2008-02-01T00:00:00" />
+    <item code="LRW" releaseDate="2007-10-12T00:00:00" />
+    <item code="10E" releaseDate="2007-07-14T00:00:00" />
+    <item code="FUT" releaseDate="2007-05-04T00:00:00" />
+    <item code="PLC" releaseDate="2007-02-02T00:00:00" />
+    <item code="TSP" releaseDate="2006-10-06T00:00:00" />
+    <item code="TSB" releaseDate="2006-10-06T00:00:00" />
+    <item code="CLD" releaseDate="2006-07-21T00:00:00" />
+    <item code="DIS" releaseDate="2006-05-05T00:00:00" />
+    <item code="GPT" releaseDate="2006-02-03T00:00:00" />
+    <item code="RAV" releaseDate="2005-10-07T00:00:00" />
+    <item code="9ED" releaseDate="2005-07-29T00:00:00" />
+    <item code="SOK" releaseDate="2005-06-03T00:00:00" />
+    <item code="BOK" releaseDate="2005-02-04T00:00:00" />
+    <item code="CHK" releaseDate="2004-10-01T00:00:00" />
+    <item code="5DN" releaseDate="2004-06-04T00:00:00" />
+    <item code="DST" releaseDate="2004-02-06T00:00:00" />
+    <item code="MRD" releaseDate="2003-10-02T00:00:00" />
+    <item code="8ED" releaseDate="2003-07-28T00:00:00" />
+    <item code="SCG" releaseDate="2003-05-26T00:00:00" />
+    <item code="LGN" releaseDate="2003-02-03T00:00:00" />
+    <item code="ONS" releaseDate="2002-10-07T00:00:00" />
+    <item code="JUD" releaseDate="2002-05-27T00:00:00" />
+    <item code="TOR" releaseDate="2002-02-04T00:00:00" />
+    <item code="ODY" releaseDate="2001-10-01T00:00:00" />
+    <item code="APC" releaseDate="2001-06-04T00:00:00" />
+    <item code="7ED" releaseDate="2001-04-11T00:00:00" />
+    <item code="PLS" releaseDate="2001-02-05T00:00:00" />
+    <item code="INV" releaseDate="2000-10-02T00:00:00" />
+    <item code="S00" releaseDate="2000-07-01T00:00:00" />
+    <item code="PCY" releaseDate="2000-06-05T00:00:00" />
+    <item code="NMS" releaseDate="2000-02-14T00:00:00" />
+    <item code="MMQ" releaseDate="1999-10-04T00:00:00" />
+    <item code="S99" releaseDate="1999-07-01T00:00:00" />
+    <item code="UDS" releaseDate="1999-06-07T00:00:00" />
+    <item code="PTK" releaseDate="1999-05-01T00:00:00" />
+    <item code="6ED" releaseDate="1999-04-28T00:00:00" />
+    <item code="ULG" releaseDate="1999-02-15T00:00:00" />
+    <item code="USG" releaseDate="1998-10-12T00:00:00" />
+    <item code="EXO" releaseDate="1998-06-15T00:00:00" />
+    <item code="P02" releaseDate="1998-06-01T00:00:00" />
+    <item code="STH" releaseDate="1998-03-02T00:00:00" />
+    <item code="TMP" releaseDate="1997-10-14T00:00:00" />
+    <item code="WTH" releaseDate="1997-06-09T00:00:00" />
+    <item code="POR" releaseDate="1997-06-01T00:00:00" />
+    <item code="5ED" releaseDate="1997-03-24T00:00:00" />
+    <item code="VIS" releaseDate="1997-02-03T00:00:00" />
+    <item code="MIR" releaseDate="1996-10-08T00:00:00" />
+    <item code="ALL" releaseDate="1996-06-10T00:00:00" />
+    <item code="HML" releaseDate="1995-10-01T00:00:00" />
+    <item code="CHR" releaseDate="1995-07-01T00:00:00" />
+    <item code="ICE" releaseDate="1995-06-01T00:00:00" />
+    <item code="4ED" releaseDate="1995-04-01T00:00:00" />
+    <item code="FEM" releaseDate="1994-11-01T00:00:00" />
+    <item code="DRK" releaseDate="1994-08-01T00:00:00" />
+    <item code="LEG" releaseDate="1994-06-01T00:00:00" />
+    <item code="3ED" releaseDate="1994-04-01T00:00:00" />
+    <item code="ATQ" releaseDate="1994-03-01T00:00:00" />
+    <item code="ARN" releaseDate="1993-12-01T00:00:00" />
+    <item code="2ED" releaseDate="1993-12-01T00:00:00" />
+    <item code="LEB" releaseDate="1993-10-01T00:00:00" />
+    <item code="LEA" releaseDate="1993-08-05T00:00:00" />
+    <item code="BRB" releaseDate="1999-09-12T00:00:00" />
+    <item code="BTD" releaseDate="2000-12-01T00:00:00" />
+    <item code="HOP" releaseDate="2009-11-04T00:00:00" />
+    <item code="EVG" releaseDate="2007-11-16T00:00:00" />
+    <item code="JVC" releaseDate="2008-11-07T00:00:00" />
+    <item code="DVD" releaseDate="2009-04-10T00:00:00" />
+    <item code="GVL" releaseDate="2009-10-30T00:00:00" />
+    <item code="FVD" releaseDate="2008-08-29T00:00:00" />
+    <item code="FVE" releaseDate="2009-08-28T00:00:00" />
+    <item code="PDS" releaseDate="2009-11-20T00:00:00" />
+    <item code="MED" releaseDate="2007-07-10T00:00:00" />
+    <item code="ME2" releaseDate="2008-07-22T00:00:00" />
+    <item code="ME3" releaseDate="2009-07-07T00:00:00" />
+    <item code="UGL" releaseDate="1998-08-17T00:00:00" />
+    <item code="UNH" releaseDate="2004-11-19T00:00:00" />
+    <item code="WWK" releaseDate="2010-02-05T00:00:00" />
+    <item code="ROE" releaseDate="2010-04-23T00:00:00" />
+    <item code="M11" releaseDate="2010-07-15T00:00:00" />
+    <item code="SOM" releaseDate="2010-09-25T00:00:00" />
+    <item code="MBS" releaseDate="2011-01-29T00:00:00" />
+  </card_sets>          
+  <card_styles>
+    <item code="PRE_8" />
+    <item code="POST_8" />
+    <item code="PAWN" />
+  </card_styles>
+  <card_style_behaviors>
+    <item 
+      style="PRE_8"
+      behavior="SMALL"
+      cardName_fontName="Arial"
+      cardName_fontSize="8"
+      cardName_fontColor="White"
+      cardName_fontBold="true"
+      cardName_fontItalic="false"
+      cardName_fontShadowed="true"
+      cardName_fontShadowColor="Black"
+      cardType_fontName="Arial"
+      cardType_fontSize="8"
+      cardType_fontColor="White"
+      cardType_fontBold="true"
+      cardType_fontItalic="false"
+      cardType_fontShadowed="true"
+      cardType_fontShadowColor="Black"
+      cardText_fontName="Arial"
+      cardText_fontSize="8"
+      cardText_fontColor="Black"
+      cardText_fontBold="false"
+      cardText_fontItalic="false"
+      cardText_fontShadowed="false"
+      cardFlavorText_fontName="Arial"
+      cardFlavorText_fontSize="8"
+      cardFlavorText_fontColor="Black"
+      cardFlavorText_fontBold="false"
+      cardFlavorText_fontItalic="true"
+      cardFlavorText_fontShadowed="false"
+      cardArtist_fontName="Arial"
+      cardArtist_fontSize="8"
+      cardArtist_fontColor="White"
+      cardArtist_fontBold="true"
+      cardArtist_fontItalic="false"
+      cardArtist_fontShadowed="true"
+      cardArtist_fontShadowColor="Black" />
+    <item
+      style="PRE_8"
+      behavior="LARGE"
+      cardName_fontName="Arial"
+      cardName_fontSize="10"
+      cardName_fontColor="White"
+      cardName_fontBold="true"
+      cardName_fontItalic="false"
+      cardName_fontShadowed="true"
+      cardName_fontShadowColor="Black"
+      cardType_fontName="Arial"
+      cardType_fontSize="9"
+      cardType_fontColor="White"
+      cardType_fontBold="true"
+      cardType_fontItalic="false"
+      cardType_fontShadowed="true"
+      cardType_fontShadowColor="Black"
+      cardText_fontName="Arial"
+      cardText_fontSize="8"
+      cardText_fontColor="Black"
+      cardText_fontBold="false"
+      cardText_fontItalic="false"
+      cardText_fontShadowed="false"
+      cardFlavorText_fontName="Arial"
+      cardFlavorText_fontSize="8"
+      cardFlavorText_fontColor="Black"
+      cardFlavorText_fontBold="false"
+      cardFlavorText_fontItalic="true"
+      cardFlavorText_fontShadowed="false"
+      cardArtist_fontName="Arial"
+      cardArtist_fontSize="8"
+      cardArtist_fontColor="White"
+      cardArtist_fontBold="true"
+      cardArtist_fontItalic="false"
+      cardArtist_fontShadowed="true"
+      cardArtist_fontShadowColor="Black" />
+    <item
+      style="POST_8"
+      behavior="SMALL"
+      cardName_fontName="Arial"
+      cardName_fontSize="8"
+      cardName_fontColor="Black"
+      cardName_fontBold="false"
+      cardName_fontItalic="false"
+      cardName_fontShadowed="false"
+      cardType_fontName="Arial"
+      cardType_fontSize="7"
+      cardType_fontColor="Black"
+      cardType_fontBold="true"
+      cardType_fontItalic="false"
+      cardType_fontShadowed="false"
+      cardText_fontName="Arial"
+      cardText_fontSize="8"
+      cardText_fontColor="Black"
+      cardText_fontBold="false"
+      cardText_fontItalic="false"
+      cardText_fontShadowed="false"
+      cardFlavorText_fontName="Arial"
+      cardFlavorText_fontSize="8"
+      cardFlavorText_fontColor="Black"
+      cardFlavorText_fontBold="false"
+      cardFlavorText_fontItalic="true"
+      cardFlavorText_fontShadowed="false"
+      cardArtist_fontName="Arial"
+      cardArtist_fontSize="7"
+      cardArtist_fontColor="Black"
+      cardArtist_fontBold="false"
+      cardArtist_fontItalic="false"
+      cardArtist_fontShadowed="false" />
+    <item
+      style="POST_8"
+      behavior="LARGE"
+      cardName_fontName="Arial"
+      cardName_fontSize="10"
+      cardName_fontColor="Black"
+      cardName_fontBold="true"
+      cardName_fontItalic="false"
+      cardName_fontShadowed="false"
+      cardType_fontName="Arial"
+      cardType_fontSize="9"
+      cardType_fontColor="Black"
+      cardType_fontBold="true"
+      cardType_fontItalic="false"
+      cardType_fontShadowed="false"
+      cardText_fontName="Arial"
+      cardText_fontSize="8"
+      cardText_fontColor="Black"
+      cardText_fontBold="false"
+      cardText_fontItalic="false"
+      cardText_fontShadowed="false"
+      cardFlavorText_fontName="Arial"
+      cardFlavorText_fontSize="8"
+      cardFlavorText_fontColor="Black"
+      cardFlavorText_fontBold="false"
+      cardFlavorText_fontItalic="true"
+      cardFlavorText_fontShadowed="false"
+      cardArtist_fontName="Arial"
+      cardArtist_fontSize="7"
+      cardArtist_fontColor="Black"
+      cardArtist_fontBold="false"
+      cardArtist_fontItalic="false"
+      cardArtist_fontShadowed="false" />
+    <item
+      style="PAWN"
+      behavior="SMALL"
+      cardName_fontName="Arial"
+      cardName_fontSize="8"
+      cardName_fontColor="Black"
+      cardName_fontBold="false"
+      cardName_fontItalic="false"
+      cardName_fontShadowed="false"
+      cardType_fontName="Arial"
+      cardType_fontSize="7"
+      cardType_fontColor="Black"
+      cardType_fontBold="true"
+      cardType_fontItalic="false"
+      cardType_fontShadowed="false"
+      cardText_fontName="Arial"
+      cardText_fontSize="8"
+      cardText_fontColor="Black"
+      cardText_fontBold="false"
+      cardText_fontItalic="false"
+      cardText_fontShadowed="false"
+      cardFlavorText_fontName="Arial"
+      cardFlavorText_fontSize="8"
+      cardFlavorText_fontColor="Black"
+      cardFlavorText_fontBold="false"
+      cardFlavorText_fontItalic="true"
+      cardFlavorText_fontShadowed="false"
+      cardArtist_fontName="Arial"
+      cardArtist_fontSize="7"
+      cardArtist_fontColor="Black"
+      cardArtist_fontBold="false"
+      cardArtist_fontItalic="false"
+      cardArtist_fontShadowed="false" />
+    <item
+      style="PAWN"
+      behavior="LARGE"
+      cardName_fontName="Arial"
+      cardName_fontSize="10"
+      cardName_fontColor="Black"
+      cardName_fontBold="true"
+      cardName_fontItalic="false"
+      cardName_fontShadowed="false"
+      cardType_fontName="Arial"
+      cardType_fontSize="9"
+      cardType_fontColor="Black"
+      cardType_fontBold="true"
+      cardType_fontItalic="false"
+      cardType_fontShadowed="false"
+      cardText_fontName="Arial"
+      cardText_fontSize="8"
+      cardText_fontColor="Black"
+      cardText_fontBold="false"
+      cardText_fontItalic="false"
+      cardText_fontShadowed="false"
+      cardFlavorText_fontName="Arial"
+      cardFlavorText_fontSize="8"
+      cardFlavorText_fontColor="Black"
+      cardFlavorText_fontBold="false"
+      cardFlavorText_fontItalic="true"
+      cardFlavorText_fontShadowed="false"
+      cardArtist_fontName="Arial"
+      cardArtist_fontSize="7"
+      cardArtist_fontColor="Black"
+      cardArtist_fontBold="false"
+      cardArtist_fontItalic="false"
+      cardArtist_fontShadowed="false" />
+  </card_style_behaviors>    
+  <sectors>
+    <item code="DECK" behavior="1" cardVisibility="1" defaultTarget="HAND" hasSimpleDuplicate="false" />
+    <item code="DISCARDS" behavior="1" cardVisibility="2" defaultTarget="HAND" hasSimpleDuplicate="false" />
+    <item code="REMOVED" behavior="1" cardVisibility="2" defaultTarget="HAND" hasSimpleDuplicate="false" />
+    <item code="BATTLEFIELD" behavior="2" cardVisibility="2" hasSimpleDuplicate="false" />
+    <item code="HAND" behavior="3" cardVisibility="3" defaultTarget="BATTLEFIELD" hasSimpleDuplicate="true" />
+  </sectors>
+</game>
