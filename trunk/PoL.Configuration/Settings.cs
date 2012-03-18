@@ -174,13 +174,7 @@ namespace PoL.Configuration
       get
       {
 #if DEBUG
-        if(string.Compare(Environment.MachineName, "pew-dev24", true) == 0)
-          return @"D:\Source Code\Training\PoL\src\logs";
-        else if(string.Compare(Environment.MachineName, "linux", true) == 0 ||
-          string.Compare(Environment.MachineName, "dhcppc0", true) == 0)
-          return @"/home/rupert/tmp/src/logs";
-        else
-          return @"D:\Programmazione\PoL\src\logs";
+        return @"/home/andy/dev/PoL/src/logs";
 #else
         return logsPath;
 #endif
@@ -192,13 +186,7 @@ namespace PoL.Configuration
       get
       {
 #if DEBUG
-        if(string.Compare(Environment.MachineName, "pew-dev24", true) == 0)
-          return @"D:\Source Code\Training\PoL\src\graphics";
-        else if(string.Compare(Environment.MachineName, "linux", true) == 0 ||
-          string.Compare(Environment.MachineName, "dhcppc0", true) == 0) 
-          return @"/home/rupert/tmp/src/graphics";
-        else
-          return @"D:\Programmazione\PoL\src\graphics";
+        return @"/home/andy/dev/PoL/src/graphics";
 #else
         return imagesPath;
 #endif
@@ -210,13 +198,7 @@ namespace PoL.Configuration
       get
       {
 #if DEBUG
-        if(string.Compare(Environment.MachineName, "pew-dev24", true) == 0)
-          return @"D:\Source Code\Training\PoL\src\data";
-        else if(string.Compare(Environment.MachineName, "linux", true) == 0 ||
-          string.Compare(Environment.MachineName, "dhcppc0", true) == 0) 
-          return @"/home/rupert/tmp/src/data";
-        else
-          return @"D:\Programmazione\PoL\src\data";
+        return @"/home/andy/dev/PoL/src/data";
 #else
         return dataPath;
 #endif
@@ -228,13 +210,7 @@ namespace PoL.Configuration
       get
       {
 #if DEBUG
-        if(string.Compare(Environment.MachineName, "pew-dev24", true) == 0)
-          return @"D:\Source Code\Training\PoL\src\save";
-        else if(string.Compare(Environment.MachineName, "linux", true) == 0 ||
-          string.Compare(Environment.MachineName, "dhcppc0", true) == 0) 
-          return @"/home/rupert/tmp/src/save";
-        else
-          return @"D:\Programmazione\PoL\src\save";
+        return @"/home/andy/dev/PoL/src/save";
 #else
         return savePath;
 #endif
@@ -246,13 +222,7 @@ namespace PoL.Configuration
       get
       {
 #if DEBUG
-        if(string.Compare(Environment.MachineName, "pew-dev24", true) == 0)
-          return @"D:\Source Code\Training\PoL\src\decks";
-        else if(string.Compare(Environment.MachineName, "linux", true) == 0 ||
-          string.Compare(Environment.MachineName, "dhcppc0", true) == 0) 
-          return @"/home/rupert/tmp/src/decks";
-        else
-          return @"D:\Programmazione\PoL\src\decks";
+        return @"/home/andy/dev/PoL/src/decks";
 #else
         return deckPath;
 #endif
@@ -264,13 +234,7 @@ namespace PoL.Configuration
       get
       {
 #if DEBUG
-        if(string.Compare(Environment.MachineName, "pew-dev24", true) == 0)
-          return @"D:\Source Code\Training\PoL\src\pics";
-        else if(string.Compare(Environment.MachineName, "linux", true) == 0 ||
-          string.Compare(Environment.MachineName, "dhcppc0", true) == 0) 
-          return @"/home/rupert/tmp/src/pics";
-        else
-          return @"D:\Programmazione\PoL\src\pics";
+        return @"/home/andy/dev/PoL/src/pics";
 #else
         return cardPicturesPath;
 #endif

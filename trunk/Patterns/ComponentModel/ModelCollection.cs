@@ -91,13 +91,13 @@ namespace Patterns.ComponentModel
       }
     }
 
-    public new event NotifyCollectionChangedEventHandler CollectionChanged;
-
-    event NotifyCollectionChangedEventHandler INotifyCollectionChanged.CollectionChanged
-    {
-      add { CollectionChanged += value; }
-      remove { CollectionChanged -= value; }
-    }
+//    public new event NotifyCollectionChangedEventHandler CollectionChanged;
+//
+//    event NotifyCollectionChangedEventHandler INotifyCollectionChanged.CollectionChanged
+//    {
+//      add { CollectionChanged += value; }
+//      remove { CollectionChanged -= value; }
+//    }
 
     protected override void OnCollectionChanged(NotifyCollectionChangedEventArgs e)
     {
@@ -124,8 +124,8 @@ namespace Patterns.ComponentModel
           break;
       }
 
-      if(CollectionChanged != null && !suspended)
-        CollectionChanged(this, e);
+//      if(CollectionChanged != null && !suspended)
+//        CollectionChanged(this, e);
     }
 
     public Model Container
