@@ -29,6 +29,7 @@ using PoL.Common;
 using PoL.Models.GameStarters;
 using Communication;
 using Patterns.MVC;
+using Patterns.ComponentModel;
 using PoL.Configuration;
 using System.Collections.Specialized;
 using PoL.Logic.Commands.GameStarters;
@@ -57,8 +58,8 @@ namespace PoL.Logic.Controllers.GameStarters
       this.connector.Disconnected += new Action<object, ServiceNetClient>(connector_Disconnected);
 
       clientStarterModel.Started += new Action<object>(clientStarterModel_Started);
-      clientStarterModel.Console.Messages.CollectionChanged += new NotifyCollectionChangedEventHandler(Messages_CollectionChanged);
-      clientStarterModel.Players.CollectionChanged += new NotifyCollectionChangedEventHandler(Players_CollectionChanged);
+      clientStarterModel.Console.Messages.CollectionChanged += new CollectionChangedEventHandler(Messages_CollectionChanged);
+      clientStarterModel.Players.CollectionChanged += new CollectionChangedEventHandler(Players_CollectionChanged);
 
       ResetView();
     }
@@ -75,25 +76,25 @@ namespace PoL.Logic.Controllers.GameStarters
       Model.Console.WriteLine(MessageCategory.Warning, "Server has disconnected.");
     }
 
-    void Players_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void Players_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           PlayerAccountData ply = (PlayerAccountData)e.NewItems[0];
           View.AddPlayer(ply.Info);
           break;
-        case NotifyCollectionChangedAction.Reset:
+        case CollectionChangedAction.Reset:
           View.ClearPlayers();
           break;
       }
     }
 
-    void Messages_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void Messages_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           View.AddConsoleMessage((TextMessage)e.NewItems[0]);
           break;
       }

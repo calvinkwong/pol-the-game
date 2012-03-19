@@ -18,7 +18,6 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 */
 
 using System;
-using System.Collections.ObjectModel;
 using System.Collections.Generic;
 using System.Collections.Specialized;
 using System.Linq;
@@ -30,6 +29,7 @@ using PoL.Logic.Views;
 using PoL.Common;
 using PoL.Logic.Commands.SideboardingEditor;
 using Patterns.MVC;
+using Patterns.ComponentModel;
 using Patterns;
 using PoL.Services;
 
@@ -63,32 +63,32 @@ namespace PoL.Logic.Controllers
         view.EndLoad();
         view.SetDeckSize(model.Deck.MainCards.Count, model.Deck.SideboardCards.Count);
       }
-      model.Deck.MainCards.CollectionChanged += new NotifyCollectionChangedEventHandler(MainCards_CollectionChanged);
-      model.Deck.SideboardCards.CollectionChanged += new NotifyCollectionChangedEventHandler(SideboardCards_CollectionChanged);
+      model.Deck.MainCards.CollectionChanged += new CollectionChangedEventHandler(MainCards_CollectionChanged);
+      model.Deck.SideboardCards.CollectionChanged += new CollectionChangedEventHandler(SideboardCards_CollectionChanged);
     }
 
-    void MainCards_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void MainCards_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           ManageAddMainCard((CardItem)e.NewItems[0]);
           break;
-        case NotifyCollectionChangedAction.Remove:
+        case CollectionChangedAction.Remove:
           ManageRemoveMainCard((CardItem)e.OldItems[0]);
           break;
       }
       View.SetDeckSize(Model.Deck.MainCards.Count, Model.Deck.SideboardCards.Count);
     }
 
-    void SideboardCards_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void SideboardCards_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           ManageAddSideboardCard((CardItem)e.NewItems[0]);
           break;
-        case NotifyCollectionChangedAction.Remove:
+        case CollectionChangedAction.Remove:
           ManageRemoveSideboardCard((CardItem)e.OldItems[0]);
           break;
       }

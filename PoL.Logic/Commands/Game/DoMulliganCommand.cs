@@ -59,10 +59,10 @@ namespace PoL.Logic.Commands.Game
       deckCards = deck.Cards.ToList();
 
       int toDraw = Receiver.GameItem.StartCardsAmount;
-      if(hand.Cards.Count > 1)
-        toDraw = hand.Cards.Count - 1;
+      if(hand.Cards.Count() > 1)
+        toDraw = hand.Cards.Count() - 1;
 
-      if(hand.Cards.Count > 0)
+      if(hand.Cards.Count() > 0)
       {
         var discardedCards = hand.Cards.ToList();
         hand.Cards.Clear();

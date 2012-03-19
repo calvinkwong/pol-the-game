@@ -22,7 +22,6 @@ using System.Net;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Collections.ObjectModel;
 
 using PoL.Services;
 using PoL.Logic.Views;
@@ -31,6 +30,7 @@ using PoL.Models.GameStarters;
 using Communication;
 using Patterns.MVC;
 using Patterns;
+using Patterns.ComponentModel;
 using System.Collections.Specialized;
 using Patterns.Command;
 using PoL.Logic.Commands.GameStarters;
@@ -72,10 +72,10 @@ namespace PoL.Logic.Controllers.GameStarters
       this.listener.PlayerConnected += new Action<object, ServiceNetClient, PlayerAccountData>(listener_PlayerConnected);
       this.listener.PlayerDisconnected += new Action<object, ServiceNetClient, PlayerInfo>(listener_PlayerDisconnected);
 
-      serverStarter.Console.Messages.CollectionChanged += new NotifyCollectionChangedEventHandler(Messages_CollectionChanged);
+      serverStarter.Console.Messages.CollectionChanged += new CollectionChangedEventHandler(Messages_CollectionChanged);
       serverStarter.Started += new Action<object>(serverStarter_Started);
 
-      serverStarter.Players.CollectionChanged += new NotifyCollectionChangedEventHandler(Players_CollectionChanged);
+      serverStarter.Players.CollectionChanged += new CollectionChangedEventHandler(Players_CollectionChanged);
 
       View.SetState(ServerStarterState.Waiting);
 
@@ -139,12 +139,12 @@ namespace PoL.Logic.Controllers.GameStarters
       netCommandHandler.Execute(cmd);
     }
 
-    void Players_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void Players_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       ObservableCollection<PlayerAccountData> players = (ObservableCollection<PlayerAccountData>)sender;
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           PlayerAccountData ply = (PlayerAccountData)e.NewItems[0];
           View.AddPlayer(ply.Info);
           if(players.Count > 1)
@@ -152,17 +152,17 @@ namespace PoL.Logic.Controllers.GameStarters
           else
             View.SetState(ServerStarterState.Waiting);
           break;
-        case NotifyCollectionChangedAction.Reset:
+        case CollectionChangedAction.Reset:
           View.ClearPlayers();
           break;
       }
     }
 
-    void Messages_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void Messages_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           View.AddConsoleMessage((TextMessage)e.NewItems[0]);
           break;
       }

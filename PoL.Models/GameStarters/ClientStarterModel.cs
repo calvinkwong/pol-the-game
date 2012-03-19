@@ -33,7 +33,6 @@ using PoL.Common;
 using PoL.Models;
 using PoL.Models.Game;
 using Patterns.ComponentModel;
-using System.Collections.ObjectModel;
 
 namespace PoL.Models.GameStarters
 {

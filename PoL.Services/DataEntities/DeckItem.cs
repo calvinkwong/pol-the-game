@@ -23,7 +23,7 @@ using System.IO;
 using System.Xml;
 using System.Xml.Serialization;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
+using Patterns.ComponentModel;
 using System.Text;
 
 using PoL.Services.DataEntities;

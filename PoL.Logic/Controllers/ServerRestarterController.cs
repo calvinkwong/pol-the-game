@@ -28,6 +28,7 @@ using Patterns.Command;
 using PoL.Models.GameRestarters;
 using PoL.Logic.Commands.GameRestarters;
 using Patterns;
+using Patterns.ComponentModel;
 using System.Collections.Specialized;
 using PoL.Models;
 using PoL.Common;
@@ -61,35 +62,35 @@ namespace PoL.Logic.Controllers
       }
 
       model.Started += new Action<object>(model_Started);
-      model.Players.CollectionChanged += new System.Collections.Specialized.NotifyCollectionChangedEventHandler(Players_CollectionChanged);
-      model.Console.Messages.CollectionChanged += new NotifyCollectionChangedEventHandler(Messages_CollectionChanged);
+      model.Players.CollectionChanged += new CollectionChangedEventHandler(Players_CollectionChanged);
+      model.Console.Messages.CollectionChanged += new CollectionChangedEventHandler(Messages_CollectionChanged);
 
       View.EnableSideboarding(true);
       View.EnableStart(false);
       view.SetReadyState(false);
     }
 
-    void Messages_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void Messages_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           View.AddConsoleMessage((TextMessage)e.NewItems[0]);
           break;
       }
     }
 
-    void Players_CollectionChanged(object sender, System.Collections.Specialized.NotifyCollectionChangedEventArgs e)
+    void Players_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       switch(e.Action)
       { 
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           View.AddPlayer(((PlayerModel)e.NewItems[0]).Player);
           break;
-        case NotifyCollectionChangedAction.Remove:
+        case CollectionChangedAction.Remove:
           View.RemovePlayer(((PlayerModel)e.OldItems[0]).Player);
           break;
-        case NotifyCollectionChangedAction.Reset:
+        case CollectionChangedAction.Reset:
           View.ClearPlayers();
           break;
       }

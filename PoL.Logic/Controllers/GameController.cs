@@ -20,7 +20,6 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 using System;
 using System.Collections.Generic;
 using System.Collections.Specialized;
-using System.Collections.ObjectModel;
 using System.Linq;
 using System.Text;
 using System.Windows;
@@ -193,7 +192,6 @@ namespace PoL.Logic.Controllers
       View.ProgressMax = cardCount;
       View.ProgressMessage = string.Empty;
       View.ShowProgress(true);
-      string progressMessage = servicesProvider.SystemStringsService.GetString("GAME", "MSG_UPDATING");
       try
       {
         foreach(PlayerModel player in Model.Players)
@@ -263,12 +261,12 @@ namespace PoL.Logic.Controllers
         }
     }
 
-    void Sectors_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void Sectors_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       SectorModel sector = null;
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           sector = (SectorModel)e.NewItems[0];
           Attach_Sector(sector);          
           break;
@@ -327,28 +325,27 @@ namespace PoL.Logic.Controllers
         View.CloseDisplay();
     }
 
-    void Lookups_CollectionChanged(object sender, NotifyCollectionChangedEventArgs args)
+    void Lookups_CollectionChanged(object sender, CollectionChangedEventArgs args)
     {
-      ModelCollection lookups = (ModelCollection)sender;
       LookupModel lookup = null;
       switch(args.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           lookup = (LookupModel)args.NewItems[0];
           Attach_Lookup(lookup);
           break;
-        case NotifyCollectionChangedAction.Remove:
+        case CollectionChangedAction.Remove:
           lookup = (LookupModel)args.OldItems[0];
           Detach_Lookup(lookup);
           break;
       }
     }
 
-    void ConsoleMessages_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void ConsoleMessages_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           {
             TextMessage msg = (TextMessage)e.NewItems[0];
             View.AddConsoleMessage(msg);
@@ -362,27 +359,27 @@ namespace PoL.Logic.Controllers
       }
     }
 
-    void Cards_CollectionChanged(object sender, NotifyCollectionChangedEventArgs args)
+    void Cards_CollectionChanged(object sender, CollectionChangedEventArgs args)
     {
       ModelCollection cards = (ModelCollection)sender;
 
       IEnumerable<CardModel> items = null;
       switch(args.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           items = args.NewItems.Cast<CardModel>();
-          Attach_Cards(items, Enumerable.Range(args.NewStartingIndex, items.Count()));
+          Attach_Cards(items, Enumerable.Range(args.StartIndex, items.Count()));
           break;
-        case NotifyCollectionChangedAction.Remove:
+        case CollectionChangedAction.Remove:
           items = args.OldItems.Cast<CardModel>();
           Detach_Cards(items, (SectorModel)cards.Container, true);
           break;
-        case NotifyCollectionChangedAction.Move:
-          View.MoveCard(((CardModel)args.OldItems[0]).Key, args.NewStartingIndex);
+        case CollectionChangedAction.Move:
+          View.MoveCard(((CardModel)args.OldItems[0]).Key, args.StartIndex);
           break;
-        case NotifyCollectionChangedAction.Replace:
-          throw new NotSupportedException("Replace NotifyCollectionChangedAction not supported!");
-        case NotifyCollectionChangedAction.Reset:
+        case CollectionChangedAction.Replace:
+          throw new NotSupportedException("Replace CollectionChangedAction not supported!");
+        case CollectionChangedAction.Reset:
           // cleared or shuffled
           if(args.OldItems != null)
           {
@@ -397,7 +394,7 @@ namespace PoL.Logic.Controllers
       }
     }
 
-    void LookupCards_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void LookupCards_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       ModelCollection lookupKeys = (ModelCollection)sender;
       LookupModel lookup = (LookupModel)lookupKeys.Container;
@@ -405,19 +402,19 @@ namespace PoL.Logic.Controllers
       LookupCardModel lookupCard = null;
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           lookupCard = (LookupCardModel)e.NewItems[0];
-          View.AddLookupCard(lookup.Key, lookupCard.Key, lookupCard.Hidden, Model.GetCardByKey(lookupCard.Key).Data, e.NewStartingIndex);
+          View.AddLookupCard(lookup.Key, lookupCard.Key, lookupCard.Hidden, Model.GetCardByKey(lookupCard.Key).Data, e.StartIndex);
           break;
-        case NotifyCollectionChangedAction.Remove:
+        case CollectionChangedAction.Remove:
           lookupCard = (LookupCardModel)e.OldItems[0];
           View.RemoveLookupCard(lookup.Key, lookupCard.Key);
           break;
-        case NotifyCollectionChangedAction.Move:
+        case CollectionChangedAction.Move:
           lookupCard = (LookupCardModel)e.OldItems[0];
-          View.MoveLookupCard(lookup.Key, lookupCard.Key, e.NewStartingIndex);
+          View.MoveLookupCard(lookup.Key, lookupCard.Key, e.StartIndex);
           break;
-        case NotifyCollectionChangedAction.Reset:
+        case CollectionChangedAction.Reset:
           View.ClearLookupCards(lookup.Key);
           foreach(LookupCardModel c in lookup.Cards)
             View.AddLookupCard(lookup.Key, c.Key, c.Hidden, Model.GetCardByKey(c.Key).Data, -1);
@@ -425,16 +422,16 @@ namespace PoL.Logic.Controllers
       }
     }
 
-    void Tokens_CollectionChanged(object sender, NotifyCollectionChangedEventArgs e)
+    void Tokens_CollectionChanged(object sender, CollectionChangedEventArgs e)
     {
       TokenModel token = null;
       switch(e.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           token = (TokenModel)e.NewItems[0];
           Attach_Token(token);
           break;
-        case NotifyCollectionChangedAction.Remove:
+        case CollectionChangedAction.Remove:
           token = (TokenModel)e.OldItems[0];
           Detach_Token(token);
           break;
@@ -537,9 +534,8 @@ namespace PoL.Logic.Controllers
 
     void Attach_Lookup(LookupModel lookup)
     {
-      GameModel game = (GameModel)lookup.Parent;
       View.OpenSectorLookup(lookup.Key, lookup.Rules, lookup.Player.Key, lookup.ReadOnly, lookup.Sector.Key);
-      lookup.Cards.CollectionChanged += new NotifyCollectionChangedEventHandler(LookupCards_CollectionChanged);
+      lookup.Cards.CollectionChanged += new CollectionChangedEventHandler(LookupCards_CollectionChanged);
       foreach(LookupCardModel c in lookup.Cards)
         View.AddLookupCard(lookup.Key, c.Key, c.Hidden, Model.GetCardByKey(c.Key).Data, -1);
     }
@@ -548,7 +544,7 @@ namespace PoL.Logic.Controllers
     {
       View.CloseSectorLookup(lookup.Key);
 
-      lookup.Cards.CollectionChanged -= new NotifyCollectionChangedEventHandler(LookupCards_CollectionChanged);
+      lookup.Cards.CollectionChanged -= new CollectionChangedEventHandler(LookupCards_CollectionChanged);
     }
 
     void Attach_Card(CardModel card, int index)
@@ -613,15 +609,15 @@ namespace PoL.Logic.Controllers
       if(attach)
       {
         Model.RestartNotified += new EventHandler(GameModel_RestartNotified);
-        Model.Lookups.CollectionChanged += new NotifyCollectionChangedEventHandler(Lookups_CollectionChanged);
-        Model.Console.Messages.CollectionChanged += new NotifyCollectionChangedEventHandler(ConsoleMessages_CollectionChanged);
+        Model.Lookups.CollectionChanged += new CollectionChangedEventHandler(Lookups_CollectionChanged);
+        Model.Console.Messages.CollectionChanged += new CollectionChangedEventHandler(ConsoleMessages_CollectionChanged);
         Model.CardDisplay.Visible.Changed += new EventHandler<ChangedEventArgs<bool>>(CardDisplay_VisibleChanged);
       }
       else
       {
         Model.RestartNotified -= new EventHandler(GameModel_RestartNotified);
-        Model.Lookups.CollectionChanged -= new NotifyCollectionChangedEventHandler(Lookups_CollectionChanged);
-        Model.Console.Messages.CollectionChanged -= new NotifyCollectionChangedEventHandler(ConsoleMessages_CollectionChanged);
+        Model.Lookups.CollectionChanged -= new CollectionChangedEventHandler(Lookups_CollectionChanged);
+        Model.Console.Messages.CollectionChanged -= new CollectionChangedEventHandler(ConsoleMessages_CollectionChanged);
         Model.CardDisplay.Visible.Changed -= new EventHandler<ChangedEventArgs<bool>>(CardDisplay_VisibleChanged);
       }
     }
@@ -631,12 +627,12 @@ namespace PoL.Logic.Controllers
       if(attach)
       {
         player.Points.Changed += new EventHandler<ChangedEventArgs<int>>(Points_Changed);
-        player.Sectors.CollectionChanged += new NotifyCollectionChangedEventHandler(Sectors_CollectionChanged);
+        player.Sectors.CollectionChanged += new CollectionChangedEventHandler(Sectors_CollectionChanged);
       }
       else
       {
         player.Points.Changed -= new EventHandler<ChangedEventArgs<int>>(Points_Changed);
-        player.Sectors.CollectionChanged -= new NotifyCollectionChangedEventHandler(Sectors_CollectionChanged);
+        player.Sectors.CollectionChanged -= new CollectionChangedEventHandler(Sectors_CollectionChanged);
       }
     }
 
@@ -645,12 +641,12 @@ namespace PoL.Logic.Controllers
       if(attach)
       {
         sector.DataChanged += new EventHandler(Sector_DataChanged);
-        sector.Cards.CollectionChanged += new NotifyCollectionChangedEventHandler(Cards_CollectionChanged);
+        sector.Cards.CollectionChanged += new CollectionChangedEventHandler(Cards_CollectionChanged);
       }
       else
       {
         sector.DataChanged -= new EventHandler(Sector_DataChanged);
-        sector.Cards.CollectionChanged -= new NotifyCollectionChangedEventHandler(Cards_CollectionChanged);
+        sector.Cards.CollectionChanged -= new CollectionChangedEventHandler(Cards_CollectionChanged);
       }
     }
 
@@ -679,7 +675,7 @@ namespace PoL.Logic.Controllers
         card.Position.Changed += new EventHandler<ChangedEventArgs<CardPosition>>(CardPosition_Changed);
         card.DataChanged += new EventHandler(Card_DataChanged);
         card.CustomCharacteristics.Changed += new EventHandler<ChangedEventArgs<string>>(CardCustomCharacteristics_Changed);
-        card.Tokens.CollectionChanged += new NotifyCollectionChangedEventHandler(Tokens_CollectionChanged);
+        card.Tokens.CollectionChanged += new CollectionChangedEventHandler(Tokens_CollectionChanged);
       }
       else
       {
@@ -689,7 +685,7 @@ namespace PoL.Logic.Controllers
         card.Position.Changed -= new EventHandler<ChangedEventArgs<CardPosition>>(CardPosition_Changed);
         card.DataChanged -= new EventHandler(Card_DataChanged);
         card.CustomCharacteristics.Changed -= new EventHandler<ChangedEventArgs<string>>(CardCustomCharacteristics_Changed);
-        card.Tokens.CollectionChanged -= new NotifyCollectionChangedEventHandler(Tokens_CollectionChanged);
+        card.Tokens.CollectionChanged -= new CollectionChangedEventHandler(Tokens_CollectionChanged);
       }
     }
 

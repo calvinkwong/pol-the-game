@@ -88,7 +88,6 @@
     <Compile Include="Command\NetRedoCommand.cs" />
     <Compile Include="Command\NetUndoCommand.cs" />
     <Compile Include="ComponentModel\Model.cs" />
-    <Compile Include="ComponentModel\ModelCollection.cs" />
     <Compile Include="Extensions.cs" />
     <Compile Include="KeyGen.cs" />
     <Compile Include="MoaRNG.cs" />
@@ -101,6 +100,7 @@
     <Compile Include="Serializer.cs" />
     <Compile Include="SortableList.cs" />
     <Compile Include="Utils.cs" />
+    <Compile Include="ComponentModel\ModelCollection.cs" />
   </ItemGroup>
   <ItemGroup>
     <ProjectReference Include="..\Communication\Communication.csproj">
