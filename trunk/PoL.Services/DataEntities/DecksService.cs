@@ -23,7 +23,7 @@ using System.Data.OleDb;
 using System.IO;
 using System.Xml;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
+using Patterns.ComponentModel;
 using System.Text;
 using Patterns;
 using PoL.Configuration;

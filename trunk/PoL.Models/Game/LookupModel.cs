@@ -19,7 +19,6 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 
 using System;
 using System.Collections.Generic;
-using System.Collections.ObjectModel;
 using System.Collections.Specialized;
 using System.Linq;
 using System.Text;
@@ -64,18 +63,18 @@ namespace PoL.Models.Game
         case LookupStyle.All:
         case LookupStyle.KeepVisibleTop:
         case LookupStyle.Top:
-          this.Sector.Cards.CollectionChanged += new NotifyCollectionChangedEventHandler(Cards_CollectionChanged);
-          for(i = 0; i < sector.Cards.Count; i++)
+          this.Sector.Cards.CollectionChanged += new CollectionChangedEventHandler(Cards_CollectionChanged);
+          for(i = 0; i < sector.Cards.Count(); i++)
           {
             if(this.Rules.Style == LookupStyle.Top && i < Rules.Amount)
-              visibleCards.Add(sector.Cards[i].Key);
-            InsertCard(sector.Cards[i].Key, i);
+              visibleCards.Add(sector.Cards.ElementAt(i).Key);
+            InsertCard(sector.Cards.ElementAt(i).Key, i);
           }
           break;
       }
     }
 
-    void Cards_CollectionChanged(object sender, NotifyCollectionChangedEventArgs args)
+    void Cards_CollectionChanged(object sender, CollectionChangedEventArgs args)
     {
       if(disabled)
         return;
@@ -83,20 +82,20 @@ namespace PoL.Models.Game
       IEnumerable<CardModel> items = null;
       switch(args.Action)
       {
-        case NotifyCollectionChangedAction.Add:
+        case CollectionChangedAction.Add:
           items = args.NewItems.Cast<CardModel>();
           foreach(var card in items)
-            InsertCard(card.Key, args.NewStartingIndex);
+            InsertCard(card.Key, args.StartIndex);
           break;
-        case NotifyCollectionChangedAction.Remove:
+        case CollectionChangedAction.Remove:
           items = args.OldItems.Cast<CardModel>();
           foreach(var card in items)
             RemoveCard(card.Key);
           break;
-        case NotifyCollectionChangedAction.Move:
-          MoveCard(((CardModel)args.OldItems[0]).Key, args.OldStartingIndex, args.NewStartingIndex);
+        case CollectionChangedAction.Move:
+          MoveCard(((CardModel)args.OldItems[0]).Key, args.StartIndex, args.EndIndex);
           break;
-        case NotifyCollectionChangedAction.Reset:
+        case CollectionChangedAction.Reset:
           ResetCards();
           break;
       }
@@ -112,8 +111,8 @@ namespace PoL.Models.Game
           disabled = true;
         else
         {
-          for(int i = 0; i < Sector.Cards.Count; i++)
-            InsertCard(Sector.Cards[i].Key, i);
+          for(int i = 0; i < Sector.Cards.Count(); i++)
+            InsertCard(Sector.Cards.ElementAt(i).Key, i);
         }
       }
       finally
@@ -128,7 +127,7 @@ namespace PoL.Models.Game
       {
         case LookupStyle.KeepVisibleTop:
           {
-            int upperIndex = Math.Min(Sector.Cards.Count, this.Rules.Amount) - 1;
+            int upperIndex = Math.Min(Sector.Cards.Count(), this.Rules.Amount) - 1;
             if(oldStartingIndex <= upperIndex)
             {
               if(newStartingIndex <= upperIndex)
@@ -148,7 +147,7 @@ namespace PoL.Models.Game
             Cards.Move(oldStartingIndex, newStartingIndex);
           else
           {
-            int upperIndex = this.Cards.Count - 1;
+            int upperIndex = this.Cards.Count() - 1;
             if(oldStartingIndex <= upperIndex)
             {
               if(newStartingIndex <= upperIndex)
@@ -171,9 +170,9 @@ namespace PoL.Models.Game
         Cards.Remove(lookupCard);
         if(Rules.Style == LookupStyle.KeepVisibleTop)
         {
-          int upperIndex = Math.Min(Sector.Cards.Count, this.Rules.Amount) - 1;
-          if((this.Cards.Count - 1) < upperIndex)
-            InsertCard(Sector.Cards[upperIndex].Key, upperIndex);
+          int upperIndex = Math.Min(Sector.Cards.Count(), this.Rules.Amount) - 1;
+          if((this.Cards.Count() - 1) < upperIndex)
+            InsertCard(Sector.Cards.ElementAt(upperIndex).Key, upperIndex);
         }
       }
     }
@@ -189,12 +188,12 @@ namespace PoL.Models.Game
           Cards.Insert(index, lookupCard);
           break;
         case LookupStyle.KeepVisibleTop:
-          upperIndex = Math.Min(Sector.Cards.Count, this.Rules.Amount) - 1;
+          upperIndex = Math.Min(Sector.Cards.Count(), this.Rules.Amount) - 1;
           if(index <= upperIndex)
           {
             lookupCard = new LookupCardModel(cardKey);
             Cards.Insert(index, lookupCard);
-            if((this.Cards.Count-1) > upperIndex)
+            if((this.Cards.Count()-1) > upperIndex)
               Cards.Remove(Cards.Last());
           }
           break;

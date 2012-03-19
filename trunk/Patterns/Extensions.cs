@@ -21,7 +21,7 @@ using System;
 using System.Collections.Generic;
 using System.Linq;
 using System.Text;
-using System.Collections.ObjectModel;
+using Patterns.ComponentModel;
 
 namespace Patterns
 {
@@ -40,9 +40,9 @@ namespace Patterns
       //    collection.Move(i, stdRnd.Next(collection.Count));
 
       MoaRNG moaRnd = new MoaRNG(seed);
-      for(int k = 0; k <= Math.Min(60, collection.Count); k++)
-        for(int i = 0; i < collection.Count; i++)
-          collection.Move(i, i + moaRnd.RandomInt((uint)(collection.Count - i)));
+      for(int k = 0; k <= Math.Min(60, collection.Count()); k++)
+        for(int i = 0; i < collection.Count(); i++)
+          collection.Move(i, i + moaRnd.RandomInt((uint)(collection.Count() - i)));
     }
   }
 }

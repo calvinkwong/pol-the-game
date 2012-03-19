@@ -25,7 +25,7 @@ using System.Text;
 using Patterns.Command;
 using PoL.Services.DataEntities;
 using PoL.Common;
-using System.Collections.ObjectModel;
+using Patterns.ComponentModel;
 using PoL.Models.SideboardingEditor;
 
 namespace PoL.Logic.Commands.SideboardingEditor

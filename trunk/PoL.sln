@@ -23,6 +23,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoL.Test", "PoL.Test\PoL.Te
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoL.WinFormsView", "PoL.WinFormsView\PoL.WinFormsView.csproj", "{9B9979D9-EE51-4BA9-AB5A-8DC376B5694A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PoL.Tests", "PoL.Tests\PoL.Tests.csproj", "{6201D279-196A-489B-9119-F30AE25B6ADC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug No Sign|Any CPU = Debug No Sign|Any CPU
@@ -78,6 +80,24 @@ Global
 		{5CC0424B-E57E-4DAE-8EAA-05A61019C7BF}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
 		{5CC0424B-E57E-4DAE-8EAA-05A61019C7BF}.Release|Mixed Platforms.Build.0 = Release|Any CPU
 		{5CC0424B-E57E-4DAE-8EAA-05A61019C7BF}.Release|x86.ActiveCfg = Release|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug No Sign|Any CPU.ActiveCfg = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug No Sign|Any CPU.Build.0 = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug No Sign|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug No Sign|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug No Sign|x86.ActiveCfg = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug No Sign|x86.Build.0 = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug|Mixed Platforms.ActiveCfg = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug|Mixed Platforms.Build.0 = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Debug|x86.Build.0 = Debug|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Release|Mixed Platforms.ActiveCfg = Release|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Release|Mixed Platforms.Build.0 = Release|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Release|x86.ActiveCfg = Release|Any CPU
+		{6201D279-196A-489B-9119-F30AE25B6ADC}.Release|x86.Build.0 = Release|Any CPU
 		{6EEF9ABA-6762-4A72-8B14-3E9312073DCF}.Debug No Sign|Any CPU.ActiveCfg = Debug No Sign|Any CPU
 		{6EEF9ABA-6762-4A72-8B14-3E9312073DCF}.Debug No Sign|Any CPU.Build.0 = Debug No Sign|Any CPU
 		{6EEF9ABA-6762-4A72-8B14-3E9312073DCF}.Debug No Sign|Mixed Platforms.ActiveCfg = Debug No Sign|Any CPU

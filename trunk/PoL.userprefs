@@ -2,13 +2,30 @@
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug No Sign" />
   <MonoDevelop.Ide.Workbench ActiveDocument="Patterns/ComponentModel/ModelCollection.cs">
     <Files>
-      <File FileName="Patterns/ComponentModel/ModelCollection.cs" Line="128" Column="24" />
+      <File FileName="Patterns/ComponentModel/ModelCollection.cs" Line="176" Column="40" />
+      <File FileName="Patterns/ObservableCollection.cs" Line="25" Column="35" />
+      <File FileName="PoL.Tests/ObservableCollectionTest.cs" Line="23" Column="33" />
+      <File FileName="PoL.Tests/ModelCollectionTest.cs" Line="5" Column="16" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="PoL.Logic" selected="True" />
+          <Node name="Patterns" expanded="True" selected="True">
+            <Node name="ComponentModel" expanded="True" />
+          </Node>
+          <Node name="PoL.Tests" expanded="True">
+            <Node name="References" expanded="True" />
+          </Node>
         </State>
+      </Pad>
+      <Pad Id="ClassPad">
+        <State expanded="True" selected="True" />
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
+      </Pad>
+      <Pad Id="MonoDevelop.NUnit.TestPad">
+        <State expanded="True" selected="True" />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>

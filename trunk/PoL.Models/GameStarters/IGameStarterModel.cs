@@ -22,7 +22,7 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using PoL.Models.Game;
-using System.Collections.ObjectModel;
+using Patterns.ComponentModel;
 
 namespace PoL.Models.GameStarters
 {

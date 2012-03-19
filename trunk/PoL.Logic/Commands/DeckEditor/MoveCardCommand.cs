@@ -26,7 +26,7 @@ using Patterns.Command;
 using PoL.Models.DeckEditor;
 using PoL.Services.DataEntities;
 using PoL.Common;
-using System.Collections.ObjectModel;
+using Patterns.ComponentModel;
 
 namespace PoL.Logic.Commands.DeckEditor
 {
