@@ -326,17 +326,11 @@ namespace Patterns.ComponentModel
 	{
 		Model container;
 		
-		public ModelCollection(params Model[] models)
-			: base(models)
-		{
-		}
-		
-		public ModelCollection WithContainer(Model container)
+		public ModelCollection(Model container = null)
 		{
 			this.container = container;
 			foreach(var item in this) 
 				item.SetParent(container);
-			return this;
 		}
 		
 		public override void Clear()

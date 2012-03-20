@@ -10,25 +10,27 @@ namespace PoL.Tests
 	public class ModelCollectionTest
 	{
 		[Test]
-		public void ShouldAcceptModelsInConstruction()
+		public void ShouldAddItemsInBlock()
 		{
-			var models = new ModelCollection(new Model("a"), new Model("b"));
+			var models = new ModelCollection();
+			models.AddRange(new [] {new Model("a"), new Model("b")});
 			
 			Assert.That(models.Count(), Is.EqualTo(2));
 			Assert.That(models.Container, Is.Null);
 		}
 
 		[Test]
-		public void ShouldEmptyOnClearMessage()
+		public void ShouldClearItems()
 		{
-			var models = new ModelCollection(new Model("a"), new Model("b"));
+			var models = new ModelCollection();
+			models.AddRange(new [] {new Model("a"), new Model("b")});
 			models.Clear();
 			
 			Assert.That(models.Count(), Is.EqualTo(0));
 		}
 
 		[Test]
-		public void ShouldAppendOnAddMessage()
+		public void ShouldAddItems()
 		{
 			var models = new ModelCollection();
 			Model model_a = new Model("a");
@@ -40,22 +42,24 @@ namespace PoL.Tests
 		}
 
 		[Test]
-		public void ShouldRemoveOnRemoveMessage()
+		public void ShouldRemoveItems()
 		{
 			Model model = new Model("a");
-			var models = new ModelCollection(model);
+			var models = new ModelCollection();
+			models.Add(model);
 			models.Remove(model);
 			
 			Assert.That(models.Count(), Is.EqualTo(0));
 		}
 		
 		[Test]
-		public void ShouldSyncContainerAndParents()
+		public void ShouldSyncItsContainerWithModelParents()
 		{
 			var model_a = new Model ("a");
 			var model_b = new Model ("b");
 			var model_container = new Model("container");
-			var models = new ModelCollection(model_a, model_b).WithContainer(model_container);
+			var models = new ModelCollection(model_container);
+			models.AddRange(new [] {model_a, model_b});
 
 			Assert.That(models.Container, Is.EqualTo(model_container));
 			Assert.That(models.All(m => m.Parent == model_container));
