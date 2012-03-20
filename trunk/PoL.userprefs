@@ -1,20 +1,39 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug No Sign" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Patterns/ComponentModel/ModelCollection.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PoL.Tests/ModelCollectionTest.cs">
     <Files>
-      <File FileName="Patterns/ComponentModel/ModelCollection.cs" Line="176" Column="40" />
-      <File FileName="Patterns/ObservableCollection.cs" Line="25" Column="35" />
-      <File FileName="PoL.Tests/ObservableCollectionTest.cs" Line="23" Column="33" />
-      <File FileName="PoL.Tests/ModelCollectionTest.cs" Line="5" Column="16" />
+      <File FileName="PoL.Tests/ModelCollectionTest.cs" Line="36" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="Patterns" expanded="True" selected="True">
+          <Node name="Patterns" expanded="True">
             <Node name="ComponentModel" expanded="True" />
           </Node>
+          <Node name="PoL.Configuration" expanded="True" />
+          <Node name="PoL.Logic" expanded="True">
+            <Node name="Commands" expanded="True">
+              <Node name="DeckEditor" expanded="True" />
+              <Node name="Game" expanded="True" />
+              <Node name="SideboardingEditor" expanded="True" />
+            </Node>
+            <Node name="Controllers" expanded="True">
+              <Node name="GameStarters" expanded="True" />
+            </Node>
+          </Node>
+          <Node name="PoL.Models" expanded="True">
+            <Node name="Game" expanded="True" />
+            <Node name="GameStarters" expanded="True" />
+          </Node>
+          <Node name="PoL.Services" expanded="True">
+            <Node name="DataEntities" expanded="True" />
+          </Node>
           <Node name="PoL.Tests" expanded="True">
-            <Node name="References" expanded="True" />
+            <Node name="ModelCollectionTest.cs" selected="True" />
+          </Node>
+          <Node name="PoL.WinFormsView" expanded="True">
+            <Node name="DeckEditor" expanded="True" />
+            <Node name="Utils" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -32,6 +51,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="D:\Programmazione\PoL\src\PoL.Logic\Controllers\GameStarters\ClientConnector.cs" line="35" />
+      <Breakpoint file="/home/andy/dev/PoL/src/PoL.Logic/Controllers/GameController.cs" line="499" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
