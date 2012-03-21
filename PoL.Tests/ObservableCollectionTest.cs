@@ -11,71 +11,76 @@ namespace PoL.Tests
 	public class ObservableCollectionTest
 	{
 		CollectionChangedEventArgs args;
+		ObservableCollection<int> collection;
 		
-		[Test]
+		[SetUp]
 		public void SetUp()
 		{
 			args = new CollectionChangedEventArgs();
+			collection = new ObservableCollection<int>();
+			collection.CollectionChanged += CallbackCollectionChanged;			
+		}
+		
+		[TearDown]
+		public void teardown()
+		{
+			collection.CollectionChanged -= CallbackCollectionChanged;						
 		}
         
 		[Test]
-		public void Constructor()
+		public void ShouldAcceptItemsInConstruction()
 		{
-			var collection = new ObservableCollection<int>();
-			Assert.That(collection.Count(), Is.EqualTo(0));
 			collection = new ObservableCollection<int>(new [] {1,2,3});
 			Assert.That(collection.Count(), Is.EqualTo(3));
 			Assert.That(collection.ElementAt(1), Is.EqualTo(2));
 		}
         
 		[Test]
-		public void Add()
+		public void ShouldAddItems()
 		{
-			var collection = new ObservableCollection<int>(new [] {1,2,3});
 			collection.Add(4);
-			Assert.That(collection.Count(), Is.EqualTo(4));
-			Assert.That(collection.Last(), Is.EqualTo(4));
+			Assert.That(collection.Count(), Is.EqualTo(1));
+			Assert.That(collection.First(), Is.EqualTo(4));
 		}
 		
 		[Test]
-		public void Insert()
+		public void ShouldAddItemsAtGivenIndex()
 		{
-			var collection = new ObservableCollection<int>(new [] {1,2,3});
+			collection.AddRange(new [] {1,2,3});
 			collection.Insert(1, 4);
 			Assert.That(collection.Count(), Is.EqualTo(4));
 			Assert.That(collection.ElementAt(1), Is.EqualTo(4));
 		}
 
 		[Test]
-		public void Remove()
+		public void ShouldRemoveItems()
 		{
-			var collection = new ObservableCollection<int>(new [] {1,2,3});
+			collection.AddRange(new [] {1,2,3});
 			collection.Remove(1);
 			Assert.That(collection.Count(), Is.EqualTo(2));
 			Assert.That(collection.Last(), Is.EqualTo(3));
 		}
 
 		[Test]
-		public void Clear()
+		public void ShouldClearItems()
 		{
-			var collection = new ObservableCollection<int>(new [] {1,2,3});
+			collection.AddRange(new [] {1,2,3});
 			collection.Clear();
 			Assert.That(collection.Count(), Is.EqualTo(0));
 		}
 
 		[Test]
-		public void AddRange()
+		public void ShouldAddItemsInBlock()
 		{
-			var collection = new ObservableCollection<int>();        
 			collection.AddRange(new [] {1,2,3});
 			Assert.That(collection.Count(), Is.EqualTo(3));
 			Assert.That(collection.ElementAt(1), Is.EqualTo(2));
 		}
 
 		[Test]
-		public void Move()
+		public void ShouldMoveItemsAtGivenIndexes()
 		{
-			var collection = new ObservableCollection<int>(new [] {1,2,3});
+			collection.AddRange(new [] {1,2,3});
 			collection.Move(0, 2);
 			Assert.That(collection.ElementAt(0), Is.EqualTo(2));
 			Assert.That(collection.ElementAt(1), Is.EqualTo(3));
@@ -83,56 +88,61 @@ namespace PoL.Tests
 		}
 
 		[Test]
-		public void AddMessageSendsNotification()
+		public void ShouldNotifyWhenAddItem()
 		{
 			var item = 1;
-			var collection = new ObservableCollection<int>();
-			collection.CollectionChanged += CallbackCollectionChanged;
 			collection.Add(item);
 			Assert.That(args.NewItems.Count, Is.EqualTo(1));
 			Assert.That(args.OldItems.Count, Is.EqualTo(0));
 			Assert.That(args.Action, Is.EqualTo(CollectionChangedAction.Add));
 			Assert.That(args.StartIndex, Is.EqualTo(0));
 			Assert.That(args.NewItems, Is.EquivalentTo(new [] { item }));
-			collection.CollectionChanged -= CallbackCollectionChanged;
 		}
 
 		[Test]
-		public void RemoveMessageSendsNotification()
+		public void ShouldNotifyWhenMoveItem()
 		{
 			var items = new [] {1, 2};
-			var collection = new ObservableCollection<int>(items);
-			collection.CollectionChanged += CallbackCollectionChanged;
+			collection.AddRange(items);
+			collection.Move(0, 1);
+			Assert.That(args.NewItems.Count, Is.EqualTo(0));
+			Assert.That(args.OldItems.Count, Is.EqualTo(1));
+			Assert.That(args.Action, Is.EqualTo(CollectionChangedAction.Move));
+			Assert.That(args.StartIndex, Is.EqualTo(0));
+			Assert.That(args.EndIndex, Is.EqualTo(1));
+			Assert.That(args.OldItems, Is.EquivalentTo(new [] { 1 }));
+		}
+
+		[Test]
+		public void ShouldNotifyWhenRemoveItem()
+		{
+			var items = new [] {1, 2};
+			collection.AddRange(items);
 			collection.Remove(2);
 			Assert.That(args.NewItems.Count, Is.EqualTo(0));
 			Assert.That(args.OldItems.Count, Is.EqualTo(1));
 			Assert.That(args.Action, Is.EqualTo(CollectionChangedAction.Remove));
 			Assert.That(args.StartIndex, Is.EqualTo(1));
 			Assert.That(args.OldItems, Is.EquivalentTo(new [] { 2 }));
-			collection.CollectionChanged -= CallbackCollectionChanged;
 		}
 
 		[Test]
-		public void ClearMessageSendsNotification()
+		public void ShouldNotifyWhenClearItems()
 		{
 			var item = 1;
-			var collection = new ObservableCollection<int>(item);
-			collection.CollectionChanged += CallbackCollectionChanged;
+			collection.Add(item);
 			collection.Clear();
 			Assert.That(args.NewItems.Count, Is.EqualTo(0));
 			Assert.That(args.OldItems.Count, Is.EqualTo(1));
 			Assert.That(args.Action, Is.EqualTo(CollectionChangedAction.Reset));
 			Assert.That(args.StartIndex, Is.EqualTo(-1));
 			Assert.That(args.OldItems, Is.EquivalentTo(new [] { item }));
-			collection.CollectionChanged -= CallbackCollectionChanged;
 		}
 
 		[Test]
-		public void AddRangeMessageSendsNotification()
+		public void ShouldNotifyWhenAddItemsInBlock()
 		{
 			var items = new [] {1, 2};
-			var collection = new ObservableCollection<int>();
-			collection.CollectionChanged += CallbackCollectionChanged;
 			collection.AddRange(items);
 			Assert.That(args.NewItems.Count, Is.EqualTo(2));
 			Assert.That(args.OldItems.Count, Is.EqualTo(0));
@@ -143,23 +153,25 @@ namespace PoL.Tests
 		}
 		
 		[Test]
-		public void Suspension()
+		public void ShouldNotNotifyWhenSuspended()
 		{
-			var item = 1;
-			var collection = new ObservableCollection<int>(item);
-			collection.CollectionChanged += CallbackCollectionChanged;
 			collection.SuspendChangeNotifications();
 			collection.Add(3);
 			Assert.That(args.NewItems.Count, Is.EqualTo(0));
 			Assert.That(args.OldItems.Count, Is.EqualTo(0));
 			Assert.That(args.Action, Is.EqualTo(CollectionChangedAction.Add));
 			Assert.That(args.StartIndex, Is.EqualTo(-1));
+		}
+		
+		[Test]
+		public void ShouldNotifyAResetWhenResumed()
+		{
+			collection.SuspendChangeNotifications();
 			collection.ResumeChangeNotifications();
 			Assert.That(args.NewItems.Count, Is.EqualTo(0));
 			Assert.That(args.OldItems.Count, Is.EqualTo(0));
 			Assert.That(args.Action, Is.EqualTo(CollectionChangedAction.Reset));
 			Assert.That(args.StartIndex, Is.EqualTo(-1));
-			collection.CollectionChanged -= CallbackCollectionChanged;
 		}
 
 		void CallbackCollectionChanged(object sender, CollectionChangedEventArgs args)

@@ -41,12 +41,17 @@
   <ItemGroup>
     <Compile Include="ModelCollectionTest.cs" />
     <Compile Include="ObservableCollectionTest.cs" />
+    <Compile Include="CommunicationTest.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
   <ItemGroup>
     <ProjectReference Include="..\Patterns\Patterns.csproj">
       <Project>{5CC0424B-E57E-4DAE-8EAA-05A61019C7BF}</Project>
       <Name>Patterns</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Communication\Communication.csproj">
+      <Project>{8DD0505F-1E32-4141-B497-06D338710C47}</Project>
+      <Name>Communication</Name>
     </ProjectReference>
   </ItemGroup>
 </Project>
