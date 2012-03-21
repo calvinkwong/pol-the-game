@@ -165,19 +165,17 @@ Foundation, Inc., 51 Franklin Street, Fifth Floor, Boston, MA  02110-1301, USA.
 //    }
 //  }
 //}
-
 using System;
 using System.Linq;
 using System.Collections.Generic;
 
 namespace Patterns.ComponentModel
 {
-	public delegate void CollectionChangedEventHandler(object sender, CollectionChangedEventArgs args);
+	public delegate void CollectionChangedEventHandler(object sender,CollectionChangedEventArgs args);
 	
 	public class ObservableCollection<T> : IEnumerable<T>
 	{
 		public CollectionChangedEventHandler CollectionChanged;
-		
 		bool suspended = false;
 		List<T> collection = new List<T>();
 		
@@ -196,13 +194,11 @@ namespace Patterns.ComponentModel
 			return collection.GetEnumerator();
 		}
 		
-		public int Count
-		{
+		public int Count {
 			get { return collection.Count; }			
 		}
 		
-		public T this[int index]
-		{
+		public T this[int index] {
 			get { return collection[index]; }
 		}
 		
@@ -217,7 +213,7 @@ namespace Patterns.ComponentModel
 			collection.RemoveAt(fromIndex);
 			collection.Insert(toIndex, item);
 			var args = new CollectionChangedEventArgs(CollectionChangedAction.Move);
-			args.NewItems = new List<object> { item };
+			args.OldItems = new List<object> { item };
 			args.StartIndex = fromIndex;
 			args.EndIndex = toIndex;
 			OnCollectionChanged(args);
@@ -302,7 +298,6 @@ namespace Patterns.ComponentModel
 	{
 		Add = 0,
 		Remove = 1,
-		Replace = 2,
 		Move = 3,
 		Reset = 4,
 	}
@@ -346,6 +341,12 @@ namespace Patterns.ComponentModel
 			base.Add(model);
 		}
 		
+		public override void Insert(int index, Model model)
+		{
+			model.SetParent(container);
+			base.Insert(index, model);
+		}
+		
 		public override void AddRange(IEnumerable<Model> models)
 		{
 			foreach(var model in models) 
@@ -359,8 +360,7 @@ namespace Patterns.ComponentModel
 			base.Remove(model);
 		}
 		
-		public Model Container
-		{
+		public Model Container {
 			get { return container; }
 		}
 	}

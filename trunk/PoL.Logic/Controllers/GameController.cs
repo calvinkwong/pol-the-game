@@ -361,35 +361,30 @@ namespace PoL.Logic.Controllers
 
     void Cards_CollectionChanged(object sender, CollectionChangedEventArgs args)
     {
-      ModelCollection cards = (ModelCollection)sender;
+      ModelCollection cardCollection = (ModelCollection)sender;
 
-      IEnumerable<CardModel> items = null;
+      IEnumerable<CardModel> changedCards = null;
       switch(args.Action)
       {
         case CollectionChangedAction.Add:
-          items = args.NewItems.Cast<CardModel>();
-          Attach_Cards(items, Enumerable.Range(args.StartIndex, items.Count()));
+          changedCards = args.NewItems.Cast<CardModel>();
+          Attach_Cards(changedCards, Enumerable.Range(args.StartIndex, changedCards.Count()));
           break;
         case CollectionChangedAction.Remove:
-          items = args.OldItems.Cast<CardModel>();
-          Detach_Cards(items, (SectorModel)cards.Container, true);
+          changedCards = args.OldItems.Cast<CardModel>();
+          Detach_Cards(changedCards, (SectorModel)cardCollection.Container, true);
           break;
         case CollectionChangedAction.Move:
           View.MoveCard(((CardModel)args.OldItems[0]).Key, args.StartIndex);
           break;
-        case CollectionChangedAction.Replace:
-          throw new NotSupportedException("Replace CollectionChangedAction not supported!");
         case CollectionChangedAction.Reset:
-          // cleared or shuffled
-          if(args.OldItems != null)
+          if(args.OldItems.Count > 0)
           {
-            // cleared
-            SectorModel sector = (SectorModel)cards.Container;
-            items = args.OldItems.Cast<CardModel>();
-            Detach_Cards(items, sector, false);
+            changedCards = args.OldItems.Cast<CardModel>();
+            Detach_Cards(changedCards, (SectorModel)cardCollection.Container, false);
           }
-          View.ClearCards(cards.Container.Key);
-          View.AddCards(cards.Container.Key, cards.ToDictionary(c => c.Key, c => CardViewItem.FromModel((CardModel)c, -1)));
+          View.ClearCards(cardCollection.Container.Key);
+          View.AddCards(cardCollection.Container.Key, cardCollection.ToDictionary(c => c.Key, c => CardViewItem.FromModel((CardModel)c, -1)));
           break;
       }
     }
