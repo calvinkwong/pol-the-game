@@ -103,7 +103,10 @@ namespace Communication
     public void Disconnect()
     {
       if(clientChannel != null)
-        ((IContextChannel)clientChannel).Close();
+			{
+				if(((IContextChannel)clientChannel).State == CommunicationState.Opened)
+        	((IContextChannel)clientChannel).Close();
+			}
       else
         callbackChannel.Disconnect();
       lock(syncObject)
