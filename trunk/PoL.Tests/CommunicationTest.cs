@@ -25,21 +25,18 @@ namespace PoL.Tests
 		public void TearDown()
 		{
 			service.Stop();
+			service.MessageReceived -= HandleServiceMessageReceived; 
 		}
 		
 		[Test]
 		public void TestCase()
 		{
 			var client = new ServiceNetClient(IPAddress.Parse("127.0.0.1"), 8668);
-			client.Subscribe();
+			//client.Subscribe();
 			client.SendMessage(new Message());
-			for(int i = 0; i < 6; i++)
-			{
+			for(int i = 0; i < 6 && msg == null; i++)
 				Thread.Sleep(100);
-				if(msg != null)
-					break;
-			}
-			//client.Disconnect();
+			client.Disconnect();
 			Assert.That(msg, Is.Not.Null);
 		}
 
@@ -50,9 +47,6 @@ namespace PoL.Tests
 	}
 	
 	[Serializable]
-	class Message : INetMessage
-	{
-	}
-
+	class Message : INetMessage {}
 }
 
