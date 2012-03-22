@@ -1,45 +1,21 @@
 ﻿<Properties>
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug No Sign" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="PoL.Logic/Controllers/GameController.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="PoL.Test/TestView.cs">
     <Files>
-      <File FileName="PoL.Logic/Controllers/GameController.cs" Line="362" Column="10" />
-      <File FileName="Patterns/ComponentModel/ModelCollection.cs" Line="360" Column="1" />
-      <File FileName="Patterns/MVC/BaseController.cs" Line="37" Column="1" />
-      <File FileName="Patterns/ComponentModel/Model.cs" Line="65" Column="1" />
-      <File FileName="PoL.WinFormsView/Game/GameView.cs" Line="934" Column="1" />
-      <File FileName="PoL.Logic/Commands/Game/MoveCardsCommand.cs" Line="128" Column="1" />
+      <File FileName="PoL.Test/Program.cs" Line="1" Column="1" />
+      <File FileName="PoL.Test/TestView.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State expanded="True">
-          <Node name="Patterns" expanded="True">
-            <Node name="ComponentModel" expanded="True" />
-            <Node name="MVC" expanded="True" />
-          </Node>
-          <Node name="PoL.Logic" expanded="True">
-            <Node name="Commands" expanded="True">
-              <Node name="Game" expanded="True" />
-            </Node>
-            <Node name="Controllers" expanded="True">
-              <Node name="GameController.cs" selected="True" />
-            </Node>
-          </Node>
-          <Node name="PoL.Models" expanded="True">
-            <Node name="Game" expanded="True" />
-          </Node>
-          <Node name="PoL.Tests" expanded="True" />
-          <Node name="PoL.WinFormsView" expanded="True">
-            <Node name="Game" expanded="True" />
-          </Node>
+          <Node name="PoL.Test" expanded="True" selected="True" />
         </State>
       </Pad>
       <Pad Id="ClassPad">
         <State expanded="True" selected="True" />
       </Pad>
       <Pad Id="MonoDevelop.Debugger.WatchPad">
-        <State>
-          <Value>items</Value>
-        </State>
+        <State />
       </Pad>
       <Pad Id="MonoDevelop.NUnit.TestPad">
         <State expanded="True" selected="True" />
@@ -49,8 +25,7 @@
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore>
       <Breakpoint file="D:\Programmazione\PoL\src\PoL.Logic\Controllers\GameStarters\ClientConnector.cs" line="35" />
-      <Breakpoint file="/home/andy/dev/PoL/src/PoL.Logic/Controllers/GameController.cs" line="364" />
-      <Breakpoint file="/home/andy/dev/PoL/src/PoL.Logic/Controllers/GameController.cs" line="559" />
+      <Breakpoint file="/home/andy/dev/PoL/src/PoL.Logic/Controllers/GameController.cs" line="499" />
     </BreakpointStore>
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
